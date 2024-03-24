@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/under-radaren" rel="self" type="application/rss+xml" />
+    <title>Under radaren</title>
+    <link>https://www.dr.dk/lyd/p3/under-radaren-4957795255000</link>
+    <description>Ved du, hvad dine venner laver, når mørket falder på? I P3's podcast 'Under radaren' tager vi dig med ned i underverdener og møder mennesker, der opererer i det skjulte. Vi taler med ofre og gerningsmænd og undersøger alt det, der sker i skyggerne, lige for næsen på dig - under radaren.
+
+Har du et tip, vi skal undersøge?
+Skriv fortroligt til os på p3underradaren@protonmail.com</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:00:54 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/under-radaren.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:655e0345e8682f1fb602c5fb.jpg</url>
+      <title>Under radaren</title>
+      <link>https://www.dr.dk/lyd/p3/under-radaren-4957795255000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:655e0345e8682f1fb602c5fb.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122393743</guid>
+      <link>https://www.dr.dk/lyd/p3/under-radaren/under-radaren-1/piller-fra-helvede-3-3-det-sidste-skub-16122393743</link>
+      <title>Piller fra helvede 3:3 - Det sidste skub</title>
+      <description>Nicolaj vågner på gaden i Spanien uden sko på og har mistet både taske og pas. Og lige så langsomt går det op for ham og de andre drenge, at det må stoppe, hvis de ikke skal dø. 
+
+Vært og tilrettelægger: Sille Ugelvig.
+Producer og klip: Luna Lam.
+Tilrettelægger, lyddesign og musik: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Morten Narvedsen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Thu, 23 Nov 2023 05:02:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010003</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393743/40ee7b390a541ad7776cc74608e61f857bc4504bb708071f8a7eff97355c80d2.mp3" type="audio/mpeg" length="28701947" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122393742</guid>
+      <link>https://www.dr.dk/lyd/p3/under-radaren/under-radaren-1/piller-fra-helvede-2-3-det-foerste-doedsfald-16122393742</link>
+      <title>Piller fra helvede 2:3 - Det første dødsfald</title>
+      <description>Drengene finder ud af, at pillerne kan kurere tømmermænd og fjerne tankemylder. Men der går ikke længe, før pillerne overtager deres liv. Og pludselig dør en af deres tætte venner af en overdosis.
+
+Vært og tilrettelægger: Sille Ugelvig.
+Producer og klip: Luna Lam.
+Tilrettelægger, lyddesign og musik: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Morten Narvedsen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Thu, 23 Nov 2023 05:01:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010002</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393742/8c15f976aaca295eb79d4b5a595c029ad75f52630829da8d6f27f3992e27bb88.mp3" type="audio/mpeg" length="37360957" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122393741</guid>
+      <link>https://www.dr.dk/lyd/p3/under-radaren/under-radaren-1/piller-fra-helvede-1-3-en-eksplosion-i-hjernen-16122393741</link>
+      <title>Piller fra helvede 1:3 - En eksplosion i hjernen</title>
+      <description>I Ribe sidder 5 drenge, og om lidt tager de en pille, der kommer til at ændre deres liv. Pillen ser uskyldig ud - faktisk kan du lovligt hente den på apoteket med den rigtige recept i hånden. Men i de forkerte hænder, er den dødsensfarlig. 
+
+Vært og tilrettelægger: Sille Ugelvig.
+Producer og klip: Luna Lam.
+Tilrettelægger, lyddesign og musik: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Morten Narvedsen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Thu, 23 Nov 2023 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:13</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393741/b3933c9a1eeaadc620e757da32a96fce5ce2fcbe105208c389df10b95360da1d.mp3" type="audio/mpeg" length="29132790" />
+    </item>
+  </channel>
+</rss>

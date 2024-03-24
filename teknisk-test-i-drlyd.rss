@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/teknisk-test-i-drlyd" rel="self" type="application/rss+xml" />
+    <title>Fugle fra Qvisten</title>
+    <link>https://www.dr.dk/lyd/p1/fugle-fra-qvisten-4548246415000</link>
+    <description>&lt;a href="https://www.dr.dk/lyd/p1/fugle-fra-qvisten-4548246415000?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_content=podcastseries:teknisk-test-i-drlyd"&gt;Hør hele serien i DR Lyd allerede nu.&lt;/a&gt;
+Dette er en teknisk test..</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:07:55 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/teknisk-test-i-drlyd.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c17a443243f95e2c7add.jpg</url>
+      <title>Fugle fra Qvisten</title>
+      <link>https://www.dr.dk/lyd/p1/fugle-fra-qvisten-4548246415000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c17a443243f95e2c7add.jpg" />
+    <category>News</category>
+    <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">16122300108</guid>
+      <link>https://www.dr.dk/lyd/p1/fugle-fra-qvisten-4548246415000</link>
+      <title>Fredag 26. maj 2023</title>
+      <description>Kom helt ud på marken eller helt ind i sindet. Slap af, luk øjnene og nyd lyden af solsorten fra Qvisten. Glæd dig til dagens episode - &lt;a href=https://www.dr.dk/lyd/p1/teknisk-test-i-drlyd&gt;vi lyttes ved i DR Lyd.&lt;/a&gt;</description>
+      <pubDate>Fri, 26 May 2023 14:31:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:42</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300108/b13a62fb73e04360dd05dc1c7fa8ccd3c336ffa12a5315f2e5d41af371d32702.mp3" type="audio/mpeg" length="1014714" />
+    </item>
+  </channel>
+</rss>

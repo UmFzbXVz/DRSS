@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/vaer-her-nu-pa-p6-beat" rel="self" type="application/rss+xml" />
+    <title>vær.her.nu på P6 BEAT</title>
+    <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu-paa-p6-beat-2624250774000</link>
+    <description>Vært: Mads Axelsen.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:09:26 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/vaer-her-nu-pa-p6-beat.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c141443243f95e2c7a13.jpg</url>
+      <title>vær.her.nu på P6 BEAT</title>
+      <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu-paa-p6-beat-2624250774000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c141443243f95e2c7a13.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452426117</guid>
+      <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu-paa-p6-beat/vaer-her-nu-paa-p6-beat-2024/vaer-her-nu-paa-p6-beat-16452426117</link>
+      <title>Søndag 17. mar. 2024</title>
+      <description>Vært: Mads Axelsen.</description>
+      <pubDate>Sun, 17 Mar 2024 10:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452426117/461e7ee0069321a0a19966f378872965d499b764d44e5f9158247a77b0b8034b.mp3" type="audio/mpeg" length="168674327" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16452426107</guid>
+      <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu-paa-p6-beat/vaer-her-nu-paa-p6-beat-2024/vaer-her-nu-paa-p6-beat-16452426107</link>
+      <title>Søndag 10. mar. 2024</title>
+      <description>Vært: Mads Axelsen.</description>
+      <pubDate>Sun, 10 Mar 2024 10:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452426107/64753006ba2d776e519fe33d0bb32201e3f3d4a13b80d014c6c9675fca43148c.mp3" type="audio/mpeg" length="168674327" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16452426097</guid>
+      <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu-paa-p6-beat/vaer-her-nu-paa-p6-beat-2024/vaer-her-nu-paa-p6-beat-16452426097</link>
+      <title>Søndag 3. mar. 2024</title>
+      <description>Vært: Mads Axelsen.</description>
+      <pubDate>Sun, 03 Mar 2024 10:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452426097/eec7d3df3e003e2912c85b74c1d90fd8c396290ec4b3165c072e7899862f7d8b.mp3" type="audio/mpeg" length="168674327" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16452426087</guid>
+      <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu-paa-p6-beat/vaer-her-nu-paa-p6-beat-2024/vaer-her-nu-paa-p6-beat-16452426087</link>
+      <title>Søndag 25. feb. 2024</title>
+      <description>Vært: Mads Axelsen.</description>
+      <pubDate>Sun, 25 Feb 2024 10:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452426087/866d4537c663dee54512b98b188c158a8ad08f26da730605863e06515140284b.mp3" type="audio/mpeg" length="168674903" />
+    </item>
+  </channel>
+</rss>
