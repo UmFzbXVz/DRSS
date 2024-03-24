@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/studie-5" rel="self" type="application/rss+xml" />
+    <title>Studie 5</title>
+    <link>https://www.dr.dk/lyd/p5/studie-5-2152808507000</link>
+    <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:14:18 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/studie-5.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65952589846e9f8fc0393516.jpg</url>
+      <title>Studie 5</title>
+      <link>https://www.dr.dk/lyd/p5/studie-5-2152808507000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65952589846e9f8fc0393516.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429125</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-lars-muhl-puster-nyt-liv-i-daisy-15452429125</link>
+      <title>Lars Muhl puster nyt liv i DAISY</title>
+      <description>DAISY blev dannet sidt i 60erne og blev i 1970 udnævnt som ugens single på Radio Luxemburg, med deres single "Lucifer". 
+Nu er DAISY tilbage med EP'en WE ARE FOREVER, som udkommer d. 19. april 2024. 
+Lars Muhl er gæst og fortæller hvorfor DAISY er tilbage.
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Fri, 22 Mar 2024 14:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429125/a5e4d2edf1cf401f4e0b3eb42c184ef760eedf66584728d358c0a2442cfab15d.mp3" type="audio/mpeg" length="168675142" />
+    </item>
+    <item>
+      <guid isPermaLink="false">15452429124</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-bossa-nova-har-lidt-mere-charme-end-andre-nogensinde-faar-15452429124</link>
+      <title>Bossa Nova har lidt mere charme end andre nogensinde får</title>
+      <description>I Studie 5 nyder vi i dag drømmen om det tilbagelænede liv til tonerne af helt ny Bossa Nova fra bla. Andreas Odbjerg, Emma Sehested Høeg
+og Maria Montell.
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Thu, 21 Mar 2024 14:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429124/cf9cb0c5324350a300d49e97f0baaa37f608830c247048084e3a6c87b5e1c860.mp3" type="audio/mpeg" length="168675076" />
+    </item>
+    <item>
+      <guid isPermaLink="false">15452429123</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-fem-staerke-med-henning-15452429123</link>
+      <title>Fem stærke med Henning</title>
+      <description>Henning Stærk fylder 75 i dag. Hvilke fem sange er de stærkeste?
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Wed, 20 Mar 2024 14:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429123/1e98e9f8394cc5e8b762de42f1b60fdeb397584693d76b57fce889cc904a6dc3.mp3" type="audio/mpeg" length="168674984" />
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/sallys-scientology-podcast" rel="self" type="application/rss+xml" />
+    <title>Sallys Scientology</title>
+    <link>https://www.dr.dk/lyd/p1/sallys-scientology-3275412286000</link>
+    <description>Efter en hård barndom på landet flytter Sally til 1980'erne København. Her tiltrækkes hun af Scientologys opskrift på et lykkeligt liv. Hun bliver udannet auditor, kirkens svar på en terapeut, og kommer til at gennemføre de berygtede og dybt personlige 'confessionals', også kendt som sikkerhedstjek. Her skal medlemmerne betro deres mest følsomme, intime og ofte også seksuelle hemmeligheder til kirken.      
+Medvirkende: Sally Kragh Andersen og skuespiller Julie Brochorst Andersen.
+Musik: Chick Corea.  
+Klip og mix: Jacob Heldt.  
+Redaktør: Torben Brandt. 
+Idé og tilrettelæggelse: Mikkel Clausen.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:08:04 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/sallys-scientology-podcast.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bce8443243f95e2c3619.jpg</url>
+      <title>Sallys Scientology</title>
+      <link>https://www.dr.dk/lyd/p1/sallys-scientology-3275412286000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bce8443243f95e2c3619.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <item>
+      <guid isPermaLink="false">11032100702</guid>
+      <link>https://www.dr.dk/lyd/p1/sallys-scientology/sallys-scientology-1/sallys-scientology-2-2-11032100702</link>
+      <title>Sallys Scientology 2:2</title>
+      <description>Efter en hård barndom på landet flytter Sally til 1980'erne København. Her tiltrækkes hun af Scientologys opskrift på et lykkeligt liv. Hun bliver udannet auditor, kirkens svar på en terapeut, og kommer til at gennemføre de berygtede og dybt personlige 'confessionals', også kendt som sikkerhedstjek. Her skal medlemmerne betro deres mest følsomme, intime og ofte også seksuelle hemmeligheder til kirken.    Medvirkende: Sally Kragh Andersen og skuespiller Julie Brochorst Andersen. 
+Musik: Chick Corea.
+Klip og mix: Jacob Heldt.
+Redaktør: Torben Brandt. 
+Idé og tilrettelæggelse: Mikkel Clausen.</description>
+      <pubDate>Thu, 02 Dec 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010002</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:30:10</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032100702/66b53aa7013be0abf49aa4d3d6d33c633b552e8e5348dc495902d9721a600059.mp3" type="audio/mpeg" length="43461549" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11032100701</guid>
+      <link>https://www.dr.dk/lyd/p1/sallys-scientology/sallys-scientology-1/sallys-scientology-1-2-11032100701</link>
+      <title>Sallys Scientology 1:2</title>
+      <description>Efter en hård barndom på landet flytter Sally til 1980'erne København. Her tiltrækkes hun af Scientologys opskrift på et lykkeligt liv. Hun bliver udannet auditor, kirkens svar på en terapeut, og kommer til at gennemføre de berygtede og dybt personlige 'confessionals', også kendt som sikkerhedstjek. Her skal medlemmerne betro deres mest følsomme, intime og ofte også seksuelle hemmeligheder til kirken.   
+Medvirkende: Sally Kragh Andersen og skuespiller Julie Brochorst Andersen. 
+Musik: Chick Corea.
+Klip og mix: Jacob Heldt.
+Redaktør: Torben Brandt. 
+Idé og tilrettelæggelse: Mikkel Clausen.</description>
+      <pubDate>Thu, 02 Dec 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:30:10</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032100701/069431d429d3789ec558c8252a40e3223cef0add2459cb0eecb84f4843e77fc2.mp3" type="audio/mpeg" length="43460973" />
+    </item>
+  </channel>
+</rss>

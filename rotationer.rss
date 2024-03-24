@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/rotationer" rel="self" type="application/rss+xml" />
+    <title>Rotationer</title>
+    <link>https://www.dr.dk/lyd/p6beat/rotationer-4200702495000</link>
+    <description>I Rotationer giver Henrik dig perspektiv og indblik i de nye sange, som får kærlighed og æterplads på din yndlingskanal. Hvem står de kunstnere der roterer på P6 BEAT på skuldrene af? - og hvem kommer i slipstrømmen af dem? Vi skal også ned i den musik der roterer hos din lokale pladepusher, og ikke mindst i dit bankende musikhjerte.
+Vært: Henrik Aagaard.
+Produceret for DR af Munck Studios København.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:14:09 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/rotationer.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg</url>
+      <title>Rotationer</title>
+      <link>https://www.dr.dk/lyd/p6beat/rotationer-4200702495000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <item>
+      <guid isPermaLink="false">16122465122</guid>
+      <link>https://www.dr.dk/lyd/p6beat/rotationer/rotationer-2024/rotationer-16122465122</link>
+      <title>Tirsdag 19. mar. 2024</title>
+      <description>To timer med de toner der roterer i din radio, og i dit bankende musikhjerter.  
+Vært: Henrik Aagaard.
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Tue, 19 Mar 2024 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122465122/1a350f870c5374ebfdcea02906d7f472e85398b97393947a686c26a78ee32cb3.mp3" type="audio/mpeg" length="165795016" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122465112</guid>
+      <link>https://www.dr.dk/lyd/p6beat/rotationer/rotationer-2024/rotationer-16122465112</link>
+      <title>Tirsdag 12. mar. 2024</title>
+      <description>To timer med de toner der roterer i din radio, og i dit bankende musikhjerter.  
+Vært: Henrik Aagaard.
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Tue, 12 Mar 2024 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122465112/97ab26913fdbde1eaedfacb0dff6cd9e7b6399d34179d3b75265611e33ca0435.mp3" type="audio/mpeg" length="165795016" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122465102</guid>
+      <link>https://www.dr.dk/lyd/p6beat/rotationer/rotationer-2024/rotationer-16122465102</link>
+      <title>Tirsdag 5. mar. 2024</title>
+      <description>To timer med de toner der roterer i din radio, og i dit bankende musikhjerter.  
+Vært: Henrik Aagaard.
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Tue, 05 Mar 2024 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122465102/849d13723899086d2735f9a0b7c668118d0940e3c219775f26fe72a38c2edb1c.mp3" type="audio/mpeg" length="165795016" />
+    </item>
+  </channel>
+</rss>
