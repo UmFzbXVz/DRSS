@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/er-der-brev-fra-villy" rel="self" type="application/rss+xml" />
+    <title>Er der brev fra Villy?</title>
+    <link>https://www.dr.dk/lyd/p1/er-der-brev-fra-villy-2656672996000</link>
+    <description>For nylig fandt Anders Gantriis en kasse med breve, der havde været væk i årevis. Kassen var fyldt med breve fra en årelang korrespondance med forfatteren og filosoffen Villy Sørensen.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:13:33 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/er-der-brev-fra-villy.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c043443243f95e2c7445.jpg</url>
+      <title>Er der brev fra Villy?</title>
+      <link>https://www.dr.dk/lyd/p1/er-der-brev-fra-villy-2656672996000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c043443243f95e2c7445.jpg" />
+    <category>Arts</category>
+    <itunes:category text="Arts">
+      <itunes:category text="Books" />
+    </itunes:category>
+    <item>
+      <guid isPermaLink="false">11521613044</guid>
+      <link>https://www.dr.dk/lyd/p1/er-der-brev-fra-villy/er-der-brev-fra-villy-1/er-der-brev-fra-villy-11521613044</link>
+      <title>Søndag 2. jan. 2022</title>
+      <description>For nylig fandt Anders Gantriis en kasse med breve, der havde været væk i årevis. Kassen var fyldt med breve fra en årelang korrespondance med forfatteren og filosoffen Villy Sørensen. Anders Gantriis skrev sit første brev til Villy Sørensen på et tidspunkt, hvor han havde akut brug for livs-vejledning fra en vis mand. Han skulle udskrives fra det psykiatriske hospital i Risskov ved Aarhus. Her havde han været indlagt i fire år med en bipolar lidelse og var rædselsslagen ved tanken om at komme ud. Til sin store overraskelse svarede Villy Sørensen på brevet, og det blev starten på et årelangt pennevenskab, der først sluttede, da Villy Sørensen døde i 2001. De mange breve til og fra Villy Sørensen hjalp Anders Gantriis på fode igen. I udsendelsen "Er der brev fra Villy?" fortæller han hvordan.
+Tilrettelæggelse: Annette Holm
+Teknik: Alice Høier.
+(Sendt første gang 28. januar 2016).</description>
+      <pubDate>Sun, 02 Jan 2022 13:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:12</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11521613044/3e4120122f85d4c95864998023af28bab0d43a4f27a733cb1a6de16b38556b26.mp3" type="audio/mpeg" length="82385325" />
+    </item>
+  </channel>
+</rss>

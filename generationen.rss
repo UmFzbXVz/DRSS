@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/generationen" rel="self" type="application/rss+xml" />
+    <title>Generationen</title>
+    <link>https://www.dr.dk/lyd/p3/generationen-2950263596000</link>
+    <description>Er du med- eller modborger? Dansker eller iraner? Hvornår greb "Blokken" selv mikrofonen for første gang, og hvad har 2Pac og Pia K. med hinanden at gøre?
+ 
+GENERATIONEN er en eksperimenterende podcastserie, der udfordrer ghettoen, politikerne, hiphoppen og podcastgenren. I seriens fire afsnit går rapperen, Babak Vakili (bobby shams), igennem sin egen og sin generations fortælling via en lydmosaik af rap, fiktive karakterer, indre dialoger, interviews og reportage.  
+ 
+Idé, manus og tilrettelæggelse: Babak Vakili.
+Lyddesign og original musik: Frankie Motion.
+Idé og redaktør: Sandra Mia Susgaard.
+Redaktionsleder: Karen Albertsen.
+Programansvarlig: Søren Bygbjerg.
+ 
+Tak til Statens Kunstfond.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:08:21 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/generationen.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1537d0c1a140697e06c.jpg</url>
+      <title>Generationen</title>
+      <link>https://www.dr.dk/lyd/p3/generationen-2950263596000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1537d0c1a140697e06c.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332195805</guid>
+      <link>https://www.dr.dk/lyd/p3/generationen/generationen-1/generationen-4-4-babak-fra-danmark-13332195805</link>
+      <title>4:4 - Babak fra Danmark</title>
+      <description>Babak går alene gennem en tom lufthavnsterminal i Iran. Alt ser mærkeligt ud. Iran er hans hjemland, som han aldrig har besøgt. Før nu.
+
+I dette sidste afsnit af GENERATIONEN rejser Babak til Iran og sporer sin mors - og sin egen - historie. På vejen opdager han, hvad det vil sige at være iraner...og dansker.
+ 
+Idé, manus og tilrettelæggelse: Babak Vakili 
+Lyddesign og original musik: Frankie Motion 
+Idé og redaktør: Sandra Mia Susgaard 
+Redaktionsleder: Karen Albertsen 
+Programansvarlig: Søren Bygbjerg.
+
+Tak til Statens Kunstfond.</description>
+      <pubDate>Tue, 22 Jun 2021 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010005</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:29:07</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195805/123a746a54c8cb364cb9a9b42ec475106c13c3894c9c934f22eafc5e86412107.mp3" type="audio/mpeg" length="41938029" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332195804</guid>
+      <link>https://www.dr.dk/lyd/p3/generationen/generationen-1/generationen-3-4-store-a-13332195804</link>
+      <title>3:4 - Store A</title>
+      <description>Babak og hans venner står i en lang kø til en klub. Halvvejs igennem køen kommer dørmanden over til dem. "Desværre drenge, kameraet har allerede sagt nej."
+
+I dette afsnit af GENERATIONEN sætter Babak lys på spørgsmålet om racisme i Danmark. Hvor viser den sig? Og mere interessant: Hvor skjuler den sig?
+
+Idé, manus og tilrettelæggelse: Babak Vakili.
+Lyddesign og original musik: Frankie Motion.
+Idé og redaktør: Sandra Mia Susgaard.
+Redaktionsleder: Karen Albertsen.
+Programansvarlig: Søren Bygbjerg.
+
+Tak til Statens Kunstfond.</description>
+      <pubDate>Tue, 22 Jun 2021 06:02:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010004</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195804/2db8e8355914eb1b9259a28d7e30f9883fcd9cf0091081cb7e59fede2635b4a1.mp3" type="audio/mpeg" length="35957421" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332195803</guid>
+      <link>https://www.dr.dk/lyd/p3/generationen/generationen-1/generationen-2-4-p-13332195803</link>
+      <title>2:4 - P</title>
+      <description>Babak og hans barndomsven P spiller Supernintendo på hans værelse. De laver alt sammen. Men da Babak flytter til en skole væk fra Nørrebro, mister de to venner kontakten, og deres liv tager to vidt forskellige veje.
+
+I dette afsnit af GENERATIONEN udforsker Babak sin opvækst som brun dreng i et samfund, hvor alle stillede ham det samme spørgsmål: "Er du dansker?"
+
+Idé, manus og tilrettelæggelse: Babak Vakili.
+Lyddesign og original musik: Frankie Motion.
+Idé og redaktør: Sandra Mia Susgaard.
+Redaktionsleder: Karen Albertsen.
+Programansvarlig: Søren Bygbjerg.
+
+Tak til Statens Kunstfond.</description>
+      <pubDate>Tue, 22 Jun 2021 06:01:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010003</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:41</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195803/832d0ae1db4e6c883abb49117b5e4f8051ddf62e046e193d524a05cf33e7aa0c.mp3" type="audio/mpeg" length="32688045" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332195802</guid>
+      <link>https://www.dr.dk/lyd/p3/generationen/generationen-1/generationen-1-4-blokken-13332195802</link>
+      <title>1:4 - Blokken</title>
+      <description>Babak står foran sit spejl og rapper med på 2pac sange. Han kan alle Pacs tekster udenad, selvom han ikke altid forstår, hvad det er, han siger. 2pac er hans gud. 
+
+I dette afsnit af GENERATIONEN går Babak igennem dansk ghettohiphops historie, og spørger hvilken rolle ghettohiphop har spillet i den måde han og hans generation har forstået sig selv på. 
+
+Idé, manus og tilrettelæggelse: Babak Vakili
+Lyddesign og original musik: Frankie Motion
+Idé og redaktør: Sandra Mia Susgaard
+Redaktionsleder: Karen Albertsen
+Programansvarlig: Søren Bygbjerg
+
+Tak til Statens Kunstfond.</description>
+      <pubDate>Tue, 22 Jun 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010002</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195802/76222950e0d285552101a2380fdafdebf0f6afefe306a78d9cc51de6f0f3593f.mp3" type="audio/mpeg" length="34443693" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332195801</guid>
+      <link>https://www.dr.dk/lyd/p3/generationen/generationen-1/generationen-prolog-ikk-fuck-med-mig-draeber-dig-13332195801</link>
+      <title>Prolog: Ikk' fuck med mig, dræber dig</title>
+      <description>Til en rapworkshop i Ishøj rapper en ung dreng seks ord, som får Babak til at stoppe op og overveje sin egen opvækst og sin generations selvforståelse.
+
+GENERATIONEN udkommer d. 22. juni 2021.
+
+Idé, manus og tilrettelæggelse: Babak Vakili 
+Lyddesign og original musik: Frankie Motion 
+Idé og redaktør: Sandra Mia Susgaard 
+Redaktionsleder: Karen Albertsen 
+Programansvarlig: Søren Bygbjerg.
+
+Tak til Statens Kunstfond.</description>
+      <pubDate>Wed, 16 Jun 2021 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195801/8b464b6622da002eb24be7bf8e83fabc1cf46037a9ae8e8a264ad0d1df09c645.mp3" type="audio/mpeg" length="8358957" />
+    </item>
+  </channel>
+</rss>
