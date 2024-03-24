@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/du-har-det-fra-mig" rel="self" type="application/rss+xml" />
+    <title>Du har det fra mig</title>
+    <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig-5206895445000</link>
+    <description>Kender du det at få anbefalet musik fra nogen, du slet ikke kan slippe igen? Jeg stikker hånden i samlingen og rammer dig med alt det bedste fra udødelige mestre, nye fængende tracks og hemmelige glemte perler. Og du må gerne sige du har det fra mig!
+Vært og tilrettelægger: Naya Buric
+Redaktør: Kasper Christensen</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:09:35 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/du-har-det-fra-mig.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65aa4bb756594055cc6e6df1.jpg</url>
+      <title>Du har det fra mig</title>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig-5206895445000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65aa4bb756594055cc6e6df1.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452436126</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-lidt-af-hvert-18452436126</link>
+      <title>Lidt af hvert</title>
+      <description>Chet Baker forelsker sig for nemt, Miriam Makeba vil stoppe regnen og The Modern Jazz Quartet spiller sagte som morgengry plus et soulet Bob Dylan cover.
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 23 Mar 2024 16:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436126/b5422d647162e3b0120765d2943355b4f93f429927c7f373fc5d064c82e73992.mp3" type="audio/mpeg" length="168674533" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452436116</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-den-lange-vej-hjem-18452436116</link>
+      <title>Den lange vej hjem</title>
+      <description>Anita O'day synger om vaner der er svære at komme af med, en romaballade får nye klæder og Tom Waits tager den lange vej hjem.
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 16 Mar 2024 16:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436116/db21b3e94957838fb7b6bae7269c5a0a4d7c47f86969e639d2fdf385118d0c92.mp3" type="audio/mpeg" length="168674558" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452436106</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-feber-filmmusik-og-lidt-neosoul-18452436106</link>
+      <title>Feber, filmmusik og lidt neosoul</title>
+      <description>En tysk pianist spreder håb, et britisk musikkollektiv forklædt i masker synger om kærlighed og Francis Bebey fra Cameroun spiller fængende Sanza. Det er igen blevet tid til det bedste fra samlingen.
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 09 Mar 2024 16:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436106/64f78ce43958c26bb4f30d80f21ae600c62e58f63e4cf437f88ca99f3498de5f.mp3" type="audio/mpeg" length="168674572" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452436096</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-tidlig-foraar-18452436096</link>
+      <title>Tidlig forår</title>
+      <description>Foråret er på vej, En bassist er gået bort og en dansk saxofonist undersøger rums resonans. 
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 02 Mar 2024 16:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436096/f7702d6e5657d47fb4703ad022aafb5ca9c764d7627bbc412759a897e638208a.mp3" type="audio/mpeg" length="168675052" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452436086</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-tag-mig-med-til-paradis-18452436086</link>
+      <title>Tag mig med til Paradis</title>
+      <description>Lana del Rey synger Summertime, Nancy drømmer sig væk til Californien og en britisk trommeslager tryllebinder. Endnu engang har Naya Buric fundet favoritnumre frem.
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 24 Feb 2024 16:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436086/fee7d963f022160ee1e6040402eb068c7807be141972f50b0c4c3833c1803feb.mp3" type="audio/mpeg" length="168675122" />
+    </item>
+  </channel>
+</rss>

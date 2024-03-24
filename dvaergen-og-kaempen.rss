@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/dvaergen-og-kaempen" rel="self" type="application/rss+xml" />
+    <title>Dværgen og kæmpen</title>
+    <link>https://www.dr.dk/lyd/p1/dvaergen-og-kaempen-1858284255000</link>
+    <description>Ditte er én meter høj og sidder i kørestol. Casper vejer 170 kilo og har paranoid skizofreni. De matchede på Tinder. Det her er en historie om fordomme og sygdomme, om sex og skam. Det er historien om dværgen og kæmpen. 
+Tilrettelægger: Emil Rothstein-Christensen. 
+Redaktør: Rune Sparre Geertsen. 
+Produceret af Filt CPH.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:13:31 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/dvaergen-og-kaempen.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1337d0c1a140697dfe8.jpg</url>
+      <title>Dværgen og kæmpen</title>
+      <link>https://www.dr.dk/lyd/p1/dvaergen-og-kaempen-1858284255000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1337d0c1a140697dfe8.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">16121812762</guid>
+      <link>https://www.dr.dk/lyd/p1/dvaergen-og-kaempen/dvaergen-og-kaempen-1/dvaergen-og-kaempen-2-2-16121812762</link>
+      <title>Dværgen og kæmpen 2:2</title>
+      <description>Juleaften lægger Casper sig på knæ foran Ditte - og hun siger ja! Men da brylluppet nærmer sig dukker der stemmer op i hans hovede, og de prøver at få ham til at begå selvmord. Så selvom lille Ditte sidder i kørestol er det hende, der må være den stærke og hjælpe sin elskede kæmpe igennem den meget hårde periode.
+Tilrettelægger: Emil Rothstein-Christensen. 
+Redaktør: Rune Sparre Geertsen. 
+Produceret for DR af Filt Cph.
+(Sendt første gang 17. juni 2018).</description>
+      <pubDate>Sun, 17 Jun 2018 13:33:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010002</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:36</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16121812762/42c43dcb46c3dfa0801eaef5b5d1f216160ade47010aa65b1984a4c8822f050a.mp3" type="audio/mpeg" length="39764251" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16121812761</guid>
+      <link>https://www.dr.dk/lyd/p1/dvaergen-og-kaempen/dvaergen-og-kaempen-1/dvaergen-og-kaempen-1-2-16121812761</link>
+      <title>Dværgen og kæmpen 1:2</title>
+      <description>Ditte er én meter høj og sidder i kørestol. Casper vejer 170 kilo og har paranoid skizofreni. De matchede på Tinder. Det her er en historie om fordomme og sygdomme, om sex og skam. Det er historien om dværgen og kæmpen. 
+Tilrettelægger: Emil Rothstein-Christensen. 
+Redaktør: Rune Sparre Geertsen. 
+Produceret for DR af Filt Cph.
+(Sendt første gang 10. juni 2018).</description>
+      <pubDate>Sun, 10 Jun 2018 13:33:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:12</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16121812761/5da3703fc846a4f058ca003714e787ecece06aa51860cf583d364d3ac93f9fc7.mp3" type="audio/mpeg" length="39469293" />
+    </item>
+  </channel>
+</rss>

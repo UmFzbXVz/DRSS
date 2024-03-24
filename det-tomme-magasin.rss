@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/det-tomme-magasin" rel="self" type="application/rss+xml" />
+    <title>Det Tomme Magasin</title>
+    <link>https://www.dr.dk/lyd/p3/det-tomme-magasin-2264608473000</link>
+    <description>Det Tomme Magasin er et sketchprogram om podcasts, radio og lort - med megastjernerne Martin Nørgaard og Elias Ehlers.
+Produceret for DR af Doceye Digital.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:10:02 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/det-tomme-magasin.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c13b443243f95e2c7a03.jpg</url>
+      <title>Det Tomme Magasin</title>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin-2264608473000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c13b443243f95e2c7a03.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122192746</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-modem-16122192746</link>
+      <title>MODEM</title>
+      <description>Det Tomme Magasin takker af. Find ud af hvad der skete med pigerne fra Rædselskabinettet, få Scorekims nytårstips og kom med indenfor i Danmarks nye cyberenhed der skal bekæmpe internettrolls. Tak for denne gang. 
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 24 Dec 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:13:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192746/4bc5c1cd1c7bc32dbceb7451b0cd214db4d90094d8c6c68076ed90d92e5bbd2a.mp3" type="audio/mpeg" length="19154349" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192745</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-michael-der-arbejder-som-tennisketcher-16122192745</link>
+      <title>Michael der arbejder som tennisketcher</title>
+      <description>Jes prøver netdating, mød manden der elsker vacciner, Pia kan ikke mærke sin krop, Michael arbejder som tennisketcher og Lennart kan ikke slå søm i.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 17 Dec 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:40</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192745/738cdf6cc33eb8e3f92d85baaecba598b307f10e617c3161b3460acf07df87c1.mp3" type="audio/mpeg" length="18245997" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192744</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-kunstquizzen-16122192744</link>
+      <title>Kunstquizzen</title>
+      <description>Hannes går i bare tæer, Ejnar har fået fisse, hvor tolerant er Magnus Påske egentlig, kom med til den ærlige jobsamtale i mediebranchen og gæt med i Kunstquizzen! 
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 10 Dec 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:49</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192744/7a9825d9be56c0d75177052ec9aa2bdcc8fd1003b354cc244fbea4c3c8282777.mp3" type="audio/mpeg" length="18470061" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192743</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-fede-juletips-16122192743</link>
+      <title>Fede juletips</title>
+      <description>Få fede tips til en god jul, lær alt om katte, Ralf synes regeringen er fascister, Milton er en dårlig roommate og så skal der pruttes om prisen.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 03 Dec 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:47</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192743/af02c403768f0f48cf85ec299128cad52581b555316e1f6c4a1e7937a4a7a3de.mp3" type="audio/mpeg" length="21295917" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192742</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-kendisseriemorder-16122192742</link>
+      <title>Kendisseriemorder</title>
+      <description>Erik har bygget en flot stol, Danmarks største stjerne holder koncert og foredrag, Kenneth kan ikke finde temperaturen, Gitte Jazz giver gode tips til børneopdragelsen og så kan du møde Danmarks første kendisseriemorder.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 26 Nov 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:11:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192742/1653e9042c533d3790e1cd12367976ed0230b5c74a5462911ca99cc552403ae8.mp3" type="audio/mpeg" length="16615341" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192741</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-pinlig-tavshed-16122192741</link>
+      <title>Pinlig Tavshed</title>
+      <description>Jeopardy-reglerne er svære, Frederik ringer til SKAT og Yvonne hader pinlig tavshed.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 19 Nov 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192741/a7afd83ff84fe35791a0809ca58bbe896ce796143a39eb263952479e46b59132.mp3" type="audio/mpeg" length="21904173" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192740</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-skoejtefanden-16122192740</link>
+      <title>Skøjtefanden</title>
+      <description>Mød kandidaten der finder vælgere på Tinder, hør hvordan man holder varmen, mød skøjtefanden og lær lidt om at leve et langt liv med gigt.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 12 Nov 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:39</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192740/a6413e8fa1e66281077031d1d23a867f1da5047e51dac7c637b3e36a2e83046d.mp3" type="audio/mpeg" length="18221229" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192739</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-dr-svensk-poelseret-16122192739</link>
+      <title>DR Svensk Pølseret</title>
+      <description>Gabriel har en dårlig eftermiddag, Gitte Jazz giver tips til børneopdragelse, bliv motiveret af boksepuden der snakker lort og så er Rane Eskelund endnu engang på farten.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 05 Nov 2021 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:11:34</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192739/135b90c3166520f2ac2030f7978fa5f4d28616e59948f2109a1d3ea319308006.mp3" type="audio/mpeg" length="16672941" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192738</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-claes-den-talblinde-revisor-16122192738</link>
+      <title>Claes den talblinde revisor</title>
+      <description>Claes er talblind, Thorbjørn græder aldrig og Dennis tror livet er en musical.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 29 Oct 2021 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192738/9326392e4607a85acea7482f4f09ba841b6872a7cb259b3a5497fc19795031ec.mp3" type="audio/mpeg" length="17439021" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192737</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-numsekikkerten-16122192737</link>
+      <title>Numsekikkerten</title>
+      <description>Hør Jens Haaning forsvare sit kunstværk "Take the money and run", stift bekendtskab med Gloschbobben, Alarmcentralen har travlt og så er der flere gode idéer fra Danmarks bedste iværksættere.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 22 Oct 2021 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:13</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192737/91174488a5bd947940d1f6ca57e97bd7f26ed02051ce969db63041db10e4da52.mp3" type="audio/mpeg" length="20473965" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192736</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-emil-paa-skadestuen-16122192736</link>
+      <title>Emil på skadestuen</title>
+      <description>Tag med på stranden, gå med Petra i bad, meditér og kom ind i sindet, hør Ravne ryge 100 cigaretter og tag med Emil på skadestuen
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 15 Oct 2021 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:11:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192736/0ef46c56e745a4d2147dfcab1ee2308bd691d7b54e09c800f9a3ccfbb5e085fd.mp3" type="audio/mpeg" length="15903981" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192735</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-skovens-lyde-16122192735</link>
+      <title>Skovens Lyde</title>
+      <description>Mød hjernen bag LoneFans, går du egentlig til sport, Spaden Live sætter spot på klimaet, Torben skulle ikke have været politimand, hør Skovens Lyde og mød Søren der lige er vendt hjem fra New York.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 08 Oct 2021 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192735/5e92f2c2eb97df6df0309e273e7fbd7bb04e4caeb061834b5294152bd63591be.mp3" type="audio/mpeg" length="18401517" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192734</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-humorpolitiet-16122192734</link>
+      <title>Humorpolitiet</title>
+      <description>Hør den spritnye astrologipodcast, tag med ud i det genåbnede natteliv, Hugo kigger på hunde og så er der en opsang fra humorpolitiet. 
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 01 Oct 2021 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:45</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192734/43ec1cdacc8f75f1b7a4d9482602cd7f7ef0eac4f12fd37532c6bcd044307afa.mp3" type="audio/mpeg" length="18377325" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192733</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-gitte-jazz-16122192733</link>
+      <title>Gitte Jazz</title>
+      <description>Gitte Jazz er ekspert i børneopdragelse, Helmut elsker kalifatet, Popsi og Jønnet brainstormer og Raul skriver filmmusik.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 24 Sep 2021 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:13:27</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192733/de593dcfb471078a40dac9d0b35508b4b97b04a18c38773e6600c421ea203f09.mp3" type="audio/mpeg" length="19378989" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192732</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-blade-elsker-saft-16122192732</link>
+      <title>Blade elsker saft</title>
+      <description>Mød statsministerens største fan, hør podcasten der ødelagde alle podcasts, Rasmus spiller på skeer, Blade elsker saft og Jan wrestler med bjørne.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 17 Sep 2021 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:11:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192732/1e6d194c062df4596ea58bcf099fe20f9243a76c5721c0d06e181b190750e1c9.mp3" type="audio/mpeg" length="16322157" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192731</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-william-har-boerneorm-16122192731</link>
+      <title>William har børneorm</title>
+      <description>Dickpics, en citron i fertilitetsbehandling, forkert nummer, sunde stoffer, manden der blev cancled og børneormen Krølle. 
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 10 Sep 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192731/32db0ed6cb77d4a772f406d879013edbd81f5b2a933b1891d5ac7e4c7aa5d172.mp3" type="audio/mpeg" length="23196717" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192730</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-en-incel-taler-ud-16122192730</link>
+      <title>En incel taler ud</title>
+      <description>En panda bytter julegaver, Hugo ser på fugle, Mads afbryder Anisette, Guru Svend vil have dig ned i gear og så kan du høre et interview med en vaskeægte incel.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 03 Sep 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192730/8ea1ae4cccfef9a7f550cb73ef8c67de5600e02bb6e1157f3884b225b0b27a93.mp3" type="audio/mpeg" length="18658989" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192729</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-danmarks-mest-prankede-16122192729</link>
+      <title>Danmarks mest prankede</title>
+      <description>Leo vil have sin egen parade, lyt til byens nattelyde, hvordan snakker man egentlig med en knudemand, mød Sasha med broccolihud og Danmarks mest prankede mand.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 27 Aug 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192729/d6b456802de0c990fccb23485a4c5e21b393e961c8f5128cb2c4396c3e21aa50.mp3" type="audio/mpeg" length="18685485" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192728</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-soeren-dinos-dinopark-16122192728</link>
+      <title>Søren Dinos Dinopark</title>
+      <description>Danmarks bedste swingerklub for damer slår dørene op, få verdens hurtigste kop kaffe, lær mere om den grønne omstilling, besøg Søren Dinos Dinopark og så kan du blive klogere på statistik.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 20 Aug 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:13</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192728/65290bfe1953499c50c42e66d2f7c8e5961d9e66a31c3c44fdb2fabc40dc2b53.mp3" type="audio/mpeg" length="20474541" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192727</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-foreningen-mod-solcreme-16122192727</link>
+      <title>Foreningen mod solcreme</title>
+      <description>Kom med på planteskole, Noller er træt af sugardating, mød verdens mest imponerede mand og tag et kig ind i fremtiden.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 13 Aug 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192727/dd769ec58097b2b471b47855e8d160cf2234556d7b4e1d6d0e31174e6b131e3c.mp3" type="audio/mpeg" length="17777133" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192726</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-dejan-cukic-16122192726</link>
+      <title>Dejan Cukic</title>
+      <description>Karamello har en praktikant og du kan endelig lære at udtale "Dejan Cukic".
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 06 Aug 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:11:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192726/1ac84ae7382eb5ed4b4e3eab70d65c2b5ec6e4bc11c967565db45b4cbf1e10dc.mp3" type="audio/mpeg" length="16717869" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192725</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-alt-paa-et-braet-16122192725</link>
+      <title>Alt på et bræt</title>
+      <description>Politik Under Spærregrænsen snakker med den skatende løsgænger, der bliver prøvet et nyt og spændende brætspil, Mikkel har en grim røv og så skal vi på cafébesøg.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 25 Jun 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:13:30</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192725/ebee1d6380affeb19feb64473ff4c849c642f6ede2f7c1fe42fad625a41f5152.mp3" type="audio/mpeg" length="19441773" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192724</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-kaffejohn-16122192724</link>
+      <title>Kaffejohn</title>
+      <description>Kunne du tænke dig at bo udenfor? Har du tænkt over hvad der sker når man tænker for længe over tingene? Og hvad synes dyrskuepladsen egentlig om at festivalsæsonen er aflyst?
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 18 Jun 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:10:50</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192724/e5bba8f7006f7b0f1d77f9a4c0195c72c97879827ada76c72dddb5949fa60f84.mp3" type="audio/mpeg" length="15613101" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192723</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-ud-i-det-blaa-16122192723</link>
+      <title>Ud i det blå</title>
+      <description>Mød Thomas Thómas Thomás der ved alt om børn, der er flere gode tilbud på oppustelige ting, gæt med når vi quizzer i "hvad er det vi hører", lær at trække vejret og så skal vi genforelske os i den danske natur.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 11 Jun 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:13:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192723/e9946cb222c822f7b2e3f7a1cad2fe576c6e788a1c519f12e607fb0497f64f81.mp3" type="audio/mpeg" length="19729773" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192722</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-punjabi-fm-16122192722</link>
+      <title>Punjabi FM</title>
+      <description>Har du pigelus? Kender du Punjabi Kim? Har Danmark et problem med racisme? Og hvordan er det at møde en vampyr? Alle dine spørgsmål bliver besvaret i ugens udgave af Det Tomme Magasin.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 04 Jun 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:29</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192722/617ae839e582edaa2b2f07692af8437addf7ba1e1105e46274e0e60bb54a7fb6.mp3" type="audio/mpeg" length="25185069" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192721</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-filmmagasinet-16122192721</link>
+      <title>Filmmagasinet</title>
+      <description>Ken Block anmelder film, papmachéhøjskolen søger kursister, hvem får det sidste ord, hvordan lyder det når man har tinitus og hvordan tomler man egentlig?
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 28 May 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192721/58c3bc9c6386bb21459c7c6ceb09d15f2af308dcc0ec6ede1b9f2d9d51282d29.mp3" type="audio/mpeg" length="17846829" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192720</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-lomborg-live-16122192720</link>
+      <title>Lomborg Live</title>
+      <description>Børnebøger med socialrealistiske slutninger, nem, nem satire, mød en af Danmarks farligste mænd, hør statsministeren på slap line og så er der premiere på Lomborg Live.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 21 May 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:38</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192720/9fbef869cf9d60beecb71d53ad084decd3f0a4fa6b2b29af925da36c8efcf36b.mp3" type="audio/mpeg" length="21080493" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192719</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-tina-ymer-16122192719</link>
+      <title>Tina Ymer</title>
+      <description>Kimmies Salon kigger nærmere på cryptovaluta, du kan lære alt om hunde, mød Danmarks ærligste politiker, bliv liderlig i selskab med Tina Ymer og mød manden der var den første til at kalde brystvorter for "knapper"
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 14 May 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192719/6144c2d0ed7c9843870559410694563b9dd0568e92d08799fbfeb18969435441.mp3" type="audio/mpeg" length="21730797" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192718</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-bonusdonuts-16122192718</link>
+      <title>Bonusdonuts</title>
+      <description>Hør hvordan man laver bonusdonuts, køb dig noget oppusteligt skrammel, lav en hund i krydsfinér og kom med helt ind under huden på Danmarks bedste festarrangør.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 07 May 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192718/7c8d7821762e61184f12c83a1fdf8cdc1c1183d7dd831f07c46addc6e7d6969e.mp3" type="audio/mpeg" length="21390381" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192717</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-drengen-med-guldstemmen-16122192717</link>
+      <title>Drengen Med Guldstemmen</title>
+      <description>Glæd dig til dokumentaren om "Drengen med Guldstemmen", hør hvordan det lyder når man kan imitere dyrelyde til perfektion og få den perfekte fitnesspodcast i ørerne.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 30 Apr 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:13:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192717/a559f2fb2fef8702e8e643b6381d5ced2bffa32fd9db694882062758ee3b4e95.mp3" type="audio/mpeg" length="19342125" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192716</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-en-paa-sylten-16122192716</link>
+      <title>Én på sylten</title>
+      <description>Satiregutterne er tilbage med jokes der er alt for nemme, Jes snurrer tallerkener, vi skal endnu en gang tale med de døde og så bliver der fundet en vinder i P3's nye store satsning "Én på sylten"
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 23 Apr 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:11:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192716/d48c4efade064b6842f74c333d706786b8a884cad54ec8884c55a0eb18f10daa.mp3" type="audio/mpeg" length="17275437" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192715</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-yvonne-prutter-blomster-16122192715</link>
+      <title>Yvonne prutter blomster</title>
+      <description>Lær alt om spurve, snak med de døde, få opdateret din slangordbog, mød Yvonne og hør mere dybdeborende journalistik.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 16 Apr 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192715/0b7d18d1f153887c57818072ace66c9d6edca1fc07f3c409b9acf5cb8697beca.mp3" type="audio/mpeg" length="18718317" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192714</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-den-ukendte-tronarving-16122192714</link>
+      <title>Den ukendte tronarving</title>
+      <description>Kom med på fisketur, hør mere sladder om lækre kendte mænd, lær at fotografere, mød Danmarks nyeste tronarving, kom med til brainstorm i mediebranchen og få stillet tørsten i "Dyre Dråber".
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 09 Apr 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192714/1665073a102322ede39623f70ed005a1677ec7f2be21220898fc05c9c885f3f2.mp3" type="audio/mpeg" length="25901613" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192713</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-hardstyle-boernesange-16122192713</link>
+      <title>Hardstyle Børnesange</title>
+      <description>Mød en ægte troldmand med ildhænder, gå amok til hardstyle børnesange for trampere der ikke trak sig ud i tide, snup en bid af den menneskelige croissant og lyt med når DRs nye, journalistiske fuldtræffer "Spaden Live" går i luften
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 02 Apr 2021 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:34</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192713/93bd937184522300ef7158302859b71952b101e53ee621da4a60734c7e48ee9f.mp3" type="audio/mpeg" length="18110061" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192712</guid>
+      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-pyt-med-det-16122192712</link>
+      <title>Pyt med det</title>
+      <description>Kimmies Salon har besøg af Danmarksmesteren i at sige pyt, Bent hader saltkaramel og så har Pille flere facts til dig.
+Produceret for DR af Doceye Digital.</description>
+      <pubDate>Fri, 26 Mar 2021 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192712/c9e20ccba17b1e049589a89e168bc885496efbe5b8a84793703d21d2aafa1c9a.mp3" type="audio/mpeg" length="20782701" />
+    </item>
+  </channel>
+</rss>

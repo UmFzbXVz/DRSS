@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/det-gode-selskab" rel="self" type="application/rss+xml" />
+    <title>Det gode selskab</title>
+    <link>https://www.dr.dk/lyd/p5/det-gode-selskab-2146894737000</link>
+    <description>Her møder du spændende mennesker og får ny inspiration til det aktive liv.
+Vært: Charlotte Hagen Striib.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:10:04 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/det-gode-selskab.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1397d0c1a140697dffd.jpg</url>
+      <title>Det gode selskab</title>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab-2146894737000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1397d0c1a140697dffd.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452428124</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-mette-korsgaard-15452428124</link>
+      <title>Med Mette Korsgaard</title>
+      <description>Bogen 'Min fede hjerne og jagten på den tynde krop' er sammen med en dokumentarfilm netop udkommet. Forfatter og dokumentarfilminstruktør Mette Korsgaard har fundet frem til, at det er en illusion at tro, at vi kan regulere vores egen vægt.  
+Vært: Charlotte Striib.</description>
+      <pubDate>Thu, 21 Mar 2024 10:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428124/b90bf0fe3ec9608314915ffbdc27f4c7930665bb7fd3aa95046094ebeea18ca6.mp3" type="audio/mpeg" length="168675141" />
+    </item>
+    <item>
+      <guid isPermaLink="false">15452428123</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-karsten-paaske-15452428123</link>
+      <title>Med Karsten Paaske</title>
+      <description>Op til fodboldlandsholdets testkamp mod Schweiz i Parken på lørdag, skal vi have en indføring i, hvad en optimal græsbane er. Karsten Paaske fra Vildbjerg er uddannet groundsman.   
+Vært: Charlotte Striib.</description>
+      <pubDate>Wed, 20 Mar 2024 10:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428123/8a66038ef6c5853d6207fab8b9963f5628fec09b243cc518572584c3c40ced45.mp3" type="audio/mpeg" length="168674517" />
+    </item>
+  </channel>
+</rss>

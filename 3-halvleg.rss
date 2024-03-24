@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/3-halvleg" rel="self" type="application/rss+xml" />
+    <title>3. halvleg</title>
+    <link>https://www.dr.dk/lyd/p4/3-halvleg-3542590150000</link>
+    <description>3. Halvleg på P4 er programmet om vores allesammens fritid. Det er P4's klubhus for alle, der har brug for et skud energidrik på lyd eller et mentalt frikvarter. Med en masse traditioner og stemninger lånt fra omklædningsrummet taler vært Nanna Nørregaard om ritualer, powersange og håndklædesvirpere med ugens aktuelle gæst.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:09:27 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/3-halvleg.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c169443243f95e2c7a98.jpg</url>
+      <title>3. halvleg</title>
+      <link>https://www.dr.dk/lyd/p4/3-halvleg-3542590150000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c169443243f95e2c7a98.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452446117</guid>
+      <link>https://www.dr.dk/lyd/p4/3-halvleg/3-halvleg-2024/all-in-paa-alt-med-liv-martine-15452446117</link>
+      <title>All-In på alt med Liv Martine</title>
+      <description>Bliv klogere på, hvordan Liv Martine holder 3. halvleg, når kogebogsforfatteren og forretningskvinden besøger det radiofoniske klubhus. Det handler blandt andet om at gå all-in, tilfældigheder og hårdt arbejde. Programmet bliver som altid fyldt med en masse traditioner og stemninger lånt fra omklædningsrummet, når vært Nanna Nørregaard sørger for kollektiv 3. halvleg til alle P4's lyttere.</description>
+      <pubDate>Sun, 17 Mar 2024 14:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452446117/9863cb8db7aed607000a2d83726bd9270eb0856e6c27e116fdb9762c83dd3016.mp3" type="audio/mpeg" length="168675129" />
+    </item>
+  </channel>
+</rss>

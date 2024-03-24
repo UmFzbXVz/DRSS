@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/balalajka" rel="self" type="application/rss+xml" />
+    <title>Balalajka</title>
+    <link>https://www.dr.dk/lyd/p3/balalajka-4861067688000</link>
+    <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
+Værter: Anton Ringdal og Mathilde Muus.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:07:46 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/balalajka.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c17c7d0c1a140697e10a.jpg</url>
+      <title>Balalajka</title>
+      <link>https://www.dr.dk/lyd/p3/balalajka-4861067688000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c17c7d0c1a140697e10a.jpg" />
+    <category>News</category>
+    <itunes:category text="News" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332426124</guid>
+      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-faar-man-daarlig-samvittighed-af-at-spise-stenbiderrogn-13332426124</link>
+      <title>Får man dårlig samvittighed af at spise stenbiderrogn?</title>
+      <description>Stenbideren er en sjov fisk. Man ved ikke rigtigt så meget om den, men den har det ikke så godt. Eller der er ikke så mange fisk længere. Og på en artikel på DR.DK kan man læse, at eksperterne i artiklen ikke rigtig kan svare på, om man kan spise stenbiderrogn med god samvittighed. Det sætter vi vores praktikant Emma Thorup til at undersøge.
+Vi snakker også med vores gode ven Kirsten Leuenhagen, som giver råd til opskrifter uden kød. OG det er jo torsdag, hvilket betyder, at vi skal uddele kort ud fra fodboldloven til vores politikere.
+Værter: Anton Ringdal.
+Medvirkende:
+Emma Thorup, reporter.
+Jørgen Serup, overlæge på Bispebjerg Hospital, hudekspert og professor.</description>
+      <pubDate>Thu, 21 Mar 2024 16:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426124/8f934a2057ba044a442fa7280cca498468b0d544d9cfe664e41add89334e4a37.mp3" type="audio/mpeg" length="172994488" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332426123</guid>
+      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-samfundskritikere-og-folkeskolepraktikanter-13332426123</link>
+      <title>Samfundskritikere og folkeskolepraktikanter</title>
+      <description>Mathilde er syg, men det betyder ikke, at programmet daler i kvalitet. I stedet har vi to veloplagte gæstemedværter. Sammen med samfundskritikeren Flemming Blicher kigger vi på nogle af de historier, der fylder allermest på de sociale medier, og vurderer, om der er noget suspekt ved historierne. Er Boing nogle griske pengesvin, der slår whistleblowere ihjel, og er Kate Middleton død? Det kigger vi på. Anton får også besøg i studiet af vores folkeskolepraktikant Viggo (på næsten samme alder som Mathilde), så de hver især kan præsentere hinanden for en historie (næsten ligesom når Mathilde er her).
+Værter: Anton Ringdal.
+Medvirkende:
+Flemming Blicher, samfundskritiker.
+Viggo Kimer, folkeskolepraktikant.</description>
+      <pubDate>Wed, 20 Mar 2024 16:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426123/af0c3d0c7de5d97ae6caabd0224323dbae857a8809bd9a504d1c3d531a6851e9.mp3" type="audio/mpeg" length="172994489" />
+    </item>
+  </channel>
+</rss>

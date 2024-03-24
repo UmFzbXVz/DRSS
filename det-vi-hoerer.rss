@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/det-vi-hoerer" rel="self" type="application/rss+xml" />
+    <title>Det vi hører</title>
+    <link>https://www.dr.dk/lyd/p2/det-vi-hoerer-3569205267000</link>
+    <description>Velkommen til musikelskernes klub. Som værter på P2 lytter vi til rigtig meget musik, og det elsker vi, for musikken er vores store passion. I denne serie udvælger vi hver især vores absolutte yndlingsmusik til dig, fordi vi gerne vil give vores personlige opdagelser med musikken videre. Vi præsenterer dig for kunstnere, værker og skæringer som du måske ikke har hørt før, og håber at du genopdager musik som du har glemt. 
+"Det vi hører" er den ultimative klassiske playliste skabt af nogle af Danmarks mest alsidige musikkendere.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:09:32 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/det-vi-hoerer.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1697d0c1a140697e0ba.jpg</url>
+      <title>Det vi hører</title>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer-3569205267000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1697d0c1a140697e0ba.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481806</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/mette-greiffenberg/det-vi-hoerer-stille-ro-til-tanker-og-nydning-12422481806</link>
+      <title>Stille ro til tanker og nydning</title>
+      <description>Jeg deler med dig noget af den musik som jeg oplever gør rummet jeg befinder mig i levende og betydningsfuldt på en særlig måde, og Händel er en komponist, der gang på gang overrasker mig med sin indlevelse i menneskelivet. 
+Hør blandt meget andet uddrag af Händels kantate Apollon og Daphne, Janáceks sonate for violin og klaver og musik af Osvaldo Golijov, How slow the wind for sopran og orkester.
+Vært: Mette Greiffenberg.</description>
+      <pubDate>Fri, 02 Feb 2024 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000150006</itunes:order>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481806/2fc3fd134a4c75210a9c394a66bbbc87780b0c33b15419fc4863437f54fc11d5.mp3" type="audio/mpeg" length="165795148" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481805</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/mette-greiffenberg/det-vi-hoerer-norsk-bjergkrystal-12422481805</link>
+      <title>Norsk bjergkrystal</title>
+      <description>Jeg deler min absolutte yndlingsmusik med dig. I denne episode får du norsk bjergkrystal i klingende lyd, bl.a. kan du høre Ragnhild Hemsing der spiller på sin norske violin i Geir Tveitts Violinkoncert nr. 2, sange af Grieg, skælmske klange med Christian Wallumrød, legende toner af Beethoven i cellosonate nr. 3, og lyriske korklange af lettiske Peteris Vasks.
+Vært: Mette Greiffenberg.</description>
+      <pubDate>Fri, 26 Jan 2024 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000150005</itunes:order>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481805/594698afed23b0b2b49c556332624bb3481a04dc23619d7960818d1f0a18cd2a.mp3" type="audio/mpeg" length="165795145" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481804</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/mette-greiffenberg/det-vi-hoerer-energi-og-lydvitaminer-12422481804</link>
+      <title>Energi og lydvitaminer</title>
+      <description>Jeg løfter sløret for en smule af min yndlingsmusik, og det er ofte noget som lyder kvikt og legende- men jeg elsker også rolige åndehuller. Hør bl.a. musik af J.S. Bach og sønnen C.P.E. Bach, Lili Boulanger, Messiaen og Sibelius.
+Vært: Mette Greiffenberg.</description>
+      <pubDate>Fri, 19 Jan 2024 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000150004</itunes:order>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481804/2ef55520a6eefc680e213bb57345c7f568dec2a407af00a7a032de71e0934c9d.mp3" type="audio/mpeg" length="165795146" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481803</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/mette-greiffenberg/det-vi-hoerer-gammelt-guld-gaar-aldrig-af-mode-12422481803</link>
+      <title>Gammelt guld går aldrig af mode</title>
+      <description>Jeg deler min yndlingsmusik med dig, det er blandt meget andet renæssancemusik, folkemusik med svenske Väsen, Schubert magi og Gustav Mahlers symfoni nr.2, og slagtøjspillerne Mathias Reumert og Anders Elten tryller med toner af Ravel.
+Vært: Mette Greiffenberg.</description>
+      <pubDate>Fri, 12 Jan 2024 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000150003</itunes:order>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481803/9b8bb42eebcf531579de6e9490b4d8729ebff0bcbdec60c994b3008f727c21db.mp3" type="audio/mpeg" length="165794566" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481802</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/mette-greiffenberg/det-vi-hoerer-soedt-bloedt-og-sproedt-12422481802</link>
+      <title>Sødt, blødt og sprødt</title>
+      <description>I min yndlingsmusik er der masser af sødme og blødme, og det er derfor jeg ofte falder for engelsk musik. 
+Nogen af favoritkomponisterne er Vaughan Williams og John Dowland, og så er multimusikeren Jacob Colliers eventyrlige klange vanedannende.  
+Vært: Mette Greiffenberg.</description>
+      <pubDate>Fri, 05 Jan 2024 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000150002</itunes:order>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481802/1f1f33413f26dd9e81f9ca94c59bab2220fe03a41a8d4e36eea792d4646bdb4d.mp3" type="audio/mpeg" length="165794569" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481801</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/mette-greiffenberg/det-vi-hoerer-ind-i-lyset-12422481801</link>
+      <title>Ind i lyset</title>
+      <description>Igennem hele mit liv har jeg været fascineret af menneskestemmen, og jeg har tænkt mig at gåsefodre dig med nogen af de mange stemmer og sangere som rører og bevæger mig. Hør i dag blandt andre Núria Rial, Regula Mühlemann og Elza Soares synge, og bad også i de sølvspillende farver fra violinisten Isabelle Fausts violin når hun spiller Bach og Beethoven.
+Vært: Mette Greiffenberg.</description>
+      <pubDate>Mon, 01 Jan 2024 14:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000150001</itunes:order>
+      <itunes:season>15</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481801/3d6424767fefc59fcbfb936f63e5881d2d29c2cadf9ee2c00203d9e3ec00b680.mp3" type="audio/mpeg" length="168674565" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381941</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/esben-tange/det-vi-hoerer-hov-stop-hvad-var-det-12422381941</link>
+      <title>Hov, stop, hvad var det?</title>
+      <description>Jeg elsker musik, der får mig til stoppe op. Enten fordi musikken er umanerlig smuk eller fordi den overrasker mig og gør mig nysgerrig.
+Hør noget af det jeg for tiden dyrker. Kunstnere, der giver det kendte et ekstra twist og komponister der søger op og ud, hvor ingen har været før.
+Vært: Esben Tange.</description>
+      <pubDate>Thu, 19 Oct 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000140001</itunes:order>
+      <itunes:season>14</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:09</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381941/52826c20a48e8f2e550e22fa53b51d7a4d2b2f9ff1033f800bfa27098ad7ad25.mp3" type="audio/mpeg" length="157197979" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381921</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-granvig/det-vi-hoerer-musikstaevnets-magi-12422381921</link>
+      <title>Musikstævnets magi</title>
+      <description>Jeg var på musikstævne inden jeg blev født - og mange år derefter. Kom med på 4. pult i 2. violinerne, til natligt kamikaze-samspil og drømmen om de store hornsoli. Musikken er af Brahms, Björk, Larsson og Ravel m.fl.
+Vært: Benedikte Granvig.</description>
+      <pubDate>Wed, 18 Oct 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000130001</itunes:order>
+      <itunes:season>13</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381921/6ffd0877eab4f9f05a8bdcdcf6ef3986e646ac603fd6447709c3b56eb6c0f85d.mp3" type="audio/mpeg" length="157113883" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381887</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-dans-boern-og-glaede-12422381887</link>
+      <title>Dans, børn og glæde</title>
+      <description>I dag om noget af det, der giver mig livslyst og energi: en tur på dansegulvet og samvær med familien. 
+Hør den klassiske musik, mine egne børn og børnebørn bliver indfanget af, og dans quickstep til Bach og slowfox til Mendelssohn. 
+Vært: Benedikte Bové.</description>
+      <pubDate>Fri, 15 Dec 2023 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000110007</itunes:order>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381887/3fe566ddc6d1e2fd65c539989a5171d65538b57566fdbdf178ce8c2130ec9aa7.mp3" type="audio/mpeg" length="165794569" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381886</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-en-skabssvensker-springer-ud-12422381886</link>
+      <title>En skabssvensker springer ud</title>
+      <description>Jeg holder virkelig meget af Sverige! Af det svenske sprog, svenske sangere og musikere og svensk kultur og musik i det hele taget. Næsten ligegyldigt hvilken genre: Klassisk, jazz, viser, pop og folkemusik.
+Kom med på en musikalsk tur hinsidan. 
+Vært: Benedikte Bové.</description>
+      <pubDate>Fri, 08 Dec 2023 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000110006</itunes:order>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381886/88193cbd3fc88e7889da6d6f5f72070ca42e16921a292018f4d1b70711c8bb7f.mp3" type="audio/mpeg" length="165794564" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381885</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-kunsten-at-synge-12422381885</link>
+      <title>Kunsten at synge</title>
+      <description>... også i kor. Jeg elsker vokalmusik! Både selv at medvirke i korværker og lytte til sangere, som kan alt det, jeg ikke kan. Hør bl.a. lidt fra Mendelssohns Elias og Brittens War Requiem og hør også nogle af mine yndlingssangere som Philippe Jaroussky og Michael Spyres. 
+Vært: Benedikte Bové.</description>
+      <pubDate>Fri, 01 Dec 2023 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000110005</itunes:order>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381885/5937da5cb8bc89ff7f8dab64984db7a6a8a33a1b63adbdd272ef648696a32534.mp3" type="audio/mpeg" length="165795147" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381884</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-kvinderne-12422381884</link>
+      <title>Kvinderne</title>
+      <description>Gennem mit radioliv har jeg opdaget, hvor mange kvindelige komponister der har været gennem musikhistorien - og har oplevet hvor lidt fokus der har været på dem, og hvor svært det har været at finde gode indspilninger af deres musik. Alt for meget musik af kvinder er forblevet i fortiden og glemt af eftertiden. 
+Hør musik af bl.a. Dorothy Howell, Elfrida Andrée, Augusta Holmès og Élisabeth-Claude Jacquet de la Guerre. 
+Vært: Benedikte Bové.</description>
+      <pubDate>Fri, 24 Nov 2023 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000110004</itunes:order>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381884/b9d0d7c1e31712bf929bdb5f74f2e8a105a946c6e017611ef339db622119735d.mp3" type="audio/mpeg" length="165794563" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381883</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-de-store-koncertoplevelser-12422381883</link>
+      <title>De store koncertoplevelser</title>
+      <description>I min ungdom gik jeg til koncert for en flad femmer! Odense Symfoniorkesters tilbud til unge var generøst og genialt og gav store musikalske oplevelser. Hør også om en skelsættende masterclass med Mstislav Rostropovitj.
+Vært: Benedikte Bové.</description>
+      <pubDate>Fri, 17 Nov 2023 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000110003</itunes:order>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381883/7e7c25d4d98f6c57ee032964d1f12b2ea70e8dbd54cd4cdf7927309e67e2b8b9.mp3" type="audio/mpeg" length="165601596" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381882</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-toner-fra-fortiden-12422381882</link>
+      <title>Toner fra fortiden</title>
+      <description>Min barndoms musikalske madplan bestod af Bach og Beatles, tilsat Bernstein og Blind Blake, og som nummer sjok i en søskendeflok var andres musiksmag med til at forme min. Hør musik af de fire store B'er, om en genial konfirmationsgave og hør desuden musik af Carl Nielsen, Sjostakovitj og Debussy.
+Vært: Benedikte Bové.</description>
+      <pubDate>Fri, 10 Nov 2023 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000110002</itunes:order>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381882/c9b16617e030bff81bf16af5348e884125b08bc7f06912f7ddd6cabe30d96208.mp3" type="audio/mpeg" length="165601819" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381881</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-det-bedste-af-det-nye-12422381881</link>
+      <title>Det bedste af det nye</title>
+      <description>Når man er musikplanlægger på P2 og medlem af playlisteudvalget, hører man rigtig mange nye albums. Noget er godt, noget er skidt - og noget er intet mindre end fantastisk! Hør hvad jeg synes har været nogle af de bedste klassiske lytteoplevelser de seneste år. 
+Vært: Benedikte Bové.</description>
+      <pubDate>Mon, 16 Oct 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000110001</itunes:order>
+      <itunes:season>11</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381881/925cdc7f859b9c823b2fb1f98a9176f39cde01f7df9aa36c67014df83306a6a0.mp3" type="audio/mpeg" length="157066651" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381867</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-fra-alle-mig-til-alle-dig-12422381867</link>
+      <title>Fra alle mig til alle dig</title>
+      <description>Ole Bartholin Kiilerichs sidste program i serien 'Det vi hører' er blevet en blandet landhandel fra listen med hidtil uafspillede yndlingsværker - men hvilken landhandel; vi skal høre indiske ragaer, hvid musik, jazz, folk, a cappella-kormusik - og selvfølgelig Chopin! Og måske tager han sig mod til selv at spille lidt til allersidst?</description>
+      <pubDate>Fri, 03 Nov 2023 16:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000100007</itunes:order>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381867/198c946a75b826b50d87d8c045d3b03d9afaff1f6f95d2c8427f5d89edfa6bb2.mp3" type="audio/mpeg" length="165601243" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381866</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-der-hvor-alting-vibrerer-hvor-alt-er-muligt-12422381866</link>
+      <title>Dér, hvor alting vibrerer, hvor alt er muligt</title>
+      <description>Alle musikeres yndlingslegeplads, kammermusikken, er i fokus i denne uges udgave af Det vi hører. Ole Bartholin Kiilerich deler ud af sin glæde ved non-verbal kommunikation og afslører, at klavertrioer faktisk er bedre end strygekvartetter.
+Vært: Ole Bartholin Kiilerich.</description>
+      <pubDate>Fri, 27 Oct 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000100006</itunes:order>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:33</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381866/ad5bf48c17ba6547f096b87548cea3577eec54afe045a8471529538fddcefb97.mp3" type="audio/mpeg" length="156324763" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381865</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-klaver-bonanza-ekstravaganza-12422381865</link>
+      <title>Klaver-bonanza-ekstravaganza</title>
+      <description>Ole Bartholin Kiilerich smider alle manerer overbords og præsenterer to timers radio udelukkende med det allerfedeste klavermusik. Klaver er jo det bedste instrument af dem alle - men hvorfor egentligt?
+Vært: Ole Bartholin Kiilerich.</description>
+      <pubDate>Fri, 20 Oct 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000100005</itunes:order>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381865/d29042f47e769a038bf9d7e5b4d06a55f32ffc870d204f466cc0757cca56a37d.mp3" type="audio/mpeg" length="157047643" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381864</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-bor-gud-i-en-laekker-lejlighed-12422381864</link>
+      <title>Bor Gud i en lækker lejlighed?</title>
+      <description>Måske blev stjernestøvet fortættet i sin ultimative form lige dér, hvor koret sætter ind i Brahms' Ein Deutsches Requiem. Ole Bartholin Kiilerich graver dybt i sin musikalske samvittighed, går til bekendelse og indrømmer, at han en kort overgang måske troede, at Gud boede i en lækker lejlighed eller to lige dér i 4. sats, hvor man synger "Wie lieblich sind deine Wohnungen, Herr Zebaoth" - og at koroplevelser har fyldt uforholdsmæssigt meget i et liv med klaver.
+Vært: Ole Bartholin Kiilerich.</description>
+      <pubDate>Fri, 13 Oct 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000100004</itunes:order>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381864/697724d331cbb601eb4bf6c5fb11c8c1f4fcc95ddd49b36963b619e870dcdb19.mp3" type="audio/mpeg" length="157081627" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381863</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-den-klassiske-musik-smider-toejet-12422381863</link>
+      <title>Den klassiske musik smider tøjet!"</title>
+      <description>I dette afsnit vover vi pelsen og træder ind i musikkens mest intime rum, instrumentalsonaten, hvor små skift i energien, et stjålent blik eller et tilbageholdt åndedræt gør hele forskellen. Ole Bartholin Kiilerich sætter ord på, hvorfor musikken ikke kommer fra noderne, men fra det intime samspil mellem personligheder.
+Vært: Ole Bartholin Kiilerich.</description>
+      <pubDate>Fri, 06 Oct 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000100003</itunes:order>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381863/9f29fd95de9013cfb296f7d3811d27868dd1a342b8d57d5aa1ebf4e5115bb8f8.mp3" type="audio/mpeg" length="157657627" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381862</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-en-hidtil-ukendt-liste-og-celeste-in-memoriam-12422381862</link>
+      <title>En hidtil ukendt liste og celeste in memoriam</title>
+      <description>I dette afsnit af Det vi hører oplister Ole Bartholin Kiilerich en eksklusiv og absolut på ingen måde udtømmende liste med de orkesterværker, der udmærker sig ved at have en markant klaver- eller celestestemme. Vi skal lære, hvordan et symfoniorkester hvisker "Der var engang...", samt få en forklaring på, hvorfor det allersværeste i et orkester er, når man IKKE skal spille.
+Vært: Ole Bartholin Kiilerich.</description>
+      <pubDate>Fri, 29 Sep 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000100002</itunes:order>
+      <itunes:season>10</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381862/9650a6bdedc3e5bfca95a58948455dd877b6de8f529a81bf6cef4a7e8e740bc7.mp3" type="audio/mpeg" length="157749211" />
+    </item>
+  </channel>
+</rss>
