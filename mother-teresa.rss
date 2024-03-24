@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/mother-teresa" rel="self" type="application/rss+xml" />
+    <title>Mother Teresa - myten om det gode?</title>
+    <link>https://www.dr.dk/lyd/p1/mother-teresa-myten-om-det-gode-2655224632000</link>
+    <description>De fleste kender Mother Teresa som symbolet på selve godheden og modtager af Nobels Fredspris. For nyligt har Paven besluttet at helgenkåre Mother Teresa, der viede hele sit liv til de fattige i Calcuttas slum. Hendes verdensomspændende organisation Kærlighedens Missionærer har modtaget hundrede millioner af dollars fra donatorer verden over. Men kritiske røster betegner hende som religiøs fundamentalist og glødende abortmodstander, og ikke alt var som de fleste tror.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:08:42 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/mother-teresa.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523be457d0c1a140697b7fa.jpg</url>
+      <title>Mother Teresa - myten om det gode?</title>
+      <link>https://www.dr.dk/lyd/p1/mother-teresa-myten-om-det-gode-2655224632000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523be457d0c1a140697b7fa.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">11041606064</guid>
+      <link>https://www.dr.dk/lyd/p1/mother-teresa-myten-om-det-gode/mother-teresa-myten-om-det-gode-1/mother-teresa-myten-om-det-gode-11041606064</link>
+      <title>Lørdag 1. jan. 2022</title>
+      <description>De fleste kender Mother Teresa som symbolet på selve godheden og modtager af Nobels Fredspris. For nyligt har Paven besluttet at helgenkåre Mother Teresa, der viede hele sit liv til de fattige i Calcuttas slum. Hendes verdensomspændende organisation Kærlighedens Missionærer har modtaget hundrede millioner af dollars fra donatorer verden over. Men kritiske røster betegner hende som religiøs fundamentalist og glødende abortmodstander, og ikke alt var som de fleste tror. Forholdene på organisationens institutioner for børn og døende betegnes som horrible, og kun en brøkdel af de svimlende summer, de modtog, blev brugt på de fattige. 
+Gennem breve og beretninger fra frivillige i organisationen forsøger Katarina Lewkovitch nu at finde ud af, hvem og hvad Mother Teresa egentlig var. 
+(Sendt første gang 11. februar 2016).</description>
+      <pubDate>Sat, 01 Jan 2022 11:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:51</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11041606064/5491bc3a60a80adeb875b07555290f2e647e8188f71132951cbf2686e2b8910b.mp3" type="audio/mpeg" length="80428077" />
+    </item>
+  </channel>
+</rss>

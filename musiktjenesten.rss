@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/musiktjenesten" rel="self" type="application/rss+xml" />
+    <title>Musiktjenesten</title>
+    <link>https://www.dr.dk/lyd/p6beat/musiktjenesten-828866764000</link>
+    <description>Musiktjenesten giver dig dagens bedste musikhistorier og gør din eftermiddag hyggelig og sjov - og selvfølgelig fuld af god musik! Vi tester din musikalske viden i quizzer og finder de bedste sange inden for forskellige temaer sammen med dig. Velkommen indenfor!</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:09:40 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/musiktjenesten.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1857d0c1a140697e132.jpg</url>
+      <title>Musiktjenesten</title>
+      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten-828866764000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1857d0c1a140697e132.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452428124</guid>
+      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten-2024/musiktjenesten-16452428124</link>
+      <title>Torsdag 21. mar. 2024</title>
+      <description>Musiktjenesten giver dig dagens bedste musikhistorier og gør din eftermiddag hyggelig og sjov - og selvfølgelig fuld af god musik! Vi tester din musikalske viden i quizzer og finder de bedste sange inden for forskellige temaer sammen med dig. Velkommen indenfor!
+Værter: Jacob Hinchely, Ditte Vestergaard og Natasha Brock.</description>
+      <pubDate>Thu, 21 Mar 2024 14:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428124/2ea85f042cece5a2aea15a8726884ae2f8e98e3fe5fe3111b1ab0c4b6c55799a.mp3" type="audio/mpeg" length="168675128" />
+    </item>
+  </channel>
+</rss>

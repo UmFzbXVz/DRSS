@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/lille-hoeg-og-eloq-paa-p3" rel="self" type="application/rss+xml" />
+    <title>Flex</title>
+    <link>https://www.dr.dk/lyd/p3/flex-5312087735000</link>
+    <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:14:15 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/lille-hoeg-og-eloq-paa-p3.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65e19f8d525d6726354c4348.jpg</url>
+      <title>Flex</title>
+      <link>https://www.dr.dk/lyd/p3/flex-5312087735000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65e19f8d525d6726354c4348.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122434126</guid>
+      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-16122434126</link>
+      <title>Lørdag 23. mar. 2024</title>
+      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
+Produceret for DR af Chloroform.</description>
+      <pubDate>Sat, 23 Mar 2024 20:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434126/06bf762df062247180880b97de199ce581e7f36df2a3409b6d25da89002308f0.mp3" type="audio/mpeg" length="172994539" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122434116</guid>
+      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-16122434116</link>
+      <title>Lørdag 16. mar. 2024</title>
+      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
+Produceret for DR af Chloroform.</description>
+      <pubDate>Sat, 16 Mar 2024 20:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434116/b58522c04315d5c7cfd88f9d7bac8a2ac0be3ccb3a34ecad630c76080227ab65.mp3" type="audio/mpeg" length="172994539" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122434106</guid>
+      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-16122434106</link>
+      <title>Lørdag 9. mar. 2024</title>
+      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
+Produceret for DR af Chloroform.</description>
+      <pubDate>Sat, 09 Mar 2024 20:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434106/64648d0583826746e1378c24990fd5febd56927769f06bfec508b5bd7f30ad81.mp3" type="audio/mpeg" length="172995115" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122434096</guid>
+      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-det-allerfoerste-flex-16122434096</link>
+      <title>Det allerførste flex</title>
+      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.</description>
+      <pubDate>Sat, 02 Mar 2024 20:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434096/45d0431a0636a0171d74d7d474239fae48df81f95b3b8d7ebb4d85db68ed0b25.mp3" type="audio/mpeg" length="172994530" />
+    </item>
+  </channel>
+</rss>

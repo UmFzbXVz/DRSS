@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/morgenbeatet" rel="self" type="application/rss+xml" />
+    <title>Morgenbeatet</title>
+    <link>https://www.dr.dk/lyd/p6beat/morgenbeatet-753435167000</link>
+    <description>Alle hverdagsmorgener får du det bedste og bredeste soundtrack til dagens første timer i sprødt selskab. Og så er det fra 07-10.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:14:18 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/morgenbeatet.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bd1a443243f95e2c3c7d.jpg</url>
+      <title>Morgenbeatet</title>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet-753435167000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bd1a443243f95e2c3c7d.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452432125</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432125</link>
+      <title>Fredag 22. mar. 2024</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Camilla Jane Lea.</description>
+      <pubDate>Fri, 22 Mar 2024 07:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432125/bcfa6ec9a858e2214342fa80c78ddccfc62653565a98a582e95ec79a873d04b7.mp3" type="audio/mpeg" length="252194955" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16452432124</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432124</link>
+      <title>Torsdag 21. mar. 2024</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Camilla Jane Lea.</description>
+      <pubDate>Thu, 21 Mar 2024 07:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432124/cfd447830748f21a312e60b22e8d6ecb50d034c44b6b32534248dc4abf988a4b.mp3" type="audio/mpeg" length="252194379" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16452432123</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432123</link>
+      <title>Onsdag 20. mar. 2024</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Jonas Hansen.</description>
+      <pubDate>Wed, 20 Mar 2024 07:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432123/d0cd64d36a122dbcc3165f3c390807d4a55d3cafef608a1b5ec6ef4dff1787e9.mp3" type="audio/mpeg" length="252194375" />
+    </item>
+  </channel>
+</rss>

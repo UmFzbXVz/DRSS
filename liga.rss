@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/liga" rel="self" type="application/rss+xml" />
+    <title>LIGA</title>
+    <link>https://www.dr.dk/lyd/p4/liga-760470867000</link>
+    <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:09:54 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/liga.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:653280f8bb424b13114af078.jpg</url>
+      <title>LIGA</title>
+      <link>https://www.dr.dk/lyd/p4/liga-760470867000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:653280f8bb424b13114af078.jpg" />
+    <category>Sports</category>
+    <itunes:category text="Sports" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652402126</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402126</link>
+      <title>Lørdag 23. mar. 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Morten Hausborg og Rikke Smed.</description>
+      <pubDate>Sat, 23 Mar 2024 18:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:54:11</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402126/6c78f1d8a7b8977bd52508b11365c08aa7da7468bc7ba48d5c7cfd31417dc551.mp3" type="audio/mpeg" length="337247711" />
+    </item>
+  </channel>
+</rss>

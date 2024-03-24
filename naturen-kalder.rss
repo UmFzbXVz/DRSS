@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/naturen-kalder" rel="self" type="application/rss+xml" />
+    <title>Naturen kalder</title>
+    <link>https://www.dr.dk/lyd/p1/naturen-kalder-2513394426000</link>
+    <description>Naturen kan give os ro og balance, men den kan også rive og ruske, chokere og overraske. 
+Hver uge tager en alment kendt dansker os med til sit yndlingssted i naturen og kommer hjem med nye indsigter og tankevækkende viden. 
+I denne serie er det naturen, der kalder på at få sin historie fortalt.
+DR sætter i 2020 fokus på vores natur. "Naturen kalder" er en del af temaet.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:08:41 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/naturen-kalder.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c05c443243f95e2c74a8.jpg</url>
+      <title>Naturen kalder</title>
+      <link>https://www.dr.dk/lyd/p1/naturen-kalder-2513394426000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c05c443243f95e2c74a8.jpg" />
+    <category>Society &amp; Culture</category>
+    <category>Science</category>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:category text="Science">
+      <itunes:category text="Nature" />
+    </itunes:category>
+    <item>
+      <guid isPermaLink="false">11532005261</guid>
+      <link>https://www.dr.dk/lyd/p1/naturen-kalder/naturen-kalder-2020/naturen-kalder-med-alberte-winding-i-tisvilde-hegn-11532005261</link>
+      <title>Med Alberte Winding i Tisvilde Hegn</title>
+      <description>Alberte Winding er kommet i Tisvilde, siden hun var barn. Hun har badet ved kysten og gået og løbet i skovområdet Tisvilde Hegn. Det er, siger hun, et sted, der er lig med lykke. I "Naturen kalder" får den kendte sangerinde ny viden om sit yndlingssted, når hun oplever områdets biodiversitet i selskab med en ekspert, der kan vise hende liv i naturen, som hun aldrig før har haft øje for. 
+Tilrettelæggelse: Bettina Ohlsen og Johanne Foersom.
+(Sendt første gang 22. juni 2020).</description>
+      <pubDate>Mon, 22 Jun 2020 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:30:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11532005261/1dbc36a47fe9868353a5484a623829d64aab675bce54ed850d53c43ced896f6f.mp3" type="audio/mpeg" length="43211565" />
+    </item>
+  </channel>
+</rss>

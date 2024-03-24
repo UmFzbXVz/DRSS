@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/naturens-symfoni" rel="self" type="application/rss+xml" />
+    <title>Naturens Symfoni</title>
+    <link>https://www.dr.dk/lyd/p2/naturens-symfoni-2717727659000</link>
+    <description>Er det muligt - gennem musikken - at komme dybere ind i den danske natur? Hvordan lyder den? I Naturens Symfoni undersøger vi gennem fem afsnit, hvordan musikken har beskæftiget sig med den danske natur - fra den tidlige romantik til i dag. Serien er følger temaerne i TV-serien 'Vilde vidunderlige Danmark' på DR1. 
+Serien er tilrettelagt af Anna Thaulow og Mikkel Bøgeskov Andersson.
+I redaktionen Lucas Francis Claver.
+Redaktør er Rune Sparre Geertsen.
+Produceret for DR af Filt og Hz&amp;Tone.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 24 Mar 2024 09:09:49 +0100</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/naturens-symfoni.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1487d0c1a140697e03a.jpg</url>
+      <title>Naturens Symfoni</title>
+      <link>https://www.dr.dk/lyd/p2/naturens-symfoni-2717727659000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1487d0c1a140697e03a.jpg" />
+    <category>Science</category>
+    <category>Music</category>
+    <itunes:category text="Science">
+      <itunes:category text="Nature" />
+    </itunes:category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16121920705</guid>
+      <link>https://www.dr.dk/lyd/p2/naturens-symfoni/naturens-symfoni-1/naturens-symfoni-5-5-byen-16121920705</link>
+      <title>5:5 - Byen</title>
+      <description>Byen er på mange måder det modsatte af natur. Og musikken, der tager udgangspunkt i byen, har også meget ofte handlet om byens teknologi, fart og maskiner. Men nyere komponister er begyndt at betragte naturen og byen på en ny måde. I takt med at mennesket har sat sit aftryk overalt på kloden, giver det måske ikke længere mening at tale om naturen og kulturen som to forskellige ting? Hør om den første elektroniske musiker i Danmark, Else Marie Pade, og mød komponisterne Bent Sørensen og Jacob Kierkegaard, der på forskellig vis beskæftiger sig med byen - og naturen - i deres musik. 
+Tilrettelagt af Anna Thaulow og Mikkel Bøgeskov Andersson.
+Produceret for DR af Filt Cph og Hz&amp;Tone.
+(Sendt første gang 31. maj).</description>
+      <pubDate>Sun, 10 May 2020 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010005</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16121920705/c73d2b38e063dd2604750f86a842235b235657d6f623cdd97f410bca50e9d48d.mp3" type="audio/mpeg" length="82087533" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16121920704</guid>
+      <link>https://www.dr.dk/lyd/p2/naturens-symfoni/naturens-symfoni-1/naturens-symfoni-4-5-soeer-og-vandloeb-16121920704</link>
+      <title>4:5 - Søer og vandløb</title>
+      <description>Smukke skovsøer og rislende bække er beskrevet i mange musikalske værker. Musik, der idylliserer en særligt 'dansk' natur. Men hvordan komponerer man en ny musik, der kan beskrive søer og vandløb uden at falde i en fælde af kitsch og brølende kronhjort ved skovsø? Komponist Rasmus Zwicki måtte balancere mellem fortidens romantik og en moderne kølighed, da han komponerede sin musik til TV-serien Vilde vidunderlige Danmark. 
+Tilrettelagt af Anna Thaulow og Mikkel Bøgeskov Andersson.
+Produceret for DR af Filt Cph og Hz&amp;Tone.
+(Sendt første gang 24. maj).</description>
+      <pubDate>Sun, 03 May 2020 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010004</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16121920704/d45bc298bd8825985058a55896ad8a73e2409a82f6a7665f37c4e40ebd9bd0b9.mp3" type="audio/mpeg" length="82081197" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16121920703</guid>
+      <link>https://www.dr.dk/lyd/p2/naturens-symfoni/naturens-symfoni-1/naturens-symfoni-3-5-det-aabne-land-16121920703</link>
+      <title>3:5 - Det åbne land</title>
+      <description>Danmark er et land uden høje bjerge. Det åbne landskab er næsten helt fladt og består mest af marker så langt øjet rækker. Alligevel har kunstnere og komponister gennem tiden tillagt de åbne vidder, som udgør Danmark, en særlig betydning: fra Niels W. Gades romantiske skildringer et særligt dansk landskab. Til Ole Bushs musikalske undersøgelser af landskabets flade struktur. Og så har den flade jord sin egen kammertone, som seismologer kan aflæse - og som komponister skriver musik med.
+Tilrettelagt af Anna Thaulow og Mikkel Bøgeskov Andersson.
+Produceret for DR af Filt Cph og Hz&amp;Tone.
+(Sendt første gang 17. maj).</description>
+      <pubDate>Sun, 26 Apr 2020 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010003</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16121920703/ffc5965f932a6dc3077cde1b1a9aaf4618e2dd2246dfc4377a38122b9e4e5824.mp3" type="audio/mpeg" length="82093869" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16121920702</guid>
+      <link>https://www.dr.dk/lyd/p2/naturens-symfoni/naturens-symfoni-1/naturens-symfoni-2-5-havet-16121920702</link>
+      <title>2:5 - Havet</title>
+      <description>Havet omkring Danmark rummer både skønhed og farer. Der findes masser af musikalske skildringer af havet, som beskriver det smukke, det dramatiske og farlige. Og så findes der komponister, der lader musikken trænge dybt ind i selve havets lyd. I dette afsnit af Naturens Symfoni kommer vi ud på det dramatiske Vesterhav, som det bliver skildret af Hakon Børresen. Dybt ind i havets egen klang med Per Nørgaard. Og endelig skal vi til Færøernes voldsomme atlanterhavskyst med komponist Sunleif Rasmussen, der finder sit tonemateriale direkte i naturen.
+Naturens Symfoni er tilrettelagt af Anna Thaulow og Mikkel Bøgeskov Andersson.
+Produceret for DR af Filt og Hz&amp;Tone.
+(Sendt Første gang 10. maj).</description>
+      <pubDate>Sun, 19 Apr 2020 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010002</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16121920702/6d8bdde28e3f86632169fc7ee066504c0d4d16e3d6bccb97df228f66ddebc9d8.mp3" type="audio/mpeg" length="82080621" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16121920701</guid>
+      <link>https://www.dr.dk/lyd/p2/naturens-symfoni/naturens-symfoni-1/naturens-symfoni-1-5-skoven-16121920701</link>
+      <title>1:5 - Skoven</title>
+      <description>Skoven har gennem tiderne optaget mange komponister. Den har været et tilflugtssted, hvor man kunne finde en særlig ro og inspiration. I dette afsnit tager vi dybt ind i skoven og undersøger den særlige musik, der udspringer af heraf. Vi er i selskab med Rasmus Zwicki, en af komponisterne bag musikken til TV-serien 'Vilde vidunderlige Danmark', der selv har gået ture i skoven for at finde inspiration. 
+Tilrettelagt af Anna Thaulow og Mikkel Bøgeskov Andersson.
+I redaktionen Lucas Francis Claver.
+Redaktør er Rune Sparre Geertsen.
+Produceret for DR af Filt og Hz&amp;Tone.</description>
+      <pubDate>Sun, 12 Apr 2020 06:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16121920701/1838369262cd40dc4140114c64964e99c0d7306554b2f8fd17ae7e4aaccab130.mp3" type="audio/mpeg" length="82088109" />
+    </item>
+  </channel>
+</rss>
