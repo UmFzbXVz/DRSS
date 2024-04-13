@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/besaettelsen" rel="self" type="application/rss+xml" />
+    <title>Besættelsen</title>
+    <link>https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000</link>
+    <description>Besættelsen er en årtier lang familiehistorie om kærlighed, krig og løgne under nazisternes besættelse af Danmark under Anden Verdenskrig. Arne Øland har aldrig kendt sin far. Hans mor nægtede at tale om hverken Arnes far eller sin egen fortid. En dag slipper lidt af hemmeligheden alligevel ud, og en vild historie udfolder sig. En historie, der udvikler sig til en besættelse for Arne. Spørgsmålet er, hvor godt vi egentlig kender vores forældre, og hvad det gør ved børn ikke at kende deres ophav?
+&lt;a href="https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_content=podcastseries:besaettelsen"&gt;Hør hele serien i DR Lyd.&lt;/a&gt;</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sat, 13 Apr 2024 16:32:32 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/besaettelsen.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6613a38afc491910acc4918a.jpg</url>
+      <title>Besættelsen</title>
+      <link>https://www.dr.dk/lyd/special-radio/besaettelsen-5444397043000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6613a38afc491910acc4918a.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494201</guid>
+      <link>https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-1-5-hemmeligheden-16122494201</link>
+      <title>1:5 - Hemmeligheden</title>
+      <description>En hyggelig fætter-kusine-fest udvikler sig voldsomt for Arne, da en hemmelighed kommer frem. Pludselig siger alle omkring bordet, at de godt ved, hvem Arnes far er - noget som Arne selv ikke har en anelse om. Det bliver for Arne starten på et opgør med sin mors fortid. En fortid hun har holdt skjult for ham.
+
+Tilrettelægger: Anne Pilegaard Petersen.
+Lyddesign: Tobias Ingemann.
+Redaktør: Rune Sparre Geertsen.
+Medvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Tue, 09 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494201/c9b159fd40fb41dfb0495363665b5030c0e9424527f93756ae2b828fb813a928.mp3" type="audio/mpeg" length="34655476" />
+    </item>
+  </channel>
+</rss>

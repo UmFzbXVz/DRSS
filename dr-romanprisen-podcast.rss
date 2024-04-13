@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:08:57 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:32:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -424,8 +424,24 @@ Vært: Diana Bach.</description>
       <itunes:season>19</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:00</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11532160005/8466d97acd04b34fa5a588ab9eae67f64f38a09a0eedb8660202edfad92e16a3.mp3" type="audio/mpeg" length="38884077" />
+      <itunes:duration>00:27:01</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11532160005/5bb984f3195fa5c355989ea0871ab60707279ffb7beac25bcf9160701039a7b5.mp3" type="audio/mpeg" length="38924235" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11532160004</guid>
+      <link>https://www.dr.dk/lyd/p1/dr-romanprisen/2021/dr-romanprisen-2021-4-6-anne-lise-marstrand-joergensen-11532160004</link>
+      <title>2021 4:6 - Anne Lise Marstrand-Jørgensen</title>
+      <description>Den fjerde kandidat til DR Romanprisen 2021 er Margrete I, en historisk roman om Danmaks regent, der blev født i 1353. Forfatter Anne Lise Marstrand-Jørgensen fortæller om Margretes liv, fra hun som ti-årig mister sin bror, tronarvingen Kristoffer, og den lille Margrete sendes til Norge for at blive gift med Norges konge. Romanen slutter, da hun har nået sit mål i 1397; at forene Norden i Kalmarunionen. Margrete er en eminent politiker, men hendes liv er præget af ensomhed og isolation. Anne Lise Marstrand-Jørgensen giver os et svimlende indblik i det komplicerede spil om magten i hele Norden. 
+Medvirkende: Anne Lise Marstrand-Jørgensen og Amalie Langballe.
+Vært: Diana Bach.</description>
+      <pubDate>Wed, 03 Mar 2021 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000190004</itunes:order>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:46</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11532160004/4b0ea06542cc96cfcc8163f27c6c2dbe63e81c9a5f61f8bfb610c10a51221789.mp3" type="audio/mpeg" length="38555012" />
     </item>
     <item>
       <guid isPermaLink="false">11532160003</guid>

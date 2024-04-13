@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/faldet" rel="self" type="application/rss+xml" />
+    <title>Faldet - mysteriet om de rystede hjerner</title>
+    <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000</link>
+    <description>Det første Mads Ellesøe hører da han åbner sine øjne er hans 7-årige datter, der råber "FAR!". Så mærker han, hvordan det bløder fra baghovedet. Han er faldet og har slået hovedet ned i badeværelsesgulvet. Et slag, der udvikler sig til at blive en langvarig hjernerystelse. Midt i sin kamp for at blive rask, oplever Mads, ligesom mange andre med længerevarende hjernerystelser, at blive overladt til sig selv uden meget hjælp fra det danske sundhedssystem. Pludselig opdager Mads Ellesøe, at der i USA virker til at være en helt anden tilgang til at behandle hjernerystelser. Så han rejser afsted i håb om at finde kuren mod hjernerystelser.
+Vært og tilrettelæggelse: Mads Ellesøe.
+Tilrettelæggelse, mix og musik: Mikkel Rönnau, MonoMono.
+Redaktør: Jens Vithner.
+OBS - der findes en version af serien uden musik og lyddesign med titlen "FALDET - LYDFØLSOM VERSION".
+&lt;a href="https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_content=podcastseries:faldet"&gt;Hør hele serien i DR Lyd.&lt;/a&gt;</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sat, 13 Apr 2024 16:27:33 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/faldet.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6602be718433247f61991019.jpg</url>
+      <title>Faldet - mysteriet om de rystede hjerner</title>
+      <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner-5372264161000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6602be718433247f61991019.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802418503</guid>
+      <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-3-5-et-sidste-haab-11802418503</link>
+      <title>3:5 - Et sidste håb</title>
+      <description>Med ørepropper i ørerne sætter Mads Ellesøe sig i flyet mod USA. Gemmer de her på den behandling, der kan kurere hans langvarige hjernerystelse? Efter næsten to års sygdom er det måske hans allersidste mulighed for at blive rask.</description>
+      <pubDate>Tue, 09 Apr 2024 15:45:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010003</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802418503/5a9101196b58f520329ec93e8de793b604412cec5103d42ca0d3a5346536b463.mp3" type="audio/mpeg" length="35580531" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802418502</guid>
+      <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-2-5-nedrullede-gardiner-11802418502</link>
+      <title>2:5 - Nedrullede gardiner</title>
+      <description>Bag nedrullede gardiner oplever Mads, at tiden er ved at løbe ud for en hurtig helbredelse af hjernerystelsen. Spørgsmålet er, om Mads kan undgå at hans sygdom bliver kronisk, som en læge har advaret ham om.</description>
+      <pubDate>Tue, 02 Apr 2024 15:45:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010002</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802418502/ef41ce5304608ab43bb25da476b2369f79023053de844c629e457dbeaed7cc04.mp3" type="audio/mpeg" length="40119961" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802418501</guid>
+      <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-1-5-den-usynlige-fjende-11802418501</link>
+      <title>1:5 - Den usynlige fjende</title>
+      <description>Da Mads Ellesøe slår hovedet i badeværelsesgulvet, bliver hans liv sat på pause. De efterfølgende måneder oplever han, at ingen i sundhedssystemet kan fortælle ham, hvad han skal gøre for at blive rask. Han må flytte væk fra sin kæreste og børn, og ind på sit gamle børneværelse hos sin mor. Her begynder ét spørgsmål at trænge sig på: Er vi i Danmark gode nok til at behandle personer med længerevarende hjernerystelser?</description>
+      <pubDate>Tue, 26 Mar 2024 15:45:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802418501/3819fbc752d88af12b6a81288c92112e2d648946ed30a954fbc2e15da081cb4d.mp3" type="audio/mpeg" length="36854096" />
+    </item>
+  </channel>
+</rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:09:03 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:32:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,32 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c131443243f95e2c79e8.jpg" />
     <category>TV &amp; Film</category>
     <itunes:category text="TV &amp; Film" />
+    <item>
+      <guid isPermaLink="false">16122492307</guid>
+      <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-robot-dreams-dragon-s-dogma-2-og-hideo-kojima-16122492307</link>
+      <title>Robot Dreams, Dragon's Dogma 2 og Hideo Kojima</title>
+      <description>Denne gang taler redaktionen om biograffilmene Robot Dreams og Miyazakis første spillefilm Lupin III: Cagliostros Borg, spillene Dragon's Dogma 2, Tomb Raider I-III Remastered og Rise of the Ronin samt dokumentaren Hideo Kojima: Connecting Worlds på Disney+.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+      <pubDate>Thu, 11 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:25:14</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492307/d08593cba85c1f3513ddd5df0ff84f05c7a5543011de0c4fa029b5b82ac97f07.mp3" type="audio/mpeg" length="122751730" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122492306</guid>
+      <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-ghostbusters-sand-land-og-godzilla-x-kong-16122492306</link>
+      <title>Ghostbusters, Sand Land og Godzilla x Kong</title>
+      <description>Denne gang taler redaktionen om biograffilmene Ghostbusters: Frozen Empire og Godzilla x Kong: The New Empire, spillene Princess Peach: Showtime! og Pacific Drive samt animationsserierne Sand Land baseret på Akira Toriyamas manga og X-Men '97 på Disney+.
+ 
+Medvirkende: Jakob Stegelmann, Troels Møller, Christopher Andersen, Benjamin Stegelmann og Regitze Heiberg.</description>
+      <pubDate>Thu, 28 Mar 2024 05:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:25:40</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492306/f0c5844d593646c638a3d812dcaef2da11d8fdea1c8ae2898cd70f308316d513.mp3" type="audio/mpeg" length="123376180" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492305</guid>
       <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2024/troldspejlet-avatar-legender-og-latte-og-skull-og-bones-16122492305</link>
@@ -822,19 +848,6 @@ Medvirkende: Jakob Stegelmann, Troels Møller, Ida Rud, Christopher Andersen, Re
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:56</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192307/7cf7d227f4a429bdcd90f056ae529449932bda8f49ecbd72189769d13cfe90c5.mp3" type="audio/mpeg" length="81988461" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192306</guid>
-      <link>https://www.dr.dk/lyd/p1/troldspejlet-podcast/troldspejlet-podcast-2021/troldspejlet-justice-league-ghosts-n-goblins-og-sherlock-holmes-16122192306</link>
-      <title>Justice League, Ghosts 'n Goblins og Sherlock Holmes</title>
-      <description>Troldspejlets redaktion taler om Zack Snyders fire timer lange udgave af Justice League på HBO, Marvel-serien Falcon and the Winter Soldier på Disney+, en ny udgave af et af verdens sværeste spil - nemlig Ghosts 'n Goblins Resurrection - samt tegneserierne Samuel Stern og I hovedet på Sherlock Holmes.
-Medvirkende: Jakob Stegelmann, Ida Rud, Christopher Andersen og 
-Regitze Heiberg.</description>
-      <pubDate>Thu, 01 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:45</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192306/7ff974b460435c0e5a65e1f24f6b0bc4589e775b14e7a55b4f4a58109ae16652.mp3" type="audio/mpeg" length="81729837" />
     </item>
   </channel>
 </rss>

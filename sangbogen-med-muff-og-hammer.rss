@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:09:41 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,43 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422458147</guid>
+      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-morgensange-12422458147</link>
+      <title>Morgensange</title>
+      <description>Sig goddag til en ny dag med en sang. Lad smartphonen snooze videre, og begynd dagen med en sang i stedet. Katrine Muff og Mathias Hammer synger for i sange der både hylder morgenens særlige sarthed og skønhed.</description>
+      <pubDate>Sun, 07 Apr 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422458147/537bfa70655d3709ab79f8c100c3fe47b8b6b29b7e836ee1ef4a668e7afefa2d.mp3" type="audio/mpeg" length="82275100" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422458135</guid>
+      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-paaskens-sange-og-salmer-12422458135</link>
+      <title>Påskens sange og salmer</title>
+      <description>Påsken byder på store følelser af afmagt, svigt og smerte, men også af håb i livets opståen.
+Katrine Muff og Mathias Hammer har fundet sange frem til højtiden, men har også lagt påskeæg ud med indbyggede musikalske overraskelser.</description>
+      <pubDate>Fri, 29 Mar 2024 11:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422458135/a55e22d084cb03908e84b2bd9863e9d34bc290f107fcc8d25e1b503de5cdf2cb.mp3" type="audio/mpeg" length="82274547" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422458127</guid>
+      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-sange-om-at-hylde-andre-12422458127</link>
+      <title>Sange om at hylde andre</title>
+      <description>Med udgangspunkt i Palmesøndag hylder Katrine Muff og Mathias Hammer alt og alle, eller i hvert fald mange. De spiller sange der hylder, ærer, lovpriser den eneste ene, venskabet, moderskabet eller sig selv. Sange fra One Two, Händel og Andreas Odbjerg, feat. Emma Sehested Høeg, og mange flere.</description>
+      <pubDate>Sun, 24 Mar 2024 18:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422458127/735e22d80843e012f545404e96d9f2b333af24d8e9fe93ed665814b8e21fec75.mp3" type="audio/mpeg" length="82275137" />
+    </item>
     <item>
       <guid isPermaLink="false">12422458117</guid>
       <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-sange-om-at-huske-12422458117</link>
@@ -304,42 +341,6 @@ Værter: Katrine Muff og Mathias Hammer.</description>
       <itunes:duration>01:17:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358417/6c23a13e3c4c047f9a6e27d11fe91d9429ed0e61afafbb03a565f788a733f172.mp3" type="audio/mpeg" length="110881243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422358407</guid>
-      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2023/sangbogen-med-muff-og-hammer-sange-med-fugle-12422358407</link>
-      <title>Sange med fugle</title>
-      <description>Der er mange sange der handler om fugle, og forbavsende mange om lærken. Katrine Muff og Mathias Hammer fløjter sig igennem Sangbogen med sange om fugle i alle størrelser af blandt andre Carl Nielsen, Stine Pilgaard, Malk de Koijn og så kan du også møde ondulaten Skipper.</description>
-      <pubDate>Sun, 08 Oct 2023 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:17:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358407/b7b9910852ba0bcaf12fc59f0c44634b9fc546e4b7c24715004cf0841c8ee4b5.mp3" type="audio/mpeg" length="110881243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422358397</guid>
-      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2023/sangbogen-med-muff-og-hammer-de-doede-poeters-klub-12422358397</link>
-      <title>De døde poeters klub</title>
-      <description>Sangskrivere der døde unge, nogle er næsten glemt, andre hyldet. Katrine Muff og Mathias Hammer fylder Sangbogen med sange der for længst har bevist deres værd, selvom ophavskvinden eller manden er død alt for ung. Hør udødelige sange fulde af levet liv af blandt andre Judee Sill, Amy Winehouse og Edith Södergran.</description>
-      <pubDate>Sun, 01 Oct 2023 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:17:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358397/06ff021fe26f3ee5f63601293b2b1a5769fc7be429f18a39a89d70b5fb02b7f2.mp3" type="audio/mpeg" length="110881243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422358387</guid>
-      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2023/sangbogen-med-muff-og-hammer-storbyen-12422358387</link>
-      <title>Storbyen</title>
-      <description>Herfra min verden går, og så går det ellers ud til nogle af verdens storbyer. Katrine Muff og Mathias Hammer rejser rundt til de kolde, farlige, dragende og romantiske metropoler med rygsækken proppet af storbysange.</description>
-      <pubDate>Sun, 24 Sep 2023 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:17:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358387/8bccfa76d7beca88cc7d671bc1d9aea40f3eb6b988e904481cba108205fbf9af.mp3" type="audio/mpeg" length="110881819" />
     </item>
   </channel>
 </rss>

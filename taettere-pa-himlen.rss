@@ -9,7 +9,7 @@ Andrew Moyo har dig. Kom nu!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:14:21 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,32 @@ Andrew Moyo har dig. Kom nu!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332429155</guid>
+      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-kaare-quist-og-stephanie-surrugue-13332429155</link>
+      <title>Med Kåre Quist og Stéphanie Surrugue</title>
+      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
+Andrew Moyo har dig. Kom nu!</description>
+      <pubDate>Fri, 12 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429155/271006c069482c3a53ee38a2068a2e31ca96a988e9e81579b1d0f88a84aab666.mp3" type="audio/mpeg" length="172801475" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332429145</guid>
+      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-jonas-visti-og-simon-stefanski-13332429145</link>
+      <title>Med Jonas Visti og Simon Stefanski</title>
+      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
+Andrew Moyo har dig. Kom nu!</description>
+      <pubDate>Fri, 05 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429145/8728294530b428469e413057b7ebe2f1de569953c485d860119f27e7bdde7fd4.mp3" type="audio/mpeg" length="172994434" />
+    </item>
     <item>
       <guid isPermaLink="false">13332429115</guid>
       <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-emma-sehested-og-jennifer-vedsted-13332429115</link>
@@ -267,34 +293,6 @@ Gæster: Jakob Garff og Oskar Bernhardtsen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329415/80ce6101b8f75c51b147e44e385b47891ee9cbbef3c71b0b51683524186df40a.mp3" type="audio/mpeg" length="172801819" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332329405</guid>
-      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2023/taettere-paa-himlen-13332329405</link>
-      <title>Fredag 6. okt. 2023</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!
-Gæster: Anton Westerlin og Nicki Pooyandeh.</description>
-      <pubDate>Fri, 06 Oct 2023 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329405/6e298ea33e4506429059d97436951f6657af02794cdeef278ab9b8ac455e3c7e.mp3" type="audio/mpeg" length="172801819" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332329395</guid>
-      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2023/taettere-paa-himlen-13332329395</link>
-      <title>Fredag 29. sep. 2023</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!
-Gæster: Sofie Diemer og Pelle Peter Jencel.</description>
-      <pubDate>Fri, 29 Sep 2023 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329395/4ae2cc6a2071871c942ecfa41a077584726f57fca7ba22fae97858717b2a8979.mp3" type="audio/mpeg" length="172801819" />
     </item>
   </channel>
 </rss>

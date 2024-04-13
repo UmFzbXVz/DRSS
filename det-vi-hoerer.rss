@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:09:32 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,38 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481841</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-bona-gratia-12422481841</link>
+      <title>Bona Gratia</title>
+      <description>Jeg deler mit allerlykkeligste rum med dig og den musik som kan transportere mig derhen. Ombord på den gamle snurrevodskutter med galeaserigning, Bona Gratia, er alting småt og stort og vådt og tørt. Det står aldrig stille under ens ben og er man først bidt af at sejle, så holder den besættelse aldrig op. Jeg har det på samme måde med meget af den musik jeg vil spille i timen. Jeg kan ikke stoppe med at lytte til det, igen og igen. Hør blandt andet hajfiskeren Astor Piazzolla styre udenom sirenerne på klippeskæret i Lili Boulangers værk for kvindestemmer. 
+Vært: Cæcilie Iburg Printzlau.</description>
+      <pubDate>Sun, 07 Apr 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000170001</itunes:order>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481841/b59b7b4ca8cc186794b0342750d054a7f078f993e29021455161a778ae61ce8d.mp3" type="audio/mpeg" length="168674568" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481821</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/helle-christensen/det-vi-hoerer-1-8-at-underholde-berige-og-forstyrre-12422481821</link>
+      <title>1:8 At underholde, berige og forstyrre</title>
+      <description>Med et mantra, lånt fra en nulevende dansk komponist, inviterer jeg dig med på en musikalsk rejse i 8 afsnit. Bach og blokfløjter, Sibelius og svaner blander sig med drikkeviser i skoven og en hel forårssymfoni. Og selvfølgelig også musik af mantraets ophavsmand.
+Vært: Helle Kristensen.</description>
+      <pubDate>Sat, 06 Apr 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160001</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481821/4c934a4ec15d643e7e1d6f4125e3d2eafc6eddb16232d76b6b6aec8886f791d2.mp3" type="audio/mpeg" length="168674571" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481806</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/mette-greiffenberg/det-vi-hoerer-stille-ro-til-tanker-og-nydning-12422481806</link>
@@ -335,38 +367,6 @@ Vært: Ole Bartholin Kiilerich.</description>
       <itunes:duration>01:49:04</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381864/697724d331cbb601eb4bf6c5fb11c8c1f4fcc95ddd49b36963b619e870dcdb19.mp3" type="audio/mpeg" length="157081627" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381863</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-den-klassiske-musik-smider-toejet-12422381863</link>
-      <title>Den klassiske musik smider tøjet!"</title>
-      <description>I dette afsnit vover vi pelsen og træder ind i musikkens mest intime rum, instrumentalsonaten, hvor små skift i energien, et stjålent blik eller et tilbageholdt åndedræt gør hele forskellen. Ole Bartholin Kiilerich sætter ord på, hvorfor musikken ikke kommer fra noderne, men fra det intime samspil mellem personligheder.
-Vært: Ole Bartholin Kiilerich.</description>
-      <pubDate>Fri, 06 Oct 2023 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000100003</itunes:order>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:49:28</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381863/9f29fd95de9013cfb296f7d3811d27868dd1a342b8d57d5aa1ebf4e5115bb8f8.mp3" type="audio/mpeg" length="157657627" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381862</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-en-hidtil-ukendt-liste-og-celeste-in-memoriam-12422381862</link>
-      <title>En hidtil ukendt liste og celeste in memoriam</title>
-      <description>I dette afsnit af Det vi hører oplister Ole Bartholin Kiilerich en eksklusiv og absolut på ingen måde udtømmende liste med de orkesterværker, der udmærker sig ved at have en markant klaver- eller celestestemme. Vi skal lære, hvordan et symfoniorkester hvisker "Der var engang...", samt få en forklaring på, hvorfor det allersværeste i et orkester er, når man IKKE skal spille.
-Vært: Ole Bartholin Kiilerich.</description>
-      <pubDate>Fri, 29 Sep 2023 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000100002</itunes:order>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:49:32</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381862/9650a6bdedc3e5bfca95a58948455dd877b6de8f529a81bf6cef4a7e8e740bc7.mp3" type="audio/mpeg" length="157749211" />
     </item>
   </channel>
 </rss>

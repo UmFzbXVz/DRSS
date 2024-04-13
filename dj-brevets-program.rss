@@ -4,13 +4,11 @@
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/dj-brevets-program" rel="self" type="application/rss+xml" />
     <title>DJ Brevets musikprogram</title>
     <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram-3072655037000</link>
-    <description>DJ Brevets musikprogram udfolder hver lørdag kl. 19 en samtale om musik og liv med lytterne igennem breve og telefonsvarermeddelelser. Musik- og emnevalg er så varieret og uforudsigeligt som de mange lytterstemmer der ugentligt deler idéer, erfaringer og musikalske ønsker med hinanden. Programmets vært hedder DJ Brevet og ledsages ofte af sin tekniker Mixi ("Mixenøren"). 
-Vi vil også gerne høre fra dig. Telefonsvarermeddelelser og SMS tages imod på tlf. 4266 8029. 
-Breve og indtalinger kan sendes til djbrevet@djbrevet.dk</description>
+    <description>Al musik ligger jo på streaming i dag, så i DJ Brevets musikprogram lytter vi til musik, der slet ikke findes. I sikker afstand fra algoritmernes hovedveje fejrer vi bredden af det globale popmusik-skattekammer: glemte dansksprogede hits fra DR diskotekets pladesamling, keyboardmusik fra Melanesien, calypso, reggae, disco og dansktop. Sig ja tak til nye opdagelser, gode melodier og et beat du kan danse til.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:09:35 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +25,34 @@ Breve og indtalinger kan sendes til djbrevet@djbrevet.dk</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122463146</guid>
+      <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram/dj-brevets-musikprogram-2024/dj-brevets-musikprogram-013-overskriften-sir-lissom-det-hele-ik-16122463146</link>
+      <title>013 - Overskriften sir lissom det hele ik</title>
+      <description>To sange om danske motorvejsstrækninger, to sange om bordets mange glæder. Hardrock og boogie woogie går hånd i med en stribe (næsten) objektive bangers fra det afrikanske kontinent. Dansksprogede vinylsingler fra DR Diskotekets gemmer bliver støvet af og lyttet til.</description>
+      <pubDate>Sat, 06 Apr 2024 19:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:54:07</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463146/68460cef90c5de8876aba2f825eccbd206e49ac4e68ea1642a9e8810867d980a.mp3" type="audio/mpeg" length="164348808" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122463136</guid>
+      <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram/dj-brevets-musikprogram-2024/dj-brevets-musikprogram-012-doedsmetal-kattelem-16122463136</link>
+      <title>012 - Dødsmetal-kattelem</title>
+      <description>Lad os sige for tilfældets skyld at du ikke i forvejen er pjattet med dødsmetal. For at lytte på tværs af den ensformige væg af guitarlarm kræver det blot en lille konkylie-formet lerfløjte der spiller med. Så er kattelemmen til en større forståelse for dødsmetal åbnet på klem. I aftenens udsendelse tilbydes der indgange til et bredt spænd af musikalske udtryk: elevator-house fra '00erne, calypso, dødsmetal og spacerock.
+
+DJ Brevets musikprogram tager med tak imod lytterskabte radioprogrammer fra alle lyttere der er interesserede i at prøve kræfter med radioformatet. Formen bestemmer du selv. Du kan lave musikradio, en reportage fra et sted i dit liv, eller udvikle en helt ny fortælle-form der berører det alle sjæle radiofællesskabet på måder ingen kunne have forestillet sig før du tog fat. Talent hverken et krav eller en hindring.
+
+Det tekniske er simpelt: brug din telefon eller diktafon og send optagelser af 2-15 minutters varighed, eller dine spørgsmål, til djbrevet@djbrevet.dk og så kan dit radioindslag blive sendt som en del af DJ Brevets musikprogram.</description>
+      <pubDate>Sat, 30 Mar 2024 19:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:54:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463136/4f94f4ca1dc912966d3048ca3f5ea0fe5c929b9029163d52ad81bc2bfcc724c5.mp3" type="audio/mpeg" length="164354568" />
+    </item>
     <item>
       <guid isPermaLink="false">16122463126</guid>
       <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram/dj-brevets-musikprogram-2024/dj-brevets-musikprogram-011-ketchup-5-5-og-tomatsuppe-5-5-og-gaesteprogram-16122463126</link>
@@ -65,52 +91,6 @@ Det tekniske er simpelt: brug din telefon eller diktafon og send optagelser af 2
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463116/40c63863905f54d595d242c3447e078318d3cb7cc579d83e6758b7ad37b08533.mp3" type="audio/mpeg" length="168675148" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122463106</guid>
-      <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram/dj-brevets-musikprogram-2024/dj-brevets-musikprogram-009-musikteknologi-extrasuperspurgt-x-splainer-torium-16122463106</link>
-      <title>009 - Musikteknologi extrasuperspurgt x-splainer-torium</title>
-      <description>Det viser sig at de i Sydkorea har en form for disco-musik hvor udgivelserne gerne har opimod 80 sange hver. Sangstemmen har en form for teknologisk-frembragt vibrato-effekt. Genren 'pong chak'-disco giver anledning til en længere gennemgang med eksempler af forskellige former for stemmepåvirkende musik-teknologi: talk-box, vocoder og auto-tune.
-
-Vi byder også på det første lytterskabte program-i-programmet! Samt en stribe "dansk"-sprogede hits.
-
-DJ Brevets musikprogram tager med tak imod lytterskabte radioprogrammer fra alle lyttere der er interesserede i at prøve kræfter med radioformatet. Formen bestemmer du selv. Du kan lave musikradio, en reportage fra et sted i dit liv, eller udvikle en helt ny fortælle-form der berører det alle sjæle radiofællesskabet på måder ingen kunne have forestillet sig før du tog fat. Talent hverken et krav eller en hindring.
-
-Det tekniske er simpelt: brug din telefon eller diktafon og send optagelser af 2-15 minutters varighed, eller dine spørgsmål, til djbrevet@djbrevet.dk og så kan dit radioindslag blive sendt som en del af DJ Brevets musikprogram.</description>
-      <pubDate>Sat, 09 Mar 2024 19:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:54:06</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463106/252283bce90faedf2913b48053223be34d5d5c3004a2d58016ded008ef4239b8.mp3" type="audio/mpeg" length="164306760" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122463096</guid>
-      <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram/dj-brevets-musikprogram-2024/dj-brevets-musikprogram-008-loest-med-skam-16122463096</link>
-      <title>008 - Løst med skam</title>
-      <description>Klaveret nyder en vis status som klassisk instrument. Netop derfor er det rart ind imellem at lægge øren til de pianister der trykker hårdt i tangenterne. Klaver-bokserne Professor Longhair, Allen Toussaint og Katie Webster præsenteres. Derudover en sektion med sange fra 70'erne og 80'erne om klimaet. Er der overhovedet sket noget på dette punkt? Og er det rimeligt at individualisere det enkelte menneskes frygt for klimakollaps som 'klima-angst'?
-
-DJ Brevets musikprogram tager med tak imod lytterskabte radioprogrammer fra alle lyttere der er interesserede i at prøve kræfter med radioformatet. Formen bestemmer du selv. Du kan lave musikradio, en reportage fra et sted i dit liv, eller udvikle en helt ny fortælle-form der berører det alle sjæle radiofællesskabet på måder ingen kunne have forestillet sig før du tog fat. Talent hverken et krav eller en hindring.
-
-Det tekniske er simpelt: brug din telefon eller diktafon og send optagelser af 2-15 minutters varighed, eller dine spørgsmål, til djbrevet@djbrevet.dk og så kan dit radioindslag blive sendt som en del af DJ Brevets musikprogram.</description>
-      <pubDate>Sat, 02 Mar 2024 19:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:54:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463096/0e657e67a801a3e0448d2b439618e940dc8e2bdc8c6de40cc041b3d1f6a24d92.mp3" type="audio/mpeg" length="164332682" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122463086</guid>
-      <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram/dj-brevets-musikprogram-2024/dj-brevets-musikprogram-007-kaelder-mestervaerk-i-sikker-afstand-fra-virkeligheden-16122463086</link>
-      <title>007 - Kælder-mesterværk i sikker afstand fra virkeligheden</title>
-      <description>Det forlyder at nogle af sidste uges sange i virkeligheden var sange i forklædning; sange på vrangen. DJ Brevet inspicerer med hjælp fra en lytter. Et eksemplar af Tom Clelands kældermesterværks-weirdo-CD "Deadline 2000" er kommet programmet i hænde takket være en anden af programmets lyttere. Så med blandt andet dystre miner tænder vi for en elpære der lyser med mørke og præsenterer mere outsider-musik i DJ Brevets musikprogram.</description>
-      <pubDate>Sat, 24 Feb 2024 19:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:54:01</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463086/5b66a98d0e148e3d2a0183ba3f40ed77a2072a6cbf5e3a3640799a5b1038a0cb.mp3" type="audio/mpeg" length="164187530" />
     </item>
   </channel>
 </rss>

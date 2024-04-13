@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:14:24 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,30 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122433155</guid>
+      <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-16122433155</link>
+      <title>Fredag 12. apr. 2024</title>
+      <description>Alt er Lågsus på P3, når Pelle Peter Jencel &amp; Nicholas Kawamura fyrer op for din eftermiddag.</description>
+      <pubDate>Fri, 12 Apr 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122433155/4ecbcf405ecdbb4a11389188767e40b8ad7da68534a52e293505237407452d5b.mp3" type="audio/mpeg" length="172802000" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122433145</guid>
+      <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-kan-alle-sange-korificeres-16122433145</link>
+      <title>Kan alle sange korificeres?</title>
+      <description>Det er blevet fredag og dermed også tid til 2 timers Lågsus på P3! På quizfronten tester vi en lytter i Futures uigenkendelige engelsk, og Nicholas tester Pelle i Mikkel Hansen. Desuden vil vi starte en challenge - kan alle sange korificeres? Det tester vi ved at sætte programmets praktikant Esmeraldas kor UngKlang i sving. Lytterne kommer på banen og får lov at vælge, hvilken sang vi skal høre i en specially made korversion.</description>
+      <pubDate>Fri, 05 Apr 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122433145/5a3d22f4ea75bb5eba997ecc6cb1ee02be125bcfdb5e2af75b42f509464c1d8b.mp3" type="audio/mpeg" length="172994384" />
+    </item>
     <item>
       <guid isPermaLink="false">16122433125</guid>
       <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-16122433125</link>

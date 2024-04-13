@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:09:03 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:32:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,30 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523be5f443243f95e2c58e3.jpg" />
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
+    <item>
+      <guid isPermaLink="false">11042406147</guid>
+      <link>https://www.dr.dk/lyd/p1/pilgrim-paa-rejse-i-troens-univers/pilgrim-paa-rejse-i-troens-univers-2024/pilgrim-troens-perspektiv-11042406147</link>
+      <title>Pilgrim: Troens perspektiv</title>
+      <description>Lægestuderende Zainab Nasrati fortæller om udfordringen ved at møde en foranderlig verden med troens og hjertets fortegn.
+Vært: Anders Laugesen.</description>
+      <pubDate>Sun, 07 Apr 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:02</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042406147/0bd2fa5e7527262714905020403cc5c0d48dfbc3ebe6a3723fbb1c89ca149658.mp3" type="audio/mpeg" length="79262553" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11042406137</guid>
+      <link>https://www.dr.dk/lyd/p1/pilgrim-paa-rejse-i-troens-univers/pilgrim-paa-rejse-i-troens-univers-2024/pilgrim-i-moede-med-opstandelsen-11042406137</link>
+      <title>Pilgrim i møde med opstandelsen</title>
+      <description>Radiovært Jesper Borup og frikirkepræst Thomas Hansen fortæller om at møde den opstandne Jesus. Desuden beskrives opstandelsen gennem påskens salmer.
+Vært: Anders Laugesen.</description>
+      <pubDate>Sun, 31 Mar 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:52</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042406137/790785acb8961531e8a670cf0e0aa834f730168ebb86edfa3e894a347034c700.mp3" type="audio/mpeg" length="79021820" />
+    </item>
     <item>
       <guid isPermaLink="false">11042406127</guid>
       <link>https://www.dr.dk/lyd/p1/pilgrim-paa-rejse-i-troens-univers/pilgrim-paa-rejse-i-troens-univers-2024/pilgrim-salmer-til-tiden-11042406127</link>
@@ -1808,30 +1832,6 @@ Vært Anders Laugesen.
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:52</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042106147/6a8a1994e8a0eac1bcd50eeb79fecb4757291a03b2ec1a5cfc5a5b8435ccfeef.mp3" type="audio/mpeg" length="81900909" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042106137</guid>
-      <link>https://www.dr.dk/lyd/p1/pilgrim-paa-rejse-i-troens-univers/pilgrim-paa-rejse-i-troens-univers-2021/opstandelse-11042106137</link>
-      <title>Opstandelse</title>
-      <description>Korshærspræst Morten Aagaard fortæller om opstandelse, i vamestuen, i forelskelsen og i foråret. Men også i mødet med døden. Fra Jerusalem fortæller cand.teol. Bodil Skjøtt om påske i gravkirken og der er en reportage fra påskenat blandt etiopierne på Gravkirkens tag.
-Vært: Anders Laugesen.</description>
-      <pubDate>Sun, 04 Apr 2021 08:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:06</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042106137/07f89d80407b117ba09587473284d36827ad3c3674abf56cc42dbba309f5eb27.mp3" type="audio/mpeg" length="82245357" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042106127</guid>
-      <link>https://www.dr.dk/lyd/p1/pilgrim-paa-rejse-i-troens-univers/pilgrim-paa-rejse-i-troens-univers-2021/palmesoendag-11042106127</link>
-      <title>Palmesøndag</title>
-      <description>Forfatter og kirkekender Hans Ravn Iversen overvejer, hvordan troens indtog i dag tager form i folkekirken. Derefter reportage fra en kakao-ceremoni med Sarah Berg.
-Vært: Anders Laugesen.</description>
-      <pubDate>Sun, 28 Mar 2021 08:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:12</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042106127/20fc539baa48bd39411328f06a98bd4ea5dd43a86c953f1fe273345bbcd34fcd.mp3" type="audio/mpeg" length="82383597" />
     </item>
   </channel>
 </rss>

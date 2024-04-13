@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:09:35 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452436146</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-moon-river-og-andre-uimodstaaelige-ting-18452436146</link>
+      <title>Moon River og andre uimodståelige ting</title>
+      <description>En funky 70er sag åbner ballet, Ella Fitzgerald er i et sentimentalt humør og Frank Ocean levere et overbevisende take på den gamle klassiker Moon River.
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 06 Apr 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436146/68871fd50e38769a7a0e6cb06aa83cab8943973b79638fc9bf7a301dfeed19ca.mp3" type="audio/mpeg" length="168674536" />
+    </item>
     <item>
       <guid isPermaLink="false">18452436126</guid>
       <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-lidt-af-hvert-18452436126</link>
@@ -54,48 +68,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436116/db21b3e94957838fb7b6bae7269c5a0a4d7c47f86969e639d2fdf385118d0c92.mp3" type="audio/mpeg" length="168674558" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452436106</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-feber-filmmusik-og-lidt-neosoul-18452436106</link>
-      <title>Feber, filmmusik og lidt neosoul</title>
-      <description>En tysk pianist spreder håb, et britisk musikkollektiv forklædt i masker synger om kærlighed og Francis Bebey fra Cameroun spiller fængende Sanza. Det er igen blevet tid til det bedste fra samlingen.
-Vært og tilrettelægger: Naya Buric.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 09 Mar 2024 16:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436106/64f78ce43958c26bb4f30d80f21ae600c62e58f63e4cf437f88ca99f3498de5f.mp3" type="audio/mpeg" length="168674572" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452436096</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-tidlig-foraar-18452436096</link>
-      <title>Tidlig forår</title>
-      <description>Foråret er på vej, En bassist er gået bort og en dansk saxofonist undersøger rums resonans. 
-Vært og tilrettelægger: Naya Buric.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 02 Mar 2024 16:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436096/f7702d6e5657d47fb4703ad022aafb5ca9c764d7627bbc412759a897e638208a.mp3" type="audio/mpeg" length="168675052" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452436086</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-tag-mig-med-til-paradis-18452436086</link>
-      <title>Tag mig med til Paradis</title>
-      <description>Lana del Rey synger Summertime, Nancy drømmer sig væk til Californien og en britisk trommeslager tryllebinder. Endnu engang har Naya Buric fundet favoritnumre frem.
-Vært og tilrettelægger: Naya Buric.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 24 Feb 2024 16:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436086/fee7d963f022160ee1e6040402eb068c7807be141972f50b0c4c3833c1803feb.mp3" type="audio/mpeg" length="168675122" />
     </item>
   </channel>
 </rss>

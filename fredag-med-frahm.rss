@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:14:11 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,19 @@
     </itunes:category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452450145</guid>
+      <link>https://www.dr.dk/lyd/p5/fredag-med-frahm/fredag-med-frahm/fredag-med-frahm-15452450145</link>
+      <title>Fredag 5. apr. 2024</title>
+      <description>Fredag med Frahm ser i slutningen af hver måned frem mod den næste og det der er i vente. Hør om meget af det, som vi kan glæde os til at opleve i den kommende tid - Naturligvis krydret med masser af god musik.
+Vært: Rikke Frahm.</description>
+      <pubDate>Fri, 05 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452450145/44328419e4c065634f207cb7ef7694bfd2941df40f6c0a63e849aeef81b6ddc2.mp3" type="audio/mpeg" length="168675106" />
+    </item>
     <item>
       <guid isPermaLink="false">15452450125</guid>
       <link>https://www.dr.dk/lyd/p5/fredag-med-frahm/fredag-med-frahm/fredag-med-frahm-15452450125</link>

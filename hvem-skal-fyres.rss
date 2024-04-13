@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:10:03 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -108,30 +108,6 @@
       <itunes:duration>00:23:47</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310735/b2d6eae348c9fde3d85b5adcdbf93871de891039608422cb54050a3f61ccd7cb.mp3" type="audio/mpeg" length="34261723" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332310734</guid>
-      <link>https://www.dr.dk/lyd/p3/hvem-skal-fyres/hvem-skal-fyres-2023/hvem-skal-fyres-vi-proever-at-rose-liva-13332310734</link>
-      <title>Vi prøver at rose Liva</title>
-      <description>Dagens podcast er en SPECIAL! Det handler om, at Liva meget velfortjent er nomineret til en pris, så i dag fyrer vi ingen, men giver i stedet Liva en masse ros. Vi prøver i hvert fald!</description>
-      <pubDate>Fri, 06 Oct 2023 10:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:29</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310734/d556ee4a044ee66295ea1ede36c8fba38ea1f502d62635d0c7e9c084ae6d9813.mp3" type="audio/mpeg" length="32383963" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332310733</guid>
-      <link>https://www.dr.dk/lyd/p3/hvem-skal-fyres/hvem-skal-fyres-2023/hvem-skal-fyres-porno-rune-og-saenkesaenkebordet-13332310733</link>
-      <title>Porno-Rune og sænkesænkebordet</title>
-      <description>Vi har haft en pornorelateret skærmdiskussion, som har fået en helt vild side frem i vores nyhedsvært Rune. Så har Liva sagt "omen" i radioen, hvilket åbenbart har en kraftig effekt på Andreas. Og sidst, men ikke mindst, så har Mikkel været en fandens karl med vores hæve/sænkebord i denne uge.</description>
-      <pubDate>Fri, 29 Sep 2023 10:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:30</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310733/e1979fbd9f96a024be02d2dd2aa3186a27b4521a70c0d4b6f505b48163e66008.mp3" type="audio/mpeg" length="36737371" />
     </item>
   </channel>
 </rss>

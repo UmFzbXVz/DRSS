@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:09:29 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,18 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">16122462151</guid>
+      <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm/musiklivet-med-carsten-holm-2024/musiklivet-med-carsten-holm-16122462151</link>
+      <title>Mandag 8. apr. 2024</title>
+      <description>Musiklivet med Carsten Holm</description>
+      <pubDate>Mon, 08 Apr 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462151/fb2bfc2a8b038941a4c4484db2fc4086d474662428f599623943f0cab85d79f4.mp3" type="audio/mpeg" length="165601331" />
+    </item>
+    <item>
       <guid isPermaLink="false">16122462121</guid>
       <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm/musiklivet-med-carsten-holm-2024/musiklivet-med-carsten-holm-16122462121</link>
       <title>Mandag 18. mar. 2024</title>
@@ -36,42 +48,6 @@
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462121/cd6a8dcd679608db9bc86cb9629b7938d86f4cd37be82018630a460bfb6071de.mp3" type="audio/mpeg" length="165794291" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122462111</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm/musiklivet-med-carsten-holm-2024/musiklivet-med-carsten-holm-16122462111</link>
-      <title>Mandag 11. mar. 2024</title>
-      <description>Musiklivet med Carsten Holm</description>
-      <pubDate>Mon, 11 Mar 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462111/89880b4b3e86c0fcd75d36a42b6109bf1db1c65e9bf4457f4372256a3c796c95.mp3" type="audio/mpeg" length="165794867" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122462101</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm/musiklivet-med-carsten-holm-2024/musiklivet-med-carsten-holm-16122462101</link>
-      <title>Mandag 4. mar. 2024</title>
-      <description>Musiklivet med Carsten Holm</description>
-      <pubDate>Mon, 04 Mar 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462101/f6ac5f2052c80eae8b1fa484c923ef4746e4627f56a4d1680daf3524ff2e2797.mp3" type="audio/mpeg" length="165794867" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122462091</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm/musiklivet-med-carsten-holm-2024/musiklivet-med-carsten-holm-16122462091</link>
-      <title>Mandag 26. feb. 2024</title>
-      <description>Musiklivet med Carsten Holm</description>
-      <pubDate>Mon, 26 Feb 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462091/b65f6d3886ba4627a67d8dc8bfa668844cc21318e55ce3a784c88ac52d41a032.mp3" type="audio/mpeg" length="165794291" />
     </item>
   </channel>
 </rss>

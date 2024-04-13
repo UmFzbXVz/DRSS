@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:14:07 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,31 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436614</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-marie-hobitz-braendvarme-forhold-til-st-vincent-16452436614</link>
+      <title>Marie Hobitz' brændvarme forhold til St. Vincent</title>
+      <description>Vi skal helt ned i brandvarm lak og læder og en musiker, der stolt bærer arven fra Bowie og Prince videre. Mine damer og herrer og alt der imellem: St. Vincent!</description>
+      <pubDate>Sun, 07 Apr 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:10:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436614/c4d5d0bc2330acec9eac074eefeec97f7a773392e97a536a4d8548458b105190.mp3" type="audio/mpeg" length="101092379" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16452436612</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-baby-in-vain-og-deres-ubetingede-kaerlighed-til-big-thief-16452436612</link>
+      <title>Baby In Vain og deres ubetingede kærlighed til Big Thief</title>
+      <description>Lola og Bene fra Baby In Vain er kommet forbi. Jeg prøver at indfange deres forhold til bandet Big Thief. Det viser sig undervejs, at deres kærlighed til bandet er uendelig stor, og de mener ikke, at Big Thief kan sætte en fod forkert. Sammen prøver vi at sætte nogle ord på, hvad det præcist er, Lola og Bene elsker ved Big Thief. Om det lykkes, er jeg ikke helt sikker på, men det bliver både rørende og sjovt. Det kan jeg love. Og på en eller anden mærkelig måde ender jeg også med at præsentere dem for det danske band Inside The Whale, som de mærkeligt nok aldrig har hørt om før. Jeg glæder mig, til du skal lytte!
+Mange hilsner fra Goodluck Casper.</description>
+      <pubDate>Sun, 24 Mar 2024 09:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:18:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436612/90eb7c9b5cd6b32da66ecce8e4890c5a8101f2616490b209ea877489b99376ff.mp3" type="audio/mpeg" length="113687867" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436610</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-bob-marleys-frihedssang-aabnede-ida-kudos-sjael-16452436610</link>
@@ -240,42 +265,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>01:00:53</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354634/5c3f7931917f8dff1abf975b9feabcd04b10632c31744d8900b1fb6f8d6fcd83.mp3" type="audio/mpeg" length="87685147" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354633</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-mads-mouritz-og-neil-young-rust-never-sleeps-16452354633</link>
-      <title>Mads Mouritz og Neil Young "Rust never sleeps"</title>
-      <description>Mads Mouritz er forbi Længe Leve Albummet for at tale sig godt og dybt ind i "Rust Never Sleeps", som er en meget smuk og meget grim plade, der både tager os lagt ud i rummet, men hele tiden er meget jordnær og kører i pickup truck på en støvet sti. Mads har også takket nej til at møde Neil Young efter en intim-koncert i en kirke. Lyt med og hør, om han fortryder det.</description>
-      <pubDate>Sun, 08 Oct 2023 09:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:11:15</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354633/16a88e44022d807552df49ba4cc981e15c80d3760e10deac26c7bf5c75852c6d.mp3" type="audio/mpeg" length="102620827" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354632</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-rumpistol-og-pink-floyd-the-piper-at-the-gates-of-dawn-16452354632</link>
-      <title>Rumpistol og Pink Floyd "The Piper at the Gates of Dawn"</title>
-      <description>Jens Christiansen aka Rumpistol har netop udgivet pladen "Going Inside", der er et album inspireret af psykedelisk terapi. Sammen dykker vi ned i Pink Floyds debutalbum og taler os godt og grundigt ind på den spændende og triste historie om Syd Barrett, og hans blomstrende iderigdom, men også det traume, som Pink Floyd måtte bære med sig efter hans exit fra gruppen.</description>
-      <pubDate>Sun, 01 Oct 2023 09:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:08:02</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354632/36d429e39020978e19396d4b7af5a3c33732735ff82bd47f56d0f22e475928d6.mp3" type="audio/mpeg" length="97986907" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354631</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-mattias-kolstrup-og-the-killers-sam-s-town-16452354631</link>
-      <title>Mattias Kolstrup og The Killers "Sam's Town"</title>
-      <description>Vi er nået til anden del af Matias Kolstrups "the killers triologi".Sidste gange talte vi om debuten, og vi er nået til Sams Town, hvor bandet virkelig folder sig ud med Bruce Springsteen-manér. Matias selv er på det tidspunkt ved at lande som pop og rockfigur i dk og det kører bare derudaf i højt humør.</description>
-      <pubDate>Sun, 24 Sep 2023 09:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:07:39</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354631/96bfb6ce240a5c0ff0cd762963c50f1f5ffeea52f88ec6369bd3b5f961edc9e5.mp3" type="audio/mpeg" length="97440283" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 24 Mar 2024 09:05:07 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 16:33:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,31 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421014</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-ai-srael-queer-bommert-og-indavlet-kunstig-intelligens-11802421014</link>
+      <title>AI-srael, queer-bommert og indavlet kunstig intelligens</title>
+      <description>Den israelske hær har anvendt et - indtil nu - hemmeligholdt AI-system til at udvælge titusindvis af personer i Gaza som mål - et system med minimal menneskelig indblanding. Vi diskuterer også, hvorfor Dall-E og Midjourney tilsyneladende har meget svært ved at undgå stereotype skildringer af queerpersoner. Vores gæst er Leon Derczynski, lektor på IT-Universitetet og forsker hos Nvidia. Vi spørger ham, hvad der sker, hvis vi begynder at træne næste generations chatbots med deres egne AI-skabte data.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+      <pubDate>Thu, 11 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421014/c12af55275e601254c8e6d871986f7db30daa4861b5b30c42cf534d8b6936259.mp3" type="audio/mpeg" length="78364679" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802421013</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-stable-diffusion-implosion-pornhubs-bagmaend-og-openais-stemmekloner-11802421013</link>
+      <title>Stable Diffusion-implosion, Pornhubs bagmænd og OpenAIs stemmekloner</title>
+      <description>De har været pionerer inden for generativ AI, men nu er grundlæggeren bag Stability, som laver den populære billedgenerator Stable Diffusion, blevet sparket ud. Vi ser nærmere på kaos'et hos AI-darlingerne. OpenAI har annonceret et stemmekloningsværktøj og viser, hvordan man med en 15 sekunders lydoptagelse kan give en kvinde sin stemme tilbage, efter hun fik talevanskelligheder som følge af en hjerneskade. Og så får vi besøg af Sam Cole, techjournalist hos 404Media, som har sat sig for at dække porno/tech-industrien med de samme kritiske briller, som de store techgiganter får.</description>
+      <pubDate>Thu, 04 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:22</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421013/c5a00a3c2c82a3de9dd8d8c4e37e38b8f0ef0d9cd667ac75a579f4356fce3a70.mp3" type="audio/mpeg" length="78306506" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421011</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-tiktok-forbud-sms-fra-divya-das-og-danmarks-nye-super-pro-max-computer-11802421011</link>
