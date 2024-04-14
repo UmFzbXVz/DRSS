@@ -10,7 +10,7 @@ Vært: Gitte Førby.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Apr 2024 16:32:52 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 06:10:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -70,20 +70,6 @@ Vært: Gitte Førby.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452426153/d777a48904c688475bddf4d7da51e86964dfa907200f2b5c87333e10c28acc8c.mp3" type="audio/mpeg" length="165601595" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452426152</guid>
-      <link>https://www.dr.dk/lyd/p5/dagen-er-din/dagen-er-din-2024/dagen-er-din-15452426152</link>
-      <title>Tirsdag 9. apr. 2024</title>
-      <description>"Dagen er din" er eftermiddagens gearskifte på P5. Vi kigger på dagen, der er gået og på nogle af de historier, der har præget dagens mediebillede - og så tager vi sammen en status på din dags højdepunkter. Vi ser sammen med de andre P5 lyttere ind i den aften, der venter os. En aften, hvor tiden er din egen, men hvor der også er nogle valg, der skal tages: 
-Hvad skal jeg høre? Hvad skal jeg se? Hvad skal jeg spise? Her får P5 lytterne mulighed for at hjælpe hinanden. Alt sammen tilsat den gode P5-musik, du kender. 
-Vært: Gitte Førby.</description>
-      <pubDate>Tue, 09 Apr 2024 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452426152/661ea9119105dad921cfbbfa1783ecdaed3c315fb00bb3530af43f83931f6a3a.mp3" type="audio/mpeg" length="165602171" />
     </item>
   </channel>
 </rss>

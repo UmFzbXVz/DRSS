@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Apr 2024 16:33:18 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 06:15:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463156</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-venner-af-natten-12422463156</link>
+      <title>Venner af natten</title>
+      <description>Uventede venskaber opstår i mørket. Ida Riegles Lonely Waltz møder Thomas Koppels Kærlighedssang til jorden. Françoise Hardy giver hånd til Bach. Og et kor af stemmer rejser sig fra dybet af aftenen med den unge svenske komponist Andrea Tarrodi og værket Lume.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 14 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463156/86fda5229d63fb31058aee1955e732a3b4242010c2f08cdab3db5600abcd054b.mp3" type="audio/mpeg" length="168480463" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463021</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-efter-lukketid-12422463021</link>
       <title>Efter lukketid</title>
@@ -35,9 +48,9 @@ Vært: Tina Rømer.
       <pubDate>Sat, 13 Apr 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463021/1635ff720a2762a80038c9d8b0cfaba408b4bb95b82b55396dec755cfe2e71d9.mp3" type="audio/mpeg" length="168675085" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463021/e9c318c16b359b61eb6977b88667aebda232cdee0547845998534f155ff1fa0e.mp3" type="audio/mpeg" length="172801549" />
     </item>
     <item>
       <guid isPermaLink="false">12422463014</guid>
@@ -412,19 +425,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:57:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363503/bd49be9e7bf679a1fa8698e0f31e930439d274d5f1a9dcff081c7bd02d190639.mp3" type="audio/mpeg" length="168660096" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463114</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-hvidt-lys-12422463114</link>
-      <title>Hvidt lys</title>
-      <description>Natsværmeren bevæger sig i ekkoet af forårets hvide lys, der til tider blænder, og andre gange åbner op på vid gab.
-Vært: Minna Grooss.</description>
-      <pubDate>Fri, 15 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463114/d44811df165fa7bf8ad5a342e735776708a3a1c43f21bff4b8635de460bd4c94.mp3" type="audio/mpeg" length="168660622" />
     </item>
     <item>
       <guid isPermaLink="false">12422263122</guid>

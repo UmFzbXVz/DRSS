@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Apr 2024 16:33:29 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 06:15:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -96,18 +96,6 @@
       <itunes:duration>00:29:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310737/4c459bbc4de3dee6f5a4e710c5571732bcf813705d479cc09ae2f20d564aa9b9.mp3" type="audio/mpeg" length="43197211" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332310735</guid>
-      <link>https://www.dr.dk/lyd/p3/hvem-skal-fyres/hvem-skal-fyres-2023/hvem-skal-fyres-er-vi-kannibaler-nu-13332310735</link>
-      <title>Er vi kannibaler nu?</title>
-      <description>Liva har været væk store dele af ugen, og det har måske medvirket til at kaste Go' Morgen P3 ud i nogle bizarre indholdshjørner. Således har vi i denne uge flirtet med grænserne for kannibalisme. Eller har vi? Lyt med!</description>
-      <pubDate>Fri, 13 Oct 2023 10:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:47</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310735/b2d6eae348c9fde3d85b5adcdbf93871de891039608422cb54050a3f61ccd7cb.mp3" type="audio/mpeg" length="34261723" />
     </item>
   </channel>
 </rss>

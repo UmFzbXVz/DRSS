@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Apr 2024 16:33:08 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 06:11:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -42,6 +42,22 @@ Vært: Cæcilie Iburg Printzlau.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481841/b59b7b4ca8cc186794b0342750d054a7f078f993e29021455161a778ae61ce8d.mp3" type="audio/mpeg" length="168674568" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481822</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/helle-christensen/det-vi-hoerer-2-8-at-underholde-berige-og-forstyrre-12422481822</link>
+      <title>2:8 - At underholde, berige og forstyrre</title>
+      <description>Mere om Bach og blokfløjter, et vaskeægte operagys og masser af kærlighed. En forelsket løve, en kærlighedshave og en løssluppen bryllupfest blander sig med vintermusik, en mobilringetone og en uovertruffen strygekvartetindspilning.
+Vært: Helle Kristensen.</description>
+      <pubDate>Sat, 13 Apr 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160002</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481822/d2f9e90cb102cb348ebeff8d4fc64313541d3b875d77c9aefc1cd503267a2628.mp3" type="audio/mpeg" length="168482185" />
     </item>
     <item>
       <guid isPermaLink="false">12422481821</guid>
@@ -351,22 +367,6 @@ Vært: Ole Bartholin Kiilerich.</description>
       <itunes:duration>01:49:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381865/d29042f47e769a038bf9d7e5b4d06a55f32ffc870d204f466cc0757cca56a37d.mp3" type="audio/mpeg" length="157047643" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381864</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-bor-gud-i-en-laekker-lejlighed-12422381864</link>
-      <title>Bor Gud i en lækker lejlighed?</title>
-      <description>Måske blev stjernestøvet fortættet i sin ultimative form lige dér, hvor koret sætter ind i Brahms' Ein Deutsches Requiem. Ole Bartholin Kiilerich graver dybt i sin musikalske samvittighed, går til bekendelse og indrømmer, at han en kort overgang måske troede, at Gud boede i en lækker lejlighed eller to lige dér i 4. sats, hvor man synger "Wie lieblich sind deine Wohnungen, Herr Zebaoth" - og at koroplevelser har fyldt uforholdsmæssigt meget i et liv med klaver.
-Vært: Ole Bartholin Kiilerich.</description>
-      <pubDate>Fri, 13 Oct 2023 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000100004</itunes:order>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>4</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:49:04</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381864/697724d331cbb601eb4bf6c5fb11c8c1f4fcc95ddd49b36963b619e870dcdb19.mp3" type="audio/mpeg" length="157081627" />
     </item>
   </channel>
 </rss>

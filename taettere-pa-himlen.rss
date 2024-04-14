@@ -9,7 +9,7 @@ Andrew Moyo har dig. Kom nu!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Apr 2024 16:33:17 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 06:15:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -279,20 +279,6 @@ Gæster: Malte Ebert og Svea S.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329445/32397f0a6cc3721b1bdaf32c690a931b04989bdd84db91dd019f9b88d032c5d9.mp3" type="audio/mpeg" length="172801819" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332329415</guid>
-      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2023/taettere-paa-himlen-13332329415</link>
-      <title>Fredag 13. okt. 2023</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!
-Gæster: Jakob Garff og Oskar Bernhardtsen.</description>
-      <pubDate>Fri, 13 Oct 2023 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329415/80ce6101b8f75c51b147e44e385b47891ee9cbbef3c71b0b51683524186df40a.mp3" type="audio/mpeg" length="172801819" />
     </item>
   </channel>
 </rss>

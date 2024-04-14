@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Apr 2024 16:32:06 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 06:14:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460086</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-mette-paa-arbejde-11802460086</link>
+      <title>Mette på arbejde</title>
+      <description>Danskerne kan godt opgive drømmene om at arbejde mindre, for russerne går ikke hjem fra samlebåndet. Sådan slår statsminister Mette Frederiksen fast. Hun drømmer om en velfærdsstat, der er båret af pligtfølelse og høj arbejdsmoral. Her kan livet ikke altid være lystbetonet. Samtidigt vil statsministeren fjerne al kold kontrol i den varme velfærd. Styringsregimet skal falde og erstattes med... tillid. Men hvor er tilliden til velfærdsarbejderne, hvis DE vil arbejde mindre? Det spørger Genstart statsminister Mette Frederiksen om. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 10/4.</description>
+      <pubDate>Sun, 14 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460086/cf8dc6e81f348d9c8a4a9697066868e22151282db95033caf6021f133f19e61f.mp3" type="audio/mpeg" length="38188110" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460085</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-den-farligste-rus-11802460085</link>
@@ -814,6 +828,7 @@ Program publiceret i DR Lyd d. 5/2.</description>
     </item>
     <item>
       <guid isPermaLink="false">11802460029</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-niarns-nyre-11802460029</link>
       <title>Niarns nyre</title>
       <description>På en bænk i fælledparken falder Niels Roos fra hinanden. For første gang i 2,5 år er en sort sky af bekymringer skiftet ud med solskin på hans kinder og nu vælter tårerne ud. Under kunstner-aliasset Niarn, er han i 00'erne kendt som en hård hund, der flyder i alkohol og stoffer. Et misbrug, der tager overhånd og næsten tager livet af ham - men i sidste øjeblik lægger han sit liv om. Bedst som han tror livet kører på skinner, så genstarter kampen. For tre år siden bliver Niels ramt af en autoimmun sygdom, og nu er rollerne byttet om: ihærdigt, forsøger hans krop at tage livet af ham. Niels 'Niarn' Roos om livet, der kun bliver sødere, når man har danset med døden, det er dagens Genstart.
 Vært: Simon Stefanski.
@@ -9425,20 +9440,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:22:10</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150073/4b5552fbc1d3caca20b533a7235a64d37b88cbcc73b510b5296add3f9eba3583.mp3" type="audio/mpeg" length="31934061" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150072</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-hvorfor-vil-faeza-ikke-rejse-11802150072</link>
-      <title>Hvorfor vil Faeza ikke rejse?</title>
-      <description>Faeza Satouf er en af de syriske flygtninge, der netop har fået besked på at rejse tilbage til Damaskus. I 2014 flygtede hun fra det krigshærgede Syrien i en overfyldt flygtningebåd. På rekordtid lærte hun dansk via youtube, gennemførte 9. klasse, kæmpede sig til en studenterhue og er nu i gang med at uddanne sig til sygeplejerske. Men nu vurderer danske myndigheder, at der nu er så sikkert i Damaskus, at hun ikke længere har grund til at opholde sig i Danmark.
-Faeza Satouf fortæller sin historie og Integrations- og udlændingeminister Mattias Tesfaye forklarer, hvorfor han mener, at flygtninge som Faeza, skal tilbage.
-Vært: Knud Brix.</description>
-      <pubDate>Tue, 13 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150072/569a41af9bb6e0157b764a78fcabaf87e4f0a6b76c4dc07581ee75ddcfee1658.mp3" type="audio/mpeg" length="38030445" />
     </item>
   </channel>
 </rss>
