@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/meningsministeriet" rel="self" type="application/rss+xml" />
+    <title>Meningsministeriet</title>
+    <link>https://www.dr.dk/lyd/p4sjaelland/meningsministeriet-760475207000</link>
+    <description>Tre markante meningsdannere vender store og små dilemmaer og paradokser fra ugen der gik. Her er der både plads til de skarpe debatter og de humoristiske meningsudvekslinger.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 14 Apr 2024 14:53:25 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/meningsministeriet.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c185443243f95e2c7b0a.jpg</url>
+      <title>Meningsministeriet</title>
+      <link>https://www.dr.dk/lyd/p4sjaelland/meningsministeriet-760475207000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c185443243f95e2c7b0a.jpg" />
+    <category>News</category>
+    <itunes:category text="News" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">14702423157</guid>
+      <link>https://www.dr.dk/lyd/p4sjaelland/meningsministeriet/meningsministeriet-2023/meningsministeriet-14702423157</link>
+      <title>Søndag 14. apr. 2024</title>
+      <description>Tre markante meningsdannere er i studiet for at debattere aktuelle emner. Kan genhøres på podcast.</description>
+      <pubDate>Sun, 14 Apr 2024 09:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14702423157/374ed3a3dd54925f2416968e74a7f9a40c6fedee4e3ccdc0dafd4fd5ff49bd52.mp3" type="audio/mpeg" length="79201442" />
+    </item>
+  </channel>
+</rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 06:15:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 14:54:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452426157</guid>
+      <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu-paa-p6-beat/vaer-her-nu-paa-p6-beat-2024/vaer-her-nu-paa-p6-beat-16452426157</link>
+      <title>Søndag 14. apr. 2024</title>
+      <description>Vært: Mads Axelsen.</description>
+      <pubDate>Sun, 14 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452426157/a57c0a75210f91f1df65a18cdf70983e830232289fecf4a6bc8eb63963529842.mp3" type="audio/mpeg" length="168481943" />
+    </item>
     <item>
       <guid isPermaLink="false">16452426147</guid>
       <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu-paa-p6-beat/vaer-her-nu-paa-p6-beat-2024/vaer-her-nu-paa-p6-beat-16452426147</link>
