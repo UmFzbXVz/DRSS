@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -26,6 +26,21 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332440852</guid>
+      <link>https://www.dr.dk/lyd/p3/toemmermaend-paa-p3/toemmermaend-paa-p3/toemmermaend-paa-p3-noegen-i-en-glaselevator-13332440852</link>
+      <title>Nøgen i en glaselevator</title>
+      <description>Anne Albrechtsen har inviteret content creator Nadja Hansen ind til at dele ud af sine værste branderter. Her kommer vi omkring alt fra ambulancekørsel i München til en stor tudetur foran en gammel flamme. Derudover består menuen af følgende lytterhistorier; læreren Pernille, der ved et uheld delte fulde-snaps med sin 8. klasse, vi tager også en våd tur på Den glade Viking i Bulgarien, og så slutter vi hos Ida, der efter en julefrokost vågner nøgen i glaselevator...</description>
+      <pubDate>Sun, 14 Apr 2024 22:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000002</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:37:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332440852/8b2307eb53f58c0132cf22707ac3daf17f840f19ce0726e110f74cc15a49b2cb.mp3" type="audio/mpeg" length="53592640" />
+    </item>
     <item>
       <guid isPermaLink="false">13332440851</guid>
       <link>https://www.dr.dk/lyd/p3/toemmermaend-paa-p3/toemmermaend-paa-p3/toemmermaend-paa-p3-verdens-vildeste-18-aars-13332440851</link>

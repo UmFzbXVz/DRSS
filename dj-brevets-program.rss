@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -86,25 +86,6 @@ Det tekniske er simpelt: brug din telefon eller diktafon og send optagelser af 2
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463126/c7e5bc4e81c003d8587de30dc34d4c079b24669889dcc5661ec876796e22f89a.mp3" type="audio/mpeg" length="168675149" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122463116</guid>
-      <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram/dj-brevets-musikprogram-2024/dj-brevets-musikprogram-010-lodden-tingest-16122463116</link>
-      <title>010 - Lodden tingest</title>
-      <description>Alle lamperne med features blinker i dette afsnit. Det seneste indenfor lad musik (når musikeren ikke har forberedt sig eller har forberedt sig dårligt eller bare stiller lave krav til sig selv). Den sidste og afsluttende sektion i skildringen af såkaldt 'outsider-musik'. Vi stiller også i to forskellige sektioner ind på strengeinstrumenter med
-nylonstrenge: den spanske guitar og det vestafrikanske harpe-instrument koraen.
-
-Men den væsentligste grund til at rive 2 × 57 minutter ud af din hårdt prøvede opmærksomhed, er er at du i udsendelsen kan komme til at høre en dansksproget sang der laver enderim med lydordet 'dikkedikdik'. Så langt er vi nået i vores musikalske specialisering. Vi siger ja tak til det hele og fortsætter ufortrødent i samme retning.
-
-DJ Brevets musikprogram tager med tak imod lytterskabte radioprogrammer fra alle lyttere der er interesserede i at prøve kræfter med radioformatet. Formen bestemmer du selv. Du kan lave musikradio, en reportage fra et sted i dit liv, eller udvikle en helt ny fortælle-form der berører det alle sjæle radiofællesskabet på måder ingen kunne have forestillet sig før du tog fat. Talent hverken et krav eller en hindring.
-
-Det tekniske er simpelt: brug din telefon eller diktafon og send optagelser af 2-15 minutters varighed, eller dine spørgsmål, til djbrevet@djbrevet.dk og så kan dit radioindslag blive sendt som en del af DJ Brevets musikprogram.</description>
-      <pubDate>Sat, 16 Mar 2024 19:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463116/40c63863905f54d595d242c3447e078318d3cb7cc579d83e6758b7ad37b08533.mp3" type="audio/mpeg" length="168675148" />
     </item>
   </channel>
 </rss>

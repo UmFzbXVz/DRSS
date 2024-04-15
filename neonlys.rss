@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332418157</guid>
+      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418157</link>
+      <title>Søndag 14. apr. 2024</title>
+      <description>Badet i neonlys dykker Alida Blakaj ned i trends og tendenser inden for hip-hop, R'n'B og rap sammen med andre musikkendere og nye og etablerede kunstnere.</description>
+      <pubDate>Sun, 14 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418157/907952fd1a83bbacea53f797929fc08f9fdebc5262ac72bf6d56a3eb4f052c38.mp3" type="audio/mpeg" length="172802058" />
+    </item>
     <item>
       <guid isPermaLink="false">13332418156</guid>
       <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418156</link>
@@ -127,19 +139,6 @@ Vi skal også helt tilbage til begyndelsen, og hvordan det startede - nemlig med
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418117/d87838ff5465ea377ef2074ab1b241cfd103581a7ba5bde852c663878d65fb51.mp3" type="audio/mpeg" length="172994552" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418116</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-opskriften-paa-det-perfekte-festival-line-up-13332418116</link>
-      <title>Opskriften på det perfekte festival line up</title>
-      <description>Sammen med rapper Josie Amadonna og kulturentrepreneur Danijel Drux taler vi om det foreløbige line up til dette års Roskilde Festival. 
-Hvad glæder vi os til, og hvilke bookinger savner (og håber) vi at se, inden det går løs til sommer, for at få den optimale festival-vibe!</description>
-      <pubDate>Sat, 16 Mar 2024 18:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418116/0065b0c9361e4ded9029ec25a71c486fe4ad39e17d319f2a6bc8ece7fdebabb7.mp3" type="audio/mpeg" length="172994571" />
     </item>
   </channel>
 </rss>

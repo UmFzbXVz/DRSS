@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:09 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:22:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -402,24 +402,6 @@ Postludium: Johann Sebastian Bach: Magnificat.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405121/27db091d8e9b7bd64fe114c4182d4ba0c6deb8b959eec73b92f8a20a2a3826c1.mp3" type="audio/mpeg" length="36194543" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405116</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405116</link>
-      <title>Lørdag 16. mar. 2024</title>
-      <description>Præludium:	Jesper Madsen: Nu kom der bud fra englekor.
-Davidssalme: 18, 32-36.
-Salme: 70 "Du kom til vor runde jord".
-Fra det N.T.:	1. korintherbrev 1, 21-31.
-Trosbekendelsen.
-Salme: 71, vers 1-2+5-6 "Nu kom der bud fra englekor".
-Postludium: Harry Rowe Shelley: Ave Maria.</description>
-      <pubDate>Sat, 16 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405116/8c944628b79ec3028a63c073afdeb013386434db1b4cc567d287cd42131b9132.mp3" type="audio/mpeg" length="36194534" />
     </item>
   </channel>
 </rss>

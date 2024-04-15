@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:40:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:22:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460087</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-det-uforsvarlige-forsvar-11802460087</link>
+      <title>Det uforsvarlige forsvar</title>
+      <description>Fregatten Iver Huidtfeldt er på mission i det Røde Hav - og i sin første direkte konfrontation med fjenden, nedkæmper skibet fire droner fra Houthi-bevægelsen. Et slag, der bliver udlagt som en sejr for fregatten. Men så begynder nedmediet Olfie at kradse i overfladen, og lige dér, bag den succesfulde mission, gemmer sig en anden fortælling. Da fregatten bliver angrebet, opstår der nemlig alvorlige problemer, og besætningen er i potentiel fare. I dagens Genstart fortæller journalist og stifter af Olfie, Peter Ernstved Rasmussen, om succeshistorien, der afslører en ulden kultur i forsvaret - og ender med en fyret forsvarschef.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 11/4.</description>
+      <pubDate>Mon, 15 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460087/b423545fc79c34ada372082aadb8580773a46a8b96f8b9953c3c00a7d5c153f5.mp3" type="audio/mpeg" length="36071882" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460086</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-mette-paa-arbejde-11802460086</link>
@@ -9427,19 +9441,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:25:18</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150074/8b84ae45ef4606cd9207f931c45e89d06f68196a3df26d612f4dc6ee0e1f64aa.mp3" type="audio/mpeg" length="36455085" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150073</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-mor-og-morder-11802150073</link>
-      <title>Mor og morder?</title>
-      <description>I 2003 bliver den australske kvinde, Kathleen Folbigg, idømt 40 års fængsel for at have slået sine fire børn ihjel. Men får nyligt finder danske forskere frem til, at en sjælden genfejl måske kan forklare børnenes død. Det får nu en række førende internationale forskere - herunder to nobelprismodtagere - til at appellere om, at den australske kvinde bliver løsladt. Hvad er det for et genmysterium, de danske forskere har løst? Og hvad betyder videnskabens landvindinger for vores retssikkerhed? Vi spørger Mette Mayli Albæk, undersøgende journalist på Jyllands-Posten, der har gravet sig ned i Folbigg-sagen.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 14 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:10</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150073/4b5552fbc1d3caca20b533a7235a64d37b88cbcc73b510b5296add3f9eba3583.mp3" type="audio/mpeg" length="31934061" />
     </item>
   </channel>
 </rss>

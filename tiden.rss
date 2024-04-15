@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:22:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451070</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-missilregn-over-israel-blod-i-fryseren-og-trumps-tys-tys-penge-11802451070</link>
+      <title>Missilregn over Israel, blod i fryseren og Trumps tys-tys penge.</title>
+      <description>Iran har sendt mere end 300 droner og missiler mod Israel.
+Statens Serum Institut gemmer blodprøver på millioner af danskere, og det har de ikke fortalt.
+Efter hvad der føles som den længste optakt, begynder en af flere retssager mod Donald Trump i dag.
+Vært: Adrian Busk.
+Medvirkende:
+Rasmus Elling, Iranforsker og lektor ved København Universitet.
+Thomas Ploug, professor i dataetik på Aalborg Universitet.</description>
+      <pubDate>Mon, 15 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:47</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451070/eea9fd3f7051d09aa69a507868b23c3f89dcc86c6870a97d600135d6ceb28be1.mp3" type="audio/mpeg" length="24170567" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451069</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-la-s-halve-topskat-en-skoleskyders-foraeldre-og-ud-med-minkavlerne-11802451069</link>

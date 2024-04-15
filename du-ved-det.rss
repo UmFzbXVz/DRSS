@@ -10,7 +10,7 @@ Vært: Marie Hobitz.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Vært: Marie Hobitz.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332424157</guid>
+      <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-blaest-13332424157</link>
+      <title>Blæst</title>
+      <description>'Du ved det' helt sikkert godt, så find telefonen frem, og gør dig klar til at blive quizzet i al den musik, du elsker at lytte til!
+Der er eksklusive P3-sokker på højkant og vanvittig søndagshygge, når Marie inviterer indenfor i P3's helt eget musikquizprogram.
+Vært: Marie Hobitz.
+Gæster: Blæst.</description>
+      <pubDate>Sun, 14 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424157/9fb7044bfa344c1cdc0a816dfab7ce76e818eed18ecd96a4d8270518ddfff12b.mp3" type="audio/mpeg" length="172801593" />
+    </item>
     <item>
       <guid isPermaLink="false">13332424147</guid>
       <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-jj-paulo-og-fire-hits-13332424147</link>

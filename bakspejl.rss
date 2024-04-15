@@ -9,7 +9,7 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:52:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:25:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <category>History</category>
     <itunes:category text="History" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11162411010</guid>
+      <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-nazibotanikeren-3-4-et-biologisk-supervaaben-11162411010</link>
+      <title>Nazibotanikeren 3:4 - Et biologisk supervåben</title>
+      <description>Heinz Brücher har gang i et videnskabeligt eksperiment. Et biologisk supervåben, der skal bekæmpe kokainproduktionen i Sydamerika. Men det er ikke ligefrem noget, man bliver populær på blandt narkokartellerne... Så var det dem, der dræbte Brücher?
+Medvirkende: Marten Sørensen, Alfredo Grau, Mat Youkee.
+Redaktion: Celine Klint, Johanne Mosegaard og Martin Grønne.
+Tip: Magnus Boding Hansen.</description>
+      <pubDate>Mon, 15 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:28:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162411010/567f45dc477a5e7ec69c1edfc4aec450bf316438b5900ceb98d78790b6d3267d.mp3" type="audio/mpeg" length="40814073" />
+    </item>
     <item>
       <guid isPermaLink="false">11162411009</guid>
       <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-nazibotanikeren-2-4-rotteruten-11162411009</link>

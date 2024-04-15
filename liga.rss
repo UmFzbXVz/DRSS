@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:37 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652402157</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402157</link>
+      <title>Søndag 14. apr. 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Lotte Friis, Morten Hausborg og Thomas Loft.</description>
+      <pubDate>Sun, 14 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>06:53:52</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402157/33cd4f5e4b283bafc07774a31b8f53d431f802687c5202a3b528c86c8deddf4a.mp3" type="audio/mpeg" length="595973676" />
+    </item>
     <item>
       <guid isPermaLink="false">13652402155</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402155</link>

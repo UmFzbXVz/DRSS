@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:26 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481842</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-doeren-paa-klem-12422481842</link>
+      <title>Døren på klem</title>
+      <description>I dag vil jeg dele den musik, som i mine ører lader døren stå på klem til magiens verden. Jeg elsker komponister som tør være fantasifulde, eventyrlige og magiske, helt uden at være barnlige. Carl Nielsen, Dvorak og Sibelius er nogle af de eventyrere, som venter på playlisten.
+Vært: Cæcilie Iburg Printzlau.</description>
+      <pubDate>Sun, 14 Apr 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000170002</itunes:order>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481842/250e0b75289b933f555aed58cc716b2133403c670c3e0ebb6694bd820ea84b0f.mp3" type="audio/mpeg" length="168481610" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481841</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-bona-gratia-12422481841</link>

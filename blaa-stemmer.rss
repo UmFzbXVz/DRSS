@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -68,20 +68,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>00:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434126/1b6be69c7cd245e93d29e3e4086cdb86ebb71d19a0d5ffbde5782cf887d3af49.mp3" type="audio/mpeg" length="82275111" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452434116</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/saerlige-stemmer-18452434116</link>
-      <title>Særlige Stemmer</title>
-      <description>Vi lytter til et udvalg af jazzens mange særlige stemmer - særlige på flere planer. Dem der bare lyder helt vanvittig godt, dem der kan synge på deres helt egen måde eller dem der har en unik egenskab til at fortælle historier. Alle stemmerne har det til fælles, at de kan noget særligt.
-Vært og tilrettelægger: Josephine Philip.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 16 Mar 2024 13:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434116/1c1083c1b9f0e9978296543660d383156f2a7254c512dfeb115ddd1afe6155c5.mp3" type="audio/mpeg" length="82274548" />
     </item>
   </channel>
 </rss>

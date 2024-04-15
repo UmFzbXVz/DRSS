@@ -9,7 +9,7 @@ Produceret for DR af ECOSOVIC.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -119,20 +119,6 @@ Produceret for DR af ECOSOVIC.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432117/64e2f8ccc2c3e57a68f03c45e33083f7f5f93c671dd316d4136806c3c48735a0.mp3" type="audio/mpeg" length="172995045" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122432116</guid>
-      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432116</link>
-      <title>Lørdag 16. mar. 2024</title>
-      <description>To timers energifyldt radio med fokus på popkultur, korte interviews med artister, omtaler og afspilning af hitlister.
-Vært: Ena Cosovic.
-Produceret for DR af ECOSOVIC.</description>
-      <pubDate>Sat, 16 Mar 2024 12:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432116/f2f8c221acbe34db9218d3bb056bbc90bf95e05f273bdd7fd1e5e057063aec41.mp3" type="audio/mpeg" length="172994469" />
     </item>
   </channel>
 </rss>

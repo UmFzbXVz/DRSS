@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -68,20 +68,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436126/b5422d647162e3b0120765d2943355b4f93f429927c7f373fc5d064c82e73992.mp3" type="audio/mpeg" length="168674533" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452436116</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-den-lange-vej-hjem-18452436116</link>
-      <title>Den lange vej hjem</title>
-      <description>Anita O'day synger om vaner der er svære at komme af med, en romaballade får nye klæder og Tom Waits tager den lange vej hjem.
-Vært og tilrettelægger: Naya Buric.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 16 Mar 2024 16:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436116/db21b3e94957838fb7b6bae7269c5a0a4d7c47f86969e639d2fdf385118d0c92.mp3" type="audio/mpeg" length="168674558" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:53:23 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:25:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -62,27 +62,6 @@ Mads Læbel, praktikant, P3.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410154/a4304d43759f961d008c5a488507920380ff3a5c31275ec78e83d0ee6aea0be2.mp3" type="audio/mpeg" length="254881592" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410153</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410153</link>
-      <title>Onsdag 10. apr. 2024</title>
-      <description>Kan vores producer Trine blive tryg i trafikken? Det finder vi ud af her til morgen, hvor hun ræser Amager rundt med en kørelærer.
-Hjalp det med et hvidløg i røven? Vores lytter Mike var lidt småsløj, så i videnskabens navn testede vi, om et hvidløg kan redde kroppen fra sygdom.
-Vi bliver også klogere på de juridiske grænser for comedy, når vi ringer til en juraprofessor. Det bliver sjovt, men bliver det også ulovligt?
-Alt i alt en begivenhedsrig morgen.
-Værter: Mikkel Rosendal, Liva Manghezi og Mikkel Klint Thorius.
-Medvirkende:
-Mike og Cecilie, småsyge lyttere.
-Sten Shaumburg-Müller, juraprofessor, Syddansk Universitet.
-Maria Jørgensen, reporter.
-Trine Hasle, pensioneret bilist.</description>
-      <pubDate>Wed, 10 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410153/becbce0f9874f7ad2bcb6d2fcf29502156f740ae457bc655e1a2f4c3da338ed4.mp3" type="audio/mpeg" length="254882170" />
     </item>
   </channel>
 </rss>

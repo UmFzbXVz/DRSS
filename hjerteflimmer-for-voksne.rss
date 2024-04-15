@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,27 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400007</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-maj-my-humaidan-og-mattias-kolstrup-15452400007</link>
+      <title>Maj My Humaidan &amp; Mattias Kolstrup</title>
+      <description>Maj mærker et behov for bevægelse oftere end de fleste. Og nu har det der behov meldt sig i Maj, som står med teltpælene i hænderne og er klar til at flytte. Igen. Mens Majs mand sagtens kunne blive boende i 100 år. Så hvordan påvirker det et forhold, når den ene holder af stilstand og den anden er afhængig af bevægelse? Og er der i grunden et element af flugt i Majs behov for bevægelse?
+Mattias er en klat smør smurt ud over lidt for meget brød. Han har for nylig kastet sig ud i et start-up-projekt - og musikken har han jo stadig. Og så er der hans venskaber. Hans privatliv. Og nåh ja, et ægteskab. Når noget skal skæres fra, ender det ofte med at blive forholdet. For det der med at gå hånd-i-hånd, det kan man jo altid gøre. Eller kan man? Hvordan kan det være, at det vigtigste bliver det nemmeste at droppe?
+Jytte fortæller om en malemetode, der er afhængig af både struktur og kaos, vi taler om at synkrondrømme og om at vokse i det komplekse(????)
+Ja, det lyder måske lidt langhåret, men tag denne skaldede mands ord for det, når han siger: det er det ikke. Det er spændende. Og så foregår det i afsindigt godt selskab. 
+Gæster: Maj My Humaidan &amp; Mattias Kolstrup. 
+Ekspert: Jytte Vikkelsøe.
+Vært: Sebastian Lynggaard. 
+Producer: Cæcilie Helena Denman-Gretoft.
+Musik: "Hold up" Beyonce.
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 15 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:31:33</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400007/e35cfb3ecd16bf7be8eecb64eac990b7e89c4e834bd52042cf14ac9c07ede66e.mp3" type="audio/mpeg" length="131856633" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400006</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-josefine-stork-og-huxi-bach-15452400006</link>
@@ -1988,23 +2009,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>01:29:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195316/f2f6f89f84865047a8a6860ca3b734f5ec2fbaea3710ed1704d038a54dd9af64.mp3" type="audio/mpeg" length="128511981" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195315</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hjerteflimmer-for-voksne-mette-marie-lei-lange-og-natasha-brock-13332195315</link>
-      <title>Mette Marie Lei Lange &amp; Natasha Brock</title>
-      <description>Mette Marie har gået en masse i parterapi med sin mand, og de har det godt sammen. Alligevel føler hun, at der er startet en form for stoleleg i omgangskredsen om, hvem der mon bli'r skilt, fordi statistikken siger, at NOGEN jo skal blive det, og hun vil gerne forhindre, at det bliver hende.
-Natasha synes ikke, at hun og hendes forlovede har nogen hobby sammen, men er det et problem?
-Medvirkende: Instagrammer Mette Marie Lei Lange, komiker Natasha Brock og parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 14 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:17:57</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195315/4b2168a0a9501fe14c6fe2da75f8faa21c7405a68196fba42607fbf8566c15b4.mp3" type="audio/mpeg" length="112267053" />
     </item>
   </channel>
 </rss>

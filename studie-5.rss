@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -48,22 +48,6 @@
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429154/6906db8dc48839f3487d663b1c996f1a17c70a4c08f0a42e6686e54cf25f7dc6.mp3" type="audio/mpeg" length="168482101" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429153</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-dave-matthews-band-15452429153</link>
-      <title>Dave Matthews Band</title>
-      <description>Hvorfor har Dave Matthews det stramt med at spille sit største hit?
-Det handler om sex og hvordan ens perspektiv og syn bliver forandret over tid.
-Dave Matthews Band giver koncert i aften i København og det er ikke sikkert "Chrash Into Me" er med på setlisten.
-I Studie 5 bliver der varmet op med musik fra et af verdens bedste live bands.
-Vært: Rasmus Scharling Toft.</description>
-      <pubDate>Wed, 10 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429153/015b01e2d64f8a05543ac6ae1b53f279afa60b415b78403a42f670245198176e.mp3" type="audio/mpeg" length="168481605" />
     </item>
   </channel>
 </rss>

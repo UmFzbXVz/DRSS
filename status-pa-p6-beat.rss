@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Apr 2024 14:54:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 06:26:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452425157</guid>
+      <link>https://www.dr.dk/lyd/p6beat/status-paa-p6-beat/status-paa-p6-beat-2024/status-paa-p6-beat-16452425157</link>
+      <title>Søndag 14. apr. 2024</title>
+      <description>Status samler op på ugens højdepunkter fra musikkens og P6 BEAT's verden.
+Vært: Jonas Hansen.</description>
+      <pubDate>Sun, 14 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452425157/98b3948d0ef910afdc477d4e14ec5d4546d86d0805c54e4ea55055f9b2a23ba4.mp3" type="audio/mpeg" length="254882012" />
+    </item>
     <item>
       <guid isPermaLink="false">16452425156</guid>
       <link>https://www.dr.dk/lyd/p6beat/status-paa-p6-beat/status-paa-p6-beat-2024/status-paa-p6-beat-16452425156</link>
@@ -89,19 +102,6 @@ Vært: Jonas Hansen.</description>
       <itunes:duration>02:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452425117/6ac233040d25bb25866b28eea498f537ed4c81b6093d051ae8ec156de4e36b1f.mp3" type="audio/mpeg" length="255074396" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452425116</guid>
-      <link>https://www.dr.dk/lyd/p6beat/status-paa-p6-beat/status-paa-p6-beat-2024/status-paa-p6-beat-16452425116</link>
-      <title>Lørdag 16. mar. 2024</title>
-      <description>Status samler op på ugens højdepunkter fra musikkens og P6 BEAT's verden.
-Vært: Jonas Hansen.</description>
-      <pubDate>Sat, 16 Mar 2024 14:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452425116/aa5a4378c34b8b2da56325629764a7c9952088ea388e9771444e3d2a182d365d.mp3" type="audio/mpeg" length="255074972" />
     </item>
   </channel>
 </rss>
