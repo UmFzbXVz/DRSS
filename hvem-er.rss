@@ -10,7 +10,7 @@ Dyk ned i detaljerne og ind i historierne bag musikken, når nogle af de vigtigs
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:54:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -32,6 +32,44 @@ Dyk ned i detaljerne og ind i historierne bag musikken, når nogle af de vigtigs
     </itunes:category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122300174</guid>
+      <link>https://www.dr.dk/lyd/p3/hvem-er-2522729828000</link>
+      <title>Træt af at vente til næste uge?</title>
+      <description>Du kan allerede høre alle afsnit lige nu i &lt;a href=https://www.dr.dk/lyd/p3/hvem-er-2522729828000&gt;DR Lyd.&lt;/a&gt; Download DR Lyd-appen, og hør hele serien Hvem er The Minds of 99.</description>
+      <pubDate>Tue, 16 Apr 2024 05:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160901</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>901</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300174/abb5ec4317e8c41840d747639e4baec513de5bd9eec27dd856d6297880823007.mp3" type="audio/mpeg" length="339615" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332496121</guid>
+      <link>https://www.dr.dk/lyd/p3/hvem-er/s2-the-minds-of-99/hvem-er-the-minds-of-99-ii-1-5-13332496121</link>
+      <title>Hvem er The Minds of 99? II 1:5</title>
+      <description>Det er december 2018. The Minds of 99 er rejst til ferieøen Koh Samui i Thailand, hvor de holder juleferie med deres familier. Pludselig vælter en tropisk storm indover kysten og truer med at ødelægge det idylliske paradis. Men det er netop midt i det kaos af væltede træer og menneskeaffald, som stormen efterlader, at bandet skal finde lyden af deres næste album - eller måske nærmere deres filosofi?
+I første afsnit af Hvem er The Minds of 99 II skal du med til Thailand, hvor ideen til Infinity Action fødes - og så tager vi også med bandet til LA, hvor en pose vingummibamser med weed åbner porten til en anden verden, og hvor en langskægget producer hjælper dem med at finde deres nye, neongrønne lyd.
+
+Vært: Pelle Peter Jencel.
+Klipper: Mads Bjørn Lundsgaard.
+Lyddesign: Mads Bjørn Lundsgaard og Jakob Franck Jensen.
+Produktionsleder: Maja Rathmann Mølbak.
+Redaktør: Morten Narvedsen.
+Redaktionsleder: Anders Stegger.</description>
+      <pubDate>Tue, 16 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160001</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:34:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496121/3951cd932825360164495bc0ebe6da8c264c29c159f18813faeb7ab415e44b9f.mp3" type="audio/mpeg" length="49405691" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496114</guid>
       <link>https://www.dr.dk/lyd/p3/hvem-er/tessa/hvem-er-tessa-4-4-13332496114</link>

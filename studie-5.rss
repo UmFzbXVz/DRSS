@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:29 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:54:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452429161</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-den-syvende-soen-hylder-peter-belli-15452429161</link>
+      <title>Den Syvende Søn hylder Peter Belli</title>
+      <description>Hyldestsangen "Det går godt" er et af fire ny indspillede numre   fra bandet "Den syvende søn" med Michel Belli.
+Michel Belli fortæller om forholdet til farmand og om at gå hånd i hånd frem for at stå på skuldrende.
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Mon, 15 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429161/e2cb7e1afbd14a07e39e9ccc93336e66f7d9f9a6a33f4aac6e9f45f1d1074c33.mp3" type="audio/mpeg" length="168481600" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452429155</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429155</link>
       <title>Fredag 12. apr. 2024</title>
@@ -36,18 +50,6 @@
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429155/518664ce2891387f2bfce29d1e7949075005cec65b6ccc19ea57a60ab69e1182.mp3" type="audio/mpeg" length="168482101" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429154</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429154</link>
-      <title>Torsdag 11. apr. 2024</title>
-      <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
-      <pubDate>Thu, 11 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429154/6906db8dc48839f3487d663b1c996f1a17c70a4c08f0a42e6686e54cf25f7dc6.mp3" type="audio/mpeg" length="168482101" />
     </item>
   </channel>
 </rss>

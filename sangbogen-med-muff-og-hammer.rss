@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:33 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:54:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -341,18 +341,6 @@ Værter: Katrine Muff og Mathias Hammer.</description>
       <itunes:duration>01:17:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358427/6b73e794e6b89468c264e60dbe1098d13ab6252466290413b84c17882e34b66b.mp3" type="audio/mpeg" length="110881243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422358417</guid>
-      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2023/sangbogen-med-muff-og-hammer-efteraarssange-loevfald-12422358417</link>
-      <title>Efterårssange - løvfald</title>
-      <description>Den farverige årstid er over os og Katrine Muff og Mathias Hammer synger sange under oktober himlen. Hør sange til løvfald, der emmer af kastanjer, døde blade, regn og høstmånen.</description>
-      <pubDate>Sun, 15 Oct 2023 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:17:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358417/6c23a13e3c4c047f9a6e27d11fe91d9429ed0e61afafbb03a565f788a733f172.mp3" type="audio/mpeg" length="110881243" />
     </item>
   </channel>
 </rss>

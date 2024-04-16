@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:22:29 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:53:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460088</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-beyonces-rodeo-11802460088</link>
+      <title>Beyoncés rodeo</title>
+      <description>Med et fast blik kigger Beyoncé direkte på beskueren, mens hun rider på en hvid hest med det amerikanske flag i hånden. Coveret på hendes nye plade, Country Carter, signalerer, at superstjernen ikke er bange for noget eller nogen. Hun vil bringe de afroamerikanske rødder tilbage i countrymusikken og tage ejerskab over genren. Gang på gang har Beyoncé ramt noget, som millioner af mennesker kan samles om: Feminisme, borgerrettigheder, queer-sagen og nu: Genfødslen af den amerikanske drøm. Men sår hun egentlig nye træer, eller plukker hun bare modne frugter og profiterer på det, en masse andre har kæmpet for før hende? Det spørger Genstart musikformidler Naya Buric om i dagens Genstart.  
+Vært: Anna Ingrisch. 
+Program publiceret i DR Lyd d. 12/4.</description>
+      <pubDate>Tue, 16 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:11</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460088/e151074923c0c5b2f2ab3e71d3bf07056782a0af0d59ca8041323ad2a0e090dd.mp3" type="audio/mpeg" length="39146561" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460087</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-det-uforsvarlige-forsvar-11802460087</link>
@@ -9428,19 +9442,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:22:40</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150075/db913cf1a2459af71363c43551747a2bf800847c0a5ac68820e1e6295b4f8d08.mp3" type="audio/mpeg" length="32652909" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150074</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-skrotbunkens-hemmelighed-11802150074</link>
-      <title>Skrotbunkens hemmelighed</title>
-      <description>Det er skandalen, der ikke vil dø ud. Hele ni år efter, at politiet ulovligt fratager demonstranters flag ved et kinesisk statsbesøg, slår Tibet-sagen sidste uge endnu en krølle. På magnetbånd, fundet i en container med skrottede computere, gemmer sig en mail, der mere end antyder, at ordren om at fjerne Tibet-flaget har rødder i Udenrigsministeriet. Tidligere placerer Tibetkommissionen ellers ansvaret hos to menige betjente. Jesper Tynell, der stod bag afsløringer, der tilbage i 2018 fik den ellers afsluttede kommission genåbnet, fortæller om kontroverser og kommissioner.
-Vært: Knud Brix.</description>
-      <pubDate>Thu, 15 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:18</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150074/8b84ae45ef4606cd9207f931c45e89d06f68196a3df26d612f4dc6ee0e1f64aa.mp3" type="audio/mpeg" length="36455085" />
     </item>
   </channel>
 </rss>

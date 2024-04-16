@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:47 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:55:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332425161</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-chocolate-passion-og-soenderjyske-bander-13332425161</link>
+      <title>Chocolate Passion og Sønderjyske bander</title>
+      <description>Dig der! Vi skal bruge din drøm, dit navn og dit tlf.nr.! Direkte i indbakken tak: p3drommer@dr.dk
+Chocolate Passion Shower butter wash. Umiddelbart lyder det jo "bare" som en shower-gel med chokoladelugt, men ikke for Kasper. For Kasper var det en rejse ind i himlen... Chokolade-himlen. Og Kasper er ikke alene, flere savner Chocolate Passion. Den skal findes nu! Drømmeholdet er heldigvis alle steder. Vi skal til Svendborg, Normals hovedkontor og Holland.
+Herefter bliver det iskoldt. Vi skal nemlig en tur i ishockey-hallen for at opfylde Mads' drøm. Mads er stor fan af Sønderjyske, og endnu større fan af deres tidligere spiller Tyler Gotto. Han leder derfor efter et Gotto-bander, der har hængt i Sydjysk Sportsarena.
+Start din uge ud med Drømmeholdet!</description>
+      <pubDate>Mon, 15 Apr 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425161/8249de507cd209faa03cf6ac4426b5418de1c2757e0e1c9d3eab3e46c038352b.mp3" type="audio/mpeg" length="254882180" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332425155</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-spidsen-af-en-jetjager-og-udstoppet-krokodille-13332425155</link>
       <title>Spidsen af en jetjager og udstoppet krokodille</title>
@@ -37,20 +52,6 @@ Du kender den, og du ved, den er dyr, men hvor skaffer man egentligt spidsen af 
       <itunes:duration>02:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425155/bff017f6ca0d6c3beb5e9cf45f815734a4eb17094cf7b759d9e3cbfd6861113a.mp3" type="audio/mpeg" length="254880456" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425154</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-foedselsvideo-og-job-som-koerselsdisponent-13332425154</link>
-      <title>Fødselsvideo og job som kørselsdisponent</title>
-      <description>Hvad er det mest unikke, du drømmer om? Altså en drøm du ved, du er HELT alene om? Send den til p3drommer@dr.dk - husk at skrive dit tlf.nr!
-Allans datter blev født i 2008 på Bornholms Hospital. Hele fødslen blev filmet til en dokumentar til TV 2/Bornholm, men er ikke længere til at finde. Allan vil gerne vise den til sin datter, da hun aldrig har set den, men TV 2/Bornholm må ikke udgive den. Drømmeholdet møder den store GDPR-mur.
-Vores næste drømmer er Nina. Nina lider af multipel sklerose, men vil virkelig gerne arbejde som kørselsdisponent. Et perfekt projekt for Drømmeholdet! Glædelig torsdag derude - vi lyttes ved i morgen!</description>
-      <pubDate>Thu, 11 Apr 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425154/50509fe2b5254a31b9829c2e791853abd0ad083f2320ca39102bc80d60fe40e5.mp3" type="audio/mpeg" length="254882184" />
     </item>
   </channel>
 </rss>

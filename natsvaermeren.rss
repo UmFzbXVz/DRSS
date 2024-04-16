@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:54:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -35,9 +35,9 @@ Vært: Minna Grooss.
       <pubDate>Mon, 15 Apr 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463033/f734f2dd6bb6284f94bbaf7e9389cd16ea22b81a90ef9bc8e36c1000fd7a023d.mp3" type="audio/mpeg" length="168675058" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463033/1cbf855e22586038d3e21b91c220593374fb282c41dcdf43016739b7db7609f0.mp3" type="audio/mpeg" length="172801522" />
     </item>
     <item>
       <guid isPermaLink="false">12422463156</guid>
@@ -412,19 +412,6 @@ Vært: Tina Rømer.
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263384/5e97c7f4a35e2f26cd0808c38ba7ca002d0cdf237d7950f35344cdab3b4c4f63.mp3" type="audio/mpeg" length="172994498" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463116</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lyden-af-virkeligheden-12422463116</link>
-      <title>Lyden af virkeligheden</title>
-      <description>I anledning af den igangværende, landsdækkende dokumentarfilmfestival CPH:DOX sætter vært Peter Albrechtsen fokus på filmmusik i dokumentarfilm. Virkeligheden lyder godt om natten. 
-Vært: Peter Albrechtsen.</description>
-      <pubDate>Sun, 17 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463116/fdab54752d5045381715e2fbc4921b99af1de18081ff8a74f34f48cd14a893c1.mp3" type="audio/mpeg" length="168672795" />
     </item>
     <item>
       <guid isPermaLink="false">12422263122</guid>

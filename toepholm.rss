@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:23 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:54:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452441161</guid>
+      <link>https://www.dr.dk/lyd/p5/toepholm/toepholm/toepholm-15452441161</link>
+      <title>Mandag 15. apr. 2024</title>
+      <description>Tøpholm er underholdningsprogrammet, der giver dig et par timer i selskab med de største hits fra tidligere tider, især 70'erne og 80'erne. Vi skal undervejs quizze om Melodi Grand Prix, og samtidig lytte til et par klassikere. Vi skal rent musikalsk også en tur i biografen, og så præsenteres der tilmed andre musikalske højdepunkter.
+Vært: Ole Tøpholm.</description>
+      <pubDate>Mon, 15 Apr 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452441161/d3ee67d3e34c32983abdb55d552e897a80adc3d34b459f99dc3b3aec088e6e66.mp3" type="audio/mpeg" length="151201586" />
+    </item>
     <item>
       <guid isPermaLink="false">15452441155</guid>
       <link>https://www.dr.dk/lyd/p5/toepholm/toepholm/toepholm-15452441155</link>

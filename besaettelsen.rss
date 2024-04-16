@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:25:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:53:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -29,6 +29,27 @@
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494202</guid>
+      <link>https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-2-5-brevet-16122494202</link>
+      <title>2:5 - Brevet</title>
+      <description>Lilli svarer på Arnes brev, hvor han kræver at få svar på, hvem hans far er. "Det er ikke nogen Barbara Cartland roman", skriver hun. Derimod er det en historie om en helt ung pige, som først ender i et ulykkeligt ægteskab, og bagefter bliver stormende forelsket i en mand, man ikke bør forelske sig i. 
+
+Tilrettelægger: Anne Pilegaard Petersen.
+Lyddesign: Tobias Ingemann.
+Redaktør: Rune Sparre Geertsen.
+Medvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Tue, 16 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010002</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494202/520ff247c9d8820f9aeb90bad9afede6e21781034ac5e63b0ee25da6616b187e.mp3" type="audio/mpeg" length="35423858" />
+    </item>
     <item>
       <guid isPermaLink="false">16122494201</guid>
       <link>https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-1-5-hemmeligheden-16122494201</link>

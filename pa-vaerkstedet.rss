@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:22 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:54:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422353471</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet-2023/paa-vaerkstedet-frederik-cilius-satiriker-og-skuespiller-12422353471</link>
+      <title>Frederik Cilius, satiriker og skuespiller</title>
+      <description>Frederik Cilius er bestemt ikke vild med konceptudvikling af ideer. Han foretrækker at prøve tingene af med det samme uden så meget snak. Hvad betyder det for hans kreative processer? Det taler psykologiprofessor Lene Tanggaard med Frederik Cilius om i dagens udsendelse.
+Producer og tilrettelægger: Iben Mogensen.
+(Sendt første gang 20. november 2023).</description>
+      <pubDate>Mon, 15 Apr 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353471/7261c5e31450e690a307e026d9430672657095d308254625d9b14e5bcdec9e46.mp3" type="audio/mpeg" length="108002187" />
+    </item>
     <item>
       <guid isPermaLink="false">12422453151</guid>
       <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet/paa-vaerkstedet-komponisten-og-jazzpianisten-simon-toldam-12422453151</link>

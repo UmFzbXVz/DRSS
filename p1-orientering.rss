@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:25:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:46:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410161</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410161</link>
+      <title>Mandag 15. apr. 2024</title>
+      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
+Dagens værter: Anne Kirstine Hermann og Ole Brink.</description>
+      <pubDate>Mon, 15 Apr 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:23:33</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410161/c8958aa4e951c4155c4f7426e37ec6ec7aa10a7adf649a0c73dd30d7a138ed95.mp3" type="audio/mpeg" length="120326722" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410155</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410155</link>
@@ -2593,38 +2605,6 @@ Dagens værter: Anne Kirstine Hermann og Julie Hornbek Toft.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:08</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310425/9e267ed15cf44f03767114f8115bbff7075cee4e225784bb63b580fe2a538033.mp3" type="audio/mpeg" length="79401115" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304424</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304424</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Julie Hornbek Toft.
-Og i dagens udgave af Orientering Udsyn:
-Efter en lang periode med et meget anstrengt forhold mellem Tyrkiet og nabolandet Grækenland, ser det ud til, at de to lande nærmer sig hinanden. I september mødtes Erdogan med den græske premierminister, som han for et år siden svor, han aldrig ville mødes med. Og nu er der igen møder mellem de to lande. Hvad skyldes den pludselig forbrødring? 
-Krigen mellem Israel og Hamas udspiller sig ikke kun i Gaza. Også i Vesteuropa trækker konflikten sine spor til demonstrationer, hærværk og mindehøjtideligheder og i kommentarspor på sociale medier. Men hvordan påvirker konflikten Europas palæstinensiske og jødiske minoriteter?
-Gæster: Jakob Lindgaard, senioranalytiker på DIIS med fokus på Tyrkiet og Lotte Segal, antropolog på universitetet i Edinburgh i Skotland.
-Tilrettelæggelse: Asta Handberg og Sven Johannesen.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen og Malte Winther Bothe.
-Redaktør: Nickolaj Sander.</description>
-      <pubDate>Thu, 19 Oct 2023 17:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:10</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304424/380bf99aabcc678fd727f676c001febbd292a6ba826004ae9e7768fe6242b30c.mp3" type="audio/mpeg" length="79455835" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310424</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310424</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Julie Hornbek Toft.</description>
-      <pubDate>Thu, 19 Oct 2023 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:54:56</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310424/fa5a9014459e63ef505799a1ed3aa89974b3bad4aa383e9b2495c74a14e2e98e.mp3" type="audio/mpeg" length="79125787" />
     </item>
   </channel>
 </rss>

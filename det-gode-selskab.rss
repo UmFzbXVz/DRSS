@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:54:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,19 @@ Vært: Charlotte Hagen Striib.</description>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452428161</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-trine-pallesen-15452428161</link>
+      <title>Med Trine Pallesen</title>
+      <description>Grethe Ingmanns musikalske arv genoplives, når forestillingen 'Ta' mig som jeg er' indtager Glassalen i Tivoli de næste tre dage. Trine Pallesen spiller rollen som Grethe.
+Vært: Charlotte Hagen Striib.</description>
+      <pubDate>Mon, 15 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428161/a0226ad219177493fe9b003fe87efa58b01f27ede36531a7dca311c1b0bb9204.mp3" type="audio/mpeg" length="168482127" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452428155</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-hanne-reintoft-15452428155</link>
       <title>Med Hanne Reintoft</title>
@@ -38,19 +51,6 @@ Vært: Charlotte Hagen Striib.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428155/22ef8115b646adc57cabe16c03949c256ea712f0182dad3216f399743454804d.mp3" type="audio/mpeg" length="168480389" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428154</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-tine-vestergren-uldal-15452428154</link>
-      <title>Med Tine Vestergren Uldal</title>
-      <description>Aktieinvesteringer foretages fortrinsvis af mænd, men hos investeringsplatformen Nordnet var 35 pct. af investorerne kvinder ved udgangen af 2023. Tine Vestergren Uldal er landechef i Nordnet.
-Vært: Charlotte Hagen Striib.</description>
-      <pubDate>Thu, 11 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428154/73a5bb5761b1306667034f1b61d72b4c9a82688a7596eff9fccecdcbadcb5231.mp3" type="audio/mpeg" length="168482150" />
     </item>
   </channel>
 </rss>

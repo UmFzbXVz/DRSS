@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:25:26 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:53:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433161</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433161</link>
+      <title>Mandag 15. apr. 2024</title>
+      <description>Hvilke konsekvenser har Irans angreb på Israel? Hvordan er den humanitære situation for sudaneserne? Hvorfor er det en bombe under dansk forskning, at tre millioner danskere først nu begynder at få besked om, at Statens Serum Institut i årevis har gemt deres blodprøver?
+Dagens værter: Pernille Rudbæk og Morten Runge.</description>
+      <pubDate>Mon, 15 Apr 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:43:31</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433161/4a006438afe40ee99023a22675b1320a6f9ad89c536877741af2f289fb88468e.mp3" type="audio/mpeg" length="235467509" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433156</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433156</link>
@@ -1859,18 +1871,6 @@ Dagens værter: Maria Hollænder og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:20</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333425/006f089495c0c7cec69426ee02f4893da0bb3a1fb821deb1d3b87908caaffc72.mp3" type="audio/mpeg" length="236656603" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333424</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333424</link>
-      <title>Torsdag 19. okt. 2023</title>
-      <description>Hvordan er situationen i det nordlige Gaza efter bombningen af hospitalet? Er incitament til at komme i job en god idé for psykisk sårbare? Og hvordan forbereder Beredskabstyrelsen sig på weekendens stormflod?
-Dagens værter: Ole Brink og Maria Hollænder.</description>
-      <pubDate>Thu, 19 Oct 2023 06:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:56</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333424/4537e0c04ad20bcdc9bd232427a306fad78c2c5d008614fbd79cac8965cbef6d.mp3" type="audio/mpeg" length="237522907" />
     </item>
   </channel>
 </rss>

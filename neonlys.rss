@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Apr 2024 06:26:28 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:54:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,9 +27,9 @@
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
       <guid isPermaLink="false">13332418157</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418157</link>
-      <title>Søndag 14. apr. 2024</title>
-      <description>Badet i neonlys dykker Alida Blakaj ned i trends og tendenser inden for hip-hop, R'n'B og rap sammen med andre musikkendere og nye og etablerede kunstnere.</description>
+      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-roskilde-tema-13332418157</link>
+      <title>Roskilde-tema!</title>
+      <description>Plakaten for årets Roskilde Festival er signed, sealed og delivered. Alida tager et dyk i de nye navne og spiller de allerbedste numre fra r'n'b- og hiphopartister, som lægger vejen forbi festivalen.</description>
       <pubDate>Sun, 14 Apr 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -39,9 +39,10 @@
     </item>
     <item>
       <guid isPermaLink="false">13332418156</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418156</link>
-      <title>Lørdag 13. apr. 2024</title>
-      <description>Badet i neonlys dykker Alida Blakaj ned i trends og tendenser inden for hip-hop, R'n'B og rap sammen med andre musikkendere og nye og etablerede kunstnere.</description>
+      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-sun-s-out-amapano-og-afrobeats-all-the-way-13332418156</link>
+      <title>Sun's out! Amapano og afrobeats all the way</title>
+      <description>Foråret er landet, og det fejrer Alida ved at tage en musikalsk rejse til kontinentet Afrika, hvor hun spiller det bedste fra to genrer: Amapiano og Afrobeats.
+Du kan dog stadig høre alt det bedste r'n'b og hiphoppens verden - nyt såvel som gammelt.</description>
       <pubDate>Sat, 13 Apr 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -126,19 +127,6 @@ Vært: Alida Blakaj.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418126/5971352548e238266168ef49885d9ff4168a17247dfb0d2771e8ac9244c2e972.mp3" type="audio/mpeg" length="172994543" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418117</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-med-aggi-13332418117</link>
-      <title>Med AGGi</title>
-      <description>Fie får besøg af artisten AGGi til en snak om hendes karriere, og de rejser, hun har været på, der har sat gang i et musikalsk skifte.
-Vi skal også helt tilbage til begyndelsen, og hvordan det startede - nemlig med en traumatisk big band oplevelse, der endte med at kickstarte AGGi's drøm om at blive musiker.</description>
-      <pubDate>Sun, 17 Mar 2024 18:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418117/d87838ff5465ea377ef2074ab1b241cfd103581a7ba5bde852c663878d65fb51.mp3" type="audio/mpeg" length="172994552" />
     </item>
   </channel>
 </rss>
