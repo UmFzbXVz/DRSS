@@ -13,7 +13,7 @@ OBS - der findes en version af serien uden musik og lyddesign med titlen "FALDET
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:46:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:30:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -33,6 +33,21 @@ OBS - der findes en version af serien uden musik og lyddesign med titlen "FALDET
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802418504</guid>
+      <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-4-5-tigerens-oeje-11802418504</link>
+      <title>4:5 - Tigerens øje</title>
+      <description>I Pittsburgh bliver Mads' verden vendt på hovedet. Lægerne beder ham gøre alt, som han har forsøgt at undgå de sidste to år. Masser af støj, træning og høj musik er kuren på hans rystede hjerne, siger de. Nu skal genoptræningsprogrammet vise sit værd de næste to uger. Men hvorfor har Mads fået den modsatte instruktion af lægerne i Danmark?</description>
+      <pubDate>Tue, 16 Apr 2024 15:45:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010004</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802418504/b0f4f14a6cde64b5b5026e2ba222a9b2d599df9bb1ec1ee83daa1e15094e493a.mp3" type="audio/mpeg" length="38771599" />
+    </item>
     <item>
       <guid isPermaLink="false">11802418503</guid>
       <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-3-5-et-sidste-haab-11802418503</link>

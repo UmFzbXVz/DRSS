@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:47:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,22 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332427162</guid>
+      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-foedselsdagsflammer-joboptimering-ris-og-ros-13332427162</link>
+      <title>Fødselsdagsflammer, joboptimering, ris og ros</title>
+      <description>Sorgen er jordens gæst i dag. Børsens spir er i flammer, og det har tilmed ødelagt Daisys 84 års fødselsdag. Og det er altså ikke kun hende, der har prøvet at få sin store dag spoleret.
+Så er vi igen i dag tilbage med den store jobtiteloptimering. Vi hjælper nemlig dig, der står med en ret så kedelig jobtitel, og spicer den op for dig. Kebabmand kan derfor være lig med kødhøvler.
+Tirsdagen er også særlig, for der bliver åbnet op for lytterfeedback! Der kan jo kun være ros på linjen.
+Og så viser en ny undersøgelse af nogle tyske og østrigske forskere, at sangteksterne i moderne musik er blevet simplere i løbet af de sidste 50 år, men det er da ikke tilfældet her på P3. Eller hvad?
+Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
+      <pubDate>Tue, 16 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427162/7c6797a1a8a8c3d12ebc2db66b01f3ae317878db3050a3cb1dd7741ea0080cc8.mp3" type="audio/mpeg" length="172801617" />
+    </item>
     <item>
       <guid isPermaLink="false">13332427161</guid>
       <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-verdens-daarligste-program-not-13332427161</link>
@@ -252,21 +268,6 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427122/91e485a93519fea74d8f7b8d037f52b49fc217e42f6464ce4597e6950cc5714c.mp3" type="audio/mpeg" length="172994570" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427121</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-gaver-fra-jannik-sex-til-ol-og-en-elitaer-weekend-13332427121</link>
-      <title>Gaver fra Jannik, sex til OL og en elitær weekend</title>
-      <description>Jannik har været på skiferie, og derfor er der traditionen tro gaver til Henrik og JoJo - Hvis de selvfølgelig gør sig fortjente til dem. Det skal de blandt andet ved at høre om hele Janniks ferie, og kæmpe til den bitre ende i en dum quiz, Jannik selv har lavet.
-Så snakker vi om sex til OL. Sidst, der var sommer-OL, blev det afholdt i Tokyo under corona, og derfor måtte atleterne ikke have sex med hinanden. Men det må de fandme i år, når det denne sommer afholdes i Paris. Og det lader næsten til, at der nærmest bliver opfordret til det. Der vil nemlig blive uddelt 300.000 kondomer i OL-byen, hvilket svarer til to styks per dag til hver atlet.
-Til sidst skal vi snakke om elitære weekendplaner. Jannik og Henrik har nemlig været til uofficiel Danmarkmesterskab i vinsmagning, hvilket jo kan virke lidt småelitært, men de to herrer mener, at masser af danskerne godt kan lide at tage småeliteære valg i weekenden. Om det er at købe Eriks bearnaise i stedet for Knorr, eller at du har taget underbukser på uden huller i. Vi hører om jeres højborgerlige weekendplaner.
-Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
-      <pubDate>Mon, 18 Mar 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427121/eac9bcf5af10837d09ae825c24c71985431e2d567d4512ad792e340de210eb25.mp3" type="audio/mpeg" length="172994570" />
     </item>
   </channel>
 </rss>

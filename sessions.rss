@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:46:59 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -261,24 +261,6 @@ Titelmusik fremført af Vesselil.</description>
       <itunes:duration>00:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422355386/4a6b020c42eb211ba01d2ed6b4f8df12905e2c36624d6e571dd78ad79352430a.mp3" type="audio/mpeg" length="82278235" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422355376</guid>
-      <link>https://www.dr.dk/lyd/p2/sessions/sessions-2023/sessions-originalitet-med-jeppe-brixvold-2-2-12422355376</link>
-      <title>Originalitet? med Jeppe Brixvold 2:2</title>
-      <description>Da Jeppe Brixvold som ung forfatter blev tildelt et skriveophold på Fanø, var det øjenåbnende, hvor levende den danske traditionsmusik er i det lokale byliv. Opholdet skulle have været et halvt år, men i dag har han boet der næsten 20 år.
-Som sanger i Fanø-trioen Det Yderste Hav har han siden været både folkemusiker i en tradition, der er præget af århundreders fællesskaber og overlevering, og prisvindende forfatter og digter i et fag, det hylder individuelle præstationer.
-Dette er den anden af to episoder om den uhåndgribelige 'originalitet'. Hvis det i gamle dage var en del af digterrollen at indsamle og videregive egnens fortællinger, hvad er så rollen for en forfatter og musiker i dag? Vi udveksler musik mellem fællesskabets flerstemmighed og individets udtryk.
-Medvirkende: Jeppe Brixvold.
-Vært: Lasse D. Hansen.
-Titelmusik fremført af Vesselil.
-(Sendt første gang 16. september).</description>
-      <pubDate>Sat, 16 Sep 2023 17:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422355376/e225f7196dcf64726b406802aef03fa371e4751998c6ddcd3b742a4a88360cdd.mp3" type="audio/mpeg" length="82081243" />
     </item>
   </channel>
 </rss>

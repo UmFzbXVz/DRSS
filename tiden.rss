@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:46:15 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:30:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451072</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-boersen-braender-kraeftkritik-og-vold-paa-vestbredden-11802451072</link>
+      <title>Børsen brænder, kræftkritik og vold på vestbredden</title>
+      <description>Børsen brænder i København og det ikoniske dragespir falder mod jorden. Hvad står der tilbage? 
+Statsrevisorerne kritiserer i skarpe vendinger kræftområdet i Danmark. 
+Mens Israel er i krig i Gaza og i konflikt med Iran, eskalerer volden stadig på vestbredden.
+Vært: Adrian Busk.
+Medvirkende:
+Mette Marciniak Mikkelsen, arkitekt.
+Victor Schrøder, Journalist på DR's udlandsredaktion.</description>
+      <pubDate>Wed, 17 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451072/04ee1b89e06711dc50ef675bb1ccc9532feff4cc78eca530589987fa22c0c411.mp3" type="audio/mpeg" length="24785742" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451071</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-svindel-med-cannabis-hovsa-missil-og-israel-paa-vippen-11802451071</link>
@@ -2186,26 +2204,6 @@ Mads Dalgaard, tidligere indenrigspolitisk rådgiver ved den danske ambassade i 
       <itunes:duration>00:20:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351188/e4d738e6c7627a456fb1b29b6f06c6a3183c45d55d4a6c33620925921f53f6c6.mp3" type="audio/mpeg" length="30411739" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351187</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-smaa-boern-i-bur-sygelig-ballet-og-en-myndig-prins-11802351187</link>
-      <title>Små børn i bur, sygelig ballet og en myndig prins</title>
-      <description>En video af små børn i et bur bliver delt flittigt. Men den er falsk, og slet ikke den eneste, der florerer i konflikten mellem Hamas og Israel.
-Flere tidligere elever fortæller om en dårlig kultur på Den Kongelige Teaters Balletskole. 
-Arvtageren til den danske trone er blevet myndig, men får en blødere begyndelse end sin far.  
-I en tidligere version af udsendelsen fremgik det som om, at interviewet med Cecilie Nielsen var foretaget søndag. Interviewet blev foretaget fredag, og derfor er indslaget blevet omredigeret. 
-Vært: Annika Wetterling.
-Medvirkende:
-Isabel Dokkedal, tidligere elev, Den Kongelige Teaters Balletskole.
-Cecilie Nielsen, DR's historie- og kongehuskorrespondent.
-Natalie Frisch, journalist hos Tjek Det.</description>
-      <pubDate>Mon, 16 Oct 2023 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:01</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351187/36a4af008f5a8c760a21de6bbc727809ef07357918b03e75f2fb16bb92d97ccb.mp3" type="audio/mpeg" length="29037403" />
     </item>
   </channel>
 </rss>

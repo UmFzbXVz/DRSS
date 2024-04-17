@@ -12,7 +12,7 @@ Vært: Robert Haugsted.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:47:07 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,22 @@ Vært: Robert Haugsted.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452438162</guid>
+      <link>https://www.dr.dk/lyd/p6beat/00-erne/00-erne-2024/00-erne-16452438162</link>
+      <title>Tirsdag 16. apr. 2024</title>
+      <description>Kom ind i den musikalske tidskapsel, hvor vi genopliver og genoplever årtusindets første årti.
+Her spiller vi udelukkende musik fra tiden, hvor musikken kom på internettet og MP3-afspillere og New York igen blev sat på rock-verdenskortet. Dengang vi fik vores boogie på til Boogie-TV, mens vi rockede skinny jeans og fedtet hår.
+Forvent masser af følsom indie, spids garageguitar og electrorock krydret med dancepunk, grime, numetal og emorock - og masser af indiesleaze.
+Med andre ord - alt det bedste fra 00'erne!
+Vært: Robert Haugsted.</description>
+      <pubDate>Tue, 16 Apr 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452438162/f6791f5f18a6382b9dfafa23365602fdfd4137494599d5005af3b3f66a89ac6c.mp3" type="audio/mpeg" length="79201585" />
+    </item>
     <item>
       <guid isPermaLink="false">16452438161</guid>
       <link>https://www.dr.dk/lyd/p6beat/00-erne/00-erne-2024/00-erne-16452438161</link>
@@ -252,22 +268,6 @@ Vært: Robert Haugsted.</description>
       <itunes:duration>00:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452438122/c8b03528480db21754a433cefe6852d2ab8411f29403f41ce5e7431afd42be94.mp3" type="audio/mpeg" length="79395121" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452438121</guid>
-      <link>https://www.dr.dk/lyd/p6beat/00-erne/00-erne-2024/00-erne-16452438121</link>
-      <title>Mandag 18. mar. 2024</title>
-      <description>Kom ind i den musikalske tidskapsel, hvor vi genopliver og genoplever årtusindets første årti.
-Her spiller vi udelukkende musik fra tiden, hvor musikken kom på internettet og MP3-afspillere og New York igen blev sat på rock-verdenskortet. Dengang vi fik vores boogie på til Boogie-TV, mens vi rockede skinny jeans og fedtet hår.
-Forvent masser af følsom indie, spids garageguitar og electrorock krydret med dancepunk, grime, numetal og emorock - og masser af indiesleaze.
-Med andre ord - alt det bedste fra 00'erne!
-Vært: Robert Haugsted.</description>
-      <pubDate>Mon, 18 Mar 2024 18:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452438121/0960eecfaa594a9f4a87d729fd88ff81e4060b972a22e51df28bb6f70be8f21f.mp3" type="audio/mpeg" length="79394545" />
     </item>
   </channel>
 </rss>

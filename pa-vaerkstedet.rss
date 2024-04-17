@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:47:07 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -77,19 +77,6 @@ Producer og tilrettelægger: Iben Mogensen.</description>
       <itunes:duration>01:15:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422453131/0f602d5f531b9a4437b53f0e2b030a054fe778725968eb5fa429431855f9393f.mp3" type="audio/mpeg" length="108195142" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422453121</guid>
-      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet/paa-vaerkstedet-instruktoer-patricia-bbaale-bandak-12422453121</link>
-      <title>Instruktør Patricia Bbaale Bandak</title>
-      <description>Patricia Bbaale Bandak har sagt,  at når hun bliver stresset, så arbejder hun bare endnu mere. Hun kan ikke stoppe. Hvorfor kan hun ikke det? Hvad handler det om, og hvad betyder det for hendes kreative processer? Det taler psykologiprofessor Lene Tanggaard med Patricia Bbaale Bandak om i dagens udsendelse.
-Producer og tilrettelægger: Iben Mogensen.</description>
-      <pubDate>Mon, 18 Mar 2024 18:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:15:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422453121/6e5a4cbbe96da97ec41628bce0f06208a8053faa14a7c7bfa35401513913dd32.mp3" type="audio/mpeg" length="108194566" />
     </item>
   </channel>
 </rss>

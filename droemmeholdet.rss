@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:47:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -55,19 +55,6 @@ Start din uge ud med Drømmeholdet!</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425161/8249de507cd209faa03cf6ac4426b5418de1c2757e0e1c9d3eab3e46c038352b.mp3" type="audio/mpeg" length="254882180" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425155</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-spidsen-af-en-jetjager-og-udstoppet-krokodille-13332425155</link>
-      <title>Spidsen af en jetjager og udstoppet krokodille</title>
-      <description>Milde makrel, du skal fluks sende din drøm af sted til p3drommer@dr.dk!
-Du kender den, og du ved, den er dyr, men hvor skaffer man egentligt spidsen af en jetjager? Katrine drømmer om at få spidsen af en jetjager indrammet og op på væggen, men det bliver svær; sådan en koster jo snildt en bondegård eller det hvide ud af øjnene. Det er på tide at knappe den øverste skjorteknap op, for vi skal høre fra Mormor Inge og nogle frække drømme. Vi er blevet central for eftersøgning af udstoppede dyr, og i dag igangsætter vi eftersøgningen af en krokodille og en bodega til en afgangsfilm fra Super-16. Der er happy hour i Drømmefangeren, så vi går selvfølgelig efter begge drømme, så filmen bliver Hollywood værdig.</description>
-      <pubDate>Fri, 12 Apr 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425155/bff017f6ca0d6c3beb5e9cf45f815734a4eb17094cf7b759d9e3cbfd6861113a.mp3" type="audio/mpeg" length="254880456" />
     </item>
   </channel>
 </rss>

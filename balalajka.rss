@@ -9,7 +9,7 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:45:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:30:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332426162</guid>
+      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-13332426162</link>
+      <title>Tirsdag 16. apr. 2024</title>
+      <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
+Værter: Anton Ringdal og Mathilde Muus.</description>
+      <pubDate>Tue, 16 Apr 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426162/9923f44edfd970d4c5ca48269c2fbc74d1bf660bf6f4f77d917e32f5f422780c.mp3" type="audio/mpeg" length="172801557" />
+    </item>
     <item>
       <guid isPermaLink="false">13332426161</guid>
       <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-phishingmails-og-kahlervaser-13332426161</link>

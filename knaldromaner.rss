@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:46:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:13 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -146,19 +146,6 @@
       <itunes:duration>00:32:37</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192870/b82d2b4b778aeb616ee2e8828171b116098c472e60fd099d7dfe1daea94478bf.mp3" type="audio/mpeg" length="46983213" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192869</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-manglende-lyst-folkets-skoenhed-16122192869</link>
-      <title>Manglende lyst - Folkets skønhed</title>
-      <description>Manglende lyst til sex er ofte forbundet med skyld og skam. Somme tider kan manglede lyst være helt naturligt, men det kan også have mørkere årsager, som det er tilfældet for hovedpersonen i 
-Merete Pryds Helles prisbelønnede roman, Folkets skønhed. Men hvordan passer man på sine egne grænser, og hvorfor kan det være svært at sige nej?</description>
-      <pubDate>Fri, 16 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:37</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192869/f78b7ce59ea1b8adb87f31d5cde2f674f2c0dd70d7ba3ec0da1462576320d856.mp3" type="audio/mpeg" length="39782061" />
     </item>
   </channel>
 </rss>

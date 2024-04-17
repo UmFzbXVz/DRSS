@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:45:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:21:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460089</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-af-fjord-er-du-kommet-11802460089</link>
+      <title>Af fjord er du kommet</title>
+      <description>Country-musik brager ud over rodeoridning og en oppustelig hoppeborg. Fra kassen kan der snuppes en "nejer" - Danmarks Demokraternes pendant til en bajer og et iskoldt nej tak til en CO2-afgift på landbruget. Sidste lørdag afholder Inger Støjberg sit famøse rally i Randers. Og bare 100 km syd derfra - på helt samme dag - flager sportsfiskere og klimaaktivister på halv. De holder begravelse for Vejle Fjord. Sammen med mindeord og jordpåkastelse, runger klapsalverne, når der peges på landbrugets kvælstofudledning som fjordens drabsmand. Adskilt af bare en times kørsel repræsenterer de to arrangementer hvert sit verdenshjørne i tidens mest betændte politiske spørgsmål: forhandlingerne om en CO2-afgift. I dagens Genstart fortæller journalist og redaktør på Altinget, Andreas Arp, om den åndelige forbindelse han ser mellem de to poler.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 14/4</description>
+      <pubDate>Wed, 17 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460089/1de5d34d86c08b50e278b428b16bf935b28983fbcf21d893fc7ef47b6128a168.mp3" type="audio/mpeg" length="33902663" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460088</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-beyonces-rodeo-11802460088</link>
@@ -9428,20 +9442,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:24:10</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150076/9f6b3c3385225cd61e89187f712c12e77f890691a0a28ee97c3d94e24492ba31.mp3" type="audio/mpeg" length="34805997" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150075</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-knaegter-khader-det-frie-ord-11802150075</link>
-      <title>Knægter Khader det frie ord?</title>
-      <description>Få slår højere på tromme for det frie ord end den konservative folketingspolitiker Naser Khader. Men nu viser det sig, at han i flere tilfælde tilsyneladende har forsøgt at true en række mennesker til tavshed i den offentlige debat. Han har forsøgt at få sine modstandere fyret. 
-Hvad sker der med den ellers folkekære Khader? Og får det konsekvenser for den nu sygemeldte politiker? Det taler vi om med journalisten bag afsløringen, Helene Kristine Holst, fra Berlingske. 
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 16 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:40</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150075/db913cf1a2459af71363c43551747a2bf800847c0a5ac68820e1e6295b4f8d08.mp3" type="audio/mpeg" length="32652909" />
     </item>
   </channel>
 </rss>

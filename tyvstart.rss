@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:47:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450077</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-mr-parasports-kamp-for-blaastempling-13652450077</link>
+      <title>Mr. Parasports kamp for blåstempling</title>
+      <description>Peter Rosenmeier har vundet medaljer ved alle de fem paralympiske lege, han har deltaget i. 
+Til sommer sætter han kursen mod Paris og sit sjette PL, og det er med drømmen om endnu en triumf. Men det er samtidig med bagagen fyldt med erfaring fra en karriere, hvor han kan huske tilbage på tiden, hvor parasport var langt fra fjernsyn og overskrifter. I dag følger hele Danmark med, når Rosenmeier står ved bordtennisbordet, og det er en triumf i sig selv.
+Vært: Rikke Smed.</description>
+      <pubDate>Wed, 17 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450077/75c0d5646028160ad1eb63b78be12a0fb7cfc1058515c264278b8919bfc17764.mp3" type="audio/mpeg" length="25164153" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450076</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-holgers-grusvej-tilbage-til-top-10-13652450076</link>
@@ -1902,22 +1916,6 @@ RETTELSE: I dette program bruger vi titlen psykolog om dagens kilde Erik Østenk
       <itunes:duration>00:17:09</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350200/adc2461a786ec7073f3e317a624a696e61370a3faa8555b25cbc38abd69986ca.mp3" type="audio/mpeg" length="24912667" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350199</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-ol-for-andre-end-gamle-boomere-13652350199</link>
-      <title>OL for andre end gamle boomere</title>
-      <description>Det handler om at følge med tiden. Også for OL, der ser mod breakdance, skateboarding og surfing, når verdens største sportsbegivenhed skal fange de unge. Lige nu ser IOC frem mod legene i Los Angeles i 2028, og her bliver der også kælet for amerikanerne med baseball, flag football og lacrosse. 
-
-I dagens afsnit forklarer DR Sportens kommentator Henrik Liniger, hvorfor OL skal have nye sportsgrene på programmet, og om det over hovedet giver mening. 
-
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:39</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350199/69490d1cefa17a775325f8a59c37794d63a98f66963e343876313932307e147f.mp3" type="audio/mpeg" length="27051931" />
     </item>
   </channel>
 </rss>

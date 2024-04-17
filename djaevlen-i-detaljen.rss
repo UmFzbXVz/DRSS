@@ -11,7 +11,7 @@ Produceret for DR af Filt Cph.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:46:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:30:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret for DR af Filt Cph.</description>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16122492714</guid>
+      <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
+      <title>Teaser: Kærlighedssvindleren 3:3 - Roadtrip til Norge</title>
+      <description>Nu spidser det til. Kim er klar over, at Marius ikke er den, han udgiver sig for at være. Hun afbryder nu forholdet til ham, og så tager hun til Norge med en ny veninde for at se Marius i øjnene, når han skal på anklagebænken i en norsk retssal. Hør hele afsnittet i &lt;a href=https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen&gt;DR Lyd&lt;/a&gt;.</description>
+      <pubDate>Wed, 17 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492714/db9af42221fa9911f36237e654028cc04d935367b9565eed581cec25c44e8584.mp3" type="audio/mpeg" length="1303936" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492713</guid>
       <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>

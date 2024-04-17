@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:47:07 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421162</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421162</link>
+      <title>Tirsdag 16. apr. 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Tue, 16 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421162/0be14023515acbd647dc39abeeeccf2b5a9dd698c37136a27aa34b8621787c87.mp3" type="audio/mpeg" length="172802165" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421161</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-bad-boy-eller-skvat-boy-13332421161</link>
@@ -212,18 +224,6 @@ Tlf. gæst: Astrolog Christine Jackson.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421122/faf82140a655a781e0383c82c4a712583d0b43a8eae131ee01e355e0ca6d13a4.mp3" type="audio/mpeg" length="172995125" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421121</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-karaoke-quiz-og-dumme-penge-13332421121</link>
-      <title>Karaoke-quiz og dumme penge</title>
-      <description>Mo er tjekket ind i Residensen og er klar til at vende dagens musiknyheder sammen med Nynne. Det betyder en revanche fra Nynnes fødselsdag, hvor Mo holdt sig langt fra karaoke-rummet, en iskold vurdering af den dyreste fade i verdenshistorien, lytternes fortællinger om dumme penge og selvfølgelig en omgang musikforræder. Velkommen indenfor!</description>
-      <pubDate>Mon, 18 Mar 2024 18:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421121/7b6f813b3ca62d7a44e7811dfc5b17d3de2abf51ce296e60008ee1bbf1b2aaaf.mp3" type="audio/mpeg" length="172993973" />
     </item>
   </channel>
 </rss>

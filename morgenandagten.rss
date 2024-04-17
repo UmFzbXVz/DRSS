@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:46:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -420,24 +420,6 @@ Postludium: Johann Sebastian Bach: Christus, der uns selig macht, BWV 620.</desc
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405122/bb8ec1ad6b50e77c82a9fdd31a87f3ed6efad7ef670074456552a399835eeb6e.mp3" type="audio/mpeg" length="36194541" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405121</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405121</link>
-      <title>Mandag 18. mar. 2024</title>
-      <description>Præludium: Jean Francois Dandrieu: Magnificat.
-Ord til dagen: fra armensk, oldkirkelig liturgi.
-Salme: 645 "Stille er min sjæl til Gud".
-Fra det N.T.: Johannesevangeliet 18,38b -19,7.
-Korvers: Niels Wilhelm Gade: Det hellige kors, vor Herre han bar (tekst: N.F.S. Grundtvig).
-Salme: 205, vers 1-2 "O store Gud, din kærlighed".
-Postludium: Johann Sebastian Bach: Magnificat.</description>
-      <pubDate>Mon, 18 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405121/27db091d8e9b7bd64fe114c4182d4ba0c6deb8b959eec73b92f8a20a2a3826c1.mp3" type="audio/mpeg" length="36194543" />
     </item>
   </channel>
 </rss>

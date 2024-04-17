@@ -13,7 +13,7 @@ OBS - der findes en version af serien med musik og lyddesign med titlen "Faldet 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:41:15 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:30:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -33,6 +33,21 @@ OBS - der findes en version af serien med musik og lyddesign med titlen "Faldet 
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802418604</guid>
+      <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-4-5-tigerens-oeje-lydfoelsom-version-11802418604</link>
+      <title>Faldet 4:5 - Tigerens øje  - Lydfølsom version</title>
+      <description>I Pittsburgh bliver Mads' verden vendt på hovedet. Lægerne beder ham gøre alt, som han har forsøgt at undgå de sidste to år. Masser af støj, træning og høj musik er kuren på hans rystede hjerne, siger de. Nu skal genoptræningsprogrammet vise sit værd de næste to uger. Men hvorfor har Mads fået den modsatte instruktion af lægerne i Danmark?</description>
+      <pubDate>Tue, 16 Apr 2024 15:45:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010004</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802418604/a75df5420171512cab263dfb6086d473730af953ff4a0e4eafe0aa34a00fb387.mp3" type="audio/mpeg" length="36068429" />
+    </item>
     <item>
       <guid isPermaLink="false">11802418603</guid>
       <link>https://www.dr.dk/lyd/special-radio/faldet-lydfoelsom-version/faldet-lydfoelsom-version-1/faldet-3-5-et-sidste-haab-lydfoelsom-version-11802418603</link>

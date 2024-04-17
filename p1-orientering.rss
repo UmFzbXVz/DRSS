@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:45:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:30:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,10 +25,24 @@
     <category>News</category>
     <itunes:category text="News" />
     <item>
+      <guid isPermaLink="false">11802410162</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410162</link>
+      <title>Tirsdag 16. apr. 2024</title>
+      <description>Hvad kan være årsagen til branden på Børsen?
+Hvordan vil Israel reagere på Irans angreb i weekenden?
+Hvilken betydning havde Børsen historisk set?
+Dagens værter: Søren Carlsen og Anne Kirstine Herman.</description>
+      <pubDate>Tue, 16 Apr 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:27:42</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410162/0c8ef552fd01a0ad8f6983ed6aa8fe09101c1cc90a5c314726000a94118a1edf.mp3" type="audio/mpeg" length="126308482" />
+    </item>
+    <item>
       <guid isPermaLink="false">11802410161</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410161</link>
       <title>Mandag 15. apr. 2024</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
+      <description>Hvad siger kritikken om hele kræftskandalen? Hvordan er så sanktioneret et land blevet en drone-frontrunner? Hvad fik Mette F ud af mødet med Donald Tusk?
 Dagens værter: Anne Kirstine Hermann og Ole Brink.</description>
       <pubDate>Mon, 15 Apr 2024 16:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
@@ -2573,38 +2587,6 @@ Vært: Thomas Buhl.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:06</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302431/c142a4cbcbe58bf97559ad3ea5408752020ca5bf04f270f5cef77dd7bf84a689.mp3" type="audio/mpeg" length="79357915" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304425</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304425</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Anne Kirstine Hermann og Julie Hornbek Toft.
-Og i dagens udgave af Orientering Udsyn:
-Mens verdens øjne lige nu er på krigen mellem Hamas og Israel, er den efterhånden halvandet år gamle krig i Ukraine gledet i baggrunden. Vesten står nu over for at håndtere to krige på én gang - hvem vinder og taber på det?
-Den store kinesiske plan om en ny silkevej fejrer 10 års jubilæum. Det bliver markeret med stor fest med repræsentanter fra flere end 100 lande i verden. Men hvor meget er der i virkeligheden at fejre for Kina?
-Gæster: Flemming Splidsboel, seniorforsker på Dansk Institut for Internationale Studier og Tabita Rosendal, ph.d.-studerende på Lund Universitet.
-Tilrettelæggelse: Sven Johannesen og Elise Normann.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen og Malte Winther Bothe.
-Redaktør: Nickolaj Sander.</description>
-      <pubDate>Fri, 20 Oct 2023 17:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:09</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304425/6dab323825138e42aa88c333d64b34c3fe06e563bf4831a1da4a8a43f64ac618.mp3" type="audio/mpeg" length="79423579" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310425</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310425</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Anne Kirstine Hermann og Julie Hornbek Toft.</description>
-      <pubDate>Fri, 20 Oct 2023 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:08</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310425/9e267ed15cf44f03767114f8115bbff7075cee4e225784bb63b580fe2a538033.mp3" type="audio/mpeg" length="79401115" />
     </item>
   </channel>
 </rss>

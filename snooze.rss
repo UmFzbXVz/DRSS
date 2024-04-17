@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:47:15 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:31:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -282,23 +282,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428122/e66cc3d7071ff7955cf9d47c9a55977180746f2fa4d8ca35483a27586411efa0.mp3" type="audio/mpeg" length="252195125" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428121</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428121</link>
-      <title>Mandag 18. mar. 2024</title>
-      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Mon, 18 Mar 2024 07:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428121/50bc98aabfe47d6dbe91b0068a75e7a10e87e46c534c417da1e3888118e2e0bd.mp3" type="audio/mpeg" length="252194549" />
     </item>
   </channel>
 </rss>

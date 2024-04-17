@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Apr 2024 12:47:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:22:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802438504</guid>
+      <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2024/stjerner-og-striber-valg-i-europa-ursula-paa-glatis-11802438504</link>
+      <title>Valg i Europa: Ursula på glatis</title>
+      <description>EU's magtfulde formand for Europa-Kommissionen, Ursula von der Leyen, forsøger at få fem år mere på posten, men flere skandaler har givet ridser i lakken, og det er ikke sikkert, at det kommende Europa-Parlament vil stemme for von der Leyen. Hver onsdag kaster Stjerner og striber sig over EU-valget til juni. Hver fredag handler det om valget i USA.
+Deltagere: Korrespondent i Storbritannien Tinne Hjersing Knudsen, EU-korrespondent Ole Ryborg, EU-reporter Per Bang Thomsen, DR's fodboldkommentator, Andreas Kraul og journalist og podcastvært Sandie Westh. 
+Tilrettelæggelse: Lasse Berg Sørensen.</description>
+      <pubDate>Wed, 17 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:50:11</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802438504/05d1b5290f1175a30a004e96ec7950efd00b59fd9af9294e038b96e3db82fbaf.mp3" type="audio/mpeg" length="72268853" />
+    </item>
     <item>
       <guid isPermaLink="false">11802437015</guid>
       <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2024/stjerner-og-striber-usa-trumps-tryktest-og-bidens-ungdomsfest-11802437015</link>
@@ -1175,19 +1188,6 @@ Deltagere: USA-korrespondent Lillian Gjerulf Kretz, journalist og USA-specialist
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:33:43</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802134018/8cdfa474d692e854796dafd0453a595f8cca1e1d83a542085b02506caee9ee3c.mp3" type="audio/mpeg" length="48571245" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802134017</guid>
-      <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2021/stjerner-og-striber-imperiernes-kirkegaard-11802134017</link>
-      <title>Imperiernes Kirkegård</title>
-      <description>Commander in Chief Biden har besluttet, at alle amerikanske soldater skal være ude af Afghanistan senest 11. september, 20-årsdagen for terrorangrebene på World Trade Center og Pentagon. 
-Forlader de "imperiernes kirkegård", som Afghanistan bliver kaldt, som vindere eller tabere, og hvordan efterlader det Afghanistan?
-Deltagere: USA-korrespondent Lillian Gjerulf Kretz, journalist og USA-specialist Lasse Engelbrecht, Asien-korrespondent Philip Khokhar og journalist Lasse Berg Sørensen.</description>
-      <pubDate>Fri, 16 Apr 2021 16:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:34</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802134017/b2ce517eb422ff8da626fc79bed13dde552b73be388e0f23afa67519c5e03a47.mp3" type="audio/mpeg" length="39705453" />
     </item>
   </channel>
 </rss>
