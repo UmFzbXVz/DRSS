@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:30:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:58:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433163</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433163</link>
+      <title>Onsdag 17. apr. 2024</title>
+      <description>Hvilken opgave venter nu i forhold til Børsen? Hvad vi om terrorangrebet i Sydney? Og er der stadig brug for Nye Borgerlige i dansk politik?
+Dagens værter: Pernille Rudbæk og Morten Runge.</description>
+      <pubDate>Wed, 17 Apr 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:51</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433163/08ce56fbb4d164f5a6c1404d201573f1097be13c2339f4c1820bf4b57e037a43.mp3" type="audio/mpeg" length="237409136" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433162</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433162</link>
@@ -1859,18 +1871,6 @@ Dagens værter: Julie Toft og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:42</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333431/fec7d1c73bdc12eff7ea20ef8e6bd6988efcbe615ee5bb41fca56f2ce99d4300.mp3" type="audio/mpeg" length="237172699" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333426</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333426</link>
-      <title>Lørdag 21. okt. 2023</title>
-      <description>Hvad skal man gøre, hvis man står i vand til knæene? Israel og USA er ikke på listen, hvad betyder det for freds-topmødets succes? Hvorfor har vi brug for en central kystsikringsplan? 
-Dagens værter: Anne Kirstine Hermann og Pernille Rudbæk.</description>
-      <pubDate>Sat, 21 Oct 2023 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:49:51</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333426/612f414229c789ae7f82ac9d5db36c966698268b253322eafa382ca242c12c8f.mp3" type="audio/mpeg" length="158185819" />
     </item>
   </channel>
 </rss>

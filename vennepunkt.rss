@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:31:22 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:51:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,26 @@ Produceret for DR af MonoMono.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122393675</guid>
+      <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-voksne-maend-med-store-foelelser-med-lars-hjortshoej-og-benjamin-koppel-16122393675</link>
+      <title>Voksne mænd med store følelser - med Lars Hjortshøj og Benjamin Koppel</title>
+      <description>En aften i en hotelbar møder Lars og Benjamin hinanden for første gang - Lars giver en selfie, og Benjamin inviterer Lars på en drink. Sofie deler en vennefortælling, om hvordan man finder nye venner som en 50-årig, fraskilt mand.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Skuespiller og komiker Lars Hjortshøj og forfatter og musiker Benjamin Koppel.
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Thu, 18 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:37:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393675/f73c96ad123c976bbc9675c373dd2886a314c679da4ce0439eb4dc8854f2764d.mp3" type="audio/mpeg" length="53658854" />
+    </item>
     <item>
       <guid isPermaLink="false">16122393674</guid>
       <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-har-slaaet-op-med-en-vennegruppe-med-astrid-olsen-16122393674</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:31:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:59:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,26 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332421163</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-brimheim-13332421163</link>
+      <title>Med Brimheim</title>
+      <description>Brimheim er i studiet til en snak om albummet Ratking, Avril Lavigne-skuffelser og offentlige playlister. Derudover er der stadig beef i hiphopland, men den klarer Kasper med et hurtigt overblik. Måske. Velkommen indenfor!</description>
+      <pubDate>Wed, 17 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421163/e29212f45c6c14a3098c0745b94c5999a4b9f415d5041f1d2ad37000a1cf3851.mp3" type="audio/mpeg" length="172801589" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332421162</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421162</link>
-      <title>Tirsdag 16. apr. 2024</title>
-      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-alle-koncerter-er-en-lille-smule-kedelige-eller-hvad-13332421162</link>
+      <title>Alle koncerter er en lille smule kedelige - eller hvad?</title>
+      <description>Det er blevet dagen på ugen hvor vi vender og drejer en kontroversiel holdning i programmet - det er nemlig hot take tirsdag. I dag leveret af vores kollega, nemlig P3-vært Nicolas Kaiser. Vi dykker også ned i det lyriske univers i denne uges P3's Uundgåelige fra engelske Artemas. Han bringer en påstand om det intime rum, og det skal vi da lige vende med jordemoder og sexolog Shabnam Azizi, for at få be- eller afkræftet. Velkommen indenfor!
+Gæst på tlf: Nicolas Kaiser.
+Gæst på tlf: Shabnam Azizi.
+Gæst på tlf: Jonas Termansen.
+Reporter: Esmeralda Holmberg.</description>
       <pubDate>Tue, 16 Apr 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -211,19 +227,6 @@ Tlf. gæst: Bo Huniche.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421123/42d61e0e0c02a6a14069267b571a01617783f10b9d893d755935cc873d5720c4.mp3" type="audio/mpeg" length="172994564" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421122</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-tvillinger-er-de-stoerste-stjerner-eller-hvad-13332421122</link>
-      <title>Tvillinger er de største stjerner - eller hvad?</title>
-      <description>Hot Take Tirsdag! De kontroversielle holdninger skal luftes, og Kasper deler ud af astrologiske indsigter - eller mangel på samme. Derudover skal der flekses bedsteforældre, der kan måle sig med Ariana Grandes 98-årige storhittende Nonna og øves tysk stoneface, når Kasper sweettalker dørmanden på Berghain.
-Tlf. gæst: Astrolog Christine Jackson.</description>
-      <pubDate>Tue, 19 Mar 2024 18:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421122/faf82140a655a781e0383c82c4a712583d0b43a8eae131ee01e355e0ca6d13a4.mp3" type="audio/mpeg" length="172995125" />
     </item>
   </channel>
 </rss>

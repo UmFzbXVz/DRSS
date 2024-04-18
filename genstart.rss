@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:21:42 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:56:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460090</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-falsk-i-dit-feed-11802460090</link>
+      <title>Falsk i dit feed</title>
+      <description>På dårligt engelsk fortæller tv-vært Mette Bluhme Rieck om et mirakuløst slankemiddel, der kan få dig til at tabe 19 kilo på få uger. Smilende forsikrer hun om kurens imponerende effekt, der bakkes op af utrolige før- og efterbilleder af hendes krop. Men hverken kroppen eller stemmen er Mettes, for hun har aldrig sagt ja til at medvirke i slankereklamen. Ligesom mange andre kendte danskere er hendes identitet blevet misbrugt i falske, manipulerede annoncer på Facebook i et gigantisk økonomisk scam. Reklamen bliver den første af mange annoncer med tv-værten, som ufrivilligt må se på, mens svindlerne gør hende til hovedperson i løgne og skandaler. I dagens Genstart fortæller Mette Bluhme Rieck, hvad der er på spil, når ens gode navn bliver brugt til at bedrage danskerne.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 15/4.</description>
+      <pubDate>Thu, 18 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460090/e5e5d45c5463e93b2a87a08820cf4b2c403239b1dc8d17e1729df80901515c4a.mp3" type="audio/mpeg" length="35790220" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460089</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-af-fjord-er-du-kommet-11802460089</link>

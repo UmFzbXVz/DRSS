@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:31:47 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:59:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450078</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-livets-sommer-i-karrierens-efteraar-13652450078</link>
+      <title>Livets sommer i karrierens efterår</title>
+      <description>Michael Mørkøv får snart meget travlt. Han er hentet til Astana for at sikre en sidste og rekordtagende Tour-etapesejr til Mark Cavendish, han skal genvinde OL-guld i banecykling, og så er han udtaget til at køre for Mads Pedersen ved det olympiske linjeløb.
+I dagens Tyvstart fortæller den rutinerede cykelstjerne, hvordan man holder så mange bolde i luften, og hvor meget der skal til, for at sommeren kan kaldes en succes.
+Vært: Emil Schiønning.</description>
+      <pubDate>Thu, 18 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450078/1af03f8a99dce8b06bdd5210896ac92c5dbfde980896e850a4ba0c75ad27f9b8.mp3" type="audio/mpeg" length="26272378" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450077</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-mr-parasports-kamp-for-blaastempling-13652450077</link>
@@ -1897,25 +1911,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350201/90b9215b1ccdd579ab0cac97ed60abafb572e10de425b2e222cda583ffc220b7.mp3" type="audio/mpeg" length="22853467" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350200</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-tab-og-tab-med-samme-sind-13652350200</link>
-      <title>Tab og tab med samme sind</title>
-      <description>San Marinos fodboldlandshold har aldrig vundet en officiel kamp. Inden tirsdagens kamp mod Danmark har de heller ikke scoret i den igangværende EM-kvalifikation. 
-
-Hvordan holder man fast i troen på at kunne vinde? Og hvorfor gider man over hovedet gå på banen, når man er kanonføde?
-Det svarer Erik Østenkjær, der er mentaltræner, på. 
-
-Vært: Emil Schiønning.
-
-RETTELSE: I dette program bruger vi titlen psykolog om dagens kilde Erik Østenkjær. Den titel er ikke korrekt og skulle retteligt have været mentaltræner. DR Sporten beklager fejlen.</description>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:09</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350200/adc2461a786ec7073f3e317a624a696e61370a3faa8555b25cbc38abd69986ca.mp3" type="audio/mpeg" length="24912667" />
     </item>
   </channel>
 </rss>

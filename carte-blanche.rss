@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:31:52 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:59:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,22 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332427163</guid>
+      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-airtoxreklamen-braendende-selvpromovering-og-beatbox-jens-13332427163</link>
+      <title>Airtoxreklamen, brændende selvpromovering og beatbox Jens</title>
+      <description>Airtox-sikkerhedssko vil give et par gratis sko til alle, der bliver en del af genopbygningen af Børsen. Det har deres direktør meldt ud, efter at en stor fed Airtox-reklame er blevet set verden over, da den hænger på stilladset foran den brændende Børsen-bygning. Men hvilken anden reklame ville vi ønske, der havde flagret på Børsen, hvis det betød, at vi kunne få produktet? Det spørger vi jer om.
+Og vi slipper ikke Børsen helt. For der er et utal af mennesker, der har brugt branden som en måde at promovere sig selv. Der er næsten ingen grænser for, hvor mange mennesker der pludselig har et ekstremt tæt forhold til bygningen. Vi giver derfor dig muligheden for at hoppe med på promoveringsvognen.
+Sidst tjekker vi ind med vores beatboxingelev Jens, som vi her på programmet følger i hans rejse til at blive en god beatboxer i sin fritid.
+Værter: JoJo og Henrik Eriksen.
+Medvirkende: Jens Mørck Andersen.</description>
+      <pubDate>Wed, 17 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427163/2a54b0b22dfad810a9b786c6325812da68ec56c964557a3c75152f644f8a19d4.mp3" type="audio/mpeg" length="172801609" />
+    </item>
     <item>
       <guid isPermaLink="false">13332427162</guid>
       <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-foedselsdagsflammer-joboptimering-ris-og-ros-13332427162</link>
@@ -253,21 +269,6 @@ Værter: Jannik Schow og Henrik Eriksen.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427123/9c39ce6066bfb1900f668cf6b3864fd55a1e52ca8f47282350dbdd64cb65fca0.mp3" type="audio/mpeg" length="172994564" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427122</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-en-akavet-undskyldning-rotter-paa-stoffer-og-berlingskes-talent-100-liste-13332427122</link>
-      <title>En akavet undskyldning, rotter på stoffer og Berlingskes Talent 100-liste</title>
-      <description>I dag har Mads Fuglede fra Venstre meldt ud, at han ikke vil være i partiet mere og skifter til Danmarksdemokraterne. Det betyder, at regeringens tre partier tilsammen har 87 mandater, hvis man tæller Jon Stephensen med, og derfor er der ikke længere et flertal. Det betyder muligvis, at Lars Løkke skal sige et akavet undskyld til Mike Fonseca, så regeringens flertal ikke smuldrer. Vi tror ikke, at Lars er alene om at bikse en akavet undskyldning sammen. Derfor beder vi jer om at ringe ind med jeres historier.
-Så skal vi snakke stoffer. Vi har tidligere snakket om, hvordan afhængigheden af rusmidler har spredt sig til dyreriget, da delfiner er begyndt at blive høje på kuglefiskens nervegift... Og nu er den gal igen - Denne gang hos rotterne.
-Sidst, men ikke mindst, skal vi tale om Berlingskes årlige Talent 100-liste. En liste med 100 talenter under 36 år, som er vigtige for det danske erhvervsliv. Det er jo en elitær liste, og derfor laver vi vores egen, som vores lyttere kan blive en del af.
-Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
-      <pubDate>Tue, 19 Mar 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427122/91e485a93519fea74d8f7b8d037f52b49fc217e42f6464ce4597e6950cc5714c.mp3" type="audio/mpeg" length="172994570" />
     </item>
   </channel>
 </rss>

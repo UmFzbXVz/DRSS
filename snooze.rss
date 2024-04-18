@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:31:38 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:59:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428163</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-de-unge-haab-for-dansk-jazzkonkurrencen-18452428163</link>
+      <title>De unge håb for dansk - Jazzkonkurrencen.</title>
+      <description>Jazzkonkurrencen er et årligt tilbagevendende talentprogram, hvor tre unge håb fra den danske jazzscene dyster med og mod hinanden på spillesteder over hele landet. I aften spiller de tre orkestre i Odense, og vi griber derfor telefonen og ringer til den nye generation i dansk jazz.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Wed, 17 Apr 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428163/61c9839881c8b60b873bdd1fe99bb39bb81b2bd3b705236a606ad3be1c2dc2cd.mp3" type="audio/mpeg" length="252001614" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428162</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-med-p8-til-jazzahead-nana-rashid-18452428162</link>
@@ -264,24 +281,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428123/f1996e331a78bace26ea44db6bc215dfb2be8c08392cafc52c8213f345a0a633.mp3" type="audio/mpeg" length="252195125" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428122</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-summertime-uden-sidestykke-18452428122</link>
-      <title>Summertime uden sidestykke</title>
-      <description>Et nyt program er født på P8. Det hedder Uden Sidestykke, og hver søndag dykker det ned i nogle af de største numre fra musikhistorien. Vi taler med vært og tilrettelægger Naya Buric, både om programmet og om klassikeren Summertime, som er emnet for første afsnit.
-Gæst: Naya Buric, vært på det nye P8-program Uden Sidestykke.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 19 Mar 2024 07:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428122/e66cc3d7071ff7955cf9d47c9a55977180746f2fa4d8ca35483a27586411efa0.mp3" type="audio/mpeg" length="252195125" />
     </item>
   </channel>
 </rss>

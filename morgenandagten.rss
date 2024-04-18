@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:31:15 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:59:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405163</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405163</link>
+      <title>Onsdag 17. apr. 2024</title>
+      <description>Præludium:	Jesper Madsen: Min mund og mit hjerte.
+Fra det G.T.:	5. Mosebog 30,9-14.
+Salme: 396 "Min mund og mit hjerte".
+Fra det N.T.:	Romerbrevet 12,3-8.
+Korvers: Carl Nielsen: Tak for al Guds kærlighed (Tekst: Marinus Børup).
+Salme: 327 "Kirken er som Himmerige".
+Postludium: Niels W. Gade: Tonestykke i C-dur.</description>
+      <pubDate>Wed, 17 Apr 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405163/bcfe956e4abd7e4a040053ab9ab46b678aefcbb4f5e7f0d1e0fc32966773ef8d.mp3" type="audio/mpeg" length="36001579" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405162</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405162</link>
@@ -402,24 +420,6 @@ Postludium: Antonio Lotti: Crucifixus.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405123/45fa4a163d635bc948ee73c39dcf90fc1a1a15b283049a01b5aee8a20ea3e805.mp3" type="audio/mpeg" length="36194543" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405122</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405122</link>
-      <title>Tirsdag 19. mar. 2024</title>
-      <description>Præludium: Johann Sebastian Bach: Da Jesus an dem Kreuze stund, BWV 621.
-Fra det G.T.: Esajas 53,7-9.
-Salme: 193 "O hoved, højt forhånet".
-Fra det N.T.: Johannes-ev. 19, 8-16.
-Korvers: Niels Wilhelm Gade: Det hellige kors, vor Herre han bar (tekst: N.F.S. Grundtvig).
-Salme: 337 "Behold os, Herre, ved dit ord".
-Postludium: Johann Sebastian Bach: Christus, der uns selig macht, BWV 620.</description>
-      <pubDate>Tue, 19 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405122/bb8ec1ad6b50e77c82a9fdd31a87f3ed6efad7ef670074456552a399835eeb6e.mp3" type="audio/mpeg" length="36194541" />
     </item>
   </channel>
 </rss>

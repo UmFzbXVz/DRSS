@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Apr 2024 06:31:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:59:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463044</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-ekko-12422463044</link>
+      <title>Ekko</title>
+      <description>I den græske mytologi er der bjergnymfen der elsker lyden af sin egen stemme. Natsværmeren elsker lyden af stemmer og instrumenter der synger. Hør musik der kaster genlyd af sig fra blandt andre Arvo Pärt, Rebekka Karijord og Martin Lohse.
+Vært: Tina Rømer.
+(Sendt første gang 26. januar).</description>
+      <pubDate>Thu, 18 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463044/307f4cb27923960e96e1e11b1b1fd7010c02b09a61bb30b8f3932df042f90bac.mp3" type="audio/mpeg" length="168465471" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463162</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nattens-spejl-12422463162</link>
@@ -412,19 +426,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:57:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363507/44ebdf2cd38a91269953b43bcd5a888af49a2b26b41b7d2eae4d33bd9cc96cdc.mp3" type="audio/mpeg" length="168668228" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463121</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-entre-12422463121</link>
-      <title>Entré</title>
-      <description>En polsk violinist spøger i kulissen med støv på pickuppen. En sangerinde drømmer om frihed. Det er tirsdag, dagen, der ikke gør et stort væsen af sig. Men i Natsværmeren er der altid plads til de store drømme.
-Vært: Minna Grooss.</description>
-      <pubDate>Tue, 19 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463121/e6d82d9f6b148ac538d43b1ac11bf7c1de615f516f1309c244dfb1c4b9cd1008.mp3" type="audio/mpeg" length="168663594" />
     </item>
     <item>
       <guid isPermaLink="false">12422263384</guid>
@@ -827,20 +828,6 @@ Vært: Katrine Ring.
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263453/4c5e6708a0042cb8b504b0fa4ab49d1e743af308b198a6957be3980f74e221fa.mp3" type="audio/mpeg" length="168478363" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422263413</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-afstande-12422263413</link>
-      <title>Afstande</title>
-      <description>Hvor langt væk er drømme og stjerner? Er det tusind kilometer eller 300 år. Afstande måles med norske alen, tidens langsomhed og fornemmelser. Især med musikalske fornemmelser. 
-Vært: Katrine Ring.
-(Sendt første gang 13. oktober).</description>
-      <pubDate>Sat, 21 Oct 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263413/087d978b7bad28587d3fa2bbcea26f0fae1c41b7190da27b60f52374c1b11a5e.mp3" type="audio/mpeg" length="168477787" />
     </item>
   </channel>
 </rss>
