@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:40:49 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -402,24 +402,6 @@ Programansvarlig: Karen Albertsen.</description>
       <itunes:duration>00:34:29</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195707/b26338706051e919fe4ffd37b77d530a4ab386956ac8b42dc2480a933a55edc5.mp3" type="audio/mpeg" length="49657005" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195706</guid>
-      <link>https://www.dr.dk/lyd/p3/tvaers/tvaers-20211/tvaers-vredens-druer-2-3-13332195706</link>
-      <title>Vredens druer 2:3</title>
-      <description>På en idyllisk fransk bjergside kæmper Maja for at få en flok får ind i deres fold. En fold som hendes vært har bygget af paller, en mikrobølgeovn, og hvad han ellers lige kunne finde. Hun er rejst hertil for at komme sig efter en stresssygemelding. Det er bare ikke helt, som hun havde forventet... 
-
-Medvirkende: Maja (redaktionen er bekendt med Majas fulde navn)
-Klip og tilrettelæggelse: Morten Narvedsen.
-Vært: Line Kirsten Nikolajsen.
-Redaktør: Sandra Mia Susgaard.
-Programansvarlig: Karen Albertsen.</description>
-      <pubDate>Sun, 18 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:31:16</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195706/c2eed548f7a82f8766101d59dc6c49f4beec80ae0e688ef5b1efc6b3f370a944.mp3" type="audio/mpeg" length="45047853" />
     </item>
   </channel>
 </rss>

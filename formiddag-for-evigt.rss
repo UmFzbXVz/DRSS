@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:50:28 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452424164</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424164</link>
+      <title>Torsdag 18. apr. 2024</title>
+      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Thu, 18 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424164/a9b1c1203482271209439d297b71c291f717f6cdae9fb6a2172b80e9200c9bc0.mp3" type="audio/mpeg" length="168482164" />
+    </item>
     <item>
       <guid isPermaLink="false">18452424163</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424163</link>
@@ -192,20 +206,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424124/60e6205d0141149c701174e66803f669ab127bacf8f97b2f4bbdaa9453a64d8f.mp3" type="audio/mpeg" length="168674548" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424123</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-nu-bliver-det-stort-18452424123</link>
-      <title>Nu bliver det stort</title>
-      <description>Vi får hjælp fra en uventet kant og Ben Webster får programmet til at flyve. Lytterne maler køkkener orange, hunde slumrer i hjørnet og der spises sen morgenmad i Sverige. Som altid er der jazz der passer til det hele.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Wed, 20 Mar 2024 10:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424123/930b12dd8a3554dd0f9c57e830a185b4656f05dfa906d1e5881141ca8b35eb1c.mp3" type="audio/mpeg" length="168674548" />
     </item>
   </channel>
 </rss>

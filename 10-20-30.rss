@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:41:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452498009</guid>
+      <link>https://www.dr.dk/lyd/special-radio/10-20-30/10-20-30-2024/10-20-30-thomas-skov-juhuu-du-goer-mig-vaad-15452498009</link>
+      <title>Thomas Skov - Juhuu, du gør mig våd</title>
+      <description>Han insisterer på, at man skal huske at gøre noget dumt og møde sine idoler! Og det bærer journalist og podcastvært Thomas Skovs tre historier præg af. Som 14-årig snyder han sig backstage til en D-A-D-koncert, hvor rock-idolerne lokker ham til at drikke sin allerførste øl. Som 23-årig bliver han praktikant for sit journalist-idol Anders Lund Madsen og skaber landsdækkende ramaskrig med et lummert Juhuu-skilt til Vild med dans. Og som 35-årig drikker han sig så stiv, at han misser den måske vigtigste koncert i nyere dansk musikhistorie med The Minds of 99.
+Vært og tilrettelægger: Signe Muusmann
+Producer og klipper: Valdemar Stauning
+Lyddesigner: Frederik Ludwigs
+Redaktør: Christian Lundov</description>
+      <pubDate>Fri, 19 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:32:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452498009/e59c2ead279be262608233824c9ca8b2d68b0065c8436b7e0d69495631d7b265.mp3" type="audio/mpeg" length="46084469" />
+    </item>
     <item>
       <guid isPermaLink="false">15452498007</guid>
       <link>https://www.dr.dk/lyd/special-radio/10-20-30/10-20-30-2024/10-20-30-mathilde-falch-besat-af-beatles-cardigans-og-taylor-swift-15452498007</link>

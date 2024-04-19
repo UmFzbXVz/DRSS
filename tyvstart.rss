@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:41:42 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450079</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-breaking-danmark-misser-ol-medalje-13652450079</link>
+      <title>Breaking: Danmark misser OL-medalje</title>
+      <description>Breakdanceren Rico Coker ville være et varmt bud på OL-guld til sommer. Han er tidligere verdensmester og har drømt om, at sportsgrenen breaking endelig skulle komme på OL-programmet.
+Det er tilfældet ved sommerens lege i Paris, men fordi Rico Coker ikke har fået sit danske statsborgerskab, er han ikke i spil til at stille op for Danmark.
+Vært: Emil Schiønning.</description>
+      <pubDate>Fri, 19 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:38</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450079/a74375aab89b1bd2142f2980f7a9f702d821867f38a143889fa5031b50b3c53f.mp3" type="audio/mpeg" length="25417595" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450078</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-livets-sommer-i-karrierens-efteraar-13652450078</link>
@@ -1896,21 +1910,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350202/6ef992b03dbd249c0bcb425ed9ecc264cca81f71cca9a0db8ff650e7f3d653cf.mp3" type="audio/mpeg" length="23220955" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350201</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-paa-kanten-af-en-katastrofe-13652350201</link>
-      <title>På kanten af en katastrofe</title>
-      <description>Verdens dårligste landshold fra San Marino var tæt på at få et resultat mod Danmark tirsdag aften. Hjulmands udvalgte er trods alt stadig på vej mod næste sommers EM i Tyskland, men det er tid til krisemøde. 
-
-Hvor står Danmark efter endnu en landsholdstermin med lunkne resultater? Det svarer Kenneth Møller Pedersen på i dagens episode.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:44</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350201/90b9215b1ccdd579ab0cac97ed60abafb572e10de425b2e222cda583ffc220b7.mp3" type="audio/mpeg" length="22853467" />
     </item>
   </channel>
 </rss>

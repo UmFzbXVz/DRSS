@@ -10,7 +10,7 @@ Vært: Ole Tøpholm.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:41:27 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -130,18 +130,6 @@ Vært: Ole Tøpholm.</description>
       <itunes:duration>01:45:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452432126/6df690c5a6aeae4de3399b78f5e0985130ee87e1527293a8e96d8a47a5dc3357.mp3" type="audio/mpeg" length="151395030" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452433123</guid>
-      <link>https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/paa-vej-mod-dansktoppen-15452433123</link>
-      <title>På vej mod Dansktoppen</title>
-      <description>Du kan høre de tre sange, som på lørdag bliver testet til en plads på Dansktoppen, de såkaldte boblere.</description>
-      <pubDate>Wed, 20 Mar 2024 19:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:12:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452433123/5b016aa351c0bf7beb27ca97f23f3c2ea48543a6d1312c49d45a97966ffbeab5.mp3" type="audio/mpeg" length="17474413" />
     </item>
   </channel>
 </rss>

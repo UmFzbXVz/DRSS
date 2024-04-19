@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:40:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -420,24 +420,6 @@ Postludium: Johann Sebastian Bach: O Mensch, bewein dein Sünde groß, BWV 622.<
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405124/27e10c3267b0ffa8f6498d7fce141b3a8fd9f490909d8a8798f28fd9d8f38c92.mp3" type="audio/mpeg" length="36194540" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405123</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405123</link>
-      <title>Onsdag 20. mar. 2024</title>
-      <description>Præludium: Sigfrid Karg-Elert: Karakterstykke, sehr langsam.
-Fra det G.T.: Esajas 53,10-12.
-Salme: 188 "Så bøjed den dødsdømte nakken".
-Fra det N.T.: Johannes-ev. 19, 17-22.
-Korvers: Niels Wilhelm Gade: Det hellige kors, vor Herre han bar (tekst: N.F.S. Grundtvig).
-Salme: 206 "Vor frelser, du, som døde".
-Postludium: Antonio Lotti: Crucifixus.</description>
-      <pubDate>Wed, 20 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405123/45fa4a163d635bc948ee73c39dcf90fc1a1a15b283049a01b5aee8a20ea3e805.mp3" type="audio/mpeg" length="36194543" />
     </item>
   </channel>
 </rss>

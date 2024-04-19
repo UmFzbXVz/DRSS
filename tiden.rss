@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:50:34 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451074</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-slagtet-slagteri-krudtpenge-og-en-pebret-advokat-11802451074</link>
+      <title>Slagtet slagteri, krudtpenge og en pebret advokat</title>
+      <description>Slagterier lukker og slagtesvin transporteres ud af landet. Hvorfor sker det?  
+Der er måske snart milliarder på vej fra USA til Ukraine efter et politisk slagsmål i USA. 
+Og så er en af verdens absolut dyreste advokater netop nu i gang med at kradse penge ind til Danmarks statskasse.
+Vært: Adrian Busk
+Medvirkende:
+Dorte Stenbæk Bro, redaktør ved mediet Agriwatch.
+Jakob Ussing, DR's erhvervskorrespondent.</description>
+      <pubDate>Fri, 19 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451074/dd383509bd46241b39494ab4f4c144d310958f5f96538e9403084fde029b6f73.mp3" type="audio/mpeg" length="24770760" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451073</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-brandfarlige-spoergsmaal-georgiske-naever-og-syg-ungdom-11802451073</link>
@@ -132,7 +150,7 @@ Thomas Gammeltoft-Hansen, juraprofessor og migrationsforsker på Københavns Uni
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:17:22</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451068/3f3010d8d6b8d2f516ab9ecd8bbfcbaf14bfeadca81f9a0304e18638c1d136c3.mp3" type="audio/mpeg" length="25023043" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451068/84a40e1d612aafb45745b0a2a9b26c79a6692a03e21558d317cb446ee981a52d.mp3" type="audio/mpeg" length="25023043" />
     </item>
     <item>
       <guid isPermaLink="false">11802451067</guid>
@@ -2184,25 +2202,6 @@ Thomas Marko Juhl - Politiinspektør Københavns Politi.</description>
       <itunes:duration>00:17:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351190/6333547b16fc7d7947e35b4c2efa862ad1f2b6d428e6102353d535d8069e6dde.mp3" type="audio/mpeg" length="25272091" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351189</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-svensk-sorg-bidens-israelske-balancegang-og-demokratiske-polakker-11802351189</link>
-      <title>Svensk sorg, Bidens israelske balancegang og demokratiske polakker</title>
-      <description>Sveriges statsminister Ulf Kristersson siger, at de svenske værdier er under pres. Udmeldingen kommer efter terrorangrebet på svenske fodboldfans i Bruxelles, der har rystet Sverige. 
-USA's præsident Joe Biden besøger Israel, og han skal gå en svær balancegang med den højspændte situation i Gaza. 
-I Polen er resultatet landet efter søndagens valg. Valgets vinder, EU-venlige Donald Tusk, har nu lovet, at han vil gøre landet mere demokratisk igen. Men er det så ligetil?
-Vært: Annika Wetterling.
-Medvirkende: 
-Jens Mørch, chefredaktør ved PolenNu.dk.
-Peter Suppli Benson, nordisk korrespondent for Berlingske.
-Rasmus Søndergaard, seniorforsker i amerikansk udenrigspolitik ved DIIS.</description>
-      <pubDate>Wed, 18 Oct 2023 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:55</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351189/eea88590b4b81fcbda46b7f631f2a7f40ce7be63200d32fa0dc64b90f34df3c9.mp3" type="audio/mpeg" length="27449947" />
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:44:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:25:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460091</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-mink-for-milliarder-11802460091</link>
+      <title>Mink for milliarder</title>
+      <description>Minkavlerne vil betales for mink, de aldrig har haft, for nedfrosne skind, de aldrig har solgt. For det særlige moondust skind, proteinfattige foder og hypotetiske avlstæver. Da minkerhvervet bliver lukket ned, estimerede man, at det havde krav på 19 milliarder kroner i erstatning. Men beløbet stiger milliard efter milliard, og i dag lyder statens regning på næsten 30 milliarder kroner. Da Zetlands journalist Theis Ehler Molin hører dét beløb, bliver han nysgerrig på, hvordan i alverden tallene kan blive ved med at stige. I dagens Genstart fortæller han hvordan minkavlerne har siddet med til bords i erstatningssagerne og stemt for at hæve erstatningerne. En ordning, som minister for fødevarer, landbrug og fiskeri, Jacob Jensen, nu har sat foden ned overfor.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 16/4.</description>
+      <pubDate>Fri, 19 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460091/cc78c55f0b4c07061ef4e326f4a502ec11b75e8ebce32ea9434633b92224bc70.mp3" type="audio/mpeg" length="34589829" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460090</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-falsk-i-dit-feed-11802460090</link>

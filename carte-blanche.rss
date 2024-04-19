@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:50:41 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:27:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,22 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332427164</guid>
+      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-en-studentermedhjaelper-og-et-leksion-upopulaere-pigenavne-og-ol-13332427164</link>
+      <title>En studentermedhjælper og et leksion, upopulære pigenavne og OL</title>
+      <description>Taleradioen Radio4 er kommet i fokus på grund af et nyt program de måske, måske ikke skal lave.  Programmet hedder 'A-Z' og er angiveligt et firetimers program, hvor studentermedhjælpere læser højt fra Salmonsens Konversationsleksikon 2. udgave.  Chefen for Radio4, Nikolai Thyssen, vil dog ikke bekræfte om programmet bliver lavet, og derfor hapser vi ideen og gør det selv.
+Så skal vi tale upopulære navne. Vi har nemlig fundet en liste over de 49 mest upopulære pigenavne. Derfor afholder vi navnebingo, hvor man som (u)heldig lytter har muligheden for at vinde en kop med sit upopulære navn, hvis man står på listen.
+Sidst snakker vi om drama i OL-land. Forleden skulle Nike præsentere det tøj, de har arbejdet på at lave helt specielt til de amerikanske atletikudøvere, og det ligner ikke, at der er super god plads til de private kønsdele.
+Værter: JoJo, Jannik Schow og Henrik Eriksen.
+Medvirkende: Emily Milligan.</description>
+      <pubDate>Thu, 18 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427164/1cca2a6186f8ae1b5e6463d1b89b441273b45c033520db9c95e7bb639341b82e.mp3" type="audio/mpeg" length="172802184" />
+    </item>
     <item>
       <guid isPermaLink="false">13332427163</guid>
       <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-airtoxreklamen-braendende-selvpromovering-og-beatbox-jens-13332427163</link>
@@ -254,21 +270,6 @@ Medvirkende: Viggo Schwartz Kimer, folkeskolepraktikant.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427124/5d26b2460e46dac33b7873c3901938faeac576c7bae46ac8fe8d69c1974d3164.mp3" type="audio/mpeg" length="172995149" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427123</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-flere-karakterer-i-folkeskolen-dm-i-amatoerjodling-og-catchfrases-13332427123</link>
-      <title>Flere karakterer i folkeskolen, DM i amatørjodling og catchfrases</title>
-      <description>Der er kommet en ny folkeskoleaftale, som blandt andet giver mulighed for at teste og give karakter til elever ned til 6. klasse. Danske Skoleelever og Skolelederforeningen siger, at det lyder som en skidt ide, fordi det skaber dårlig trivsel, men politikerne er ikke enige. Vi kunne godt tænke os at høre hvilke argumenter, børnene selv har. Og så afprøver vi lige det her nye testsystem af ved at give dem en karakter ud fra, hvor gode de er til at tale deres sag.
-Så skal vi afholde en form for Danmarks Mesterskab. Vi er nemlig blevet helt vilde med jodling her på programmet, og derfor vil vi gerne lave en ny jingle til Carte Blanche med et spirende jodle-talent.  Vi afholder derfor DM i amatørjodling, så vi finder den bedste kandidat til opgaven.
-Sidst runder vi jeres catchfrases. Vi leder nemlig efter den perfekte catchfrase, man kan bruge, når man tager afsked med nogen.
-Værter: Jannik Schow og Henrik Eriksen.</description>
-      <pubDate>Wed, 20 Mar 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427123/9c39ce6066bfb1900f668cf6b3864fd55a1e52ca8f47282350dbdd64cb65fca0.mp3" type="audio/mpeg" length="172994564" />
     </item>
   </channel>
 </rss>

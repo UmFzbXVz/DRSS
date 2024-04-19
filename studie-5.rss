@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:41:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429164</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-gensyn-og-hithop-15452429164</link>
+      <title>Gensyn og HIThop</title>
+      <description>Fra DR's Gensyn optræder Gasolin og Anne Linnet og Sanne i historiske klip. 
+Studie 5 foretager også tre "hithop" over 30 års hitlistetoppe.
+Hvad var NUMMER ET den 18 april for hhv. 40, 50 og 60 år siden?
+Vært: Rasmus Scharling Toft</description>
+      <pubDate>Thu, 18 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429164/d86b23f3a05550b22f255afc5839e3a434210ad90bbb8ed42fda15b7549382fe.mp3" type="audio/mpeg" length="168482155" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429163</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-soeren-huss-15452429163</link>

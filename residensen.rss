@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:41:28 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421164</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421164</link>
+      <title>Torsdag 18. apr. 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Thu, 18 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421164/4bf77480de9859cb18025e0515c8b19bceb04da1ddd21bd9383462d102892070.mp3" type="audio/mpeg" length="172801589" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421163</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-brimheim-13332421163</link>
@@ -215,18 +227,6 @@ Tlf. gæst: Bo Huniche.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421124/53dc88bd8ef650c48f2a189a9f1e8aecebca9183d5f113b20d1ed901133f53bb.mp3" type="audio/mpeg" length="172994549" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421123</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-freja-kirk-13332421123</link>
-      <title>Med Freja Kirk</title>
-      <description>Hvis Berliner-tekno kan komme på UNESCO's verdensarvsliste, hvilken dansk musikkultur skal vi så forsøge at frede? Lålålå-råb, VLTJ-sangen, Nik &amp; Jay måske? Dagens program fortsætter desuden med at hylde lytternes seje bedsteforældre, og så er Freja Kirk på besøg for at sætte flere ord på tankerne bag og skabelsen af: Hvad skal man kalde én som mig? Velkommen indenfor!</description>
-      <pubDate>Wed, 20 Mar 2024 18:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421123/42d61e0e0c02a6a14069267b571a01617783f10b9d893d755935cc873d5720c4.mp3" type="audio/mpeg" length="172994564" />
     </item>
   </channel>
 </rss>

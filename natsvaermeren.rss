@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Apr 2024 10:50:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:26:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463164</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-en-soed-duft-af-brandy-12422463164</link>
+      <title>En sød duft af brandy</title>
+      <description>Længslen efter tilrøget barer i smalle gader, hvor cigaretter blev skoddet på gulvet, og der duftede af sød brandy. Røgen er væk, men den søde brandy hænger ved.
+Vært: Minna Grooss.</description>
+      <pubDate>Fri, 19 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463164/2f2730e28566e4b1f94fc60c2ed775a95eef0a860cdbf06cafa20ea1b80ef726.mp3" type="audio/mpeg" length="168481541" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463044</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-ekko-12422463044</link>
       <title>Ekko</title>
@@ -35,9 +48,9 @@ Vært: Tina Rømer.
       <pubDate>Thu, 18 Apr 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>01:15:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463044/307f4cb27923960e96e1e11b1b1fd7010c02b09a61bb30b8f3932df042f90bac.mp3" type="audio/mpeg" length="168465471" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463044/7404bdcdcf8d60aa07c7e3473c7db7af16c09942ce601b75282fb4faa6189089.mp3" type="audio/mpeg" length="108001599" />
     </item>
     <item>
       <guid isPermaLink="false">12422463162</guid>
@@ -412,20 +425,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:57:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363522/9f978158df7a469fd7422982d06c97060c35eff4364aba9950f32e3e96ad884e.mp3" type="audio/mpeg" length="168672219" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363507</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-bag-det-roede-gardin-12422363507</link>
-      <title>Bag det røde gardin</title>
-      <description>Et opråb, en julesang, et strejf af ensomhed, og en vals ved floden er bare et lille udpluk af, hvad der gemmer sig bag aftens røde gardin. Fairuz, Marlene Dietrich, Kassiani, Karaindrou, Nina Simone og Mozart ledsager Natsværmeren et stykke af vejen.
-Vært: Minna Grooss.
-(Sendt første gang 17. december 2023).</description>
-      <pubDate>Wed, 20 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363507/44ebdf2cd38a91269953b43bcd5a888af49a2b26b41b7d2eae4d33bd9cc96cdc.mp3" type="audio/mpeg" length="168668228" />
     </item>
     <item>
       <guid isPermaLink="false">12422263384</guid>
