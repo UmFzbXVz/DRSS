@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:26:56 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:10:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -42,7 +42,7 @@ Jakob Ussing, DR's erhvervskorrespondent.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:17:12</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451074/dd383509bd46241b39494ab4f4c144d310958f5f96538e9403084fde029b6f73.mp3" type="audio/mpeg" length="24770760" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451074/ec4803399b6623d367df43721acb7f2e3abea34e89e4c524e86e113237621a0e.mp3" type="audio/mpeg" length="24770760" />
     </item>
     <item>
       <guid isPermaLink="false">11802451073</guid>
@@ -60,7 +60,7 @@ Maja, beboer på et bosted i Viborg.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:15:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451073/2183f6853d149fd13fac9f637faa4b6bf4b75e33a489db701fd45951aa4b5728.mp3" type="audio/mpeg" length="22845777" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451073/30d1de0c6893a22cd81eddda116aa217fe30d6185e946bfd2bea1233bdabfecd.mp3" type="audio/mpeg" length="22845777" />
     </item>
     <item>
       <guid isPermaLink="false">11802451072</guid>
@@ -2183,25 +2183,6 @@ Carlos Salas Lind, ekstern lektor på CBS og ekspert i latinamerikansk politik o
       <itunes:duration>00:17:09</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351191/fb56d8edc05e42386340c02a16eb792e7f1471639f0939702cf78609bbf99417.mp3" type="audio/mpeg" length="24891355" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351190</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-hospitalet-i-gaza-regn-paa-vej-og-en-kop-bandekaffe-11802351190</link>
-      <title>Hospitalet i Gaza, regn på vej og en kop bandekaffe</title>
-      <description>Tirsdag aften sker der det, der ikke må ske. En bombe rammer ned i et hospital i Gaza. Vi taler med en af de nødhjælpsorganisationer, der i mange år har støttet det eksploderede hospital.
-Store dele af landet kan ifølge DMI forvente forhøjet vandstand på op til 2 meter. Beredskabsdirektør i Sønderjylland forbereder sig på fatale konsekvenser.
-Københavns Politi har taget et nyt middel i brug i kampen mod bandekriminalitet: en kop kaffe.
-Vært: Annika Wetterling.
-Medvirkende: 
-Jonas Vejsager Nøddekær, international direktør i Folkekirkens Nødhjælp.
-Holder Andersen, beredskabschef  i Aabenraa.
-Thomas Marko Juhl - Politiinspektør Københavns Politi.</description>
-      <pubDate>Thu, 19 Oct 2023 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351190/6333547b16fc7d7947e35b4c2efa862ad1f2b6d428e6102353d535d8069e6dde.mp3" type="audio/mpeg" length="25272091" />
     </item>
   </channel>
 </rss>

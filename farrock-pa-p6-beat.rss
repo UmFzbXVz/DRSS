@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:26:53 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:10:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452435165</guid>
+      <link>https://www.dr.dk/lyd/p6beat/farrock-paa-p6-beat/farrock-paa-p6-beat-2024/farrock-paa-p6-beat-curlingforaeldre-2-0-16452435165</link>
+      <title>Curlingforældre 2.0</title>
+      <description>Skal vi, eller skal vi ikke give vores børn et kærligt skub ud af reden? Det er det store spørgsmål i dagens udgave af Farrock.</description>
+      <pubDate>Fri, 19 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452435165/5ee59019b7d5e17a4684c1026d6444c60663beb867529cd56b9db692d86f0282.mp3" type="audio/mpeg" length="168481534" />
+    </item>
     <item>
       <guid isPermaLink="false">16452435155</guid>
       <link>https://www.dr.dk/lyd/p6beat/farrock-paa-p6-beat/farrock-paa-p6-beat-2024/farrock-paa-p6-beat-kompliment-nej-tak-16452435155</link>

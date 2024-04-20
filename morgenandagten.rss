@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:26:27 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:08:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405165</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405165</link>
+      <title>Fredag 19. apr. 2024</title>
+      <description>Præludium:	Léon Boëllmann: Élévation C-dur.
+Fra det G.T.:	Amos 5,11-15.
+Salme: 688, vers 1-7 "Skal kærlighed sin prøve stå".
+Fra det N.T.:	Romerbrevet 12,17-21.
+Korvers: Carl Nielsen: Tak for al Guds kærlighed (Tekst: Marinus Børup).
+Salme: 688, vers 8-9.
+Postludium: Kate Boundy: Andante grazioso B-dur.</description>
+      <pubDate>Fri, 19 Apr 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405165/2db74be6cf9a447fac8200283f508b502d1556af53b0c74e1e8fb02c774cb174.mp3" type="audio/mpeg" length="36001574" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405164</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405164</link>
@@ -402,24 +420,6 @@ Postludium: J. P. E. Hartmann: Passions-Intermezzo.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405125/98d0430ae0b2fe68bef51c617c0beffdd27f5c4ecb041c662ef5475de53f7779.mp3" type="audio/mpeg" length="36194537" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405124</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405124</link>
-      <title>Torsdag 21. mar. 2024</title>
-      <description>Præludium: Johann Gottfried Walther: Nu velan, vær frisk til mode.
-Fra det G.T.: Salme 22,10-20.
-Salme: 192 "Hil dig, frelser og forsoner".
-Fra det N.T.: Johannes-ev. 19,23-27.
-Korvers: Niels Wilhelm Gade: Det hellige kors, vor Herre han bar (tekst: N.F.S. Grundtvig).
-Salme: 196 "Under korset stod med smerte".
-Postludium: Johann Sebastian Bach: O Mensch, bewein dein Sünde groß, BWV 622.</description>
-      <pubDate>Thu, 21 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405124/27e10c3267b0ffa8f6498d7fce141b3a8fd9f490909d8a8798f28fd9d8f38c92.mp3" type="audio/mpeg" length="36194540" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:27:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:10:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Charlotte Hagen Striib.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452428165</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-peter-gantzler-15452428165</link>
+      <title>Med Peter Gantzler</title>
+      <description>Siden DR lancerede sin Gensyns-app med gamle arkiv-programmer, har TV-serien Taxa fra 1997 været noget af det mest sete. Taxa-Mike, Peter Gantzler, fortæller om tiden dengang - og nu. 
+Vært: Charlotte Hagen Striib.</description>
+      <pubDate>Fri, 19 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428165/3200fcf3835003916f8fd37577365c60db24ea9e61a8b1793fa4bf25c59c36c6.mp3" type="audio/mpeg" length="168481559" />
+    </item>
     <item>
       <guid isPermaLink="false">15452428164</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-charlotte-dybdahl-winther-og-signe-asbirk-15452428164</link>
@@ -64,19 +77,6 @@ Vært: Charlotte Hagen Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428162/241841efe8ff3a540c35d6aadee5539b7b4f4e5b2ed374f9a295ea97b08b3dc7.mp3" type="audio/mpeg" length="168481568" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428161</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-trine-pallesen-15452428161</link>
-      <title>Med Trine Pallesen</title>
-      <description>Grethe Ingmanns musikalske arv genoplives, når forestillingen 'Ta' mig som jeg er' indtager Glassalen i Tivoli de næste tre dage. Trine Pallesen spiller rollen som Grethe.
-Vært: Charlotte Hagen Striib.</description>
-      <pubDate>Mon, 15 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428161/a0226ad219177493fe9b003fe87efa58b01f27ede36531a7dca311c1b0bb9204.mp3" type="audio/mpeg" length="168482127" />
     </item>
   </channel>
 </rss>

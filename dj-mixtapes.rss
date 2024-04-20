@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:22:16 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:04:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
+    <item>
+      <guid isPermaLink="false">13332416165</guid>
+      <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-amanda-baun-mix-3-13332416165</link>
+      <title>Amanda Baun Mix #3</title>
+      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
+Amanda Baun er bag pulten.</description>
+      <pubDate>Fri, 19 Apr 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416165/fc0aa80fce0f7dca8cad8fff07b9c4c6fe2f8a3b71cf66757f19134bf883d8ca.mp3" type="audio/mpeg" length="259202160" />
+    </item>
     <item>
       <guid isPermaLink="false">13332416155</guid>
       <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-amanda-baun-mix-2-13332416155</link>

@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:26:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:10:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428165</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-med-p8-til-jazzahead-den-nye-generation-af-jazzelskere-18452428165</link>
+      <title>Med P8 til Jazzahead - den nye generation af jazzelskere</title>
+      <description>Gennem ugen har vi rapporteret fra weekendens branchefestival Jazzahead og talt med nogle af de danske artister, som var på plakaten. Denne morgen handler det om nogle af dem, som var med uden at spille, nemlig et helt hold af unge fra det voksende jazzmiljø i Kolding samt en delegation fra Jazzdanmark.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Fri, 19 Apr 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428165/1c702b607546bb418883dd163125909ab98290f81b74c2ca6e409d713d262670.mp3" type="audio/mpeg" length="252002183" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428164</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-med-p8-til-jazzahead-kristin-korb-18452428164</link>
@@ -263,24 +280,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428125/cce7c0668075e3b5815d0999b313dd75fbea447d2f39f831379cbb6a689d73b4.mp3" type="audio/mpeg" length="252195147" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428124</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-dansk-jazz-i-tal-18452428124</link>
-      <title>Dansk jazz i tal</title>
-      <description>De fire genreorganisationer i Danmark har udgivet en rapport, der tager pulsen på musiklivet lige nu, bl.a. med et netværksdiagram over danske jazzmusikere. Vi spørger Jazzdanmark hvad det fortæller os.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Gæst: Morten Ogstrup, projektleder hos de fire genreorganisationer i Danmark.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Thu, 21 Mar 2024 07:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428124/cb1356e4743c308c784313613daa986b866b469aae0c2b835e08fc3b21f922be.mp3" type="audio/mpeg" length="252195144" />
     </item>
   </channel>
 </rss>

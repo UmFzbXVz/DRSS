@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:25:42 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:09:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,25 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410165</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410165</link>
+      <title>Fredag 19. apr. 2024</title>
+      <description>Taylor Swift har droppet sit nye album her til morgen! Vi kan ikke selv høre det - vi sender radio - så vi må få nogle ude i landet til at anmelde det for os.
+Mikkel Klint har simpelthen været skod til at købe aktier. Han har kun tabt penge, og han har endda købt grønt og sødt. Til gengæld kan han se, at våben/forsvarsaktier banker derudaf, og at folk tjener rigtig godt på dem. Men kan man købe aktier i våben og forsvar med god samvittighed og sikre sig, at det ikke går til fjendens fordel? Det spørger vi vores Kapitalister om.
+Hvis du ikke har tjekket den advokat ud, der skal repræsentere Danmark i Sanjay Shah-sagen ud, så gør det. Han er et vildt menneske, og han er en såkaldt silkekåbeadvokat. Hvad det er, det kan DR's erhvervskorrespondent gøre os klogere på.
+Værter:  Liva Manghezi og Mikkel Klint Thorius.
+Medvirkende:
+Jakob Garff, Kapitalisterne, DR.
+Oskar Barner Bernhardtsen, Kapitalisterne, DR.
+Jakob Ussing, erhvervskorrespondent, DR.</description>
+      <pubDate>Fri, 19 Apr 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410165/0a22336c0fcde5cc5a4f849204ab29b5ef65added6122933c8dd9017a56a6cc5.mp3" type="audio/mpeg" length="254881526" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410164</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410164</link>
@@ -78,21 +97,6 @@ Christian Holm Donatzky, historiker.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410162/7f6b99e561fa8224d3bd35cb2c238a007426746e4f8e52464f129dda0a3e0f6e.mp3" type="audio/mpeg" length="254881526" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410161</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410161</link>
-      <title>Mandag 15. apr. 2024</title>
-      <description>Mikkel Klint Thorius bliver ved med at spørge sig selv, om han skal være bange for at flyve. Efter utallige problemer med Boeing-fly ringer de tre værter derfor til en af landets fremmeste flymekanikere for at høre, hvad fanden, der sker. Liva har været på loppemarked i Charlottenlund og er blevet mødt af nogle spændende loppe-priser, som hun hører lytterne, hvordan de ville håndtere, og sidst havde DR's klimakorrespondent Thøger Kirk lovet noget, han måske ikke har holdt.
-Værter: Mikkel Rosendal, Liva Manghezi og Mikkel Klint Thorius.
-Medvirkende:
-Jannik Holbech Rasmussen, Training Manager for Den Flyteknisk Uddannelse.</description>
-      <pubDate>Mon, 15 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410161/be29c207498947b91dcccead179d39c08c8868da843dbd127d6f9ab126607b98.mp3" type="audio/mpeg" length="254881526" />
     </item>
   </channel>
 </rss>

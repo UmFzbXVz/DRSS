@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:26:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:10:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463165</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tilbage-til-sort-12422463165</link>
+      <title>Tilbage til sort</title>
+      <description>Kosmisk jazz. Soulsangerinder med filmiske strygere. Guitar og klassisk orkester. Peter Albrechtsen er vært på aftenens vidtfavnende Natsværmer.
+Vært: Peter Albrechtsen.</description>
+      <pubDate>Sat, 20 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463165/606557d6bc3498f59a9cf9ec447f78dbb40b9f679adfd20c12a087c5f3bd64cf.mp3" type="audio/mpeg" length="168468853" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463164</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-en-soed-duft-af-brandy-12422463164</link>
@@ -411,20 +424,6 @@ Vært: Tina Rømer.
       <itunes:duration>01:57:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463124/43d97f892dfab4ca5dc76d9d8b29818db44586239eb8dbfe2106fd37f7c602bb.mp3" type="audio/mpeg" length="168672800" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363522</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-hvilepuls-12422363522</link>
-      <title>Hvilepuls</title>
-      <description>Det er nakken tilbage, benene oppe og hænderne på maven. Dawda Jobarteh, Eva Cassidy , Schumann, Dobrinka Tabakova, Hatis Noit, Vivaldi og Grieg sætter stemningen.
-Vært: Minna Grooss.
-(Sendt første gang 27. december 2023).</description>
-      <pubDate>Thu, 21 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363522/9f978158df7a469fd7422982d06c97060c35eff4364aba9950f32e3e96ad884e.mp3" type="audio/mpeg" length="168672219" />
     </item>
     <item>
       <guid isPermaLink="false">12422263384</guid>

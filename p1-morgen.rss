@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:25:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:09:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433165</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433165</link>
+      <title>Fredag 19. apr. 2024</title>
+      <description>Hvordan hamonerer det, at landbruget frygter for arbejdspladser, men sender små grise til Polen? Aftalen om den længe ventede nye ældrelov blev præsenteret i aftes. Hvor god er ældreloven? Og hvad gør billedet bedre end andre rørende billeder fra Gaza?
+Dagens værter: Cecilie Lange og Bjarne Steensbeck.</description>
+      <pubDate>Fri, 19 Apr 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:43</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433165/f7bb89551ebc0569e1ea734a69c45827ef26c46629c275e3b34ba5d056b2d109.mp3" type="audio/mpeg" length="237199905" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433164</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433164</link>
@@ -1871,18 +1883,6 @@ Dagens værter: Morten Runge og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:50</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333432/4283d72fa316f6eb9f9efb17f279430064651e449378bf517c44b624253276c5.mp3" type="audio/mpeg" length="237382939" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333431</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333431</link>
-      <title>Mandag 23. okt. 2023</title>
-      <description>Er krigen mellem Hamas og Israel ved at brede sig til Vestbredden? Hvor stor uro kan konflikten i Mellemøsten skabe i Europa? Hvorfor ser Argentina ud til at dreje mod højre?
-Dagens værter: Julie Toft og Bjarne Steensbeck.</description>
-      <pubDate>Mon, 23 Oct 2023 06:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:42</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333431/fec7d1c73bdc12eff7ea20ef8e6bd6988efcbe615ee5bb41fca56f2ce99d4300.mp3" type="audio/mpeg" length="237172699" />
     </item>
   </channel>
 </rss>

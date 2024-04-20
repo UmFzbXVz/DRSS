@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:26:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:10:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429165</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-nye-udgivelser-15452429165</link>
+      <title>Nye udgivelser</title>
+      <description>Det er en dag med mange nye udgivelser.
+Selvfølgelig fra årets mest ventede album fra Taylor Swift  "The Tortured Poets Department". 
+Men der er også nye udgivelser fra Vingard og Daisy, Albin Lee Meldau og opsamlinger fra Bruce Springsteen, UB40 og Pink Floyd
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Fri, 19 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429165/0e3742f37c99a205b094b34f0576cf8ee13f1e4937c5f4d24994be67f5d56ab8.mp3" type="audio/mpeg" length="168482177" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429164</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-gensyn-og-hithop-15452429164</link>
@@ -69,20 +84,6 @@ Vært: Rasmus Scharling Toft.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429162/14eca85575d66120b7310ac2cd0cf7fc838f8f7095eff0c158c035ec016c8999.mp3" type="audio/mpeg" length="168482184" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429161</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-den-syvende-soen-hylder-peter-belli-15452429161</link>
-      <title>Den Syvende Søn hylder Peter Belli</title>
-      <description>Hyldestsangen "Det går godt" er et af fire ny indspillede numre   fra bandet "Den syvende søn" med Michel Belli.
-Michel Belli fortæller om forholdet til farmand og om at gå hånd i hånd frem for at stå på skuldrende.
-Vært: Rasmus Scharling Toft.</description>
-      <pubDate>Mon, 15 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429161/e2cb7e1afbd14a07e39e9ccc93336e66f7d9f9a6a33f4aac6e9f45f1d1074c33.mp3" type="audio/mpeg" length="168481600" />
     </item>
   </channel>
 </rss>

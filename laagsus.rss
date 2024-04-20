@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Apr 2024 06:26:51 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 06:10:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122433165</guid>
+      <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-16122433165</link>
+      <title>Fredag 19. apr. 2024</title>
+      <description>Alt er Lågsus på P3, når Pelle Peter Jencel &amp; Nicholas Kawamura fyrer op for din eftermiddag.</description>
+      <pubDate>Fri, 19 Apr 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122433165/d6dd60aa62b7aecad6063ee416b489d2c30d6deeb4612a75cb156c45bdaf2ca6.mp3" type="audio/mpeg" length="172801424" />
+    </item>
     <item>
       <guid isPermaLink="false">16122433155</guid>
       <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-sandstorm-af-darude-with-a-twist-16122433155</link>
