@@ -316,13 +316,21 @@ function createListItem(text, url) {
 
         if (li.querySelector('.rss-icon') === null) {
             const rssIcon = document.createElement('img');
-            rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
+            rssIcon.src = rssIconUrl;
             rssIcon.alt = 'RSS';
             rssIcon.classList.add('rss-icon');
-            rssIcon.addEventListener('click', () => {
-                navigator.clipboard.writeText(rssLink);
+            if (isMobile) {
+              rssIcon.addEventListener('click', () => {
+                navigator.clipboard.writeText("feed://"+rssLink);
+                window.open("feed://"+rssLink, "_blank")
             });
-
+            }
+            else {
+              rssIcon.addEventListener('click', () => {
+                navigator.clipboard.writeText(rssLink);
+                window.open("feed://"+rssLink, "_blank")
+            });
+            }
             li.appendChild(rssIcon);
         }
     }
