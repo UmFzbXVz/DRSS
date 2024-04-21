@@ -305,7 +305,24 @@ function createListItem(text, url, rssLink) {
 
     if (rssLink) {
         const rssIcon = createRSSIcon(rssLink);
-        window.alert(rssLink);
+                  if (isMobile) {
+            rssIcon.addEventListener('click', async () => {
+                const anchor = document.createElement('a');
+                anchor.href = 'feed://' + rssLink;
+                anchor.target = '_blank'; 
+                anchor.click(); 
+                await navigator.clipboard.writeText(rssLink);
+            });
+        } else {
+            rssIcon.addEventListener('click', async () => {
+                try {
+                    await navigator.clipboard.writeText(rssLink);
+                    alert(rssLink + ' kopieret til udklipsholder');
+                } catch (error) {
+                    console.error('Fejl', error);
+                }
+            });
+        }
         li.appendChild(rssIcon);
     }
 
