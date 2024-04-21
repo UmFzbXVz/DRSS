@@ -3,25 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Testområde/title>
+  <title>Podcasts fra DR, Podimo, r8Dio, 24syv</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-  <h2>TESTOMRÅDE</h2>
+  <h2>Find podcasts</h2>
   <div class="search-wrapper">
-      <input type="text" id="searchInput" placeholder="">
+      <input type="text" id="searchInput" placeholder="Søg i DR, Podimo, r8Dio, 24syv...">
       <span class="clear-search" onclick="clearSearch()">&#10006;</span>
   </div>
-  <p class="helper-text">*</p>
+  <p class="helper-text">*Klik på det orange ikon for at kopiere RSS, der kan tilføjes din podcast-app</p>
   <div id="results"></div>
 </div>
  
 <script>
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
-  console.log("isMobile?:", isMobile)
   
 document.addEventListener('DOMContentLoaded', async () => {
     try {
@@ -352,6 +351,15 @@ async function fetchPir8dioPodcastsData() {
         return null;
     }
 }
+document.addEventListener('DOMContentLoaded', () => {
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
+    
+    if (isMobile) {
+        alert('You are on a mobile device.');
+    } else {
+        alert('You are not on a mobile device.');
+    }
+});
   
 </script>
 
