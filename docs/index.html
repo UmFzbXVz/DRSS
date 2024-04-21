@@ -50,6 +50,7 @@ async function preloadRssIcon() {
     }
 }
 
+  
 async function filterAndDisplayResults(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData) {
 }
 
@@ -135,7 +136,7 @@ async function fetchPir8dioPodcastsData() {
 async function displayResults(drResults, podimoResults, miscResults, pir8dioResults) {
     resultsContainer.innerHTML = '';
     if (drResults.length === 0 && podimoResults.length === 0 && miscResults.length === 0 && pir8dioResults.length === 0) {
-        resultsContainer.innerHTML = '<p>No results found</p>';
+        resultsContainer.innerHTML = '<p>Ingen søgeresultater fundet</p>';
         return;
     }
 
@@ -201,9 +202,24 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
             rssIcon.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
             rssIcon.alt = 'RSS';
             rssIcon.classList.add('rss-icon');
-            rssIcon.addEventListener('click', () => {
-                navigator.clipboard.writeText(rssUrl);
+                    if (isMobile) {
+            rssIcon.addEventListener('click', async () => {
+                const anchor = document.createElement('a');
+                anchor.href = 'feed://' + rssUrl;
+                anchor.target = '_blank'; 
+                anchor.click(); 
+                await navigator.clipboard.writeText(rssUrl);
             });
+        } else {
+            rssIcon.addEventListener('click', async () => {
+                try {
+                    await navigator.clipboard.writeText(rssUrl);
+                    alert(rssUrl + ' kopieret til udklipsholder');
+                } catch (error) {
+                    console.error('Fejl', error);
+                }
+            });
+        }
             li.appendChild(rssIcon);
         }
         ul.appendChild(li);
