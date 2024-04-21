@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Apr 2024 06:10:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 07:25:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -263,23 +263,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428142/f64bef422af67744ff786777fae65125a75b0c3fed4503eb674818a245931dc2.mp3" type="audio/mpeg" length="252195127" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428125</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-paaskejazz-18452428125</link>
-      <title>Påskejazz</title>
-      <description>Snooze er på vej på påskeferie, og i anledning af den kommende højtid, så graver vi lidt i jazzhistorien for at se, om der da ikke findes bare en lille smule påskejazz.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Fri, 22 Mar 2024 07:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428125/cce7c0668075e3b5815d0999b313dd75fbea447d2f39f831379cbb6a689d73b4.mp3" type="audio/mpeg" length="252195147" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Apr 2024 06:10:25 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 07:25:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452434166</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-laengselsfulde-sange-18452434166</link>
+      <title>Længselsfulde sange</title>
+      <description>Tonen sættes med et væld af følelser - det bliver smukt, trist, overvældende, men mest af alt længselsfuldt, i dag skal vi nemlig lytte til længselsfulde sange. Alt fra sorgen efter forlist kærlighed til savnet over, at sommeren er forbi. Vi overgiver os til det håbløse, hungrende efter noget der ikke er mere, med et perfekt udvalg af de bedste sange.
+Vært og tilrettelægger: Josephine Philip.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 20 Apr 2024 13:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434166/9d74c09fc4af1452b06156caa1f91717664a3f6388d8e959656999b35602064d.mp3" type="audio/mpeg" length="82081613" />
+    </item>
     <item>
       <guid isPermaLink="false">18452434156</guid>
       <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-foraar-glaede-og-melankoli-18452434156</link>

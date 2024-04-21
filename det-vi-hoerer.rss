@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Apr 2024 06:10:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 07:25:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -58,6 +58,22 @@ Vært: Cæcilie Iburg Printzlau.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481841/b59b7b4ca8cc186794b0342750d054a7f078f993e29021455161a778ae61ce8d.mp3" type="audio/mpeg" length="168674568" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481823</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/helle-kristensen/det-vi-hoerer-3-8-at-underholde-berige-og-forstyrre-12422481823</link>
+      <title>3:8 - At underholde, berige og forstyrre</title>
+      <description>Hør en dansk nyklassiker, en hel sommersymfoni og et musikstykke, der ikke er til at glemme igen - når man altså har fundet ud af, hvad det er... Bach og blokfløjterne er selvfølgelig også med. 
+Vært: Helle Kristensen.</description>
+      <pubDate>Sat, 20 Apr 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160003</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481823/7ff1e69b3bf23052f6e60469f8db5cc52655ebf460ed788a25e87f405b8c0de5.mp3" type="audio/mpeg" length="168482146" />
     </item>
     <item>
       <guid isPermaLink="false">12422481822</guid>
@@ -318,22 +334,6 @@ Vært: Ole Bartholin Kiilerich.</description>
       <itunes:duration>01:48:33</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381866/ad5bf48c17ba6547f096b87548cea3577eec54afe045a8471529538fddcefb97.mp3" type="audio/mpeg" length="156324763" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381865</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-klaver-bonanza-ekstravaganza-12422381865</link>
-      <title>Klaver-bonanza-ekstravaganza</title>
-      <description>Ole Bartholin Kiilerich smider alle manerer overbords og præsenterer to timers radio udelukkende med det allerfedeste klavermusik. Klaver er jo det bedste instrument af dem alle - men hvorfor egentligt?
-Vært: Ole Bartholin Kiilerich.</description>
-      <pubDate>Fri, 20 Oct 2023 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000100005</itunes:order>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:49:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381865/d29042f47e769a038bf9d7e5b4d06a55f32ffc870d204f466cc0757cca56a37d.mp3" type="audio/mpeg" length="157047643" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Apr 2024 06:09:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 07:24:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -79,24 +79,6 @@ William Atak, kommunikationskonsulent.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410163/a60a457abb3b134f201d12a47cba467089964e05c4e8ba3157fe4d053879a488.mp3" type="audio/mpeg" length="254882168" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410162</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410162</link>
-      <title>Tirsdag 16. apr. 2024</title>
-      <description>Efter en samtale om en øm krop efter koncerter og en snak med DR's klimakorrespondent Thøger Kirk om et brudt løfte, tager morgenen en surrealistisk drejning. Den historiske bygning Børsen i København bryder nemlig i brand, og værterne følger med resten af morgenen i den dramatiske situation.
-Værter: Mikkel Rosendal, Liva Manghezi og Mikkel Klint Thorius.
-Medvirkende:
-Jonas Germann, personlig træner.
-Thøger Kirk, klimakorrespondent DR.
-Trine Hasle, reporter DR.
-Christian Holm Donatzky, historiker.</description>
-      <pubDate>Tue, 16 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410162/7f6b99e561fa8224d3bd35cb2c238a007426746e4f8e52464f129dda0a3e0f6e.mp3" type="audio/mpeg" length="254881526" />
     </item>
   </channel>
 </rss>

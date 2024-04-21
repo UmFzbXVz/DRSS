@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Apr 2024 06:10:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 07:25:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422263476</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-temmelig-islandsk-og-dog-12422263476</link>
+      <title>Temmelig islandsk, og dog</title>
+      <description>En islandsk tone præger aftens lydbillede. Som altid med afstikkere i natsværmerens eskapistiske natur. Anna Thorvaldsdottir er en gennemgående komponist, der får selskab af Max Richter, Benita Haastrup, Anne Roemer, Ólafur Arnalds, Bach med flere uventede gæster.
+Vært: Minna Grooss.
+(Sendt første gang 27. november 2022).</description>
+      <pubDate>Sun, 21 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263476/469eb37ac47cc76e3edf06e68cce88987b99ea694edf19209b3e22b346a0df04.mp3" type="audio/mpeg" length="168475846" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463165</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tilbage-til-sort-12422463165</link>
@@ -412,18 +426,6 @@ Vært: Tina Rømer.
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263102/f65a6207e43ac432be00bf9de93dcd0ea48468a5770192599be6d5abc6032d35.mp3" type="audio/mpeg" length="172994416" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463124</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-verdensrundrejse-i-natten-12422463124</link>
-      <title>Verdensrundrejse i natten</title>
-      <description>Japan. Frankrig. Spanien. Rusland. England. USA. Norge. Danmark. Denne episode af Natsværmeren er en musikalsk verdensrundrejse med Peter Albrechtsen som guide og sanselige, stemningsfulde toner som den røde tråd.</description>
-      <pubDate>Fri, 22 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463124/43d97f892dfab4ca5dc76d9d8b29818db44586239eb8dbfe2106fd37f7c602bb.mp3" type="audio/mpeg" length="168672800" />
     </item>
     <item>
       <guid isPermaLink="false">12422263384</guid>

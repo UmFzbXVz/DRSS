@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Apr 2024 06:08:45 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 07:25:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405166</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405166</link>
+      <title>Lørdag 20. apr. 2024</title>
+      <description>Præludium:	Cesar Franck: Præludium i D-Dur.
+Davidssalme: 25, 1-5.
+Salme: 379, vers 1-5 "Der er en vej, som verden ikke kender".
+Fra det N.T.	Apostlenes Gerninger 4, 7-12.
+Trosbekendelsen.
+Salme: 379, vers 6-8.
+Postludium: Sigfrid Karg-Elert: Du er, opstandne sejershelt.</description>
+      <pubDate>Sat, 20 Apr 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405166/7a12eabbf9e14afce9581e3b3eee3b6e443d1f04d5a50ef79b567b4355dea376.mp3" type="audio/mpeg" length="36001573" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405165</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405165</link>
@@ -402,24 +420,6 @@ Postludium: William Sterndale Bennett: Adagio Es-dur.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405126/a8719c8871447ec2ad15751c8164952fdbbfcbabe526baf941fb67a99da83e41.mp3" type="audio/mpeg" length="36194535" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405125</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405125</link>
-      <title>Fredag 22. mar. 2024</title>
-      <description>Præludium: Sigfrid Karg-Elert: Kristus, du Guds lam.
-Fra det G.T.: Salme 22,21-27.
-Salme: 64, vers 1-5 "Jeg vil mig Herren love".
-Fra det N.T.: Johannes-ev.19,28-37.
-Korvers: Niels Wilhelm Gade: Det hellige kors, vor Herre han bar (tekst: N.F.S. Grundtvig).
-Salme: 64, vers 6-7.
-Postludium: J. P. E. Hartmann: Passions-Intermezzo.</description>
-      <pubDate>Fri, 22 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405125/98d0430ae0b2fe68bef51c617c0beffdd27f5c4ecb041c662ef5475de53f7779.mp3" type="audio/mpeg" length="36194537" />
     </item>
   </channel>
 </rss>

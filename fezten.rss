@@ -9,7 +9,7 @@ Vært: Niels Fez Pedersen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Apr 2024 06:10:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 07:25:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -64,19 +64,6 @@ Vært: Niels Fez Pedersen.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464145/6c91f9e60540830013720d6de69569be3aece137cc9e43e07cddc081a70ef8c6.mp3" type="audio/mpeg" length="165795133" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122464125</guid>
-      <link>https://www.dr.dk/lyd/p6beat/fezten-paa-p6-beat/fezten-paa-p6-beat-2024/fezten-paa-p6-beat-16122464125</link>
-      <title>Fredag 22. mar. 2024</title>
-      <description>Fezten er et musikprogram, der fanger stemningen af weekend og spiller sange til fredagsbaren. Positiv upbeat musik, som et indie-disco med klubklassikere og tilsat mini-portrættter. Lydsporet til en privatfezt med afstikkere til både køkkenet og soveværelset.
-Vært: Niels Fez Pedersen.</description>
-      <pubDate>Fri, 22 Mar 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464125/7fd6ac103202356bb0d56a7f344d18ad35f8f3be5acf9ab381a1ebf29800e826.mp3" type="audio/mpeg" length="165795133" />
     </item>
   </channel>
 </rss>

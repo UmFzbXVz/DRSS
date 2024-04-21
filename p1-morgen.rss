@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Apr 2024 06:09:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 07:24:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433166</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433166</link>
+      <title>Lørdag 20. apr. 2024</title>
+      <description>Hvor langt er Iran egentlig i udviklingen af atomvåben? Hvorfor ringer 15 socialdemokrater uopfordret og siger, at Mette F. er en fantastisk S-formand og statsminister? Hvorfor skære ned på studiepladser, der bliver brug for i fremtiden?
+Dagens værter: Jan Falkentoft og Bjarne Steensbæk.</description>
+      <pubDate>Sat, 20 Apr 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:04</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433166/0e13b15fcb585dc5e52e1283ecf281a9aef8f9081d912edcc132cdd76376da3b.mp3" type="audio/mpeg" length="158518305" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433165</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433165</link>
@@ -1871,18 +1883,6 @@ Dagens værter: Julie Toft og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:55</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333433/55152f3ff3704d9354ef9d60897dd9a2d7b2ebea429333f6e713950ad6f21db5.mp3" type="audio/mpeg" length="237499867" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333432</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333432</link>
-      <title>Tirsdag 24. okt. 2023</title>
-      <description>Hvorfor peger mange på Troels Lund Poulsen som ny formand for Venstre? Hvordan er nødhjælpssituationen i Gaza, når nødhjælpen kommer så langsomt frem? Og hvad er der sket, siden Tyrkiet nu officielt siger ja til Sverige i NATO?  
-Dagens værter: Morten Runge og Bjarne Steensbeck.</description>
-      <pubDate>Tue, 24 Oct 2023 06:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:50</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333432/4283d72fa316f6eb9f9efb17f279430064651e449378bf517c44b624253276c5.mp3" type="audio/mpeg" length="237382939" />
     </item>
   </channel>
 </rss>
