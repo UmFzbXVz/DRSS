@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 07:25:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 11:12:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436616</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-3-akkorder-og-sandheden-saadan-siger-jacob-dinesen-om-en-af-sine-favoritkunstnere-16452436616</link>
+      <title>"3 akkorder og sandheden" - sådan siger Jacob Dinesen om en af sine favoritkunstnere</title>
+      <description>Jeg har besøg af Jacob Dinesen. Hvilket rart menneske! Hvilken stemme og indfølelse. Det var virkelig en fornøjelse at være i hans selskab og snakke om ægte store følelser og fornemmelsen af frihed og sandhed. Og det er netop lige præcis dét, som Jacob oplever, når han tænder dagens første cigaret og sidder på terrassen med kaffen og lytter til Chris Stapleton og dennes album "Traveller". Vi hygger og griner og taler alvorsord i en god time, om alt det, som musikken vækker til live i os: Om modstand, kærlighed, gamle guitarer og alt derimellem. Kort sagt: "3 akkorder og sandheden!" Jeg glæder mig, til du skal lytte med.
+Kærlige hilsner fra Onkel Goodluck.</description>
+      <pubDate>Sun, 21 Apr 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:09:33</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436616/bf21487c1447ca705eec8e39c8b0139a8710fe56ba15ec2269d2790c7b7490e3.mp3" type="audio/mpeg" length="100169725" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436615</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-faa-en-gospel-koelle-lige-i-hovedet-med-anya-og-hendes-naere-forhold-til-daniel-caesar-og-hans-r-n-b-gospel-16452436615</link>
