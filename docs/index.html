@@ -3,24 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Podcasts fra DR, Podimo, r8Dio, 24syv</title>
+  <title>Testområde</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-  <h2>Find podcasts</h2>
+  <h2>TESTOMRÅDE</h2>
   <div class="search-wrapper">
-      <input type="text" id="searchInput" placeholder="Søg i DR, Podimo, r8Dio, 24syv...">
+      <input type="text" id="searchInput" placeholder="...">
       <span class="clear-search" onclick="clearSearch()">&#10006;</span>
   </div>
-  <p class="helper-text">*Klik på det orange ikon for at kopiere RSS, der kan tilføjes din podcast-app</p>
+  <p class="helper-text">*Alt her på siden kan ændres og gå i stykker; undgå den</p>
   <div id="results"></div>
 </div>
  
 <script>
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
+const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);  
   
 document.addEventListener('DOMContentLoaded', async () => {
     try {
@@ -260,25 +260,32 @@ function createRSSIcon(rssLink) {
     rssIcon.src = rssIconUrl;
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
+    
+    // Check if the user agent is mobile
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
+    
     rssIcon.addEventListener('click', async () => {
-        if (/Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent)) {
-            // Create an anchor element
-            const anchor = document.createElement('a');
-            anchor.href = 'feed://' + rssLink;
-            anchor.target = '_blank'; 
-            anchor.click(); 
-            await navigator.clipboard.writeText(rssLink);
-        } else {
-            try {
+        try {
+            if (isMobile) {
+                // If user is on mobile, prepend "feed://" to the RSS link
+                const mobileRSSLink = 'feed://' + rssLink;
+                const anchor = document.createElement('a');
+                anchor.href = mobileRSSLink;
+                anchor.target = '_blank'; 
+                anchor.click(); 
                 await navigator.clipboard.writeText(rssLink);
-                alert('RSS link copied to clipboard');
-            } catch (error) {
-                console.error('Failed to copy RSS link to clipboard:', error);
+            } else {
+                // If not on mobile, copy the regular RSS link
+                await navigator.clipboard.writeText(rssLink);
             }
+        } catch (error) {
+            console.error('Failed to copy RSS link to clipboard:', error);
         }
     });
+    
     return rssIcon;
 }
+
 
  
 function createListItem(text, url, rssLink) {
@@ -351,16 +358,6 @@ async function fetchPir8dioPodcastsData() {
         return null;
     }
 }
-document.addEventListener('DOMContentLoaded', () => {
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
-    
-    if (isMobile) {
-        alert('You are on a mobile device.');
-    } else {
-        alert('You are not on a mobile device.');
-    }
-});
-  
 </script>
 
 </body>
