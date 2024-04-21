@@ -274,9 +274,11 @@ function createRSSIcon(rssLink) {
                 anchor.target = '_blank'; 
                 anchor.click(); 
                 await navigator.clipboard.writeText(rssLink);
+                alert('Du er på en mobilenhed og BURDE have feed://+\"rssLink\"');
             } else {
                 // If not on mobile, copy the regular RSS link
                 await navigator.clipboard.writeText(rssLink);
+                alert('Du er ikke på en enhed der understøtter per-app URL schemes til RSS');
             }
         } catch (error) {
             console.error('Failed to copy RSS link to clipboard:', error);
