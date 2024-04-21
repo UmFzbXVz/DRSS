@@ -20,7 +20,6 @@
  
 <script>
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);  
   
 document.addEventListener('DOMContentLoaded', async () => {
     try {
@@ -256,36 +255,35 @@ document.getElementById('searchInput').addEventListener('input', function() {
 
 
 function createRSSIcon(rssLink) {
-    const rssIcon = document.createElement('img');
-    rssIcon.src = rssIconUrl;
-    rssIcon.alt = 'RSS';
-    rssIcon.classList.add('rss-icon');
-    
-    // Check if the user agent is mobile
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
-    
-    rssIcon.addEventListener('click', async () => {
-        try {
-            if (isMobile) {
-                // If user is on mobile, prepend "feed://" to the RSS link
-                const mobileRSSLink = 'feed://' + rssLink;
-                const anchor = document.createElement('a');
-                anchor.href = mobileRSSLink;
-                anchor.target = '_blank'; 
-                anchor.click(); 
-                await navigator.clipboard.writeText(rssLink);
-                alert('Du er på en mobilenhed og BURDE have feed://+\"rssLink\"');
-            } else {
-                // If not on mobile, copy the regular RSS link
-                await navigator.clipboard.writeText(rssLink);
-                alert('Du er ikke på en enhed der understøtter per-app URL schemes til RSS');
-            }
-        } catch (error) {
-            console.error('Failed to copy RSS link to clipboard:', error);
-        }
-    });
-    
-    return rssIcon;
+  const rssIcon = document.createElement('img');
+  rssIcon.src = rssIconUrl;
+  rssIcon.alt = 'RSS';
+  rssIcon.classList.add('rss-icon');
+
+  // Check if the user agent is mobile
+  const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
+
+  rssIcon.addEventListener('click', async () => {
+    try {
+      if (isMobile) {
+        const mobileRSSLink = `feed://${rssLink}`;
+        const anchor = document.createElement('a');
+        anchor.href = mobileRSSLink;
+        anchor.target = '_blank';
+        anchor.click();
+        await navigator.clipboard.writeText(rssLink);
+        alert('Du er på en mobilenhed og BURDE have feed://+' + rssLink);
+      } else {
+        // If not on mobile, copy the regular RSS link
+        await navigator.clipboard.writeText(rssLink);
+        alert('Du er ikke på en enhed der understøtter per-app URL schemes til RSS');
+      }
+    } catch (error) {
+      console.error('Failed to copy RSS link to clipboard:', error);
+    }
+  });
+
+  return rssIcon;
 }
 
 
@@ -314,7 +312,7 @@ function createListItem(text, url) {
     li.appendChild(a);
 
     if (url.includes('dr.dk/podcasts')) {
-        const rssLink = url; // Use the same link as the main URL
+        const rssLink = url; 
 
         if (li.querySelector('.rss-icon') === null) {
             const rssIcon = document.createElement('img');
