@@ -172,7 +172,6 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
                 rssIcon.addEventListener('click', async () => {
                     try {
                         await navigator.clipboard.writeText(rssLink);
-                        alert(rssLink + ' kopieret til udklipsholder');
                     } catch (error) {
                         console.error('Fejl', error);
                     }
@@ -213,7 +212,6 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
                 rssIcon.addEventListener('click', async () => {
                     try {
                         await navigator.clipboard.writeText(rssUrl);
-                        alert(rssLink + ' kopieret til udklipsholder');
                     } catch (error) {
                         console.error('Fejl', error);
                     }
@@ -249,7 +247,6 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
                 rssIcon.addEventListener('click', async () => {
                     try {
                         await navigator.clipboard.writeText(rssLink);
-                        alert(rssUrl + ' kopieret til udklipsholder');
                     } catch (error) {
                         console.error('Fejl', error);
                     }
@@ -268,7 +265,7 @@ async function displayResults(drResults, podimoResults, miscResults, pir8dioResu
 
 async function filterPodcasts(searchText) {
     if (searchText.length < 3) {
-        resultsContainer.innerHTML = '<p>Enter at least 3 characters to search</p>';
+        resultsContainer.innerHTML = '<p>Indtast mindst 3 tegn for at søge</p>';
         return;
     }
 
@@ -322,7 +319,6 @@ function createRSSIcon(rssLink) {
         } else {
             try {
                 await navigator.clipboard.writeText(rssLink);
-                alert('RSS link copied to clipboard');
             } catch (error) {
                 console.error('Failed to copy RSS link to clipboard:', error);
             }
@@ -354,7 +350,6 @@ function createListItem(text, url, rssLink) {
             rssIcon.addEventListener('click', async () => {
                 try {
                     await navigator.clipboard.writeText(rssLink);
-                    alert(rssLink + ' kopieret til udklipsholder');
                 } catch (error) {
                     console.error('Fejl', error);
                 }
@@ -393,7 +388,6 @@ function createListItem(text, url) {
             rssIcon.addEventListener('click', async () => {
                 try {
                     await navigator.clipboard.writeText(rssLink);
-                    alert(rssLink + ' kopieret til udklipsholder');
                 } catch (error) {
                     console.error('Fejl', error);
                 }
