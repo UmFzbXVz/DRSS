@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:46:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481843</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-gaar-derudaf-12422481843</link>
+      <title>Går derudaf</title>
+      <description>Jeg vil dele den musik med dig, som jeg lytter på når jeg går tur - hjemme i Danmark og ude i verden. At slentre op og ned af gader eller ude i naturen er det bedste jeg ved, og særligt når musikken er med. Noget musik går derudaf, som Händels gadedrengehoppende Semele i nye klæder, imens andre skridt er både tvivlsomme og sorgfulde, som i Bach Johannespassion. 
+Vært: Cæcilie Iburg Printzlau.</description>
+      <pubDate>Sun, 21 Apr 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000170003</itunes:order>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481843/7ef91cd8b8efdb95db765cb4684c9c3a4e18220bb78abdffc80f8d67100721aa.mp3" type="audio/mpeg" length="168481605" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481842</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-doeren-paa-klem-12422481842</link>

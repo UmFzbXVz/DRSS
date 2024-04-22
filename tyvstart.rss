@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:51:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450080</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-det-gaar-ad-h-til-i-tth-13652450080</link>
+      <title>Det går ad h... til i TTH</title>
+      <description>En af landets største håndboldklubber er på randen af nedrykning.
+TTH Holstebro møder mandag Skive i den første af potentielt tre direkte opgør om nedrykning til 1. Division. Det vil resultere i en helt ny hverdag for TTH, der i dag arbejder med et af ligaens allerstørste budgetter.
+I dagens afsnit fortæller direktør John Mikkelsen, hvad det kan få af konsekvenser, hvis TTH Holstebro skal spille i den næstbedste række efter sommerferien.
+Vært: Rikke Smed.</description>
+      <pubDate>Mon, 22 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450080/3802b37a39f6512aa95f525c466a3dbe57d018d716fd2b17e665d20394e07ab6.mp3" type="audio/mpeg" length="23615295" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450079</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-breaking-danmark-misser-ol-medalje-13652450079</link>

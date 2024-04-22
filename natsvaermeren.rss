@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:26 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:51:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463167</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-mandagsseance-12422463167</link>
+      <title>Mandagsseance</title>
+      <description>Bach for sjælen, lyset hejst op i flagstangen, ubekymret fløjten, og et besøg i Søren Ulrik Thomsens kammer af noget af det, du kan opleve i aften
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 22 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463167/b13b5dfef8de3d30962a24314dd04e61909a025da751d018d13969ff251e46e4.mp3" type="audio/mpeg" length="168473453" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422263476</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-temmelig-islandsk-og-dog-12422263476</link>
       <title>Temmelig islandsk, og dog</title>
@@ -35,9 +48,9 @@ Vært: Minna Grooss.
       <pubDate>Sun, 21 Apr 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263476/469eb37ac47cc76e3edf06e68cce88987b99ea694edf19209b3e22b346a0df04.mp3" type="audio/mpeg" length="168475846" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263476/1a5b38dd9fffd43cbe9ab68fbcb3c79bc9ed8ddb9068ecc51a76133456cdd413.mp3" type="audio/mpeg" length="172802182" />
     </item>
     <item>
       <guid isPermaLink="false">12422463165</guid>

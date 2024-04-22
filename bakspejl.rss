@@ -9,7 +9,7 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:00:02 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:50:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <category>History</category>
     <itunes:category text="History" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11162411011</guid>
+      <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-nazibotanikeren-4-4-natskyggeplanten-11162411011</link>
+      <title>Nazibotanikeren  4:4 - Natskyggeplanten</title>
+      <description>Det knopskyder med nye teorier om Heinz Brüchers død. Jo dybere vi graver, jo mere kommer vi i tvivl om, hvem den her mand var, og hvad der drev ham. Skal vi se ham som en korrupt naziskurk eller en heltedådig videnskabsmand? Og var det i sidste ende nazismen eller botanikken, der slog ham ihjel? 
+Medvirkende: Marten Sørensen, Mat Youkee, Magnus Boding Hansen.
+Redaktion: Celine Klint, Johanne Mosegaard og Martin Grønne.</description>
+      <pubDate>Mon, 22 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:33:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162411011/6b163c4e1cc71e70bd3cb2d8cecd53d7591227303d31f22f19e037e45566e9ce.mp3" type="audio/mpeg" length="47654069" />
+    </item>
     <item>
       <guid isPermaLink="false">11162411010</guid>
       <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-nazibotanikeren-3-4-et-biologisk-supervaaben-11162411010</link>

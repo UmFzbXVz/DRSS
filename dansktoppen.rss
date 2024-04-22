@@ -10,7 +10,7 @@ Vært: Ole Tøpholm.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:51:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -130,20 +130,6 @@ Vært: Ole Tøpholm.</description>
       <itunes:duration>00:12:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452433133/d126b4f1ca3d4b14b692128e6b9f12cd1d01ea921a48f4944d29a8a504b7a076.mp3" type="audio/mpeg" length="17474413" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452432126</guid>
-      <link>https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen-2024/dansktoppen-15452432126</link>
-      <title>Lørdag 23. mar. 2024</title>
-      <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
-Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
-Vært: Ole Tøpholm.</description>
-      <pubDate>Sat, 23 Mar 2024 12:15:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452432126/6df690c5a6aeae4de3399b78f5e0985130ee87e1527293a8e96d8a47a5dc3357.mp3" type="audio/mpeg" length="151395030" />
     </item>
   </channel>
 </rss>

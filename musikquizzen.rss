@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:39 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:51:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Kenneth K.</description>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122448116</guid>
+      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-podcast-16122448116</link>
+      <title>Søndag 21. apr. 2024</title>
+      <description>Danmarks mest musikalske quiz.
+Vært: Kenneth K.</description>
+      <pubDate>Sun, 21 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:59:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448116/f830279ccfbc91e4050740c1a17a5bdcb6869454ea70cbeee151b266e06f33c3.mp3" type="audio/mpeg" length="86350687" />
+    </item>
     <item>
       <guid isPermaLink="false">16122448115</guid>
       <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-2004-hvad-hedder-forsangeren-og-3-ledetraade-16122448115</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:50:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,27 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400008</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-sol-wendel-og-sandie-westh-15452400008</link>
+      <title>Sol Wendel &amp; Sandie Westh</title>
+      <description>Kære alle ¶¶ I det her afsnit taler vi om det at miste et barn.
+Sandie er i en sorg, som hun aldrig kommer igennem. Men hun har lært at stå op i krisen, og det vil hun gerne have, at hendes mand skal vide. At han skal bekymre sig mindre om hende, så deres hjem og deres forhold i højere grad kan rumme andre ting end sorg og stress. Men hvordan kan Sandie overbevise stressen i Mikkels krop, om at hun er okay? Og hvordan kan sorgen leve i forholdet, uden den kvæler dem begge? 
+Sol har store følelser og kan ofte blive overvældet af livet - også af ting, som Sol selv synes er *lidt* åndssvage, når de kommer på afstand. Det kan få Sol til at føle sig meget omsorgskrævende og til besvær. Så hvordan bliver man mindre afhængig af ens partner til at kalibrere ens nervesystem? Og hvor kommer den her følelse af at være til besvær egentlig fra?
+Jytte løfter (på en måde) sløret for hendes holdning til Løvernes Konge, hun lærer os, hvordan man kan sit all day i frontallappen (som jo er hjernens redningskrans i det store følelseshav) og så er vi nogen, der kæmper lidt med tårerne i det her afsnit. Jeg håber, I kan lide det.  Kys én, I elsker, i dag. 
+Gæster: Sol Wendel &amp; Sandie Westh.  
+Ekspert: Jytte Vikkelsøe.
+Vært: Sebastian Lynggaard. 
+Producer: Cæcilie Helena Denman-Gretoft.
+Musik: "Hold up" Beyonce.
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 22 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:40:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400008/235ede329cb80a1048ecdba77831c371010654a5cbd09a76b4857074febd14c4.mp3" type="audio/mpeg" length="144299382" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400007</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-maj-my-humaidan-og-mattias-kolstrup-15452400007</link>
@@ -1993,22 +2014,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>01:02:42</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195317/cce8b84ca020a7ae1deced639721e94d5f792772a84b4c7b4c51ce68197868fe.mp3" type="audio/mpeg" length="90294957" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195316</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hjerteflimmer-for-voksne-aura-og-jesper-zuschlag-13332195316</link>
-      <title>Aura &amp; Jesper Zuschlag</title>
-      <description>Aura har tidligere oplevet at træde sine kærester over tæerne på deres selvværd, så hun vil gerne vide, om hun skal gemme en del af sig selv og sin fortid væk for hendes nye kæreste, for at undgå at det gentager sig? Jesper vil gerne vide, hvorfor han ikke bliver forelsket?
-Medvirkende: Sangerinde Aura, Jesper Zuschlag fra "29" og parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 21 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:29:14</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195316/f2f6f89f84865047a8a6860ca3b734f5ec2fbaea3710ed1704d038a54dd9af64.mp3" type="audio/mpeg" length="128511981" />
     </item>
   </channel>
 </rss>

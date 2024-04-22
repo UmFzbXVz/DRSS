@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:08:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:50:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -402,24 +402,6 @@ Postludium: Georg Böhm: Jesus, dine dybe vunder.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405131/fb678fc7fc454f8a46d90ef5c1d7f83cd79b1f2b03cebf0b373cfe6ff58bce9c.mp3" type="audio/mpeg" length="36194543" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405126</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405126</link>
-      <title>Lørdag 23. mar. 2024</title>
-      <description>Præludium:	Johannes Brahms: Herzliebster Jesu.
-Davidssalme: 19, 2-5a.
-Salme: 84 "Gør døren høj, gør porten vid".
-Fra det N.T.:	Filipperbrevet 2, 5-11.
-Vekselsang:	Han blev såret for vore overtrædelser (Es. 53, 5 &amp; Sl. 41, 8).
-Salme: 86, vers 1+ 5-6 "Hvorledes skal jeg møde".
-Postludium: William Sterndale Bennett: Adagio Es-dur.</description>
-      <pubDate>Sat, 23 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405126/a8719c8871447ec2ad15751c8164952fdbbfcbabe526baf941fb67a99da83e41.mp3" type="audio/mpeg" length="36194535" />
     </item>
   </channel>
 </rss>

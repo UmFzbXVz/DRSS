@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:11:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:50:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460093</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-dragespir-i-flammer-11802460093</link>
+      <title>Dragespir i flammer</title>
+      <description>Københavnere stopper måbende på cykelstien tirsdag morgen, da en røgsøjle stiger op over byens irrede tage. 400 år gammel kulturarv står i lys lue, og ilden tager alt med sig: kobbertag, spir og ældgamle arkiver. Mens civile trodser flammerne for at redde dyrebare malerier, ser historiker Anders Ravn Sørensen hjælpeløst til. Det sidste år er han dykket ned i Børsens lange historie for at skrive en jubilæumsbog. Genstart møder ham på Slotsholmen den dag, hvor bogens ramme ændres fuldstændigt, og spørger, hvad det er for en historie, der går tabt i flammerne. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 18/4.</description>
+      <pubDate>Mon, 22 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460093/fbd2378a56b2be5982e10c848878fd1ea6999ce45fac93838ef384f714a91c74.mp3" type="audio/mpeg" length="35999308" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460092</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-ayatollahens-angreb-11802460092</link>
@@ -9441,19 +9455,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:22</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150079/3066ad426ddf80eec334b3bcba60f9be112439e0c785ecb2c1435d39d38d6c9a.mp3" type="audio/mpeg" length="33664365" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150078</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-det-hemmelige-nemlig-11802150078</link>
-      <title>Det hemmelige Nemlig</title>
-      <description>Kritikken regner ned over onlinesupermarkedet nemlig.com, efter Politiken har afsløret arbejdsforhold for virksomhedens chauffører og lagermedarbejdere, som eksperter betegner som dybt kritisable. Hvad gemmer der sig bag den fleksible og billige dagligvarelevering? Og er det danske arbejdsmarked rustet til virksomheder som nemlig.com? Jonas Pröschold, journalist på Politiken, der har været pennefører på afsløringerne, fortæller.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 21 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:12</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150078/0a7c787707a2ee1006a9feb9824088668b09234039ab704e9fb42b11c6a50850.mp3" type="audio/mpeg" length="34859565" />
     </item>
   </channel>
 </rss>

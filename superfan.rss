@@ -10,7 +10,7 @@ Produceret for DR af Firkantede øjne.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:11:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:50:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -399,23 +399,6 @@ Produceret for DR af Firkantede øjne.</description>
       <itunes:duration>00:47:34</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122193062/c78cbebd99fba433cc1aeb9508442037c453ad706c37fed582446ed4d9bb884b.mp3" type="audio/mpeg" length="68506029" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122193061</guid>
-      <link>https://www.dr.dk/lyd/special-radio/superfan/exit/superfan-exit-1-3-med-manden-bag-serien-oeystein-karlsen-16122193061</link>
-      <title>Exit 1:3 - med manden bag serien, Øystein Karlsen</title>
-      <description>Vi får besøg af manden bag kæmpehittet Exit. Øystein Karlsen fortæller den groteske og fascinerende historie bag norges mest streamede serie nogensinde. Da han så interviewet med de fire vanvittige finansfyrster, der stak deres peniser i hovedet på hinanden og tog coke vidste han, at han var nødt til at lave en serie om dem. 
-Værter: Kasper Lundberg og Frederik Dirks Gottlieb.
-Produceret for DR af Firkantede øjne.</description>
-      <pubDate>Wed, 21 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000020001</itunes:order>
-      <itunes:season>2</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:33:34</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122193061/dde4f6087c5c16c50f704cb3ac27877a8d533a244c80b39460c8f2f50ce84f63.mp3" type="audio/mpeg" length="48351213" />
     </item>
   </channel>
 </rss>

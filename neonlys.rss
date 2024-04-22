@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:51:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332418167</guid>
+      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418167</link>
+      <title>Søndag 21. apr. 2024</title>
+      <description>Badet i neonlys dykker Alida Blakaj ned i trends og tendenser inden for hip-hop, R'n'B og rap sammen med andre musikkendere og nye og etablerede kunstnere.</description>
+      <pubDate>Sun, 21 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418167/f649a0e37c9fe5eeb53ade246cf04cc3a86caa10d860bc6bd376d7c6773fbe8c.mp3" type="audio/mpeg" length="172801482" />
+    </item>
     <item>
       <guid isPermaLink="false">13332418166</guid>
       <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418166</link>
@@ -124,21 +136,6 @@ Og har du egentlig hørt om r'n'b-scenens nyeste stjerneskud Muni Long? Alt det 
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418127/469e0105856082ad8564ba4583c397f1597208dff1f2df069e5209903013dd51.mp3" type="audio/mpeg" length="172994547" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418126</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418126</link>
-      <title>Lørdag 23. mar. 2024</title>
-      <description>Lørdag betyder festlige vibes - og temaet er comeback season!
-Der er nemlig landet nyt album fra rapperen Noah Carter, mens en verdensstjerne endelig er ved at være tilbage til, hvor det hele startede! En dansk rapper skal åbne Orange Scene, og et viralt hit har fået Cardi B og SZA på som gæster, mens andre kunstnere fra det amerikanske hiphoplandskab så småt er ved at springe ud af deres vinterhi.
-Desuden spiller alt det bedste inden for hiphop, r'n'b og rap - nyt og gammelt. Tune in!
-Vært: Alida Blakaj.</description>
-      <pubDate>Sat, 23 Mar 2024 18:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418126/5971352548e238266168ef49885d9ff4168a17247dfb0d2771e8ac9244c2e972.mp3" type="audio/mpeg" length="172994543" />
     </item>
   </channel>
 </rss>

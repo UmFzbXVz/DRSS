@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:51:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451075</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-stormy-vs-trump-skaev-behandling-og-randers-regning-11802451075</link>
+      <title>Stormy vs. Trump, skæv behandling og Randers' regning</title>
+      <description>Regeringen lukker pengekassen. Der er ikke flere penge til at rydde op efter Nordic Waste. Randers står nu med en regning og en masse spørgsmål. 
+Den tidligere pornostjerne Stormy Daniels fortælling er helt central i den retssag, der lige nu kører i Manhattan. 
+Hvis du skal opereres for en skæv kæbe og bor i Region Sjælland, så har du muligvis siddet i en ulovlig årelang kø.  
+Vært: Adrian Busk.
+Medvirkende: 
+Sandra Brovall, DR's kulturkorrespondent.
+Frank Nørgaard, formand for teknik- og miljøudvalget i Randers Kommune.</description>
+      <pubDate>Mon, 22 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451075/5155e209a4822264f898c721749210f3b7d6e9590b78c8afba5ad020c0888946.mp3" type="audio/mpeg" length="24827789" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451074</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-slagtet-slagteri-krudtpenge-og-en-pebret-advokat-11802451074</link>

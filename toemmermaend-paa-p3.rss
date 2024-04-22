@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Apr 2024 11:12:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:51:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -26,6 +26,21 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332440853</guid>
+      <link>https://www.dr.dk/lyd/p3/toemmermaend-paa-p3/toemmermaend-paa-p3/toemmermaend-paa-p3-en-narkobaron-i-barcelona-og-noget-med-at-stjaele-13332440853</link>
+      <title>En narkobaron i Barcelona og noget med at stjæle...</title>
+      <description>I dagens udgave af Tømmermænd på P3 kommer Rasmus Wallbridge på besøg hos Anne Albrechtsen. Teorien er stadig, at man får det bedre med sine egne tømmermænd ved at høre om andres branderter. Her hjælper Rasmus lytteren godt på vej, når han fortæller om den ene fucked up ferie efter den anden. Derudover dykker vi med i lytternes historier og hører om alt fra en stjålet kat til en meget uheldig oplevelse på et hostel.</description>
+      <pubDate>Sun, 21 Apr 2024 22:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000003</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:42:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332440853/ac13da3366df9bfc5cfbcf0bec55c279fb2c4ecfdd0ad86cce66f6b4590a9313.mp3" type="audio/mpeg" length="60563975" />
+    </item>
     <item>
       <guid isPermaLink="false">13332440852</guid>
       <link>https://www.dr.dk/lyd/p3/toemmermaend-paa-p3/toemmermaend-paa-p3/toemmermaend-paa-p3-noegen-i-en-glaselevator-13332440852</link>
