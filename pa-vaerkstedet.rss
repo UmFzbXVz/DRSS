@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:51:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:48:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422453171</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet/paa-vaerkstedet-simon-steen-andersen-komponist-og-multimediekunstner-12422453171</link>
+      <title>Simon Steen-Andersen, komponist og multimediekunstner</title>
+      <description>Komponisten Simon Steen-Andersen har sagt, at han altid har brug for at sprænge rammerne, når han arbejder kreativt.
+Hvordan gør han det? Og hvad betyder det reelt for hans kreative processer? Det taler psykologiprofessor Lene Tanggaard med Simon Steen Andersen om i dagens udsendelse.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 22 Apr 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422453171/06d127a1dfb291afda2c62a89f8658153adc63ad353ba904e1116514ff687a0a.mp3" type="audio/mpeg" length="108002181" />
+    </item>
     <item>
       <guid isPermaLink="false">12422353471</guid>
       <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet-2023/paa-vaerkstedet-frederik-cilius-satiriker-og-skuespiller-12422353471</link>

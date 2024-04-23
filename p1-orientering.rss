@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:45:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:44:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410171</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410171</link>
+      <title>Mandag 22. apr. 2024</title>
+      <description>Hvor står debatten om infiltration i Sverige? Ukraine er trængte. Hvad kommer hjælpepakken til at betyde for fronten? Og hvorfor går Duda ud og siger det her?
+Dagens værter: Pernille Rudbæk og Søren Carlsen.</description>
+      <pubDate>Mon, 22 Apr 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:21:45</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410171/2387caba5946fd8d812188674d274bac990973dbc9c1178cac0dce79ecb32034.mp3" type="audio/mpeg" length="117738754" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410165</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410165</link>
@@ -2485,38 +2497,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:03</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302435/586bccf7f816ad0ac1845923e888874dea43115c0e2563d94e984fbd4a809494.mp3" type="audio/mpeg" length="79280155" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304434</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304434</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Anne Kirstine Hermann og Bjarne Steensbeck.
-Og i dagens udgave af Orientering Udsyn:
-En 43 minutters video med blodige detaljer af Hamas' drab på israelske soldater og civile, blev forleden vist for særligt inviterede journalister. Bag præsentationen stod den israelske hær, der ønskede at minde omverdenen om modstanderens grusomhed, inden deres landoffensiv for alvor går i gang. Moderne krige handler i høj grad om at få verdensopinionen på sin side, og krigen i Gaza er ingen undtagelse.
-"En dårlig kopi af Sovjetunionen" - sådan kaldte Ungarns premierminister Viktor Orban forleden EU. Mens EU lige nu undersøger landet for både korruption og brud på retsstatsprincipperne, skruer Orban tilsyneladende bare op for fornærmelserne og provokationerne. Hvordan kan det lade sig gøre, uden at det får konsekvenser?
-Gæster: Christiern Santos Okholm, forsker i digital krigsførelse på European University Institute, Firenze og Claus Kragh, Europaredaktør på Mandag Morgen.
-Tilrettelæggelse: Sven Johannesen og Elise Normann.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Thu, 26 Oct 2023 17:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:01</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304434/3dcebeeeb6d1441a70c50981094c4f702511632d994e96fc9a1285bbbac60518.mp3" type="audio/mpeg" length="79234651" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310434</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310434</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Anne Kirstine Hermann og Bjarne Steensbeck.</description>
-      <pubDate>Thu, 26 Oct 2023 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:07</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310434/76c74403d7b76e75d0d8063d5730358f0d6753d28f21669e4eca097aae6f2c9a.mp3" type="audio/mpeg" length="79376923" />
     </item>
   </channel>
 </rss>

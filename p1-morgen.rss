@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:50:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:47:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433171</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433171</link>
+      <title>Mandag 22. apr. 2024</title>
+      <description>Er dansk landbrug ligeglad med danske arbejdspladser? Hvornår er man som indvandrer i Danmark integreret nok? Og hvorfor kommer amerikansk hjælpepakke til Ukraine nu?
+Dagens værter: Cecilie Lange og Thomas Tjaerandsen.</description>
+      <pubDate>Mon, 22 Apr 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:26</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433171/64c4a0b7e1a2b648dd448efc6f28ae0fc5bc1fce3d7f3fc8d7ad9ace6b4cf6c2.mp3" type="audio/mpeg" length="236806670" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433166</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433166</link>
@@ -1859,18 +1871,6 @@ Dagens værter: Ole Brink og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:37</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333435/0efcdee814b3019469fbd90615cebdbbb691d75beefd08be9a58b8b5cd2433b8.mp3" type="audio/mpeg" length="237072475" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333434</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333434</link>
-      <title>Torsdag 26. okt. 2023</title>
-      <description>Hvor populært er det at investere i Saudi Arabien? Hvordan opererer den ukrainske efterretningstjeneste inden i Rusland? Og hvorfor vender Erdogan ryggen til Israel og omfavner Hamas?
-Dagens værter: Ole Brink og Pernille Rudbæk.</description>
-      <pubDate>Thu, 26 Oct 2023 06:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:36</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333434/15039787d556df02c71f9c43bcb73407bfe36f554748c22464db6d87c7eee15a.mp3" type="audio/mpeg" length="237039067" />
     </item>
   </channel>
 </rss>

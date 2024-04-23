@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:50:04 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:34:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,21 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460094</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-diddy-do-it-11802460094</link>
+      <title>Diddy do it?</title>
+      <description>En kortege af pansrede politibiler med kampklædte betjente på siden snor sig mellem palmealleér og enorme villaer. De samme villaer, der dannede scene for musikvideoer på MTV i 90'erne og 00'erne, hvor champagneflasker bruste og letpåklædte kvinder dansede. Betjentene nærmer sig døren til et palæ tilhørende P. Diddy, der fik populærkulturen til at se netop sådan ud. Bag den pæne facade af hvide jakkesæt, champagne og succes rammer anklagerne nu om voldtægter, seksuelt misbrug, drugging, sextrafficking og vold. Var vi blinde for, at den kultur vi hyldede i 90'erne i virkeligheden var giftig?
+Det svarer P3-vært Pelle Peter Jencel på i dagens Genstart.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 19/4.</description>
+      <pubDate>Tue, 23 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:13</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460094/bf94dd108cb4f3c842d1bdbd7fb335dbb2bde5f124fdf0e5892f43af9c97f8e5.mp3" type="audio/mpeg" length="36329920" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460093</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-dragespir-i-flammer-11802460093</link>
@@ -9441,20 +9456,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150080/b88906c8694ac6f7563abe7d482de19ff1cf12e55493c4d5c65f5645620e89a8.mp3" type="audio/mpeg" length="33776109" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150079</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-mordet-paa-malta-11802150079</link>
-      <title>Mordet på Malta</title>
-      <description>Et mord på en journalist har siden 2017 runget som et dystert ekko på Malta - et af EU's mest korrupte lande. Efterforskningen trækker tråde til toppen af maltesisk politik og presser selve statsministeren til at gå.
-Alligevel er der gået 3,5 år, før den første dom nu endelig falder. Men hvorfor er der stadig ingen retssag mod de formodede bagmænd? Vi får besøg af journalist og dokumentarist Mads Brügger, der kendte den myrdede journalist og følger med i Maltas kamp for genrejsning. 
-Vært: Knud Brix.</description>
-      <pubDate>Thu, 22 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:22</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150079/3066ad426ddf80eec334b3bcba60f9be112439e0c785ecb2c1435d39d38d6c9a.mp3" type="audio/mpeg" length="33664365" />
     </item>
   </channel>
 </rss>

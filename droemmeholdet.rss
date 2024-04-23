@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:51:25 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:48:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332425171</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-tomme-daaser-nissernes-oe-og-droemmeholdets-the-minds-of-99-kandidat-13332425171</link>
+      <title>Tomme dåser, Nissernes ø og Drømmeholdets The Minds of 99-kandidat</title>
+      <description>Hvis vi ikke skal opfylde din drøm og har et telefonnummer, så skal du ikke sende det til p3drommer@dr.dk!
+Én, der har sendt sin drøm ind til os, er Tobias. Tobias skal nemlig bruge 1000 tomme pepsi-dåser til et stort bonsai-træ, han vil lave ud af ståltråd. Hvis det ikke giver mening, så bliver du nok nødt til at lytte med.
+Irwin søger Flemming Jensen, men vi kan muligvis kun finde en Flemming Nielsen, som dog ligner Flemming Jensen.
+Og til sidst... Det største...  Det vildeste: Vi skal finde Drømmeholdets kandidat til P3's store The Minds of 99-fan. Drømmeholdets fælles kandidat. De skal quizzes, klargøres og trænes. Drømmeholdet VIL vinde på fredag!</description>
+      <pubDate>Mon, 22 Apr 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425171/cea7393be7c66fa721f51077cae82413d768bf81e2a835bbfae1b36f869751e0.mp3" type="audio/mpeg" length="254882182" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332425165</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-kaskelot-skelet-fraek-folkeskolelaerer-og-sambuca-13332425165</link>
       <title>Kaskelot-skelet, fræk folkeskolelærer og sambuca</title>
@@ -42,21 +57,6 @@ Det er fredag. Det er Drømmeholdet. Det er nu, du trykker på "lyt"!</descripti
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425165/32591f6bd568108fca93aa35f98b205a23f0e1d3bcf3812fc94bf5facb4c4b91.mp3" type="audio/mpeg" length="254882181" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425164</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-dartskiver-balalajka-og-efterskole-dressing-13332425164</link>
-      <title>Dartskiver, Balalajka og efterskole-dressing</title>
-      <description>Hey smuksak - må vi få dit nummer? Og i samme omgang, så send lige din drøm! P3drommer@dr.dk.
-Drømmeholdet rejser ind i en helt ny verden... dartens verden. Vores kendskab til dart rækker til brune bodegaer og øl, så vi er virkelig på udebane, når vi skal opfylde Thors drøm. Thor drømmer nemlig om en dartskive fra Nordic Dart Masters.
-Og så blev klokken pludselig 16. I forsøget på at opfylde Bjørks lyndrøm, skruer vi nemlig tiden frem og sender Balalajka med Anton og Mathilde. 
-Til sidst skal vi opfylde Nataschas drøm om verdens bedste dressing fra efterskolen.</description>
-      <pubDate>Thu, 18 Apr 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425164/9cd8f1cf3b79a409a600c990a0db093123e836679a8742684504994f1ea28db8.mp3" type="audio/mpeg" length="254881610" />
     </item>
   </channel>
 </rss>

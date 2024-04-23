@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:51:07 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:48:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,18 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452429171</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429171</link>
+      <title>Mandag 22. apr. 2024</title>
+      <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
+      <pubDate>Mon, 22 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429171/6500f31fda63dea751c9f45cf42d059ca62e1e6d9814a7be9620fdf087c8c101.mp3" type="audio/mpeg" length="168482101" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452429165</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-nye-udgivelser-15452429165</link>
       <title>Nye udgivelser</title>
@@ -39,21 +51,6 @@ Vært: Rasmus Scharling Toft.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429165/0e3742f37c99a205b094b34f0576cf8ee13f1e4937c5f4d24994be67f5d56ab8.mp3" type="audio/mpeg" length="168482177" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429164</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-gensyn-og-hithop-15452429164</link>
-      <title>Gensyn og HIThop</title>
-      <description>Fra DR's Gensyn optræder Gasolin og Anne Linnet og Sanne i historiske klip. 
-Studie 5 foretager også tre "hithop" over 30 års hitlistetoppe.
-Hvad var NUMMER ET den 18 april for hhv. 40, 50 og 60 år siden?
-Vært: Rasmus Scharling Toft</description>
-      <pubDate>Thu, 18 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429164/d86b23f3a05550b22f255afc5839e3a434210ad90bbb8ed42fda15b7549382fe.mp3" type="audio/mpeg" length="168482155" />
     </item>
   </channel>
 </rss>

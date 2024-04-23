@@ -9,7 +9,7 @@ Produceret for DR af ECOSOVIC.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:51:07 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:48:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -104,20 +104,6 @@ Produceret for DR af ECOSOVIC.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432146/c532c00ec4918ed7306375015637e43301f03aa4b32482b24f9d961d08271447.mp3" type="audio/mpeg" length="172994527" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122432127</guid>
-      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432127</link>
-      <title>Søndag 24. mar. 2024</title>
-      <description>To timers energifyldt radio med fokus på popkultur, korte interviews med artister, omtaler og afspilning af hitlister.
-Vært: Morten Nabild.
-Produceret for DR af ECOSOVIC.</description>
-      <pubDate>Sun, 24 Mar 2024 12:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432127/e560566c41162ad9e655fcfa5e5d2fb230a6d19fd62f84cb83b2d4ee9a8e5852.mp3" type="audio/mpeg" length="172995047" />
     </item>
   </channel>
 </rss>

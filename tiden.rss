@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:51:14 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:48:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451076</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-gigameget-vind-pres-paa-hamas-og-moskva-marjorie-11802451076</link>
+      <title>Gigameget vind, pres på Hamas og Moskva-Marjorie</title>
+      <description>Der skal opføres 6 gigawatt havvind rundt om Danmark. Giver det klimamålene vind i sejlene?  
+Marjorie Taylor har sammen med en håndfuld andre republikanere igen og igen forsøgt at blokere for hjælp til Ukraine. Og nu har et umage samarbejde lukket dem ude. 
+Og så rasler Netanyahu igen med sablen over for Hamas og varsler endnu engang en offensiv. 
+Vært: Adrian Busk.
+Medvirkende: 
+Mads Dalgaard Madsen, tidl. udenrigspolitisk rådgiver på den danske ambassade i Washington.
+Lena Kitzing, Divisionschef på DTU Wind.</description>
+      <pubDate>Tue, 23 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451076/2593708527bcdbbd6c91bb110f9f29b42f8d445b84b01ad3853f64d5875f9562.mp3" type="audio/mpeg" length="22835979" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451075</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-stormy-vs-trump-skaev-behandling-og-randers-regning-11802451075</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:50:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:47:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410171</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410171</link>
+      <title>Mandag 22. apr. 2024</title>
+      <description>Så blev det mandag. 
+Liva har set serie i weekenden, nærmere bestemt 'Orkestret' på DRTV. Hun er rigtig sur over, at streamingtjenesterne ikke kan blive enige om, hvornår og hvor meget de udgiver af afsnit. Hun vælger at konfrontere chefen for publicering i DR.
+Mathias spiser pinden på sin slikkepind. Er han alene om det? Det finder vi ud af i 'Du er ikke alene'.
+Mona Juul er ny formand for Konservative. Hun var på talerstolen til landsmødet i går, og der gik stand-up i den. Og absurd lange klapsalver.
+Dagens store basker er, at vi på P3 netop i dag har sat gang i en konkurrence. Det er en konkurrence, der både er intern mellem os programmer, og som du, som lytter, kan vinde. Vi skal nemlig finde Danmarks største The Minds of 99-fan, og det hele kulminerer på fredag.
+Værter: Liva Manghezi, Mikkel Rosendal og Mikkel Klint Thorius.
+Medvirkende: Henrik Birck, chef, DR Publicering.</description>
+      <pubDate>Mon, 22 Apr 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410171/df845c3eb3fd38ec50364ac6b92b9ff76fac1bbde54ee6da71621503cfd63287.mp3" type="audio/mpeg" length="254882102" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410165</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410165</link>
@@ -43,26 +61,6 @@ Jakob Ussing, erhvervskorrespondent, DR.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410165/0a22336c0fcde5cc5a4f849204ab29b5ef65added6122933c8dd9017a56a6cc5.mp3" type="audio/mpeg" length="254881526" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410164</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410164</link>
-      <title>Torsdag 18. apr. 2024</title>
-      <description>Velkommen til en morgen, hvor nyhederne kommer i gang lidt skævt.
-Nyheds-Kamilla har sovet over sig, men hun er et lyn på en cykel. Vi får dog lidt råd fra jer i forhold til, hvordan I sikrer jer, at I kommer op om morgenen.
-Mikkel Klint vil gerne dele noget sårbart med gruppen. Et lægebesøg, han tog alt for alvorligt, der overhovedet ikke var alvorligt. Han fik desuden af et lift af en komikerkollega, der modsat Mikkel tog det meget lidt alvorligt. Han brugte lige lidt tid på at skabe en 'du dør ikke'-playlist. Ham ringer vi til lidt senere.
-Der opstod en samtale til frokosten i går. Er Brian Mikkelsen blevet lækker?
-Det mener vores producer Trine, og det vil vi også meget gerne høre, om I også synes.
-Værter: Liva Manghezi og Mikkel Klint Thorius.
-Medvirkende:
-Tobias Hansen, cykelekspert og tv-vært.
-Victor Lander, komiker.</description>
-      <pubDate>Thu, 18 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410164/495199df322c3eb294a10d5865d1edc8e3a1004aee177ad7191f40ae37efaa6f.mp3" type="audio/mpeg" length="254881510" />
     </item>
   </channel>
 </rss>

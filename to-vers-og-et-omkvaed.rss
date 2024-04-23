@@ -11,7 +11,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Apr 2024 05:51:07 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:48:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -147,21 +147,6 @@ Produceret for DR af Munck Studios København.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122454136/af1ba42a94ad081ec6089e453668844af1a42b1a42687055eae9355e3aa108be.mp3" type="audio/mpeg" length="168675140" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122454127</guid>
-      <link>https://www.dr.dk/lyd/p5/to-vers-og-et-omkvaed/to-vers-og-et-omkvaed-2024/to-vers-og-et-omkvaed-16122454127</link>
-      <title>Søndag 24. mar. 2024</title>
-      <description>Et program, der med både et sug i hjertet og et glimt i øjet præsenterer musik fra 7 årtier. 
-Fokus er på den gode sang og historiefortælling, som den gennem generationer af sangskrivere har foldet sig ud i netop to vers og et omkvæd.
-Vært: Anne Dorte Michelsen.
-Produceret for DR af Munck Studios København.</description>
-      <pubDate>Sun, 24 Mar 2024 10:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122454127/fb3429a17007228d8168142d16b459dcb81763a087a1e4e064123bc21b917a72.mp3" type="audio/mpeg" length="168675140" />
     </item>
   </channel>
 </rss>
