@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:47:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:47:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,25 @@ Produceret for DR af MonoMono.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122492401</guid>
+      <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-human-intelligence-16122492401</link>
+      <title>Human intelligence</title>
+      <description>Krig bliver udkæmpet med våben og taktik men også med hemmelige kilder og efterretninger. I første afsnit af den nye sæson Krig fortæller Michael Oldschool om at arbejde som human intelligence operatør. Han fortæller den særlige personlighed, man skal have som kildefører, om hvorfor lokale kilder vælger at sætte livet på spil, og om hvordan man passer på dem. Og så fortæller han om en særlig sag, hvor han skulle finde gerningsmanden bag et drab på en dansk soldat i Irak i 2006.  
+
+Vært og tilrettelægger: Martin Tamm Andersen.
+Gæst: Michael Oldschool, efterretningsspecialist og tidl. udsendt til Balkan, Irak og Afghanistan.
+Klip og producer: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+Musik: Mikkel Rønnau.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Wed, 24 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:41:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492401/6449e29aea6119363b3a1b20032ea9fad41b41a7c27c39cf146c15b12e952b3f.mp3" type="audio/mpeg" length="59095134" />
+    </item>
     <item>
       <guid isPermaLink="false">16122393268</guid>
       <link>https://www.dr.dk/lyd/special-radio/krig/krig-2023/krig-hvorfor-gaar-vi-i-krig-16122393268</link>

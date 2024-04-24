@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:47:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:46:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,25 @@
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332410172</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410172</link>
+      <title>Tirsdag 23. apr. 2024</title>
+      <description>Det er skidekoldt i de her dage. Vi holder meget øje med det deprimerende vejr. Når man går ind i sin vejr-app, så er der en temperatur, der hedder 'føles som' - det føler Mikkel Klint og Liva ikke, at andre kan bestemme. Mikkel Rosendal mener til gengæld, at han har det rigtige svar.
+På P3 jagter vi Danmarks største The Minds of 99-fan i den her uge. Vi konkurrerer med de andre programmer - og vi vil selvfølgelig gerne vinde. I dag skal vi have barberet fire af vores finalister ned til to. De skal holde en brandtale!
+Der er kommet en ny banger fra Nordkorea. En sang om Kim Jong Un selvfølgelig. Og den lyder faktisk mistænkelig meget som dansktop. Vi ringer til to dansktop-kendere. Martin og Dennis. MD-Duo hedder de.
+Værter: Liva Manghezi, Mikkel Rosendal og Mikkel Klint Thorius.
+Medvirkende:
+Herdis Preil Damberg, meteorolog, DMI.
+Tinne Hjersing Knudsen, Storbritannien-korrespondent, DR.
+Martin og Dennis, MD-Duo.</description>
+      <pubDate>Tue, 23 Apr 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410172/0c80a311cf2cbcbf1950ca659efb18d42aafd4d472c49d47624f00e466850d94.mp3" type="audio/mpeg" length="254882102" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332410171</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410171</link>
       <title>Mandag 22. apr. 2024</title>
@@ -42,25 +61,6 @@ Medvirkende: Henrik Birck, chef, DR Publicering.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410171/df845c3eb3fd38ec50364ac6b92b9ff76fac1bbde54ee6da71621503cfd63287.mp3" type="audio/mpeg" length="254882102" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410165</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410165</link>
-      <title>Fredag 19. apr. 2024</title>
-      <description>Taylor Swift har droppet sit nye album her til morgen! Vi kan ikke selv høre det - vi sender radio - så vi må få nogle ude i landet til at anmelde det for os.
-Mikkel Klint har simpelthen været skod til at købe aktier. Han har kun tabt penge, og han har endda købt grønt og sødt. Til gengæld kan han se, at våben/forsvarsaktier banker derudaf, og at folk tjener rigtig godt på dem. Men kan man købe aktier i våben og forsvar med god samvittighed og sikre sig, at det ikke går til fjendens fordel? Det spørger vi vores Kapitalister om.
-Hvis du ikke har tjekket den advokat ud, der skal repræsentere Danmark i Sanjay Shah-sagen ud, så gør det. Han er et vildt menneske, og han er en såkaldt silkekåbeadvokat. Hvad det er, det kan DR's erhvervskorrespondent gøre os klogere på.
-Værter:  Liva Manghezi og Mikkel Klint Thorius.
-Medvirkende:
-Jakob Garff, Kapitalisterne, DR.
-Oskar Barner Bernhardtsen, Kapitalisterne, DR.
-Jakob Ussing, erhvervskorrespondent, DR.</description>
-      <pubDate>Fri, 19 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410165/0a22336c0fcde5cc5a4f849204ab29b5ef65added6122933c8dd9017a56a6cc5.mp3" type="audio/mpeg" length="254881526" />
     </item>
   </channel>
 </rss>

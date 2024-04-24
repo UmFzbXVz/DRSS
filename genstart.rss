@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:34:48 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:44:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460095</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-coop-er-ikke-ok-11802460095</link>
+      <title>COOP er ikke OK</title>
+      <description>De skal repræsentere land og by, rig og fattig. Mens de demokratiske tanker udleves, skal de også tjene gode penge og drive en indtjenende forretning. I over 150 år har Coop ville gå forrest for at styrke lokalsamfund, bringe økologi og demokrati til hylderne som fanebærer for den danske andelstanke. Men i lige så lang tid er de præget af splittelse og deres vanskelige balance mellem forening og forretning sender Danmarks første og største andelsforening ud i en dyb krise. Nu er der landet endnu et dystert regnskab, og virksomheden må diske op med en kontroversiel nødplan, der blandt andet betyder, at energiselskabet OK får medejerskab. Er det for vanskeligt at være et demokratisk værdifællesskab og en benhård overskudsforretning?
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 21/4.</description>
+      <pubDate>Wed, 24 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460095/4d459420b27cd1782e7ff986990fca02fa4c882d8ee9a7a985692a113b281cba.mp3" type="audio/mpeg" length="35317894" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460094</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-diddy-do-it-11802460094</link>
@@ -9443,19 +9457,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:25:09</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150081/ad1fd7ac1c963bcc480c8d39fb1b018980b02feb110d8c4f5e7b4ce902d151ac.mp3" type="audio/mpeg" length="36239661" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150080</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-the-dirty-dozen-11802150080</link>
-      <title>The dirty dozen</title>
-      <description>Tolv af de rigeste, europæiske fodboldklubber bryder søndag ud med idéen om en privat European Super League - en liga hvor de største klubber aldrig kan rykke ud, og for altid er sikret store kampe og større indtægter. Men projektet sparker gang i en krig, hvor rasende fans og forbløffede forbund tager kampen op mod klubberne. Og allerede tirsdag sker det utænkelige - projektet falder sammen, 48 timer gammelt. Fodboldekspert Morten Bruun fortæller om forløbet og gør status over fodboldens fremtid.   
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 23 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:27</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150080/b88906c8694ac6f7563abe7d482de19ff1cf12e55493c4d5c65f5645620e89a8.mp3" type="audio/mpeg" length="33776109" />
     </item>
   </channel>
 </rss>

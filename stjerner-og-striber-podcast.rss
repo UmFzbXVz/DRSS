@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:33:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:48:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802438505</guid>
+      <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2024/stjerner-og-striber-valg-i-europa-badegaester-paa-fransk-visit-11802438505</link>
+      <title>Valg i Europa: Badegæster på fransk visit</title>
+      <description>Stjerner og striber er taget til "Europas Hovedstad" Strasbourg, hvor de nuværende medlemmer af Europa-Parlamentet i denne uge mødes for sidste gang inden valget til juni. Hvad er der på spil, hvad har politikerne opnået de seneste fem år, og hvorfor skal de egentligt samles i Strasbourg 12 gange om året?
+Hver onsdag kaster Stjerner og striber sig over EU-valget til juni. Hver fredag handler det om valget i USA.
+Deltagere: Udlandskorrespondent Stéphanie Surrugue, EU-korrespondent Ole Ryborg, korrespondent i Storbritannien Tinne Hjersing Knudsen og EU-reporter Per Bang Thomsen. Tilrettelæggelse: Lasse Berg Sørensen.</description>
+      <pubDate>Wed, 24 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:30:21</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802438505/2d678d7d150b293d48c9a398de72f47a6f835888bc5623e34482fdb2fdd36ac4.mp3" type="audio/mpeg" length="43708472" />
+    </item>
     <item>
       <guid isPermaLink="false">11802437016</guid>
       <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2024/stjerner-og-striber-usa-trump-i-stormy-vejr-11802437016</link>
@@ -1189,18 +1202,6 @@ Deltagere: USA-korrespondent Lillian Gjerulf Kretz, journalist og USA-specialist
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:43:00</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802134019/9f3d9ff6de5e7faad2e89bc313257d7c2e64bca65b3ba49d92d826b02347bb61.mp3" type="audio/mpeg" length="61938477" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802134018</guid>
-      <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2021/stjerner-og-striber-skyldig-skyldig-skyldig-11802134018</link>
-      <title>Skyldig, skyldig, skyldig</title>
-      <description>Derek Chauvin er kendt skyldig i at myrde George Floyd 25. maj sidste år, og han afventer nu sin straf. Ifølge præsident Biden kan dommen være et "gigantisk skridt" i retningen mod retfærdighed i USA. Men hvad kommer der reelt til at ske?
-Deltagere: USA-korrespondent Lillian Gjerulf Kretz, journalist og USA-specialist Lasse Engelbrecht og journalist Lasse Berg Sørensen.</description>
-      <pubDate>Fri, 23 Apr 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:33:43</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802134018/8cdfa474d692e854796dafd0453a595f8cca1e1d83a542085b02506caee9ee3c.mp3" type="audio/mpeg" length="48571245" />
     </item>
   </channel>
 </rss>

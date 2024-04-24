@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:47:59 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:47:27 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -134,18 +134,6 @@
       <itunes:duration>00:22:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192871/ff9ae216668a6af83b734a22903732b0a8d81adc847c227d6255770ebfd967e2.mp3" type="audio/mpeg" length="32751981" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192870</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-aabne-forhold-fryser-jeg-16122192870</link>
-      <title>Åbne forhold - Fryser jeg</title>
-      <description>Er monogami en kollektiv løgn om kærligheden, som begrænser os i at udleve vores fulde potentiale? Er det åbne forhold kærlighedens hellige gral, der kan løse alle vores leverpostejsproblemer? Det taler vi med podcaster Mathias Bundgaard om, for han har gjort sig nogle nyttige erfaringer på området, som dog ikke forhindrer ham i at tilslutte sig Camilla og Barbaras bestyrtelse og benovelse over Martin Kongstads farverige roman, Fryser jeg.</description>
-      <pubDate>Fri, 23 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:32:37</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192870/b82d2b4b778aeb616ee2e8828171b116098c472e60fd099d7dfe1daea94478bf.mp3" type="audio/mpeg" length="46983213" />
     </item>
   </channel>
 </rss>

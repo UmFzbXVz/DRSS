@@ -13,7 +13,7 @@ OBS - der findes en version af serien uden musik og lyddesign med titlen "FALDET
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:33:53 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:43:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -33,6 +33,21 @@ OBS - der findes en version af serien uden musik og lyddesign med titlen "FALDET
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802418505</guid>
+      <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-5-5-bonusepisode-albertes-rejse-til-pittsburgh-11802418505</link>
+      <title>5:5 - Bonusepisode - Albertes rejse til Pittsburgh</title>
+      <description>19-årige Alberte har fået revet sit ungdomsliv midt over af en massiv hjernerystelse. Ligesom Mads søger hun løsningen i USA og nu mødes de for at tale om, hvilken effekt behandlingen har haft på hende.</description>
+      <pubDate>Tue, 23 Apr 2024 15:45:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010005</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:13:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802418505/1c272973624459d395b77a7be99877457857f9b63bd03753c7503469d9eea045.mp3" type="audio/mpeg" length="18821782" />
+    </item>
     <item>
       <guid isPermaLink="false">11802418504</guid>
       <link>https://www.dr.dk/lyd/special-radio/faldet-mysteriet-om-de-rystede-hjerner/faldet-mysteriet-om-de-rystede-hjerner-1/faldet-mysteriet-om-de-rystede-hjerner-4-5-tigerens-oeje-11802418504</link>

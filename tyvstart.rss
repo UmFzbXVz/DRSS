@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:48:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:48:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,26 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450082</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-kunsten-at-springe-langt-13652450082</link>
+      <title>Kunsten at springe langt</title>
+      <description>Er den perfekte baghånd, den rene helflugter eller stangspringerens svæv i luften kunst på linje med malerier, skulpturer eller stor poesi?
+ 
+Kunst og sport er for nogle mennesker en og samme ting - særligt for paraatleten Bjørk Nørremark.
+ 
+For udover at være en dygtig længdespringer, der drømmer om sit andet PL i træk, er hun samtidig kunstner på fuldtid.
+ 
+Derfor spørge Tyvstart hende, om sport er kunst? Og om sport kan inspirere til kunst?
+
+Vært: Emil Schiønning</description>
+      <pubDate>Wed, 24 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450082/60fc0751acf8330531a1571ebbbb20b88cb901896022764fc7b43f4af1c2af4b.mp3" type="audio/mpeg" length="23562870" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450081</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-cykelsportens-forsoemte-foraar-13652450081</link>
@@ -1896,22 +1916,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:52</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350205/c9931038d8c62ebff1b8616153ffbf0cbbd1332dae5ba5c849b3bb1e8534a1c6.mp3" type="audio/mpeg" length="25940827" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350204</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-ny-saebeopera-i-italiensk-fodbold-13652350204</link>
-      <title>Ny sæbeopera i italiensk fodbold</title>
-      <description>Flere højtprofilerede spillere er midt i en grim sag om matchfixing ludomani. Mens det dufter af lange karantæner, fortsætter rygterne, og på sidelinjen står en omdiskuteret paparazzi, der mener at kende til endnu flere skyldige spillere.
-
-Nicklas Degn, der er sportsjournalist med en forkærlighed for italiensk fodbold, fortæller om sæbeoperaen. 
-
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:11</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350204/5f85a1b26333a8f0b65ff7aaed5e160083522171382b78836f470b347d9af5d0.mp3" type="audio/mpeg" length="24957019" />
     </item>
   </channel>
 </rss>

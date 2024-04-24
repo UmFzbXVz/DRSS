@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:48:34 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:48:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -415,19 +415,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:13:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192717/a559f2fb2fef8702e8e643b6381d5ced2bffa32fd9db694882062758ee3b4e95.mp3" type="audio/mpeg" length="19342125" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192716</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-en-paa-sylten-16122192716</link>
-      <title>Én på sylten</title>
-      <description>Satiregutterne er tilbage med jokes der er alt for nemme, Jes snurrer tallerkener, vi skal endnu en gang tale med de døde og så bliver der fundet en vinder i P3's nye store satsning "Én på sylten"
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 23 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:11:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192716/d48c4efade064b6842f74c333d706786b8a884cad54ec8884c55a0eb18f10daa.mp3" type="audio/mpeg" length="17275437" />
     </item>
   </channel>
 </rss>

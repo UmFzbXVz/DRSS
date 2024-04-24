@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:38:32 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:43:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802443133</guid>
+      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-fraekke-jokes-og-stikpiller-til-la-mona-juul-har-indtaget-scenen-11802443133</link>
+      <title>Frække jokes og stikpiller til LA: Mona Juul har indtaget scenen</title>
+      <description>Mona Juul gjorde et nummer ud af at lægge kant til Liberal Alliance, da hun holdt sin første tale som formand for De Konservative i weekenden, og i dag spørger Slotsholmen, hvorfor hun sender stikpiller mod et parti, som hun drømmer om at gå i regering med en dag. Det sker i et interview, hvor den nye K-formand også melder ud, at De Konservative er et grønnere parti med hende i spidsen, end de var under forgængeren Søren Pape Poulsen. Til sidst vender vi situationen i Socialdemokratiet, for den ophedede udlændingedebat har skabt intern uenighed i partiet, og flere socialdemokrater er så utilfredse med tonen, at de er gået sammen om et brev til S-toppen. Og det har vi fået fingre i på redaktionen.
+Værter: Thomas Buhl og Pia Glud Munksgaard.
+Gæster: Mona Juul, formand, Det Konservative Folkeparti, Cathrine Bloch, journalist, DR.
+Tilrettelægger: Jonas Gulmann.</description>
+      <pubDate>Tue, 23 Apr 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:21:45</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802443133/e6ab8b84873b22697f52661029395b4318a532d7262de78ea4ec97cb3d855ba7.mp3" type="audio/mpeg" length="31329675" />
+    </item>
     <item>
       <guid isPermaLink="false">11802443132</guid>
       <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-pludselig-ringede-15-sosser-til-berlingskes-maabende-journalister-11802443132</link>
@@ -773,19 +787,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:23:41</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343242/ad4b0becc61b0aacd15ff4ece3c2d721348ad5748d7e7c62f0876636913754af.mp3" type="audio/mpeg" length="34117147" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802343264</guid>
-      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2023/slotsholmen-venstre-efter-ellemanns-afgang-11802343264</link>
-      <title>Venstre efter Ellemanns afgang</title>
-      <description>Ét afgørende spørgsmål står tilbage efter en dramatisk dag, hvor Jakob Ellemann-Jensen forlod dansk politik: Hvad nu Venstre? For hvordan skal en ny formand rejse et kriseramt parti præget af elendige meningsmålinger og hård intern splittelse om CO2-afgift på landbruget? Det spørger Slotsholmen to politiske eksperter med dybt kendskab til partiet om. 
-Gæster: Jacob Bruun, tidligere rådgiver i Venstre, Jarl Cordua, radiovært og politisk kommentator.
-Vært: Thomas Buhl.</description>
-      <pubDate>Mon, 23 Oct 2023 16:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:32</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343264/7ebab8f3b53e476cdbd51c9f27d83cbbe2e7f1f30d3a68e85639d9e1c8750d64.mp3" type="audio/mpeg" length="32458843" />
     </item>
   </channel>
 </rss>

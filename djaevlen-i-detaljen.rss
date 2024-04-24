@@ -11,7 +11,7 @@ Produceret for DR af Filt Cph.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:47:41 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:47:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret for DR af Filt Cph.</description>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16122492715</guid>
+      <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
+      <title>Teaser: Gennembrud i Hanne With-sagen</title>
+      <description>I denne måned blev en 54-årig mand tiltalt for drabet på Hanne With, der blev dræbt nytårsnat i 1990. Sammen med retskorrespondent Trine Maria Ilsøe gennemgår vi politiets gennembrud i sagen. Hør hele afsnittet i &lt;a href=https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen&gt;DR Lyd&lt;/a&gt;.</description>
+      <pubDate>Wed, 24 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:02:11</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492715/bb61901434936dad0b97638efd2225c8d79fecba44269260e974e4835ff721f5.mp3" type="audio/mpeg" length="3152889" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492714</guid>
       <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>

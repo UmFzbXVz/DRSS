@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:48:28 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:46:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451077</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-wegovy-paa-nettet-unrwa-og-blind-forhandling-11802451077</link>
+      <title>Wegovy på nettet, UNRWA og blind forhandling</title>
+      <description>Emma er bare en ud af mange, der køber slankemidler på de sociale medier - uden om lægen og apoteket.
+FN organisationen UNRWA er blevet undersøgt af den tidligere franske udenrigsminister efter anklager om terrorforbindelser.
+Putter finansministeriet med tallene og tilbageholder et milliardoverskud forud for forhandlinger med kommunerne?   
+Vært: Annika Wetterling.
+Medvirkende: 
+Emma, har købt Wegovy på internettet.
+Henning Urban Dam, Borgmester i Stevns Kommune for Socialdemokratiet.</description>
+      <pubDate>Wed, 24 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451077/4963fbaa4908904a5505e546b7e28c87f9ef8a57452343b23a241efdf4aa12b5.mp3" type="audio/mpeg" length="24785738" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451076</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-gigameget-vind-pres-paa-hamas-og-moskva-marjorie-11802451076</link>
@@ -2182,25 +2200,6 @@ Jan Riber Jakobsen, borgmester Aabenraa Kommune.</description>
       <itunes:duration>00:19:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351193/6eb2a9d4c7d6c9e8b16bdfe6a05367cf196cb26f1a45863a44c051b380f4a327.mp3" type="audio/mpeg" length="27979291" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351192</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-usa-elsker-israel-topgunns-tvivlsomme-tekster-og-pfas-surferen-11802351192</link>
-      <title>USA elsker Israel, TopGunns tvivlsomme tekster og PFAS-surferen</title>
-      <description>Er der en grænse for USA's støtte til den israelske regering? Vi tager et historisk kig på den tætte relation.  
-I dag får Jens Wilhelm og 33 andre surfere fra Thy at vide, om de har forhøjet PFAS i blodet fra havskum på vestkysten. 
-Den danske rap-stjerne TopGunn fjerner en bid af sin sang, hvor han rapper om en syv år gammel voldsdom.
-Vært: Annika Wetterling.
-Medvirkende:
-Steffen Kretz, DRs internationale korrespondent.
-Jens Wilhelm Jørgensen, surfer ved Thy.
-Kristian Karl, musikskribent på Soundvenue.</description>
-      <pubDate>Mon, 23 Oct 2023 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:21:44</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351192/ac7229e26711560958a1bc5e8440a73ffc1040866cdfb2408eadf062d9c26ce1.mp3" type="audio/mpeg" length="31510171" />
     </item>
   </channel>
 </rss>

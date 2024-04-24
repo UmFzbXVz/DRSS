@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:41:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:47:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405172</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405172</link>
+      <title>Tirsdag 23. apr. 2024</title>
+      <description>Præludium:	Myles Birket Foster: Grazioso G-dur.
+Fra det G.T.:	1. Mosebog 17,1-7.
+Salme: 754 "Se, nu stiger solen af havets skød".
+Fra det N.T.:	Romerbrevet 13,11 - 14,1.
+Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
+Salme: 598 "O Gud, du ved og kender".
+Postludium: Battison Haynes: Meditation G-dur.</description>
+      <pubDate>Tue, 23 Apr 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405172/f340caae1687403a6a9a97f60562378fef647afaffb2c5427a7fb04eb7dc4234.mp3" type="audio/mpeg" length="36001576" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405171</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405171</link>
@@ -402,24 +420,6 @@ Postludium: Johannes Brahms: Jesus, livets sol og glæde.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405132/9dd1a1c803c8773d170e75853868e1f114a2c113fe63845f00cab4133b6beb51.mp3" type="audio/mpeg" length="36194533" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405131</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405131</link>
-      <title>Mandag 25. mar. 2024</title>
-      <description>Præludium:	Helmut Walcha: Kristus, du Guds Lam.
-Ord til dagen: af Wolfgang Pannenberg.
-Salme: 194 "O høje råb, hvis lige aldrig hørtes".
-Fra det N.T.:	Lukas 22,1-6.
-Korvers: Nils Greenhow: O Jesus, søde Jesus (tekst: Thomas Kingo 1689).
-Salme: 208 "Skriv dig, Jesus, på mit hjerte".
-Postludium: Georg Böhm: Jesus, dine dybe vunder.</description>
-      <pubDate>Mon, 25 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405131/fb678fc7fc454f8a46d90ef5c1d7f83cd79b1f2b03cebf0b373cfe6ff58bce9c.mp3" type="audio/mpeg" length="36194543" />
     </item>
   </channel>
 </rss>

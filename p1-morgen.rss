@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:47:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:46:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433172</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433172</link>
+      <title>Tirsdag 23. apr. 2024</title>
+      <description>Hvorfor skruer Kina op for sin hjemlige spiontjeneste? Har CO2-afgiften i industrien været en succes? Og hvorfor genopliver Rishi Sunak sin Rwandaplan?
+Dagens værter: Bjarne Steensbeck og Thomas Tjaerandsen.</description>
+      <pubDate>Tue, 23 Apr 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:53</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433172/9dcfbfd8654fc68d6d56e97ea734690bcc3ec2311ec8db74b38b4a05c130e58a.mp3" type="audio/mpeg" length="237443713" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433171</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433171</link>
@@ -1857,20 +1869,6 @@ Dagens værter: Morten Runge og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:04</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333436/fe40a81693d921b85ff5dc6ea472522ad94eddc8c8f5ba542c698ae0d10b93f3.mp3" type="audio/mpeg" length="158503195" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333435</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333435</link>
-      <title>Fredag 27. okt. 2023</title>
-      <description>Regeringen har tilpasset sit koran-lovforslag og en revideret udgave af koranloven er nu landet. Hvorfor har regeringen overhovedet tilpasset deres forslag?
-Kommuner holdes i jerngreb af tech-giganter, Tech-giganter suger penge ud af kommunerne og det har store konsekvenser for kommunernes budgetter. Hvilke konsekvenser kan det have for borgerne, at de her ulovlige kontrakter er indgået? 
-Antallet af døde og sårede i krigen mellem Israel og Hamas opdateres dagligt - og det er voldsomme tal, vi taler om. Kan vi stole på tabstallene i krigen mellem Israel og Hamas?
-Dagens værter: Ole Brink og Søren Carlsen.</description>
-      <pubDate>Fri, 27 Oct 2023 06:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:37</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333435/0efcdee814b3019469fbd90615cebdbbb691d75beefd08be9a58b8b5cd2433b8.mp3" type="audio/mpeg" length="237072475" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:48:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:47:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -36,21 +36,6 @@
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429171/6500f31fda63dea751c9f45cf42d059ca62e1e6d9814a7be9620fdf087c8c101.mp3" type="audio/mpeg" length="168482101" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429165</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-nye-udgivelser-15452429165</link>
-      <title>Nye udgivelser</title>
-      <description>Det er en dag med mange nye udgivelser.
-Selvfølgelig fra årets mest ventede album fra Taylor Swift  "The Tortured Poets Department". 
-Men der er også nye udgivelser fra Vingard og Daisy, Albin Lee Meldau og opsamlinger fra Bruce Springsteen, UB40 og Pink Floyd
-Vært: Rasmus Scharling Toft.</description>
-      <pubDate>Fri, 19 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429165/0e3742f37c99a205b094b34f0576cf8ee13f1e4937c5f4d24994be67f5d56ab8.mp3" type="audio/mpeg" length="168482177" />
     </item>
   </channel>
 </rss>

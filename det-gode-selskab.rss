@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Apr 2024 05:48:37 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 07:48:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -38,19 +38,6 @@ Vært: Charlotte Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428171/2b0c97722416893d14e172f4160bcc49c4e7c50e7fdc8d46827b4956bee2da4a.mp3" type="audio/mpeg" length="168482112" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428165</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-peter-gantzler-15452428165</link>
-      <title>Med Peter Gantzler</title>
-      <description>Siden DR lancerede sin Gensyns-app med gamle arkiv-programmer, har TV-serien Taxa fra 1997 været noget af det mest sete. Taxa-Mike, Peter Gantzler, fortæller om tiden dengang - og nu. 
-Vært: Charlotte Hagen Striib.</description>
-      <pubDate>Fri, 19 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428165/3200fcf3835003916f8fd37577365c60db24ea9e61a8b1793fa4bf25c59c36c6.mp3" type="audio/mpeg" length="168481559" />
     </item>
   </channel>
 </rss>
