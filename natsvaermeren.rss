@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Apr 2024 07:47:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 11:42:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422363211</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-nattens-kompas-12422363211</link>
+      <title>Nattens kompas</title>
+      <description>Intet er givet på forhånd, intet er som i går, eller for lidt siden. Natten er ingenmandsland, natten er en Jætte, en kaosmagt. Natten er rolig, natten er vild og frem for alt er natten er din. Lise Dress, Schumann, Nala Sinephro, Ravel, Kreisler, Jomi Massage, Pia Raug, Hugo Diaz og Martha Agerich lader natten gå sin gang med andre af nattens sjæle.
+Vært: Minna Grooss.
+(Sendt førte gang 23. maj 2023).</description>
+      <pubDate>Wed, 24 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363211/0cb479b288f2f9f99e1b61663b52fcd1b5bb9413cf6404e9e6613d61aaba51f0.mp3" type="audio/mpeg" length="168472385" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463171</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-aaret-rundt-12422463171</link>
