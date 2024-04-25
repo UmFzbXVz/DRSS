@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Apr 2024 11:33:40 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:06:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451078</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-ballade-om-vad-en-ubuden-gaest-og-masseanholdelser-11802451078</link>
+      <title>Ballade om Vad, en ubuden gæst og masseanholdelser</title>
+      <description>Flere socialdemokratiske partifæller tager afstand fra udtalelser om, at indvandrere i nogle tilfælde undergraver det danske samfund.
+En ung norsk mand sniger sig ind til Prins Christians 18 års fødselsdag. Det har et norsk dagblad afsløret.
+Masseanholdelser og demonstrationer. Konflikten mellem Israel og Hamas er rykket ind på universiteter i USA. 
+Vært: Annika Wetterling.
+Medvirkende: 
+Pia Glud Munksgaard, DR's politiske analytiker.
+Ditte Lynge, Journalist hos Ekstrabladet.</description>
+      <pubDate>Thu, 25 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451078/196fa841e0578473d1b7998eac334e4ebe4515960972ba834aa3bcd04c9cb1bd.mp3" type="audio/mpeg" length="24399818" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451077</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-wegovy-paa-nettet-unrwa-og-blind-forhandling-11802451077</link>
@@ -60,7 +78,7 @@ Lena Kitzing, Divisionschef på DTU Wind.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:15:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451076/2593708527bcdbbd6c91bb110f9f29b42f8d445b84b01ad3853f64d5875f9562.mp3" type="audio/mpeg" length="22835979" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451076/eaa9216a359705ee4f18f3771d2b9cbcf324ae19817c20be2b529eb679e7f494.mp3" type="audio/mpeg" length="22835979" />
     </item>
     <item>
       <guid isPermaLink="false">11802451075</guid>
@@ -78,7 +96,7 @@ Frank Nørgaard, formand for teknik- og miljøudvalget i Randers Kommune.</descr
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:17:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451075/5155e209a4822264f898c721749210f3b7d6e9590b78c8afba5ad020c0888946.mp3" type="audio/mpeg" length="24827789" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451075/13a817a9b1685c561f7f4f818d2511566349de2aad46d25058fa38094cf67ddb.mp3" type="audio/mpeg" length="24827789" />
     </item>
     <item>
       <guid isPermaLink="false">11802451074</guid>
@@ -132,7 +150,7 @@ Victor Schrøder, Journalist på DR's udlandsredaktion.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:17:12</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451072/aacd7e674a2080b6eef966674922df45551773759611a3163cc8fcc7615d25e2.mp3" type="audio/mpeg" length="24785742" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451072/39513b36f248c03fb83cda1447fc0ce64f31c61bb1bb18cc0e866c1ba466094d.mp3" type="audio/mpeg" length="24785742" />
     </item>
     <item>
       <guid isPermaLink="false">11802451071</guid>
@@ -2181,25 +2199,6 @@ Annette Lassen, lektor på Institut for Nordiske Studier og Sprogvidenskab.</des
       <itunes:duration>00:22:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351194/9936846be0a7f9e8146078ff5aba8a49fc2ce2c42dae710e70bc8f693ff51075.mp3" type="audio/mpeg" length="32456539" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351193</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-ellemanns-farvel-vand-til-gaza-og-kyst-knaster-11802351193</link>
-      <title>Ellemanns farvel, vand til Gaza og kyst-knaster</title>
-      <description>Venstres formand Jakob Ellemann-Jensen stopper 'fuldstændigt og endegyldigt i dansk politik', men hvorfor gik det så galt?  
-En tredje konvoj med 37 lastbiler lastet med nødhjælp er kommet ind i Gaza. Vi kigger nærmere på hvilken slags nødhjælp, der bliver kørt ind over grænsen. 
-Vestkysten står til at få én milliard til kystsikring, hvis regeringens udspil til en national klimahandlingsplan bliver gennemført. Alt imens skriver Syd og Sønderjylland på flere klimapenge. 
-Vært: Annika Wetterling.
-Medvirkende: 
-Rikke Gjøl Mansø, DRs politiske analytiker.
-Anders Ladekarl, generalsekretær for Dansk Røde Kors.
-Jan Riber Jakobsen, borgmester Aabenraa Kommune.</description>
-      <pubDate>Tue, 24 Oct 2023 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:19:17</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351193/6eb2a9d4c7d6c9e8b16bdfe6a05367cf196cb26f1a45863a44c051b380f4a327.mp3" type="audio/mpeg" length="27979291" />
     </item>
   </channel>
 </rss>

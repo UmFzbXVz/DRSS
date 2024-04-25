@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Apr 2024 11:34:06 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:08:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -420,24 +420,6 @@ Postludium: Johann Sebastian Bach: Air D-dur.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405133/40202c6c9389264bafc149ea0222c662626d2fcb144596a6ddbf96bf0430ba29.mp3" type="audio/mpeg" length="36194531" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405132</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405132</link>
-      <title>Tirsdag 26. mar. 2024</title>
-      <description>Præludium:	Sigfrid Karg-Elert: O Guds lam, uskyldig.
-Fra det G.T.:	Salme 64,2-11.
-Salme: 457 "Du, som gik foran os".
-Fra det N.T.:	Lukas 22,7-13.
-Korvers: Nils Greenhow: O Jesus, søde Jesus (tekst: Thomas Kingo 1689).
-Salme: 467 "Du er vor skat, o Jesus sød".
-Postludium: Johannes Brahms: Jesus, livets sol og glæde.</description>
-      <pubDate>Tue, 26 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405132/9dd1a1c803c8773d170e75853868e1f114a2c113fe63845f00cab4133b6beb51.mp3" type="audio/mpeg" length="36194533" />
     </item>
   </channel>
 </rss>

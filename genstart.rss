@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Apr 2024 11:42:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:08:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460096</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-bongbong-land-11802460096</link>
+      <title>BongBong-Land</title>
+      <description>Fra kommandobroen på et fransk hangarskib har Jonas Parello-Plesner udsigt over det uendelige sydkinesiske hav, da et kinesisk krigsskib pludselig toner frem i horisonten og kalder på radioen. Det er lige her i det sydkinesiske hav, at verdens to supermagter kredser faretruende tæt om hinanden. Ingen åbner ild, men Kina bruger alle metoder til at møve sig ind på sine naboers territorier. Én mand har de seneste år forsøgt at skubbe Kinas sømagt baglæns. Han bliver kaldt BongBong af sin befolkning, og i to år har han været Filippinernes præsident. Nu søger han hjælp hos den amerikanske præsident, så han kan sætte foden ned over for Kina. Men er det en kamp, han kan vinde? Jonas Parello-Plesner, der er direktør for NGO'en Alliance of Democracies, fortæller om den kolde konflikt.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 22/4.</description>
+      <pubDate>Thu, 25 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:21:53</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460096/bceeb038869f4dfd629e010bb7bf59178dcafd4a409aaedc94b07338db1ed53f.mp3" type="audio/mpeg" length="31513984" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460095</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-coop-er-ikke-ok-11802460095</link>

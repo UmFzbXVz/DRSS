@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Apr 2024 11:42:44 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:00:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422363213</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lyden-af-moens-klint-12422363213</link>
+      <title>Lyden af Møns Klint</title>
+      <description>Du sidder i båd under stjernerne. Karlsvognen ligger på kanten af Møns klint, der fra søsiden mister sin højde op mod universets uendelige. Et soundtrack spiller, og natten går over i dag i den lyse forårsnat. 
+Vært: Minna Grooss.
+(Sendt første gang 25. maj 2023).</description>
+      <pubDate>Thu, 25 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363213/703a2b694d3e3c815542dfc3b57c4ea00ba2c49ba6fea49f96bbfd43a76d8eaa.mp3" type="audio/mpeg" length="168468941" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363211</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-nattens-kompas-12422363211</link>
       <title>Nattens kompas</title>
@@ -35,9 +49,9 @@ Vært: Minna Grooss.
       <pubDate>Wed, 24 Apr 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363211/0cb479b288f2f9f99e1b61663b52fcd1b5bb9413cf6404e9e6613d61aaba51f0.mp3" type="audio/mpeg" length="168472385" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363211/f81724d3f5d842679aeff0886510b377f775b8ca8687201ed9ca8b2bca695075.mp3" type="audio/mpeg" length="172801601" />
     </item>
     <item>
       <guid isPermaLink="false">12422463171</guid>

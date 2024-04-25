@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Apr 2024 11:38:48 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:08:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450083</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ol-uret-tikker-for-dansk-roning-13652450083</link>
+      <title>OL-uret tikker for dansk roning</title>
+      <description>Dansk roning og OL-medaljer har i næste 20 år været synonym med hinanden.
+Med Guldfireren i spidsen har de danske kraftmaskiner i årtier tilhørt verdenselite på vandet. 
+Men siden letvægtsfireren blev pillet af programmet efter OL i Rio i 2016, har dansk roning ledt efter en lige så succesfuld medaljeformel.
+Og med under 90 dage til de første rokonkurrencerne ved OL i Paris, er kun én roer kvalificeret til sommerens lege.
+Derfor spørger Tyvstart - på dagen for første startskud ved EM i roning i Ungarn - om dansk roning er i krise, eller om vi stadig kan forvente flere medaljer til OL-samlingen.
+
+Vært: Kresten Mosbæk</description>
+      <pubDate>Thu, 25 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450083/b80d128131f50b6f3c8cf0917f2d56077e3691206e015105a21075334c0dce9b.mp3" type="audio/mpeg" length="28124797" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450082</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-kunsten-at-springe-langt-13652450082</link>
@@ -1901,21 +1919,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:50</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350206/59245be620b5937b6fcdd564316bad1397b50dc6a0531cae15650b196c751303.mp3" type="audio/mpeg" length="24444379" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350205</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-kan-bad-boy-becker-hjaelpe-holger-13652350205</link>
-      <title>Kan 'bad boy Becker' hjælpe Holger?</title>
-      <description>Boris Becker har flere skandaløse forsider end de fleste. Men han har også vundet et hav af grand slam-titler som både spiller og træner, og det kan Holger Rune komme til at nyde godt af i deres kommende samarbejde. 
-
-Becker er hyret som træner året ud, men spørgsmålet er, om det er galt eller genialt at parre to bad boys?
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:52</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350205/c9931038d8c62ebff1b8616153ffbf0cbbd1332dae5ba5c849b3bb1e8534a1c6.mp3" type="audio/mpeg" length="25940827" />
     </item>
   </channel>
 </rss>

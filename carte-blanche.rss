@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Apr 2024 11:34:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:08:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,22 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332427173</guid>
+      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-bedemaend-uheldige-navne-og-fulde-catchfrases-13332427173</link>
+      <title>Bedemænd, uheldige navne og fulde catchfrases</title>
+      <description>I dag runder vi igen TV 2-dokumentaren 'To Kolde Fra Kassen'. Jannik er nemlig blevet kanonglad for de to bedemænd fra Amager, men det er ikke en traditionel biks, de kører. Derfor afholder Jannik anden del af sin quiz: 'professionel bedemandsforretning eller ej'.
+Så skal vi snakke uheldige navne. Venstres nye borgmesterkandidat på Langeland er kommet i modvind, fordi han opførte sig som en klaphat til en havnefest. Til havnefesten truede han blandt andet en kvindelig vagt med et tæskehold, og det hele bliver ikke just bedre af, at han hedder Ulrik Kølle Nielsen.
+Sidst hjælper vi jer derude, der står og mangler en god catchfrase til, når I skal være fulde. At sige 'drikke sig stiv' er for kedeligt - Så hvorfor ikke sige, 'jeg skal ud og ha' en kødskal'.
+Værter: Jannik Schow og Henrik Eriksen.
+Medvirkende: Emil Sanderhoff, naturvejleder.</description>
+      <pubDate>Wed, 24 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427173/08d9c83969db275a5e170b903653aae080fee79988198e81a55e37d56142fed0.mp3" type="audio/mpeg" length="172801605" />
+    </item>
     <item>
       <guid isPermaLink="false">13332427172</guid>
       <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-lisbethernes-og-dorthernes-dag-13332427172</link>
@@ -251,24 +267,6 @@ Værter: Maria Josephine Madsen, Henrik Eriksen og Jannik Schow.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427133/8d715d9777b4686907035afe2f8ce1ec910b5aa6e89f3d3e0866560ed67693db.mp3" type="audio/mpeg" length="172995144" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427132</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-ventemusik-til-1813-jobtiteloptimering-og-jazzblokfloejte-13332427132</link>
-      <title>Ventemusik til 1813, jobtiteloptimering og jazzblokfløjte</title>
-      <description>Hvis man ringer til 1813, så er der som regel ventetid i telefonen. Jannik oplevede forleden at vente i 40 minutter, og mens man venter, hører man et meget kedsommeligt musikstykke. Det synes vi ikke, at sangen er god nok til. Derfor vil vi hjælpe 1813 med at finde en ny ventetone i samarbejde med Sofie de Bretteville Olsen, medlem af Regionsrådet i Hovedstaden og Sundhedsudvalget. 
-Da Jojo var syg i forrige uge, startede Jannik og Henrik en ny service op på programmet, nemlig 'jobtiteloptimeringen'. Idéen er, at vi hjælper dig, hvis du har en jobtitel, som du synes er blevet lidt kedelig - så spiffer vi den op. Er du kantineleder? Så er du måske i virkeligheden massebespisningschef. 
-Sidst skal vi en tur på højskole. Maise fra Nørgaards Højskole har nemlig kontaktet os på Instagram, fordi de på hendes højskole skal lave et teaterstykke, og de får point på skolen, hvis de laver fed PR for deres stykke. Det vil hun så bruge os til. Det lød lidt kedeligt, indtil Maise sendte en lydbesked med en beskrivelse af stykket, som blandt andet indeholder jazzblokfløjte. Vi prøver derfor at få dem til at spille lidt for os.  
-Medvirkende: 
-Sofie de Bretteville Olsen, medlem af Regionsrådet i Hovedstaden og Sundhedsudvalget.
-Maise Lesman Alling, Højskoleelev.
-Værter: Maria Josephine Madsen, Henrik Eriksen og Jannik Schow.</description>
-      <pubDate>Tue, 26 Mar 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427132/b2807f93a3c93cbc39b931a84b3018c0f25589a0bcd1d0d89ef54b52d23e1b20.mp3" type="audio/mpeg" length="172994569" />
     </item>
   </channel>
 </rss>

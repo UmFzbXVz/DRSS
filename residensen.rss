@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Apr 2024 11:34:06 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:08:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421173</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-guzo-13332421173</link>
+      <title>Med GUZO</title>
+      <description>Residensens jagt på Danmarks største The Minds of 99-fan spidser til, og i dag skal semifinalen stå, hvor Tobias, Nikolaj og Maria dyster med følelserne ude på tøjet. GUZO lægger vejen forbi studiet og giver en rundtur i en campingvogn på Anholt.
+Gæst i studiet: August 'GUZO' Møller Fogh.</description>
+      <pubDate>Wed, 24 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421173/ffcb0b3e08a0a0fb08f7755e3faea815e33050985f92ba2f34a294dc59aef2a8.mp3" type="audio/mpeg" length="172802165" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421172</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-residensen-skal-finde-sin-ung-kniv-skarpe-kandidat-til-the-minds-of-99-konkurrencen-13332421172</link>
@@ -213,20 +226,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421133/231e6d4b3998d46f9672681d343e5444c98453ecee5c819ef31b2a6384a7bc21.mp3" type="audio/mpeg" length="172994569" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421132</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-kvinder-synger-bedre-end-maend-eller-hvad-13332421132</link>
-      <title>Kvinder synger bedre end mænd - eller hvad?</title>
-      <description>Det er hot take tirsdag, og dagens kontroversielle holdning leveres af Residensens egen praktikant Esmeralda. Derudover kæmper Residensen en brag kamp for at få en musiktradition med på UNESCOS verdensarv, efter Berlin har fået techno tilføjet til listen. Nemlig det vi alle sammen elsker: at skråle "LÅLÅLÅLÅLÅ" til koncerter. Til at hjælpe med netop det, har vi fået fat på en af dem der banede vejen for at få Danmarks indtil videre eneste immaterielle kulturarv på listen. Velkommen indenfor! 
-Tlf. gæst: Søren Nielsen. 
-Tlf. gæst: Bo Huniche.</description>
-      <pubDate>Tue, 26 Mar 2024 12:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421132/aa2db5b2afe76e15a3f44fc999205c5a4e9a90e735e2f92cefff40c13956b2b5.mp3" type="audio/mpeg" length="172994549" />
     </item>
   </channel>
 </rss>
