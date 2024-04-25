@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 06:08:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:26:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428174</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-meditativt-storvaerk-fra-mesterlig-brite-18452428174</link>
+      <title>Meditativt storværk fra mesterlig brite</title>
+      <description>Ugens album på P8 kommer i denne uge fra klarinetist og fløjtetist Shabaka Hutchings. Vi kigger nærmere på "Perceive Its Beauty, Acknowledge Its Grace".
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked.</description>
+      <pubDate>Thu, 25 Apr 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428174/636d3b0862f820f767ed32ac16ae556772c01287a58eba4ba195edb83eacb3e2.mp3" type="audio/mpeg" length="252001611" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428173</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-solitude-18452428173</link>
