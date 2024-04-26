@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:26:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450084</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-det-forurenede-dopingkoekken-13652450084</link>
+      <title>Det forurenede dopingkøkken</title>
+      <description>Et køkken, en særlig hjertemedicin og 23 kinesiske svømmere har kastet Det Internationale Antidopingagentur, WADA, ud i en gigantisk krise.
+For få dage siden afslørede det tyske medie ARD, at WADA - trods positive dopingprøver - valgte ikke at udelukke 23 kinesiske svømmere fra OL i Tokyo i 2021, hvor halvdelen efterfølgende vandt medaljer.
+Afsløringerne har medført massiv kritik og vrede mod de internationale dopingbekæmpere, som blandt andet bliver anklager for at stikke en kniv i ryggen på alle dem, der kæmper for en ren sportsverden.
+Derfor spørger Tyvstart i dag, om vi kan have tillid til WADA, eller om det er tid til en reform af det internationale antidoping samarbejde.
+Vært: Kresten Mosbæk.</description>
+      <pubDate>Fri, 26 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450084/e60825cdf9593ab68f67044baf0e66cd34133485a66fe7a1b713cb92782e900e.mp3" type="audio/mpeg" length="27733686" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450083</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ol-uret-tikker-for-dansk-roning-13652450083</link>
@@ -1903,22 +1919,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350207/9c03eae633e2aa2bb8bbeb9eacbd2e22501bca0cc5e8b356e7147ddf7333fd70.mp3" type="audio/mpeg" length="27180379" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350206</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-armbrydernes-konge-kalder-paa-tronskifte-13652350206</link>
-      <title>Armbrydernes konge kalder på tronskifte</title>
-      <description>Landets stærkeste mænd og kvinder samles i weekenden til DM i armbrydning. Tonni Christensen, der er mange gange dansk mester, har viet sit liv til sporten og håber at få bank til mesterskaberne. Det vil nemlig give mere blod på tanden for nye atleter. 
-
-I dagens afsnit kan du komme med en tur til armbrydningens vilde verden, hvor store muskler afgør kampe på få sekunder.
-
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:50</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350206/59245be620b5937b6fcdd564316bad1397b50dc6a0531cae15650b196c751303.mp3" type="audio/mpeg" length="24444379" />
     </item>
   </channel>
 </rss>

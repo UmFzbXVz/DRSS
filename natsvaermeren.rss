@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:26:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463174</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-krig-og-poesi-12422463174</link>
+      <title>Krig og poesi</title>
+      <description>Behøver en voldsom film have voldsom musik? Selvfølgelig ikke. Den biografaktuelle Civil War har et soundtrack, som med sine svævende toner skaber en stærk poetisk kontrast til den heftige handling og i aftenens udgave af Natsværmeren kigger vært Peter Albrechtsen nærmere på komponisterne Ben Salisbury og Geoff Barrow. Og spiller andre smukke toner af både Elgar og Shostakovich. 
+Vært: Peter Albrechtsen.</description>
+      <pubDate>Fri, 26 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463174/a7e127442edf85563f1cf8b3d2486378bae31cb43879b962b20da580578cff8a.mp3" type="audio/mpeg" length="168477578" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363213</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lyden-af-moens-klint-12422363213</link>
       <title>Lyden af Møns Klint</title>
@@ -35,9 +48,9 @@ Vært: Minna Grooss.
       <pubDate>Thu, 25 Apr 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363213/703a2b694d3e3c815542dfc3b57c4ea00ba2c49ba6fea49f96bbfd43a76d8eaa.mp3" type="audio/mpeg" length="168468941" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363213/38bcf1ed5c9c98928d67f0d90944b49db8fbcb06bcad0d75773a9eed355ddb6b.mp3" type="audio/mpeg" length="172801613" />
     </item>
     <item>
       <guid isPermaLink="false">12422363211</guid>
@@ -413,18 +426,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:57:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463133/d39205cb1c7de6f0e7a5a6b370b6ca65ee961013a865de50a1a799165eed0555.mp3" type="audio/mpeg" length="168666427" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463132</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-smeltet-i-melodi-12422463132</link>
-      <title>Smeltet i melodi</title>
-      <description>"Havet står så blankt og stille, himlen spejler sig deri, som de hjertet kysse ville, smelte det i melodi." H.C. Andersens fine ord bliver sunget undervejs i aftenens Natsværmeren, hvor Peter Albrechtsen sørger for melodismeltende musik af mange forskellige slags. Nattehimlen spejler sig i både skønhed og suspense.</description>
-      <pubDate>Wed, 27 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463132/451b1febc708b07f49d0fc32b5175a4dffcec0e7e24354884578651447a9e8c2.mp3" type="audio/mpeg" length="168668806" />
     </item>
     <item>
       <guid isPermaLink="false">12422263112</guid>

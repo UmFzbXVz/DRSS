@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:26:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,25 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451079</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-fridagsprotest-tykke-klimatraeer-og-tiktok-til-salg-11802451079</link>
+      <title>Fridagsprotest, tykke klimatræer og TikTok til salg</title>
+      <description>Tykkere træer får Danmark nærmere klimamålene, viser nye beregninger. Kan det få regeringen til at slække på klimaambitionerne? 
+I USA har TikTok nu fået et år til at sælge sin amerikanske afdeling. Ellers så bliver appen forbudt.
+I protest mod regeringen holder flere virksomheder fri på den nu hedengangne Store Bededag.  
+Vært: Annika Wetterling.
+Medvirkende:
+Filip Knaack Kirkegaard, DR's klimaanalytiker.
+Mike Goltermann Lassen, adm. direktør i Sunflex Solar Systems.
+Peter Christian Bech-Nielsen, politisk redaktør på mediet Version2.</description>
+      <pubDate>Fri, 26 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451079/edb3a2cdbeb34f42b8185a0cc532b361c8af9eba90240ff2f89aa446c399aee7.mp3" type="audio/mpeg" length="23394703" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451078</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-ballade-om-vad-en-ubuden-gaest-og-masseanholdelser-11802451078</link>
@@ -2180,25 +2199,6 @@ Theis Molin, undersøgende journalist på Zetland.</description>
       <itunes:duration>00:21:40</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351195/5505bec034265d04c07ffbce80a63e0dd34b23d2741e5a84275f90ee608e138f.mp3" type="audio/mpeg" length="31409371" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351194</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-hamas-bodycams-et-bornholmsk-vindmoelleafslag-og-ligestillingsutopi-11802351194</link>
-      <title>Hamas' bodycams, et bornholmsk vindmølleafslag og ligestillingsutopi</title>
-      <description>Omkring 100 journalister fra hele verden bliver inviteret til israelsk visning om Hamas' angreb d. 7. oktober, hvor 1400 mennesker mistede livet. Med til visningen var danske Jotam Confino. 
-Lokale bornholmere har i fire år arbejdet for at sætte vindmøller op. Nu er der kommet et rigtig surt afslag. 
-Islandske kvinder og non-binære islændinge strejker i ligestillingens navn, men hvorfor pokker strejker de, når de er verdensmestre i ligestilling?
-Vært: Annika Wetterling.
-Medvirkende: 
-Jotam Confino, freelancejournalist for blandt andre CBS og BBC
-Helle Munk Ravnborg, forperson for Bornholm Havvind
-Annette Lassen, lektor på Institut for Nordiske Studier og Sprogvidenskab.</description>
-      <pubDate>Wed, 25 Oct 2023 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351194/9936846be0a7f9e8146078ff5aba8a49fc2ce2c42dae710e70bc8f693ff51075.mp3" type="audio/mpeg" length="32456539" />
     </item>
   </channel>
 </rss>

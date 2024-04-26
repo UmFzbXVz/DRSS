@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:25:57 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429174</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-vingard-save-your-worries-15452429174</link>
+      <title>Vingard 'Save Your Worries'</title>
+      <description>Vingard er med i studie 5 og præsenterer sit nye udspil 'Save Your Worries'.
+Vært Rasmus Scharling Toft.</description>
+      <pubDate>Thu, 25 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429174/d9232f25e02be41aeba3e9d24894913bc1ae839ee06f1929db94a0d5d339f74f.mp3" type="audio/mpeg" length="168482032" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429173</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429173</link>

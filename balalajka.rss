@@ -9,7 +9,7 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:25:57 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332426174</guid>
+      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-13332426174</link>
+      <title>Torsdag 25. apr. 2024</title>
+      <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
+Værter: Anton Ringdal og Mathilde Muus.</description>
+      <pubDate>Thu, 25 Apr 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426174/5d7cc15cc4dcc5a09fab09e666594679c238425e268186ea4764a0d361bed670.mp3" type="audio/mpeg" length="172801557" />
+    </item>
     <item>
       <guid isPermaLink="false">13332426173</guid>
       <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-frederik-vad-tricket-og-den-moderne-pusher-13332426173</link>

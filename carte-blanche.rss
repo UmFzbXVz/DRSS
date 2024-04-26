@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:25:58 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,23 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332427174</guid>
+      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-veganere-paa-hospitalet-sure-swifties-og-anders-hemmingsen-13332427174</link>
+      <title>Veganere på hospitalet, sure Swifties og Anders Hemmingsen</title>
+      <description>Er det en menneskeret at blive tilbudt vegansk mad, når man er indlagt på danske hospitaler? Det skal i dag afgøres i retten i Hillerød.
+Vi snakker med regionsrådspolitiker Sofie De Bretteville Olsen om sagen og om en mulig løsning.
+Musikmagasinet Paste Magazine har lavet en anonym anmeldelse af Taylor Swifts nye album, fordi de frygter for trusler fra Taylor Swifts meget engagerede fans - the swifties. Derfor snakker vi, hvilke andre fans fra øvrige musikere vi ville frygte.
+Sidst snakker vi om Anders Hemmingsen. Han har delt en video med en kvinde, som mener, at man kan have kontakt med træer. I et interview i Go'aften Live bliver han spurgt, om han delte det med sine 1.3 millioner følgere for ad grine af eller med kvinden. Og det er et liiiidt tveydigt svar, vi får serveret.
+Medvirkende: Sofie De Bretteville Olsen, Regionsrådspolitiker.
+Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
+      <pubDate>Thu, 25 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427174/0e415e23c48d266b089a193c9c2744ce4ba81b7fe028c814ccc468fa6598e442.mp3" type="audio/mpeg" length="172801612" />
+    </item>
     <item>
       <guid isPermaLink="false">13332427173</guid>
       <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-bedemaend-uheldige-navne-og-fulde-catchfrases-13332427173</link>
@@ -253,21 +270,6 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427142/f02d4f5a101e48ed6335567c6419820cd59aae201bc8b5c74d8ef8b30c441c8f.mp3" type="audio/mpeg" length="172994573" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427133</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-musik-til-1813-og-daarlige-gaekkebreve-13332427133</link>
-      <title>Musik til 1813 og dårlige gækkebreve</title>
-      <description>Ventemusikken på Hovedstadens akuttelefon 1813 er kedelig. Det fandt Jannik ud af i mandags, fordi han ventede i telefonkøen i 40 minutter, og vi har sat os for at finde på noget bedre.  
-Vi kigger ind i vores egen navle, og mærker efter, hvad vi godt kunne vi godt tænke os at lytte til. 
-Så skal vi snakke påske. Jannik har nemlig modtaget et gækkebrev med de famøse ord 'Mit navn det står med prikker, pas på det ikke stikker'. Det er en klassisk gækkebrevsætning, men også meget brugt. Derfor giver vi i dag et påskeæg til en lytter, der sender os det bedste påskerim i indbakken. 
-Værter: Maria Josephine Madsen, Henrik Eriksen og Jannik Schow.</description>
-      <pubDate>Wed, 27 Mar 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427133/8d715d9777b4686907035afe2f8ce1ec910b5aa6e89f3d3e0866560ed67693db.mp3" type="audio/mpeg" length="172995144" />
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:17:47 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:37:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460097</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-befaengte-kryb-11802460097</link>
+      <title>Befængte kryb</title>
+      <description>Det kribler i skovbundene, krabler i det høje, flagrende græs. Bittesmå, ottebenede kryb venter i skjul, angriber lydløst og uden byttet opdager det, suger de sig fast og overfører potentielt farlige vira. De senere år har flere flåter med TBE - centraleuropæisk hjernebetændelse - fundet vej til Danmark. Fra at de var isoleret på Bornholm, er de sprunget om bord på fugle og har fløjet landet rundt. Særligt har de befængte kryb slået sig ned i Nordsjælland, hvor flere er blevet ramt af altoverskyggende hovedpine, kvalme og i værste tilfælde hjernetåger og varige lammelser. I dagens Genstart fortæller Nanna Skaarup Andersen, speciallæge i klinisk mikrobiologi, om skovens usynlige trussel.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 23/4.</description>
+      <pubDate>Fri, 26 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460097/e262e8e4dca4dd0ccc913b12a471c4e7ae36f8ed78ef3b99f78bf0a588e92ae5.mp3" type="audio/mpeg" length="31772611" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460096</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-bongbong-land-11802460096</link>
@@ -9458,19 +9472,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:24:18</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150082/a50a86655ef5739a4e54906c4eea2a2e59b16a807f9872f4156e3558a30df7e4.mp3" type="audio/mpeg" length="35013933" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150081</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-mortens-svanesang-11802150081</link>
-      <title>Mortens svanesang?</title>
-      <description>I mere end fem år har Morten Messerschmidt fastholdt sin uskyld i den såkaldte Meld- og Feld-sag.  Men nu barsler bagmandspolitiet med en tiltale af Messerschmidt for både misbrug af 100.000 kroner i EU-midler - og for dokumentfalsk. Anklagemyndigheden hævder, at en EU-støttet konference, som Messerschmidt arrangerede, aldrig fandt sted. Men det gjorde i stedet Dansk Folkepartis sommergruppemøde. Hvad har anklageren på Messerschmidt? Mathias Friis, der er undersøgende journalist i DR, fortæller, hvad der skete på sommergruppemødet.
-Vært: Knud Brix.</description>
-      <pubDate>Sun, 25 Apr 2021 20:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:09</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150081/ad1fd7ac1c963bcc480c8d39fb1b018980b02feb110d8c4f5e7b4ce902d151ac.mp3" type="audio/mpeg" length="36239661" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ Vært: Jørgen de Mylius.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:23:27 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,19 @@ Vært: Jørgen de Mylius.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452423174</guid>
+      <link>https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423174</link>
+      <title>Torsdag 25. apr. 2024</title>
+      <description>Musik og historier fra pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+      <pubDate>Thu, 25 Apr 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452423174/b4e0a7dae3f19973dc4d6e15a0306972e75f4f5588dd6907f2cc2316c7cce4f1.mp3" type="audio/mpeg" length="79201396" />
+    </item>
     <item>
       <guid isPermaLink="false">15452423173</guid>
       <link>https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423173</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:23:16 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -420,24 +420,6 @@ Postludium: Sigfrid Karg-Elert: Af dybsens nød, o Gud, til dig.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405136/b489e7d546c1459567bcdb5778eb089293adaa7312295878c3946a6cbf0c3031.mp3" type="audio/mpeg" length="36194535" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405133</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405133</link>
-      <title>Onsdag 27. mar. 2024</title>
-      <description>Præludium:	Johann Sebastian Bach: Christe, du Lamm Gottes, BWV 619.
-Fra det G.T.:	Salme 116,5-15.
-Salme: 192 "Hil dig, frelser og forsoner".
-Fra det N.T.:	Lukas 22,14-23.
-Vekselsang:	Han blev såret for vore overtrædelser.  (Esajas 53, 5 &amp; Sl. 41, 8).
-Salme: 458 "Zion, pris din saliggører".
-Postludium: Johann Sebastian Bach: Air D-dur.</description>
-      <pubDate>Wed, 27 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405133/40202c6c9389264bafc149ea0222c662626d2fcb144596a6ddbf96bf0430ba29.mp3" type="audio/mpeg" length="36194531" />
     </item>
   </channel>
 </rss>

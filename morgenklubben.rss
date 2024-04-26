@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:26:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122443175</guid>
+      <link>https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben-2024/morgenklubben-16122443175</link>
+      <title>Fredag 26. apr. 2024</title>
+      <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en "Kropslig Kickstarter" eller en "Hjertestartersang" på morgenklubben@dr.dk</description>
+      <pubDate>Fri, 26 Apr 2024 05:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122443175/8bb539a780a35ea3159ec390a8a597c17e37af305bfaea8eea4e2191b97d999b.mp3" type="audio/mpeg" length="82081514" />
+    </item>
     <item>
       <guid isPermaLink="false">16122443174</guid>
       <link>https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben-2024/morgenklubben-16122443174</link>
@@ -72,18 +84,6 @@
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122443171/1be01473d3da55bb28373494881731b0aa88f979cfffe508a569527071166a0e.mp3" type="audio/mpeg" length="82081514" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122443167</guid>
-      <link>https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben-2024/morgenklubben-16122443167</link>
-      <title>Søndag 21. apr. 2024</title>
-      <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en "Kropslig Kickstarter" eller en "Hjertestartersang" på morgenklubben@dr.dk</description>
-      <pubDate>Sun, 21 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122443167/84fcdd1e1a91b27c55658b0dbed46a5e2d05395b93fcb2b6a4056364a217b55c.mp3" type="audio/mpeg" length="82081514" />
     </item>
   </channel>
 </rss>

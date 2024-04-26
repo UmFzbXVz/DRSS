@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Apr 2024 18:26:25 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:48:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -1155,19 +1155,6 @@ Værter: Henrik Povlsen og Jesper Holm.</description>
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122347434/897edf8b702134da5c435a7dbb2117534f319aa6a86dec15278c27ca5157138c.mp3" type="audio/mpeg" length="82081819" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122347433</guid>
-      <link>https://www.dr.dk/lyd/p4/povlsen-og-holm/povlsen-og-holm-2023/povlsen-og-holm-16122347433</link>
-      <title>Onsdag 25. okt. 2023</title>
-      <description>Povlsen &amp; Holm hjælper P4-lytterne igennem den sidste del af arbejdsdagen med humor, underholdning og lytterinteraktion.
-Værter: Henrik Povlsen og Jesper Holm.</description>
-      <pubDate>Wed, 25 Oct 2023 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122347433/0f6b0b17de714c7a89a1ea6c97ee75219fac49fb4925018b26a4db8ff3f598fc.mp3" type="audio/mpeg" length="82081819" />
     </item>
   </channel>
 </rss>
