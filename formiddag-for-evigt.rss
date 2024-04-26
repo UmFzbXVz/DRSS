@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 07:48:13 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 16:30:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452424175</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-say-a-little-prayer-18452424175</link>
+      <title>Say a little prayer</title>
+      <description>Denne fredag siger vi både goddag og farvel til store bededag. Evigheden kommer med en musikalsk håndsrækning til stressede forældre, der skal arbejde, mens skolerne holder lukket, og så kan du også høre musik fra Keith Jarrets hemmelige debutplade.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Fri, 26 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424175/66b82572df21d1bcbfae1170167f58e2a183a5a86e84ae36629284d281b34d3b.mp3" type="audio/mpeg" length="168482191" />
+    </item>
     <item>
       <guid isPermaLink="false">18452424174</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-besoeg-af-duke-ellingtons-barnebarn-18452424174</link>

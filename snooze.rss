@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 07:48:12 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 16:30:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428175</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-ellingtons-barnebarn-gaester-dr-big-band-18452428175</link>
+      <title>Ellingtons barnebarn gæster DR Big Band</title>
+      <description>På mandag har Duke Ellington 125 års dag, og i den anledning fylder DR Big Band Koncerthuset med toner fra den legendariske big band-mester og har endda inviteret hans barnebarn Paul Ellington til koncerten. Snooze tager denne morgen temperaturen på jazzens Mozart.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Medvirkende: Paul Ellington, Duke Ellingtons barnebarn.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked.</description>
+      <pubDate>Fri, 26 Apr 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428175/02e51b13cfc59e2ac2dd4611889bd6a4b6116b66e718d1adcc08412e792ad101.mp3" type="audio/mpeg" length="252001610" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428174</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-meditativt-storvaerk-fra-mesterlig-brite-18452428174</link>

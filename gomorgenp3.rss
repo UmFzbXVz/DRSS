@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 07:48:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 16:30:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410175</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410175</link>
+      <title>Fredag 26. apr. 2024</title>
+      <description>- fokuserer på de ting, der betyder noget for dig, dit liv og din hverdag.
+Stå op med Liva Manghezi, Mikkel Rosendal og Mikkel Klint Thorius, som sender dig både opløftet og oplyst ud i dagen.</description>
+      <pubDate>Fri, 26 Apr 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410175/38aadc8d91c8b47b12e132fe5d79753ed0a5f05a0db7c59573ff3806846c9141.mp3" type="audio/mpeg" length="254882102" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410174</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410174</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 07:35:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 16:30:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452435175</guid>
+      <link>https://www.dr.dk/lyd/p6beat/farrock-paa-p6-beat/farrock-paa-p6-beat-2024/farrock-paa-p6-beat-skat-skat-skat-og-atter-skat-men-hvordan-goer-man-16452435175</link>
+      <title>Skat skat skat og atter skat - men hvordan gør man?</title>
+      <description>Skat skat skat og atter skat - men hvordan gør man? Vi ved det tydeligvis ikke, men der skal betales tilbage, og det er også fint nok. Og så samtaler vi også om, hvornår man er rigtige venner, og det er, hvis man kan blive vanvittige på hinaden og bliver gode venner igen, ligesom søskende.</description>
+      <pubDate>Fri, 26 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452435175/0d7e53bda4b979f6f14f8f8ce5bd69809e54d2b165aca893db4cd31c1ba3de64.mp3" type="audio/mpeg" length="168482110" />
+    </item>
     <item>
       <guid isPermaLink="false">16452435165</guid>
       <link>https://www.dr.dk/lyd/p6beat/farrock-paa-p6-beat/farrock-paa-p6-beat-2024/farrock-paa-p6-beat-curlingforaeldre-2-0-16452435165</link>
