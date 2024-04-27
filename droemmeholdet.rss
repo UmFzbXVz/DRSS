@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 16:30:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -91,21 +91,6 @@ Til sidst ønsker Oline sig at låne en OL-medlaje. Hvordan gør vi lige det? Ly
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425172/e4669dab2b11e10653230298ef7c36881d245572c5403b0b6ee6e152638c7610.mp3" type="audio/mpeg" length="254881610" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425171</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-tomme-daaser-nissernes-oe-og-droemmeholdets-the-minds-of-99-kandidat-13332425171</link>
-      <title>Tomme dåser, Nissernes ø og Drømmeholdets The Minds of 99-kandidat</title>
-      <description>Hvis vi ikke skal opfylde din drøm og har et telefonnummer, så skal du ikke sende det til p3drommer@dr.dk!
-Én, der har sendt sin drøm ind til os, er Tobias. Tobias skal nemlig bruge 1000 tomme pepsi-dåser til et stort bonsai-træ, han vil lave ud af ståltråd. Hvis det ikke giver mening, så bliver du nok nødt til at lytte med.
-Irwin søger Flemming Jensen, men vi kan muligvis kun finde en Flemming Nielsen, som dog ligner Flemming Jensen.
-Og til sidst... Det største...  Det vildeste: Vi skal finde Drømmeholdets kandidat til P3's store The Minds of 99-fan. Drømmeholdets fælles kandidat. De skal quizzes, klargøres og trænes. Drømmeholdet VIL vinde på fredag!</description>
-      <pubDate>Mon, 22 Apr 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425171/cea7393be7c66fa721f51077cae82413d768bf81e2a835bbfae1b36f869751e0.mp3" type="audio/mpeg" length="254882182" />
     </item>
   </channel>
 </rss>

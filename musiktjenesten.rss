@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 16:30:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -60,18 +60,6 @@
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428172/f3f662035a6a78314495bf180819f89fa7fc65ba3785783eb652abf11eb60735.mp3" type="audio/mpeg" length="168482168" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452428171</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten-2024/musiktjenesten-16452428171</link>
-      <title>Mandag 22. apr. 2024</title>
-      <description>Musiktjenesten giver dig dagens bedste musikhistorier og gør din eftermiddag hyggelig og sjov - og selvfølgelig fuld af god musik! Vi tester din musikalske viden i quizzer og finder de bedste sange inden for forskellige temaer sammen med dig. Velkommen indenfor!</description>
-      <pubDate>Mon, 22 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428171/c0efdedf542ce4bd096cb9c5e757a0bf94e4d12ebffc6f1ed885ce1947aeeb84.mp3" type="audio/mpeg" length="168482168" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 16:15:30 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410175</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410175</link>
+      <title>Fredag 26. apr. 2024</title>
+      <description>Hvilke konsekvenser kan det have at hæve abortgrænsen? Hvad betyder tillidsbruddet ift. afskaffelsen af St. Bededag for Socialdemokratiet og fagbevægelsen? Hvad er det problematiske i, at der ikke længere er krav til landbruget om, at 4 procent af deres landbrugsareal skal stå i brak?
+Dagens værter er Bjarne Steensbeck og Cecilie Lange.</description>
+      <pubDate>Fri, 26 Apr 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:26:33</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410175/4437023f65f2ab8439587308bb39b28ddab6c77b9c6348d5d7f6cee27155f534.mp3" type="audio/mpeg" length="124638777" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410174</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410174</link>
@@ -2464,38 +2476,6 @@ Dagens værter: Anne Kirstine Hermann og Pernille Øhlenschlæger Rudbæk.</desc
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:09</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310442/915fdfd17c78dbf54f2dc56fd7a3e8e9c5c41f69085ef94405a65cb6599da9df.mp3" type="audio/mpeg" length="79440859" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304441</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304441</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Ole Brink.
-Og i dagens udgave af Orientering Udsyn:
-Det er de helt store ord og begreber, som krigen i Gaza har fået manet frem, og i debatten flyver beskyldningerne frem og tilbage. Men hvornår er det egentlig korrekt at bruge ord som "krigsforbrydelser", "etnisk udrensning" - eller måske ligefrem "folkedrab"?
-Trump er på mange måder en usædvanlig præsidentkandidat. Og lige nu står han oven i købet anklaget i adskillige retssager, han får bøder for at tale grimt om dommere og vidner - alligevel går han tilsyneladende frem i meningsmålingerne. Kan retssager om svindel og bestikkelse virkelig hjælpe ham tilbage i Det Hvide Hus?
-Gæster: Marc Schack, lektor i folkeret og national sikkerhed ved Københavns Universitet og Rasmus Søndergaard, seniorforsker ved Dansk Institut for Internationale Studier.
-Tilrettelæggelse: Inge Scheel Kelstrup og Nickolaj Sander.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Mon, 30 Oct 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:12</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304441/e664a3e3d8ddcbb7e134d11fc577948d962fa44fe3e93650d927b704021e6453.mp3" type="audio/mpeg" length="79503067" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310441</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310441</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Ole Brink.</description>
-      <pubDate>Mon, 30 Oct 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:46:30</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310441/ac7758401e8f4d505ae2bdc7e7b55d31e4aebd7e9b862b984901481fb908a0e7.mp3" type="audio/mpeg" length="66979099" />
     </item>
   </channel>
 </rss>

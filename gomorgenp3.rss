@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 16:30:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -85,24 +85,6 @@ Martin og Dennis, MD-Duo.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410172/0c80a311cf2cbcbf1950ca659efb18d42aafd4d472c49d47624f00e466850d94.mp3" type="audio/mpeg" length="254882102" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410171</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410171</link>
-      <title>Mandag 22. apr. 2024</title>
-      <description>Så blev det mandag. 
-Liva har set serie i weekenden, nærmere bestemt 'Orkestret' på DRTV. Hun er rigtig sur over, at streamingtjenesterne ikke kan blive enige om, hvornår og hvor meget de udgiver af afsnit. Hun vælger at konfrontere chefen for publicering i DR.
-Mathias spiser pinden på sin slikkepind. Er han alene om det? Det finder vi ud af i 'Du er ikke alene'.
-Mona Juul er ny formand for Konservative. Hun var på talerstolen til landsmødet i går, og der gik stand-up i den. Og absurd lange klapsalver.
-Dagens store basker er, at vi på P3 netop i dag har sat gang i en konkurrence. Det er en konkurrence, der både er intern mellem os programmer, og som du, som lytter, kan vinde. Vi skal nemlig finde Danmarks største The Minds of 99-fan, og det hele kulminerer på fredag.
-Værter: Liva Manghezi, Mikkel Rosendal og Mikkel Klint Thorius.
-Medvirkende: Henrik Birck, chef, DR Publicering.</description>
-      <pubDate>Mon, 22 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410171/df845c3eb3fd38ec50364ac6b92b9ff76fac1bbde54ee6da71621503cfd63287.mp3" type="audio/mpeg" length="254882102" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 16:30:43 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422163161</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2021/natsvaermeren-12422163161</link>
+      <title>Lørdag 27. apr. 2024</title>
+      <description>- med klassisk musik og det, der ligner.
+Vært: Minna Grooss. 
+(Sendt første gang 20. april 2021).</description>
+      <pubDate>Sat, 27 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422163161/11fccf873b5570e0ced905c3a05a2334d270f4026ced9ba360ca2d3d9bc58652.mp3" type="audio/mpeg" length="168479126" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463174</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-krig-og-poesi-12422463174</link>
@@ -413,19 +427,6 @@ Vært: Katrine Ring.
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363143/604b7640d4e15e17d5c793a4d225973baab860551ebb152b0bfd94cef3c00937.mp3" type="audio/mpeg" length="172994473" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463133</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-brasilianske-klangfarver-12422463133</link>
-      <title>Brasilianske klangfarver</title>
-      <description>Villa Lobos er omdrejningspunktet i Natsværmeren. Hans kendetegnende lyd, inviterer andre komponister og solister fra samme kant af verden op til stille dans 
-Vært: Minna Grooss.</description>
-      <pubDate>Thu, 28 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463133/d39205cb1c7de6f0e7a5a6b370b6ca65ee961013a865de50a1a799165eed0555.mp3" type="audio/mpeg" length="168666427" />
     </item>
     <item>
       <guid isPermaLink="false">12422263112</guid>
@@ -843,20 +844,6 @@ www.dr.dk/p2
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422163442/f1ef698c844eac1593a920cb00d3cfb5ef19de77b3ae0d955dddc8d1bee6f57e.mp3" type="audio/mpeg" length="168477211" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422263453</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-altings-teori-12422263453</link>
-      <title>Altings teori</title>
-      <description>Det begynder med et fødselsskrig og slutter med et requiem og så er der regn ind imellem. Det er Natsværmerens Altings teori. 
-Vært: Katrine Ring.
-(Sendt første gang 9. november 2022).</description>
-      <pubDate>Mon, 30 Oct 2023 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263453/4c5e6708a0042cb8b504b0fa4ab49d1e743af308b198a6957be3980f74e221fa.mp3" type="audio/mpeg" length="168478363" />
     </item>
   </channel>
 </rss>

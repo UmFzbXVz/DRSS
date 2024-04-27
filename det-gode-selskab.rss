@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 16:30:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -64,19 +64,6 @@ Vært: Charlotte Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428172/28553101cc14091075b9e28e04e1bc2e58be04825939fabc49f4a3b731037592.mp3" type="audio/mpeg" length="168482145" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428171</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-kirsten-kjaer-15452428171</link>
-      <title>Med Kirsten Kjær</title>
-      <description>I Roslev i Salling har 77-årige Kirsten Kjær netop åbnet sin egen vildtplejestation for nødstedte smådyr. Kirsten tager sig især af pindsvin og egern-unger.
-Vært: Charlotte Striib.</description>
-      <pubDate>Mon, 22 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428171/2b0c97722416893d14e172f4160bcc49c4e7c50e7fdc8d46827b4956bee2da4a.mp3" type="audio/mpeg" length="168482112" />
     </item>
   </channel>
 </rss>

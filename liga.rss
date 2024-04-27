@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Apr 2024 16:30:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:16:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652402175</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402175</link>
+      <title>Fredag 26. apr. 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Rikke Smed og Morten Hausborg.</description>
+      <pubDate>Fri, 26 Apr 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:42:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402175/dd83e96ed9c585c009b9ed2afde8be93b4533f9fcecf57e5e5977cf9231c0be6.mp3" type="audio/mpeg" length="320852447" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652402174</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402174</link>
       <title>Torsdag 25. apr. 2024</title>
@@ -36,19 +49,6 @@
       <itunes:duration>03:50:43</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402174/628d33a09b7845200620cdafc7f870209fac0f90f168abec86186559a813c28d.mp3" type="audio/mpeg" length="332236472" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402171</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402171</link>
-      <title>Mandag 22. apr. 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Lotte Friis og Morten Hausborg.</description>
-      <pubDate>Mon, 22 Apr 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:51:23</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402171/ea8905dde96d1fc089ad7d9729e55a9fd5c2f1dc147004a9c52f4fe8d3235a24.mp3" type="audio/mpeg" length="333197280" />
     </item>
   </channel>
 </rss>
