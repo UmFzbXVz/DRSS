@@ -23,6 +23,26 @@ const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fe
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
 
+  document.querySelector('.container h2').addEventListener('touchstart', function(event) {
+    event.preventDefault();
+    const touchDuration = 1000;
+    const start = new Date().getTime();
+
+    const longPressTimer = setTimeout(() => {
+        this.style.color = '#1DA1F2'; 
+        isAdvanced = true;
+        alert("HEJ");
+    }, touchDuration);
+
+    this.addEventListener('touchend', function() {
+        clearTimeout(longPressTimer); 
+    });
+
+    this.addEventListener('touchmove', function() {
+        clearTimeout(longPressTimer); 
+    });
+});
+  
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         const [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData] = await Promise.all([
