@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             fetchPir8dioPodcastsData(),
             preloadRssIcon()
         ]);
-        filterAndDisplayResults(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData);
+        filterPodcasts(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData);
     } catch (error) {
         console.error('Error fetching data:', error);
     }
@@ -144,7 +144,7 @@ async function displayResults(results) {
 
 async function filterPodcasts(searchText) {
     if (searchText.length < 3) {
-        resultsContainer.innerHTML = '<p>Enter at least 3 characters to search</p>';
+        resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
         return;
     }
 
@@ -159,39 +159,27 @@ async function filterPodcasts(searchText) {
     }
 
     const filteredDRPodcasts = drPodcastsData.filter(podcast => {
-        if (isAdvanced) {
-            return podcast.name.toLowerCase().includes(searchText.toLowerCase()) ||
-                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        } else {
-            return podcast.name.toLowerCase().includes(searchText.toLowerCase());
-        }
+        const nameMatches = podcast.name && podcast.name.toLowerCase().includes(searchText.toLowerCase());
+        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return nameMatches || descriptionMatches;
     });
 
     const filteredPodimoPodcasts = podimoPodcastsData.filter(podcast => {
-        if (isAdvanced) {
-            return podcast.title.toLowerCase().includes(searchText.toLowerCase()) ||
-                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        } else {
-            return podcast.title.toLowerCase().includes(searchText.toLowerCase());
-        }
+        const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return titleMatches || descriptionMatches;
     });
 
     const filteredMiscPodcasts = Object.values(miscPodcastsData).filter(podcast => {
-        if (isAdvanced) {
-            return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase()) ||
-                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        } else {
-            return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase());
-        }
+        const altTextMatches = podcast.alt_text && podcast.alt_text.toLowerCase().includes(searchText.toLowerCase());
+        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        return altTextMatches || descriptionMatches;
     });
 
     const filteredPir8dioPodcasts = pir8dioPodcastsData.filter(podcast => {
-        if (isAdvanced) {
-            return podcast.title.toLowerCase().includes(searchText.toLowerCase()) ||
-                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        } else {
-            return podcast.title.toLowerCase().includes(searchText.toLowerCase());
-        }
+        const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        const contentMatches = isAdvanced && podcast.content && podcast.content.toLowerCase().includes(searchText.toLowerCase());
+        return titleMatches || contentMatches;
     });
 
     const results = [];
@@ -256,6 +244,7 @@ async function filterPodcasts(searchText) {
 }
 
 
+
 document.getElementById('searchInput').addEventListener('input', function() {
     const searchText = this.value.trim();
     filterPodcasts(searchText);
@@ -305,7 +294,7 @@ function getFormattedRSSUrl(podcastName) {
   
 document.getElementById('searchInput').addEventListener('keypress', function(event) {
     if (event.key === 'Enter') {
-        this.blur(); // Causes the input field to lose focus
+        this.blur();
     }
 });
 
