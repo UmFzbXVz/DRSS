@@ -30,7 +30,11 @@ document.querySelector('.container h2').addEventListener('touchstart', function(
     const start = new Date().getTime();
 
     const longPressTimer = setTimeout(() => {
-        this.style.color = '#1DA1F2'; 
+        if (!isAdvanced) {
+            this.style.color = '#1DA1F2'; 
+        } else {
+            this.style.color = '#f5f5f5';
+        }
         isAdvanced = !isAdvanced;
         const searchText = document.getElementById('searchInput').value.trim();
         filterPodcasts(searchText);
