@@ -32,6 +32,8 @@ document.querySelector('.container h2').addEventListener('touchstart', function(
     const longPressTimer = setTimeout(() => {
         this.style.color = '#1DA1F2'; 
         isAdvanced = true;
+        const searchText = document.getElementById('searchInput').value.trim();
+        filterPodcasts(searchText);
     }, touchDuration);
 
     this.addEventListener('touchend', function() {
