@@ -22,8 +22,9 @@
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
-
-  document.querySelector('.container h2').addEventListener('touchstart', function(event) {
+let isAdvanced = false;
+  
+document.querySelector('.container h2').addEventListener('touchstart', function(event) {
     event.preventDefault();
     const touchDuration = 1000;
     const start = new Date().getTime();
@@ -31,7 +32,6 @@ const resultsContainer = document.getElementById('results');
     const longPressTimer = setTimeout(() => {
         this.style.color = '#1DA1F2'; 
         isAdvanced = true;
-        alert("HEJ");
     }, touchDuration);
 
     this.addEventListener('touchend', function() {
@@ -42,7 +42,7 @@ const resultsContainer = document.getElementById('results');
         clearTimeout(longPressTimer); 
     });
 });
-  
+
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         const [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData] = await Promise.all([
@@ -159,19 +159,39 @@ async function filterPodcasts(searchText) {
     }
 
     const filteredDRPodcasts = drPodcastsData.filter(podcast => {
-        return podcast.name.toLowerCase().includes(searchText.toLowerCase());
+        if (isAdvanced) {
+            return podcast.name.toLowerCase().includes(searchText.toLowerCase()) ||
+                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        } else {
+            return podcast.name.toLowerCase().includes(searchText.toLowerCase());
+        }
     });
 
     const filteredPodimoPodcasts = podimoPodcastsData.filter(podcast => {
-        return podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        if (isAdvanced) {
+            return podcast.title.toLowerCase().includes(searchText.toLowerCase()) ||
+                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        } else {
+            return podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        }
     });
 
     const filteredMiscPodcasts = Object.values(miscPodcastsData).filter(podcast => {
-        return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase());
+        if (isAdvanced) {
+            return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase()) ||
+                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        } else {
+            return podcast.alt_text.toLowerCase().includes(searchText.toLowerCase());
+        }
     });
 
     const filteredPir8dioPodcasts = pir8dioPodcastsData.filter(podcast => {
-        return podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        if (isAdvanced) {
+            return podcast.title.toLowerCase().includes(searchText.toLowerCase()) ||
+                   podcast.description.toLowerCase().includes(searchText.toLowerCase());
+        } else {
+            return podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        }
     });
 
     const results = [];
@@ -285,7 +305,7 @@ function getFormattedRSSUrl(podcastName) {
   
 document.getElementById('searchInput').addEventListener('keypress', function(event) {
     if (event.key === 'Enter') {
-        this.blur();
+        this.blur(); // Causes the input field to lose focus
     }
 });
 
