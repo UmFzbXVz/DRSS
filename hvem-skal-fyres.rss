@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:17:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -84,18 +84,6 @@
       <itunes:duration>00:26:06</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310738/9dc4b37e7adc6d562a155be94f8d3f1f8bd070e2426d1d6706a15d5a94ac6f89.mp3" type="audio/mpeg" length="37592731" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332310737</guid>
-      <link>https://www.dr.dk/lyd/p3/hvem-skal-fyres/hvem-skal-fyres-2023/hvem-skal-fyres-findes-der-seje-nummerplader-13332310737</link>
-      <title>Findes der seje nummerplader?</title>
-      <description>Mikkel har pruttet i radioen, Andreas er begyndt at stalke sine kollegaer, og Liva forsøger at forhindre gyldent indhold i at komme i radioen.</description>
-      <pubDate>Fri, 27 Oct 2023 10:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:29:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310737/4c459bbc4de3dee6f5a4e710c5571732bcf813705d479cc09ae2f20d564aa9b9.mp3" type="audio/mpeg" length="43197211" />
     </item>
   </channel>
 </rss>

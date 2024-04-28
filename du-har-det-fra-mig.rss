@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:25 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:17:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452436176</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-move-on-up-18452436176</link>
+      <title>Move on Up</title>
+      <description>Der er nyt fra Khruangbin, trompetist Marquis Hills musik handler om stjernetegn plus numre på playlisten der sender dig i den sikre groove-himmel.
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 27 Apr 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436176/5b6b92746a9755ae0fac26a47caa0896ae948841eb56cbdaeaf2ee99613129b5.mp3" type="audio/mpeg" length="168482143" />
+    </item>
     <item>
       <guid isPermaLink="false">18452436166</guid>
       <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-loerdagsstemning-18452436166</link>

@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:24 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:17:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -74,6 +74,22 @@ Vært: Cæcilie Iburg Printzlau.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481841/b59b7b4ca8cc186794b0342750d054a7f078f993e29021455161a778ae61ce8d.mp3" type="audio/mpeg" length="168674568" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481824</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/helle-kristensen/det-vi-hoerer-4-8-at-underholde-berige-og-forstyrre-12422481824</link>
+      <title>4:8 - At underholde, berige og forstyrre</title>
+      <description>Klassiske indspilninger, der bare holder, og nye, der møver sig ind på tidligere favoritters plads. Foråret kigger kortvarigt forbi, Bach har stadig gang i blokfløjterne - og så kan man faktisk have kendt et stykke musik længere end altid...
+Vært: Helle Kristensen.</description>
+      <pubDate>Sat, 27 Apr 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160004</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481824/37e627d54579ce96ed3aad2fe6cef17d7263d64d86301a0cee964b388e266cdb.mp3" type="audio/mpeg" length="168482182" />
     </item>
     <item>
       <guid isPermaLink="false">12422481823</guid>
@@ -334,22 +350,6 @@ Vært: Benedikte Bové.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381867/198c946a75b826b50d87d8c045d3b03d9afaff1f6f95d2c8427f5d89edfa6bb2.mp3" type="audio/mpeg" length="165601243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381866</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-der-hvor-alting-vibrerer-hvor-alt-er-muligt-12422381866</link>
-      <title>Dér, hvor alting vibrerer, hvor alt er muligt</title>
-      <description>Alle musikeres yndlingslegeplads, kammermusikken, er i fokus i denne uges udgave af Det vi hører. Ole Bartholin Kiilerich deler ud af sin glæde ved non-verbal kommunikation og afslører, at klavertrioer faktisk er bedre end strygekvartetter.
-Vært: Ole Bartholin Kiilerich.</description>
-      <pubDate>Fri, 27 Oct 2023 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000100006</itunes:order>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:48:33</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381866/ad5bf48c17ba6547f096b87548cea3577eec54afe045a8471529538fddcefb97.mp3" type="audio/mpeg" length="156324763" />
     </item>
   </channel>
 </rss>

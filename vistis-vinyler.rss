@@ -10,7 +10,7 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:17:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122481176</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-med-masser-af-ild-i-piben-16122481176</link>
+      <title>Med masser af ild i piben</title>
+      <description>Det bliver glohedt i den her uges program:
+Kenyansk funk, brasiliansk samba og ghanesisk highlife fra øverste, øverste hylde.
+Det lyder jo egentlig som en gammel velkendt opskrift på programmet her, men der er flere gamle ting gravet frem indenfor vores yndlingsgenre,
+som du aldrig har lyttet til før. Der kommer også et tip til dig der mangler en sambo eller to.</description>
+      <pubDate>Sat, 27 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:54:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122481176/72ec183e1e99dcf0e195db8779681d8fc67d6469696d3b019c8081ac252ba18b.mp3" type="audio/mpeg" length="164245704" />
+    </item>
     <item>
       <guid isPermaLink="false">16122481166</guid>
       <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-svinsk-god-latinsk-16122481166</link>

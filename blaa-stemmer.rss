@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:25 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:17:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,22 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452434176</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-sange-om-vejret-18452434176</link>
+      <title>Sange om vejret</title>
+      <description>I dag skal det handle om vejret. Vejret skifter næsten lige så ofte, som vores følelser ændrer sig. Derfor har sange om vejret en tendens til at bruge en meteorologiske begivenhed som et symbol på noget andet.
+For eksempel kan støvregn og skyer symbolisere tristhed eller fortvivlelse. Og lyse sommerdage eller solrigt vejr betyder ofte kærlighed og hengivenhed osv.
+Vi skal lytte til en masse fantastiske sange, hvor vejret på den ene eller anden måde har en rolle og er omdrejningspunkt.
+Vært og tilrettelægger: Josephine Philip.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 27 Apr 2024 13:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434176/0332e4743c68eb7f62e4640685c077b0cc2102375f1afb9907ed7786630ebb2d.mp3" type="audio/mpeg" length="82082188" />
+    </item>
     <item>
       <guid isPermaLink="false">18452434166</guid>
       <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-laengselsfulde-sange-18452434166</link>

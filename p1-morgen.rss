@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:44 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:17:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,20 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433176</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433176</link>
+      <title>Lørdag 27. apr. 2024</title>
+      <description>Hvordan man man få bedre service for færre penge på handicapområdet?
+Har afskaffelsen af Store Bededag været et stort politisk selvmål?
+Kan AI-kærester erstatte menneskelige forhold?
+Dagens værter: Ole Brink og Pernille Rudbæk.</description>
+      <pubDate>Sat, 27 Apr 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:55</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433176/040ccc54b5f5edbe0d9076e09e2217ef1a9bc71e28379ec6cc83286cc5b00b9a.mp3" type="audio/mpeg" length="158286753" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433175</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433175</link>
@@ -1857,18 +1871,6 @@ Dagens værter: Pernille Rudbæk og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:00</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333443/7b94bef51f0a01d4121b34f35f4154e37669c95193632f0788aa496a102c696c.mp3" type="audio/mpeg" length="237609883" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333442</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333442</link>
-      <title>Tirsdag 31. okt. 2023</title>
-      <description>Hvordan reagerer israelerne på, at det israelske militær ikke vil stoppe krigen foreløbigt? Hvordan kan det kun tage fire dage for en journalist at grave Sydøstjyllands Politis problemer frem? Og hvorfor peger landbruget på udlandet, når de bærer hovedansvaret for det dårlige havmiljø? 
-Dagens værter: Julie Toft og Morten Runge.</description>
-      <pubDate>Tue, 31 Oct 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:46</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333442/3f7cf03ab056998c286e02c3fb7c21cc6f26a911d34fa593a8128c4cf228fcd5.mp3" type="audio/mpeg" length="237280411" />
     </item>
   </channel>
 </rss>

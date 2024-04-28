@@ -9,7 +9,7 @@ Vært: Dennis Johannesson.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:52 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:17:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -51,19 +51,6 @@ Vært: Dennis Johannesson.</description>
       <itunes:duration>01:45:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452427173/271b56ee350c554a4dd9e5ffe708975f3f581b96e29cdfbf36922aa857b2ae9f.mp3" type="audio/mpeg" length="151201589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452427172</guid>
-      <link>https://www.dr.dk/lyd/p5/p5-paa-stribe/p5-paa-stribe-2024/p5-paa-stribe-15452427172</link>
-      <title>Tirsdag 23. apr. 2024</title>
-      <description>''P5 på Stribe'' er quizzen der tager pulsen på din paratviden, både når det kommer til aktuelle begivenheder, men også når det gælder forskellige kategorier, lige fra de generelle om mad, musik og sport, til de mere specialiserede om alt lige fra 'Afrika' og 'Brætspil' til 'Matador' og 'Michael Jackson'. 5 kategorier - 5 spørgsmål - og 5 lyttere der får chancen for at gå hele vejen og få: ''P5 på Stribe''. 
-Vært: Dennis Johannesson.</description>
-      <pubDate>Tue, 23 Apr 2024 12:15:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452427172/0a364240fc4af351063c03e2b3328961479f194ceb90332741dca69d5ee14682.mp3" type="audio/mpeg" length="151202165" />
     </item>
   </channel>
 </rss>

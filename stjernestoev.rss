@@ -9,7 +9,7 @@ Vært: Lonnie Kjer.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:16:24 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:17:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Lonnie Kjer.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452436176</guid>
+      <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-celine-dion-15452436176</link>
+      <title>Celine Dion</title>
+      <description>I 'Stjernestøv' får du 2 timer med fokus på én særlig kunstner: Højdepunkt, lavpunkt, vendepunkt og anekdoter om hits og alt dét indimellem fra de sangere, 'vi' voksede op med.  
+Vært: Lonnie Kjer.</description>
+      <pubDate>Sat, 27 Apr 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452436176/94e9551e58b6318712a888bc3905edb20501ede88710206f61e5039c020e528b.mp3" type="audio/mpeg" length="168482117" />
+    </item>
     <item>
       <guid isPermaLink="false">15452436166</guid>
       <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-leonard-cohen-15452436166</link>

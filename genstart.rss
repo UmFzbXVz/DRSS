@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Apr 2024 06:01:45 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:15:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460098</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-lord-pannicks-silketunge-11802460098</link>
+      <title>Lord Pannicks silketunge</title>
+      <description>Iført kåber af den fineste silke og brystlange parykker af hestehår, får de millioner af pund for deres ekspertise, når de hjælper russiske oligarker, Premier League klubber - og altså nu også den danske stat. Lord David Pannick og hans kollega Laurence Rabinowitz er to af de såkaldte super silks. Storbritanniens aller fineste og dyreste advokater, der i disse år bliver feteret som stjerner. Nu overtager den ene for den anden i Danmarks sag om udbytteskat i London. I dagens Genstart fortæller DRs erhvervskorrespondent Jakob Ussing om den eksklusive klub, og hvorfor Danmark vælger at hyre verdens dyreste advokater i en sag, der allerede har kostet os milliarder. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 24/4.</description>
+      <pubDate>Sun, 28 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460098/1eb6e8b1eb98f94cd8d16e388a603ae9abfbaebb93e81e83d80c685424f0bbf2.mp3" type="audio/mpeg" length="37371340" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460097</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-befaengte-kryb-11802460097</link>
@@ -9457,21 +9471,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:35</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150083/2351de09f6beeac2661c9700f48aa3d41ce8ee0a7956085b067d8c31ab87ad42.mp3" type="audio/mpeg" length="33973677" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150082</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-cuba-uden-castro-11802150082</link>
-      <title>Cuba uden Castro</title>
-      <description>Raul Castro, Fidels lillebror på 89 år, trækker sig som leder for Cubas kommunistiske parti. En seks årtier lang Castro-æra er dermed forbi. Nu overtager yngre kræfter i kommunistpartiet et land i dyb økonomisk krise. Men forandringens tropevinde blæser over Cuba - internettet har åbnet verden, den private ejendomsret er blevet tilladt, og forholdet til USA tør langsomt op.
-Hvad byder fremtiden for den caribiske ø? Og vil Castro-brødrenes spøgelser rumstere hos den nye leder, Miguel Díaz-Canel?
-Journalist og Cuba-kender Jørgen Laurvig fortæller.
-Vært: Knud Brix.</description>
-      <pubDate>Tue, 27 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:18</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150082/a50a86655ef5739a4e54906c4eea2a2e59b16a807f9872f4156e3558a30df7e4.mp3" type="audio/mpeg" length="35013933" />
     </item>
   </channel>
 </rss>
