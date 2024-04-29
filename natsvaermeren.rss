@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:17:58 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:31:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422263173</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-foraar-og-viser-12422263173</link>
+      <title>Forår og viser</title>
+      <description>Forår og viser går hånd i hånd i aftens Natsværmer. Lone Kellermann, Poul Dissing og Troels Trier møder Simon Diaz, Nina Simone og Khánh Ly mellem den klassiske musiks mestre.
+Vært: Minna Grooss.
+(Sendt første gang 28. april 2022).</description>
+      <pubDate>Mon, 29 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263173/f36e608f30e3b60713a9de3f8ced58178ae330e6c2f5a9f409a0dd5f003ffaf7.mp3" type="audio/mpeg" length="168470641" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463176</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-illusionernes-palads-12422463176</link>
@@ -399,19 +413,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:57:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363497/6020a053df6dbf586d4a91e09e43c27a179c3cbe4331bf1c43923448f87341eb.mp3" type="audio/mpeg" length="168654341" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463135</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-paasken-12422463135</link>
-      <title>Påsken</title>
-      <description>En dejlig tid
-Vært: Katrine Ring.</description>
-      <pubDate>Sat, 30 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463135/a6b6dc2c1947ddcd013a544c0ba962ba5a6602f99d36d7c97fd508674a16c549.mp3" type="audio/mpeg" length="168661189" />
     </item>
     <item>
       <guid isPermaLink="false">12422263112</guid>

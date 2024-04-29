@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:17:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:31:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652402177</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402177</link>
+      <title>Søndag 28. apr. 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Alberte Røhl, Morten Hausborg og Louise Dreisig.</description>
+      <pubDate>Sun, 28 Apr 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>06:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402177/2dbbd13df5662d4d12b54fc72d1065d3126894fb1b97852018a0207deeb9d910.mp3" type="audio/mpeg" length="600481457" />
+    </item>
     <item>
       <guid isPermaLink="false">13652402175</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402175</link>

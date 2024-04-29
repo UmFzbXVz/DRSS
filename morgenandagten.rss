@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:05:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:31:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -438,24 +438,6 @@ Postludium: Johann Sebastian Bach: I dag triumferer Guds Søn.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405142/16cff6d390b295585c8226af7ab7240c589a1d5a685d2853065c380a65119fa4.mp3" type="audio/mpeg" length="36194532" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405136</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405136</link>
-      <title>Lørdag 30. mar. 2024</title>
-      <description>Præludium:	Johannes Brahms: Afvend din vrede, Herre Gud.
-Davidssalme: 22,2-3, 12 og 22-25.
-Salme: 216 "Der venter bag langfredags nat".
-Fra det N.T.:	1. Peters brev 1, 3-9.
-Vekselsang:	Han blev såret for vore overtrædelser. Esajas 53, 5 &amp; Ps. 41, 8.
-Salme: 215 "Dag til hvile! Dag til glæde!".
-Postludium: Sigfrid Karg-Elert: Af dybsens nød, o Gud, til dig.</description>
-      <pubDate>Sat, 30 Mar 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405136/b489e7d546c1459567bcdb5778eb089293adaa7312295878c3946a6cbf0c3031.mp3" type="audio/mpeg" length="36194535" />
     </item>
   </channel>
 </rss>

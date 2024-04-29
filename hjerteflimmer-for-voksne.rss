@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:17:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:31:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,26 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400009</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-anton-hjejle-og-denice-klarskov-15452400009</link>
+      <title>Anton Hjejle &amp; Denice Klarskov</title>
+      <description>Anton tænker, at han og kæresten Olav skal til at forberede sig på lidt flere konflikter. De skal nemlig flytte sammen lige om lidt. For at det hele skal gå lidt glattere, har de indført en Time Out-regel. Problemet er bare, at det ikke går glattere, når de pauser skænderierne med en Time Out, tværtimod ender Anton med at føle sig som et barn med al den ballade, der foregår inde i ham midt i stilheden. Men al den ballade viser sig faktisk at være guld værd, afslører guldgraver Vikkelsøe.
+Denice laver alt med sin partner. Både forretning og romantik. Efter 20 år med et forholdsvist åbent forhold er de helt særlige samtaler blevet sjældnere. Hvordan kan man få sårbarheden tilbage i forholdet, når det rationelle og emotionelle crasher? Og hvad gør man, når den ene part lader til at synes, det er *lidt* unødvendigt?
+Vi taler også om Antons Vredesbarometer, Jytte fortæller, hvor vigtigt det er at kunne skelne mellem indre og ydre konflikter, og så lider jeg under den (åbenbart meget danske) vildfarelse, at man kan slide 'jeg elsker dig'-sætningen op.
+Gæster: Anton Hjejle &amp; Denice Klarskov.
+Ekspert: Jytte Vikkelsøe.
+Vært: Sebastian Lynggaard.
+Producer: Cæcilie Helena Denman-Gretoft.
+Musik: "Hold Up" Beyoncé.
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 29 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:42:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400009/f532511190012f1d4ed07d26b214b74633d7e16480c5340e299578e197cd60d8.mp3" type="audio/mpeg" length="146904633" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400008</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-sol-wendel-og-sandie-westh-15452400008</link>
@@ -1998,22 +2018,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>01:15:38</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195318/44452829fc751eccbba4aeadee9d1a7db74af9a4c9f0c6930193e5ea2e6af3ef.mp3" type="audio/mpeg" length="108916461" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195317</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hjerteflimmer-for-voksne-oliver-bjerrehus-og-rapper-fvn-13332195317</link>
-      <title>Oliver Bjerrehus &amp; rapper FVN</title>
-      <description>FVN er lige flyttet samen med sin kæreste, og hun spørger, hvor meget hun skal tage hensyn til hans følelser? Oliver har altid været modstander af at gå i parterapi, men hvorfor har han det på den måde?
-Medvirkende: Rapper FVN, fotomodel Oliver Bjerrehus og parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 28 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:02:42</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195317/cce8b84ca020a7ae1deced639721e94d5f792772a84b4c7b4c51ce68197868fe.mp3" type="audio/mpeg" length="90294957" />
     </item>
   </channel>
 </rss>

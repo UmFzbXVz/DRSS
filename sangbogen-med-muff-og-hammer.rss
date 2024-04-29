@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:17:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:31:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422458177</guid>
+      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-sange-om-tal-12422458177</link>
+      <title>Sange om tal</title>
+      <description>Der er utallige sange, men hvor mange om tal. Katrine Muff og Mathias Hammer tæller på to hænder og får regnestykket til at gå op med en sang in mente.</description>
+      <pubDate>Sun, 28 Apr 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422458177/31aa0cd9b91401d2b69866e0801e0682400ecd5639562cd2a5fe0ac458c93a57.mp3" type="audio/mpeg" length="82081507" />
+    </item>
     <item>
       <guid isPermaLink="false">12422458167</guid>
       <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-sange-om-droemme-12422458167</link>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:15:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:28:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460100</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>I ly for missilregn</title>
+      <description>Det er spektakulært, når Iron Dome - jernkuplen - lyser himlen op i glimt og eksplosioner, og det minder mere om nytårsaften end en dødsensalvorlig jagt. Men det er alvor, når Iron dome aktiveres og missiler flyver med en hale af damp, og slanger sig på himlen hen over Israel. I årevis har israelerne levet under jernkuplens beskyttelse, men følelsen af sikkerhed kollapsede totalt den 7. oktober, da Hamas udførte det værste angreb i Israels historie. Derfor var det et skæbnens øjeblik for Iron Dome, da Iran sidste lørdag igangsatte det næsten forventede angreb, og her viste Israels forsvarssystem sit fulde potentiale og afværgede, nærmest uden undtagelse, sværmen af droner og raketter. I dag spørger Genstart, Andreas Graae, der er adjunkt i forsvaret, om det højteknologiske skjold kan genskabe israelernes følelse af sikkerhed? 
+Vært Anna Ingrisch.
+Program publiceret i DR Lyd d. 25/4.</description>
+      <pubDate>Mon, 29 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:09</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460100/660d7b07035b6a0beffb06275989d939816788c463505f4ebde42a0f3b2348ff.mp3" type="audio/mpeg" length="36237190" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460098</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-lord-pannicks-silketunge-11802460098</link>
@@ -9458,19 +9472,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:24:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150084/8ff0f6670b9585a8afb7afb9945a5729aa26d7b327e15f3f64f515bcf802a0b7.mp3" type="audio/mpeg" length="34897581" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150083</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-general-najis-sikre-syrien-11802150083</link>
-      <title>General Najis sikre Syrien</title>
-      <description>Danmark er blandt de første lande i verden til at afvise syriske flygtninge. Men nu bliver grundlaget måske undermineret. 11 ud af 12 navngivne kilder fra de danske Syrien-rapporter tager afstand fra rapporterne og kalder dem mangelfulde. Kun én af de navngivne kilder er ikke løbet fra sin medvirken - og det er general Naji fra Assads hær. Har Danmark stadig fagligt grundlag til at afvise syriske flygtninge? Vi taler med BT-journalist Jacob Friberg, der står bag historien.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 28 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:35</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150083/2351de09f6beeac2661c9700f48aa3d41ce8ee0a7956085b067d8c31ab87ad42.mp3" type="audio/mpeg" length="33973677" />
     </item>
   </channel>
 </rss>

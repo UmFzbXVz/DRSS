@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:17:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:31:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451080</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-skrottet-sexfestival-massegrav-og-tvivlsomme-tilladelser-11802451080</link>
+      <title>Skrottet sexfestival, massegrav og tvivlsomme tilladelser</title>
+      <description>Miljøministeriet har i årevis arbejdet for, at Cheminova kan pumpe miljøfarlige stoffer ud i havet, selvom der allerede er for forurenet.
+Flere og flere lig bliver gravet op af en massegrav i Gaza. FN kræver en uafhængig undersøgelse.
+Det har skabt debat i Sydkorea, at en sexfestival er blevet aflyst. 
+Vært: Adrian Busk.
+Medvirkende:
+Jesper Tynell, Journalist, DR's undersøgende redaktion.
+Maria Hasfeldt Long, Ph.d.-studerende i religionshistorie med fokus på Sydkorea.</description>
+      <pubDate>Mon, 29 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451080/bce4676ff508c234c454cc1383a687f2ed9d562dbe5d50e255c126e34d04e882.mp3" type="audio/mpeg" length="23204044" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451079</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-fridagsprotest-tykke-klimatraeer-og-tiktok-til-salg-11802451079</link>

@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:17:34 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:31:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481844</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-skumrer-og-slumrer-12422481844</link>
+      <title>Skumrer og slumrer</title>
+      <description>Skumringen er det tyndeste lag mellem virkelighed og fantasi, mellem nat og dag og mellem inde og ude. Det halvt dæmpede og aftagende lys sender mine sanser i overdrive på den gode måde, og musikken tager os i dag med i skumringstiden hvor babyer skal sove til vuggeviser, ærlige breve skal skrives i operaer og legetøjet vågner på slaget 12 i ballettens verden. 
+Vært: Cæcilie Iburg Printzlau.</description>
+      <pubDate>Sun, 28 Apr 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000170004</itunes:order>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481844/f562ec5ae25f7303bbe07ffe85c2ab73e8e6fd91593326396f3dc137ee04195b.mp3" type="audio/mpeg" length="168482185" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481843</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-gaar-derudaf-12422481843</link>

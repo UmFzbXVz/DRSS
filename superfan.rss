@@ -10,7 +10,7 @@ Produceret for DR af Firkantede øjne.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Apr 2024 09:17:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 05:31:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -382,23 +382,6 @@ Produceret for DR af Firkantede øjne.</description>
       <itunes:duration>00:57:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122193063/8f300d97920febeed4b6b83104b8b8b7eef86dd4d5e630f210860609f3d20a3a.mp3" type="audio/mpeg" length="83311533" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122193062</guid>
-      <link>https://www.dr.dk/lyd/special-radio/superfan/exit/superfan-exit-2-3-hvad-fa-n-fejler-de-med-psykolog-malene-hollmann-16122193062</link>
-      <title>Exit 2:3 - Hvad fa***n fejler de? - med psykolog Malene Hollmann</title>
-      <description>Vi går bag om den norske hitserie Exit og spørger psykolog Malene Hollmann, hvad finansgalningene fejler. Er de psykopater? Sociopater? Narcissister? Eller, som Jeppe, William, Henrik og Adam selv siger, bare en gruppe "glade, normale, søde og rare gutter"? 
-Værter: Kasper Lundberg og Frederik Dirks Gottlieb.
-Produceret for DR af Firkantede øjne.</description>
-      <pubDate>Wed, 28 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000020002</itunes:order>
-      <itunes:season>2</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:47:34</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122193062/c78cbebd99fba433cc1aeb9508442037c453ad706c37fed582446ed4d9bb884b.mp3" type="audio/mpeg" length="68506029" />
     </item>
   </channel>
 </rss>
