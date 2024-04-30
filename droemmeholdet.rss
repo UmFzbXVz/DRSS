@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:39 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:40:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332425181</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-subway-saeder-hoej-energi-brandbil-og-hemmeligheder-13332425181</link>
+      <title>Subway-sæder, høj energi, brandbil og hemmeligheder</title>
+      <description>Det er dog utroligt med dig, altså! Vi skal altså bruge din drøm og dit nummer. Lige nu. Sæt i gang. P3drommer@dr.dk.
+Eske leder efter et 90'er subway-sæde fra New Yorks metro.
+Linjen er død, men det er energien fandme ikke.
+Derfor skal vi direkte videre til mere fed energi. Nemlig alle dem, der lever drømmen lige nu.
+Tobias drømmer også om at leve drømmen. Og det kan kun ske, hvis han får lov til at køre i en brandbil i Taastrup.
+Til sidst bliver det hemmeligt. Det eneste, vi kan sige, er, at vi i morgen skal bruge en, der skal fra København til enten Aarhus eller Silkeborg i morgen.
+Fyr ugen i gang med Drømmeholdet!</description>
+      <pubDate>Mon, 29 Apr 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425181/df2c2cd848b691c061491b7ee4122e00dd5011779d7e7acd11df8e89def3b297.mp3" type="audio/mpeg" length="254881603" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332425175</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-sunny-beach-fraek-viking-og-flemming-moeldrup-tattoo-13332425175</link>
       <title>Sunny Beach, fræk viking og Flemming Møldrup-tattoo</title>
@@ -42,22 +60,6 @@ Glædelig fredag fra Drømmeholdet!</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425175/9f926264942cc331c689eafc3cb0f1ed834893f7e0ab1dcf6ab9261c310ddd87.mp3" type="audio/mpeg" length="254882186" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425174</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-hurtigsnak-smadret-busrude-og-vielsesring-i-andegaarden-13332425174</link>
-      <title>Hurtigsnak, smadret busrude og vielsesring i andegården</title>
-      <description>You have a dream... Så hvad er den seriøst? Send lige den og dit telefonnummer til p3drommer@dr.dk.
-Det spidser til. I morgen afholder Go' Morgen P3 den store The Minds of 99-konkurrence. Drømmeholdets kandidat Mathilde er fuldstændig klar. Vi skal bare fyre op for tempoet!
-Bagefter skal vi til noget, der er lige på vippen. Arthur drømmer nemlig om at få lov til at smadre en busrude med en brandhammer.
-Så skal vi tilbage til hønse-Susan. Denne gang er det dog ikke hønsegården, men andegården det drejer sig om. Her har Susan nemlig fundet en vielsesring og leder derfor efter ejeren.
-Og til sidst: Drømmeholdets første drøm, der afsluttes I RADIOEN. Arthur slutter af med at smadre en busrude!</description>
-      <pubDate>Thu, 25 Apr 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425174/e6f4e5289574042e86e021658aaad64d36012d8e5f60f5df5b30d377dc4205a0.mp3" type="audio/mpeg" length="254882179" />
     </item>
   </channel>
 </rss>

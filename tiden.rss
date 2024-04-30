@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:26 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:39:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,7 +25,22 @@ Vært: Annika Wetterling.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593b98a846e9f8fc03386f8.jpg" />
     <category>News</category>
     <itunes:category text="News" />
-    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451081</guid>
+      <title>Massør uden grænser, spansk tænkepause og kampklare kvinder?</title>
+      <description>Det store forsvarsforlig er i hårdknude og det er alt sammen kvindernes skyld. 
+Spaniens premierminister har efter 5 dages tænkepause noget at sige. 
+En alternativ behandler bliver to gange dømt for blufærdighedskrænkelse. I dag er der kritik af, at han kan fortsætte med at behandle. 
+Vært: Annika Wetterling.
+Medvirkende:
+Christine Cordsen, politisk korrespondent DR.
+Merle Baeré, journalist på DR's undersøgende redaktion.</description>
+      <pubDate>Tue, 30 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:45</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451081/f02a2acf7e91b65783cd15502ec8dc58dbca8382395c93ccb8a096ab08781fc1.mp3" type="audio/mpeg" length="25584076" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451080</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-skrottet-sexfestival-massegrav-og-tvivlsomme-tilladelser-11802451080</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:07 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:39:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,7 +24,16 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65b78e5faf068c217532a84e.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
-    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421181</guid>
+      <title>Mandag 29. apr. 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Mon, 29 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421181/b212e20a86077aee36f7aa9ed2263bc789fd260fa4c6b9cfd8e07993517650dc.mp3" type="audio/mpeg" length="172802165" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421174</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-kasper-og-nynnes-pikkelorte-program-13332421174</link>

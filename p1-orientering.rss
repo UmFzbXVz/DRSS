@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:28 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:39:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410181</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410181</link>
+      <title>Mandag 29. apr. 2024</title>
+      <description>Hvad adskiller forligspartierne? Hvad kan de mødes om? Hvorfor tog Sanchez en tænkepause, hvis han alligevel bliver på posten? Hvorfor kommer Xi Jinping til Europa?
+Dagens værter: Anne Kirstine Hermann og Morten Runge.</description>
+      <pubDate>Mon, 29 Apr 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:21:14</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410181/2faa18e4d42c754d76407184340c98dd154964bad8943d52cc0e1ca11ca76af7.mp3" type="audio/mpeg" length="116987154" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410175</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410175</link>
@@ -2375,38 +2387,6 @@ Gæster: Niels Th. Dahl, politisk analytiker, Jyllands-Posten og Jens Ringberg, 
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:22</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302445/31f75d706ad2d8b7517d9c63f4e05f1e4ac3c8d140782fb2eda01e903b79f7b5.mp3" type="audio/mpeg" length="79734619" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304444</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304444</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Anne Kirstine Hermann og Jan Falkentoft.
-Og i dagens udgave af Orientering Udsyn:
-Iran bliver fra flere sider beskyldt for at stå bag Hamas' angreb i Israel d. 7. oktober. Noget de selv afviser, men støtter samtidig Hamas og hylder angrebet. Indtil videre har krigen været en vindersag for det iranske styre, men spørgsmålet er, om landet alligevel risikerer at blive suget helt ind i konflikten? 
-Bølgerne går mere end almindelig højt når det gælder debatten om krigen i Gaza. Og det gør det ikke kun svært at få plads til nuancerne, for når fronterne bliver så skarpt trukket op, kan diskussionen selv faktisk ende med at optrappe konflikten.
-Gæster: Rasmus Elling, lektor på Københavns Universitet og Henrik Vigh, professor i politisk antropologi på Københavns Universitet.
-Tilrettelæggelse: Sven Johannesen og Asta Handberg.
-Vært: Nickolaj Sander.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Thu, 02 Nov 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:54:36</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304444/d6127bd4f93743d45aab4aa8e14cc0871fc82fa1323a1559f586c08971124d76.mp3" type="audio/mpeg" length="78633883" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310444</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310444</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Anne Kirstine Hermann og Jan Falkentoft.</description>
-      <pubDate>Thu, 02 Nov 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:03</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310444/84fd3200dc35eea5187d6e62a33836fd91152d212afa44e256d435a27f4aca95.mp3" type="audio/mpeg" length="79276123" />
     </item>
   </channel>
 </rss>

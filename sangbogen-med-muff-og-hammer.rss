@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:39:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -341,18 +341,6 @@ Værter: Katrine Muff og Mathias Hammer.</description>
       <itunes:duration>01:17:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358447/47ee44f55df3ef8446241140fd3b6f99399bae61bc7fe85f384a96e7d2cf7e70.mp3" type="audio/mpeg" length="110881243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422358437</guid>
-      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2023/sangbogen-med-muff-og-hammer-sange-om-kommunikation-12422358437</link>
-      <title>Sange om kommunikation</title>
-      <description>Vi kommunikerer på mange måde, vi snakker, sms'er, skriver breve til hinanden og taler sammen. Mulighederne er mange, også i sange. Katrine Muff og Mathias Hammer taler sig ind på en række sange, der handler om at kommunikere og de kommer blandt andet fra Peter Sommer der bare gerne vil snakke, Bo Burnham der facetimer med sin mor og Gitte Hænning der har sig selv at snakke med.</description>
-      <pubDate>Sun, 29 Oct 2023 18:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:17:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358437/c4b7d6c203ff40646baac3e89a288d08ee99c3b77b8054da588ee5c2f9460b26.mp3" type="audio/mpeg" length="110881819" />
     </item>
   </channel>
 </rss>

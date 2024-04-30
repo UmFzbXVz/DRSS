@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:28:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:39:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,7 +27,19 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593ba22846e9f8fc0338958.jpg" />
     <category>News</category>
     <itunes:category text="News" />
-    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460101</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>En syg høne</title>
+      <description>Fugleinfluenza. Bare ordet får det til at løbe koldt ned ad ryggen på epidemiolog, Lone Simonsen. Hun havde ellers glemt alt om virusset og tænkt, at det ikke længere var værd at holde øje med. Men de seneste år er den dukket op flere og flere steder. Store vilde fugleflokke, pingviner på Antarktis, høns og kalkuner i Danmark, en minkfarm i Spanien, rævefarme i Finland og nu raserer virusset på flere kvægfarme i USA. H5N1 har igen Lone Simonsens fulde opmærksomhed. I dag spørger Genstart, hvad det er, der skræmmer hende.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 26/4.</description>
+      <pubDate>Tue, 30 Apr 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:14</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460101/4db6a92c48665fcb69d5290d9b4e4ea31ac7bf5d03c1ca6e13c2e38d9e285bd2.mp3" type="audio/mpeg" length="36339719" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460100</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9459,19 +9471,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150086/2bff8fb337a3d39876c38e93a8da83678801d442df61ebccc59d02049b95c91a.mp3" type="audio/mpeg" length="33784749" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150084</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-blodrus-paa-borgen-11802150084</link>
-      <title>Blodrus på Borgen</title>
-      <description>Anders Langballe var politisk redaktør på TV 2, da han 42 år gammel bliver ramt af to blodpropper i hjernen. Han overlever, men mister sit sprog. Nu har han kæmpet sig tilbage og nedfældet sin tragedie i en ny bog med en opsang til den politiske journalistik. Anders Langballe var også chef for Knud Brix, vært på Genstart, og i dagens episode undersøger de deres fælles fortid og meget forskellige veje ud af Christiansborg.
-Vært: Knud Brix.</description>
-      <pubDate>Thu, 29 Apr 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:14</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150084/8ff0f6670b9585a8afb7afb9945a5729aa26d7b327e15f3f64f515bcf802a0b7.mp3" type="audio/mpeg" length="34897581" />
     </item>
   </channel>
 </rss>

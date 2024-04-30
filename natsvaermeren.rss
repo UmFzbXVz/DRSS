@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:40:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,7 +24,17 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1817d0c1a140697e11f.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
-    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463181</guid>
+      <title>Musikalske tankestreger</title>
+      <description>I skumringen, når skyggerne er lange, kan tanker blive til eftertanker. Den eftertænksomhed, der kan ramme dig, forsøger Natsværmeren at matche med lange musikalske tankestreger i skyggen af dagen.
+Vært: Tina Rømer.</description>
+      <pubDate>Tue, 30 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463181/9536ac41c199cee35602ed6e68237e9117279cce842f3d81bfd1875c31c89b19.mp3" type="audio/mpeg" length="168472353" />
+    </item>
     <item>
       <guid isPermaLink="false">12422263173</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-foraar-og-viser-12422263173</link>
@@ -35,9 +45,9 @@ Vært: Minna Grooss.
       <pubDate>Mon, 29 Apr 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263173/f36e608f30e3b60713a9de3f8ced58178ae330e6c2f5a9f409a0dd5f003ffaf7.mp3" type="audio/mpeg" length="168470641" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263173/3c253b8e944f272f30407a0e9d0cef08343045d9b79ec2e93f644e6489672044.mp3" type="audio/mpeg" length="172802161" />
     </item>
     <item>
       <guid isPermaLink="false">12422463176</guid>
@@ -399,20 +409,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:57:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463137/6e2923878a5c93745f479df6090788b5a0e1856026c32b166f731c0545ba5548.mp3" type="audio/mpeg" length="168671537" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363497</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-hviletid-12422363497</link>
-      <title>Hviletid</title>
-      <description>En af de dage på ugen, hvor man ikke åbner, hvis nogen banker uanmeldt på døren. Les Petits Chanteurs de Saint-Marc sætter aften i gang.
-Vært: Minna Grooss.
-(Sendt første gang 11. december 2023).</description>
-      <pubDate>Sun, 31 Mar 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363497/6020a053df6dbf586d4a91e09e43c27a179c3cbe4331bf1c43923448f87341eb.mp3" type="audio/mpeg" length="168654341" />
     </item>
     <item>
       <guid isPermaLink="false">12422263112</guid>

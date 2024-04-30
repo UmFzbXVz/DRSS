@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:39:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -281,18 +281,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>00:56:05</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354637/78bab04537dc605bdfd34b5777addc9b595e070ee8727293057e0674fc76a093.mp3" type="audio/mpeg" length="80774875" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354636</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-iomfro-og-rihanna-anti-16452354636</link>
-      <title>IOMFRO og Rihanna "Anti"</title>
-      <description>Besøg af Alma Kjær Agergaard også kendt som IOMFRO. Vi skal tale os godt og grundigt varme på Rihanna "ANTI". En "anti"-popplade, der viser alle de andre sider af Rihanna, som vi måske ikke kendte så godt. Og samtidig er det en plade, der har båret Alma ud af studenterhuen, på dannelsesrejse til Sydamerika og direkte tilbage til Danmark for at forfølge et liv som musiker. Bonusinfo: Anti er virkelig en fed blå plade, som man kan danse sine kærlighedssorger ud til.</description>
-      <pubDate>Sun, 29 Oct 2023 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:03:25</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354636/62e96aeb69e7fc557458ea90c88354d5a8a853c8bea93403e2109f8633969302.mp3" type="audio/mpeg" length="91338715" />
     </item>
   </channel>
 </rss>

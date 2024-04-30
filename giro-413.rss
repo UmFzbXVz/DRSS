@@ -12,7 +12,7 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:38 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:40:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -94,23 +94,6 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
       <itunes:duration>01:45:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452422147/30f5e81a407ad8f18c7cbd9bd3fc48fe1654506dc186375aaf60a08d48cc8d38.mp3" type="audio/mpeg" length="151394543" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452422137</guid>
-      <link>https://www.dr.dk/lyd/p5/giro-413/giro-413/giro-413-15452422137</link>
-      <title>Søndag 31. mar. 2024</title>
-      <description>Vært Ole Tøpholm sammensætter ugens program baseret på lytternes henvendelser. 
-Bidrag kan sendes til:
-Giro: Kontoart: 01 Gironr.: 7000413
-Eller via MobilePay: 724 413 - send herefter din hilsen på giro413@dr.dk
-Eller indtal selv din hilsen - ring 7020 7030.
-Eller på SMS til 1212. Send teksten 'giro' så sender vi en brugsanvisning retur.</description>
-      <pubDate>Sun, 31 Mar 2024 12:15:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452422137/9da61c59fc187679b1fc77ed3a1a8310c679984deab337115fd82ed1b91eb576.mp3" type="audio/mpeg" length="151394543" />
     </item>
   </channel>
 </rss>

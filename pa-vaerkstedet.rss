@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:39:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,7 +24,17 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c14d7d0c1a140697e053.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
-    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422453181</guid>
+      <title>Claus Meyer, gastronomisk iværksætter</title>
+      <description>Claus Meyer har sagt, at hans drivkraft er, at verden skal blive smukkere, og i den forbindelse taler han om en økosystemisk skønhed. Hvad mener han med det? Og hvad betyder det for hans kreative processer? Det taler psykologiprofessor Lene Tanggaard med Claus Meyer om i dagens udsendelse.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 29 Apr 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422453181/9888d386088ffb4a4a2fae204fac5a2f6bab1371dd0625af31972e4f5610b5f4.mp3" type="audio/mpeg" length="108002183" />
+    </item>
     <item>
       <guid isPermaLink="false">12422453171</guid>
       <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet/paa-vaerkstedet-simon-steen-andersen-komponist-og-multimediekunstner-12422453171</link>

@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:35 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:40:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -29,6 +29,28 @@
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494204</guid>
+      <link>https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-4-5-arnes-krig-16122494204</link>
+      <title>4:5 - Arnes krig</title>
+      <description>Arnes besættelse af at finde sandheden om sin far begynder. Han går nærmest i krig med myndighederne for at få adgang til sin faderskabssag, og finder samtidig ud af at der er hundredevis af andre krigsbørn som ham, hvor skammen er smittet fra mor til barn.
+
+Tilrettelægger: Anne Pilegaard Petersen.
+Lyddesign: Tobias Ingemann.
+Redaktør: Rune Sparre Geertsen.
+Medvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.
+Indtaling af brev: Grete Tulinius.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Tue, 30 Apr 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010004</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:35:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494204/f260181d8818cc27e83197268e0ccec99902eec96bd0a1ce195067ad450a30da.mp3" type="audio/mpeg" length="50663674" />
+    </item>
     <item>
       <guid isPermaLink="false">16122494203</guid>
       <link>https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-3-5-befrielsen-16122494203</link>

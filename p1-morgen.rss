@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:40:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433181</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433181</link>
+      <title>Mandag 29. apr. 2024</title>
+      <description>Hvordan kan det lade sig gøre, at Cheminova udleder miljøfarligt spildevand ud i et allerede forurenet hav?  Hvor går DF's grænse for, hvad man må lave deepfake-videoer af, og hvad man ikke må? Og hvad er medlemmerne af Reichsbürger-bevægelsen tiltalt for?
+Dagens værter: Bjarne Steensbeck og Cecilie Lange.</description>
+      <pubDate>Mon, 29 Apr 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433181/8e5372b7b0104bad09616cc25a264eb0301a66743475da4f91b12787b652ce52.mp3" type="audio/mpeg" length="236177137" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433176</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433176</link>
@@ -1842,18 +1854,6 @@ Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:01</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333445/8c24cf34d9f578c66a186e12325a77ff5d12b8d826a66f9569ca11441962deaa.mp3" type="audio/mpeg" length="237644443" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333444</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333444</link>
-      <title>Torsdag 2. nov. 2023</title>
-      <description>Egypten åbnede i går grænsen for 500 udlændinge, der kan komme ud af Gaza. Hvorfor er danske statsborgere ikke blandt de udlændinge, der kan forlade Gaza? Regeringen dropper danske restriktioner for unge på sociale medier og går efter EU-løsning. Hvorfor er en europæisk løsning bedre end det nationale lovforslag? Straffesagerne mod den tidligere Venstre-minister Claus Hjort Frederiksen, tidligere spionchef Lars Findsen og en 63-årig tidligere PET-ansat, Jesper, bliver ikke gennemført. Hvor stor en skandale er det, at alle sagerne om læk af statshemmeligheder nu droppes?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <pubDate>Thu, 02 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:54</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333444/33da4fc783aebca0f44afa9553c9618ecb113045165838fb5cbfabf6cbb9369b.mp3" type="audio/mpeg" length="237461275" />
     </item>
   </channel>
 </rss>

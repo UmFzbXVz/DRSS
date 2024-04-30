@@ -3,13 +3,12 @@
   <channel>
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/balalajka" rel="self" type="application/rss+xml" />
     <title>Balalajka</title>
-    <link>https://www.dr.dk/lyd/p3/balalajka-4861067688000</link>
     <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
 Værter: Anton Ringdal og Mathilde Muus.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Apr 2024 05:31:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 07:40:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -20,30 +19,20 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <image>
       <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c17c7d0c1a140697e10a.jpg</url>
       <title>Balalajka</title>
-      <link>https://www.dr.dk/lyd/p3/balalajka-4861067688000</link>
     </image>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c17c7d0c1a140697e10a.jpg" />
     <category>News</category>
     <itunes:category text="News" />
-    <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">13332426174</guid>
-      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-virker-venedig-tricket-i-koebenhavn-13332426174</link>
-      <title>Virker Venedig-tricket i København?</title>
-      <description>Anton har shoppet bryllupspynt for 1000 kroner på Temu, og nu har han dårlig smag i munden. Spidskandidaterne til Europaparlamentsvalget vil nemlig have strammere regler for handelssider, der ligger uden for EU.
-I Venedig har de i dag startet et nyt system, hvor turister på 29 udvalgte dage i 2024 skal betale 5 euro i et adgangsbidrag for at besøge byen. Det skal beskytte byen mod overturisme. Vi tester, om Venedig-tricket virker på Strøget i København, hvor vores reporter Emma bilder turister ind, det koster penge at gå.
-Det er torsdag og det betyder: 'Det Rohde Kort' med Jens Rohde. Manden, der kender fodboldloven ud og ind! Derfor uddeler han kort og andre straffe til ugen, der gik i dansk politik.
-Værter: Mathilde Muus og Anton Ringdal.
-Medvirkende: 
-Sune Scheller, kampagnechef Greenpeace.
-Emma Thorup, reporter.
-Jens Rohde, formand for Danske Fodbolddommere.</description>
-      <pubDate>Thu, 25 Apr 2024 16:00:00 +0200</pubDate>
+      <guid isPermaLink="false">13332426181</guid>
+      <title>Mandag 29. apr. 2024</title>
+      <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
+Værter: Anton Ringdal og Mathilde Muus.</description>
+      <pubDate>Mon, 29 Apr 2024 16:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426174/5d7cc15cc4dcc5a09fab09e666594679c238425e268186ea4764a0d361bed670.mp3" type="audio/mpeg" length="172801557" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426181/2016e283c8c9933540e89b4f8593735197ae0147e9dfb99be184fa81d9d306f7.mp3" type="audio/mpeg" length="172801557" />
     </item>
   </channel>
 </rss>
