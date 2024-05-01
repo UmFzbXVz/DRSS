@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:51 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:06:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,9 +24,11 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1417d0c1a140697e01d.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
       <guid isPermaLink="false">13332496508</guid>
-      <title>Ida Laurberg - Jeg Håber Din Kæreste Dør</title>
+      <link>https://www.dr.dk/lyd/p3/splittet-til-atomer/splittet-til-atomer-2024/splittet-til-atomer-ida-laurberg-jeg-haaber-din-kaereste-doer-13332496508</link>
+      <title>Ida Laurberg: Jeg Håber Din Kæreste Dør</title>
       <description>Ida Laurberg har sit livs sommer. Sådan ser det ud. Men mens hun står på Orange Scene med Tobias Rahim, er hendes hoved et andet sted.
 Dyk med ned i, hvordan 'Jeg Håber Din Kæreste Dør' blev skabt.
 
@@ -39,6 +41,7 @@ Programansvarlig: Anders Stegger.</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:24:44</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496508/08ff02246006b77941e82e646500e40415ce5fe07c2c25faaa5d4cea186d28f0.mp3" type="audio/mpeg" length="35632951" />
     </item>
     <item>

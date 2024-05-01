@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:48 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:06:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332410182</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410182</link>
+      <title>Tirsdag 30. apr. 2024</title>
+      <description>Igen i dag er en stor del af programmet dedikeret til Havets Minister aka Magnus Heunicke. For efter tre ugers pres og en telefonsvarerbesked fra os, er der nu hul igennem. Derudover laver vi shrinkflation opmålinger, og så lægger vi sidste hånd på Danskerpjecen, som amerikanske soldater i Roskilde skal have udleveret.
+Værter: Mikkel Rosendal, Liva Manghezi og Mikkel Klint Thorius.</description>
+      <pubDate>Tue, 30 Apr 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410182/0e124e620595c766ed35d99bb49f2b5154a63f75c42775e075e8fbe64edcedbb.mp3" type="audio/mpeg" length="254881594" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332410181</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410181</link>
       <title>Mandag 29. apr. 2024</title>
@@ -37,19 +50,6 @@ Værter: Liva Manghezi og Mikkel Klint Thorius.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410181/47b6ed92e323018959cdf6e36d6175fe8c9565969d400ee93a0ba7d29ec9d02b.mp3" type="audio/mpeg" length="254881593" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410175</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410175</link>
-      <title>Fredag 26. apr. 2024</title>
-      <description>- fokuserer på de ting, der betyder noget for dig, dit liv og din hverdag.
-Stå op med Liva Manghezi, Mikkel Rosendal og Mikkel Klint Thorius, som sender dig både opløftet og oplyst ud i dagen.</description>
-      <pubDate>Fri, 26 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410175/38aadc8d91c8b47b12e132fe5d79753ed0a5f05a0db7c59573ff3806846c9141.mp3" type="audio/mpeg" length="254882102" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:05:55 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -122,18 +122,6 @@
       <itunes:duration>00:24:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192872/cd02139dc142a1311fe08b450de0c856307b55325ca5355e9d8f8900ebff3301.mp3" type="audio/mpeg" length="34988589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192871</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-bramfrihed-meter-i-sekundet-16122192871</link>
-      <title>Bramfrihed - Meter i sekundet</title>
-      <description>Hvem har ikke prøvet at forlade nogens selskab med følelsen af at have "oversharet"? Er du typen, der altid taler lidt for højt om sex, er du typen, der aldrig taler om sex, eller flyder du rundt et sted midt imellem? Camilla og Barbara lider at periodiske ordopkastninger, hvilket kaster dem ud i akavede situationer på niveau med hovedpersonen i Stine Pilgaards knivskarpe roman, Meter i sekundet.</description>
-      <pubDate>Fri, 30 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:44</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192871/ff9ae216668a6af83b734a22903732b0a8d81adc847c227d6255770ebfd967e2.mp3" type="audio/mpeg" length="32751981" />
     </item>
   </channel>
 </rss>

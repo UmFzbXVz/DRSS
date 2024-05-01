@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:05:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -402,19 +402,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:14:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192718/7c8d7821762e61184f12c83a1fdf8cdc1c1183d7dd831f07c46addc6e7d6969e.mp3" type="audio/mpeg" length="21390381" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192717</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-drengen-med-guldstemmen-16122192717</link>
-      <title>Drengen Med Guldstemmen</title>
-      <description>Glæd dig til dokumentaren om "Drengen med Guldstemmen", hør hvordan det lyder når man kan imitere dyrelyde til perfektion og få den perfekte fitnesspodcast i ørerne.
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 30 Apr 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:13:25</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192717/a559f2fb2fef8702e8e643b6381d5ced2bffa32fd9db694882062758ee3b4e95.mp3" type="audio/mpeg" length="19342125" />
     </item>
   </channel>
 </rss>

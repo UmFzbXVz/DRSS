@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:06:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802438506</guid>
+      <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2024/stjerner-og-striber-onsdag-valg-i-europa-brevkasse-special-fra-strasbourg-11802438506</link>
+      <title>Onsdag: Valg i Europa: Brevkasse Special fra Strasbourg</title>
+      <description>Hvem er de mest flamboyante EU-kandidater gennem tiden? Hvor meget indflydelse har de danske parlamentarikere egentlig? Og kan briterne komme med i EU igen? Stjerner og striber dykker ned i brevkassen og svarer på lytterspørgsmål i anledning af Europa-Parlamentets sidste møde i Strasbourg.
+Hver onsdag kaster Stjerner og striber sig over EU-valget til juni. Hver fredag handler det om valget i USA.
+Deltagere: Udlandskorrespondent Stéphanie Surrugue, EU-korrespondent Ole Ryborg, korrespondent i Storbritannien Tinne Hjersing Knudsen og EU-reporter Per Bang Thomsen. Tilrettelæggelse: Lasse Berg Sørensen.</description>
+      <pubDate>Wed, 01 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:39:31</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802438506/6eeb7963fc65e53bf0d359d2637fd5a6c028f22c2916ba23bf7d618d750ad3e4.mp3" type="audio/mpeg" length="56927671" />
+    </item>
     <item>
       <guid isPermaLink="false">11802437017</guid>
       <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2024/stjerner-og-striber-usa-magic-mike-har-talt-med-gud-11802437017</link>
@@ -1203,18 +1216,6 @@ Deltagere: USA-korrespondent Lillian Gjerulf Kretz, journalist og USA-specialist
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:40:17</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802134020/4e6075b9e0aa43352fab6157e79e6d3d8d4d3c9d397ce9a2dd387d444a315c64.mp3" type="audio/mpeg" length="58025133" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802134019</guid>
-      <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2021/stjerner-og-striber-100-dage-11802134019</link>
-      <title>100 dage!</title>
-      <description>Joseph Robinette Biden Jr. har nu siddet for bordenden i Det Hvide Hus i 100 dage, og der er fart på den 78-årige præsident. Hvad har han opnået i de første tre måneder, og hvad vil han nu?
-Deltagere: USA-korrespondent Lillian Gjerulf Kretz, journalist og USA-specialist Lasse Engelbrecht, international korrespondent Stéphanie Surrugue og journalist Lasse Berg Sørensen.</description>
-      <pubDate>Fri, 30 Apr 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:43:00</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802134019/9f3d9ff6de5e7faad2e89bc313257d7c2e64bca65b3ba49d92d826b02347bb61.mp3" type="audio/mpeg" length="61938477" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:40:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:06:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433182</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433182</link>
+      <title>Tirsdag 30. apr. 2024</title>
+      <description>Er det i strid med lovgivningen, at Miljøstyrelsen og Miljøministeriet lader en række virksomheder at pumpe forurenet spildevand ud i havet?  Skal arbejdsgivere blande sig i danskeres sundhed? Hvad er konsekvenserne for danske virksomheder, at Brexit nu betyder mere importbøvl for EU-fødevarer?  
+Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
+      <pubDate>Tue, 30 Apr 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:17</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433182/14e6ab054cfaba88f9fe6a92deda973ea1338f14a52d35a454dfb9bce08e0b74.mp3" type="audio/mpeg" length="236583585" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433181</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433181</link>
@@ -1842,18 +1854,6 @@ Dagens værter: Julie Toft og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:05</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333446/17fdcba7350102f2e96b39ce7ea534ac604dd4e6ed361ae839f46450928ec620.mp3" type="audio/mpeg" length="158530267" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333445</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333445</link>
-      <title>Fredag 3. nov. 2023</title>
-      <description>Hvilken magtkamp er vi vidne til i FE-sagen? Har spillebranchens markedsføring et ansvar for stigende spilleproblemer blandt danskere? Hvordan er åbningen af grænseåbningen mellem Gaza og Egypten forløbet?  
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <pubDate>Fri, 03 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:01</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333445/8c24cf34d9f578c66a186e12325a77ff5d12b8d826a66f9569ca11441962deaa.mp3" type="audio/mpeg" length="237644443" />
     </item>
   </channel>
 </rss>

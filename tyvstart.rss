@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:40:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:06:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,8 +24,27 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1747d0c1a140697e0ef.jpg" />
     <category>Sports</category>
     <itunes:category text="Sports" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450087</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-aalborgs-afgoerende-aften-13652450087</link>
+      <title>Aalborgs afgørende aften</title>
+      <description>Det endte med et knebent nederlag på et enkelt mål, da Aalborg Håndbold i sidste uge besøgte ungarske Veszprém i den første af to kvartfinaler i Champions League. Onsdag aften bliver det afgjort, hvilket af de to mandskaber der løber med den eftertragtede billet til Final 4. 
+
+Og selvom Aalborg leverede en stærk indsats på udebanen, er det nok stadig ungarerne, der løber med favoritværdigheden. 
+Eller er det? DR Sportens håndboldkommentator Frederik Lindved vurderer holdene ud fra fire kriterier for at afgøre, hvem der står stærkest til den altafgørende duel i Gigantium.
+
+Vært: Emil Schiønning</description>
+      <pubDate>Wed, 01 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450087/5a291ff6cdc1c191730fa0797de92db34281ad7b8dbf3f49767813b118721347.mp3" type="audio/mpeg" length="21044605" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450086</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-fem-faelder-for-real-13652450086</link>
       <title>Fem fælder for Real</title>
       <description>De er med afstand det mest succesfulde hold i Champions Leagues historie. Derfor er det også oplagt at pege på Real Madrid, når der skal udvælges en favorit i dette års udgave af verdens fineste klubturnering, der i denne uge tager hul på semifinalerne.
 
@@ -36,6 +55,7 @@ Vært: Emil Schiønning</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:15:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450086/482e728b4fd0bc97ece1789232e18b9de1ae20f39a8875e24cd288dca23179c9.mp3" type="audio/mpeg" length="21700091" />
     </item>
     <item>
@@ -1889,34 +1909,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:04</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350211/b32da3c0284fb23ccef9738dfc8c9d9d5062aadd102afe97d713783368801b4b.mp3" type="audio/mpeg" length="21704923" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350210</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-koreansk-kapow-paa-heden-13652350210</link>
-      <title>Koreansk kapow på Heden</title>
-      <description>FC Midtjylland sælger flere trøjer end nogensinde før. Mange bliver sendt til Sydkorea, andre bliver købt i fanshoppen af koreanske fans, der er rejst hele vejen til Danmark. 
-Årsagen er stjerneangriberen Cho Gue-Sung, der siden sin ankomst i sommer har leveret fem Superligamål og åbnet døren til et hidtil uset marked for en dansk fodboldklub.
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350210/18a5d03ede56af6de465b0f63777db059e97ac7161bbb23b1e8d162539f80dad.mp3" type="audio/mpeg" length="26090011" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350209</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-skal-messi-eller-haaland-vinde-ballon-d-or-13652350209</link>
-      <title>Skal Messi eller Haaland vinde Ballon d'Or?</title>
-      <description>Hvem bør kåres som verdens bedste fodboldspiller? Mandag uddeles prisen Ballon d'Or, og spørgsmålet er, om Lionel Messi eller Erling Haaland skal løbe med hæderen.
-I dagens afsnit af Tyvstart er der debat mellem kommentator Andreas Kraul og fodboldekspert Tommy Bechmann, som ikke kan blive enige.
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:50</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350209/f68eb678c6fcebb8f4e3b3013405eb5f6ab1305ec798f8d37b7d50c9a9a5873f.mp3" type="audio/mpeg" length="25890715" />
     </item>
   </channel>
 </rss>

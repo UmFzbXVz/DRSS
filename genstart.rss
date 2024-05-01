@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:43 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:00:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593ba22846e9f8fc0338958.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
       <guid isPermaLink="false">11802460101</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -38,6 +39,7 @@ Program publiceret i DR Lyd d. 26/4.</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:25:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460101/4db6a92c48665fcb69d5290d9b4e4ea31ac7bf5d03c1ca6e13c2e38d9e285bd2.mp3" type="audio/mpeg" length="36339719" />
     </item>
     <item>

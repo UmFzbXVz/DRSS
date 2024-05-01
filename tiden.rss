@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:05:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,8 +25,28 @@ Vært: Annika Wetterling.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593b98a846e9f8fc03386f8.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451082</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-vaabensmugler-for-retten-klima-goals-og-en-fisketoerstig-skipper-11802451082</link>
+      <title>Våbensmugler for retten, klima goals og en fisketørstig skipper</title>
+      <description>Indien har i årevis kæmpet for at få den danske våbenhandler Niels Holck udleveret. I dag indleder retten i Hillerød sagen. 
+Danmark er et stort skridt tættere på at nå 2030-klimamålet, men skal vi klappe i hænderne?
+En fiskeskipper ved Hvide Sande savner fisk i havet efter eksperter vurderer at Miljøministeriet i strid med loven har tilladt virksomheder at udlede miljøfarlige stoffer i et hav, der allerede er for belastet.
+Vært: Annika Wetterling.
+Medvirkende: 
+Sebastian Stryhn Kjedtoft, Asienkorrespondent for Politiken.
+Filip Knack Kirkegaard, DR's klimaanalytiker.</description>
+      <pubDate>Wed, 01 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451082/6890009caebe246aa18c58e40f4151a04fc068e1e06e12c7bb6e871112bdc452.mp3" type="audio/mpeg" length="24464911" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451081</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-massoer-uden-graenser-spansk-taenkepause-og-kampklare-kvinder-11802451081</link>
       <title>Massør uden grænser, spansk tænkepause og kampklare kvinder?</title>
       <description>Det store forsvarsforlig er i hårdknude og det er alt sammen kvindernes skyld. 
 Spaniens premierminister har efter 5 dages tænkepause noget at sige. 
@@ -39,6 +59,7 @@ Merle Baeré, journalist på DR's undersøgende redaktion.</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:17:45</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451081/f02a2acf7e91b65783cd15502ec8dc58dbca8382395c93ccb8a096ab08781fc1.mp3" type="audio/mpeg" length="25584076" />
     </item>
     <item>
@@ -112,7 +133,7 @@ Henning Urban Dam, Borgmester i Stevns Kommune for Socialdemokratiet.</descripti
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:17:12</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451077/4963fbaa4908904a5505e546b7e28c87f9ef8a57452343b23a241efdf4aa12b5.mp3" type="audio/mpeg" length="24785738" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451077/25d75b3c86af80f80e15f08d1ac140ac06c1de7d02ac3777a4452015ee799092.mp3" type="audio/mpeg" length="24785738" />
     </item>
     <item>
       <guid isPermaLink="false">11802451076</guid>
@@ -2157,43 +2178,6 @@ Henrik Liniger, DR's sportskommentator.</description>
       <itunes:duration>00:20:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351199/e056bde635841b440025b1c1772dc5a91071ca826684e894b6a2f184e053b61a.mp3" type="audio/mpeg" length="30176731" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351198</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-regeringens-skattelettelser-tanks-i-gaza-og-vejles-taeskehold-11802351198</link>
-      <title>Regeringens skattelettelser, tanks i Gaza og Vejles tæskehold</title>
-      <description>Israel har indledt krigens næste kapitel i Gaza. Tiden går i dag helt tæt på de hospitaler, der lige nu opererer uden lys og bedøvelse.
-Regeringen er klar med en plan for skattelettelser, men ikke alle er glade.
-Sydøstjyllands Politi har valgt at nedlægge deres specialpatrulje på baggrund af "et samlet billede" af kritik. En specialpatrulje, som flere betegner som et tæskehold. 
-Vært: Adrian Busk.
-Medvirkende: 
-Bjarke Skaaning, Katastrofechef i Røde Kors.
-Jesper Hansen, adjunkt og politiforsker ved Aarhus Universitet.</description>
-      <pubDate>Tue, 31 Oct 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:49</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351198/0da3e66bea126e4c4d46bda329b9c999dc6c8fe7877966d9d1ffe5e2da8a2f30.mp3" type="audio/mpeg" length="24230107" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351197</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-en-kritiseret-koranlov-faerdige-faeroeske-fisk-og-en-spionsag-paa-klem-11802351197</link>
-      <title>En kritiseret koranlov, færdige færøske fisk og en spionsag på klem</title>
-      <description>Regeringen laver markante ændringer i koranloven efter stor kritik, så er kritikerne tilfredse? 
-De færørske fisk står til at blive boycuttet af Rusland og kan slynge landet ud i krise. 
-Straffesagerne mod tidligere Venstre-minister Claus Hjort Frederiksen og ex-spionchef Lars Findsen skal køre for delvist åbne døre. Vi ser på, hvad det betyder. 
-Vært: Annika Wetterling.
-Medvirkende: 
-Nina Palesa Bonde, formand for Dommerfuldmægtigforeningen. 
-Rólant Waag Dam, journalist ved Frihedsbrevet med bopæl i Færøerne.
-Trine Maria Ilsøe, retskorrespondent i DR.</description>
-      <pubDate>Mon, 30 Oct 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:21:18</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351197/93dcfc1d30450cdd9f9c31ac277e7c07e3217c58fed702e727ee1690fd731aa6.mp3" type="audio/mpeg" length="30688795" />
     </item>
   </channel>
 </rss>

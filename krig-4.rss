@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:06:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,25 @@ Produceret for DR af MonoMono.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122492402</guid>
+      <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-hundefoereren-16122492402</link>
+      <title>Hundeføreren</title>
+      <description>Særligt trænede hunde er med, når danske soldater er udsendt i krig. Hundefører Laus Knudsen fortæller om arbejdet med sin hund Coby, der kan snuse sig frem til kobbertråde i vejsidebomber, og som er trænet til til at angribe en fjende og ikke slippe igen. Han fortæller også om det helt særlige forhold, man som hundefører får til sin hund, og om en dramatisk oplevelse i Mali, der var ved at koste dem begge livet.    
+
+Vært og tilrettelægger: Martin Tamm Andersen.
+Gæster: Laus Knudsen, flyverspecialist og Peter Storgaard, kaptajn.
+Klip og producer: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+Musik: Mikkel Rønnau.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Wed, 01 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:35:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492402/d066fb9ff9e2804cdcf0e4d6b96fed28245af8eee9938ddab998f33093f29faf.mp3" type="audio/mpeg" length="51023646" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492401</guid>
       <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-human-intelligence-16122492401</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:40:06 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:06:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,8 +24,24 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1817d0c1a140697e11f.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422363177</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-1-maj-12422363177</link>
+      <title>1 maj</title>
+      <description>En ræverød kampsang, lyden af klarinet og en ung fransk komponist sender arbejdernes kampdag ind i foråret sammen med Brahms, Vivaldi, Ola Gjeilo og Ricky Lee Jones.
+Vært: Minna Grooss.
+(Sendt første gang 1. maj 2023).</description>
+      <pubDate>Wed, 01 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363177/90eece4949da3816d24ee2c062216ae31befe430b462ce99eae1682d11444c56.mp3" type="audio/mpeg" length="168472343" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463181</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-musikalske-tankestreger-12422463181</link>
       <title>Musikalske tankestreger</title>
       <description>I skumringen, når skyggerne er lange, kan tanker blive til eftertanker. Den eftertænksomhed, der kan ramme dig, forsøger Natsværmeren at matche med lange musikalske tankestreger i skyggen af dagen.
 Vært: Tina Rømer.</description>
@@ -33,6 +49,7 @@ Vært: Tina Rømer.</description>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463181/9536ac41c199cee35602ed6e68237e9117279cce842f3d81bfd1875c31c89b19.mp3" type="audio/mpeg" length="168472353" />
     </item>
     <item>
@@ -396,19 +413,6 @@ Vært: Tina Rømer.
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363166/76d8762a64f852e9ca760c3a1038b655054a0dc7c236663279bbe6ccdd7f941d.mp3" type="audio/mpeg" length="172995063" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463137</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-bloed-er-natten-12422463137</link>
-      <title>Blød er natten</title>
-      <description>En klang af en klarinet, ordløs erotik, og lyden af en mundharpe der smelter sjælen.
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 01 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463137/6e2923878a5c93745f479df6090788b5a0e1856026c32b166f731c0545ba5548.mp3" type="audio/mpeg" length="168671537" />
     </item>
     <item>
       <guid isPermaLink="false">12422263112</guid>

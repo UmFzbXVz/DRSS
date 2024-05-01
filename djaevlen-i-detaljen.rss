@@ -11,7 +11,7 @@ Produceret for DR af Filt Cph.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 05:55:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret for DR af Filt Cph.</description>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16122492716</guid>
+      <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
+      <title>Teaser: Et drab bliver aldrig glemt</title>
+      <description>I 2003 finder Allis Christensen sin søster Laila død. Dagen efter foretager retsmediciner Jørgen Lange Thomsen en obduktion af Laila, og han fastslår, at hun er blevet dræbt. Drabet er stadig uopklaret. I dette afsnit fortæller Allis og Jørgen om drabet, ingen af dem glemmer. Allis glemmer det aldrig, fordi hun elskede sin søster meget højt, og Jørgen glemmer det aldrig, fordi han ærgrer sig over, at han ikke rykkede hurtigere ud til gerningsstedet. Hør hele afsnittet i &lt;a href=https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen&gt;DR Lyd&lt;/a&gt;.</description>
+      <pubDate>Wed, 01 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492716/f1bff72c232d0a7f2d6c517c7f686d996c218e23523107f20ab3bde5fd689d43.mp3" type="audio/mpeg" length="1746880" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492715</guid>
       <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>

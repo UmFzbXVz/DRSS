@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:02 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:06:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,174 +24,461 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c13d443243f95e2c7a08.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">14842405183</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20244/radioavisen-14842405183</link>
+      <title>1. maj 2024 kl. 05:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Wed, 01 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842405183/cdbf0a19a3e0a615ddb57eaec750dbbd428a69ddbea77f8a0f2e570cf15436ae.mp3" type="audio/mpeg" length="4321967" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842404182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20243/radioavisen-14842404182</link>
+      <title>1. maj 2024 kl. 04:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Wed, 01 May 2024 04:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842404182/a7cc9e8080fbd24879fd0ec36859c1f9f72fe9cd86a01e8211ddc0f0f25f82df.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842403182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20242/radioavisen-14842403182</link>
+      <title>1. maj 2024 kl. 03:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Wed, 01 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842403182/a6616200372f9a6fff5e90ee98d72252ea29431fbe52a056cad37c000493b9d8.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842402182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20241/radioavisen-14842402182</link>
+      <title>1. maj 2024 kl. 02:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Wed, 01 May 2024 02:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842402182/876288c1b49a131aa9069338d44e0028b2ef16401d7e9edf60752ba7ff3ae847.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842401182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2024/radioavisen-14842401182</link>
+      <title>1. maj 2024 kl. 01:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Wed, 01 May 2024 01:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842401182/9a5753877bb8da9ded9449a359f544aeff9976f480cfd72c69bd909c39e05f27.mp3" type="audio/mpeg" length="4321967" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842424182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202423/radioavisen-14842424182</link>
+      <title>1. maj 2024 kl. 00:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:02:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842424182/2ca4f212615fdd7c117e2e558605ea60353fae82337c41e8ac6380fb1bd8894d.mp3" type="audio/mpeg" length="4311599" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842423182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202422/radioavisen-14842423182</link>
+      <title>30. apr. 2024 kl. 23:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 23:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842423182/7453e1a3a09ed8efc232eddeef33b995dec9e1e1e184d2335904bd76f41fecde.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842421182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202420/radioavisen-14842421182</link>
+      <title>30. apr. 2024 kl. 21:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 21:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842421182/84f6962b2fe153b263f9ce2b7e13c9f15161b1efb704b22f83836fa35ca6e6a1.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842420182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202419/radioavisen-14842420182</link>
+      <title>30. apr. 2024 kl. 20:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842420182/ca0f2f26b96abb070d46dbb58ea609191e6171cb6ba2d166d4d69eaeec48c0c7.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842419182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202418/radioavisen-14842419182</link>
+      <title>30. apr. 2024 kl. 19:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 19:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842419182/fe99fe0b3edba2c5e99a50a637aab3871adcb6a3b733af90d7f2b0f0e4380e87.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842418182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202417/radioavisen-14842418182</link>
+      <title>30. apr. 2024 kl. 18:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842418182/523ee545c9b49f396caf9c65b7af07080ec824eb0e4595bb4e5c6c019d687bd4.mp3" type="audio/mpeg" length="7201391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842417182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202416/radioavisen-14842417182</link>
+      <title>30. apr. 2024 kl. 17:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 17:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842417182/5e71efc12d9825ac840e1c978987eececdf3e4ee0ce1b795764da82513204287.mp3" type="audio/mpeg" length="7201967" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842416182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202415/radioavisen-14842416182</link>
+      <title>30. apr. 2024 kl. 16:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842416182/093e1cb0cadc9a5258d2917db26fde3ebcffbd897449fb991a022976b6fde066.mp3" type="audio/mpeg" length="7201391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842415182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202414/radioavisen-14842415182</link>
+      <title>30. apr. 2024 kl. 15:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 15:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842415182/bbf4dd5d90154871a5a921b1f6f2881489d33935fec6e50f31d1668b26a7a535.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842414182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202413/radioavisen-14842414182</link>
+      <title>30. apr. 2024 kl. 14:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842414182/380d1da3506937c08c91b5249ea2bef823a2e9242c431a74c9077ca631b12eb8.mp3" type="audio/mpeg" length="4321967" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842413182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202412/radioavisen-14842413182</link>
+      <title>30. apr. 2024 kl. 13:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 13:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842413182/343cd532383a1289c543f4d5f0756c8b54bd83a0aaeda0a17a830e98a34b0296.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842412182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202411/radioavisen-14842412182</link>
+      <title>30. apr. 2024 kl. 12:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842412182/a1034b72f61a9228b71199acee36513f7789c85b41b9cec9ee3db5e5586f4d6c.mp3" type="audio/mpeg" length="21601391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842411182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202410/radioavisen-14842411182</link>
+      <title>30. apr. 2024 kl. 11:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 11:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842411182/d0a8261654c2a5193818aa2de54035050f6d93820a0d2d046fb1f4f3e439e6df.mp3" type="audio/mpeg" length="4321967" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842410182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20249/radioavisen-14842410182</link>
+      <title>30. apr. 2024 kl. 10:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 10:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842410182/38e4930eb2379d8cdd76c56620c116bddc16dd42b43356bdabdcf319e4cfcdaf.mp3" type="audio/mpeg" length="4321391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842409182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20248/radioavisen-14842409182</link>
+      <title>30. apr. 2024 kl. 09:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842409182/77afbc8011b02a8140c8762ad3fe1f947a2a1d573e94c5dfeb927f592c1619ac.mp3" type="audio/mpeg" length="7201391" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842408182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20247/radioavisen-14842408182</link>
+      <title>30. apr. 2024 kl. 08:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Tue, 30 Apr 2024 08:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842408182/386d36be12ad07816d9077ac81916b1d3b2aa9c2d0db4095640408f240feb9ca.mp3" type="audio/mpeg" length="7201391" />
+    </item>
     <item>
       <guid isPermaLink="false">14842407182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20246/radioavisen-14842407182</link>
       <title>30. apr. 2024 kl. 07:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Tue, 30 Apr 2024 07:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842407182/4ab21ed3dcea320ff4eb3f3d2213bb22df9140f8b5513febf524ed6d329aadf4.mp3" type="audio/mpeg" length="7201391" />
     </item>
     <item>
       <guid isPermaLink="false">14842406182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20245/radioavisen-14842406182</link>
       <title>30. apr. 2024 kl. 06:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Tue, 30 Apr 2024 06:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842406182/b78041c91fbe81e56c0104cb5341cd142f6acbad9456287e919f030c4423564d.mp3" type="audio/mpeg" length="7201391" />
     </item>
     <item>
       <guid isPermaLink="false">14842405182</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20244/radioavisen-14842405182</link>
       <title>30. apr. 2024 kl. 05:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Tue, 30 Apr 2024 05:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842405182/ccab219430877260319a9250d3e72636e7d138760eb6996a4f82bee2e9580e86.mp3" type="audio/mpeg" length="4321391" />
     </item>
     <item>
       <guid isPermaLink="false">14842404181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20243/radioavisen-14842404181</link>
       <title>30. apr. 2024 kl. 04:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Tue, 30 Apr 2024 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842404181/ac42375cc1a95e0bfab4eb4a00a8822f3c63b0154ac43010e16be6da1b172965.mp3" type="audio/mpeg" length="4321391" />
     </item>
     <item>
       <guid isPermaLink="false">14842403181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20242/radioavisen-14842403181</link>
       <title>30. apr. 2024 kl. 03:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Tue, 30 Apr 2024 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842403181/1499b7630c8ee869b5952aed22e1522e70bd84ba7ca16eb8c7a5ecebdf8e421c.mp3" type="audio/mpeg" length="4321391" />
     </item>
     <item>
       <guid isPermaLink="false">14842402181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20241/radioavisen-14842402181</link>
       <title>30. apr. 2024 kl. 02:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Tue, 30 Apr 2024 02:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842402181/4b491b2d84c80df5028967d4d1375ab316e3631f4fd1c41a67fa9b97ddd04e83.mp3" type="audio/mpeg" length="4321967" />
     </item>
     <item>
       <guid isPermaLink="false">14842401181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2024/radioavisen-14842401181</link>
       <title>30. apr. 2024 kl. 01:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Tue, 30 Apr 2024 01:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842401181/4b840567dddd7b911dbc23340539807ac49459b8daefea2f79cff9f73509944f.mp3" type="audio/mpeg" length="4321967" />
     </item>
     <item>
       <guid isPermaLink="false">14842424181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202423/radioavisen-14842424181</link>
       <title>30. apr. 2024 kl. 00:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:02:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842424181/8921fc2096d83c3d818ed93bea82f475b89c8cd4b2e15d01d4260b6274b64577.mp3" type="audio/mpeg" length="4320815" />
     </item>
     <item>
       <guid isPermaLink="false">14842423181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202422/radioavisen-14842423181</link>
       <title>29. apr. 2024 kl. 23:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 23:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842423181/225703cd991e64623cf8b7a566d67cf638774427ec07ad68c241a728521e1a83.mp3" type="audio/mpeg" length="4321391" />
     </item>
     <item>
       <guid isPermaLink="false">14842422181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202421/radioavisen-14842422181</link>
       <title>29. apr. 2024 kl. 22:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 22:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842422181/96f1f3a130fba0bf268b07d94c380e27a32b9dbacf5265228abb38c709e515c4.mp3" type="audio/mpeg" length="4321967" />
     </item>
     <item>
       <guid isPermaLink="false">14842421181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202420/radioavisen-14842421181</link>
       <title>29. apr. 2024 kl. 21:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 21:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842421181/de9270b349876ec4ce62bf6050c75fb45b9db7768801db423f1fccdc03adde3b.mp3" type="audio/mpeg" length="4321391" />
     </item>
     <item>
       <guid isPermaLink="false">14842420181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202419/radioavisen-14842420181</link>
       <title>29. apr. 2024 kl. 20:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 20:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842420181/051723f0b7d24125d2f7364d48ceea8381021c95f066ed59147e46941bc26611.mp3" type="audio/mpeg" length="4321391" />
     </item>
     <item>
       <guid isPermaLink="false">14842419181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202418/radioavisen-14842419181</link>
       <title>29. apr. 2024 kl. 19:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 19:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842419181/281837f1595cb24ac0b2f9c6aa5c507d03a123498c8c177fa5a63aaf86a8989d.mp3" type="audio/mpeg" length="4321391" />
     </item>
     <item>
       <guid isPermaLink="false">14842418181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202417/radioavisen-14842418181</link>
       <title>29. apr. 2024 kl. 18:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842418181/c09310cc1db2062ebcca7b9b22be6fc58a626501e5855025b1c0acb7c9abe7a5.mp3" type="audio/mpeg" length="7201391" />
     </item>
     <item>
       <guid isPermaLink="false">14842417181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202416/radioavisen-14842417181</link>
       <title>29. apr. 2024 kl. 17:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 17:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842417181/c129cc24cf2d6008db8a3fc3db78e97caaab885be9e85b991807dda1a4742b65.mp3" type="audio/mpeg" length="7201391" />
     </item>
     <item>
       <guid isPermaLink="false">14842416181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202415/radioavisen-14842416181</link>
       <title>29. apr. 2024 kl. 16:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 16:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842416181/6a404c25f568298e361b652b63f39de7941543e3adbff3fd940f8e1387f1cc05.mp3" type="audio/mpeg" length="7201967" />
     </item>
     <item>
       <guid isPermaLink="false">14842415181</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202414/radioavisen-14842415181</link>
       <title>29. apr. 2024 kl. 15:00</title>
       <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
       <pubDate>Mon, 29 Apr 2024 15:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:03:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842415181/31e1c955a0da43b0eb8bb06ab40802c0fced0ff3e539927a73195d7e085b3f2d.mp3" type="audio/mpeg" length="4321391" />
     </item>
     <item>
@@ -949,294 +1236,6 @@
       <itunes:duration>00:02:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842424175/78b53286771bbe391c39c6c0f2e7d4f61172f62bbc740fd4d349b4be411c2f3a.mp3" type="audio/mpeg" length="4313327" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842423175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202422/radioavisen-14842423175</link>
-      <title>26. apr. 2024 kl. 23:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 23:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842423175/55e666f96428600fe72a073901949507a3fe7cf4b33a191b61243f9e6fddfc89.mp3" type="audio/mpeg" length="4321967" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842422175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202421/radioavisen-14842422175</link>
-      <title>26. apr. 2024 kl. 22:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 22:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842422175/3e7a7af16a823da68bc0ef51ac0437f9d44182ad939db4d84789a67eda0b6635.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842421175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202420/radioavisen-14842421175</link>
-      <title>26. apr. 2024 kl. 21:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 21:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842421175/102acc9b61f9194c76bb30476bd886fba5a75b27b669018c44b94337b34bf412.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842420175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202419/radioavisen-14842420175</link>
-      <title>26. apr. 2024 kl. 20:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 20:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842420175/d63fda618f815e3848146c3028d3f507c79fc471444ff668fcd35dab864edd9a.mp3" type="audio/mpeg" length="4321967" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842419175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202418/radioavisen-14842419175</link>
-      <title>26. apr. 2024 kl. 19:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 19:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842419175/4b6f6eddc5a7ad4ace575fb652ac2bd6d1dab6096b7e0257d886f08d0788a3dd.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842418175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202417/radioavisen-14842418175</link>
-      <title>26. apr. 2024 kl. 18:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842418175/fcefa8ddc0dfefc6011999d18b1c5e66fc11b99e2d98a903ffea52ad8e10706a.mp3" type="audio/mpeg" length="7201391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842417175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202416/radioavisen-14842417175</link>
-      <title>26. apr. 2024 kl. 17:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 17:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842417175/d25e0a068ceb4c309bfdb49013bef0ad4ec71eb483bdbe0a982848ea7ea37bb2.mp3" type="audio/mpeg" length="7201391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842416175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202415/radioavisen-14842416175</link>
-      <title>26. apr. 2024 kl. 16:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 16:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842416175/7bdaa5ce8454cef87fceaa9f2b42dbfdfcc6c1b48b4d9ddca2367b9a963b2e3f.mp3" type="audio/mpeg" length="7201391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842415175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202414/radioavisen-14842415175</link>
-      <title>26. apr. 2024 kl. 15:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 15:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842415175/6d824df5719dd2eea6bfd77172d058d8425b40f4199e1c848c12b2370eb25247.mp3" type="audio/mpeg" length="4321967" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842414175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202413/radioavisen-14842414175</link>
-      <title>26. apr. 2024 kl. 14:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842414175/b68e7670f44a81310b2ffebd9b4c32abd5a37ad168709b5b77e56b97c0650bc0.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842413175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202412/radioavisen-14842413175</link>
-      <title>26. apr. 2024 kl. 13:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 13:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842413175/6b921b9e57de32604106c2b308a49d1affd58fc3a7eca37ecba0531c01b35cbc.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842412175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202411/radioavisen-14842412175</link>
-      <title>26. apr. 2024 kl. 12:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 12:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842412175/d93e7645f133e9faa5e146ffc77c43330fbafa2bd1bb8c4a1243855957d64990.mp3" type="audio/mpeg" length="21601967" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842411175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202410/radioavisen-14842411175</link>
-      <title>26. apr. 2024 kl. 11:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 11:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842411175/86b8b1f4a5ac5925acbf4f96e8963141144272db7bb9e23120a578af7a2ab425.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842410175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20249/radioavisen-14842410175</link>
-      <title>26. apr. 2024 kl. 10:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 10:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842410175/ce338d830d1452bfb71e16712eecc032cc3a53f7f7758f0c5daf29f78a01ceeb.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842409175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20248/radioavisen-14842409175</link>
-      <title>26. apr. 2024 kl. 09:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 09:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842409175/96f2096cb612c7cb016133139ed7356988e5c06c536f52615355f27170a4f974.mp3" type="audio/mpeg" length="7201967" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842408175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20247/radioavisen-14842408175</link>
-      <title>26. apr. 2024 kl. 08:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 08:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842408175/c04e0a278124db37f2333f33d4225b4830db533ab18380472c123ed86634ffdd.mp3" type="audio/mpeg" length="7201391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842407175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20246/radioavisen-14842407175</link>
-      <title>26. apr. 2024 kl. 07:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 07:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842407175/828a2b8a4b9d649798a9fd5ad3d7a03e27225e7ade0f32c3544ea0e6171c3f2e.mp3" type="audio/mpeg" length="7201391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842406175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20245/radioavisen-14842406175</link>
-      <title>26. apr. 2024 kl. 06:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842406175/b2533d2a2608b1716f0ce58ceed13d9f748c27aa9962be83a4e5f3e87dbe6faf.mp3" type="audio/mpeg" length="7201967" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842405175</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20244/radioavisen-14842405175</link>
-      <title>26. apr. 2024 kl. 05:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 05:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842405175/3136b1f30835d122a0c17569b5a2e3156497201df95479184df656ea25c0faa5.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842404174</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20243/radioavisen-14842404174</link>
-      <title>26. apr. 2024 kl. 04:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842404174/502727f6ece04f7c25f0ead5f4cb59560aa761adefd62c1e48a29eb0e40499ad.mp3" type="audio/mpeg" length="4321967" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842403174</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20242/radioavisen-14842403174</link>
-      <title>26. apr. 2024 kl. 03:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842403174/f71ddd472ebcaf4cddacbdebf645f79b5fb7bd4c9c44eaf27a361ea7b25b395f.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842402174</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20241/radioavisen-14842402174</link>
-      <title>26. apr. 2024 kl. 02:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 02:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842402174/ac11451ee58df127f9157cc3fce93ffa41177f538ab2903fc14ab70e0761229d.mp3" type="audio/mpeg" length="4321391" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842401174</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-2024/radioavisen-14842401174</link>
-      <title>26. apr. 2024 kl. 01:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 01:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:03:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842401174/9bcd578f9a2430fb6f16b62e19b9d2a1de9764c57f400a4ae3a8382085186ccb.mp3" type="audio/mpeg" length="4321967" />
-    </item>
-    <item>
-      <guid isPermaLink="false">14842424174</guid>
-      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202423/radioavisen-14842424174</link>
-      <title>26. apr. 2024 kl. 00:00</title>
-      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:02:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842424174/9f293bb554f77cf22ba0cefb54a7f0072c40cafc537b2b7da606d9cf422ed228.mp3" type="audio/mpeg" length="4317359" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ Vært: Anne Glad, forbruger- og livsstilsekspert.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:52 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:05:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -36,6 +36,7 @@ Glæd dig til dagens episode, som du nu kan høre &lt;a href=https://www.dr.dk/l
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:00:37</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032499014/ecc9709db2cdfff7760e6c9e8a2b76a191e9d3442c743254028bac6b5c7aced6.mp3" type="audio/mpeg" length="904185" />
     </item>
     <item>

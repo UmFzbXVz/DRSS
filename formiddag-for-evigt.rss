@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Apr 2024 07:39:35 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:05:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,24 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">18452424181</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424181</link>
-      <title>Mandag 29. apr. 2024</title>
+      <guid isPermaLink="false">18452424182</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424182</link>
+      <title>Tirsdag 30. apr. 2024</title>
       <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Tue, 30 Apr 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424182/fa2bb92547011d7afeaf9896a92710f8e9050ab7e6c3c5fbadee7b724c8ed705.mp3" type="audio/mpeg" length="168481588" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452424181</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-duke-ellington-4-ever-18452424181</link>
+      <title>Duke Ellington 4-ever</title>
+      <description>Der er dømt forår i formiddagsklæder og det dufter pludselig lidt anderledes. Det er sol, swing og Duke Ellingtons 125 års fødselsdag. Der er også søde svenske hverdagssysler og ikke mindst lyttere der har brug for musik til sygdom og søde roomies, hjemmearbejde med udsigt til solsorten og mandagsmøder med sild og snaps. Formiddagen har det hele.
 Vært og tilrettelægger: Niels Christian Cederberg.
 Redaktør: Kasper Christensen.</description>
       <pubDate>Mon, 29 Apr 2024 10:03:00 +0200</pubDate>
