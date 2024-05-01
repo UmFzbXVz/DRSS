@@ -24,6 +24,18 @@ const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.use
 const resultsContainer = document.getElementById('results');
 let isAdvanced = false;
   
+  
+
+  
+function isFacebookInAppBrowser() {
+    var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+    return userAgent.indexOf("FBAN") > -1 || userAgent.indexOf("FBAV") > -1;
+}
+if (isFacebookInAppBrowser()) {
+    alert("Hjemmesiden virker ikke i Facebook. Besøg den i din sædvanlige internetbrowser..")
+}
+
+  
 document.querySelector('.container h2').addEventListener('touchstart', function(event) {
     event.preventDefault();
     const touchDuration = 1000;
