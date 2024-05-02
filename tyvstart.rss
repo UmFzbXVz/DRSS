@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:57:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:14:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450088</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-2-10-20-eller-farvel-til-ol-13652450088</link>
+      <title>2:10:20 eller farvel til OL</title>
+      <description>For den danske mester på marathondistancen er målet klart inden weekendens 42,2 kilometer i København.
+Hvis Jacob Simonsen vil til sommerens olympiske lege i Paris, skal han igen blive dansk mester og samtidig løbe ind i tiden 02:10:20. Det kræver, at han har diamanter i benene, for den tid vil være cirka et minut hurtigere end karrierens foreløbigt hurtigste marathon.
+Hvordan forbereder man sig på så klar en mission? Og tror Jacob Simonsen på egne evner?
+Vært: Emil Schiønning.</description>
+      <pubDate>Thu, 02 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450088/3a865c36da4340a5ae668e4ed6e53ad57ebbc2358f9a81eb2be6e22a68bc9612.mp3" type="audio/mpeg" length="24153850" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450087</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-aalborgs-afgoerende-aften-13652450087</link>
@@ -1894,21 +1909,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:19:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350212/419b30550f6a3dd61b4c3ea6a04bed71a185884ebeef18bc854fa2589eb59cb8.mp3" type="audio/mpeg" length="27429787" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350211</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-verdens-mest-dominerende-fodboldspiller-13652350211</link>
-      <title>Verdens mest dominerende fodboldspiller</title>
-      <description>Hun har vundet VM og Champions League, blev kåret til Europas bedste og kan nu også kalde sig vinder af Ballon d'Or. 
-Spanske Aitana Bonmatí har været fodboldverdenens mest dominerende spiller i det seneste år, men hendes aftryk udenfor banen fylder mindst lige så meget. Og så er hun stærk inspireret af en dansker, hvis trøje Bonmatí så gerne ville have, at verdens bedste ventede i 20 minutter på Gladsaxe Stadion.
-
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:04</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350211/b32da3c0284fb23ccef9738dfc8c9d9d5062aadd102afe97d713783368801b4b.mp3" type="audio/mpeg" length="21704923" />
     </item>
   </channel>
 </rss>

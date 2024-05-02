@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:57:15 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:14:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,19 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421017</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-messerschmidts-deepfake-saudi-arabiens-techmilliarder-med-bismag-og-ai-s-sociale-slagside-11802421017</link>
+      <title>Messerschmidts deepfake, Saudi-Arabiens techmilliarder med bismag og AI's sociale slagside</title>
+      <description>En trussel for demokratiet eller et veloplagt debatoplæg? Morten Messerschmidt har lavet en deepfake af Mette Frederiksen, som har skabt stor forargelse. Vi taler med DF-formanden. Saudi-Arabien vil poste milliarder og atter milliarder på at blive en førernation inden for AI, og amerikanske techgiganter er fløjet ned for at få andel i pengene. Men kan de gøre det med god smag i munden? Vi diskuterer også, om kunstig intelligens har en social slagside med AI-forsker Sine Zambach. Hun kommer med 5 gode råd til forældrene, der gerne vil blive den gode AI-lektiehjælper.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+      <pubDate>Thu, 02 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421017/fe9229e3e6a3908aa69008a582efd590c8c9300ad7683c3a8a9de3ebe77baac6.mp3" type="audio/mpeg" length="78208584" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421016</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-selvdiagnose-ai-trash-tv-og-spurgt-meta-11802421016</link>

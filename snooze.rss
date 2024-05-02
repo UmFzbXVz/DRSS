@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:57:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:13:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -384,23 +384,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428143/15850eef54f31ed5120ca36d1a2ea82e4e7d70f9f8f87dbec439946383911cbf.mp3" type="audio/mpeg" length="252194549" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428142</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-hej-igen-18452428142</link>
-      <title>Hej igen!</title>
-      <description>Snooze er tilbage efter en god, lang påskeferie.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 02 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428142/f64bef422af67744ff786777fae65125a75b0c3fed4503eb674818a245931dc2.mp3" type="audio/mpeg" length="252195127" />
     </item>
   </channel>
 </rss>

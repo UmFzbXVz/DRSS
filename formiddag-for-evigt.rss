@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:57:36 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:13:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -290,20 +290,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424143/b2648306662237eb9b680c81d9cec59bd5457aae264c79d58d03c3e8741f529e.mp3" type="audio/mpeg" length="168674548" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424142</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424142</link>
-      <title>Tirsdag 2. apr. 2024</title>
-      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Tue, 02 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424142/eb73e3cb1dab733f3f6b713404674f996df1cbc6f67c4a8bca22f09ad6452fd8.mp3" type="audio/mpeg" length="168674548" />
     </item>
   </channel>
 </rss>

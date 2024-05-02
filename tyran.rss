@@ -17,7 +17,7 @@ Produceret for P3 af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:48:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:13:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -39,6 +39,38 @@ Produceret for P3 af MonoMono.</description>
     </itunes:category>
     <itunes:category text="History" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493755</guid>
+      <link>https://www.dr.dk/lyd/p3/tyran/benito-mussolini/tyran-benito-mussolini-5-5-16122493755</link>
+      <title>Benito Mussolini 5:5</title>
+      <description>Mussolini er kommet med i alle Hitlers krige. Men det går ikke ret godt og han er efterhånden også blevet ret træt at at skulle gøre som Hitler siger hele tiden. Da krigslykken vender for tyskerne, må Il Duce få benene på nakken. 
+
+Manus &amp; fortæller: Nicholas Durup Thomsen.
+Lyddesign: Tobias Ingemann.
+Soundtrack: Mikkel Bøgeskov Andersson &amp; Tobias Ingemann.
+Redaktør: Emil Rothstein-Christensen.
+DRredaktør: Anders Eriksen Stegger.
+Produceret for P3 af MonoMono.
+
+Kilder:
+Blood And Power, John Foot - 2022.
+Fascismens Italien, Flemming Larsen - 2010.
+Mussolini og Fascismen, Margaret Mulvihill - 1993.
+Mussolini, R.J.B. Bosworth - 2003.
+Fascist Voices, Christopher Duggan - 2015.
+My autobiography, Benito Mussolini - 1994.
+Mussolini and Italy, Edward Townley - 2015.</description>
+      <pubDate>Thu, 02 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000040005</itunes:order>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:38:54</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:660d16032e3a0a5d5ba59183.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493755/489ede1e0fb64077728b343c85dfd28643bf5a00acb926d3bca5bf764e76288d.mp3" type="audio/mpeg" length="56035450" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493754</guid>
       <link>https://www.dr.dk/lyd/p3/tyran/benito-mussolini/tyran-benito-mussolini-4-5-16122493754</link>

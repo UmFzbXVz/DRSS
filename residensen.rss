@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:56:57 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:13:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421183</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-ai-genererede-radiovaerter-og-arbejder-playlisten-til-kampdag-13332421183</link>
+      <title>AI-genererede radioværter og arbejder-playlisten til kampdag</title>
+      <description>I det arbejdende folks ånd, laver Residensen den perfekte 1.maj-playliste til dagen. Desuden finder vi det mest dovne vers nogensinde lavet i musikhistorien, Nynne quizzer Kasper i en amerikansk sanger, og så taler vi om AI-deepfakes, hvor stemningen hurtig bliver akavet, når Nynne og Kasper anbefaler, hvornår den anden godt kunne bruge en AI-version af sig selv.</description>
+      <pubDate>Wed, 01 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421183/d1cddb8319bec0549789bcb11115f820c06ac51b631e9054357ce53ea6ec821e.mp3" type="audio/mpeg" length="172801589" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421182</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-flere-hoejtalere-i-det-offentlige-rum-eller-hvad-13332421182</link>
@@ -226,18 +238,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421143/86c12944db2d71f04e3947982d98ea4e21ad1be48347f3e0159e292995b8d1ec.mp3" type="audio/mpeg" length="172995125" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421142</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-vi-behoever-ikke-et-nyt-rihanna-album-eller-hvad-13332421142</link>
-      <title>Vi behøver ikke et nyt Rihanna-album - eller hvad?</title>
-      <description>Det er hot take tirsdag i Residensen. I dag leveret af vores skønne kollega Ericka Jane, og vi undersøger i programmet, om det også skal være Residensen officielle holdning. Desuden runder vi hurtigt gårsdagens aprilsnar, hvor Nynne quizzer Kasper i løgn og latin fra musikoverskrifterne i går. En stor rapper får fjernet en diamant fra sin tand, efter utallige misforståelser om mad i tænderne. Vi taler derfor om æstetiske og modemæssige valg, man måske ikke burde have taget, ifølge ens familie og venner.</description>
-      <pubDate>Tue, 02 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421142/f6c42e31e3b4cd1caea2bef2efab1b0f3e08e3d61e1a9ae740fa1cdc751cf98b.mp3" type="audio/mpeg" length="172994575" />
     </item>
   </channel>
 </rss>

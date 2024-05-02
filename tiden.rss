@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:50:07 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:13:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451083</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-belejringen-af-columbia-university-ozempic-stop-og-5-maj-for-palaestina-11802451083</link>
+      <title>Belejringen af Columbia University, Ozempic-stop og 5. maj for Palæstina</title>
+      <description>Studenteroprøret på Columbia University er blevet slået ned, men sætter det en stopper for protesterne? 
+50.000 danskere skal se sig om efter en anden diabetesmedicin end Ozempic. Den er for dyr for regionerne.
+Minister Morten Dahlin kalder det totalt skamløst, at en pro-palæstinensisk demonstration finder sted på befrielsesdagen 5. maj.
+Vært: Adrian Busk.
+Medvirkende: 
+Lasse Engelbrecht er journalist på DR's udlandsredaktion.</description>
+      <pubDate>Thu, 02 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451083/4b4bc6bb13d7abeb627947f6553cb02c6c0da9b48b163731808cd0447ec0f508.mp3" type="audio/mpeg" length="24390025" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451082</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-vaabensmugler-for-retten-klima-goals-og-en-fisketoerstig-skipper-11802451082</link>
@@ -2159,25 +2176,6 @@ Steen Nørskov, DR's journalist i Kairo.</description>
       <itunes:duration>00:21:05</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351200/d46747c049245552d43ba7fad2a5786964b934e49b9f7580d8b5cd08f983a1f7.mp3" type="audio/mpeg" length="30372571" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351199</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-arabere-i-israel-pet-interviewet-og-vm-i-oerkenen-11802351199</link>
-      <title>Arabere i Israel, PET-interviewet og VM i ørkenen</title>
-      <description>Må man sørge over døde palæstinensere, når man bor i Israel? Vi tager et kig ind i forholdet mellem jødiske og arabiske israelere, der siden krigens start kun er blevet værre.
-For første gang stiller den 63-årige mand fra PET sig frem til interview og fortæller sin side af sagen. 
-VM i fodbold 2034 ender højst sandsynligt i armene på Saudi-Arabien, og det er ikke uden kritik. 
-Vært: Adrian Busk.
-Medvirkende: 
-Nanna Muus Steffensen, mellemøstkorrespondent i DR.
-Trine Maria, retskorrespondent her i DR.
-Henrik Liniger, DR's sportskommentator.</description>
-      <pubDate>Wed, 01 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:57</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351199/e056bde635841b440025b1c1772dc5a91071ca826684e894b6a2f184e053b61a.mp3" type="audio/mpeg" length="30176731" />
     </item>
   </channel>
 </rss>

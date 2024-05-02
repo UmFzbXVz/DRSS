@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:57:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:13:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -474,24 +474,6 @@ Postludium: Johann Pachebel: Toccata i C-Dur.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405143/2d5798a2b8238fcc5db8f4a4a6a57feccbd529c7d9d0877bde5892e7ee4c6ec4.mp3" type="audio/mpeg" length="36194537" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405142</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405142</link>
-      <title>Tirsdag 2. apr. 2024</title>
-      <description>Præludium:	Per Günther: Påskeblomst! hvad vil du her.
-Fra det G.T.:	Salme 118,13-23.
-Salme: 236 "Påskeblomst! hvad vil du her?".
-Fra det N.T.:	Johannesevangeliet 20,1-10.
-Vekselsang:	Jesus Kristus er opstanden (Matt. 28, 6-7).
-Salme: 218 "Krist stod op af døde".
-Postludium: Johann Sebastian Bach: I dag triumferer Guds Søn.</description>
-      <pubDate>Tue, 02 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405142/16cff6d390b295585c8226af7ab7240c589a1d5a685d2853065c380a65119fa4.mp3" type="audio/mpeg" length="36194532" />
     </item>
   </channel>
 </rss>

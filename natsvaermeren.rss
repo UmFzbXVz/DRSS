@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:57:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:14:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463183</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lettere-fravaerende-12422463183</link>
+      <title>Lettere fraværende</title>
+      <description>Som en forelskelse, der distraherer tankerne, fuldt til stede med sit lokkende lys.
+Beniamino Giglis stemme, en kurv fyldt med eventyr, en ensom cello og frie fortolkninger af store mestre.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 02 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463183/c9e714d53c3da28efbaddf42a6b2fbe360de5eab3811b6c1ab2231f6841860b4.mp3" type="audio/mpeg" length="168467158" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363177</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-1-maj-12422363177</link>
       <title>1 maj</title>
@@ -35,9 +49,9 @@ Vært: Minna Grooss.
       <pubDate>Wed, 01 May 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363177/90eece4949da3816d24ee2c062216ae31befe430b462ce99eae1682d11444c56.mp3" type="audio/mpeg" length="168472343" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363177/fb82725115a85f009b36818cf953fc04e359f3557258b7f61f94086d5b6c0199.mp3" type="audio/mpeg" length="172801559" />
     </item>
     <item>
       <guid isPermaLink="false">12422463181</guid>
@@ -399,20 +413,6 @@ Vært: Katrine Ring.
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363163/a78b5652a737b61af0d202febbab131486f93d8900cb4ab391aa88e7cdb4dada.mp3" type="audio/mpeg" length="172994480" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363166</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lotus-12422363166</link>
-      <title>Lotus</title>
-      <description>En blomst, en yogastilling, måske en sindstilstand. Natsværmeren kommer som altid ud i afkrogene, der hvor lyset sjældent når hen.
-Vært: Tina Rømer.
-(Sendt første gang 23. april 2023).</description>
-      <pubDate>Tue, 02 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363166/76d8762a64f852e9ca760c3a1038b655054a0dc7c236663279bbe6ccdd7f941d.mp3" type="audio/mpeg" length="172995063" />
     </item>
     <item>
       <guid isPermaLink="false">12422263112</guid>

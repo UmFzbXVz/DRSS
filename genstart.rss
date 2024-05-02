@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 01 May 2024 18:57:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:14:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460103</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Bandernes møntvasker</title>
+      <description>Løbet af en pistol bliver hevet frem under jakken med en kommando om at hoppe ind i bilen. Manden, der bliver smidt ind i bagagerummet, har i årevis vasket beskidte sedler for det danske bandemiljø. Det er medlemmer af Loyal To Familia, der nu kidnapper ham. Hans livsbane, der har ført ham hertil, er kridtet op af hvide striber kokain og sender ham direkte ind i den kriminelle underverdens regnskabsafdeling. Et netværk af omfattende økonomisk kriminalitet hiver penge ud af den danske statskasse, med falske firmaer og fakturaer. Men nu står en af bandernes pengemænd frem med bogen "Hvidvaskeren" og fortæller om, hvordan de kriminelle grupper renser penge, der er indsmurt i bandeblod. I dagens Genstart fortæller Wael om sin dårlige samvittighed - og hvordan vi lukker det økonomiske tag-selv-bord.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 29/4.</description>
+      <pubDate>Thu, 02 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:28:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460103/0e77515f525c3894c1fade469709506e6c95fd045fefc03cdb50943c15e2959a.mp3" type="audio/mpeg" length="40887242" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460102</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
