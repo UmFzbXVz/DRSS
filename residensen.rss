@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 02 May 2024 16:41:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:10:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421184</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-live-fra-loebeturen-13332421184</link>
+      <title>Live fra løbeturen</title>
+      <description>Usikker på den perfekte playliste? Nynne sender bogstavelig talt løbende og tester din løbeplayliste for dig forud for CPH Marathon. Drake og Kendrick er stadig uvenner, så vi jagter de dummeste skænderier, du har fundet dig selv i. Velkommen indenfor!</description>
+      <pubDate>Thu, 02 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421184/d093de89ce6732e6a5351ddb44b54ad79bcb34b9cc32bed5307af207c6ff4c2d.mp3" type="audio/mpeg" length="172801589" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421183</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-ai-genererede-radiovaerter-og-arbejder-playlisten-til-kampdag-13332421183</link>
@@ -226,18 +238,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421144/b4a9ba119f50b8f1357087763fc713374b27f6697fa1ac1ec7ad982a46a1afce.mp3" type="audio/mpeg" length="172995142" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421143</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-dahlin-13332421143</link>
-      <title>Med Dahlin</title>
-      <description>Beyoncés Cowboy Carter sætter stadig friske hesteskos-spor i Residensens muld, og Kasper skal forsøge at afsløre en musikforræder, der måske - måske ikke - har hørt albummet. Vi vender også KarriereKanonens 10 udvalgte, der er breaket i dag, og så kommer Dahlin på besøg for at snakke tog-etikette og InterCityLyn.</description>
-      <pubDate>Wed, 03 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421143/86c12944db2d71f04e3947982d98ea4e21ad1be48347f3e0159e292995b8d1ec.mp3" type="audio/mpeg" length="172995125" />
     </item>
   </channel>
 </rss>

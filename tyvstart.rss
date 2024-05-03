@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 02 May 2024 16:41:51 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:10:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450089</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-giro-di-pogacar-13652450089</link>
+      <title>Giro di Pogacar</title>
+      <description>Der er kun én favorit til årets Giro d'Italia. Tadej Pogacar tager til støvlelandet som løbets ubestridt største stjerne, og med fravær af konkurrenter som Vingegaard og Roglic er det svært at se, hvordan UAE-kaptajnen ikke ender som samlet vindet.
+Giroen er berygtet for at være kalenderes hårdeste grand tour, men i år er der skruet ned for både højdemeter, svære stigninger og lange etaper. Derfor er spørgsmålet, om Pogacars drøm om en Giro-Tour-double rent faktisk er mulig.
+Vært: Kresten Mosbæk.</description>
+      <pubDate>Fri, 03 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:13:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450089/9cc76fd5f2ffff88ae6c74ef0e715af79777e1258a2614cd7f97cb6e34ebc413.mp3" type="audio/mpeg" length="20138548" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450088</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-2-10-20-eller-farvel-til-ol-13652450088</link>
@@ -1894,21 +1908,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350213/ff4c8833d250e4b28d9c1b7df922a4a5037468eaf57d4a5dfb58e81fbc52d2d6.mp3" type="audio/mpeg" length="24486427" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350212</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-brokkeroevenes-kamp-13652350212</link>
-      <title>Brokkerøvenes kamp</title>
-      <description>Bolden er for tung, ketsjeren er for let, banen er for blød. Holger Rune og resten af tennistoppen ved præcis, hvordan de gerne vil have det.
-Herrerne raser i denne uge over boldene i Paris, kvinderne bander over banen i Mexico.
-Men er det bare dårlige undskyldninger? Det svarer tidligere topspiller Søren Hess-Olesen på.
-Vært: Emil Schiønning.</description>
-      <pubDate>Thu, 02 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:19:02</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350212/419b30550f6a3dd61b4c3ea6a04bed71a185884ebeef18bc854fa2589eb59cb8.mp3" type="audio/mpeg" length="27429787" />
     </item>
   </channel>
 </rss>

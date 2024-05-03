@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 02 May 2024 16:30:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:10:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652440020</guid>
+      <link>https://www.dr.dk/lyd/special-radio/fodboldlisten/fodboldlisten-2024/fodboldlisten-en-slutrunde-i-vadestedet-svend-gehrs-kommentatorskole-og-tegningen-til-noget-stort-13652440020</link>
+      <title>En slutrunde i vadestedet, Svend Gehrs' kommentatorskole og tegningen til noget stort</title>
+      <description>Anden episode i Fodboldlistens nye serie af EM-specials handler om den næstdårligste danske slutrunde om europamesterskabet. Eller om den 7. bedste, hvis man mere 'halvt fyldt'-typen. Vi skal en del år tilbage i tiden, men til gengæld er der både rimelige finske forårsaftener, koks med trøjer og nationalmelodi samt endnu et møde med Danmarks onde ånd og gribben fra Madrid. Andreas Kraul og ikke mindst Svends Gehrs' stemme tager os med tilbage til den sidste slutrunde med Sepp Piontek som landstræner - og en tid, hvor Dynamit-drengene var ved at blive afløst af et nyt kuld af spillere - måske på vej mod noget stort? 
+
+Vært: Thomas Loft</description>
+      <pubDate>Fri, 03 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:42:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652440020/f6c6b3081632e8a60c025d76715e966b8e3980697695e8060721e7761be00ef1.mp3" type="audio/mpeg" length="61121492" />
+    </item>
     <item>
       <guid isPermaLink="false">13652440019</guid>
       <link>https://www.dr.dk/lyd/special-radio/fodboldlisten/fodboldlisten-2024/fodboldlisten-den-ultimative-champions-league-start-11-er-og-skal-fullkrug-eller-kane-paa-top-13652440019</link>

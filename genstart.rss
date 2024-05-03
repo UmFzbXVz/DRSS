@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 02 May 2024 16:31:12 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:03:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460104</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Massøren</title>
+      <description>På en massagebriks i Hovedstadsområdet tager en lindrende oplevelse en drejning. Mens afslappende musik flyder ud af højttaleren, og der tages hånd om "Pernilles" nakkesmerter, ændrer massagen pludselig karakter. 'Pernille' fryser, og det skal vise sig, at hun er den seneste i en række af kvinder over 10 år, som går ud fra massørens klinik og føler sig forulempet. Hun anmelder det aldrig. Hun føler sig skamfuld. Hvad hun ikke ved, er, at Massøren netop er blevet frikendt i to lignende sager, men at han også tidligere er dømt for at have krænket kvinder under sin behandling. I podcasten "Massøren" undersøger DR Dokumentar, hvor grænsen går mellem et overgreb og en alternativ behandling - og hvem der mon holder øje med de behandlinger, der er mere alternative end det almindelige sundhedssystem kan tilbyde.
+Genstart har i dag overladt mikrofonen til DR Dokumentar og det første afsnit af serien' Mørklagt: Massøren'. Hele serien kan findes på DR LYD.
+Program publiceret i DR Lyd d. 30/4.</description>
+      <pubDate>Fri, 03 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:29:41</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460104/fb5013bfcee0324cbf3e021f4201a618eed943f8ae841f3581caec972b685f2e.mp3" type="audio/mpeg" length="42769595" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460103</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

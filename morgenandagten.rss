@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 02 May 2024 16:41:44 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:10:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -474,24 +474,6 @@ Postludium: Gottfried August Homilius: I dødens bånd vor frelser lå.</descrip
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405144/dd725f46c010712f87cc7794df5f1053768bee4fea82b1068e79ea2cd529404d.mp3" type="audio/mpeg" length="36194542" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405143</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405143</link>
-      <title>Onsdag 3. apr. 2024</title>
-      <description>Præludium:	Per Günther: Tag det sorte kors fra graven.
-Fra det G.T.:	Salme 23.
-Salme: 232 "O salig påskedag!".
-Fra det N.T.:	Johannesevangeliet 20,11-18.
-Korvers: J. S. Bach: Op, min sjæl! en morgen klar (tekst: Caspar Naumann, Harald Vilstrup).
-Salme: 241 "Tag det sorte kors fra graven".
-Postludium: Johann Pachebel: Toccata i C-Dur.</description>
-      <pubDate>Wed, 03 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405143/2d5798a2b8238fcc5db8f4a4a6a57feccbd529c7d9d0877bde5892e7ee4c6ec4.mp3" type="audio/mpeg" length="36194537" />
     </item>
   </channel>
 </rss>

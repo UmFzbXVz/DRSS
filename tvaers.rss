@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 02 May 2024 16:41:07 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:10:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -365,25 +365,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>00:29:32</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195713/38682bc0b305b459274fedbe42b6633368faa8269c0f9299d1f27f095947e8df.mp3" type="audio/mpeg" length="42547437" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195708</guid>
-      <link>https://www.dr.dk/lyd/p3/tvaers/tvaers-20211/tvaers-oproer-for-livet-13332195708</link>
-      <title>Oprør for livet</title>
-      <description>Caroline sidder på asfalten, fastlåst til en bådtrailer. Politiet vil have hende og de andre miljøaktivister til at bryde den blokade de har lavet. Men det vil de ikke...
-
-Medvirkende: Caroline Reuter.
-Tilrettelæggelse: Line Kirsten Nikolajsen.
-Klip: Morten Narvedsen.
-Vært: Nina Rask.
-Redaktør: Sandra Mia Susgaard.
-Programansvarlig: Karen Albertsen.</description>
-      <pubDate>Sun, 02 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:44:36</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195708/9deebffd2988ba9c61f1f42380420fb8e41420af036fe50e8a4e5eb6dd50f19d.mp3" type="audio/mpeg" length="64244781" />
     </item>
   </channel>
 </rss>

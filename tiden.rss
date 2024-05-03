@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 02 May 2024 16:41:38 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:10:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451084</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-evigheds-scrolling-emma-holtens-underskud-og-spildevandsministeren-11802451084</link>
+      <title>Evigheds-scrolling, Emma Holtens underskud og spildevandsministeren</title>
+      <description>Det skal være slut med evighedsscolling og at børn bliver afhængige af techvirksomhedernes algoritmer. EU-politikerne er klar med en plan. 
+Den feministiske forfatter og debattør, Emma Holten, er færdig med diskussionen om mental load. Hun er klar med en ny bog og et helt nyt regnestykke. 
+Miljøminister kalder nye retningslinjer for miljøfarlige stoffer 'en opstramning'. Men nu afslører dokumenter, at de gør det muligt at forurene havmiljøet endnu mere.
+Vært: Annika Wetterling.
+Medvirkende: 
+Emma Holten, feministisk debattør og forfatter. 
+Ask Hesby Holm, formand i foreningen Digitalt Ansvar.</description>
+      <pubDate>Fri, 03 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451084/7fca24fbed07967526e7ad44e4114d67131837ebdbebf3cc875b263d345ad6ca.mp3" type="audio/mpeg" length="25896266" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451083</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-belejringen-af-columbia-university-ozempic-stop-og-5-maj-for-palaestina-11802451083</link>
@@ -2157,25 +2175,6 @@ Emil Rottbøll, Ruslandskorrespondent for Berlingske.</description>
       <itunes:duration>00:16:12</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351201/8aaeafd9a554777a93765968bced69727a770baf1a7f94fe76b9731da87400b2.mp3" type="audio/mpeg" length="23349979" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351200</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-en-fri-hjort-minister-opsang-og-en-graense-paa-klem-11802351200</link>
-      <title>En fri Hjort, minister-opsang og en grænse på klem</title>
-      <description>Retssagerne mod Claus Hjort Frederiksen, Lars Findsen og en 63-årig PET-betjent lægges i graven. Men sagerne lever videre i Folketinget.
-Udlændinge- og integrationsminister Kaare Dybvad blander sig i debatten om danskernes arbejdsvaner. Men hvad frygter han egentlig?
-For første gang siden 7. oktober er flere udlændinge og kritisk sårede nu angiveligt blevet evakueret fra Gaza. 
-Værter: Annika Wetterling og Adrian Busk.
-Medvirkende:
-Trine Maria Ilsøe, DR's retskorrespondent.
-Kaare Dybvad, Udlændinge- og Integrationsminister, Socialdemokratiet.
-Steen Nørskov, DR's journalist i Kairo.</description>
-      <pubDate>Thu, 02 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:21:05</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351200/d46747c049245552d43ba7fad2a5786964b934e49b9f7580d8b5cd08f983a1f7.mp3" type="audio/mpeg" length="30372571" />
     </item>
   </channel>
 </rss>

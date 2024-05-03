@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 02 May 2024 16:41:35 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:10:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,19 +50,6 @@ Værter: Emil Schiønning og Morten Hausborg.</description>
       <itunes:duration>04:00:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402181/c2a2e3265bf5d8151b84108978aaf14e507a10aed6481070c4a20f5bcd41014d.mp3" type="audio/mpeg" length="345685541" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402177</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402177</link>
-      <title>Søndag 28. apr. 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Alberte Røhl, Morten Hausborg og Louise Dreisig.</description>
-      <pubDate>Sun, 28 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>06:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402177/2dbbd13df5662d4d12b54fc72d1065d3126894fb1b97852018a0207deeb9d910.mp3" type="audio/mpeg" length="600481457" />
     </item>
   </channel>
 </rss>
