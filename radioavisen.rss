@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 07:10:19 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 10:03:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,30 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">14842409185</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20248/radioavisen-14842409185</link>
+      <title>3. maj 2024 kl. 09:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Fri, 03 May 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842409185/56afa1f0ddb90b079cc99482d642ac75d7bdbb2e631aac679054cd7235f12761.mp3" type="audio/mpeg" length="7201967" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842408185</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20247/radioavisen-14842408185</link>
+      <title>3. maj 2024 kl. 08:00</title>
+      <description>Bliv opdateret på de seneste nyheder fra ind- og udland.</description>
+      <pubDate>Fri, 03 May 2024 08:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842408185/ce6afd6a7a26016fe6b4dcdd378d418afd62f032a94fedc1e9e466e967f81340.mp3" type="audio/mpeg" length="7201391" />
+    </item>
     <item>
       <guid isPermaLink="false">14842407185</guid>
       <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-20246/radioavisen-14842407185</link>

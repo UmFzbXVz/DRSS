@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 07:10:57 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:50:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,17 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433185</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433185</link>
+      <title>Fredag 3. maj 2024</title>
+      <description>- med radioavis, aktualitet, baggrund og debat.</description>
+      <pubDate>Fri, 03 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:52</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433185/6df338080fb8ef65029bc4b60a62e2f596d193e4ce8611d7354d7ac2097ec53b.mp3" type="audio/mpeg" length="237432609" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433184</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433184</link>
