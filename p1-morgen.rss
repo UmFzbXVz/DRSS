@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:38 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:44:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,11 +25,23 @@
     <category>News</category>
     <itunes:category text="News" />
     <item>
+      <guid isPermaLink="false">11802433186</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433186</link>
+      <title>Lørdag 4. maj 2024</title>
+      <description>Borgerne i Farum kan se frem til at betale et 12.4 millioner dyrt gyldent håndtryk til den netop afgåede direktør for Farum fjernvarme. Er der generelt et problem med forsyningsselskabernes prioritering af fjernvarmekundernes penge? Enhedslisten holder i denne weekend sit første årsmøde med Pelle Dragsted som politisk ordfører. Hvorfor siger Pelle Dragsted, at Enhedslisten vil i regering? Ny FN-rapport viser, at det kan tage op til 80 år at genopbygge Gaza. Hvad skal der til for at genopbygge Gaza?
+Dagens værter: Bjarne Steensbeck og Cecilie Lange.</description>
+      <pubDate>Sat, 04 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433186/4ac7f18fac616632ebc73285ead6077672fa791f88505fe5f6fa390185f0bea6.mp3" type="audio/mpeg" length="158555384" />
+    </item>
+    <item>
       <guid isPermaLink="false">11802433185</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433185</link>
       <title>Fredag 3. maj 2024</title>
       <description>Hvad gør AI-generede supermodeller ved vores skønhedsidealer? Abortlovgivningen har været til debat længe - nu præsenteres der endelig en aftale. Hvad indeholder den nye abortaftale? Og hvor alvorligt er banders infiltration af politiet i Sverige?
-Dagens værter: Cecilie Lange &amp; Bjarne Steensbeck.</description>
+Dagens værter: Cecilie Lange og Bjarne Steensbeck.</description>
       <pubDate>Fri, 03 May 2024 06:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -1867,18 +1879,6 @@ Dagens værter: Bjarne Steensbeck og Julie Toft.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:26</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333452/ff403856558856c250d0b1b7caeadef6fcacccd51ec4dc2cd1a032efd5907f1b.mp3" type="audio/mpeg" length="236803483" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333451</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333451</link>
-      <title>Mandag 6. nov. 2023</title>
-      <description>Hvad opnår Israel ved at vise video af angreb den 7. oktober til danske journalister og folkevalgte? Hvilke grupper vil regeringen give en skatterabat? Og hvorfor udskriver de praktiserende læger så meget Ozempic?
-Dagens værter: Julie Toft og Søren Carlsen.</description>
-      <pubDate>Mon, 06 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:03</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333451/dbb921fb0659de552d4e04de8ba817d6d3b19523422733192cdac1df4b405f09.mp3" type="audio/mpeg" length="237677275" />
     </item>
   </channel>
 </rss>

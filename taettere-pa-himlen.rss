@@ -9,7 +9,7 @@ Andrew Moyo har dig. Kom nu!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:33 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:44:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Andrew Moyo har dig. Kom nu!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332429185</guid>
+      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-liva-manghezi-og-nicolas-kaiser-13332429185</link>
+      <title>Med Liva Manghezi og Nicolas Kaiser</title>
+      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
+Andrew Moyo har dig. Kom nu!</description>
+      <pubDate>Fri, 03 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429185/c1f8952cf71a2a43fdab4bba2bacd8c63639d4d4819677ab04df1daabbc0e2fd.mp3" type="audio/mpeg" length="172801474" />
+    </item>
     <item>
       <guid isPermaLink="false">13332429175</guid>
       <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-hav-og-kamal-13332429175</link>
@@ -291,20 +304,6 @@ Gæster: Kind mod Kind.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329455/91b3ecdd88931357962b3b082f9af6352c4a441b1ed8b975a5aba4ea249f6da9.mp3" type="audio/mpeg" length="172801243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332329445</guid>
-      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2023/taettere-paa-himlen-13332329445</link>
-      <title>Fredag 3. nov. 2023</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!
-Gæster: Malte Ebert og Svea S.</description>
-      <pubDate>Fri, 03 Nov 2023 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329445/32397f0a6cc3721b1bdaf32c690a931b04989bdd84db91dd019f9b88d032c5d9.mp3" type="audio/mpeg" length="172801819" />
     </item>
   </channel>
 </rss>

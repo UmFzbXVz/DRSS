@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:50 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:43:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -386,23 +386,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428145/dc0f064ab175ea3129ef44a4064428fffa213266c802fb4b16c5799256232265.mp3" type="audio/mpeg" length="252194572" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428144</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-godmorgen-i-senegal-18452428144</link>
-      <title>Godmorgen i Senegal</title>
-      <description>Denne morgen tager Snooze en smuttur til Senegal og siger bl.a. godmorgen til Orchestra Baobab og andre senegalesiske musikfænomener.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Thu, 04 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428144/7763a5c6f9de83ef40bf39da651a54018c9c6f4a81e479e020d0b218b7edda94.mp3" type="audio/mpeg" length="252195125" />
     </item>
   </channel>
 </rss>

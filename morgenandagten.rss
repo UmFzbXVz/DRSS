@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:44:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405186</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405186</link>
+      <title>Lørdag 4. maj 2024</title>
+      <description>Præludium: Edvard Grieg: Våren.
+Davidssalme: 28, 6-9.
+Salme: 313, vers 1-4 "Kom, regn af det høje".
+Fra det N.T.: Romerbrevet 8, 24-28.
+Trosbekendelsen.
+Salme: 313, vers 5-6.
+Postludium: Robert Schumann: Skitse i Des-Dur.</description>
+      <pubDate>Sat, 04 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405186/a0ca76015657b6cb45882dc2d20eb18ba62a01c86570e27cd2d1a9a6a3644a0d.mp3" type="audio/mpeg" length="36001544" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405185</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405185</link>
@@ -474,24 +492,6 @@ Postludium: Helmut Walcha: Du er, opstandne sejershelt.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405145/44a29125aad95402ee999ebca9c1cfa3865a284e4822334e57e855ae4cc27f4c.mp3" type="audio/mpeg" length="36194537" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405144</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405144</link>
-      <title>Torsdag 4. apr. 2024</title>
-      <description>Præludium:	Johann Ludwig Krebs: I dødens bånd vor frelser lå.
-Fra det G.T.:	Jobs bog 42,1-6.
-Salme: 248 "Med thomaskravet står vi her".
-Fra det N.T.:	Johannesevangeliet 20,19-29.
-Korvers: J. S. Bach: Op, min sjæl! en morgen klar (tekst: Caspar Naumann, Harald Vilstrup).
-Salme: 220 "I dødens blund vor frelser lå".
-Postludium: Gottfried August Homilius: I dødens bånd vor frelser lå.</description>
-      <pubDate>Thu, 04 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405144/dd725f46c010712f87cc7794df5f1053768bee4fea82b1068e79ea2cd529404d.mp3" type="audio/mpeg" length="36194542" />
     </item>
   </channel>
 </rss>

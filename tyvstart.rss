@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:43:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -1894,20 +1894,6 @@ Vært: Emil Schiønning</description>
       <itunes:duration>00:17:23</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350214/6af2e0bfe5490be61bb9b719968cc498415e6d54b1ff398f857f03160b81e84f.mp3" type="audio/mpeg" length="25050331" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350213</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-danmark-vinder-vm-guld-13652350213</link>
-      <title>Danmark vinder VM-guld</title>
-      <description>Der bliver fest i Boxen, når de danske håndboldkvinder i december vinder verdensmesterskabet. Det spår træner og ekspertkommentator Helle Thomsen efter udtagelsen af den danske VM-trup torsdag. 
-Tre keepere, et vaskeægte stortalent og en trup i harmoni er vejen til den samlede sejr.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350213/ff4c8833d250e4b28d9c1b7df922a4a5037468eaf57d4a5dfb58e81fbc52d2d6.mp3" type="audio/mpeg" length="24486427" />
     </item>
   </channel>
 </rss>

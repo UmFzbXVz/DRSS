@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:39:45 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:43:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -72,18 +72,6 @@
       <itunes:duration>00:18:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310739/b706805a8bc02fb1febf78b28f9dd53d4c43afea45fc7a29a580d8c26c32b2dc.mp3" type="audio/mpeg" length="26521435" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332310738</guid>
-      <link>https://www.dr.dk/lyd/p3/hvem-skal-fyres/hvem-skal-fyres-2023/hvem-skal-fyres-mikkels-sensuelle-fysioterapeut-13332310738</link>
-      <title>Mikkels sensuelle fysioterapeut</title>
-      <description>På grund af dårlig påklædning endte Mikkel i en meget intim situation med den mand, der skulle fikse hans knæproblemer. Det fortæller han om - men først skal du lige høre to uduelige radioværter quizze i, hvem der er dårligst til norsk. Vi har lokket en nordmand med som dommer.</description>
-      <pubDate>Fri, 03 Nov 2023 10:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:06</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310738/9dc4b37e7adc6d562a155be94f8d3f1f8bd070e2426d1d6706a15d5a94ac6f89.mp3" type="audio/mpeg" length="37592731" />
     </item>
   </channel>
 </rss>

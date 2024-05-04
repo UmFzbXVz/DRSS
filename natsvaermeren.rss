@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:44:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422363217</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-aftenland-12422363217</link>
+      <title>Aftenland</title>
+      <description>Landskaber i det dunkle aftenlys hvor lyde bliver højere når synet svækkes. Var det uglen der tudede, og hvem tilhører øjnene i skovens mørke mellem træstammerne.
+Vært: Tina Rømer.
+(Sendt første gang 29. maj 2023).</description>
+      <pubDate>Sat, 04 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363217/a0c7eee1c37e72e5fedf9876965760d1f4ddec6886eda372360c78225a941906.mp3" type="audio/mpeg" length="168479838" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463184</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sorthvide-lydboelger-12422463184</link>
@@ -398,19 +412,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:57:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463144/eca81838209be862430a61bde4782ced78a79448d459bacdd31d732951fb46ff.mp3" type="audio/mpeg" length="168670484" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463143</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-mellem-dur-og-mol-12422463143</link>
-      <title>Mellem dur og mol</title>
-      <description>Det sværmer, det græder, det danser, det gror i natten.
-Vært: Minna Grooss.</description>
-      <pubDate>Thu, 04 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463143/8a750a5779eb2203b12f2f6f4ff6c88c7323ad89c45cff2c11b2d74ef29f06ea.mp3" type="audio/mpeg" length="168665171" />
     </item>
     <item>
       <guid isPermaLink="false">12422263112</guid>

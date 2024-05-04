@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:38 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:43:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
+    <item>
+      <guid isPermaLink="false">13332416185</guid>
+      <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-lilja-mix-1-13332416185</link>
+      <title>LILJA Mix #1</title>
+      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
+LILJA er bag pulten.</description>
+      <pubDate>Fri, 03 May 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416185/0ad14b4d54643c846a2dcb1fb38706cded0dedaaf8179d70d88041aac1cadacd.mp3" type="audio/mpeg" length="259202148" />
+    </item>
     <item>
       <guid isPermaLink="false">13332416175</guid>
       <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-amanda-baun-mix-4-13332416175</link>

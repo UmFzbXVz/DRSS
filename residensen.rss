@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:24 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:43:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -226,18 +226,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421151/699f5749e6d54a434ddfde4af87810028fc8d308a03895018f9f333a4e6c49d4.mp3" type="audio/mpeg" length="172801589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421144</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-moshpit-fri-zone-og-menstruationsblod-i-hovedet-13332421144</link>
-      <title>Moshpit-fri zone og menstruationsblod i hovedet</title>
-      <description>Dagens program er en servering til den brede smag, når vi leger med tanken om moshpit-frie zoner og begynder indsamlingen af de festival-vidnesbyrd, der forhåbentlig skal få dansk festivalskultur indstillet til UNESCO's verdensarvsliste. Velkommen indenfor!</description>
-      <pubDate>Thu, 04 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421144/b4a9ba119f50b8f1357087763fc713374b27f6697fa1ac1ec7ad982a46a1afce.mp3" type="audio/mpeg" length="172995142" />
     </item>
   </channel>
 </rss>

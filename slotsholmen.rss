@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:43:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802443136</guid>
+      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-pelle-ser-roedt-regeringen-lever-paa-laant-tid-11802443136</link>
+      <title>Pelle ser rødt: regeringen lever på lånt tid</title>
+      <description>I takt med regeringens rædderlige meningsmålinger er Pelle Dragsted fra Enhedslisten begyndt at se lyset. Nu tør han drømme om en rød regering efter næste valg, men han vil tage sig betalt for at støtte den, eller måske ligefrem være med i den. Det fortæller Enhedslistens politiske leder i Slotsholmen, der også vender dynamikken i blå blok efter dramatiske forhandlinger om forsvar og kvindelig værnepligt, hvor de blå partier blev splittet.
+Værter: Thomas Buhl og Jens Ringberg.
+Gæster: Pelle Dragsted, politisk ordfører, Enhedslisten, Christine Cordsen, politisk korrespondent, DR.
+Tilrettelægger: Jonas Gulmann.</description>
+      <pubDate>Fri, 03 May 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:43</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802443136/85ef10f6c033baab78744e407a367bc80905b7016b38341e8817d26b20df9eab.mp3" type="audio/mpeg" length="34166924" />
+    </item>
     <item>
       <guid isPermaLink="false">11802443135</guid>
       <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-stoejbergs-tv-koekken-medister-bacon-og-airfryer-11802443135</link>
@@ -760,19 +774,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:22:21</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343246/252f59852eee2acbd1ee6ea4b070e2adb9ff7ef95ae417a684dba5b8ac17b3f6.mp3" type="audio/mpeg" length="32194459" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802343245</guid>
-      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2023/slotsholmen-politisk-bombe-for-rullende-kameraer-11802343245</link>
-      <title>Politisk bombe for rullende kameraer</title>
-      <description>Det var vildt, da Claus Hjort Frederiksen midt i et direkte TV-interview fik besked om, at retssagen mod ham er droppet, men politisk er sagen langt fra lagt død. Nu lugter oppositionen blod, og spørgsmålet er, om sagen også kan skabe splid mellem regeringspartierne Venstre og Socialdemokratiet. Det spørger Slotsholmen to garvede politiske analytikere om. 
-Værter: Pia Glud Munksgaard og Thomas Buhl.
-Gæster: Niels Th. Dahl, politisk analytiker, Jyllands-Posten og Jens Ringberg, politisk analytiker, DR.</description>
-      <pubDate>Fri, 03 Nov 2023 16:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:45</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343245/997b38b599c679809e807a95e2347fb634969cb3b042c4e772dbc238e2968d42.mp3" type="audio/mpeg" length="32779675" />
     </item>
   </channel>
 </rss>

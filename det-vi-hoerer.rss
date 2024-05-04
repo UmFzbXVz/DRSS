@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:43:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -351,21 +351,6 @@ Vært: Benedikte Bové.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381882/c9b16617e030bff81bf16af5348e884125b08bc7f06912f7ddd6cabe30d96208.mp3" type="audio/mpeg" length="165601819" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381867</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/ole-kiilerich/det-vi-hoerer-fra-alle-mig-til-alle-dig-12422381867</link>
-      <title>Fra alle mig til alle dig</title>
-      <description>Ole Bartholin Kiilerichs sidste program i serien 'Det vi hører' er blevet en blandet landhandel fra listen med hidtil uafspillede yndlingsværker - men hvilken landhandel; vi skal høre indiske ragaer, hvid musik, jazz, folk, a cappella-kormusik - og selvfølgelig Chopin! Og måske tager han sig mod til selv at spille lidt til allersidst?</description>
-      <pubDate>Fri, 03 Nov 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000100007</itunes:order>
-      <itunes:season>10</itunes:season>
-      <itunes:episode>7</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381867/198c946a75b826b50d87d8c045d3b03d9afaff1f6f95d2c8427f5d89edfa6bb2.mp3" type="audio/mpeg" length="165601243" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 03 May 2024 14:40:32 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:43:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410185</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410185</link>
+      <title>Fredag 3. maj 2024</title>
+      <description>Skal 15-17-årige have ret til abort udenom forældre? Dansk industri har haft partnerskab med Copenhagen Pride siden 2011 - men nu er det slut. Hvorfor? Og hvordan står det til med Vestens evne til at fastholde venner på det afrikanske kontinent?
+Dagens værter: Søren Carlsen og Ole Brink.</description>
+      <pubDate>Fri, 03 May 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:26:29</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410185/6790699631c511195a3ab6f0ece0fb05734dba8d189f3c6e74a3faa8ae9204fb.mp3" type="audio/mpeg" length="124561014" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410184</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410184</link>
@@ -2355,38 +2367,6 @@ Dagens værter: Anne Kirstine Hermann og Jan Falkentoft.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:10</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310452/ffcd63788c00e2c61d1d67508f0923166ca6e6fe2ee634f3a7ba452fcf98389b.mp3" type="audio/mpeg" length="79447195" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304451</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304451</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Ole Brink og Morten Runge.
-Og i dagens udgave af Orientering Udsyn:
-Russiske komikere har endnu engang fået hul helt ind til den europæiske magtkerne og ladet verden kigge med ind i noget, der kan ligne politikernes ægte tanker om Ukraine. Det lyder ikke helt som det, vi ellers hører dem sige, men er det et problem, at der tilsyneladende foregår andre overvejelser bag lukkede døre?
-Dødstallet for civile ofre i Gaza er nu næsten 10.000. Blandt dem er der også 36 journalister - og selvom det er en lille del, så betyder det meget for hvilken dækning af krigen vi kan få.    
-Gæster: Ole Wæver, professor i International Politik på Københavns Universitet og Jesper Højbjerg, direktør i International Media Support.
-Tilrettelæggelse: Inge Scheel Kelstrup og Sven Johannesen.
-Vært: Nickolaj Sander.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Mon, 06 Nov 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:54:48</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304451/3eda4fce696d94060381ce32391566ca9420be0286ec2566646676f601cf48fb.mp3" type="audio/mpeg" length="78914971" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310451</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310451</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Ole Brink og Morten Runge.</description>
-      <pubDate>Mon, 06 Nov 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:08</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310451/f8aa497860a5e7d702685e93e157781f1668a62b84a15b23be56ae448032b9b7.mp3" type="audio/mpeg" length="79410331" />
     </item>
   </channel>
 </rss>
