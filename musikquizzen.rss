@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 10:25:02 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 17:24:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Kenneth K.</description>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122448118</guid>
+      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-podcast-16122448118</link>
+      <title>Søndag 5. maj 2024</title>
+      <description>Danmarks mest musikalske quiz.
+Vært: Kenneth K.</description>
+      <pubDate>Sun, 05 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:59:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448118/412e766022a448d76f39bef9714eaf427e514f0a2fd719d261bdd4d45b151c51.mp3" type="audio/mpeg" length="86374303" />
+    </item>
     <item>
       <guid isPermaLink="false">16122448117</guid>
       <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-1980-hoej-femmer-og-hverdagsquizzen-16122448117</link>

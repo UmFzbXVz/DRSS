@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 10:24:38 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 17:24:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452425187</guid>
+      <link>https://www.dr.dk/lyd/p5/hotellet/hotellet-2024/hotellet-15452425187</link>
+      <title>Søndag 5. maj 2024</title>
+      <description>Tag på Hotel og nyd et par timer i selskab med nogle af verdens bedste sangere og musikere. De spiller blandt andet nogle af historiens mest berømte musikstykker, alt imens du kan slappe af og nyde en ekstra kop kaffe, serveret af Søren Hansen.</description>
+      <pubDate>Sun, 05 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452425187/9cab449188a7f94aca8ca08b0c676d43cbb1688d40fe1b719604f42a260b1890.mp3" type="audio/mpeg" length="168481577" />
+    </item>
     <item>
       <guid isPermaLink="false">15452425177</guid>
       <link>https://www.dr.dk/lyd/p5/hotellet/hotellet-2024/hotellet-15452425177</link>
