@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 06:24:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 10:25:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436618</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-jagten-paa-sandheden-eller-bare-noget-der-stoejer-og-boejer-paa-den-helt-rigtige-maade-med-blue-foundation-og-my-bloody-valentine-16452436618</link>
+      <title>Jagten på sandheden eller bare noget, der støjer og bøjer på den helt rigtige måde med Blue Foundation og My Bloody Valentine</title>
+      <description>I dag har jeg besøg af Bo Rande og Tobias Wilner fra Blue Foundation. De elsker begge My Bloody Valentine, men de er lidt uenige om, hvorvidt Kevin Shields fra My Bloody Valentine jagter sandheden eller bare experimenterer. Det, synes jeg, der kommer en spændende snak ud af! Men én ting, jeg i hvert fald fornemmer, de bliver enige om, er, at My Bloody Valentine er fantastiske og en hver drømmerejse værd. Så lyt med og få din støjende revolutionerende støjpop på.
+Mange hilsner fra Goodluck Casper.</description>
+      <pubDate>Sun, 05 May 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:00:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436618/76bf407f540ac3d2e4b1c1ba2129871f1b6a3ee4220e1db2f460c79294837baa.mp3" type="audio/mpeg" length="87788024" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436617</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-smid-telefonen-vaek-og-roer-ved-moerket-med-portishead-og-steffen-westmark-16452436617</link>
