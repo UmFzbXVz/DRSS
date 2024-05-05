@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:43:45 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -66,18 +66,6 @@ Vært: Rasmus Scharling Toft.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429183/da99cc82fbf71de11e3c41dd688aefec91a50054e51b78a6be4d36afa77fbbf8.mp3" type="audio/mpeg" length="168481591" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429182</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429182</link>
-      <title>Tirsdag 30. apr. 2024</title>
-      <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
-      <pubDate>Tue, 30 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429182/8ac3667faf4d6e70d13ca4df894e668148cb634454de2da74cfe6aa1ebef720e.mp3" type="audio/mpeg" length="168482101" />
     </item>
   </channel>
 </rss>

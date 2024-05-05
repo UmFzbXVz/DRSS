@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:40:59 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122434186</guid>
+      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-where-s-my-monkey-16122434186</link>
+      <title>Where's my monkey?!</title>
+      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
+Produceret for DR af Chloroform.</description>
+      <pubDate>Sat, 04 May 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434186/d05b2931fd6d52c77967519e42fab32bccc674d0d96f3b50b6da01fe21c14ba4.mp3" type="audio/mpeg" length="172802173" />
+    </item>
     <item>
       <guid isPermaLink="false">16122434176</guid>
       <link>https://www.dr.dk/lyd/p3/flex/flex/flex-pharrell-wiki-agge-og-bamse-dembow-16122434176</link>

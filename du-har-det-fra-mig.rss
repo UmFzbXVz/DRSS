@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:43:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:24:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452436186</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-18452436186</link>
+      <title>Lørdag 4. maj 2024</title>
+      <description>Kender du det at få anbefalet musik fra nogen, du slet ikke kan slippe igen? Jeg stikker hånden i samlingen og rammer dig med alt det bedste fra udødelige mestre, nye fængende tracks og hemmelige glemte perler. Og du må gerne sige du har det fra mig!
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 04 May 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436186/7b387bfb1ab4ae505d5ea1f0cfbcc7a32bcea49a08dd7c4322656e0cb3ba6ecc.mp3" type="audio/mpeg" length="168481598" />
+    </item>
     <item>
       <guid isPermaLink="false">18452436176</guid>
       <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-move-on-up-18452436176</link>

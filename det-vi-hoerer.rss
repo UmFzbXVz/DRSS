@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:43:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:24:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -90,6 +90,22 @@ Vært: Cæcilie Iburg Printzlau.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481841/b59b7b4ca8cc186794b0342750d054a7f078f993e29021455161a778ae61ce8d.mp3" type="audio/mpeg" length="168674568" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481825</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/helle-kristensen/det-vi-hoerer-5-8-at-underholde-berige-og-forstyrre-12422481825</link>
+      <title>5:8 - At underholde, berige og forstyrre</title>
+      <description>Mere Grieg, mere Bach med blokfløjter, en tranceskabende klarinettrio, en drømmefanger og en hel efterårssymfoni er bare noget af det, der venter det nysgerrige øre.
+Vært: Helle Kristensen.</description>
+      <pubDate>Sat, 04 May 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160005</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481825/c1970e271244470e713cbaa18bb65105c467957d72c61eebff17712cdb1a60b0.mp3" type="audio/mpeg" length="168482116" />
     </item>
     <item>
       <guid isPermaLink="false">12422481824</guid>

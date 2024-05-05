@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:44:07 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:10:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -474,24 +474,6 @@ Postludium: Franz Schmidt: Halleluja - Præludium i D-dur.</description>
       <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405146/4a994688bae7d4d901b51d5783a43d49caf9f6709d00f5aec97fcbec081e0c82.mp3" type="audio/mpeg" length="36194540" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405145</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405145</link>
-      <title>Fredag 5. apr. 2024</title>
-      <description>Præludium:	Naji Hakim: Påskeblomst! hvad vil du her?
-Fra det G.T.:	Salme 118,1-6.
-Salme: 249, vers 1-4 "Hvad er det at møde den opstandne mester".
-Fra det N.T.:	Johannesevangeliet 21,1-14.
-Korvers: J. S. Bach: Op, min sjæl! en morgen klar (tekst: Caspar Naumann, Harald Vilstrup).
-Salme: 249, vers 5-9.
-Postludium: Helmut Walcha: Du er, opstandne sejershelt.</description>
-      <pubDate>Fri, 05 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405145/44a29125aad95402ee999ebca9c1cfa3865a284e4822334e57e855ae4cc27f4c.mp3" type="audio/mpeg" length="36194537" />
     </item>
   </channel>
 </rss>

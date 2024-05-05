@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:43:45 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -369,23 +369,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428151/c0c02f7cf211a784de77b61ea17afe49d77e02b380403adb801c03667845858f.mp3" type="audio/mpeg" length="252002165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428145</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-cornelia-nilssons-intuition-18452428145</link>
-      <title>Cornelia Nilssons intuition</title>
-      <description>Cornelia Nilssons debutalbum Where Do You Go var ugens album på P8 før påske. Vi tager en snak med den svenske trommeslager om intuitionen i musikken og om hvordan samspillet med en sax og et klaver kan give helt forskellige musikalske oplevelser.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Fri, 05 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428145/dc0f064ab175ea3129ef44a4064428fffa213266c802fb4b16c5799256232265.mp3" type="audio/mpeg" length="252194572" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:43:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,19 +50,6 @@ Værter: Jacob Hinchely, Stine Rosenfeldt og Mette Søndergaard.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428183/5cd076236770eb7f1a86a3c0f705590c9f1cc2b24fdcc5773e922ddfa487ff89.mp3" type="audio/mpeg" length="168482168" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452428182</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten-2024/musiktjenesten-16452428182</link>
-      <title>Tirsdag 30. apr. 2024</title>
-      <description>Musiktjenesten giver dig dagens bedste musikhistorier og gør din eftermiddag hyggelig og sjov - og selvfølgelig fuld af god musik! Vi tester din musikalske viden i quizzer og finder de bedste sange inden for forskellige temaer sammen med dig. Velkommen indenfor!
-Værter: Jacob Hinchely, Claes Quaade og Ditte Vestergaard.</description>
-      <pubDate>Tue, 30 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428182/1c53a241ac0cedc7e0381a6363c49a4c8d68eb5c8a9e64b50435d157924a3d3d.mp3" type="audio/mpeg" length="168482168" />
     </item>
   </channel>
 </rss>

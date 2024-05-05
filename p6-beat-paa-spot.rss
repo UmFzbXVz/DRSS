@@ -11,7 +11,7 @@ Producer: Simone Kofod Nørgård.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:43:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,21 @@ Producer: Simone Kofod Nørgård.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452461004</guid>
+      <link>https://www.dr.dk/lyd/p6beat/p6-beat-paa-spot-festival/p6-beat-paa-spot-festival/p6-beat-paa-spot-festival-16452461004</link>
+      <title>Lørdag 4. maj 2024</title>
+      <description>P6 giver dig alt det bedste fra årets SPOT Festival. Vi skal på opdagelse i det danske vækstlag, spotte de nye tendenser og tale med en håndplukket skare af spændende musikere og branchefolk, som befinder sig i Aarhus netop denne weekend. Alle sammen med det samme formål: At sætte SPOT på ny, dansk musik.
+Vært: Jonas Hansen.
+Reporter: Isabell Kristina Larsen-Thomsen.
+Producer: Simone Kofod Nørgård.</description>
+      <pubDate>Sat, 04 May 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452461004/55d777e76840dd66e3c835c07ac2f5f1eab0205d84ae6695ebd934c585287601.mp3" type="audio/mpeg" length="254881609" />
+    </item>
     <item>
       <guid isPermaLink="false">16452461002</guid>
       <link>https://www.dr.dk/lyd/p6beat/p6-beat-paa-spot-festival/p6-beat-paa-spot-festival/p6-beat-paa-spot-festival-16452461002</link>

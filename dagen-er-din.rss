@@ -10,7 +10,7 @@ Vært: Gitte Førby.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:43:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -41,19 +41,6 @@ Vært: Gitte Førby.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452426183/6b9c60582a49f6468acf844201f25be604a85e02870fa7fe32df5b589a989eef.mp3" type="audio/mpeg" length="165601594" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452426182</guid>
-      <link>https://www.dr.dk/lyd/p5/dagen-er-din/dagen-er-din-2024/dagen-er-din-15452426182</link>
-      <title>Tirsdag 30. apr. 2024</title>
-      <description>'Dagen er Din' er eftermiddagens gearskifte på P5. Det er tid til at se på dagen, der næsten er gået. Hvilke historier har været på dagsordenen i det store nyhedsbillede og hvad er der sket hjemme hos P5's lyttere? Sammen binder vi en knude på dagen og får ideer til, hvad der skal ske i aften og i morgen. Alt sammen tilsat den gode P5 musik.
-Vært: Gitte Førby.</description>
-      <pubDate>Tue, 30 Apr 2024 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452426182/f9328fc3d22a5c3cd231822e885bfb589f22327b6d54a2abc41e930b5f5b233a.mp3" type="audio/mpeg" length="165602170" />
     </item>
   </channel>
 </rss>

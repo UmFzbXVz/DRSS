@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/benaegt-benaegt-benaegt" rel="self" type="application/rss+xml" />
+    <title>Benægt, benægt, benægt</title>
+    <link>https://www.dr.dk/lyd/p3/benaegt-benaegt-benaegt-5460943602000</link>
+    <description>Har du dummet dig? Er du faldet i? Eller har du gjort noget, du fortryder? Så ring ind til Benægt, benægt, benægt og gå til bekendelse. Vi sørger for at grine med dig, og vi lover, at der helt sikkert er nogen, der har gjort noget dummere end dig. Programmet sender hver lørdag fra 10-12. Lasse er vært, og han har helt sikkert gjort noget dummere end dig.
+Vært: Lasse Knudsen.
+Produceret af BEAM for P3.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 05 May 2024 06:24:57 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/benaegt-benaegt-benaegt.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66336a9c3177a9a7a4b624b6.jpg</url>
+      <title>Benægt, benægt, benægt</title>
+      <link>https://www.dr.dk/lyd/p3/benaegt-benaegt-benaegt-5460943602000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66336a9c3177a9a7a4b624b6.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122436186</guid>
+      <link>https://www.dr.dk/lyd/p3/benaegt-benaegt-benaegt/benaegt-benaegt-benaegt/benaegt-benaegt-benaegt-16122436186</link>
+      <title>Lørdag 4. maj 2024</title>
+      <description>Har du dummet dig? Er du faldet i? Eller har du gjort noget, du fortryder? Så ring ind til Benægt, benægt, benægt og gå til bekendelse. Vi sørger for at grine med dig, og vi lover, at der helt sikkert er nogen, der har gjort noget dummere end dig. Programmet sender hver lørdag fra 10-12. Lasse er vært, og han har helt sikkert gjort noget dummere end dig.
+Vært: Lasse Knudsen.
+Produceret af BEAM for P3.</description>
+      <pubDate>Sat, 04 May 2024 10:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000001</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122436186/0a00795cf067a0d44b50303f533960774559b5ecaa4583d2ad470258b8a47b48.mp3" type="audio/mpeg" length="172801599" />
+    </item>
+  </channel>
+</rss>

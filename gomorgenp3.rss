@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:32:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -73,19 +73,6 @@ Medvirkende: Chefkonsulent i kommunikation og varsling hos Beredskabsstyrelsen, 
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410183/e3fa1db22692630a7761ae341a0b3b19381e965d89dd2a0af8a068fda2fc647a.mp3" type="audio/mpeg" length="254882170" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410182</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410182</link>
-      <title>Tirsdag 30. apr. 2024</title>
-      <description>Igen i dag er en stor del af programmet dedikeret til Havets Minister aka Magnus Heunicke. For efter tre ugers pres og en telefonsvarerbesked fra os, er der nu hul igennem. Derudover laver vi shrinkflation opmålinger, og så lægger vi sidste hånd på Danskerpjecen, som amerikanske soldater i Roskilde skal have udleveret.
-Værter: Mikkel Rosendal, Liva Manghezi og Mikkel Klint Thorius.</description>
-      <pubDate>Tue, 30 Apr 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410182/0e124e620595c766ed35d99bb49f2b5154a63f75c42775e075e8fbe64edcedbb.mp3" type="audio/mpeg" length="254881594" />
     </item>
   </channel>
 </rss>

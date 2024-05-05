@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:31:05 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460105</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Kvinde kvit dit klynk</title>
+      <description>Al den tankevirksomhed, der går med at være hjemmets projektleder og følelsesminister har fået et navn: The mental load. Mødre har de seneste uger delt vidnesbyrd om det usynlige arbejde, de står med. Men den debat vil Marie Høegh ikke lade passere. Det er ikke offentlighedens bevågenhed værd. Faktisk synes hun, at de kvinder, der fortæller om den mentale byrde, burde gå hjem og skamme sig. Genstart spørger hende, hvorfor samtalen provokerer hende så meget. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 1/5.</description>
+      <pubDate>Sun, 05 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460105/14f44c8c3e6176ecf08e2627e9b94173b748f362ee3c8669ee4b827a53085140.mp3" type="audio/mpeg" length="34510350" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460104</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9488,19 +9502,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150088/b0fb287192503aaef86e1b24ce5dcd5771a475fab8b240990a199fe2895262fe.mp3" type="audio/mpeg" length="33170733" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150087</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-caspar-og-krigen-11802150087</link>
-      <title>Caspar og krigen</title>
-      <description>20 års blodig og broget krig i Afghanistan lakker mod enden. Frem mod den 11. september i år trækker Danmark - i fællesskab med USA og NATO - vores tropper ud af landet. Vandt vi krigen? Og fik afghanerne freden? Vi spørger Caspar Stefani, der er en af de godt 12.000 danske soldater, der nåede at være udsendt i Afghanistan.
-Vært: Knud Brix.</description>
-      <pubDate>Tue, 04 May 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:56</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150087/923987e970830d08b926ad5360f982cc9fc4b6ec5464e934d47565cdc8f1bdf6.mp3" type="audio/mpeg" length="35914797" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 04 May 2024 10:44:06 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:25:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463186</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-om-kaerlighed-og-doed-12422463186</link>
+      <title>Om kærlighed og død</title>
+      <description>En filmscene fra filmen, Faidra med et soundtrack Miki Theodorakis sætter scenen i aftens Natsværmer. En græsk tragedie i mange afskygninger.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 05 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463186/71a118214b0675930ed6e63d1377919058ba39b1f2b46a86156a2a47f896ed7b.mp3" type="audio/mpeg" length="168552365" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363217</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-aftenland-12422363217</link>
       <title>Aftenland</title>
@@ -35,9 +48,9 @@ Vært: Tina Rømer.
       <pubDate>Sat, 04 May 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363217/a0c7eee1c37e72e5fedf9876965760d1f4ddec6886eda372360c78225a941906.mp3" type="audio/mpeg" length="168479838" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363217/d7325b5c545809879e507f504183bbf9b8c2dfb6396be6d862b36a58704706ea.mp3" type="audio/mpeg" length="172801566" />
     </item>
     <item>
       <guid isPermaLink="false">12422463184</guid>
@@ -400,18 +413,6 @@ Vært: Minna Grooss.
       <itunes:duration>00:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363172/ab7f6592eba02949a252e9d669ba9cbe31771007e0276f52ba3b87be9025fe33.mp3" type="audio/mpeg" length="82274574" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463144</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-klaverer-paa-rumrejse-12422463144</link>
-      <title>Klaverer på rumrejse</title>
-      <description>Der er både astronauter, virtuose klaverspillere og et tysk unikum med i aftenens vidtfavnende udgave af Natsværmen. Vært er Peter Albrechtsen, der også undervejs spiller stemningsfuld ny dansk musik.</description>
-      <pubDate>Fri, 05 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463144/eca81838209be862430a61bde4782ced78a79448d459bacdd31d732951fb46ff.mp3" type="audio/mpeg" length="168670484" />
     </item>
     <item>
       <guid isPermaLink="false">12422263112</guid>
@@ -800,35 +801,6 @@ www.dr.dk/p2
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263145/8b8d10dd69cacdf89f9aac9790caf2a27e7fded86f1ef131e41f4c24bb0c75e7.mp3" type="audio/mpeg" length="168475483" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422263462</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-broedre-12422263462</link>
-      <title>Brødre</title>
-      <description>Livsvidner, bedste venner eller værste fjender... det handler om brødre i aftenens Natsværmer. Mills, Klazz, Everly og Pochekin Brothers kommer forbi og bl.a. Bach, de Biasio Beethoven, og Lille Bror Søderlundh har skrevet musikken.
-Vært: Benedikte Bové.
-(Sendt første gang 16. november 2022).</description>
-      <pubDate>Tue, 07 Nov 2023 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263462/a87eefd1881be68cbf01a499deee05470948165366cdb2f6d4611d7090cb201f.mp3" type="audio/mpeg" length="168481243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422163442</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2021/natsvaermeren-stemmernes-nat-12422163442</link>
-      <title>Stemmernes nat</title>
-      <description>I aften med et touch af storladen romantik, stemmer i dans om sjælen, og filmiske nedslag.
-Vært: Minna Grooss. 
-www.dr.dk/p2
-(Sendt første gang 3. november 2021).</description>
-      <pubDate>Sat, 04 Nov 2023 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422163442/f1ef698c844eac1593a920cb00d3cfb5ef19de77b3ae0d955dddc8d1bee6f57e.mp3" type="audio/mpeg" length="168477211" />
     </item>
   </channel>
 </rss>
