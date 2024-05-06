@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -436,22 +436,6 @@ Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonse
       <itunes:duration>01:06:43</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122392541/b088f9a0bff7825a61d520970574747406c80c3f6e833d9bb165efb9fcf04ede.mp3" type="audio/mpeg" length="96090139" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122392540</guid>
-      <link>https://www.dr.dk/lyd/p6beat/sort-soendag/sort-soendag-2023/sort-soendag-efteraars-playlisten-16122392540</link>
-      <title>Efterårs-playlisten</title>
-      <description>Bøtter og Trolle giver deres bud på gode tonser tunge toner til det smukke efterår. Hvem har Candlemass med? Hvem elsker Neurosis? Og hvilket dansk band er begge værter enige om bare dufter af visne blade, døende sollys og vindblæst efterårshygge?
-Værter: Anders Bøtter og Jakob Trolle.
-Klip: Anders Bøtter.
-Udsendelse nr. 601.
-Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonser tunge toner, i selskab med værterne Anders Bøtter og Jakob Trolle. Sort Søndags trofaste "Giro 666 lyttere" byder ind med både nye og gamle numre, "Musiknyt" sørger for at holde dig helt opdateret og hver måned gennemgås et klassisk metal album i "Månedens Mesterværk".</description>
-      <pubDate>Sun, 05 Nov 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:54:17</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122392540/1a07409c59a9a93f55c04e6ee9e05caf756e42af3a7bd8de16be557cc5b43d6c.mp3" type="audio/mpeg" length="78179995" />
     </item>
   </channel>
 </rss>

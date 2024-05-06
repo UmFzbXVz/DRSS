@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463187</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-store-small-12422463187</link>
+      <title>Store Small</title>
+      <description>Evening. Night Blooming. Morning Song. Det er nogle af de passende titler på de nattevenlige toner i denne udgave af Natsværmeren, hvor vært Peter Albrechtsen også fortæller om en af 1970'ernes mest markante filmkomponister, Michael Small, som har det med at blive overset af mange moderne filmelskere. 
+Vært: Peter Albrechtsen.</description>
+      <pubDate>Mon, 06 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463187/85575a90354bece86bde95241f0b8ba7b126bbf38eefe62efa32096e686ac7eb.mp3" type="audio/mpeg" length="168479877" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463186</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-om-kaerlighed-og-doed-12422463186</link>
@@ -401,20 +414,6 @@ Vært: Tina Rømer.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463146/7b653626d89899e806510b6c5f2bb2bc41676de9f2d93384ac4414470804a771.mp3" type="audio/mpeg" length="168674556" />
     </item>
     <item>
-      <guid isPermaLink="false">12422363172</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-foraarsrengoering-12422363172</link>
-      <title>Forårsrengøring</title>
-      <description>Du kender det sikkert, bunkerne hober sig op på skrivebordet og det er tid til at gøre rent. Der gemmer sig lidt af hvert, og når det gælder Natsværmeren, dukker både Steve Reich op, et kærlighedstema fra Star Wars, en støvet trio der aldrig bliver forældet, og toptunede unge komponister som Shida Shahabi, Sarah Davachi, Astrid Engberg og Sofie Birch.
-Vært: Minna Grooss.
-(Sendt første gang 26. april 2023).</description>
-      <pubDate>Sat, 06 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363172/ab7f6592eba02949a252e9d669ba9cbe31771007e0276f52ba3b87be9025fe33.mp3" type="audio/mpeg" length="82274574" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422263112</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-for-tidligt-og-for-sent-12422263112</link>
       <title>For tidligt og for sent</title>
@@ -786,21 +785,6 @@ www.dr.dk/p2
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422163444/2ddd28ef2eff9c3b0130b6121de9affe1c42ad03ec18e66f3541fc0a365263b8.mp3" type="audio/mpeg" length="168473755" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422263145</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-aarstider-paa-film-12422263145</link>
-      <title>Årstider på film</title>
-      <description>Natsværmeren tager dig med ind i biografens magiske mørke med musikken til årstidernes skiften på film.
-Vært: Tina Rømer.
-www.dr.dk/p2
-(Sendt første gang 9. april 2022).</description>
-      <pubDate>Wed, 08 Nov 2023 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263145/8b8d10dd69cacdf89f9aac9790caf2a27e7fded86f1ef131e41f4c24bb0c75e7.mp3" type="audio/mpeg" length="168475483" />
     </item>
   </channel>
 </rss>

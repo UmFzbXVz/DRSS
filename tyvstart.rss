@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:55 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450090</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-weekendens-sportsbonanza-13652450090</link>
+      <title>Weekendens sportsbonanza</title>
+      <description>Champions League-triumf, drama i Superligaen og dansk skuffelse ved VM for hold.
+Weekendens danske sportspræstationer har været så svære at vælge imellem, at dagens episode bliver en rundtur. DR Sportens kommentatorer, journalister og reportere giver det store overblik efter en hæsblæsende sportsweekend.
+Vært: Emil Schiønning.</description>
+      <pubDate>Mon, 06 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450090/13cf5c4eea3a4e8b142d2b4471e348afe269160bc4ad33b208ef4c82109a8b96.mp3" type="audio/mpeg" length="28875899" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450089</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-giro-di-pogacar-13652450089</link>

@@ -10,7 +10,7 @@ Produceret for DR af Firkantede øjne.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:15 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -365,23 +365,6 @@ Produceret for DR af Firkantede øjne.</description>
       <itunes:duration>00:56:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122193081/2fe7559be600ebfcbb6482286635b76ccef815d55d0a401a0c3d5bcbcbce417f.mp3" type="audio/mpeg" length="81246573" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122193063</guid>
-      <link>https://www.dr.dk/lyd/special-radio/superfan/exit/superfan-exit-3-3-har-vi-exit-typer-i-danmark-med-serieivaerksaetter-mads-faurholt-16122193063</link>
-      <title>Exit 3:3 - har vi Exit-typer i Danmark? Med serieiværksætter Mads Faurholt</title>
-      <description>Frederik og Kasper er røget yderligere ned i Exit-kaninhullet, og for at give serien et reality check har de en snak med serieiværksætter og chef i en større investeringsvirksomhed, Mads Faurholt, hvis CV ville få selv Adam og Henrik fra Exit til at ryste i bukserne. Kan man komme langt i investeringsverdenen ved at opføre sig som en psykopat, eller skal man faktisk være god til mennesker? 
-Værter: Kasper Lundberg og Frederik Dirks Gottlieb.
-Produceret for DR af Firkantede øjne.</description>
-      <pubDate>Wed, 05 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000020003</itunes:order>
-      <itunes:season>2</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:51</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122193063/8f300d97920febeed4b6b83104b8b8b7eef86dd4d5e630f210860609f3d20a3a.mp3" type="audio/mpeg" length="83311533" />
     </item>
   </channel>
 </rss>

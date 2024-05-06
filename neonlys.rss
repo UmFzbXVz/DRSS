@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332418187</guid>
+      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-masser-nyt-musik-og-soendagsvibes-13332418187</link>
+      <title>MASser nyt musik og søndagsvibes</title>
+      <description>Rapperen Mas' nye ep er rigtig god. Som i rigtig god. Vi hører to numre fra den, og så er der ellers søndagshygge for resten af pengene med genbesøg af lidt ældre numre i hiphop- og r'n'b-kataloget, som Alida har fundet frem.</description>
+      <pubDate>Sun, 05 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418187/aced16267ba82c96e33f6ebc9b2c84a470d7b94a0fc8957802918605cfa02d82.mp3" type="audio/mpeg" length="172802153" />
+    </item>
     <item>
       <guid isPermaLink="false">13332418186</guid>
       <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-ice-ice-baby-og-hiphopfest-13332418186</link>
@@ -123,19 +135,6 @@ Desuden lytter vi til et af de nye talenter i årets KarriereKanonen!</descripti
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418147/af379f768a8049fe5fd31001a574de758d8f446248f308cf4e468ccf571a3ae9.mp3" type="audio/mpeg" length="172994442" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418146</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-aekte-vare-fylder-10-aar-og-karrierekanonen-er-gaaet-i-luften-13332418146</link>
-      <title>Ækte Vare fylder 10 år - og KarriereKanonen er gået i luften!</title>
-      <description>I dag er det Gilli-dag. Alida har besøg af musikredaktør på Soundvenue, og sammen snakker de debutep'en 'Ækte Vare,' der blev startskuddet for hele Gillis karriere. Desuden lytter vi til et af de nye talenter i årets KarriereKanonen!
-Medvirkende: Kristian Karl.</description>
-      <pubDate>Sat, 06 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418146/558e2d685b377c8a5768d44c54c2306f00f726021aa3868ab73091485d870857.mp3" type="audio/mpeg" length="172994442" />
     </item>
   </channel>
 </rss>

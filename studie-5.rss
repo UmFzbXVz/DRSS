@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -52,20 +52,6 @@ Vært: Rasmus Scharling Toft.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429184/6d8d273aed15d142de3446b73c2cca14795e1d1812a9928d7f74431982991987.mp3" type="audio/mpeg" length="168481525" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429183</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-paa-vej-hjem-15452429183</link>
-      <title>På vej hjem</title>
-      <description>Marie Key er gæst i Studie 5 og fortæller om sit niende album. "På vej hjem", der er ugens album på P5.
-Det er også arbejdernes internationale kampdag og i studie 5 præsenterer vi en playliste der passer til 1 maj.
-Vært: Rasmus Scharling Toft.</description>
-      <pubDate>Wed, 01 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429183/da99cc82fbf71de11e3c41dd688aefec91a50054e51b78a6be4d36afa77fbbf8.mp3" type="audio/mpeg" length="168481591" />
     </item>
   </channel>
 </rss>

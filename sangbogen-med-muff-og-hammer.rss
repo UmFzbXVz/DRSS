@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422458187</guid>
+      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-sange-om-vejret-12422458187</link>
+      <title>Sange om vejret</title>
+      <description>Hvis der er noget der binder os sammen her til lands, så er det vejret. Vi taler meget om det og lever med at det er konstant foranderligt. Hør en række sange der skildrer vind og vejr, både i meteorologisk forstand men også i overført betydning, hvor vejret leverer billeder på indre, sjælelige tilstande.
+Katrine Muff og Mathias Hammer vælger sange, lige fra Joni Mitchells "Both sides now" om skyer, kærligheden og livet som sådan, til Frank Jægers "Vi der valgte regnen".
+(Redigeret genudsendelse fra 14. maj 2023).</description>
+      <pubDate>Sun, 05 May 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422458187/174e4ea87ea419a0e97ca544471b30e3b6c15682b1d0f6b9d8845d69e9ef1add.mp3" type="audio/mpeg" length="82081610" />
+    </item>
     <item>
       <guid isPermaLink="false">12422458177</guid>
       <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-sange-om-tal-12422458177</link>
@@ -329,18 +343,6 @@ Værter: Katrine Muff og Mathias Hammer.</description>
       <itunes:duration>01:17:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358457/0270dfb669e397c6842cedaeb2b61171a47f59277e810f94023505a31642283d.mp3" type="audio/mpeg" length="110881243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422358447</guid>
-      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2023/sangbogen-med-muff-og-hammer-sange-om-transport-12422358447</link>
-      <title>Sange om transport</title>
-      <description>Der er mange måder at komme frem i verden på. Katrine Muff og Mathias Hammer skråler med når Povl Kjøller rejser ud i verden på hest og i bus og alt muligt, når Birgitte Grimstad ror uden årer, Tracy Chapman giver den gas, John Mayer vil stoppe toget og hu hej hvor det går.</description>
-      <pubDate>Sun, 05 Nov 2023 18:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:17:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422358447/47ee44f55df3ef8446241140fd3b6f99399bae61bc7fe85f384a96e7d2cf7e70.mp3" type="audio/mpeg" length="110881243" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:33 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:01:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <category>History</category>
     <itunes:category text="History" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11162411013</guid>
+      <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-black-moses-2-3-sailing-home-on-a-black-star-line-11162411013</link>
+      <title>Black Moses 2:3 - Sailing home on a Black Star Line</title>
+      <description>Der er en grund til, at Marcus Garvey bliver kaldt Black Moses: Han har en plan om at føre afroamerikanere over Atlanten og tilbage til Afrika, og til det skal han bruge nogle skibe. Men ikke alle synes, det her er en god idé, og spørgsmålet er, om Garvey kan holde, hvad han har lovet for de hundredetusinde tilhængere, der har investeret i hans drøm?
+Medvirkende: Charles Kinga og Jørn Brøndal.
+Redaktion: Johanne Mosegaard, Celine Klint og Martin Grønne.
+Redaktør: Hanne Barslund.</description>
+      <pubDate>Mon, 06 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:29:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162411013/4b2dc8d7d0f393c66b4095bbd0354cec11eef4d7a5eec67a5065edbf439a398d.mp3" type="audio/mpeg" length="42122164" />
+    </item>
     <item>
       <guid isPermaLink="false">11162411012</guid>
       <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-black-moses-1-3-back-to-africa-11162411012</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652402187</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402187</link>
+      <title>Søndag 5. maj 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Rikke Smed, Thomas Loft og Emil Schiønning.</description>
+      <pubDate>Sun, 05 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>06:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402187/d97aa9a34ee0bf1177697b21d638f6f8889a22e9d4dbb6cffcb939d36df6650a.mp3" type="audio/mpeg" length="600482028" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652402185</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402185</link>
       <title>Fredag 3. maj 2024</title>
@@ -37,19 +50,6 @@ Værter: Morten Hausborg og Alberte Røhl.</description>
       <itunes:duration>03:51:22</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402185/7c380e113f1213239dace8a4e66b3033b5dbc1239a022be2009aa8b660dccf9f.mp3" type="audio/mpeg" length="333188642" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402183</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402183</link>
-      <title>Onsdag 1. maj 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Vært: Morten Hausborg.</description>
-      <pubDate>Wed, 01 May 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402183/be70c264b18a54b63263f142a4a7c4251b956051638dbf99e4bf8ca134bf0ae3.mp3" type="audio/mpeg" length="338401999" />
     </item>
   </channel>
 </rss>

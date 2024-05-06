@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -282,18 +282,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>01:04:41</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354638/18bea7b0d87579b882dc03f2ffc27c88b89b0c1f11fd5f8fa319f6f89b846fab.mp3" type="audio/mpeg" length="93150811" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354637</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-caspar-hesselager-og-elliott-smith-figure-8-16452354637</link>
-      <title>Caspar Hesselager og Elliott Smith "Figure 8"</title>
-      <description>Velkommen til en samtale om Elliott Smith og hans sidste værk, inden hans tragiske død for 20 år siden. Vi slår fast, hvorfor han var en af de største sangere og sangskrivere, som med legende lethed sætter ord og melodi til alt det, som er svært. Gæst er Caspar Hesselager - producer og musiker, som du måske blandt meget andet kender fra Palace Winter og musiker på Swan Lees seneste tour.</description>
-      <pubDate>Sun, 05 Nov 2023 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:05</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354637/78bab04537dc605bdfd34b5777addc9b595e070ee8727293057e0674fc76a093.mp3" type="audio/mpeg" length="80774875" />
     </item>
   </channel>
 </rss>

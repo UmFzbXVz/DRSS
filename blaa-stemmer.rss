@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 05 May 2024 17:23:26 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -85,20 +85,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434156/596499ff0001a09d2ca386f0c72e6aa3bf954d357064e5d8e6234b3ed1443069.mp3" type="audio/mpeg" length="82081609" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452434146</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-spirituelle-sange-18452434146</link>
-      <title>Spirituelle Sange</title>
-      <description>I dag bevæger vi os i det nære og bevidstheden, når vi dykker ned i den åndelige og spirituelle musik - frirummet som musikken kan give os alle og som for nogen kan blive en nødvendighed for at føle sig fri.
-Vært og tilrettelægger: Josephine Philip.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 06 Apr 2024 13:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434146/0076f13b14843253ed712a49804086d466ae788adf6f4b38dd0c560d752a6f0b.mp3" type="audio/mpeg" length="82274573" />
     </item>
   </channel>
 </rss>
