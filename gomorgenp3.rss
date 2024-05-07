@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 09:14:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 16:09:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,26 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410192</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410192</link>
+      <title>Tirsdag 7. maj 2024</title>
+      <description>Det skulle have været den store dag, hvor Andreas er tilbage i radioen ... Men han er syg. Show must go on! Der kommer heldigvis andre, der kan holde os med selskab.
+Alex Høgh og Magnus Haugaard har lavet en ny tv-serie, der hedder 'Kald mig far'. Den handler om, når ens ven vælger at blive kærester med ens mor.
+Nicklas Brendborg er genganger i programmet, fordi han simpelthen forsker i så fede ting. Nu har han lavet en podcast i DR Lyd, hvor han giver os opskriften på et længere liv.
+Værter: Liva Manghezi, Mikkel Rosendal.
+Medvirkende:
+Alex Høgh Andersen, skuespiller.
+Magnus Haugaard, skuespiller.
+Nicklas Brendborg, forsker og forfatter.
+Ole Nielsen, direktør, Museum Silkeborg.</description>
+      <pubDate>Tue, 07 May 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410192/4c58d698e671b9b53bd22ca4d2d506143a4ace88b633ee404f78599a07fff7d1.mp3" type="audio/mpeg" length="254881522" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410191</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410191</link>

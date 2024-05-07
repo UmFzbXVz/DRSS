@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 09:14:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 16:09:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428192</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-monica-zetterlund-uden-sidestykke-18452428192</link>
+      <title>Monica Zetterlund uden sidestykke</title>
+      <description>Alle elsker Monica Zetterlund. Det gør vi også på P8, hvor hun er hovedperson i ugens udgave af vores nye podcast Uden Sidestykke. Vi tager tilbage til de på engang hjertevarme og iskolde 60'ere i svensk jazz.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Medvirkende: Naya Buric, vært på podcasten Uden Sidestykke.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Tue, 07 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428192/14073047ac703370384c7ee288e288d8e9376a0747b62f488334965efc0a6399.mp3" type="audio/mpeg" length="252001611" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428191</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jazz-fra-en-vaeg-med-else-marie-pade-18452428191</link>
