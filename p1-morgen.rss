@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:14:23 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433191</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433191</link>
+      <title>Mandag 6. maj 2024</title>
+      <description>Hvordan har myndighederne lavet kriterier for udledning på baggrund af Cheminova?
+Hvorfor vælger flere at tage ruten via De Kanariske Øer for at komme til EU? Og hvorfor bliver steorider solgt i så stor grad på det illegale marked i Danmark?
+Dagen værter: Thomas Tjerandensen og Cecilie Lange.</description>
+      <pubDate>Mon, 06 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:05</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433191/31398884080f0e69886bca6bcb47643af17cca303bb960f08e671696cbe7e187.mp3" type="audio/mpeg" length="237735221" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433186</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433186</link>
@@ -1837,18 +1850,6 @@ Dagens værter: Ole Brink og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:02</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333455/ade842b5b8db141f4da68a1cc141814289d6097fe95c6656c8bccd391f73dd93.mp3" type="audio/mpeg" length="237664027" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333454</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333454</link>
-      <title>Torsdag 9. nov. 2023</title>
-      <description>Hvorfor kalder kritikere den kommende flyafgift for en 'skjult velfærdsskat'?  Hvilket indtryk gør anklagen om krigsforbrydelser fra FN på Israel og Hamas? Og hvordan er det at være jøde i DK lige nu?
-Dagens værter: Pernille Rudbæk og Ole Brink.</description>
-      <pubDate>Thu, 09 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:02</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333454/cf886821c851b9770935b2148bdbf96d21d7ae0eaa352cdffcda512f44c0fba6.mp3" type="audio/mpeg" length="237653083" />
     </item>
   </channel>
 </rss>

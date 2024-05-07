@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:14:33 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450091</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-gustav-tager-e45-mod-nba-13652450091</link>
+      <title>Gustav tager E45 mod NBA</title>
+      <description>Gustav Knudsen har tilmeldt sig årets draft til NBA.
+Bakken Bears-stjernen er 21 år gammel og har hele sit liv drømt om verdens bedste liga. Nu har han tilmeldt sig draften, og selvom det måske ikke bliver i år i første forsøg, tror han på, at det lykkes en dag.
+Også selvom Gustav har fravalgt at gå på college og high school i USA, for NBAs stenrige klubber ser mere og mere mod Europa, når de skal finde morgendagens stjerner.
+Vært: Kresten Mosbæk.</description>
+      <pubDate>Tue, 07 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:37</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450091/a1b8b2401a3a25ace9e745662f6e83c2fcf89cfaae4963fdb6979b0dc0014f88.mp3" type="audio/mpeg" length="21061886" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450090</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-weekendens-sportsbonanza-13652450090</link>
@@ -1892,22 +1907,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:49</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350215/e1240782e19970beba36ae94dc5aea47ddddc7f567aee762e4d28b17931b6ca1.mp3" type="audio/mpeg" length="22779163" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350214</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-dupreeh-er-gaaet-fra-glemsel-til-kaos-13652350214</link>
-      <title>Dupreeh er gået fra glemsel til kaos</title>
-      <description>Peter 'Dupreeh' Rasmussen har brugt det seneste årti på at være blandt verdenseliten i Counter-Strike, men i sommer fik han sparket fra det franske hold Vitality, selv om han kort tid forinden, som den eneste nogensinde, havde vundet sin femte Major-turnering. 
-
-I månedsvis har han travet rundt, passet sin baby og livet væk fra Counter-Strike, men nu har han sagt ja til en kort aftale hos de gamle rivaler, Heroic. I horisonten venter den første Major på dansk grund, og 'kongen' af Counter-Strike har et klart mål om at være med - og om at modbevise dem, der kalder ham færdig.
- 
-Vært: Emil Schiønning</description>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:23</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350214/6af2e0bfe5490be61bb9b719968cc498415e6d54b1ff398f857f03160b81e84f.mp3" type="audio/mpeg" length="25050331" />
     </item>
   </channel>
 </rss>

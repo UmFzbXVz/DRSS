@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:13:48 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:13:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -191,9 +191,9 @@ Tilrettelæggelse: Rie Koch.
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:31:07</itunes:duration>
+      <itunes:duration>00:31:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421760701/45aa8493d429f08332ea75957ec0264be35b0bd9454ac512f389de6483e7132e.mp3" type="audio/mpeg" length="44822107" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421760701/d1ede6f613973985e856ae68a7a565c2d71b2170d6592f61dfc18ce729e2ca99.mp3" type="audio/mpeg" length="44713607" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:14:07 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421191</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421191</link>
+      <title>Mandag 6. maj 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Mon, 06 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421191/483b35c2c928cf17801b1f43bc51fb5b62f0b85283fdda50a726b05bd93da9d7.mp3" type="audio/mpeg" length="172801589" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421184</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-live-fra-loebeturen-13332421184</link>

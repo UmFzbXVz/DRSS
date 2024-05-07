@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:14:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460107</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Køntrovers</title>
+      <description>I fire år har børnelægen Hilary Cass læst sig ned i studie efter studie og gennemtrawlet det system, der møder engelske børn, der mistrives i deres køn. I midten af april udgiver hun sit arbejde og kommer med en opsigtsvækkende hovedpointe: Børn med såkaldt kønsdysfori er blevet behandlet med hormoner på et alt for løst grundlag. Konklusionen starter en lavine af debat - også herhjemme, hvor B.T. blandt andet må trække en leder om emnet tilbage. Midt i den heftige debat, står de børn, der føler sig fanget i det forkerte køn. I dagens Genstart fortæller Weekendavisens Christoffer Zieler om rapporten og de overvejelser, den har efterladt hos ham. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 3/5.</description>
+      <pubDate>Tue, 07 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460107/e683d9f92287dfb19dc78d42413e67b27f9b738b4445258a7ee972c84bb0685d.mp3" type="audio/mpeg" length="35257416" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460106</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -7653,9 +7667,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Mon, 03 Jan 2022 03:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:22</itunes:duration>
+      <itunes:duration>00:27:18</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802200001/c9d9c8741cba673926d47763078d308320a13886d5b677090948f03183360894.mp3" type="audio/mpeg" length="39431277" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802200001/54179a8fe81cf1167b9bdd91d5fe13b41775140daab661daf8713a7b41bb479f.mp3" type="audio/mpeg" length="39323393" />
     </item>
     <item>
       <guid isPermaLink="false">11802150252</guid>
@@ -7666,9 +7680,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Fri, 24 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:33</itunes:duration>
+      <itunes:duration>00:25:29</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150252/630de8f1dc45e6198b1eddafaaaa3940f8aba50ab521994f6cc622367e8fca6a.mp3" type="audio/mpeg" length="36813357" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150252/c3f68b9dc0ec4fa028a802815f78800d91007310fb49628d9739de872fb0fd4b.mp3" type="audio/mpeg" length="36704901" />
     </item>
     <item>
       <guid isPermaLink="false">11802150251</guid>
@@ -7680,9 +7694,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Fri, 17 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:14</itunes:duration>
+      <itunes:duration>00:25:10</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150251/70b8daeed8e8b06885296d4d8411a086a080afcb18f9fbf034c8c6b797137295.mp3" type="audio/mpeg" length="36354285" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150251/6b34643d71614b7f7f956cd5ac0df61e8000fae81d91f5835dd7a5e407adf43b.mp3" type="audio/mpeg" length="36246410" />
     </item>
     <item>
       <guid isPermaLink="false">11802150250</guid>
@@ -7693,9 +7707,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Thu, 16 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:04</itunes:duration>
+      <itunes:duration>00:24:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150250/972254426b45d83c66ae240f0a6351fa5eb899042cdcbd5b9769430fd8a58c31.mp3" type="audio/mpeg" length="34670637" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150250/a5134733d7599cffae0bfebd140b64758579686a48954cad151b4e6137279131.mp3" type="audio/mpeg" length="34562766" />
     </item>
     <item>
       <guid isPermaLink="false">11802150249</guid>
@@ -7710,9 +7724,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 15 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:duration>00:23:50</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150249/22ee67d7717fa5402ac50bfc0669d0c7a785e3dc4243c5df72fb74f3cfef1e5e.mp3" type="audio/mpeg" length="34432749" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150249/77b18250de7627567826a15e6ce9986803608b0d3454174214d85ea96871925f.mp3" type="audio/mpeg" length="34324872" />
     </item>
     <item>
       <guid isPermaLink="false">11802150248</guid>
@@ -7723,9 +7737,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Tue, 14 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:39</itunes:duration>
+      <itunes:duration>00:22:34</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150248/5b89146620007faf09c96895b7be4ddddf3ce7fe0a9eed39276698aec1ff55b5.mp3" type="audio/mpeg" length="32622957" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150248/487c6f8185521fa091560b1f3321a7de9999ab53cae5f5d1ed5c301d4efe23e5.mp3" type="audio/mpeg" length="32515079" />
     </item>
     <item>
       <guid isPermaLink="false">11802150247</guid>
@@ -7737,9 +7751,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Mon, 13 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:38</itunes:duration>
+      <itunes:duration>00:23:33</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150247/318f63c5970a336062f7ba0cdabb45c4c8235f9b88b003b1cd62f97466c4f98a.mp3" type="audio/mpeg" length="34035885" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150247/5bb702679d10b096d1ab89016d79ba8bddf09b0e4bb2ccb7c20a19e9273535b4.mp3" type="audio/mpeg" length="33927432" />
     </item>
     <item>
       <guid isPermaLink="false">11802150246</guid>
@@ -7750,9 +7764,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Fri, 10 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:07</itunes:duration>
+      <itunes:duration>00:24:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150246/0835158786d28442d570d7bb5ce971d1a924568c87b53653bda8956b01e5942d.mp3" type="audio/mpeg" length="34731693" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150246/c14d746dda915b877d7c801bd77c34277162e1a294c6c44cc88011bef6b17b56.mp3" type="audio/mpeg" length="34623813" />
     </item>
     <item>
       <guid isPermaLink="false">11802150245</guid>
@@ -7765,9 +7779,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Thu, 09 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:39</itunes:duration>
+      <itunes:duration>00:24:35</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150245/be6390217d96b42ce6d6da9cf9fee3b513dac9c65b63e265e736e2b1ab956f5b.mp3" type="audio/mpeg" length="35520237" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150245/59a22574d2b7b5a39e9e25a778ea9ef22f9b5416c286bb0e829d10b90c809731.mp3" type="audio/mpeg" length="35411779" />
     </item>
     <item>
       <guid isPermaLink="false">11802150244</guid>
@@ -7778,9 +7792,9 @@ Vært: Anna Ingrisch.</description>
       <pubDate>Wed, 08 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:20</itunes:duration>
+      <itunes:duration>00:27:15</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150244/6edb16f334f46742d26526d997190db6627d0915d76e19d94227c8115b922a55.mp3" type="audio/mpeg" length="39373101" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150244/2a3cc801d947112b679daeeffbf2f1607304a99c29935c19506f4f3cfd38a40d.mp3" type="audio/mpeg" length="39265227" />
     </item>
     <item>
       <guid isPermaLink="false">11802150243</guid>
@@ -7791,9 +7805,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 07 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:41</itunes:duration>
+      <itunes:duration>00:24:36</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150243/cc8fb046e9b44fbdb2bbea7ec2f530d04d91a1a8296e11c274c9729e45a90cfe.mp3" type="audio/mpeg" length="35555949" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150243/f0807869007a3bee9952484315de4567ecac477c78601979e228d204c256b86a.mp3" type="audio/mpeg" length="35447499" />
     </item>
     <item>
       <guid isPermaLink="false">11802150242</guid>
@@ -7806,9 +7820,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 06 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:08</itunes:duration>
+      <itunes:duration>00:23:04</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150242/d1b6b2ec596b426962c15c7aaab39614a8a1cecd4532ae0a033c20aa9cc93f38.mp3" type="audio/mpeg" length="33333741" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150242/1fd996dc4f7db1f2cb800f93f30501383e6a0da189af9f92c7e54b8d4c8b9384.mp3" type="audio/mpeg" length="33225291" />
     </item>
     <item>
       <guid isPermaLink="false">11802150241</guid>
@@ -7819,9 +7833,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 03 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:18</itunes:duration>
+      <itunes:duration>00:25:13</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150241/5ef759d3fef195562c756a8d0303637c5d5f1952cf3c03f079e75802560b4968.mp3" type="audio/mpeg" length="36441837" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150241/96d85b84239b673555d6e845b1d5247c617b5ec7f7dd9a0ba69714fe139d4ef2.mp3" type="audio/mpeg" length="36333956" />
     </item>
     <item>
       <guid isPermaLink="false">11802150240</guid>
@@ -7833,9 +7847,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 02 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:52</itunes:duration>
+      <itunes:duration>00:26:48</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150240/ad76d8b7f89bab22c2b86e774f4528bef4ad3cac0af6576e2c58d026dc887406.mp3" type="audio/mpeg" length="38703213" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150240/ba15328f87cf2b3725bf309a0e5b71fe8d72a11abc7bf40f032bd6106a01a45f.mp3" type="audio/mpeg" length="38594767" />
     </item>
     <item>
       <guid isPermaLink="false">11802150239</guid>
@@ -7848,9 +7862,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 01 Dec 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:48</itunes:duration>
+      <itunes:duration>00:22:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150239/0abb1711341bd434d263cc0a3c47db7c59f9ca8c6d58e0b40f8108a9b1bfbbde.mp3" type="audio/mpeg" length="32847021" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150239/268f0147a86c9f2afe44fae5d73db5ec3e3fb364eb2e7b2a97789cd2d868a6b3.mp3" type="audio/mpeg" length="32739151" />
     </item>
     <item>
       <guid isPermaLink="false">11802150238</guid>
@@ -7861,9 +7875,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 30 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:21</itunes:duration>
+      <itunes:duration>00:25:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150238/01b3064b5dc89f6ebfa8ddc14719466d004f8808669f4f3f3b73af16cd32f8fb.mp3" type="audio/mpeg" length="36508653" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150238/73d9bed3e641e4fb4c5aeb1a0c533048e091653bc45824413b76155a39fe89b0.mp3" type="audio/mpeg" length="36400780" />
     </item>
     <item>
       <guid isPermaLink="false">11802150237</guid>
@@ -7877,9 +7891,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 29 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:35</itunes:duration>
+      <itunes:duration>00:24:30</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150237/8e8c46ec1709a6cb1a851186bafa94902f92781abc6cc8ff58c9ad68ca8c6656.mp3" type="audio/mpeg" length="35410797" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150237/5efc5c415ac2719d9d952e31c49167b3ab9603a304091da1de210b469e275210.mp3" type="audio/mpeg" length="35302343" />
     </item>
     <item>
       <guid isPermaLink="false">11802150236</guid>
@@ -7891,9 +7905,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 26 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:31:07</itunes:duration>
+      <itunes:duration>00:31:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150236/f8b4621df00dcf97af2f73b7a8ecd8e886a2855f0d629b232d46125024f05265.mp3" type="audio/mpeg" length="44820909" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150236/27e3fe5289057199c8f8e798e425e20836017a32ed058ce246974338d9061925.mp3" type="audio/mpeg" length="44713031" />
     </item>
     <item>
       <guid isPermaLink="false">11802150235</guid>
@@ -7904,9 +7918,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 25 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:12</itunes:duration>
+      <itunes:duration>00:24:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150235/abeee31b4b0bba5ee5b2ff5a0c56b48d4f6ef1b9664d2e2fdf24f782ec75b08c.mp3" type="audio/mpeg" length="34850925" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150235/5d7384a1b9fb1844c3632b917b3355a042213b22d08914286bd1c2a38876ff9a.mp3" type="audio/mpeg" length="34742477" />
     </item>
     <item>
       <guid isPermaLink="false">11802150234</guid>
@@ -7917,9 +7931,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 24 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:55</itunes:duration>
+      <itunes:duration>00:23:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150234/ad07b62658be9edcc4a2c4ef346f4f4d9214df27e160deaa2c2da49ba634f504.mp3" type="audio/mpeg" length="34459245" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150234/df7fbf2dc1831837b95f760f94a145aa41261ba44baa53c69474528efb02d944.mp3" type="audio/mpeg" length="34351368" />
     </item>
     <item>
       <guid isPermaLink="false">11802150233</guid>
@@ -7930,9 +7944,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 23 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:duration>00:22:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150233/b57d912dbe0b0a8edf591021abbbd6de60b3aa3b3e9d4271262a234371e3901d.mp3" type="audio/mpeg" length="32870061" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150233/44f904609af9d2493aab0c41d7abd6eb59b12a441d67f6f60ec4d79425ec0d71.mp3" type="audio/mpeg" length="32761600" />
     </item>
     <item>
       <guid isPermaLink="false">11802150232</guid>
@@ -7943,9 +7957,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 22 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:30</itunes:duration>
+      <itunes:duration>00:24:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150232/5cdaffc968305315aa72416ba04fd08aabdd046d53975bef5231483370585653.mp3" type="audio/mpeg" length="35286957" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150232/72613d3d03d5bea6e5357f67190d98af7a3cab4ae4e565aa5de3dc87cbe0d22b.mp3" type="audio/mpeg" length="35178496" />
     </item>
     <item>
       <guid isPermaLink="false">11802150231</guid>
@@ -7956,9 +7970,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 19 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:47</itunes:duration>
+      <itunes:duration>00:26:42</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150231/af7a228eafcb725e52ca98d958538f6e87403fc96ae2e0bd2a40dcb8251c0e90.mp3" type="audio/mpeg" length="38572461" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150231/c05d827b4aead8a0e917f16e6ddde7af43711edd7e6eeb3c28021601dfd37b0e.mp3" type="audio/mpeg" length="38464005" />
     </item>
     <item>
       <guid isPermaLink="false">11802150230</guid>
@@ -7970,9 +7984,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 18 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:40</itunes:duration>
+      <itunes:duration>00:24:35</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150230/e238d2abaf0da54d044a6d20aa2dbf98d2065f6854df822ba172df75da9b5b22.mp3" type="audio/mpeg" length="35531181" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150230/4864a239b96f2a5ab83d8fdbe2d0f4f54e44718e1ee241964e4a6da4b1e984a1.mp3" type="audio/mpeg" length="35422729" />
     </item>
     <item>
       <guid isPermaLink="false">11802150229</guid>
@@ -7983,9 +7997,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 17 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:duration>00:26:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150229/5c0631a09c62aaec62a810f43413027e3aedfd9e42203336e6c02140f302ada5.mp3" type="audio/mpeg" length="37589805" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150229/b9590a756c4570614cd0b28ed64b07d3bce1986f1cfa071675f2afd0b359e314.mp3" type="audio/mpeg" length="37481917" />
     </item>
     <item>
       <guid isPermaLink="false">11802150228</guid>
@@ -7996,9 +8010,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 16 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:42</itunes:duration>
+      <itunes:duration>00:25:37</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150228/ff009ff069d572c2e17fd01e2b61f6b652f72309f8e752e05120ecab6fb185c7.mp3" type="audio/mpeg" length="37017837" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150228/fe94d18d0c0873e72f69f65ac95430516bf5e2a2307803f27569f98ab7eef239.mp3" type="audio/mpeg" length="36909966" />
     </item>
     <item>
       <guid isPermaLink="false">11802150227</guid>
@@ -8010,9 +8024,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 15 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:11</itunes:duration>
+      <itunes:duration>00:24:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150227/58a6bd31282c24034c20944f026861a2c2de29809064c407ce1ffd09896560dc.mp3" type="audio/mpeg" length="34841709" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150227/ad023416a2b2e74e9c5a20088a3806e4273d1babbf4936a022eeee71119a0691.mp3" type="audio/mpeg" length="34733834" />
     </item>
     <item>
       <guid isPermaLink="false">11802150226</guid>
@@ -8024,9 +8038,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 12 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:38</itunes:duration>
+      <itunes:duration>00:26:34</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150226/d4813aa243131cc4dbf63550312d17c390c5a1dce1df87570740210ce0cceb71.mp3" type="audio/mpeg" length="38366253" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150226/156c264595d3c5eab859fac82bc64a825c78c6908023915deb2cdd8185d32106.mp3" type="audio/mpeg" length="38257804" />
     </item>
     <item>
       <guid isPermaLink="false">11802150225</guid>
@@ -8037,9 +8051,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 11 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:48</itunes:duration>
+      <itunes:duration>00:22:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150225/2f9fb0ae64fa320583b662a680f594cf1a098592fe3ddffcbe2239b88bbd7791.mp3" type="audio/mpeg" length="32852205" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150225/2667c411fb68c1e27f2c93908be13fb5362487365c7fde09c600b6c0ffd6ad9c.mp3" type="audio/mpeg" length="32744332" />
     </item>
     <item>
       <guid isPermaLink="false">11802150224</guid>
@@ -8052,9 +8066,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 10 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:40</itunes:duration>
+      <itunes:duration>00:24:36</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150224/a38b6e8872e20543fbddc24fc181f702810d25749b4be63a00aa02703891ffb5.mp3" type="audio/mpeg" length="35540397" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150224/8ae2c38327b1481c1e8680fec43f9bcadc893a44b073ad96ca28340849de09f0.mp3" type="audio/mpeg" length="35432513" />
     </item>
     <item>
       <guid isPermaLink="false">11802150223</guid>
@@ -8065,9 +8079,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 09 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:duration>00:26:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150223/06212450ae184f600dd5bb3b940795add7b3b29dc9d24ce01d75de3f74b68c02.mp3" type="audio/mpeg" length="38780397" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150223/a17a37cbb5b76edfd92caed47107a29f3f7912e11f67f7633f84733e2ca4fb83.mp3" type="audio/mpeg" length="38671944" />
     </item>
     <item>
       <guid isPermaLink="false">11802150222</guid>
@@ -8078,9 +8092,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 08 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:36</itunes:duration>
+      <itunes:duration>00:24:31</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150222/ac535a414561f951fd3c2a1e9fafd89b19f9984884b0dc051d0a921e2d410657.mp3" type="audio/mpeg" length="35432685" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150222/9b1d0f1307421b43c06b3ba614c14f2ba437649eece65af87a2aad9f30134e8a.mp3" type="audio/mpeg" length="35324223" />
     </item>
     <item>
       <guid isPermaLink="false">11802150221</guid>
@@ -8094,9 +8108,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 05 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:15</itunes:duration>
+      <itunes:duration>00:22:10</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150221/6176e83e67ed4609a30b3d033436bfd55ae7a999a2f1a08c173f5f2f54098a11.mp3" type="audio/mpeg" length="32042349" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150221/b8a44d4ab922b29998f5ede73ec8edef8a2867f5ed3646cdc1292bde7971b200.mp3" type="audio/mpeg" length="31933891" />
     </item>
     <item>
       <guid isPermaLink="false">11802150220</guid>
@@ -8107,9 +8121,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 04 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:36</itunes:duration>
+      <itunes:duration>00:24:31</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150220/377596a6fe3fb5d8fa002b76932266491f05337b6b275acb4c7e41a346c50fc1.mp3" type="audio/mpeg" length="35425773" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150220/4c2f30e200ce09cd33890dd4e0f4a9b803a67280b8bce9c07a53dcb6edc5c6f5.mp3" type="audio/mpeg" length="35317892" />
     </item>
     <item>
       <guid isPermaLink="false">11802150219</guid>
@@ -8120,9 +8134,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 03 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:42</itunes:duration>
+      <itunes:duration>00:23:37</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150219/74873958f5461cdeff1e733419350d5547e1ce6c925a6859d60ab4aed1164f77.mp3" type="audio/mpeg" length="34130349" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150219/071ddc3eb8adf253bb9bd1736238be6557798fbbdba9ae4889313b4e9d8bc77f.mp3" type="audio/mpeg" length="34022476" />
     </item>
     <item>
       <guid isPermaLink="false">11802150218</guid>
@@ -8133,9 +8147,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 02 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:30</itunes:duration>
+      <itunes:duration>00:25:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150218/76a2b51ff8bffcae9fb8a7b1ff1158bca8a1b09b84dd71f5b9bd3245dd0aef6d.mp3" type="audio/mpeg" length="36732717" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150218/9d776927da84d504dda20a0750bcfce4adc9e14f724441437b1c3d73bf925ded.mp3" type="audio/mpeg" length="36624265" />
     </item>
     <item>
       <guid isPermaLink="false">11802150217</guid>
@@ -8146,9 +8160,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 01 Nov 2021 04:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:11</itunes:duration>
+      <itunes:duration>00:22:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150217/1e605dd0347ed24d917a5d92de34b91babb0c4d1c080949d3c44cdce8beb88a4.mp3" type="audio/mpeg" length="31966317" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150217/e53a8dbde6974d727aaabef23718df93855c0c4c8e03f522825b3d086dffe91f.mp3" type="audio/mpeg" length="31857863" />
     </item>
     <item>
       <guid isPermaLink="false">11802150216</guid>
@@ -8159,9 +8173,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 29 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:25</itunes:duration>
+      <itunes:duration>00:22:21</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150216/2ff46b81c8fb0b2ec4cfe4b9ab69e5758191a20ea27d2b5ef0c9b29753479916.mp3" type="audio/mpeg" length="32303277" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150216/99f42a843faeb7c9aeede73279a6e3dd5ee95c54b5e2651f7f1494160f8d14eb.mp3" type="audio/mpeg" length="32194824" />
     </item>
     <item>
       <guid isPermaLink="false">11802150215</guid>
@@ -8173,9 +8187,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 28 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:28</itunes:duration>
+      <itunes:duration>00:24:23</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150215/b27674d8a07c1f8b3e7ca6856ee5cfb8351938b4bc370ec58eaf664580340b95.mp3" type="audio/mpeg" length="35235693" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150215/a8eda387779d62302eafa62c2463d5e015336e91c2b22dcba1663a0c7ab97fa5.mp3" type="audio/mpeg" length="35127228" />
     </item>
     <item>
       <guid isPermaLink="false">11802150214</guid>
@@ -8186,9 +8200,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 27 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:23</itunes:duration>
+      <itunes:duration>00:25:18</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150214/e28548157f24e7e0b0bb19c8e9b39137b78cf7a695d8acd8121d66b07d1a72c9.mp3" type="audio/mpeg" length="36557037" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150214/3bdfb524dc102e135682068d23ae412fd414f42107daa4396a27d6cc04bc4ddc.mp3" type="audio/mpeg" length="36448588" />
     </item>
     <item>
       <guid isPermaLink="false">11802150213</guid>
@@ -8199,9 +8213,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 26 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:30</itunes:duration>
+      <itunes:duration>00:25:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150213/c124cca7698db9177ede211d3a29889df7f5426f364141181b71aba4290d69f4.mp3" type="audio/mpeg" length="36724653" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150213/f6d6bdd1a9fa181c4217aaae7b5f59dba01bfdeef3328c93ab649a6e257cc207.mp3" type="audio/mpeg" length="36616204" />
     </item>
     <item>
       <guid isPermaLink="false">11802150212</guid>
@@ -8213,9 +8227,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 25 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:31</itunes:duration>
+      <itunes:duration>00:24:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150212/5c6001c53008071aa8b4e4f031001ba00aec71d84598b6c17f57b8a938b4eef3.mp3" type="audio/mpeg" length="35326701" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150212/cf1dc0c605ad72f24bcc975ceb967e4a88d83e93729e6063b9007a543c683e4e.mp3" type="audio/mpeg" length="35218812" />
     </item>
     <item>
       <guid isPermaLink="false">11802150207</guid>
@@ -8226,9 +8240,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 18 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:28:24</itunes:duration>
+      <itunes:duration>00:28:19</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150207/e16fa25908bd1aa5b33be7aaee1d232b70d15cb26549a3cfba101f0a849a1b34.mp3" type="audio/mpeg" length="40903533" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150207/2bb5221cbb691a490b4bda1a0eeb6ccbfe7140c9c3be701611ffc61166b90960.mp3" type="audio/mpeg" length="40795074" />
     </item>
     <item>
       <guid isPermaLink="false">11802150206</guid>
@@ -8239,9 +8253,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 15 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:duration>00:24:58</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150206/84be0148fd367e1a37b0216fdef2f9a1611831558332c5f32775ba3922f3cc48.mp3" type="audio/mpeg" length="36083565" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150206/49eda5da214aab392733a0d9784563a5690e3d1922cb1e1e463e645b87f8a9fd.mp3" type="audio/mpeg" length="35975117" />
     </item>
     <item>
       <guid isPermaLink="false">11802150205</guid>
@@ -8252,9 +8266,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 14 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:28</itunes:duration>
+      <itunes:duration>00:26:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150205/740f44071e3517f0916b75fadee46f597b5492797b0bb96f33d36bb865d3c28f.mp3" type="audio/mpeg" length="38129517" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150205/7cde580d48689b6d0eb6b1fd7cfe2cc99ab6ef1e90d41c1fbf044f0fd666cab5.mp3" type="audio/mpeg" length="38021065" />
     </item>
     <item>
       <guid isPermaLink="false">11802150204</guid>
@@ -8265,9 +8279,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 13 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:43</itunes:duration>
+      <itunes:duration>00:23:38</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150204/eddc37261f26676bddc20e5ad80a1e90b36bf3dc5a53286814c40762917f1129.mp3" type="audio/mpeg" length="34153965" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150204/aeffbd83f96269cace468dda5d2148e93e7008d400ac99b1578f608fa8554c55.mp3" type="audio/mpeg" length="34046090" />
     </item>
     <item>
       <guid isPermaLink="false">11802150203</guid>
@@ -8279,9 +8293,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 12 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:33</itunes:duration>
+      <itunes:duration>00:24:28</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150203/c6a85638901d198644f4c7cc1a6ad433e033337a618049431856a7fc4dca65a4.mp3" type="audio/mpeg" length="35357229" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150203/854fd55ea551f3c3f0f31bda60018fd22ac79bac915e2ccdcbda150ecee9e233.mp3" type="audio/mpeg" length="35249352" />
     </item>
     <item>
       <guid isPermaLink="false">11802150202</guid>
@@ -8292,9 +8306,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 11 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:17</itunes:duration>
+      <itunes:duration>00:24:13</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150202/7f01adf50e773325f7e37592351d2cf6cf0a5ff0319012823efb573c3200d575.mp3" type="audio/mpeg" length="34984557" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150202/f70189eec949c0a25b1928037c173f8a6bc5067ec92fb284702bb595e34392d5.mp3" type="audio/mpeg" length="34876105" />
     </item>
     <item>
       <guid isPermaLink="false">11802150201</guid>
@@ -8305,9 +8319,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 08 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:04</itunes:duration>
+      <itunes:duration>00:23:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150201/291a5f1f07b21e72ce3e6d36769d696b9334a871808db3649dd3df051fd84f7b.mp3" type="audio/mpeg" length="34668909" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150201/e49d4ebf6d8f76973954c6f4759c56a11d463bc761db7737e71f18b9b4e1af04.mp3" type="audio/mpeg" length="34560459" />
     </item>
     <item>
       <guid isPermaLink="false">11802150200</guid>
@@ -8318,9 +8332,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 07 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:05</itunes:duration>
+      <itunes:duration>00:26:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150200/cd64ea9c47780b72a1b5a5eb6c1dcea5fc73e80927d260bcce6650ee25a0f12b.mp3" type="audio/mpeg" length="37576557" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150200/a7f3e5c9bd8381064e30945946ca254707c20cfe80e80ab216bf5813891b0ddd.mp3" type="audio/mpeg" length="37468111" />
     </item>
     <item>
       <guid isPermaLink="false">11802150199</guid>
@@ -8331,9 +8345,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 06 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:57</itunes:duration>
+      <itunes:duration>00:24:53</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150199/e670b4b9b15705e1136e9a8f27e967b8f802d26bd96bf3639f734a413c49bec7.mp3" type="audio/mpeg" length="35942445" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150199/3d3f4c31e1f268a0db1a302ac5e9822fb9427eceb1c872ab29bc59cee0c0fb01.mp3" type="audio/mpeg" length="35833992" />
     </item>
     <item>
       <guid isPermaLink="false">11802150198</guid>
@@ -8344,9 +8358,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 05 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:50</itunes:duration>
+      <itunes:duration>00:20:45</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150198/52b662d1927728607295dac966e0e1f0421a8b5c393537c28c6f1b744bd0bf28.mp3" type="audio/mpeg" length="30011373" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150198/eecb397041039060f8b594847c8f7ab505abbb2ac763e03fe2662e9b488a780c.mp3" type="audio/mpeg" length="29902927" />
     </item>
     <item>
       <guid isPermaLink="false">11802150197</guid>
@@ -8357,9 +8371,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 04 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:51</itunes:duration>
+      <itunes:duration>00:25:46</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150197/2de99cdad248d9725bfabf190605c45fd1e580df3601f76f02261409d723830d.mp3" type="audio/mpeg" length="37237869" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150197/60217e0207533bffee8be20fc7d5e31efdaa0ae5cbe3e31aed2affb07cbcccf9.mp3" type="audio/mpeg" length="37129418" />
     </item>
     <item>
       <guid isPermaLink="false">11802150196</guid>
@@ -8372,9 +8386,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 01 Oct 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:02</itunes:duration>
+      <itunes:duration>00:24:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150196/70275476633aa0e542e74e14b8d93e2cac28376a5441334cd363a992cbe83456.mp3" type="audio/mpeg" length="36051309" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150196/7d412c426c9d4976f9ed4b0a914cf02c4860c3b643f176cf19cbdb99be8240d1.mp3" type="audio/mpeg" length="35942860" />
     </item>
     <item>
       <guid isPermaLink="false">11802150195</guid>
@@ -8385,9 +8399,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 30 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:33</itunes:duration>
+      <itunes:duration>00:24:28</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150195/858bde4f51d9e3a791f50823db0dc8e9429e902287dd64ba35503942bdb02873.mp3" type="audio/mpeg" length="35361261" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150195/01f4d1aa15294132e2915ab4a84c32ae4c1ec357b32080b62c8135941a1a744c.mp3" type="audio/mpeg" length="35253389" />
     </item>
     <item>
       <guid isPermaLink="false">11802150194</guid>
@@ -8398,9 +8412,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 29 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:31</itunes:duration>
+      <itunes:duration>00:23:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150194/50b76c1fcad69773adc55ae877f0aa175f009dcc814887a478ad41675e9c9e4e.mp3" type="audio/mpeg" length="33880365" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150194/feb35ea19f9072f2cccbad57236b8023dfdd8fd1023b06d03b5d0b83d0367576.mp3" type="audio/mpeg" length="33771910" />
     </item>
     <item>
       <guid isPermaLink="false">11802150193</guid>
@@ -8411,9 +8425,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 28 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:04</itunes:duration>
+      <itunes:duration>00:26:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150193/783a98ca4c149a6500539f53b3de8d2203349439e0b86d7733d1e902ae4406af.mp3" type="audio/mpeg" length="38986029" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150193/07403c321369baf75e3567e9ece78d4abd7be8c3ee60f83b3e0ec267d0c0f054.mp3" type="audio/mpeg" length="38878152" />
     </item>
     <item>
       <guid isPermaLink="false">11802150192</guid>
@@ -8424,9 +8438,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 27 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:00</itunes:duration>
+      <itunes:duration>00:21:56</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150192/0e1fe6a5029414e22ba6fe98f77a16bec5e37c94b2ca292843eb6590fcace06b.mp3" type="audio/mpeg" length="31695021" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150192/e5bb2cbf56246e8ba1a62afdfe4f6067c99483c82a8e0526c52fbee395019c02.mp3" type="audio/mpeg" length="31586571" />
     </item>
     <item>
       <guid isPermaLink="false">11802150191</guid>
@@ -8437,9 +8451,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 24 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:41</itunes:duration>
+      <itunes:duration>00:23:36</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150191/611722ebd6ef4d675d41305b3cf9a7a3de1b5aeccf2478422713e83eec4073ab.mp3" type="audio/mpeg" length="34113069" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150191/d5e15d20c85229021681e1a3a6952397e1f120af26fd863b09628e42e65e883c.mp3" type="audio/mpeg" length="34005195" />
     </item>
     <item>
       <guid isPermaLink="false">11802150190</guid>
@@ -8452,9 +8466,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 23 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:06</itunes:duration>
+      <itunes:duration>00:27:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150190/922a1e06dca24eb732ac8f83845a502bab089fca0baf2ced01d1de2f0af2f0f7.mp3" type="audio/mpeg" length="39035565" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150190/30fb38c084972d0f4b7a4485fcee34762a2b52e34ff9533d9ecbe7871647bb2e.mp3" type="audio/mpeg" length="38927105" />
     </item>
     <item>
       <guid isPermaLink="false">11802150189</guid>
@@ -8465,9 +8479,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 22 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:40</itunes:duration>
+      <itunes:duration>00:25:35</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150189/9b7a85ed7ee6d5f4ad74490b87c7a7a3d2b0168d70b8cd5da5929197990ab26e.mp3" type="audio/mpeg" length="36969453" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150189/e7c4590075ccb6c767a2d12b71232cc287553a2ce8965df8a789c3cf607f0d8b.mp3" type="audio/mpeg" length="36861566" />
     </item>
     <item>
       <guid isPermaLink="false">11802150188</guid>
@@ -8478,9 +8492,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 21 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:59</itunes:duration>
+      <itunes:duration>00:25:55</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150188/45b27f7fb706a8b45f6557455d615afd7030f5a583c183f44a8ae914323eb017.mp3" type="audio/mpeg" length="37438893" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150188/41df3591554c21a991c0deacdbe983e383a93d6e0df842315732416617904fda.mp3" type="audio/mpeg" length="37330442" />
     </item>
     <item>
       <guid isPermaLink="false">11802150187</guid>
@@ -8492,9 +8506,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 20 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:31</itunes:duration>
+      <itunes:duration>00:24:26</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150187/9032232184a095638edab9241607978de1faa1201e57ac352341b6147a358857.mp3" type="audio/mpeg" length="35316333" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150187/91c7ee718d994bb2dec4fff76932c43319a2b35730fc21c0f3cbfa4abc8a39ca.mp3" type="audio/mpeg" length="35207883" />
     </item>
     <item>
       <guid isPermaLink="false">11802150186</guid>
@@ -8505,9 +8519,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 17 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:31</itunes:duration>
+      <itunes:duration>00:22:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150186/2ddec04bd3ba7d58f5ab7d0afabc6577454a1c73ee7466848e3696cd1829122c.mp3" type="audio/mpeg" length="32447277" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150186/4e2a6f47e22b6f3b1dc5f507116b278e09e00eca6ff9329c7eca4b183dc82b8c.mp3" type="audio/mpeg" length="32339394" />
     </item>
     <item>
       <guid isPermaLink="false">11802150185</guid>
@@ -8518,9 +8532,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 16 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:duration>00:24:48</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150185/3728de34cd2839bab6eef2e16157b049050f4a894a8ba1ea738e36d70ff35849.mp3" type="audio/mpeg" length="35830125" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150185/6e41d6717d4ec672e267e5674817c63a1d6ef8c03f5902d2996a332ba60f6865.mp3" type="audio/mpeg" length="35722250" />
     </item>
     <item>
       <guid isPermaLink="false">11802150184</guid>
@@ -8531,9 +8545,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 15 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:duration>00:23:35</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150184/2a4215d0c664aea485ca70e278e85e631551bed2b70b58f4e2e20c2c9b3e452c.mp3" type="audio/mpeg" length="34077357" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150184/a35c66e98e3ef2d362d480b05cd56553d2798ea7d15571fbc9eda4c169bf5937.mp3" type="audio/mpeg" length="33968909" />
     </item>
     <item>
       <guid isPermaLink="false">11802150183</guid>
@@ -8544,9 +8558,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 14 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:31</itunes:duration>
+      <itunes:duration>00:25:26</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150183/1dc6394afc5b4eaf6697eb221d5b30aaefc2d79ba03833fcb97e95f5a0c9bf31.mp3" type="audio/mpeg" length="36755181" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150183/8d1572a4266df51767e68bae9a9708ad837f5d700ae14d627933343a85b732c2.mp3" type="audio/mpeg" length="36646728" />
     </item>
     <item>
       <guid isPermaLink="false">11802150182</guid>
@@ -8557,9 +8571,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 13 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:11</itunes:duration>
+      <itunes:duration>00:24:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150182/e9a85c44b282c9bafc4e6434a6352c219afbb0fd7c4523ab3a54eaadaa9070d1.mp3" type="audio/mpeg" length="34842285" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150182/cae80f20779d1d606b367e0737176523dcb2e69191f2502d2699cd03ce4bda7f.mp3" type="audio/mpeg" length="34733825" />
     </item>
     <item>
       <guid isPermaLink="false">11802150181</guid>
@@ -8570,9 +8584,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Fri, 10 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:53</itunes:duration>
+      <itunes:duration>00:22:48</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150181/57991bce91d734bc2b70df3440c96dec74e739ff2a5cdb1c388de2f78086c4dd.mp3" type="audio/mpeg" length="32956461" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150181/2a1dea3e0e06883a52edbb08dc25fdc78ab47da43d9b0797dcf31a1317c60ef4.mp3" type="audio/mpeg" length="32848006" />
     </item>
     <item>
       <guid isPermaLink="false">11802150180</guid>
@@ -8583,9 +8597,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 09 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:42</itunes:duration>
+      <itunes:duration>00:24:37</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150180/29c5f75729232c80619d09a54b1eda96e4bfc558a160f8e09895ed1995ed489a.mp3" type="audio/mpeg" length="35577837" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150180/4568af66f21b5edc006c9c2a40814b118281ed7a0d55ab6f55ecced9cef02560.mp3" type="audio/mpeg" length="35469384" />
     </item>
     <item>
       <guid isPermaLink="false">11802150179</guid>
@@ -8596,9 +8610,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 08 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:04</itunes:duration>
+      <itunes:duration>00:22:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150179/0846000a3b41c1ff66a8a23d7c6eecf69da8fb8b253b07d39918cbda2722666d.mp3" type="audio/mpeg" length="33222573" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150179/ff1b4143b6c434c72079dab3bb7b262d4aa600aaaae595bdf9dedb48fffb4a8a.mp3" type="audio/mpeg" length="33114109" />
     </item>
     <item>
       <guid isPermaLink="false">11802150178</guid>
@@ -8610,9 +8624,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 07 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:13</itunes:duration>
+      <itunes:duration>00:26:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150178/5b3f996346474b0102ea546a0a158b6735e2e092aebe17d10401b49fab084fe3.mp3" type="audio/mpeg" length="37753965" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150178/7685e4e8794223a35abf095da292d733aaac529da2a3c4296991386c8ec68364.mp3" type="audio/mpeg" length="37645513" />
     </item>
     <item>
       <guid isPermaLink="false">11802150177</guid>
@@ -8623,9 +8637,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 06 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:30</itunes:duration>
+      <itunes:duration>00:23:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150177/747b5f97903ab02ba4443279b80366585724e964596b21a0d5ca65ddfc59f839.mp3" type="audio/mpeg" length="33840621" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150177/429b97fd4bd2e8e1b59a86c4eef10ace95a57d1fa13f02836e1a627956cabc2a.mp3" type="audio/mpeg" length="33732173" />
     </item>
     <item>
       <guid isPermaLink="false">11802150176</guid>
@@ -8636,9 +8650,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 03 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:04</itunes:duration>
+      <itunes:duration>00:26:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150176/87789c5d40ee2a17bc34656e1635b9af4bb2b589c2b50922a0923685b2b85092.mp3" type="audio/mpeg" length="38986605" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150176/a70dbe5776954fda9789958ce0858dc2e348487f0c2f2d6955f595e4843deeaf.mp3" type="audio/mpeg" length="38878156" />
     </item>
     <item>
       <guid isPermaLink="false">11802150175</guid>
@@ -8649,9 +8663,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 02 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:35</itunes:duration>
+      <itunes:duration>00:24:31</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150175/c48737fe8c9f98625a5eedf8eab55e3b69a4905b092315579afa0276736c8d0e.mp3" type="audio/mpeg" length="35418285" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150175/cafe9deb905f5640c0b7666675ad5f33d490c4e9a05a359e3e31c44493bf4d6f.mp3" type="audio/mpeg" length="35310409" />
     </item>
     <item>
       <guid isPermaLink="false">11802150174</guid>
@@ -8662,9 +8676,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 01 Sep 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:14</itunes:duration>
+      <itunes:duration>00:26:09</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150174/2124d26c0ff06c311b7f1ea579cca8941866235baa57e23d9361d7757186ca11.mp3" type="audio/mpeg" length="37785645" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150174/af7a6ad30b23545ecb98052df192fa0b7630ec77c0c8604cf1bbd504c432c69b.mp3" type="audio/mpeg" length="37677195" />
     </item>
     <item>
       <guid isPermaLink="false">11802150173</guid>
@@ -8675,9 +8689,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 31 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:duration>00:22:04</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150173/bb9ecdc67c4b7f0433fc3cb6d7a95995809b6597026bdf8fe951a2fd4596c2d2.mp3" type="audio/mpeg" length="31898349" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150173/0423ebfb667075c4400e32b26a68e0e53f87142871d41eddbc8d2ede527b0e79.mp3" type="audio/mpeg" length="31789901" />
     </item>
     <item>
       <guid isPermaLink="false">11802150172</guid>
@@ -8688,9 +8702,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 30 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:43</itunes:duration>
+      <itunes:duration>00:22:39</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150172/80e2d6f0c94a8a35b919f92adf549fb1c8c7b6a4451a30b8689e81d2419bc9a7.mp3" type="audio/mpeg" length="32731245" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150172/c3642cf4bc2de5b227321845233392efa0b4df0d46a2f653e20f4fa7b92781ec.mp3" type="audio/mpeg" length="32622799" />
     </item>
     <item>
       <guid isPermaLink="false">11802150171</guid>
@@ -8701,9 +8715,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 27 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:duration>00:24:29</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150171/8931cda7329c60b79739f8eab13fa809dbbc75c5ab3031170e865d20ea4aabe5.mp3" type="audio/mpeg" length="35378541" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150171/e55fc47a6827108c4d2ddb041e36562b9bbbe45a8227c6af03a7f6fdf2017430.mp3" type="audio/mpeg" length="35270095" />
     </item>
     <item>
       <guid isPermaLink="false">11802150170</guid>
@@ -8715,9 +8729,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 26 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:41</itunes:duration>
+      <itunes:duration>00:26:36</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150170/e33eae010a01bea6f97afdb28139d0d710f980d900acc53792c4ff0353ac29fe.mp3" type="audio/mpeg" length="38437677" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150170/ec3560038fbf4d7f2a80b9f922a684be133533cca9a39dc694ea050466574347.mp3" type="audio/mpeg" length="38329220" />
     </item>
     <item>
       <guid isPermaLink="false">11802150169</guid>
@@ -8729,9 +8743,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 25 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:32</itunes:duration>
+      <itunes:duration>00:24:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150169/dedeeee191fa6d6118590d85b954789bfa752487f1cbe1671116f4b94537553b.mp3" type="audio/mpeg" length="35338221" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150169/2e324c3f21b897d43df9dd87032c3cd1a961f26a3dfd8a072777a53455456c2f.mp3" type="audio/mpeg" length="35229766" />
     </item>
     <item>
       <guid isPermaLink="false">11802150168</guid>
@@ -8742,9 +8756,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 24 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:duration>00:23:35</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150168/33f94b6041255f871f424e656937555d2812d431afa9561e52cb242ac5915ad5.mp3" type="audio/mpeg" length="34074477" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150168/25161e8544227bb0c72ab2a86616a23fd9fa54dfa096d8b29aa6ad586626d105.mp3" type="audio/mpeg" length="33966024" />
     </item>
     <item>
       <guid isPermaLink="false">11802150167</guid>
@@ -8755,9 +8769,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 23 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:02</itunes:duration>
+      <itunes:duration>00:22:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150167/f98de7189292ec34d9dc02352a0d447506cbec75e2b76ca18a325c57f7dbc52f.mp3" type="audio/mpeg" length="33178221" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150167/fedafc8051f5f8b8ce79476532a39a186ef6a3460ef9fefae422cde009649bf8.mp3" type="audio/mpeg" length="33070344" />
     </item>
     <item>
       <guid isPermaLink="false">11802150166</guid>
@@ -8768,9 +8782,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 20 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:37</itunes:duration>
+      <itunes:duration>00:23:32</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150166/2869b6b9c832058e9393160d7e29b9db98e40eee573d55a737e4695d267ad894.mp3" type="audio/mpeg" length="34017453" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150166/375bd4d83a1a9d9aeec19ba83f541d9c48147b189ff8d91a0fcb75db42b18c1f.mp3" type="audio/mpeg" length="33908995" />
     </item>
     <item>
       <guid isPermaLink="false">11802150165</guid>
@@ -8781,9 +8795,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 19 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:13</itunes:duration>
+      <itunes:duration>00:25:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150165/1cd5d06efb45f1e6f627c412f61abe69390c648404b7b37e9348c33bc53fd602.mp3" type="audio/mpeg" length="36323181" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150165/8db2b375997737f7b0ee331c6bcc8e811ac90fcea8bc7f8c76d7b77949e7a24e.mp3" type="audio/mpeg" length="36214719" />
     </item>
     <item>
       <guid isPermaLink="false">11802150164</guid>
@@ -8795,9 +8809,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 18 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:51</itunes:duration>
+      <itunes:duration>00:23:46</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150164/d3fdea22905e3f302d531fa792270ee771ae4a46e74dc04cf9f8753c3bc26fe1.mp3" type="audio/mpeg" length="34351533" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150164/537eb73c607f9f736f567e6143f8215a4da17b42447b07e7d4901c09caf19a1d.mp3" type="audio/mpeg" length="34243657" />
     </item>
     <item>
       <guid isPermaLink="false">11802150163</guid>
@@ -8809,9 +8823,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 17 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:41</itunes:duration>
+      <itunes:duration>00:23:36</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150163/f8264c36148cb6732653a4b4e39092533b8dcc1862c9617e55de2e776776bfbe.mp3" type="audio/mpeg" length="34111917" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150163/e0c87b2c144fc97a169c468a2bdf46667e12e64798e51da81c08650ccb695889.mp3" type="audio/mpeg" length="34003459" />
     </item>
     <item>
       <guid isPermaLink="false">11802150162</guid>
@@ -8824,9 +8838,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 16 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:11</itunes:duration>
+      <itunes:duration>00:25:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150162/9910e712af8f56d398a7b3853904546aeff08e3e21cde62efacd5b283aaf0f6b.mp3" type="audio/mpeg" length="36281709" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150162/dc62a6a33eb48c84d9bf9a252fb4f5e7e635364aabcfda4b7223c6293f9e9e22.mp3" type="audio/mpeg" length="36173260" />
     </item>
     <item>
       <guid isPermaLink="false">11802150161</guid>
@@ -8837,9 +8851,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 13 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:duration>00:23:36</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150161/fc3557d14771243d7d8dd2a222a09788ff4c14f4e4f5bf514140ce97a99a8388.mp3" type="audio/mpeg" length="34094061" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150161/0ac7c762f14f26da864ed8ad658528cc8501b38c0ded9d5166a466d127eae8cd.mp3" type="audio/mpeg" length="33986184" />
     </item>
     <item>
       <guid isPermaLink="false">11802150160</guid>
@@ -8851,9 +8865,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 12 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:57</itunes:duration>
+      <itunes:duration>00:23:52</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150160/de0a9121479fcaa42700ea5c5ac02ed8914fb7c27cb64f819fa684d70d203298.mp3" type="audio/mpeg" length="34495533" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150160/38a5fa87c6a131b4a22616da21038d0df5258f9769c5932080d29c4cedfe6fa7.mp3" type="audio/mpeg" length="34387080" />
     </item>
     <item>
       <guid isPermaLink="false">11802150159</guid>
@@ -8865,9 +8879,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 11 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:02</itunes:duration>
+      <itunes:duration>00:22:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150159/25ba7a6cbcac9e5f84fbfc2da4f2017f5c54cc869c85ef22fd0ee48a76959103.mp3" type="audio/mpeg" length="33169005" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150159/585b74a6695acb0f56f46a349f17caddaadb305623cf1e151848bd4c5e72fd99.mp3" type="audio/mpeg" length="33060542" />
     </item>
     <item>
       <guid isPermaLink="false">11802150158</guid>
@@ -8878,9 +8892,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Tue, 10 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:23</itunes:duration>
+      <itunes:duration>00:25:18</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150158/51b13b24a9ae67a869c4b540f59cab480006db0332a350ede4c25f485c08f1e5.mp3" type="audio/mpeg" length="36561069" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150158/68c378d629d93c4908ce5811c4b3b7721274e2430203105adccdc003a03b035b.mp3" type="audio/mpeg" length="36452614" />
     </item>
     <item>
       <guid isPermaLink="false">11802150157</guid>
@@ -8893,9 +8907,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 09 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:21:57</itunes:duration>
+      <itunes:duration>00:21:52</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150157/d3e32b53a64976a275577cdbb1e450dee2645f11bde3feae155844164a81ff1e.mp3" type="audio/mpeg" length="31613229" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150157/c096224b71cb48883dccdb049eda642ed72884bd7229523d16736b19dc66bc21.mp3" type="audio/mpeg" length="31505354" />
     </item>
     <item>
       <guid isPermaLink="false">11802150152</guid>
@@ -8908,9 +8922,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 02 Aug 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:40</itunes:duration>
+      <itunes:duration>00:25:36</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150152/5ab52d5d2d99e98c80bcda96d60d6ca4581b81d293f886a0717a2dd20c926775.mp3" type="audio/mpeg" length="36979245" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150152/2617a24db487b02a960ebbedcdcfb715ef639d9ac9628113faf01a26d5654998.mp3" type="audio/mpeg" length="36870800" />
     </item>
     <item>
       <guid isPermaLink="false">11802150147</guid>
@@ -8922,9 +8936,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 26 Jul 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:47</itunes:duration>
+      <itunes:duration>00:22:42</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150147/aa52b017b18b2b65433a1fb21cd13c7314b63761403bc4d63fa4b50748797960.mp3" type="audio/mpeg" length="32814765" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150147/212c5b8dfe22379c6fbf65fc3aad92dcb51107fae8a7f2cbd894e7e52f8af544.mp3" type="audio/mpeg" length="32706884" />
     </item>
     <item>
       <guid isPermaLink="false">11802150142</guid>
@@ -8936,9 +8950,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 19 Jul 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:duration>00:25:48</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150142/800bad1cd411d2db7821b7fd7fa15a89a2a97978bd58ce6d910606d3217b790d.mp3" type="audio/mpeg" length="37272429" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150142/ca017e58654411c64194b3449bb4686a474eacc70ffd5f930434c2d1a50cc270.mp3" type="audio/mpeg" length="37163981" />
     </item>
     <item>
       <guid isPermaLink="false">11802150137</guid>
@@ -8951,9 +8965,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 12 Jul 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:21</itunes:duration>
+      <itunes:duration>00:25:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150137/4c684498f4ba89e572e427f9aef03c13b5aba669959fec54b3009cb509046a05.mp3" type="audio/mpeg" length="36526509" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150137/5c111bc354c3189a368aee6901995916e6dfbc2e3042f0089c451696423bde1b.mp3" type="audio/mpeg" length="36418631" />
     </item>
     <item>
       <guid isPermaLink="false">11802150132</guid>
@@ -8966,9 +8980,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Mon, 05 Jul 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:duration>00:24:55</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150132/213cf8f9d4f464471a7cbd50f2bd5db132459812f484f383767641589c866d3f.mp3" type="audio/mpeg" length="36000621" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150132/e8c747b663ebfa5c7af389c406bd0474e17d818da3662f38e980c386f483a674.mp3" type="audio/mpeg" length="35892743" />
     </item>
     <item>
       <guid isPermaLink="false">11802150131</guid>
@@ -8979,9 +8993,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 02 Jul 2021 06:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:29:02</itunes:duration>
+      <itunes:duration>00:28:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150131/afe9b3d4bb4d1dc910f35c71160bdacc5fe9d70d370ea7d11420a10d9e97cf39.mp3" type="audio/mpeg" length="41810733" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150131/ae3c71d4e9e51ef9541aa9bbcc8140719a0271c58a568f11936893acdbb7fa33.mp3" type="audio/mpeg" length="41702283" />
     </item>
     <item>
       <guid isPermaLink="false">11802150130</guid>
@@ -8992,9 +9006,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Thu, 01 Jul 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:29</itunes:duration>
+      <itunes:duration>00:22:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150130/004a298e29b072c22331538dad430952ba89790e8f9c678d3fedada7d1fd0684.mp3" type="audio/mpeg" length="32382189" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150130/4bf3de582292338bf0d982e6688c24571c57725eb1ef9ca8ad16e1647dfc38f8.mp3" type="audio/mpeg" length="32273736" />
     </item>
     <item>
       <guid isPermaLink="false">11802150129</guid>
@@ -9006,9 +9020,9 @@ Vært: Simon Stefanski.</description>
       <pubDate>Wed, 30 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:47</itunes:duration>
+      <itunes:duration>00:25:43</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150129/f90c6313544f67e9c1d5fbed5c6b7ca7bd1e946b56273859832dff5b0e364242.mp3" type="audio/mpeg" length="37142253" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150129/3a93ffcd9fdb89687a2e4c22f65104965dece81e6f29ffa31f842e5f0f35593d.mp3" type="audio/mpeg" length="37033798" />
     </item>
     <item>
       <guid isPermaLink="false">11802150128</guid>
@@ -9020,9 +9034,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 29 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:25</itunes:duration>
+      <itunes:duration>00:26:20</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150128/d60d5c34706b48024ef9b93b1b43c2c31df3448a7db425c53a559374fac7fbb8.mp3" type="audio/mpeg" length="38047725" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150128/9004afed01bdec5663f29bbb4bd46e430adfbb45a2dc55ab9c85659bd9dedf0e.mp3" type="audio/mpeg" length="37939273" />
     </item>
     <item>
       <guid isPermaLink="false">11802150127</guid>
@@ -9033,9 +9047,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 28 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:42</itunes:duration>
+      <itunes:duration>00:24:38</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150127/d24db063669d84df2fe2a2f7824cf6d5791f4df3602444ecf83c053746c95794.mp3" type="audio/mpeg" length="35589933" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150127/d28985a4c79066d0c6d9515413d6c5e726f6707b6c29124750b61d61d5b95ae2.mp3" type="audio/mpeg" length="35482046" />
     </item>
     <item>
       <guid isPermaLink="false">11802150126</guid>
@@ -9046,9 +9060,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 25 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:51</itunes:duration>
+      <itunes:duration>00:26:47</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150126/7697f13456d6a6d43ebd1cb711499098b10c1e7943f57a9fa3b9f06ed7432c1a.mp3" type="audio/mpeg" length="38682477" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150126/f2c6941aedebfd3a1779801dec921da31f3b419ac7b6a735fc1cd1d56ae57959.mp3" type="audio/mpeg" length="38574021" />
     </item>
     <item>
       <guid isPermaLink="false">11802150125</guid>
@@ -9060,9 +9074,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 24 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:30</itunes:duration>
+      <itunes:duration>00:23:26</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150125/5b4d45580eca088c333c75b1b72e0038ed319cee0be080a2d885446e5eebcbb0.mp3" type="audio/mpeg" length="33857325" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150125/f45d050f6ad105898907dc22334816eba8365d7fe86c874f03cd504be1b45abc.mp3" type="audio/mpeg" length="33748875" />
     </item>
     <item>
       <guid isPermaLink="false">11802150124</guid>
@@ -9073,9 +9087,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 23 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:33</itunes:duration>
+      <itunes:duration>00:26:29</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150124/737cee7e70860bb7d24f5548a4c947715a6eba1d0d0d65aea40a92273cac712d.mp3" type="audio/mpeg" length="38254509" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150124/88661c3ea368ccb8a71bf30f98dc9798d98321bbfbcc5c0c5e542050a1c30a29.mp3" type="audio/mpeg" length="38146059" />
     </item>
     <item>
       <guid isPermaLink="false">11802150123</guid>
@@ -9086,9 +9100,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 22 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:duration>00:25:21</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150123/6b18f4cc6fa9bc0175d1cc6c034168fde1a0901ec9cfb11b1f55e5227188378c.mp3" type="audio/mpeg" length="36633069" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150123/7abd322a000649effd2e69c67fda491bce56cb0b0655ab2f7258817021dea198.mp3" type="audio/mpeg" length="36525196" />
     </item>
     <item>
       <guid isPermaLink="false">11802150122</guid>
@@ -9100,9 +9114,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 21 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:09</itunes:duration>
+      <itunes:duration>00:23:04</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150122/f3e509271a1b0073c3a75ae7ea6df2f0ed54a98314e9dd6685b064273635a854.mp3" type="audio/mpeg" length="33347565" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150122/397d8c66f138ec85bfc1b23828892c9cfa38122f9c9cd348608a837bbdf42f5c.mp3" type="audio/mpeg" length="33239113" />
     </item>
     <item>
       <guid isPermaLink="false">11802150121</guid>
@@ -9113,9 +9127,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 18 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:41</itunes:duration>
+      <itunes:duration>00:23:37</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150121/e1e88330d84d338ae7c2172139631c4fc5ea1d3be14894fd3dd0fb60c256c1fa.mp3" type="audio/mpeg" length="34122861" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150121/ea256f41982b6aaadd8d84c62b8f90374e995ca06860489d159bb4f46d09684a.mp3" type="audio/mpeg" length="34014415" />
     </item>
     <item>
       <guid isPermaLink="false">11802150120</guid>
@@ -9126,9 +9140,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 17 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:05</itunes:duration>
+      <itunes:duration>00:27:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150120/df0bf215b38fd0d9d8b70f3118035fdfb2885af25bda5799916cdf7aba69bffe.mp3" type="audio/mpeg" length="39012525" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150120/934ed81c98bf1fcfb81c474f4a211f83d87b76addbe4c35595cbdf1d30d6575c.mp3" type="audio/mpeg" length="38904077" />
     </item>
     <item>
       <guid isPermaLink="false">11802150119</guid>
@@ -9143,9 +9157,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 16 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:10</itunes:duration>
+      <itunes:duration>00:22:06</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150119/a33871e5c7f77f008e11fc96662f8486c99734f89fb02406761bc8ee56fd5076.mp3" type="audio/mpeg" length="31936365" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150119/bd59218aa4e63fc0e3fcfe3aa578e79e50908e291aa58dcc4d535cca51406c18.mp3" type="audio/mpeg" length="31827910" />
     </item>
     <item>
       <guid isPermaLink="false">11802150118</guid>
@@ -9156,9 +9170,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 15 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:32</itunes:duration>
+      <itunes:duration>00:24:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150118/d026311e33a36263fdabe5da106238e6f42935a2a7924a060564ceb1729936fb.mp3" type="audio/mpeg" length="35335917" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150118/47441a48810ded60fa594f386281036f48b5e05ea5b3424c257853a989f5c95d.mp3" type="audio/mpeg" length="35227466" />
     </item>
     <item>
       <guid isPermaLink="false">11802150117</guid>
@@ -9169,9 +9183,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 14 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:50</itunes:duration>
+      <itunes:duration>00:24:45</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150117/025d7dedfc4a2452977e87bbe0f91e2220530a51a28eb5ba04ec4e6b21b8aa25.mp3" type="audio/mpeg" length="35768493" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150117/dccd73a962fc59518b4f582c3affe6206c3050d4a615ac88570f033bcf797cbd.mp3" type="audio/mpeg" length="35660036" />
     </item>
     <item>
       <guid isPermaLink="false">11802150116</guid>
@@ -9182,9 +9196,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 11 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:51</itunes:duration>
+      <itunes:duration>00:24:47</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150116/b4a968d725e940126e214f3fe59f3e3499d5e34f9e7af70128e02afd30c45612.mp3" type="audio/mpeg" length="35803053" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150116/7ee882258466e7b6927288e2b61a49f856d8490f3587faad8634bd9e3318d208.mp3" type="audio/mpeg" length="35694600" />
     </item>
     <item>
       <guid isPermaLink="false">11802150115</guid>
@@ -9195,9 +9209,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 10 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:38</itunes:duration>
+      <itunes:duration>00:23:34</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150115/829737338e7995c1bacbc4b81b7dd3de3ca87d4a56d4ca34266d440b9d1925fc.mp3" type="audio/mpeg" length="34050285" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150115/b4d5cd60e9c3ac4749b3bff2e39ec87f41d9c4fbf0f7e27c3afa077469b596ac.mp3" type="audio/mpeg" length="33941834" />
     </item>
     <item>
       <guid isPermaLink="false">11802150114</guid>
@@ -9208,9 +9222,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 09 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:13</itunes:duration>
+      <itunes:duration>00:24:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150114/9963573d73ce56a32c7f382c78039c68bf9359d62febb72df34fde848ad975e9.mp3" type="audio/mpeg" length="34872813" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150114/ffbb6e2a86f2bf78e0983050ee497c697968238916ab242d3879bb43d1f95269.mp3" type="audio/mpeg" length="34764937" />
     </item>
     <item>
       <guid isPermaLink="false">11802150113</guid>
@@ -9223,9 +9237,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 08 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:07</itunes:duration>
+      <itunes:duration>00:23:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150113/ae92652095c76f0cce6f28e6700790e1f8c99c3d47297ab0ad453104d574c256.mp3" type="audio/mpeg" length="33295725" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150113/5254fa6fbe18a699077626a50df51ead25ee32bba93519e2dc6a94b41e9c5e2c.mp3" type="audio/mpeg" length="33187848" />
     </item>
     <item>
       <guid isPermaLink="false">11802150112</guid>
@@ -9236,9 +9250,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 07 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:22</itunes:duration>
+      <itunes:duration>00:25:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150112/018dcf33770f976d82ab7fc13e28121d30e059ebb8aeb226769c97a08d7771d7.mp3" type="audio/mpeg" length="36529389" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150112/9a4dd6f0c8088906d4f3380cd4287f539c7185c4f57a8c05405669b07b66499a.mp3" type="audio/mpeg" length="36420941" />
     </item>
     <item>
       <guid isPermaLink="false">11802150111</guid>
@@ -9249,9 +9263,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 04 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:29</itunes:duration>
+      <itunes:duration>00:22:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150111/f08c519fc9b72a6221ecfdbcc12bbc81a8deaf60b147a493d16ee029151d6057.mp3" type="audio/mpeg" length="32395437" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150111/5d0d8804d0d9f9d09ac63fb537c430a1f736e8b5ab898984848baa2861c83fb5.mp3" type="audio/mpeg" length="32286983" />
     </item>
     <item>
       <guid isPermaLink="false">11802150110</guid>
@@ -9262,9 +9276,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 03 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:29</itunes:duration>
+      <itunes:duration>00:24:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150110/7a163b90b2a8858d39d545fe5a4dbb5227b6bbcb783d6c0089cb77f26feead04.mp3" type="audio/mpeg" length="35260461" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150110/8d6d6c6183f2cf930b75e33a7512e5a45c6523763201b99378a58cf491212dbc.mp3" type="audio/mpeg" length="35152009" />
     </item>
     <item>
       <guid isPermaLink="false">11802150109</guid>
@@ -9276,9 +9290,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 02 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:08</itunes:duration>
+      <itunes:duration>00:26:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150109/561bd29d80815abbdd0dc5f43bebf7a6185fadca59d40077d1c2080a17e304a8.mp3" type="audio/mpeg" length="37635885" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150109/e55e5743ee0ed3dae1119a02d55088c44922fc232c36a58be2f31d3981fa27b3.mp3" type="audio/mpeg" length="37527433" />
     </item>
     <item>
       <guid isPermaLink="false">11802150108</guid>
@@ -9290,9 +9304,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 01 Jun 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:35</itunes:duration>
+      <itunes:duration>00:23:31</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150108/f91e01ba28e68943f3f7dee4a6d3931531425ee10c34431680310a6bbb5ecbb6.mp3" type="audio/mpeg" length="33980589" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150108/3329f3d652856e83a660efa829df14e1761091cdf8c4ca63fe8f407aa8e5b80d.mp3" type="audio/mpeg" length="33872706" />
     </item>
     <item>
       <guid isPermaLink="false">11802150107</guid>
@@ -9303,9 +9317,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 31 May 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:duration>00:22:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150107/202e2020187f6834b6252ef492a5fb901f920db7b16f05608feb0073f2c09758.mp3" type="audio/mpeg" length="32459949" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150107/07b9d1cdef37f22e4aeace4c03c404990509b229cff18334165814406d79848f.mp3" type="audio/mpeg" length="32351489" />
     </item>
     <item>
       <guid isPermaLink="false">11802150106</guid>
@@ -9316,9 +9330,9 @@ Roman Protasevitj. Han spiller en central rolle i sidste års demonstrationer mo
       <pubDate>Fri, 28 May 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:duration>00:21:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150106/e891573849c0bf9c565a50d5f0937ba8d0cf2f083b93bf78c5478129039694d6.mp3" type="audio/mpeg" length="31006701" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150106/5a5bd7dcdc46555786739dde0275ecfb7a5c96f3e21c480f39a3bb53082c73cd.mp3" type="audio/mpeg" length="30898251" />
     </item>
     <item>
       <guid isPermaLink="false">11802150105</guid>
@@ -9329,9 +9343,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 27 May 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:01</itunes:duration>
+      <itunes:duration>00:22:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150105/fcbbc9835d0f1ac5c008c47eab074b6ef949dff72d3e60a2c6dcf9ff693c7cf1.mp3" type="audio/mpeg" length="33167277" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150105/3a291ea0b2a6b63e198ab631c87e6068ba6cd38f8d49fa964065ec3e119c2202.mp3" type="audio/mpeg" length="33058824" />
     </item>
     <item>
       <guid isPermaLink="false">11802150104</guid>
@@ -9342,9 +9356,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 26 May 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:26</itunes:duration>
+      <itunes:duration>00:23:22</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150104/1011c0892883dc66f83eb713a3b299709da0400e707084d68a578115e40ad78e.mp3" type="audio/mpeg" length="33759981" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150104/bfe413481248761625bc5c90615e36ae03c063f2797a73e6abfdb255b55ac891.mp3" type="audio/mpeg" length="33651533" />
     </item>
     <item>
       <guid isPermaLink="false">11802150103</guid>
@@ -9355,9 +9369,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 25 May 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:21</itunes:duration>
+      <itunes:duration>00:23:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150103/99be8f959b8446e97f513f7e0cc5ee85c7b96544e350efeda3869daa701bf54a.mp3" type="audio/mpeg" length="33634413" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150103/d540bd60095ea3483e9111b665cfc2c4b955de4e461268d267137187b088e1e0.mp3" type="audio/mpeg" length="33526533" />
     </item>
     <item>
       <guid isPermaLink="false">11802150101</guid>
@@ -9368,9 +9382,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 21 May 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:09</itunes:duration>
+      <itunes:duration>00:24:12</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150101/225f8c820bd6526dad97bb0b4e4c44031089a3d98dee3e505f1d2c9447fc8360.mp3" type="audio/mpeg" length="34785261" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150101/302e13723c493933c9b8da5042e08a3ac487d7c74f27bd235745cd1d23296a12.mp3" type="audio/mpeg" length="34869773" />
     </item>
     <item>
       <guid isPermaLink="false">11802150100</guid>
@@ -9381,9 +9395,9 @@ Vært: Knud Brix.</description>
       <pubDate>Thu, 20 May 2021 04:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:13</itunes:duration>
+      <itunes:duration>00:22:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150100/466a0dcb3a2554d2eef6a45cf7a4dc825dab0ece2b19ad09a57b4f13af352c1e.mp3" type="audio/mpeg" length="31997421" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150100/5a19fe00fa6c24195d4f144873d5d5c449cef59a1a592525584056bb4301ecf0.mp3" type="audio/mpeg" length="32081934" />
     </item>
     <item>
       <guid isPermaLink="false">11802150098</guid>
@@ -9394,9 +9408,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 19 May 2021 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:15</itunes:duration>
+      <itunes:duration>00:23:18</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150098/d61bf2777d9cb918eae0c75bf70bf8c9680e1c2ec315e84541d1e25678d6e61d.mp3" type="audio/mpeg" length="33488685" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150098/b90fe7e6190933e4d686b005a802e5c0e307c30272d6b13f90e8ee95353e448a.mp3" type="audio/mpeg" length="33572613" />
     </item>
     <item>
       <guid isPermaLink="false">11802150097</guid>
@@ -9407,9 +9421,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 18 May 2021 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:08</itunes:duration>
+      <itunes:duration>00:24:11</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150097/bd98345feb0a5de0c144891ffcc5ca1d62f140af3cc7d4bb887b093b8aca9a9e.mp3" type="audio/mpeg" length="34755885" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150097/5b723e50203ebb03bb80d763817003b77b404949a3991cdd5c84e0367c7f6801.mp3" type="audio/mpeg" length="34840396" />
     </item>
     <item>
       <guid isPermaLink="false">11802150096</guid>
@@ -9421,9 +9435,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 17 May 2021 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:38</itunes:duration>
+      <itunes:duration>00:23:41</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150096/6dd2d774142fc48f402aeb03a53f82d79b2afe13095cdec6c9b0461c63495645.mp3" type="audio/mpeg" length="34038189" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150096/16d5ed1d7afdb4a9cbae778d7c4300248aac73729a5197ed7a4bc0dfe7f7a86f.mp3" type="audio/mpeg" length="34122697" />
     </item>
     <item>
       <guid isPermaLink="false">11802150095</guid>
@@ -9434,9 +9448,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 14 May 2021 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:10</itunes:duration>
+      <itunes:duration>00:24:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150095/3ac151b315cebddcade618e6d0f45f97fcc12c33987a14a499b96216f77ee601.mp3" type="audio/mpeg" length="34818093" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150095/a8703438478eb48229319eaf8d9c4881d37315d5e5a791d549c8bf657fe54bc8.mp3" type="audio/mpeg" length="34902596" />
     </item>
     <item>
       <guid isPermaLink="false">11802150093</guid>
@@ -9447,9 +9461,9 @@ Vært: Knud Brix.</description>
       <pubDate>Wed, 12 May 2021 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:22</itunes:duration>
+      <itunes:duration>00:23:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150093/f37715931c2ceb7e77f710d9c72127d963361a1efb4b02177016c6ebfc416292.mp3" type="audio/mpeg" length="33654573" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150093/780a54bb560bd3f170f3ceafa9b103462230d48872b10df8563b374a20571420.mp3" type="audio/mpeg" length="33739082" />
     </item>
     <item>
       <guid isPermaLink="false">11802150092</guid>
@@ -9460,9 +9474,9 @@ Vært: Knud Brix.</description>
       <pubDate>Tue, 11 May 2021 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:05</itunes:duration>
+      <itunes:duration>00:22:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150092/22a35053ff5e49d2367c160d2246f0eda527a9227112b10e2883e450b3215fbe.mp3" type="audio/mpeg" length="31805613" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150092/3d5576e30f7857b9720232799effaa21f57a5371ce0a37f6a9ef476a5d772b43.mp3" type="audio/mpeg" length="31889539" />
     </item>
     <item>
       <guid isPermaLink="false">11802150091</guid>
@@ -9473,9 +9487,9 @@ Vært: Knud Brix.</description>
       <pubDate>Mon, 10 May 2021 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:duration>00:22:49</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150091/142dda553ff4d0d05d63abd0cb818515d449d7d2c48ed6c0909fa0376c12d459.mp3" type="audio/mpeg" length="32787693" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150091/c7bda198e4bf093b786b55b04241528f6b98bddab3a9252b8423a5dcb0f6ba08.mp3" type="audio/mpeg" length="32872205" />
     </item>
     <item>
       <guid isPermaLink="false">11802150090</guid>
@@ -9487,22 +9501,9 @@ Vært: Knud Brix.</description>
       <pubDate>Fri, 07 May 2021 03:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:43</itunes:duration>
+      <itunes:duration>00:23:47</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150090/dd6737318fe6229f31047e0d8fec278b37095f54790836539fd8ec0614155b36.mp3" type="audio/mpeg" length="34171245" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150089</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-koeb-et-moede-med-mette-11802150089</link>
-      <title>Køb et møde med Mette</title>
-      <description>For 20.000 kroner om året kan du få fire møder med Mette Frederiksen gennem Socialdemokratiets erhvervsklub. Det er ikke landets statsminister, der dukker op til mødet, men Socialdemokratiets formand. For ellers kan det stemples som korruption. Nu er Socialdemokratiets klub igen i søgelyset, og det rejser endnu engang det ubekvemme spørgsmål: Kan man anonymt købe sig til politisk indflydelse i Danmark? Altingets erhvervsredaktør Christoffer Lund-Hansen har undersøgt "Erhvervsforum Vækst DK".
-Vært: Knud Brix.</description>
-      <pubDate>Thu, 06 May 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:29</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150089/9d4e72164aae0d89f107e9cc24c27feb9e73aab659496d867dbf0860f311f478.mp3" type="audio/mpeg" length="32391405" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150090/d75da2b13e6d8d0c44f14f032fc0d1789b0ce3a905094ec533b84c01d757c4eb.mp3" type="audio/mpeg" length="34255749" />
     </item>
   </channel>
 </rss>

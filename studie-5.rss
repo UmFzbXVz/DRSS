@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:14:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452429191</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-nyt-ugens-album-med-mathilde-falch-15452429191</link>
+      <title>Nyt, Ugens Album med Mathilde Falch</title>
+      <description>"Hvert sekund" hedder Ugens album med Mathilde Falch. Hør eksempler fra albummet og andre nyheder fra bla  Rasmus Walter, Alaysia og Albin Lee Meldau.
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Mon, 06 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429191/c32e7909d57227b19c348fa2573ef2270a11565734343481a3f74c99c8017f81.mp3" type="audio/mpeg" length="168481529" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452429185</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-can-t-take-my-eyes-off-you-frankie-valli-15452429185</link>
       <title>'Can't Take my Eyes off You' Frankie Valli</title>
@@ -38,20 +51,6 @@ Vært: Rasmus Scharling Toft.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429185/34b3679ae62d267468432c5cfb028d8f9e64972a21028887a0e1c86c0243b9b6.mp3" type="audio/mpeg" length="168481608" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429184</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/bryan-adams-live-i-danmark-15452429184</link>
-      <title>Bryan Adams live I Danmark</title>
-      <description>Bryan Adams giver 4 koncerter i Odense, Herning og København. Han har aldrig før solgt så mange billetter i Danmark.
-I studie fem finder vi de 5 største hits fra den feststærke canadier der insisterer på at være "18 til i die".
-Vært: Rasmus Scharling Toft.</description>
-      <pubDate>Thu, 02 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429184/6d8d273aed15d142de3446b73c2cca14795e1d1812a9928d7f74431982991987.mp3" type="audio/mpeg" length="168481525" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:03:36 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -29,6 +29,28 @@
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494205</guid>
+      <link>https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-5-5-hvad-er-en-far-16122494205</link>
+      <title>5:5 - Hvad er en far?</title>
+      <description>Arnes jagt på sin far og hjælpen til de andre krigsbørn fylder mere og mere, og ironisk nok ender det med at slide på forholdet til hans egen familie. Da Arne endelig får kontakt til sin fars familie i Kroatien, rejser han afsted med sin søn Malthe. På rejsen opstår spørgsmålet for alvor: hvad er en far? 
+
+Tilrettelægger: Anne Pilegaard Petersen.
+Lyddesign: Tobias Ingemann.
+Redaktør: Rune Sparre Geertsen.
+Medvirkende: Arne Øland, Birgit Wessel, Anne-Mette Ribe, Malthe Øland Ribe.
+Indtaling af brev: Grete Tulinius.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Tue, 07 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010005</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:45:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494205/0eb9c72c610a8cbcfa4685973444e48e5d87e616bd3c054751fc2fdedfbdaf6b.mp3" type="audio/mpeg" length="64890878" />
+    </item>
     <item>
       <guid isPermaLink="false">16122494204</guid>
       <link>https://www.dr.dk/lyd/special-radio/besaettelsen/besaettelsen-1/besaettelsen-4-5-arnes-krig-16122494204</link>

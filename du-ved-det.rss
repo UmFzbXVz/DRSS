@@ -10,7 +10,7 @@ Vært: Marie Hobitz.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:14:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -86,20 +86,6 @@ Gæster: Blæst.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424157/9fb7044bfa344c1cdc0a816dfab7ce76e818eed18ecd96a4d8270518ddfff12b.mp3" type="audio/mpeg" length="172801593" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332424147</guid>
-      <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-jj-paulo-og-fire-hits-13332424147</link>
-      <title>JJ Paulo og fire hits</title>
-      <description>Vi får besøg af ingen ringere end dansk-afrikanske sanger JJ Paulo eller Baba Mufasa, som han kalder sig selv. I den anledning tester vi ham i tracks fra forskellige Disney-film.
-Fordi han skal optræde til OL i Paris til sommer, ser vi også, hvor nemt man kan gætte sange, der indeholder ild på den ene eller anden måde, i vores lålle quiz.
-Desuden loop-quiz med Shakira og den helt store baby-quiz. Ring ind og quiz med - der er præmier på højkant!</description>
-      <pubDate>Sun, 07 Apr 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424147/1f74e921b25c9488c2a5b4cb1b726e4d21d40c5009672ec60d33b4f9e66572f7.mp3" type="audio/mpeg" length="172995131" />
     </item>
   </channel>
 </rss>

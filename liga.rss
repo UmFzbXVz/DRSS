@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:14:17 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652402191</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402191</link>
+      <title>Mandag 6. maj 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Morten Hausborg og Emil Schiønning.</description>
+      <pubDate>Mon, 06 May 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402191/f746ad883348bed1be5c8522aa8e04c19951bef9884b862886709bc1d08d92be.mp3" type="audio/mpeg" length="338401445" />
+    </item>
     <item>
       <guid isPermaLink="false">13652402187</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402187</link>

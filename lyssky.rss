@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/lyssky" rel="self" type="application/rss+xml" />
+    <title>Lyssky</title>
+    <link>https://www.dr.dk/lyd/special-radio/lyssky-5515048827000</link>
+    <description>DR's podcast om aktuelle kriminalsager. 
+Vært Dan Bjerregaard kaster lys over samfundets mørke sider og giver perspektiv på politiets efterforskninger, kriminelles hemmeligheder og indsigt i vores retssystem.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Tue, 07 May 2024 09:14:24 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/lyssky.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6638d365cb5a76302284249b.jpg</url>
+      <title>Lyssky</title>
+      <link>https://www.dr.dk/lyd/special-radio/lyssky-5515048827000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6638d365cb5a76302284249b.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802465001</guid>
+      <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/trailer-lyssky-11802465001</link>
+      <title>Trailer: Lyssky</title>
+      <description>DR's podcast om aktuelle kriminalsager. 
+Vært Dan Bjerregaard kaster lys over samfundets mørke sider og giver perspektiv på politiets efterforskninger, kriminelles hemmeligheder og indsigt i vores retssystem.</description>
+      <pubDate>Tue, 07 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:40</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802465001/e923d728daf3db9a3b1ffabe92c49eac45fd226b4d55519e1236f82cf1514f69.mp3" type="audio/mpeg" length="980747" />
+    </item>
+  </channel>
+</rss>

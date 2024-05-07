@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/jagten-paa-det-evige-liv" rel="self" type="application/rss+xml" />
+    <title>Jagten på det evige liv</title>
+    <link>https://www.dr.dk/lyd/special-radio/jagten-paa-det-evige-liv-4011609285000</link>
+    <description>Hvordan kan du holde din krop ung og frisk så længe som muligt? Hvordan skal du motionere, hvad skal du spise og hvornår skal du spise? Og hvor langt er videnskaben egentlig fra at knække koden til det evige liv? Hjælper vinterbadning og kosttilskud overhovedet? Det vil Nicklas Brendborg, der er forsker og forfatter til bogen Gopler ældes baglæns og vært Frederik Dirks Gottlieb forsøge at finde svar på i Jagten på det evige liv. 
+
+Værter: Frederik Dirks Gottlieb og Nicklas Brendborg.
+Tilrettelægger og producent: Frederik Dirks Gottlieb.
+DR Redaktør: Cecilie Egholm Tonnesen.
+Klipper: Nikolaj Kirk.
+Musik: Selina Gin.
+Produceret for DR af Firkantede Øjne og Forlaget Grønningen 1.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Tue, 07 May 2024 09:14:23 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/jagten-paa-det-evige-liv.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:662f92a9f36a378bd7e6304e.jpg</url>
+      <title>Jagten på det evige liv</title>
+      <link>https://www.dr.dk/lyd/special-radio/jagten-paa-det-evige-liv-4011609285000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:662f92a9f36a378bd7e6304e.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122393021</guid>
+      <link>https://www.dr.dk/lyd/special-radio/jagten-paa-det-evige-liv/jagten-paa-det-evige-liv-2024/jagten-paa-det-evige-liv-hvorfor-aeldes-vi-16122393021</link>
+      <title>Hvorfor ældes vi?</title>
+      <description>Vi kender det alle, når vi kigger i spejlet. Tiden får vores udseende til at ændre sig. Rynkerne bliver flere, vægten går op eller ned og de grå hår pibler frem. Men hvorfor egentlig? I det her afsnit undersøger journalist Frederik Dirks Gottlieb og forsker Nicklas Brendborg, hvorfor vi overhovedet ældes. Hvilke processer er det, kroppen sætter i gang i takt med at vi bliver ældre? Og hvad kan man gøre for sløve, eller måske endda stoppe, aldringsprocessen? 
+
+Værter: Frederik Dirks Gottlieb og Nicklas Brendborg.
+Tilrettelægger og producent: Frederik Dirks Gottlieb.
+DR Redaktør: Cecilie Egholm Tonnesen.
+Klipper: Nikolaj Kirk.
+Musik: Selina Gin.
+Produceret for DR af Firkantede Øjne og Forlaget Grønningen 1.</description>
+      <pubDate>Tue, 07 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:41:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393021/85f713209de23f70dcf923c23e468bb8e6d32310f8e4f4516ceb133eb9f6944c.mp3" type="audio/mpeg" length="59390644" />
+    </item>
+  </channel>
+</rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:14:38 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,28 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410191</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410191</link>
+      <title>Mandag 6. maj 2024</title>
+      <description>Vores lytter Signe ringede ind og fortalte, at hun samler ting op med fødderne. Det fik værterne til at efterspørge landets bedste "håndfødder".  
+Ingen vil købe Joseph Goebbels hus. Men er der nogle lytteres huse, der burde stige eller falde i værdi, hvis en kendis har boet der før? Vi spørger Christian Degn.
+Drømmeholdets vært Nicolas Kaiser gennemførte i går Copenhagen Marathon. Han er i studiet for at fortælle, hvordan benene har det.
+ Værter: Liva Manghezi og Mikkel Rosendal.  
+Medvirkende:
+Nicolas Kaiser, vært på Drømmeholdet.
+Christian Degn, tidligere vært på Hammerslag.
+Signe, lytter der samler ting op med fødderne.
+Torke, lytter der kan hænge i tæerne.
+Josef, lytter hvis kæreste kan binde snørebånd med fødderne.
+Freja, vinder af "Hit Med Vejret".</description>
+      <pubDate>Mon, 06 May 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410191/5c8c0719a3054ab85a441ce4e32009001a0939feed1d21061b1e001ed8cf7e88.mp3" type="audio/mpeg" length="254881522" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410185</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410185</link>
@@ -43,21 +65,6 @@ Sarah, medicinstuderende.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410185/e75308d02fca63779a687ec1930ff47bb2a428f0b09f79311e55442aa416b4bd.mp3" type="audio/mpeg" length="254881526" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410184</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410184</link>
-      <title>Torsdag 2. maj 2024</title>
-      <description>Det gode vejr har ramt Danmark, og det får Liva til at føle noget helt særligt. Main character energy.
-Vores lytter Alex har bemærket noget ved en tidligere P3's Uundgåelige. Det resulterer i dag i, at vi forsøger os med et remix af bil-blinklys.
-Livas telefon tror, at hun er gravid. Det er hun ikke. Men det viser sig, at algoritmen altså ikke er almægtig. Den fejler også sommetider - og i den grad også ude hos jer.
-Værter: Liva Manghezi, Mikkel Rosendal og Mikkel Klint Thorius.</description>
-      <pubDate>Thu, 02 May 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410184/087f1303016579e39528b4f2cf6c305cf5494aa2dafcad64b68135ad4544b122.mp3" type="audio/mpeg" length="254881526" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:00:40 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:14:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451086</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-heunicke-paa-dybt-vand-muskelmedicin-og-grandprix-konflikt-11802451086</link>
+      <title>Heunicke på dybt vand, muskelmedicin og Grandprix-konflikt</title>
+      <description>Presset på miljøministeren vokser, efter flere eksperter vurderer at spildevandsudledninger er på kant med loven. 
+I dag begynder Eurovision i Sverige. Men krig og konflikt overskygger endnu engang den europæiske sangkonkurrence. 
+Rekordmeget doping bliver fanget i tolden. Størstedelen vurderes til at være til privat forbrug. 
+Vært: Adrian Busk.
+Medvirkende: 
+Lars Trier Mogensen, politisk analytiker Information.
+Lisanne Wilken, Lektor ved Aarhus Universitet.</description>
+      <pubDate>Tue, 07 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451086/83f60c5a45924d2000cebbeea97a7ac8c38670fcdba047d2520995745f4db827.mp3" type="audio/mpeg" length="23302539" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451085</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-the-one-and-only-cheminova-boris-johnsons-bommert-og-senegal-under-vand-11802451085</link>
@@ -2156,25 +2174,6 @@ Nanna Muus Steffensen, DR's mellemøstkorrespondent.</description>
       <itunes:duration>00:20:20</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351203/61ba088901ef31146e18a0ad065eef82af41258c539e48bee66b4ecf285e8c81.mp3" type="audio/mpeg" length="29297179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351202</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-kokainkampen-trusselstalen-og-diabetesdilemmaet-11802351202</link>
-      <title>Kokainkampen, trusselstalen og diabetesdilemmaet</title>
-      <description>"Angreb på Israel var glorværdig"', siger Hizbollah-leder i tv-tale. Vi tager et kig på en af Mellemøstens mest magtfulde mænd. 
-Diabetesmedicinen Ozempic giver regionerne en regning på 1,4 milliarder, som betyder besparelser andre steder i sundhedsvæsenet. Men skal man droppe tilskuddet til medicin, der virker? 
-Indsmuglingen af narko i europæiske havne er eksploderet de seneste år, og nu taler myndigheder om narkoringe, der infiltrerer havnemiljøer og toldvæsen. 
-Vært: Annika Wetterling.
-Medvirkende: 
-Anne Kirstine Rønn, Postdoc London School of Economics.
-Anders Heissel, sundhedsanalytiker.
-Louise With, international korrespondent Børsen.</description>
-      <pubDate>Mon, 06 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:17</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351202/3dd65c195f01120a6c3da4e2a9d268c9eae321cf9796160e7cfbd7bbe339e33e.mp3" type="audio/mpeg" length="32111515" />
     </item>
   </channel>
 </rss>

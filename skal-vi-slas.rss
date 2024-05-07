@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:13:30 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:13:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -187,9 +187,9 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:53:10</itunes:duration>
+      <itunes:duration>00:53:05</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332196003/cce148b40623173c6b5a378a38856600644e2f77d9b4e3d2d03944bc0bb22951.mp3" type="audio/mpeg" length="76560813" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332196003/96eee021a593f214fab2a03e558e41d81538c9de8082f2ccdbad87147fccb521.mp3" type="audio/mpeg" length="76452338" />
     </item>
     <item>
       <guid isPermaLink="false">13332196002</guid>
@@ -207,9 +207,9 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:49:01</itunes:duration>
+      <itunes:duration>00:48:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332196002/29cc30fc50bb1d2928a1fe8ddea1c180628a5f5c5b633bcfad64372c0652ede2.mp3" type="audio/mpeg" length="70598637" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332196002/1832985ea9be0b7d03ed59f8a1fe32569a68a2da04267d2000b8b8c1e1d746da.mp3" type="audio/mpeg" length="70490162" />
     </item>
     <item>
       <guid isPermaLink="false">13332196001</guid>
@@ -227,9 +227,9 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:49:37</itunes:duration>
+      <itunes:duration>00:49:33</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332196001/19ed88a2931c7cacea7d34c1cd3c3cb48faea3a18fcf874f8cd2c2755e94003c.mp3" type="audio/mpeg" length="71467245" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332196001/436b6ac15e627253adc801352bd6929740b18bd9e55a6b3a0406ab9883dbbc11.mp3" type="audio/mpeg" length="71358773" />
     </item>
   </channel>
 </rss>

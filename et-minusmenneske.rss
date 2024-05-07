@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 06 May 2024 06:13:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:13:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -23,8 +23,12 @@
       <link>https://www.dr.dk/lyd/p1/et-minusmenneske-4122773032000</link>
     </image>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bd2f443243f95e2c3f41.jpg" />
+    <category>Health &amp; Fitness</category>
     <category>Society &amp; Culture</category>
-    <itunes:category text="Society &amp; Culture" />
+    <itunes:category text="Health &amp; Fitness" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
     <item>
       <guid isPermaLink="false">11032206035</guid>
       <link>https://www.dr.dk/lyd/p1/et-minusmenneske/et-minusmenneske-1/et-minusmenneske-6-6-svend-alene-i-verden-11032206035</link>
