@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 08 May 2024 10:38:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 17:03:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428193</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-p8-paa-spot-festival-med-astrid-engberg-18452428193</link>
+      <title>P8 på SPOT festival med Astrid Engberg</title>
+      <description>Den forløbne weekend bød på et hav af koncerter til SPOT festivalen i Smilets By. Der var masser af jazz på programmet, og P8 var selvfølgelig med. Denne morgen med interview med Astrid Engberg.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Wed, 08 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428193/c9095e682237bdc9293fc92bc843a0ae8dc29a5eb79a317fcf7e3943c2809f92.mp3" type="audio/mpeg" length="252001589" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428192</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-monica-zetterlund-uden-sidestykke-18452428192</link>
