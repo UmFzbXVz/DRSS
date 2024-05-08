@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452429192</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-er-blaa-gul-i-dag-15452429192</link>
+      <title>Er blå gul i dag</title>
+      <description>Der er så meget der foregår i Sverige i dag hvor kongen og dronningen er på officielt besøg , hvor vi indgår store aftaler og hvor der fra i aften er semifinale i Eurovisionen.
+Så dele af  Studie 5 er svensk i dag</description>
+      <pubDate>Tue, 07 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429192/9c5bc7b6da69d8685cfd8091a40f0f5da19815e5717aed9bc37137a8f509ee4b.mp3" type="audio/mpeg" length="168481566" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452429191</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-nyt-ugens-album-med-mathilde-falch-15452429191</link>
       <title>Nyt, Ugens Album med Mathilde Falch</title>
@@ -37,20 +50,6 @@ Vært: Rasmus Scharling Toft.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429191/c32e7909d57227b19c348fa2573ef2270a11565734343481a3f74c99c8017f81.mp3" type="audio/mpeg" length="168481529" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429185</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-can-t-take-my-eyes-off-you-frankie-valli-15452429185</link>
-      <title>'Can't Take my Eyes off You' Frankie Valli</title>
-      <description>Frankie Valli er nygift, får en stjerne på Hollywood Walk of Fame  og så fylder han 90 år i dag!
-Vi tegner et portæt af manden der er medlem af gruppen "The Four Seasons". Og så kender mange ham fra soundtracket til filmen Grease.
-Vært: Rasmus Scharling Toft.</description>
-      <pubDate>Fri, 03 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429185/34b3679ae62d267468432c5cfb028d8f9e64972a21028887a0e1c86c0243b9b6.mp3" type="audio/mpeg" length="168481608" />
     </item>
   </channel>
 </rss>

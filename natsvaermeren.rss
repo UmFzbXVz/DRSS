@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:08:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463192</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nattens-skygger-12422463192</link>
+      <title>Nattens skygger</title>
+      <description>Kievs kammerkor, Requiem af Fauré og Nina Simones Blackbird af nogen af nattens skygger.
+Vært: Minna Grooss.</description>
+      <pubDate>Wed, 08 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463192/5bbe19b19ee1513fd82e61a37a220760ce3005f83673d6af40bf236b275a0f48.mp3" type="audio/mpeg" length="168472819" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363196</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-rosen-fra-lesbos-12422363196</link>
       <title>Rosen fra Lesbos</title>
@@ -35,9 +48,9 @@ Vært: Minna Grooss.
       <pubDate>Tue, 07 May 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>01:30:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363196/ecc98188c9cb64587c3317565f9018694ee4ec9a9225aa1a5b74dd54dccc0e1b.mp3" type="audio/mpeg" length="168474698" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363196/87a20a2eea6b4f9c2dc97a2725c5458cbce3a617ba88d4a74e67d41a3e1e4d12.mp3" type="audio/mpeg" length="129601610" />
     </item>
     <item>
       <guid isPermaLink="false">12422463187</guid>
@@ -400,19 +413,6 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463151/99ebf7fd69c061dd0bd8d8f7a1f535779135fbe138c442c1f408bdc5f968f372.mp3" type="audio/mpeg" length="168480850" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463147</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-boelgelaengde-12422463147</link>
-      <title>Bølgelængde</title>
-      <description>Du kender det sikkert. Du møder en fremmed og mærker straks at der er en forbindelse. Nogen gange er det i sproget, en fælles interesse, en måde at opfatte verden på. Andre gange er det mere subtilt, noget usynligt, en frekvens, en vibration, en bølgelængde. Garcia Lorca, Sarah Davachi, Milhaud og Oumou Sangaré er nogle af aftens bølgende gæster. 
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 08 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463147/a788b28825ad06d60199da18b18a20b848693d8da1b8fdc3d29f208fdbdef7a9.mp3" type="audio/mpeg" length="168667655" />
     </item>
     <item>
       <guid isPermaLink="false">12422163444</guid>

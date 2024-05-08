@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,21 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332427192</guid>
+      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-bachelorette-paa-podcast-og-paradise-legender-13332427192</link>
+      <title>Bachelorette på podcast og Paradise-legender</title>
+      <description>Der er kamp til stregen, når det kommer til at lave podcast om TV 2-programmet Bachelorette. Line Kirsten skal nemlig være ny vært på TV 2's egen podcast "Besat af bachelorette". Og hun er ikke alene med at dække det populære realityshow, for der i forvejen tre andre podcasts, som handler om præcis det samme. Er det for mange? Nej. Derfor laver vi i dag en femte.
+Og vi hopper fra et realityformat til et andet. For den nye sæson af Paradise Hotel er på trapperne, og de gamle deltagere Anne Plejdrup og Philip May er med endnu engang. Paradiselegender kalder vi dem, og selv om det er et forholdsvist snævert område at være en legende, så er det jo stadig sejt. Så hvilken lille sluttet kreds er du en legende i? Det spørger vi jer om i dag.
+Værter: JoJo, Jannik Schow og Henrik Eriksen.
+Medvirkende: Charlie Løvetand, healer og kortlæser.</description>
+      <pubDate>Tue, 07 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427192/e6ca3931d2987d28ef2d29f5f64231aeab745becaa4502e0e1a984acd6cdbfc1.mp3" type="audio/mpeg" length="172801610" />
+    </item>
     <item>
       <guid isPermaLink="false">13332427191</guid>
       <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-jobtiteloptimering-ukoncentrerede-konfirmander-og-t-shirts-13332427191</link>
@@ -276,27 +291,6 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427152/8db748fca6c59d7aeed4ce3e6706febd5234fd64b5d402631c7aec3a9b565814.mp3" type="audio/mpeg" length="172801608" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427151</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-barnet-karls-store-radiodebut-og-en-forside-mission-13332427151</link>
-      <title>Barnet Karls store radiodebut og en forside-mission</title>
-      <description>I sidste uge var der en historie, der gik viralt om Jyske Bank, fordi de havde ansat en 8-årig. Det gav banken en masse fed PR, og derfor har vi i dag gjort præcis det samme. Vi har nemlig ansat 10-årige Karl, som skal være med til at give os en fed forside i en avis. Vi blev anbefalet af en PR-specialist at aflønne barnet Karl i noget skandaløst, så det generer kliks. Derfor vil vi lønne Karl i nikotinprodukter.
-Undervejs ringer vi til Casper Roslyng, redaktør TV Midtvest, Bo Søndergaard fra Politiken og redaktør for Folkebladet Glostrup, Jesper Ernst Henriksen, for at sælge historien - Uden held desværre...
-Så sætter vi Karl på skolebænken. Han skal nemlig i lyveskole, så han lærer at snakke små ting lidt større, end de er.
-Vi foreslår, at han kan prale af at have mødt et par kendte i DR,  når han snakker med journalisterne. Måske Morten Münster, som Karl elsker? Men pludselig ringer telefonen. Det lyder godt nok meget som Morten selv.
-Værter: JoJo, Jannik Schow og Henrik Eriksen.
-Medvirkende: 
-Karl Lauge Gjøl, børneansat.
-Bo Søndergaard, journalist Politiken.
-Casper Roslyng, redaktør TV Midtvest.
-Jesper Ernst Henriksen, redaktør for Folkebladet Glostrup, Vallensbæk og Brøndby.</description>
-      <pubDate>Mon, 08 Apr 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427151/19d017c718c6406bcf8024977325cc4327fe8d90f2d0b42f463d2be0f608ce78.mp3" type="audio/mpeg" length="172801607" />
     </item>
   </channel>
 </rss>

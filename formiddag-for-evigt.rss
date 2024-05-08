@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -318,20 +318,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424152/cdc75eb266931094c3547ac2eda09c69484cae13ebad0064459a514647a0705e.mp3" type="audio/mpeg" length="168481588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424151</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-mandagen-er-tilbage-18452424151</link>
-      <title>Mandagen er tilbage</title>
-      <description>Vi hylder mandagen og giver den et ordentligt los jazz. Der er brandvarme lytterbeskeder og der bliver efterlyst alt fra jazz at bygge kolonihave til, jazz at vente i spænding til og jazz at køre varebil til.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Mon, 08 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424151/d1a83eb154ccde28a208c39590221a4405d378296ccb89d88764f07c10b5028b.mp3" type="audio/mpeg" length="168482164" />
     </item>
   </channel>
 </rss>

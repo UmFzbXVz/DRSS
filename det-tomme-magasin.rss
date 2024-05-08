@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -389,19 +389,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:15:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192719/2e71459a9b3d5ef035aabc3c9c1c377b91808c012b1e29812c822b721ac95fea.mp3" type="audio/mpeg" length="21622900" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192718</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-bonusdonuts-16122192718</link>
-      <title>Bonusdonuts</title>
-      <description>Hør hvordan man laver bonusdonuts, køb dig noget oppusteligt skrammel, lav en hund i krydsfinér og kom med helt ind under huden på Danmarks bedste festarrangør.
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 07 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:46</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192718/994596cad97881b945a4761fce45190815b8fa68b608be97a322d5df3d9dbe7e.mp3" type="audio/mpeg" length="21282431" />
     </item>
   </channel>
 </rss>

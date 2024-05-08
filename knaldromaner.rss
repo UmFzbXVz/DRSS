@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:10 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:51 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -110,18 +110,6 @@
       <itunes:duration>00:20:41</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192873/0de538b0089806ab13290b58a4c29697603628eb31f2985fe229214b19f1fef4.mp3" type="audio/mpeg" length="29796342" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192872</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-slutshaming-eksil-16122192872</link>
-      <title>Slutshaming - Eksil</title>
-      <description>Om man er en engelsk teenage-pige, der går på kostskole i Tanzania eller dansk pige i en folkeskole i Danmark, så lever slutshaming i bedste velgående. Det er meget nemt at blive enige om, at ingen andre end en selv skal afgøre antallet af ens sex-partnere, men når det kommer til mange sex-partnere, har det aldrig været vigtigere at kunne sige fra og sætte grænser. Hvordan forener man ultimativ seksuel frihed og skarpt optrukne grænser? Hovedpersonen i Jakob Ejersbos stærke roman Eksil kæmper en brav kamp med dét dilemma og vækker dermed nogle knap så festlige minder fra Camilla og Barbaras ungdomsår.</description>
-      <pubDate>Fri, 07 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:21</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192872/d5ecee2b4e42c2c5e5b62ea82a005093d8a5b0cfb79468f9b2b348fc23afc35a.mp3" type="audio/mpeg" length="35073079" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:08:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405193</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405193</link>
+      <title>Onsdag 8. maj 2024</title>
+      <description>Præludium: Bernhard Lewkovitch: Til Himmels fór den ærens drot.
+Fra det G.T.: Salme 113.
+Salme: 259 "Din Himmel-krone ser vi stråle".
+Fra det N.T.:	Lukasevangeliet 24,44-53.
+Vekselsang: 	Kristus opfór til det høje (Ef. 4, 8.10).
+Salme: 251 "Jesus, himmelfaren".
+Postludium: Otto Malling: Christi Himmelfartsdag.</description>
+      <pubDate>Wed, 08 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405193/04bf9adf26ef397864d5866557d610d55c67f5a40bdba3b0729df661324a2304.mp3" type="audio/mpeg" length="36001578" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405192</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405192</link>
@@ -474,24 +492,6 @@ Postludium: Anton Heiler: Det hellige kors.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405152/c6aac05288b9dfccfce9ea567696e87802d4f3c9ea86d0de5f3a744e4827fb19.mp3" type="audio/mpeg" length="36001575" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405151</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405151</link>
-      <title>Mandag 8. apr. 2024</title>
-      <description>Præludium:	Johann Kaspar Ferdinand Fischer: Krist stod op af døde.
-Ord til dagen: af Helder Camara.
-Salme: 222 "Opstanden er den Herre Krist".
-Fra det N.T.:	1. Korintherbrev 15,1-11.
-Korvers: Axel Madsen: Vi blev altså begravet med ham (tekst: Romerbrev 6,4).
-Salme: 239 vers 1 + 4-5 "I den nat af stumme skrig".
-Postludium: Jesper Madsen: Den mørke nat forgangen er.</description>
-      <pubDate>Mon, 08 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405151/72d7319f27a5834a91faf85db98ecc2d30835931d6b136035293b4a3d84385bb.mp3" type="audio/mpeg" length="36194545" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421192</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-ekstranumre-er-et-scam-eller-hvad-13332421192</link>
+      <title>Ekstranumre er et scam - eller hvad?</title>
+      <description>Vi åbner op for Residensens safe space i dag med hot take tirsdag. I dag leveret af ingen ringere end Nynne og Kasper selv - vi skruer max. op for ananas i egen juice i dagens program. Vi skal også forbi beefen, der p.t. ingen ende tager, og finder ud af, hvordan Drake og Kendrick Lamar ville være i en wrestling kamp. Vi snakker med en, der ved lidt mere om sporten end os selv. Velkommen indenfor.</description>
+      <pubDate>Tue, 07 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421192/ca718d93b2650ad5c43613cb7db7479b84a57c9fe9f674e8c963dbac7d6c6887.mp3" type="audio/mpeg" length="172801607" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421191</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-har-hjalmer-overhovedet-set-friends-13332421191</link>
@@ -226,18 +238,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421152/658c4ad386198076264ad16a77a1ef650602689697646f94429e9d8fc4a12dee.mp3" type="audio/mpeg" length="172801589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421151</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-hurtige-fortrydelser-og-fake-news-13332421151</link>
-      <title>Hurtige fortrydelser og fake news</title>
-      <description>Levi's aktiekurser er stukket fuldstændig af, og Residensen undersøger, om det virkelig har noget med Beyoncés country-æra at gøre? Og apropos country: J. Cole har været lidt for hurtig på aftrækkeren (yee-haw) og har allerede fortrudt sit Drake-diss-track. Der er kort mellem beslutning og fortrydelse, men hvor kort?</description>
-      <pubDate>Mon, 08 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421151/699f5749e6d54a434ddfde4af87810028fc8d308a03895018f9f333a4e6c49d4.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>

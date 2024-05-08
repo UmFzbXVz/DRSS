@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/pa-opdagelse-i-carl-nielsens-symfonier" rel="self" type="application/rss+xml" />
+    <title>På opdagelse i Carl Nielsens symfonier</title>
+    <link>https://www.dr.dk/lyd/p2/paa-opdagelse-i-carl-nielsens-symfonier-2655186010000</link>
+    <description>I seks programmer tager P2vært Mathias Hammer på opdagelse i Carl Nielsens seks symfonier. Udgangspunktet er Mathias' begejstring for musikken. Men også den undren, som han forsøger at finde svar på: 
+
+Hvad er essensen i Carl Nielsens symfonier? Hvad fortæller de om komponisten? Og hvad vil de os i dag?
+ 
+I sine bestræbelser på at komme helt ind til kernen af symfonierne, går Mathias på opdagelse i tilblivelseshistorien, læser komponistens breve, lytter til indspilninger og sætter partituret foran sig ved klaveret.
+ 
+Stilen er personlig. Det er Mathias eget forsøg på at forstå hvorfor de seks symfonier taler så stærkt til ham.
+ 
+Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkritiker Jakob Levinsen og komponist Pelle Gudmundsen-Holmgreen. Og han perspektiverer Carl Nielsens musikalske budskab med hjælp fra blandt andre en astrofysiker, en museumschef, en sognepræst og en parterapeut.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Wed, 08 May 2024 09:07:50 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/pa-opdagelse-i-carl-nielsens-symfonier.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1457d0c1a140697e02a.jpg</url>
+      <title>På opdagelse i Carl Nielsens symfonier</title>
+      <link>https://www.dr.dk/lyd/p2/paa-opdagelse-i-carl-nielsens-symfonier-2655186010000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1457d0c1a140697e02a.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12421560001</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-opdagelse-i-carl-nielsens-symfonier/paa-opdagelse-i-carl-nielsens-symfonier-1/paa-opdagelse-i-carl-nielsens-symfonier-1-6-12421560001</link>
+      <title>På opdagelse i Carl Nielsens symfonier 1:6</title>
+      <description>P2 vært og pianist Mathias Hammer går tæt på Carl Nielsens Symfoni nr. 1. Han søger årsagen til symfoniens optimistiske udtryk og finder bl.a. svar i komponistens nyforelskelse og stemningen i København i 1890erne. Undervejs får han hjælp af dirigent Michael Schønwandt, musikkritiker Jakob Levinsen og historiker Barbara Zalewski.
+(Sendt første gang 2. marts 2015).</description>
+      <pubDate>Tue, 07 May 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560001/888365c564e39eb447f800a9eba5ccd3a3ec5ef8c664818d46b5fbe5ee7589c5.mp3" type="audio/mpeg" length="38314259" />
+    </item>
+  </channel>
+</rss>

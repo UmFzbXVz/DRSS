@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:03:13 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 08:55:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460108</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Boeings deroute</title>
+      <description>'If it ain't Boeing, I ain't going'. I årtier er flyproducent Boeing garant for en tryg og luksuriøs rejse i de øvre luftlag lige meget hvor meget det rusker. Men så rammer turbulensen. To Boeing 737 Max-fly forsvinder fra radaren, og da de igen dukker op, er de faldet fra himlen i så voldsom fart, at alt er splintret til atomer. Boeing forsøger desperat at opretholde den sikre facade, men katastroferne fortsætter. Døre og hjul triller af flyene og whistleblowere udlægger, hvordan der bliver slækket på sikkerheden i producentens fabrikker. I dagens Genstart fortæller Jacob Pedersen, der er luftfartsanalytiker ved Sydbank, hvordan jagten på profit måske får flygiganten til at give køb på sit livsgrundlag: Den rendyrkede ingeniørkunst.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 5/5.</description>
+      <pubDate>Wed, 08 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460108/703d0128ee1d5e13a3eba7a3f9104d2bd05f8b5e4cba82ffde9c3fb948144361.mp3" type="audio/mpeg" length="37574081" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460107</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9490,20 +9504,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:22:49</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150091/c7bda198e4bf093b786b55b04241528f6b98bddab3a9252b8423a5dcb0f6ba08.mp3" type="audio/mpeg" length="32872205" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150090</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-dans-med-doeden-11802150090</link>
-      <title>Dans med døden</title>
-      <description>Den britiske stjernekoreograf Liam Scarlett har opført sig krænkende og uacceptabelt overfor flere af teatrets medarbejdere. Det skriver Det Kongelige Teater den 16. april i en pressemeddelelse, hvor de derfor aflyser en stort anlagt ballet. Dagen efter aflysningen bliver Liam Scarlett fundet død i sit hjem. Sagen ryster balletverdenen og puster liv i debatten om, hvordan man bør håndtere sager om krænkende adfærd. 
-Hvad ved vi, om den unge stjernekoreografs tragiske død? Og hvad kan sagen lære os? Jakob Steen Olsen, teaterredaktør hos Berlingske, har fulgt sagen tæt.  
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 07 May 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:47</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150090/d75da2b13e6d8d0c44f14f032fc0d1789b0ce3a905094ec533b84c01d757c4eb.mp3" type="audio/mpeg" length="34255749" />
     </item>
   </channel>
 </rss>

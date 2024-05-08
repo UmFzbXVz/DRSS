@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,19 +50,6 @@ Værter: Rikke Smed, Thomas Loft og Emil Schiønning.</description>
       <itunes:duration>06:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402187/d97aa9a34ee0bf1177697b21d638f6f8889a22e9d4dbb6cffcb939d36df6650a.mp3" type="audio/mpeg" length="600482028" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402185</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402185</link>
-      <title>Fredag 3. maj 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Morten Hausborg og Alberte Røhl.</description>
-      <pubDate>Fri, 03 May 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:51:22</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402185/7c380e113f1213239dace8a4e66b3033b5dbc1239a022be2009aa8b660dccf9f.mp3" type="audio/mpeg" length="333188642" />
     </item>
   </channel>
 </rss>

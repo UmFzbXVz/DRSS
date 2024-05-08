@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:08:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451087</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-camping-paa-campus-ballade-hos-boeing-og-svampe-riget-11802451087</link>
+      <title>Camping på campus, ballade hos Boeing og svampe-Riget</title>
+      <description>De har slået lejr på Københavns Universitet og kræver, at Københavns Universitet ændrer deres investeringer.
+Endnu flere Boeing-fly skal nu undersøges af den øverste luftfartsmyndighed i USA. 
+Skimmelsvamp på Rigshospitalet kobles nu til et dødsfald hos en indlagt patient. 
+Vært: Annika Wetterling.
+Medvirkende:
+Christian Birk, undersøgende journalist på Berlingske.
+Marta Valstrøm, studerende KU.</description>
+      <pubDate>Wed, 08 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:49</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451087/93a77eb6437985a6a8c25ec1967b56ad267c612519040e89f648a3b8d30a1726.mp3" type="audio/mpeg" length="25669327" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451086</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-heunicke-paa-dybt-vand-muskelmedicin-og-grandprix-konflikt-11802451086</link>
@@ -2155,25 +2173,6 @@ Anna Gaarslev, DR's europakorrespondent.</description>
       <itunes:duration>00:19:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351204/836d1f41ac8fc393423ee1831e3df367110462984dbe41c9bf349b0dd224dae5.mp3" type="audio/mpeg" length="27965467" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351203</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-politisvigt-vold-paa-vestbredden-og-fler-penge-11802351203</link>
-      <title>Politisvigt, vold på Vestbredden og fler' penge</title>
-      <description>Østjyllands Politi får hård kritik for deres efterforskning af en sag om muligt misbrug af et barn i børnehavealderen. 
-De nye skattelettelser er blevet solgt som et af Venstres store aftryk i midterregeringen, men kan de ændre på partiets rekordlave meningsmålinger?
-Siden 7. oktober er volden på vestbredden eksploderet og mere end 800 palæstinensere er blevet fordrevet af israelske bosættere.
-Vært: Adrian Busk.
-Medvirkende: 
-Line Geertsen, DR's undersøgende korrespondent.
-Kasper Møller Hansen, valgforsker på Københavns Universitet.
-Nanna Muus Steffensen, DR's mellemøstkorrespondent.</description>
-      <pubDate>Tue, 07 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:20</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351203/61ba088901ef31146e18a0ad065eef82af41258c539e48bee66b4ecf285e8c81.mp3" type="audio/mpeg" length="29297179" />
     </item>
   </channel>
 </rss>

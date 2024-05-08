@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 07 May 2024 16:09:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:08:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450092</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-en-olympisk-kamp-mod-terror-13652450092</link>
+      <title>En olympisk kamp mod terror</title>
+      <description>Om under tre måneder vil hele kloden kigge mod Paris, når Frankrigs hovedstad afholder OL. Verdens største sportsbegivenhed vil være fyldt med atleter og fans, men bagved folkefesten foregår et omfattende sikkerhedsarbejde og en skjult kamp mod potentielle terrorangreb. 
+Det fortæller tidligere PET-chef Hans Jørgen Bonnichsen om i dagens afsnit af Tyvstart.
+
+Vært: Kresten Mosbæk</description>
+      <pubDate>Wed, 08 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450092/74a7232e1519fed52cef4f1e1d1074d07c8411fea16b6efb3f09525fad1c21fc.mp3" type="audio/mpeg" length="21565884" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450091</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-gustav-tager-e45-mod-nba-13652450091</link>
@@ -1893,20 +1908,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:19:06</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350216/d981b9ba7f2ef3027aeb8b1bb46a9b7185b0f84aec227258f008b820e56156e2.mp3" type="audio/mpeg" length="27517915" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350215</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-amerikanerne-indtager-horsens-13652350215</link>
-      <title>Amerikanerne indtager Horsens</title>
-      <description>Endnu en dansk fodboldklub er havnet på udenlandske hænder, efter at 55 procent af AC Horsens' aktier er blevet solgt til amerikanske Carlisle Capital Corporation.
-Hvad kan de bruge en dansk fodboldklub fra 1. Division til? Og hvor meget fylder den seneste tids skrækhistorier om udenlandske ejeres opkøb af andre hold?
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:49</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350215/e1240782e19970beba36ae94dc5aea47ddddc7f567aee762e4d28b17931b6ca1.mp3" type="audio/mpeg" length="22779163" />
     </item>
   </channel>
 </rss>
