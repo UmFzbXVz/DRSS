@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 08 May 2024 17:03:45 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 06:41:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -318,20 +318,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424153/1f6cc4e239c6fd70c8bbced76ca14aadb5ab51291053e0554e4d12724e9b3bf9.mp3" type="audio/mpeg" length="168481588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424152</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-nu-bliver-det-poetisk-18452424152</link>
-      <title>Nu bliver det poetisk</title>
-      <description>Forårspoesien flyder i stride strømme fra søde lyriske lyttere der bidrager til en smuk og lys udsendelse. Vi tager en tur forbi Schweiz og møder nu afdøde Jaimie Branch på scenen i 2020. Derudover får du endnu en omgang store følelser fra Norge i Ugens Album.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Tue, 09 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424152/cdc75eb266931094c3547ac2eda09c69484cae13ebad0064459a514647a0705e.mp3" type="audio/mpeg" length="168481588" />
     </item>
   </channel>
 </rss>

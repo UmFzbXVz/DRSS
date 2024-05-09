@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 08 May 2024 17:03:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 06:41:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450093</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-derfor-vinder-agf-endelig-et-trofae-13652450093</link>
+      <title>Derfor vinder AGF endelig et trofæ</title>
+      <description>AGF møder Silkeborg i årets pokalfinale. 'De Hviie' har ikke vundet et trofæ siden 1996, og på Kristi Himmelfartsdag valfarter aarhusianerne til hovedstaden. Selvtilliden er lige så stor som sulten på et trofæ, og i dagens Tyvstart får AGF-fansene ordet.
+De fortæller kommentator Andreas Kraul, hvorfor GF'erne endelig igen vinder pokalfinalen, og så er spørgsmålet, om netop den selvtillid er et billede på, hvordan det plejer at gå for klubben fra Danmarks næststørste by.
+Vært: Emil Schiønning.</description>
+      <pubDate>Thu, 09 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450093/a2f4ff79bca69003c5c63b7a55928ef0a5e04cd4bcac9f5aa9aecd30f630c398.mp3" type="audio/mpeg" length="25800059" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450092</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-en-olympisk-kamp-mod-terror-13652450092</link>
@@ -1894,20 +1908,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:19</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350217/562a8d789560580bd752799a5a3811ae2ea621f4f5584fcd5626af6cf4e329a2.mp3" type="audio/mpeg" length="24956443" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350216</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-manchesters-middelmaadige-united-13652350216</link>
-      <title>Manchesters middelmådige United</title>
-      <description>Er 'de røde djævle' over hovedet favoritter til at slå FCK?
-Manchester United vandt deres seneste mesterskab for 10 år siden, og starten på denne sæson har igen været under niveau. Dagens episode er et krisemøde i storklubben, for er problemet spillerne, træneren, ejerfamilien eller noget helt fjerde?
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:19:06</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350216/d981b9ba7f2ef3027aeb8b1bb46a9b7185b0f84aec227258f008b820e56156e2.mp3" type="audio/mpeg" length="27517915" />
     </item>
   </channel>
 </rss>

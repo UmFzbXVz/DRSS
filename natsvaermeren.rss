@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 08 May 2024 17:03:42 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 06:32:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422363221</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-naar-naturen-kalder-12422363221</link>
+      <title>Når naturen kalder</title>
+      <description>Naturen trænger sig ind på musikkens territorium som en parasit. Musikken svarer igen med kærlighed.
+Vært: Katrine Ring.
+(Sendt første gang 30. maj 2023).</description>
+      <pubDate>Thu, 09 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363221/c1b3a4cb133a5d24cbfbe1ef0744774d949f57df163fe651b3635bbcbf4ea6e2.mp3" type="audio/mpeg" length="168468261" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463192</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nattens-skygger-12422463192</link>
@@ -400,19 +414,6 @@ Vært: Tina Rømer.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263166/09565bb377a7431de2c7397f02bb09f427a450c4e2b0c1af4b023e4a782a9955.mp3" type="audio/mpeg" length="172801472" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463151</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-det-jeg-husker-12422463151</link>
-      <title>Det jeg husker</title>
-      <description>Om erindring og hukommelse - og alt det, der var engang. 
-Vært: Katrine Ring.</description>
-      <pubDate>Tue, 09 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463151/99ebf7fd69c061dd0bd8d8f7a1f535779135fbe138c442c1f408bdc5f968f372.mp3" type="audio/mpeg" length="168480850" />
     </item>
     <item>
       <guid isPermaLink="false">12422163444</guid>

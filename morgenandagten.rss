@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 08 May 2024 17:03:42 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 06:41:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -474,24 +474,6 @@ Postludium: Einar Trærup Sark: Bordone.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405153/28f8eff5bfa4adbe3d8bd87fa85da7c8cd781f983c53ad4782c7ddaa4d367e99.mp3" type="audio/mpeg" length="36001584" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405152</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405152</link>
-      <title>Tirsdag 9. apr. 2024</title>
-      <description>Præludium:	Emil Sjögren: Legende i d-mol.
-Fra det G.T.:	Salme 51,3-6.
-Salme: 502 "Jeg har en angst som aldrig før".
-Fra det N.T.:	Romerbrevet 5,1-11.
-Korvers: Axel Madsen: Vi blev altså begravet med ham (tekst: Romerbrev 6,4).
-Salme: 247 "Jesus, som iblandt os står".
-Postludium: Anton Heiler: Det hellige kors.</description>
-      <pubDate>Tue, 09 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405152/c6aac05288b9dfccfce9ea567696e87802d4f3c9ea86d0de5f3a744e4827fb19.mp3" type="audio/mpeg" length="36001575" />
     </item>
   </channel>
 </rss>

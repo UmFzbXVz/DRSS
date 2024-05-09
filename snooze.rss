@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 08 May 2024 17:03:44 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 06:41:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -390,23 +390,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428153/5f393e04404fde70768bb2c6d49cdcff76e895402a0c4f2922b11b3a925e0f46.mp3" type="audio/mpeg" length="252001605" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428152</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-vistis-vinyler-i-vestafrika-18452428152</link>
-      <title>Vistis Vinyler i Vestafrika</title>
-      <description>P8's helt egen verdenskorrespondent Jonas Visti sender for tiden sine programmer fra Gambia. Vi tager med Vistis Vinyler til Vestafrika.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 09 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428152/8bdb3bde95d66580f3411604813251e8b9ea0e921cda10bf388419df65b71ff8.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>

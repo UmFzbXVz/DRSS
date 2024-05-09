@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 08 May 2024 17:03:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 06:41:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421193</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421193</link>
+      <title>Onsdag 8. maj 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Wed, 08 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421193/6508ea6a2705432bbf3a123b61fb5412e706ababf64caf44db6e943e8fce7e2c.mp3" type="audio/mpeg" length="172801589" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421192</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-ekstranumre-er-et-scam-eller-hvad-13332421192</link>
@@ -223,21 +235,6 @@ Gæst i studiet: Amanda Baun.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421153/01e054933b9493a8e33f35db7826606426ecb397e45361fbcfec69024f328eaa.mp3" type="audio/mpeg" length="172802180" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421152</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-flertallet-kender-ikke-over-tre-internationale-artister-fra-dette-aars-roskilde-festival-plakat-eller-hvad-13332421152</link>
-      <title>Flertallet kender ikke over tre internationale artister fra dette års Roskilde Festival plakat - eller hvad?</title>
-      <description>Det er hot take tirsdag i Residensen, og i dag leveres den kontroversielle holdning af programmets DR-kollega Adnan. Roskilde Festival har nu offentliggjort deres fulde line up, og det dykker vi ind i både på godt og ondt, på gaden og i kommentarfeltet direkte fra P3-studiet. Velkommen indenfor!
-Tlf. gæst: Adnan Al-Adhami.
-Tlf. gæst: Christian.
-Reporter: Esmeralda Holmberg.</description>
-      <pubDate>Tue, 09 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421152/658c4ad386198076264ad16a77a1ef650602689697646f94429e9d8fc4a12dee.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>
