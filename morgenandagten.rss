@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 06:13:27 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 15:40:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405195</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405195</link>
+      <title>Fredag 10. maj 2024</title>
+      <description>Præludium: Jesper Madsen: Til Himmels fór den ærens drot.
+Fra det G.T.:	Salme 110,1-4 .
+Salme: 257 "Vaj nu, Dannebrog, på voven".
+Fra det N.T.:	Apostlenes Gerninger 1,1-11.
+Vekselsang:	Kristus opfor til det høje (Ef. 4, 8.10).
+Salme: 264 "Herre Jesus, du, som troner".
+Postludium: Théodore Salomé: Grand Choeur.</description>
+      <pubDate>Fri, 10 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405195/4c1fb557e765cb8168ce78e34ccb24e6711f942312a1ce0758afc7bbcb10e573.mp3" type="audio/mpeg" length="36001574" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405193</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405193</link>

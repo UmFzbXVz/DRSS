@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 06:13:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 15:40:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428195</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-p8-paa-spot-med-girls-in-airports-teitur-og-emmeluths-amoeba-18452428195</link>
+      <title>P8 på SPOT med Girls in Airports, Teitur og Emmeluths Amoeba</title>
+      <description>Der var masser af jazz i Aarhus under dette års SPOT festival, og derfor var P8 selvfølgelig med. Vi talte med Girls in Airports og Teitur, som er på vej med et nyt album sammen, og vi kom også forbi saxofonist Signe Emmeluth og hendes orkester, der også spillede i Smilets By.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Fri, 10 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428195/cf50180ac09b8cd1aeddbae6672aa78da198042727f12f735fa0fe8f904151cc.mp3" type="audio/mpeg" length="252001613" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428194</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-p8-paa-spot-med-clothing-club-og-doessing-18452428194</link>

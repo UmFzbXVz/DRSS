@@ -11,7 +11,7 @@ Skriv fortroligt til os på p3underradaren@protonmail.com</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 06:12:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 15:34:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -31,6 +31,24 @@ Skriv fortroligt til os på p3underradaren@protonmail.com</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122393744</guid>
+      <link>https://www.dr.dk/lyd/p3/under-radaren/under-radaren-1/trailer-lyssky-kirkerup-komplekset-16122393744</link>
+      <title>Trailer: Lyssky - Kirkerup-komplekset</title>
+      <description>På et mørkt stisystem ved Sorø bliver en 15-årig efterskolepige forsøgt bortført og voldtaget. Fem måneder senere bliver en 13-årig pige bortført, voldtaget og holdt fanget i 27 timer. Da den formodede gerningsmand bliver fanget, går det med det samme op for politiet, at de to sager måske kan kobles til det syv år gamle drab på den 17-årige Emilie Meng.
+Det her rejser samtidig spørgsmålet: Har en dansk serieforbryder i en årrække forsøgt at bortføre, voldtage og endda dræbe en ung pige på Vestsjælland, uden at han blev stoppet af politiet? 
+I podcasten "Lyssky - Kirkerupkomplekset" samles fortællingerne om de tre alvorlige forbrydelser, den dykker ned i politiets arbejde - og fejl - i opklaringsarbejdet og undersøger hvilke beviser, der kommer til at spille en afgørende rolle i det, der bliver kaldt en af Danmarkshistoriens største retssager.
+Hør hele serien lige nu ved at søge efter "Lyssky" i DRLYD.</description>
+      <pubDate>Fri, 10 May 2024 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010901</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>901</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393744/3e1c350d19db3eaaed62756fe899798761762dab7d8f406dcba14ce00a779079.mp3" type="audio/mpeg" length="1361534" />
+    </item>
     <item>
       <guid isPermaLink="false">16122393743</guid>
       <link>https://www.dr.dk/lyd/p3/under-radaren/under-radaren-1/piller-fra-helvede-3-3-det-sidste-skub-16122393743</link>
