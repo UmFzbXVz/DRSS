@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 09 May 2024 11:37:35 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:05:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460110</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Kampen om campus</title>
+      <description>En masse farverige kuppelformede telte popper op på de nydelige, veltrimmede plæner på eliteuniversitetet, Columbia. Det er en protestlejr: De studerende kræver, at universitetet fjerner sine investeringer i Israel Lige siden Gaza-krigens begyndelse har propalæstinensiske protester spredt sig på flere af USAs mest prominente universiteter.  På Columbia i New York har rektoren pudset politiet på de unge og slået protesterne ned. Men det har kun fået vreden til at vokse og oprøret til at brede sig. Universitetsprotesterne bliver nu diskuteret som et stigende problem på USAs aller øverste politiske niveau: Demonstranterne bliver anklager for a være antisemitiske og for at skabe kaos. Vi taler med den danske ph.d. studerende, Amin Younes Aoussar, der lige nu er på forskningsophold på Columbia og spørger, hvordan han oplever de omdiskuterede protester indefra campus.  
+Vært: Simon Stefanski
+Program publiceret i DR Lyd d. 7/5.</description>
+      <pubDate>Fri, 10 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460110/d0cf9770c2db202ed906dda6e0efcb244739954ccbcce7860162b825cbd3cf88.mp3" type="audio/mpeg" length="36676677" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460109</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 09 May 2024 11:44:25 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:13:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422363201</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-lange-fladers-nat-12422363201</link>
+      <title>De lange fladers nat</title>
+      <description>En hypnotisk aften med en række af nutidens musikere og komponister med et frit forhold til genre. Jonas Struck, Hildur Guðnadóttir, Sarah Davachi, Kjartan Sveinsson, Donicetti og Rameau fører skibet sikkert i havn.
+Vært: Minna Grooss.
+(Sendt første gang 16. maj 2023).</description>
+      <pubDate>Fri, 10 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363201/0a4238b5936f284f65e8397284cd244efd7d937472a08e26fc27d7d74c2e0c7a.mp3" type="audio/mpeg" length="168478149" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363221</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-naar-naturen-kalder-12422363221</link>
       <title>Når naturen kalder</title>
@@ -35,9 +49,9 @@ Vært: Katrine Ring.
       <pubDate>Thu, 09 May 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363221/c1b3a4cb133a5d24cbfbe1ef0744774d949f57df163fe651b3635bbcbf4ea6e2.mp3" type="audio/mpeg" length="168468261" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363221/afb89c022607031cfed6c90a1b7bd4ab954a9d747b946e98c6af5afc94ec4dec.mp3" type="audio/mpeg" length="172801509" />
     </item>
     <item>
       <guid isPermaLink="false">12422463192</guid>
@@ -400,20 +414,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463153/39a4dc63ce5df399c0f231b84dbfa670ae7091e397db2c532aaf51b3a78ae951.mp3" type="audio/mpeg" length="168479879" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422263166</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-foraar-for-evigt-12422263166</link>
-      <title>Forår for evigt</title>
-      <description>Natsværmeren hylder alt spirende liv og håbefulde begyndelser. 
-Vært: Tina Rømer.
-(Sendt første gang 24. april 2022).</description>
-      <pubDate>Wed, 10 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263166/09565bb377a7431de2c7397f02bb09f427a450c4e2b0c1af4b023e4a782a9955.mp3" type="audio/mpeg" length="172801472" />
     </item>
     <item>
       <guid isPermaLink="false">12422163444</guid>

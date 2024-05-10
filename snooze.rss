@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 09 May 2024 11:44:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:13:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -390,23 +390,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428154/ce0c77dac9eb78d2d90a3d48dcacd5f73c823ab87d560577bccecdf56c74501e.mp3" type="audio/mpeg" length="252001610" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428153</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jazz-fra-alleroeverste-hylde-18452428153</link>
-      <title>Jazz fra allerøverste hylde</title>
-      <description>En lytter har brug for hjælp. Kristian er ny i jazzen, og han leder efter "jazz fra den øverste hylde" fra sine med-snoozers. Det får han i rigelige mængder! 
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked.</description>
-      <pubDate>Wed, 10 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428153/5f393e04404fde70768bb2c6d49cdcff76e895402a0c4f2922b11b3a925e0f46.mp3" type="audio/mpeg" length="252001605" />
     </item>
   </channel>
 </rss>

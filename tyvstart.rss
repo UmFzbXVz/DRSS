@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 09 May 2024 11:44:13 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:13:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450094</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-kent-nielsen-masterclass-13652450094</link>
+      <title>Kent Nielsen masterclass</title>
+      <description>Silkeborg er årets pokalvindere efter en finalesejr på 1-0 over AGF på Kristi Himmelfartsdag.
+De rødblusede var i undertal på tribunerne i nationalarenaen, men inde på grønsværen havde de styr på opgøret. De afviste AGFs stærke fysik og stod selv for de største chancer - akkurat som cheftræner Kent Nielsen havde drømt om inden finalen. I dagens afsnit fortæller kommentatorparret Henrik Liniger og Kenneth Møller Pedersen, hvorfor Kent Nielsens tropper var de helt fortjente vindere af årets pokalfinale.
+Vært: Emil Schiønning.</description>
+      <pubDate>Fri, 10 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450094/8ed1dc3df94495aaee7cc4083ea10cf979275605436f636af61614252f22501b.mp3" type="audio/mpeg" length="24408449" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450093</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-derfor-vinder-agf-endelig-et-trofae-13652450093</link>
@@ -1894,20 +1908,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350218/8ca9f551c0bcd737d64d366f54663acf2d1554fad4a31f796362c2555aa8dddf.mp3" type="audio/mpeg" length="21656539" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350217</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-mark-o-i-kamp-for-karrieren-13652350217</link>
-      <title>Mark O. i kamp for karrieren</title>
-      <description>Nederlag har aldrig været en mulighed for Mark O. Madsen. Natten til søndag skal den olympiske medaljevinder igen i aktion i UFC, hvor han gør comeback efter halvandet år.
-Pausen har været præget af sygdom i familien og en flytning hjem til Danmark, men meget er også, som det altid har været. For Mark O. Madsen har fuld fokus på målet - denne gang at tæve amerikanske Jared Gordon.
-Vært: Emil Schiønning.</description>
-      <pubDate>Thu, 09 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:19</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350217/562a8d789560580bd752799a5a3811ae2ea621f4f5584fcd5626af6cf4e329a2.mp3" type="audio/mpeg" length="24956443" />
     </item>
   </channel>
 </rss>

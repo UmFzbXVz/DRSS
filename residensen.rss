@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 09 May 2024 11:44:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:13:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421194</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421194</link>
+      <title>Torsdag 9. maj 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Thu, 09 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421194/19d3803babdb75280a82f6fafc9a4c53704b90ee093d192bbe7eba3d0388e00e.mp3" type="audio/mpeg" length="172801589" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421193</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421193</link>
@@ -222,19 +234,6 @@ Gæst på tlf.: Brian Sandberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421154/007bb5b24970daf1d94bb14ffd1b61c046f942ce9cce5e70eb3c63699eb85af5.mp3" type="audio/mpeg" length="172801589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421153</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-amanda-baun-13332421153</link>
-      <title>Med Amanda Baun</title>
-      <description>DJ Pulten har fået ny bestyrer, og Residensen lærer Amanda Baun bedre at kende i dagens program, der også vender Beyoncés børn, KarriereKanonen og alle de overskrifter, du ikke har brug for at dykke længere ned i. Velkommen indenfor!
-Gæst i studiet: Amanda Baun.</description>
-      <pubDate>Wed, 10 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421153/01e054933b9493a8e33f35db7826606426ecb397e45361fbcfec69024f328eaa.mp3" type="audio/mpeg" length="172802180" />
     </item>
   </channel>
 </rss>

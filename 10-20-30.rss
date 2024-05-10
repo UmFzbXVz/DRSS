@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 09 May 2024 11:44:19 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:13:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452498012</guid>
+      <link>https://www.dr.dk/lyd/special-radio/10-20-30/10-20-30-2024/10-20-30-jan-gintberg-fra-svinestalden-til-scenekanten-15452498012</link>
+      <title>Jan Gintberg - fra svinestalden til scenekanten</title>
+      <description>Der gik mange år, før han fandt sin rigtige hylde og turde sætte sig på den. Fra barndommens svinegård til voksenlivets studenterrevy har Jan Gintbergs indre komiker kæmpet imod den ydre landmand. Vi skal lege hemmelige agenter i skunken, på tårevædet køretur med højskolevennerne og danse tæt med hans livs kærlighed. På vejen er der både er plads til eksistentielle overvejelser, et syretrip med Pink Floyd og en kærlighedssang af Billy Joel.
+Vært og tilrettelægger: Signe Muusmann
+Producer og klipper: Valdemar Stauning
+Lyddesigner: Frederik Ludwigs
+Redaktør: Christian Lundov</description>
+      <pubDate>Fri, 10 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:34:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452498012/24ad6049948a453cdb765e2bf74d4c79b1685ced20d2f588259369a13d7456a0.mp3" type="audio/mpeg" length="49988605" />
+    </item>
     <item>
       <guid isPermaLink="false">15452498011</guid>
       <link>https://www.dr.dk/lyd/special-radio/10-20-30/10-20-30-2024/10-20-30-dak-wichangoen-musik-og-mad-kan-tage-dig-helt-nye-steder-hen-15452498011</link>
