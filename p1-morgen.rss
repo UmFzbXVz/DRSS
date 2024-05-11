@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:40:13 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,20 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433196</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433196</link>
+      <title>Lørdag 11. maj 2024</title>
+      <description>I den spanske region Catalonien i den nordøstlige del af landet bliver der i morgen afholdt regionalvalg. Hvad er der på spil for den spanske premierminister, Pedro Sanchez, til det catalanske regionalvalg søndag? 
+Socialdemokratiets udlændingeordfører, Frederik Vad, har sat gang i integrationsdebatten igen, efter han i en tale fra Folketingets talerstol slog fast, at det var tid til en ny erkendelse. Bør Frederik Vads tredje erkendelse også gælde kristne? 
+Mens krigen raser i Gaza, betaler flere palæstinensere store summer til mellemmænd for at flygte ind i Egypten. Hvorfor ønsker Egypten ikke palæstinensiske flygtninge?
+Dagens værter: Ole Brink og Thomas Tjaerandsen.</description>
+      <pubDate>Sat, 11 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:02</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433196/253876f97b8bebc3bd02d58bfeb7c206b39ef80af0bff72602fc12584c72d95e.mp3" type="audio/mpeg" length="158468769" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433195</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433195</link>
@@ -1852,18 +1866,6 @@ Dagens værter: Bjarne Steensbeck og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:55</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333462/aad0334633bccc41fd0c4044226774065f6265e67d502e424e9ded38e4d73929.mp3" type="audio/mpeg" length="237496987" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333461</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333461</link>
-      <title>Mandag 13. nov. 2023</title>
-      <description>Gør vi nok for at hjælpe unge, der lider af tvangsoverspisning? Hvor bekymret skal vi være over, at den russiske efterretningstjeneste kan have stået bag det "hidtil mest omfangsrige, cyberrelaterede angreb vi har oplevet i Danmark"? Hvordan oplever befolkningen i Island lige nu risikoen for et stort vulkanudbrud?
-Dagens værter: Morten Runge og Bjarne Steensbeck.</description>
-      <pubDate>Mon, 13 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:08</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333461/f6fb949599f8b88b5797281b6e46b582d24de52da7ad1c6e8f8a423a50b49915.mp3" type="audio/mpeg" length="237813211" />
     </item>
   </channel>
 </rss>

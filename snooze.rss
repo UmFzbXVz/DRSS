@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:40:14 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -390,23 +390,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428155/2e5857a5be413a3ce53bb966837d18a6c9dcb585d28078351daf0d4ed077f559.mp3" type="audio/mpeg" length="252002181" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428154</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-sarah-vaughan-i-hundrede-aar-18452428154</link>
-      <title>Sarah Vaughan i hundrede år!</title>
-      <description>Sarah Vaughan havde 100-årsdag mens Snooze var på påskeferie den 27. marts, så derfor dykker vi her i bagpåsken ned i den magiske stemme og historie bag 'The Divine One'.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked.</description>
-      <pubDate>Thu, 11 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428154/ce0c77dac9eb78d2d90a3d48dcacd5f73c823ab87d560577bccecdf56c74501e.mp3" type="audio/mpeg" length="252001610" />
     </item>
   </channel>
 </rss>

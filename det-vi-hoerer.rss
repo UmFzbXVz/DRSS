@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:39:43 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -367,22 +367,6 @@ Vært: Benedikte Bové.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381883/7e7c25d4d98f6c57ee032964d1f12b2ea70e8dbd54cd4cdf7927309e67e2b8b9.mp3" type="audio/mpeg" length="165601596" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381882</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-toner-fra-fortiden-12422381882</link>
-      <title>Toner fra fortiden</title>
-      <description>Min barndoms musikalske madplan bestod af Bach og Beatles, tilsat Bernstein og Blind Blake, og som nummer sjok i en søskendeflok var andres musiksmag med til at forme min. Hør musik af de fire store B'er, om en genial konfirmationsgave og hør desuden musik af Carl Nielsen, Sjostakovitj og Debussy.
-Vært: Benedikte Bové.</description>
-      <pubDate>Fri, 10 Nov 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000110002</itunes:order>
-      <itunes:season>11</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381882/c9b16617e030bff81bf16af5348e884125b08bc7f06912f7ddd6cabe30d96208.mp3" type="audio/mpeg" length="165601819" />
     </item>
   </channel>
 </rss>

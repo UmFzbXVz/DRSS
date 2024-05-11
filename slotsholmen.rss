@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:39:04 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802443138</guid>
+      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-socialdemokratiet-efter-mette-frederiksen-11802443138</link>
+      <title>Socialdemokratiet efter Mette Frederiksen</title>
+      <description>Uanset hvor meget Mette Frederiksen afviser at være kandidat, så snakker socialdemokrater i krogene om, hvad der sker, hvis hun om få måneder får en international toppost og forlader dansk politik. Men i modsætning til sidste sommer, hvor rygterne om en Nato-post kørte for fulde gardiner, er arvefølgen efter Frederiksen nu fastlagt. Så hvem overtager i givet fald stafetten? Og hvorfor står de socialdemokratiske kaffeklubber til at få større indflydelse i partiets interne magtkampe? Det undersøger Slotsholmen i dag, hvor vi også ser frem mod Europa-Parlamentsvalget om en måned. Det lugter af et midtvejsvalg, og alle partierne har noget på spil. 
+Værter: Thomas Buhl og Pia Glud Munksgaard.
+Gæster: Jesper Hvass, politisk korrespondent, Børsen, Christine Cordsen, politisk korrespondent, DR.
+Tilrettelægger: Jonas Gulmann.</description>
+      <pubDate>Fri, 10 May 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:32</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802443138/6d81bc90d33a95615f13b2dbc223df4988336116c47b75a0e1c412a80a8e239a.mp3" type="audio/mpeg" length="35344395" />
+    </item>
     <item>
       <guid isPermaLink="false">11802443137</guid>
       <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-loekkes-hemmelige-bog-11802443137</link>
@@ -760,20 +774,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:20:35</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343248/a2923d1211b7a1d9c54d81afa32d54c1e8605e1ab8456afe144905275a6498cf.mp3" type="audio/mpeg" length="29651419" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802343247</guid>
-      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2023/slotsholmen-loekke-og-den-uendelige-krig-11802343247</link>
-      <title>Løkke og den uendelige krig</title>
-      <description>Krigen mellem Israel og Hamas vokser dag for dag, og Lars Løkke Rasmussens drøm om en fredelig to-stats-løsning virker længere væk end nogensinde. Men Udenrigsministeren har stadig et håb. Så hvordan bremser vi konflikten, der også skaber splittelse i Danmark? Gør regeringen nok for at bakke op om både Israel og civile palæstinensere i Gaza? Og hvad er udsigten til en fredelig løsning på en konflikt, der har varet årtier og bare synes at fortsætte?
-Værter: Pia Glud Munksgaard og Thomas Buhl.
-Gæst: Lars Løkke Rasmussen, Udenrigsminister, Moderaterne.
-Tilrettelægger: Jonas Gulmann.</description>
-      <pubDate>Fri, 10 Nov 2023 16:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:29</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343247/0331b888e280a8edd8ec178dc6260afe7551233f0742517416c64f4494ea710b.mp3" type="audio/mpeg" length="29499931" />
     </item>
   </channel>
 </rss>

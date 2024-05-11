@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:32:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:19:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410195</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410195</link>
+      <title>Fredag 10. maj 2024</title>
+      <description>Hvem kan blive Putins efterfølger? Hvor står våbenhvileforhandlingerne mellem Israel og Hamas nu? Hvem er dr. Phil?
+Dagens værter: Jan Falkentoft og Ole Brink.</description>
+      <pubDate>Fri, 10 May 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:25:13</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410195/fa66a12199cc40aedb264648a3599daebdb31b224525292ae0e0d2377325d0c0.mp3" type="audio/mpeg" length="122718850" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410193</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410193</link>
@@ -2233,38 +2245,6 @@ Dagens værter: Pernille Øhlenschlæger Rudbæk og Søren Carlsen.</description
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:05</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310462/618c232c29ff067b8f14a99a4aea8b176daed259865511f471412b2e9dab2b06.mp3" type="audio/mpeg" length="79332571" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304461</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304461</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Søren Carlsen.
-Og i dagens udgave af Orientering Udsyn:
-Olaf Scholz har præsenteret en ny hård linje på udlændingeområdet og selv kaldt det "et historisk øjeblik". Men det er måske en tilsnigelse - for har vi glemt, at tyskerne heller ikke under Merkel var EU's humanistiske centrum?
-Eleverne i de ældste klasser i Rusland har fået en ny historiebog, der fører den russiske historie helt op til i dag - inklusiv krigen mod Ukraine, som selvfølgelig bliver kaldt "specialoperationen". Hvad viser den nye russiske historiebog om, hvordan Putin tegner billedet af Ruslands fjender?
-Gæster: Moritz Schramm, lektor på Institut for Kultur- og Sprogvidenskaber SDU og Samuel Rachlin, journalist, forfatter og tidl. korrespondent i Rusland og Sovjetunionen.
-Tilrettelæggelse: Inge Scheel Kelstrup og Elise Normann.
-Vært: Brita Kvist.
-Lyddesign: Malte Winter Bothe og Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Mon, 13 Nov 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:14</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304461/946e5e3576758a02532f571bfbd69549d2f18d61cdbd23dc8d8e8e53c1180e12.mp3" type="audio/mpeg" length="79555483" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310461</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310461</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Søren Carlsen.</description>
-      <pubDate>Mon, 13 Nov 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:54:59</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310461/2a960d48896162a6a2becd889c0272f9a57eed600c23d77a2fd5fc9040bfaf0d.mp3" type="audio/mpeg" length="79185115" />
     </item>
   </channel>
 </rss>

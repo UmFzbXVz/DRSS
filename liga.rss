@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:39:56 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652402195</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402195</link>
+      <title>Fredag 10. maj 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Vært: Morten Hausborg.</description>
+      <pubDate>Fri, 10 May 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:51:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402195/0399073122a1896932aa0d6b4dd6ecd27307f7e52347d5cc6a5227fb561a9ebd.mp3" type="audio/mpeg" length="333257743" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652402194</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402194</link>
       <title>Torsdag 9. maj 2024</title>
@@ -37,19 +50,6 @@ Værter: Emil Schiønning og Thomas Loft.</description>
       <itunes:duration>03:53:37</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402194/9dbf60cbb80d224c0e2919ef8cbfcff2d6a145f68d4f778052c2673aa8d4e04e.mp3" type="audio/mpeg" length="336423457" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402191</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402191</link>
-      <title>Mandag 6. maj 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Morten Hausborg og Emil Schiønning.</description>
-      <pubDate>Mon, 06 May 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402191/f746ad883348bed1be5c8522aa8e04c19951bef9884b862886709bc1d08d92be.mp3" type="audio/mpeg" length="338401445" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:39:42 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -60,18 +60,6 @@
       <itunes:duration>00:27:26</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310740/6f6877f1395f79e76773306ba5c6ce074ca1e5b78a66b75f99fe1bde6b009feb.mp3" type="audio/mpeg" length="39507116" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332310739</guid>
-      <link>https://www.dr.dk/lyd/p3/hvem-skal-fyres/hvem-skal-fyres-2023/hvem-skal-fyres-hoerer-vi-syner-13332310739</link>
-      <title>Hører vi syner?</title>
-      <description>Andreas er begyndt at høre syner. Og det er Liva åbenbart også. Eller hvad? Og så har vi quizzet om en kikkert. Det gik ikke, som man kunne drømme om.</description>
-      <pubDate>Fri, 10 Nov 2023 10:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310739/b706805a8bc02fb1febf78b28f9dd53d4c43afea45fc7a29a580d8c26c32b2dc.mp3" type="audio/mpeg" length="26521435" />
     </item>
   </channel>
 </rss>

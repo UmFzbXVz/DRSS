@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:40:06 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -1894,20 +1894,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350219/9cdee63b840251e1254f497000aafe444662a61970fe14ad98d5a8480c94d2f2.mp3" type="audio/mpeg" length="27345691" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350218</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-friis-flyver-fra-reden-13652350218</link>
-      <title>Friis flyver fra reden</title>
-      <description>Årets landsholdsspiller skal snart til VM, og til sommer skal hun til udlandet.
-Emma Friis var dansk topscorer ved den seneste slutrunde, og det har kastet et skifte til en udenlandsk storklub af sig. Indtil sommer fortsætter hun sin tro tjeneste i barndomsklubben Ikast Håndbold, der storspiller i Champions League og søndag møder Team Esbjerg i puljens topkamp.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:02</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350218/8ca9f551c0bcd737d64d366f54663acf2d1554fad4a31f796362c2555aa8dddf.mp3" type="audio/mpeg" length="21656539" />
     </item>
   </channel>
 </rss>

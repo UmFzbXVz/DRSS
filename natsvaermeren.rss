@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:40:12 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463195</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-filmtunes-og-andre-kuriositeter-12422463195</link>
+      <title>Filmtunes og andre kuriositeter</title>
+      <description>En tur rundt i filmmusikkens manege og kuriositeter fra skuffen. Jun Miyake, Bacalov og Bruno Coulais blander sig med Mozart i Egypten, og Vivaldi ude på de vilde våger.
+Vært: Minna Grooss.</description>
+      <pubDate>Sat, 11 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463195/cadb8dca28f6b7287275a9ec02bede8f0034b54acfb426755d80b2c9007c5504.mp3" type="audio/mpeg" length="168471174" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363201</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-lange-fladers-nat-12422363201</link>
       <title>De lange fladers nat</title>
@@ -35,9 +48,9 @@ Vært: Minna Grooss.
       <pubDate>Fri, 10 May 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363201/0a4238b5936f284f65e8397284cd244efd7d937472a08e26fc27d7d74c2e0c7a.mp3" type="audio/mpeg" length="168478149" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363201/45c886db2698e5e28609d16bee19c3ede9abbda650b2c15b12ec7a4c3f98ef00.mp3" type="audio/mpeg" length="82081605" />
     </item>
     <item>
       <guid isPermaLink="false">12422363221</guid>
@@ -402,33 +415,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:30:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463014/f4b1f27342cb727e1ddd0c6f9ab32ec77724f9c7002a1f46d2e131a434ffd4d6.mp3" type="audio/mpeg" length="129601546" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463153</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-to-the-max-12422463153</link>
-      <title>To the Max</title>
-      <description>Komponisten Max Richter er gennemgående figur i aftenens episode af Natsværmeren i anledning af, at den dygtige stemningsmager er aktuel med et nyt soundtrack. Vært Peter Albrechtsen spiller både nyt og gammel Max-musik samt en række andre næsten bogstaveligt talt fortryllende toner.</description>
-      <pubDate>Thu, 11 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463153/39a4dc63ce5df399c0f231b84dbfa670ae7091e397db2c532aaf51b3a78ae951.mp3" type="audio/mpeg" length="168479879" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422163444</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2021/natsvaermeren-lys-i-moerket-12422163444</link>
-      <title>Lys i mørket</title>
-      <description>Natsværmeren hiver lyset ind med anemoner i november og tågen der letter. 
-Vært: Tina Rømer. 
-www.dr.dk/p2
-(Sendt første gang 5. november 2021).</description>
-      <pubDate>Fri, 10 Nov 2023 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422163444/2ddd28ef2eff9c3b0130b6121de9affe1c42ad03ec18e66f3541fc0a365263b8.mp3" type="audio/mpeg" length="168473755" />
     </item>
   </channel>
 </rss>

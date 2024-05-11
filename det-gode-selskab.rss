@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:40:16 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -84,21 +84,6 @@ Vært: Søren Hansen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428192/3d47a5ff83cb745dad00a8e514f75628a8e6afb4d9523b15b5431a7e3d2a3f27.mp3" type="audio/mpeg" length="168481610" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428191</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-ejvind-jacobsen-15452428191</link>
-      <title>Med Ejvind Jacobsen</title>
-      <description>Stifter af Nordsjællands Latterklub, og som siden 2013 har stået for Latterens Verdensdag i Fælledparken.
-Hvorfor er det godt at grine? - Hvordan lærer man at grine uden grund? - Kan man i det hele taget dø af grin?
-Der er masser af "latterlige" spørgsmål til dagens gæst.
-Vært: Jesper Nyborg.</description>
-      <pubDate>Mon, 06 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428191/03c0958c3c6a3a554c2b10ca4daf1f16130277767d74cdeb56877fa333a265f0.mp3" type="audio/mpeg" length="168481438" />
     </item>
   </channel>
 </rss>

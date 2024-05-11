@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:39:53 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,19 +50,6 @@ Værter: Jacob Hinchely, Claes Quaade og Natasha Brock.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428192/06cf77f9343be912347b14e0edfcd2d4e79b5abb07813a336ba9a63d948753a4.mp3" type="audio/mpeg" length="168481592" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452428191</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten-2024/musiktjenesten-16452428191</link>
-      <title>Mandag 6. maj 2024</title>
-      <description>Musiktjenesten giver dig dagens bedste musikhistorier og gør din eftermiddag hyggelig og sjov - og selvfølgelig fuld af god musik! Vi tester din musikalske viden i quizzer og finder de bedste sange inden for forskellige temaer sammen med dig. Velkommen indenfor!
-Værter: Jacob Hinchely, Rebecca Lou og Mette Lindberg.</description>
-      <pubDate>Mon, 06 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428191/b4330c39173e600b4d75d6c5b6794ad4fd3cfad41e9cd6d3a7e99853bb558ba3.mp3" type="audio/mpeg" length="168481592" />
     </item>
   </channel>
 </rss>

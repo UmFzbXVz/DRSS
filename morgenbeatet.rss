@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:39:53 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,19 +50,6 @@ Vært: Goodluck Casper.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432192/053b22ec066baf1e346211cb8d223f9896e14ae727acc94513ac94dbd2745ca3.mp3" type="audio/mpeg" length="252001994" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452432191</guid>
-      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432191</link>
-      <title>Mandag 6. maj 2024</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Jonas Hansen.</description>
-      <pubDate>Mon, 06 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432191/23ad2504c665b6dbc8482fb128b51aecc2815623f96e9b6d6794445ed58cb1c4.mp3" type="audio/mpeg" length="252001415" />
     </item>
   </channel>
 </rss>

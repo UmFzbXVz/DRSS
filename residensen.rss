@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:39:56 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -223,18 +223,6 @@ Gæst på tlf.: Brian Sandberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421161/2545a45ae2b557986a23220e23ee583f6ba71657067d3bbe8db9e6b7f001ad1b.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421154</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-nostalgi-terapi-og-festivalanekdoter-13332421154</link>
-      <title>Nostalgi-terapi og festivalanekdoter</title>
-      <description>Dagens program sætter alt sin lid til TikTok-terapeuter, der fortæller, at vores teenage-playlister rent kemisk gør os i bedre humør. Igen i dag spørger vi: "Fører alle veje til Taylor Swift", og så melder Drømmeholdets Nicolas ind med sin bedste festivalanekdote. Velkommen indenfor!</description>
-      <pubDate>Thu, 11 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421154/007bb5b24970daf1d94bb14ffd1b61c046f942ce9cce5e70eb3c63699eb85af5.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Niels Fez Pedersen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 10 May 2024 15:39:42 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 11:24:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Niels Fez Pedersen.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122464195</guid>
+      <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/fezten-16122464195</link>
+      <title>Fredag 10. maj 2024</title>
+      <description>Fezten er et musikprogram, der fanger stemningen af weekend og spiller sange til fredagsbaren. Positiv upbeat musik, som et indie-disco med klubklassikere og tilsat mini-portrættter. Lydsporet til en privatfezt med afstikkere til både køkkenet og soveværelset.
+Vært: Niels Fez Pedersen.</description>
+      <pubDate>Fri, 10 May 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464195/d1dfa6db950784527a07bf64de1570d8bedd9f92c4568e20a6ccdecbed9ac4d1.mp3" type="audio/mpeg" length="165601585" />
+    </item>
     <item>
       <guid isPermaLink="false">16122464175</guid>
       <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/fezten-16122464175</link>
