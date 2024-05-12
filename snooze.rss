@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:15 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:28:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -373,23 +373,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428161/662f57870d8f34d1ae023290000eed10ba9c58af48b9cf2459a3863f30baa831.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428155</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-ugens-album-droemmende-klavermusik-fra-soesterlandet-18452428155</link>
-      <title>Ugens album - Drømmende klavermusik fra søsterlandet</title>
-      <description>Denne uges album kommer fra den norske drømmer af en virtuos piano-troldmand, Kjetil Mulelid. Vi tager op i fjella og lytter til 'Agoja'.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Fri, 12 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428155/2e5857a5be413a3ce53bb966837d18a6c9dcb585d28078351daf0d4ed077f559.mp3" type="audio/mpeg" length="252002181" />
     </item>
   </channel>
 </rss>

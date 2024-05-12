@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:28:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332418196</guid>
+      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418196</link>
+      <title>Lørdag 11. maj 2024</title>
+      <description>Badet i neonlys dykker Alida Blakaj ned i trends og tendenser inden for hip-hop, R'n'B og rap sammen med andre musikkendere og nye og etablerede kunstnere.</description>
+      <pubDate>Sat, 11 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418196/19be13dacdca7711f51072c8dc39432793ea5abb4b5a4ebc781d23aa1c943d84.mp3" type="audio/mpeg" length="172801482" />
+    </item>
     <item>
       <guid isPermaLink="false">13332418187</guid>
       <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-masser-nyt-musik-og-soendagsvibes-13332418187</link>

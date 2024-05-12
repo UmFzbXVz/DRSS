@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:11:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:21:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -456,24 +456,6 @@ Postludium: Dietrich Buxtehude: O Herre god og frelser from.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405156/a2344339baf6e6aeee50fac6bd8db7f5d292de53dadef0068a31842d93adfcc5.mp3" type="audio/mpeg" length="36001580" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405155</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405155</link>
-      <title>Fredag 12. apr. 2024</title>
-      <description>Præludium:	Matthias Weckmann: Nu fryde sig hver kristen mand.
-Fra det G.T.:	Jeremias 31,31-34.
-Salme: 487, vers 1-5 "Nu fryde sig hver kristen mand".
-Fra det N.T.:	Romerbrevet 8, 1-11.
-Korvers: Axel Madsen: Vi blev altså begravet med ham (tekst: Romerbrev 6,4).
-Salme: 487, vers 6-7.
-Postludium: Christian Præstholm: Nu fryde sig hver kristen mand.</description>
-      <pubDate>Fri, 12 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405155/32f53993b80a67da66d23d940def6eecaba9fc9faaf3187625c7c0b428f2a95a.mp3" type="audio/mpeg" length="36001579" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:17 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:28:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -36,19 +36,6 @@
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429193/6960db6625d7bd5b7a9252fcc8af29ec5312d8fe2c9d3329f0ed3a2b63b5f9da.mp3" type="audio/mpeg" length="168481525" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429192</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-er-blaa-gul-i-dag-15452429192</link>
-      <title>Er blå gul i dag</title>
-      <description>Der er så meget der foregår i Sverige i dag hvor kongen og dronningen er på officielt besøg , hvor vi indgår store aftaler og hvor der fra i aften er semifinale i Eurovisionen.
-Så dele af  Studie 5 er svensk i dag</description>
-      <pubDate>Tue, 07 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429192/9c5bc7b6da69d8685cfd8091a40f0f5da19815e5717aed9bc37137a8f509ee4b.mp3" type="audio/mpeg" length="168481566" />
     </item>
   </channel>
 </rss>

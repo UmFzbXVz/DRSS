@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:28:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452436196</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-svenske-yndlinge-18452436196</link>
+      <title>Svenske yndlinge</title>
+      <description>Jan Johansson spiller sin underfundigt smukke Visa Från Utanmyra, Monica Zetterlunds første demooptagelse dukker op og en amerikansk vokalgruppe synger på svensk - kort sagt alt det bedste fra nabolandet Sverige.
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 11 May 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436196/b8ba9bc79b1bb346e9fa415747c86c6a751903077e976c60c2ce5acbbc0624a2.mp3" type="audio/mpeg" length="168481609" />
+    </item>
     <item>
       <guid isPermaLink="false">18452436186</guid>
       <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/varm-musik-til-foraaret-18452436186</link>

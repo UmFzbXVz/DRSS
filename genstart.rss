@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:28:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460111</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Røg over Rafah</title>
+      <description>Gazas befolkning fejrer det med jubel og dans i gaderne, da Hamas i denne uge accepterer et forslag om våbenhvile. Men håbet om fred bliver kortvarigt. For Israel har ikke accepteret de vilkår, som Hamas nu er gået med til. Samme aften angriber Israel fra luften og morgenen efter triller israelske kampvogne ind og tager kontrol over Gazas grænser. I dagens Genstart taler vi med Jacob Kaarsbo, der står for de sikkerhedspolitiske analyser i Tænketanken EUROPA, om forhandlingerne der stadig er i gang, men bliver beskrevet som et strategisk spil med en brændende bold. Så hvor efterlader det muligheden for en fredsaftale?
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 8/5.</description>
+      <pubDate>Sun, 12 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460111/9e4027c11e089b30be758c73b8561c4be38bd8b72f9fdb14252ac1f6c663593f.mp3" type="audio/mpeg" length="30038278" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460110</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9507,19 +9521,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150093/780a54bb560bd3f170f3ceafa9b103462230d48872b10df8563b374a20571420.mp3" type="audio/mpeg" length="33739082" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150092</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-far-paa-forsiden-11802150092</link>
-      <title>Far på forsiden</title>
-      <description>Henrik Sjus Larsen, tudeprins og rockerrelationer. Nynne Sass Larsen har hele sit liv set sin far på forsider og spisesedler, og nu vil hun stille boulevardpressen til ansvar for den smerte, de har forvoldt hende. Det gør hun i en kronik, der bliver hyldet af politikere for at være modig, men bliver kritiseret af formiddagsaviser for at være fejlbehæftet. Vi spørger Nynne Sass Larsen, om det er chefredaktørerne, der er ansvarlige - eller om hun måske burde rette spejlet mod sin far.
-Vært: Knud Brix.</description>
-      <pubDate>Tue, 11 May 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150092/3d5576e30f7857b9720232799effaa21f57a5371ce0a37f6a9ef476a5d772b43.mp3" type="audio/mpeg" length="31889539" />
     </item>
   </channel>
 </rss>

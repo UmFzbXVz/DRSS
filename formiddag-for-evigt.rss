@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:15 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:28:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -290,20 +290,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424161/f044ccc8f59d93b33b1c11e0d81f707d72350e826654d147ede31954eda32fd5.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424155</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-i-stenbukkens-tegn-18452424155</link>
-      <title>I stenbukkens tegn</title>
-      <description>I det her program får du bevingede ord med på vejen af en gammel radiopersonlighed fra Los Angeles. Vi hører fra lytterne hvordan deres weekend ser ud og som altid er der jazz der passer til lejligheden.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Fri, 12 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424155/3c88c525ab7dce684f7586bc2eb87da2ec145fb954494d3bcae936b4c43cca60.mp3" type="audio/mpeg" length="168479860" />
     </item>
   </channel>
 </rss>

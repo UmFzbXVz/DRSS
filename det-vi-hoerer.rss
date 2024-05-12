@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:16 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:28:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -106,6 +106,22 @@ Vært: Cæcilie Iburg Printzlau.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481841/b59b7b4ca8cc186794b0342750d054a7f078f993e29021455161a778ae61ce8d.mp3" type="audio/mpeg" length="168674568" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481826</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/helle-kristensen/det-vi-hoerer-6-8-at-underholde-berige-og-forstyrre-12422481826</link>
+      <title>6:8 - At underholde, berige og forstyrre</title>
+      <description>Norske komponisthjem med og uden komponister, et transcendentalt konkurrencestykke, et par oversete melodier og ditto komponister blander sig med Bachs blokfløjter og sommermusik.
+Vært: Helle Kristensen.</description>
+      <pubDate>Sat, 11 May 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160006</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481826/4c87cd51e9eb36ed9eaafd7d376d72912970f9e5d3039258863069a6e9e1b22a.mp3" type="audio/mpeg" length="168482129" />
     </item>
     <item>
       <guid isPermaLink="false">12422481825</guid>

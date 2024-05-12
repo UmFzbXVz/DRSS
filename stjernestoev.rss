@@ -9,7 +9,7 @@ Vært: Lonnie Kjer.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:25:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Lonnie Kjer.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452436196</guid>
+      <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-whitney-houston-15452436196</link>
+      <title>Whitney Houston</title>
+      <description>I 'Stjernestøv' får du 2 timer med fokus på én særlig kunstner: Højdepunkt, lavpunkt, vendepunkt og anekdoter om hits og alt dét indimellem fra de sangere, 'vi' voksede op med.  
+Vært: Lonnie Kjer.</description>
+      <pubDate>Sat, 11 May 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452436196/0b15115d6aa1f01c926d6c9e676572bbd32c8a0c47d93019f137a0e81fd3a6f4.mp3" type="audio/mpeg" length="168481545" />
+    </item>
     <item>
       <guid isPermaLink="false">15452436186</guid>
       <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-billy-joel-15452436186</link>

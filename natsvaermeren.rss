@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 11 May 2024 11:24:37 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 07:28:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -401,20 +401,6 @@ Vært: Tina Rømer.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463021/e9c318c16b359b61eb6977b88667aebda232cdee0547845998534f155ff1fa0e.mp3" type="audio/mpeg" length="172801549" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463014</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-graenseloest-12422463014</link>
-      <title>Grænseløst</title>
-      <description>Dobrinka Tabakova møder Bach, der møder Oumou Sangaré, der møder Panufnik i Natsværmeren grænseløse rum, hvor du kan lade passet ligge derhjemme.
-Vært: Minna Grooss.
-(Sendt første gang 5. januar).</description>
-      <pubDate>Fri, 12 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:30:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463014/f4b1f27342cb727e1ddd0c6f9ab32ec77724f9c7002a1f46d2e131a434ffd4d6.mp3" type="audio/mpeg" length="129601546" />
     </item>
   </channel>
 </rss>
