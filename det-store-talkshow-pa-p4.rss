@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:25:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -83,21 +83,6 @@ URO: Musikeren URO står bag sangene "Godthåbsvej" og "Føles Godt", der kan h�
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440166/0918d8328744b9ee12a2d32f0b617aa32272a24bfeebcef2c8be48f234b84f9c.mp3" type="audio/mpeg" length="168482180" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452440156</guid>
-      <link>https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/det-store-talkshow-15452440156</link>
-      <title>Lørdag 13. apr. 2024</title>
-      <description>De to værter Cecilie Hother og David Mandel får hver lørdag besøg af tre kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.
-Frederik Cilius: Han er uddannet musiker og klarinettist, og så er han samtidig skuespiller og satiriker. Frederik Cilius har været en stor del af Operarejsen og Den Klassiske Musikquiz på DR, og nu er han aktuel i sæson 2 af den populære DR dramaserie "Orkestret", hvor han spiller klarinettisten Bo Høxenhaven.  Sæson 2 af "Orkestret" havde premiere fredag den 12. april. 
-
-Louisa Lorang: Kok og kogebogsforfatter Louisa Lorang har i mange år været en af de store tv-kokke herhjemme og været vært på forskellige madprogrammer. Louisa Lorang har netop udgivet kogebogen "Bælgfrugt for begyndere", hvor hun inddrager bælgfrugter i en masse forskellige retter.</description>
-      <pubDate>Sat, 13 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440156/c07bf610f3ff618ba3b8293e63a953746b441a06de0b8ba1ca888f49e432c383.mp3" type="audio/mpeg" length="168481602" />
     </item>
   </channel>
 </rss>

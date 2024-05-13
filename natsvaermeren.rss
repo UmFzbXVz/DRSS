@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:28:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,33 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463053</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-ikke-alt-stemmer-12422463053</link>
+      <title>Ikke alt stemmer</title>
+      <description>Ikke alt er perfekt som i en drøm. I det krydsfelt, i den uvished, og i den uro skabes skønheden. 
+Vært: Minna Grooss.
+(Sendt første gang 1. februar).</description>
+      <pubDate>Mon, 13 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463053/7b4c31f3bb97c9e193802a0a3e1c8371e981faff4ead5aa4d6b8f1e6eeee81f5.mp3" type="audio/mpeg" length="168479773" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422463196</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tidsrejse-12422463196</link>
+      <title>Tidsrejse</title>
+      <description>Når en tidsdimension ikke er nok. 
+Vært: Katrine Ring.</description>
+      <pubDate>Sun, 12 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463196/cd0f8c769a3e63fa5c693561c9ee2a9cae3b5fa9df61f5cf88beb56a98bd13ee.mp3" type="audio/mpeg" length="168481402" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463195</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-filmtunes-og-andre-kuriositeter-12422463195</link>
@@ -387,20 +414,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463156/86fda5229d63fb31058aee1955e732a3b4242010c2f08cdab3db5600abcd054b.mp3" type="audio/mpeg" length="168480463" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463021</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-efter-lukketid-12422463021</link>
-      <title>Efter lukketid</title>
-      <description>Når dagen lukker, verden lukker ned, øjnene lukker i, åbner sig en anden verden fuld af nattens lyde og musikken fra Natsværmeren fra nær og fjern.
-Vært: Tina Rømer.
-(Sendt første gang 9. januar).</description>
-      <pubDate>Sat, 13 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463021/e9c318c16b359b61eb6977b88667aebda232cdee0547845998534f155ff1fa0e.mp3" type="audio/mpeg" length="172801549" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:28:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,26 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400011</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-freja-klint-sandberg-og-elias-sadaq-15452400011</link>
+      <title>Freja Klint Sandberg &amp; Elias Sadaq</title>
+      <description>Freja går i præventiv parterapi med sin kæreste, de taler om tingene, og det går i det hele taget ret godt. Men (for der er et lille men) Freja har brug for, at der er 100 procent styr på tingene og hendes kæreste har brug for (en gang imellem) at tage tingene 100 procent, som de kommer. Og hvad gør man så, når de to behov ramler ind i hinanden? 
+Elias synes egentlig også, det kører ret godt, men så faldt snakken for nylig på det med at få børn. Det er Elias ikke klar til. Personen, Elias vil give alt, beder ham om det, han bare ikke kan give lige nu. Men hvis man nu alligevel er en person, der er vant til at lade andres betingelser fylde, så kan man vel godt give sig - eller hvad?
+Vi taler også om, hvornår Jytte sidst er blevet forført (eller kurtiseret), om hvad der sker når en tornado og en regnbue slår ned samme sted, og om hvorfor det egentlig er så pokkers stort et problem, hvis en fyr sover på et sort stræklagen??? 
+Gæster: Freja Klint Sandberg &amp; Elias Sadaq. 
+Ekspert: Jytte Vikkelsøe. 
+Vært: Sebastian Lynggaard.  
+Producer: Cæcilie Helena Denman-Gretoft. 
+Musik: "Hold up" Beyonce. 
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 13 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:39:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400011/bd1a513333b69c7555101294bdb5b5e590ca3165bfce7f5c3e89938aaf905bb6.mp3" type="audio/mpeg" length="143074233" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400010</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-ida-sophia-og-zelma-lewerissa-15452400010</link>
@@ -2007,22 +2027,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>01:44:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195320/73b68b1d34cabffc2a4e95893a1f476997d788b2b2d4301afc21c00986109016.mp3" type="audio/mpeg" length="150992109" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195319</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hjerteflimmer-for-voksne-carla-chloe-mickelborg-og-mazen-ismail-13332195319</link>
-      <title>Carla Chloe Mickelborg &amp; Mazen Ismail</title>
-      <description>Carla spørger, hvordan hun dog kan møde en mand, som hun ikke hurtigt bliver træt af?  Mazen vil gerne vide, om man godt kan elske en person, selv om man har forladt dem?
-Medvirkende: Instagrammer Carla Chloe Mickelborg, forfatter Mazen Ismail og parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 12 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:19:13</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195319/a5c789fddc8a316bf0aa21ed995415431d68ea42415256246ddc8c934d99817e.mp3" type="audio/mpeg" length="114080301" />
     </item>
   </channel>
 </rss>

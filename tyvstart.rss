@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:28:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450095</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-eventyret-om-ob-s-nedrykning-13652450095</link>
+      <title>Eventyret om OB's nedrykning</title>
+      <description>Der er krise på Fyn. OB er på randen af nedrykning fra Superligaen, for efter weekendens kampe har fynboerne fire point op til Vejle på den rigtige side af stregen.
+Men hvad i alverden er der gået galt for OB, der ikke har vundet på hjemmebane i hele sæsonen? Hvem er den onde skurk, og hvem kan blive den helt store helt, der redder klubben fra den totale fiasko?
+Vært: Emil Schiønning.</description>
+      <pubDate>Mon, 13 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450095/466b1bc418baa9258b357dab3168ffc03e2d27144f64273b3ce4f6ff477579f4.mp3" type="audio/mpeg" length="26939387" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450094</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-kent-nielsen-masterclass-13652450094</link>

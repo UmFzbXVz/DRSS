@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:27:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -73,20 +73,6 @@ Det tekniske er simpelt: brug din telefon eller diktafon og send optagelser af 2
       <itunes:duration>01:54:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463166/e99f4c9dfaec109dcfd13149ccf7b3afea0c24670474831d428311c15ff2a962.mp3" type="audio/mpeg" length="164201352" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122463156</guid>
-      <link>https://www.dr.dk/lyd/p6beat/dj-brevets-musikprogram/dj-brevets-musikprogram-2024/dj-brevets-musikprogram-014-fra-tilskuerpladserne-paa-livets-stadion-16122463156</link>
-      <title>014 - Fra tilskuerpladserne på livets stadion</title>
-      <description>Ansporet af livets mange og store problemer forsøger DJ Brevets i aften at transmitere fra en alternativ dimension. Det drejer sig om den femte eller den niende dimension alt efter hvordan man vælger at tælle sine dimensioner. Hvilken dimension lever du i?
-
-At have forladt den tredje dimension, den almindelige dimension, og blive til en luftart har både fordele og ulemper. Så bliv til luft og tag plads på en af de mange ledige interdimensionelle tilskuerpladser på livets stadion. Så lytter og tænker vi som vi bedst kan.</description>
-      <pubDate>Sat, 13 Apr 2024 19:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:54:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122463156/62fee60d70e3267f950121ec8bd7f626923a5684877ca24cb51dd59d971e6112.mp3" type="audio/mpeg" length="164243404" />
     </item>
   </channel>
 </rss>

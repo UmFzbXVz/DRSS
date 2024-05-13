@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:25:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,17 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c148443243f95e2c7a27.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">16122414197</guid>
+      <link>https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2024/norsken-svensken-og-dansken-trolling-og-sandhed-16122414197</link>
+      <title>Trolling og sandhed</title>
+      <description>Er Norges rødeste ungdomsleder et tegn i tiden? Har Sverigedemokraterne drevet en trollfabrik? Og hvor mange stedforældre orker man?</description>
+      <pubDate>Sat, 11 May 2024 07:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122414197/a3a8d582094e96e3c0544eb16fc466963edbaeaa60c1f89a76da3a9f1cfbd866.mp3" type="audio/mpeg" length="82081485" />
+    </item>
     <item>
       <guid isPermaLink="false">16122414187</guid>
       <link>https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2024/norsken-svensken-og-dansken-haevnen-er-soed-16122414187</link>
@@ -276,17 +287,6 @@
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:11</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122314467/1ea2f924611d82e27b4a7a8339d8b37c68acfcf8621b4f800bc2ec1b9e97cd0f.mp3" type="audio/mpeg" length="80926007" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122314457</guid>
-      <link>https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2023/norsken-svensken-og-dansken-svensk-paa-ai-rabisk-og-ukrainsk-krigstraethed-16122314457</link>
-      <title>Svensk på Ai-rabisk og ukrainsk krigstræthed</title>
-      <description>Har sverigesdemokraten Jimmie Åkesson lært sig arabisk? Er vi pludseligt blevet udmattet af krigen i Ukraine? Og hvem er mon vinder af den nordiske nabokrig om coronahåndtering?</description>
-      <pubDate>Sat, 11 Nov 2023 07:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:11</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122314457/8bc403c02e90bb62f9b37f23466e5fd7fd32f6e4a81b38dddc92ccbfdce86443.mp3" type="audio/mpeg" length="80925787" />
     </item>
   </channel>
 </rss>

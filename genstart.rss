@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:28:13 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460112</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Lyssky - Kirkerup-komplekset</title>
+      <description>På et mørkt stisystem ved Sorø bliver en 15-årig efterskolepige forsøgt bortført og voldtaget. Fem måneder senere bliver en 13-årig pige bortført, voldtaget og holdt fanget i 27 timer. Da den formodede gerningsmand bliver fanget, går det med det samme op for politiet, at de to sager måske kan kobles til det syv år gamle drab på den 17-årige Emilie Meng. Det rejser spørgsmålet: Har en dansk serieforbryder i en årrække forsøgt at bortføre, voldtage og endda dræbe en ung pige på Vestsjælland, uden at han blev stoppet af politiet? Genstart har i dag overladt sendefladen til podcasten "Lyssky - Kirkerupkomplekset" der samler fortællingerne om de tre alvorlige forbrydelser, og undersøger, hvilke beviser, der kommer til at spille en afgørende rolle i det, der bliver kaldt en af Danmarkshistoriens største retssager, der begynder i næste uge. Hør 1. afsnit her, resten af serien kan du finde ved at søge efter "Lyssky" i DR Lyd.
+Program publiceret i DR Lyd d. 9/5.</description>
+      <pubDate>Mon, 13 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:34:41</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460112/06bdb04092b1b5cbc1e94cd0da499557bb7f2634164777844efcb24d3c52de4e.mp3" type="audio/mpeg" length="49968462" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460111</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9508,19 +9521,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:24:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150095/a8703438478eb48229319eaf8d9c4881d37315d5e5a791d549c8bf657fe54bc8.mp3" type="audio/mpeg" length="34902596" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150093</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-bill-og-melinda-skal-skilles-11802150093</link>
-      <title>Bill og Melinda skal skilles</title>
-      <description>Bill og Melinda Gates skal skilles. En nyhed, der giver genlyd på både Wall Street og i verdens fattigste lande. For med penge fra Microsoft har ægteparret grundlagt verdens største, private humanitære fond "Bill and Melinda Gates foundation", der hvert år pumper milliarder af dollars ud i bekæmpelse af ekstrem fattigdom og forbedring af folkesundheden. Men fonden er også en af verdens mest lukkede. Adam Moe Fejerskov, seniorforsker ved DIIS, er en af de få, der har fået adgang til fonden. Han vurderer, hvad det betyder, at 27 års ægteskab mellem de to superfilantroper nu er slut.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 12 May 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:25</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150093/780a54bb560bd3f170f3ceafa9b103462230d48872b10df8563b374a20571420.mp3" type="audio/mpeg" length="33739082" />
     </item>
   </channel>
 </rss>

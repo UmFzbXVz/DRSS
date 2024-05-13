@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:28:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332418197</guid>
+      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418197</link>
+      <title>Søndag 12. maj 2024</title>
+      <description>Badet i neonlys dykker Alida Blakaj ned i trends og tendenser inden for hip-hop, R'n'B og rap sammen med andre musikkendere og nye og etablerede kunstnere.</description>
+      <pubDate>Sun, 12 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418197/e2d3eee09b21ac838ee8f0341846369f2a08cc4a54cff6843b496486fb015f93.mp3" type="audio/mpeg" length="172801482" />
+    </item>
     <item>
       <guid isPermaLink="false">13332418196</guid>
       <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-13332418196</link>
@@ -121,19 +133,6 @@ Desuden er lørdagsstemningen fuldstændig i højsæde, og Alida har nogle bounc
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418157/907952fd1a83bbacea53f797929fc08f9fdebc5262ac72bf6d56a3eb4f052c38.mp3" type="audio/mpeg" length="172802058" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418156</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-sun-s-out-amapiano-og-afrobeats-all-the-way-13332418156</link>
-      <title>Sun's out! Amapiano og afrobeats all the way</title>
-      <description>Foråret er landet, og det fejrer Alida ved at tage en musikalsk rejse til kontinentet Afrika, hvor hun spiller det bedste fra to genrer: Amapiano og Afrobeats.
-Du kan dog stadig høre alt det bedste r'n'b og hiphoppens verden - nyt såvel som gammelt.</description>
-      <pubDate>Sat, 13 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418156/6dc172981a8d59812ee539ea64b3b17ef7e0e489eb9a00849fddc8d75c18c4dc.mp3" type="audio/mpeg" length="172802058" />
     </item>
   </channel>
 </rss>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/peter-prepper" rel="self" type="application/rss+xml" />
+    <title>Peter prepper</title>
+    <link>https://www.dr.dk/lyd/special-radio/peter-prepper-5426250956000</link>
+    <description>Peter Falktoft undersøger, hvordan vi som befolkning kan forberede os bedst muligt på krig og katastrofer. Men hvilke udfordringer bør du forberede dig på? Hvilket gear er det bedste at investere i? Hvad for noget mad og medicin har du brug for, hvis ulykken rammer? Og hvordan prepper man egentlig til et cyberangreb? Det er bare nogle af de spørgsmål, du kan få svar i Peter prepper.
+
+Produceret for DR af PodAmok.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Mon, 13 May 2024 06:41:18 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/peter-prepper.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6638d73ecb5a7630228433f5.jpg</url>
+      <title>Peter prepper</title>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper-5426250956000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6638d73ecb5a7630228433f5.jpg" />
+    <category>Leisure</category>
+    <category>Arts</category>
+    <itunes:category text="Leisure" />
+    <itunes:category text="Arts">
+      <itunes:category text="Food" />
+    </itunes:category>
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493201</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-16122493201</link>
+      <title>Mandag 13. maj 2024</title>
+      <description>Peter Falktoft undersøger, hvordan vi som befolkning kan forberede os bedst muligt på krig og katastrofer. Men hvilke udfordringer bør du forberede dig på? Hvilket gear er det bedste at investere i? Hvad for noget mad og medicin har du brug for, hvis ulykken rammer? Og hvordan prepper man egentlig til et cyberangreb? Det er bare nogle af de spørgsmål, du kan få svar i Peter prepper.
+
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 13 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:44:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493201/f34f41f2a78959c830bdca8afe96ae8e2d5bc1ac2b128d952d933ba60372a9e8.mp3" type="audio/mpeg" length="64674630" />
+    </item>
+  </channel>
+</rss>

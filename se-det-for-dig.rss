@@ -10,7 +10,7 @@ Redaktør: Mikkel Bagger.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:27:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Redaktør: Mikkel Bagger.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452440197</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-det-bliver-raat-musik-fra-quentin-tarantinos-film-18452440197</link>
+      <title>Det bliver råt - musik fra Quentin Tarantinos film</title>
+      <description>Den glade og brutale filmmand Quentin Tarantinos film sprudler af kærlighed til musik, og den får i ekstrem grad plads til at blomstre og blive hørt. Ofte spillet på radioer filmene, og selv radioværter får lov at have en fremtrædende rolle i instruktørens film!
+Det bliver varmt, hurtigt og flabet i dagens udsendelse, for det er mest soul, funk og deslige, der fylder i Tarantinos film. Men få har som ham gjort "gammel" musik moderne. Og det fortjener han at blive hyldet for. 
+Vært og tilrettelægger: Ida Rud.
+Redaktør: Mikkel Bagger.</description>
+      <pubDate>Sun, 12 May 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452440197/e0db0118a0b08fd53a3153a74ebe776a57b1f8f67756b8fbebe378b437109f54.mp3" type="audio/mpeg" length="168481616" />
+    </item>
     <item>
       <guid isPermaLink="false">18452440187</guid>
       <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-besaettelsen-og-befrielsen-18452440187</link>

@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 12 May 2024 07:27:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:41:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,18 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436619</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-med-kajsa-vala-og-hendes-forhold-til-emmylou-harris-16452436619</link>
+      <title>Med Kajsa Vala og hendes forhold til Emmylou Harris</title>
+      <description>Vi skal have fat i de helt dybe rødder, når vi sammen kaster os ned i Emmylou Harris album "Wrecking Ball", som rummer de store følelser, men holdt i stram snor og forsøgt tæmmet. Men kan man overhovedet det?</description>
+      <pubDate>Sun, 12 May 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:58:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436619/58cdffcf2fa89e686be04a7fbc24b5c3a10ce08fb904a0abcb05a2320bb129e3.mp3" type="audio/mpeg" length="83828554" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436618</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-jagten-paa-sandheden-eller-bare-noget-der-stoejer-og-boejer-paa-den-helt-rigtige-maade-med-blue-foundation-og-my-bloody-valentine-16452436618</link>
@@ -270,18 +282,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>00:58:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354640/06b344009e3fb4809db93dda5ea30190be0a8ce9cda72a1141650f1f1895a1bd.mp3" type="audio/mpeg" length="83585530" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354638</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-bandet-yor-og-little-dragon-new-me-same-us-16452354638</link>
-      <title>Bandet Yör og Little Dragon "New Me, Same Us"</title>
-      <description>Marie og Viktor fra bandet Yör er på banen for at fortælle om, hvorfor Little Dragon er en af deres yndlingsgrupper. Det bliver rørende, sjovt og dejligt nørdet, og vi bliver klogere på, hvorfor musik har så stor en foranderlig kraft.</description>
-      <pubDate>Sun, 12 Nov 2023 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:04:41</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354638/18bea7b0d87579b882dc03f2ffc27c88b89b0c1f11fd5f8fa319f6f89b846fab.mp3" type="audio/mpeg" length="93150811" />
     </item>
   </channel>
 </rss>
