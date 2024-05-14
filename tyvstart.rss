@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450096</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-amerikas-nye-darling-13652450096</link>
+      <title>Amerikas nye darling</title>
+      <description>Caitlin Clark er spået en fremtid som en af historiens allerstørste.
+Den 22-årige basketstjerne debuterer natten til onsdag i kvindernes NBA efter at have slået rekord på rekord i sin tid på college.
+Clark har trukket så meget hype med sig, at hun ifølge eksperter kan ændre kvindernes NBA og basket som sport i almindelighed.
+I dagens episode fortæller danske Frida Formann, hvordan det har været at spille mod Caitlin Clark i USA.
+Vært: Emil Schiønning.</description>
+      <pubDate>Tue, 14 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450096/33351aeef17f5f8b777b3aba2b603b539d32de09b47606295f079c80f6dd762b.mp3" type="audio/mpeg" length="24441279" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450095</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-eventyret-om-ob-s-nedrykning-13652450095</link>
@@ -1893,21 +1909,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:13:54</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350220/f5cc7e54fc11a8d5d7ad61f4203a86fd1a005f57488197e02bf77c43f5dbfbfc.mp3" type="audio/mpeg" length="20033371" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350219</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-rune-i-storform-ved-saesonfinalen-13652350219</link>
-      <title>Rune i storform ved sæsonfinalen</title>
-      <description>En bittersød oplevelse for Holger Rune! Danskeren tabte søndag til Novak Djokovic i sin første gruppekamp ved sæsonfinalen. Men han gav serberen kamp til streg, hvilket lover godt for resten af turneringen.
-Hvad skete der i søndagens midnatsgyser? Hvorfor har Holger Rune stadig gode chancer i turneringen? Og hvor vigtig er sæsonfinalen for spillerne sammenlignet med grand slams?
-Det svarer tennisreporter Kasper Aleksander Thrane på i dagens afsnit af Tyvstart.
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 13 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350219/9cdee63b840251e1254f497000aafe444662a61970fe14ad98d5a8480c94d2f2.mp3" type="audio/mpeg" length="27345691" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,38 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122462197</guid>
+      <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-lina-hashim-og-det-flydende-rum-16122462197</link>
+      <title>Lina Hashim og det flydende rum</title>
+      <description>Kunstner Lina Hashim fortæller om hendes fantastiske processer, tanker og idéer. 
+
+Time 1 
+
+Mask -  Radical Fashion
+DNA - Yangze
+Haenim - Rahill
+poor mum - molly drake
+Good old Owl - Niobe
+Ighman - Meteor Airlines
+Spinning song - Nick Cave and the bad seeds
+
+Time 2
+
+Loose my mind - Emel og Nayomi
+Rehearsel - Ekko
+Sun kil moon - Birthday girl
+Lazer Lights - Chantel van t
+Kennie Rogers - Where does Rosie Go 
+OTOOTO - Take a Little Time 
+Huw Marc Bennett - Ffarwel i Langyfelach Ion</description>
+      <pubDate>Sun, 12 May 2024 19:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462197/a1c2768d594701b1c53418ab2324f2638710ea2e8c826c92974dbb85c2813b9f.mp3" type="audio/mpeg" length="168482159" />
+    </item>
     <item>
       <guid isPermaLink="false">16122462187</guid>
       <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-emma-holten-og-den-kaempestore-tiramisu-16122462187</link>
@@ -123,37 +155,6 @@ Frederik Valentin - Blue</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462167/4efa3daff68d586dae4313aa38bbb34f77a723a4130464309069ddb3eaa128aa.mp3" type="audio/mpeg" length="168482169" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122462157</guid>
-      <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-danie-rye-og-det-knitrende-tag-16122462157</link>
-      <title>Danie Rye og det knitrende tag</title>
-      <description>Fotograf, dokumentarist og foredragsholder Daniel Rye har haft et liv lidt vildere end de fleste. I dette program fortæller han om hvad det har gjort ved hans måde at eksistere som skabende menneske i livet på
-
-Time 1
-Mary J. Blige - Kitchen
-Kogekunst - Løfter Trygt
-Sound Kitchen - The Bread
-Otto Brandeburg - Noget om Kogekunst
-Patti Page - Cross Over The Bridge
-Con Funk Shun - Lovin fever
-Smokey Robinson - A Fork In The Road
-The Raveonettes - Wine
-Nancy Sinatra - Summer Wine
-
-Time 2 
-
-Favlien Berger - Jericho 
-Eddie Skoller - En Enkelt Sang om Frihed
-Swan Lee - How Forgiveness Goes 
-Dival Timothy - Gonna Be
-Björk - Earth Introducers</description>
-      <pubDate>Sun, 14 Apr 2024 19:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462157/9d6fb328fd6e9e578700d41981189f34a532c56eab34f10a29bf2a6809604818.mp3" type="audio/mpeg" length="168482179" />
     </item>
   </channel>
 </rss>

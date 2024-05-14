@@ -10,7 +10,7 @@ Vært: Marie Hobitz.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -71,21 +71,6 @@ Gæst: Emil Lange.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424167/7ad2e6b3a328e0d266bf0d423183ef23ba9197779fe48d8b22dd40b48d7d0676.mp3" type="audio/mpeg" length="172801597" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332424157</guid>
-      <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-blaest-13332424157</link>
-      <title>Blæst</title>
-      <description>'Du ved det' helt sikkert godt, så find telefonen frem, og gør dig klar til at blive quizzet i al den musik, du elsker at lytte til!
-Der er eksklusive P3-sokker på højkant og vanvittig søndagshygge, når Marie inviterer indenfor i P3's helt eget musikquizprogram.
-Vært: Marie Hobitz.
-Gæster: Blæst.</description>
-      <pubDate>Sun, 14 Apr 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424157/9fb7044bfa344c1cdc0a816dfab7ce76e818eed18ecd96a4d8270518ddfff12b.mp3" type="audio/mpeg" length="172801593" />
     </item>
   </channel>
 </rss>

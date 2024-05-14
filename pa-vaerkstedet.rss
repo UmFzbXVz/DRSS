@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:05 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422453201</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet/paa-vaerkstedet-katrine-marie-guldager-forfatter-12422453201</link>
+      <title>Katrine Marie Guldager, forfatter</title>
+      <description>Når forfatteren Katrine Marie Guldager skriver på sine romaner, så har hun brug for fuldstændigt ro. Hvad betyder roen for hendes kreative processer og hvad sker der, hvis hun bliver forstyrret? Det taler psykologiprofessor Lene Tanggaard med Katrine Marie Guldager om i dagens udsendelse.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 13 May 2024 18:25:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422453201/f7f1f10469eadc761efba8f76faeb0593cba48677ed3862a409236cb3cf4e69b.mp3" type="audio/mpeg" length="79202187" />
+    </item>
     <item>
       <guid isPermaLink="false">12422353251</guid>
       <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet-2023/paa-vaerkstedet-emma-holten-feministisk-aktivist-12422353251</link>

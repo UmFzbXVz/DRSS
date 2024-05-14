@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:14 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -121,18 +121,6 @@ Desuden er lørdagsstemningen fuldstændig i højsæde, og Alida har nogle bounc
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418166/41811122b18fe73d66c5cf922452b018fd0c63c78dc78e1e579bc8fe30012808.mp3" type="audio/mpeg" length="172801482" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418157</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-roskilde-tema-13332418157</link>
-      <title>Roskilde-tema!</title>
-      <description>Plakaten for årets Roskilde Festival er signed, sealed og delivered. Alida tager et dyk i de nye navne og spiller de allerbedste numre fra r'n'b- og hiphopartister, som lægger vejen forbi festivalen.</description>
-      <pubDate>Sun, 14 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418157/907952fd1a83bbacea53f797929fc08f9fdebc5262ac72bf6d56a3eb4f052c38.mp3" type="audio/mpeg" length="172802058" />
     </item>
   </channel>
 </rss>

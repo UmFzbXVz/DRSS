@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433201</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433201</link>
+      <title>Mandag 13. maj 2024</title>
+      <description>Ny motorvejsforbindelse skal tredjebehandles i Folketinget i morgen, den løber over øen Egholm i Aalborg ved Limfjorden. Er der asbest i Limfjorden, der hvor egholmforbindelsen skal etableres, og hvilke miljøskadelige konsekvenser kan det have? Læger skal fortsat kunne nægte at medvirke til en abort, hvis de strider med deres religiøse overbevisning. Det mener lægeforeningen. Skal religion vægte højere end kravet om abort? Socialdemokraternes EP medlem Niels Fuglsang vil have forbud mod bure i europæisk landbrug. Vil det føre til bedre dyrevelfærd? 
+Dagens værter: Bjarne Steensbeck &amp; Pernille Rudbæk.</description>
+      <pubDate>Mon, 13 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:56</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433201/9ddbc2a6bb51cfe076aa77b7787ebcd87fb1d180728bebfa07c13f5a9f664a12.mp3" type="audio/mpeg" length="237523041" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433196</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433196</link>
@@ -1830,18 +1842,6 @@ Dagens værter: Julie Toft og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:53</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333465/78c232d4278f22c11fd6a3657d80575c41dea5d090cefc2dfe6673a326c32ad7.mp3" type="audio/mpeg" length="237443555" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333464</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333464</link>
-      <title>Torsdag 16. nov. 2023</title>
-      <description>Hvad ved vi om det israelske militærs indtrængen på al-Shifa? Brugte politiet unødig magtanvendelse under weekendens derby-kamp? Og hvordan ser løngabet ud mellem kvinder og mænd i Danmark?
-Dagens værter: Søren Carlsen og Ole Brink.</description>
-      <pubDate>Thu, 16 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:39:32</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333464/e15edbf596cc4dbf02c912d0215f456f2e5c9a2d23769d797c291314fa6e512d.mp3" type="audio/mpeg" length="229752996" />
     </item>
   </channel>
 </rss>

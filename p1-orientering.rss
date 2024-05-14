@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:27:48 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410201</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410201</link>
+      <title>Mandag 13. maj 2024</title>
+      <description>Hvilke konsekvenser kan det have, hvis kulturministeren skærper lovgivning i forhold til deepfake-videoer?
+Hvad er der på spil for georgierne, hvis omstridt lov bliver stemt ind? Hvad har Branco betydet for dansk rap?
+Dagens værter: Søren Carlsen og Anne Kirstine Hermann.</description>
+      <pubDate>Mon, 13 May 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:22:45</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410201/30cdb9b46c03be9475f0f87894b4ee6017eabffaa4e8ccb8833feb5afa5eb4a9.mp3" type="audio/mpeg" length="119173687" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410195</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410195</link>
@@ -2144,38 +2157,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:12</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302465/3dbf26f378ef78879a96490be88896e88dffaba5310c7d55d18178527e497850.mp3" type="audio/mpeg" length="79492491" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304464</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304464</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Anne Kirstine Hermann og Jan Falkentoft.
-Og i dagens udgave af Orientering Udsyn:
-Pårørende til de mange israelske gidsler marcherer i Tel Avivs gader - de mener ikke, at regeringen gør nok for at få dem fri. I over en måned har godt 240 været holdt gidsler af Hamas og bekymringen for dem bare vokser. Men hvilken rolle spiller de i krigen mellem Hamas og Israel?
-En ny aftale sikrer socialisterne og Pedro Sánchez regeringsmagten efter flere måneders dødvande i spansk politik. Catalanske separatister får amnesti - Sánchez beholder premierministerposten. Men aftalen har skabt store protester i flere spanske storbyer - for har Sánchez sat egne ambitioner over spansk lov og ret? Eller har han i virkeligheden knækket koden til at omfavne separatistbevægelserne?
-Gæster: Anders Jerichow, seniorkorrespondent Politiken og Morten Heiberg, professor i historie på Københavns Universitet.
-Tilrettelæggelse: Nickolaj Sander og Inge Scheel Kelstrup.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Thu, 16 Nov 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:12</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304464/cf201767a25cfb5324d179f54e651c030a453d565a2843f423d81198a2fc6830.mp3" type="audio/mpeg" length="79493639" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310464</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310464</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Anne Kirstine Hermann og Jan Falkentoft.</description>
-      <pubDate>Thu, 16 Nov 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:10</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310464/e6c5ac4ff67c6eee9f4f62344f28eea6a3a37993c7c14cba864f2955376f7a2d.mp3" type="audio/mpeg" length="79465928" />
     </item>
   </channel>
 </rss>

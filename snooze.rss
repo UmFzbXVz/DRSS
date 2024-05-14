@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:10 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428201</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-ned-fra-himlen-igen-18452428201</link>
+      <title>Ned fra himlen igen</title>
+      <description>Efter en lille kristi himmelfarsferie er nogle snoozers nok lidt ekstra trætte denne morgen. Vi lader lidt af himlen flyde ud af højtalerne og sikrer en god start på ugen med himmelsk jazz.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Mon, 13 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428201/707df227d36e0d097f9482b50c708dd03943e69a0e854ef2de965711ec8f4e61.mp3" type="audio/mpeg" length="252001610" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428195</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-p8-paa-spot-med-girls-in-airports-teitur-og-emmeluths-amoeba-18452428195</link>

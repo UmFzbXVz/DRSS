@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:26 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463201</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-majnat-12422463201</link>
+      <title>Majnat</title>
+      <description>Bøgen er sprungen ud, solsorten synger, og der er håb i alt det grønne, banalt som det lyder. Natsværmeren har lavet et soundtrack til forårets mange sindstilstande.
+Vært: Minna Grooss.</description>
+      <pubDate>Tue, 14 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463201/4932a6f187c8bd59aa30f13a5ed35a216b38036dbea9d606296e4328dd866288.mp3" type="audio/mpeg" length="168482107" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463053</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-ikke-alt-stemmer-12422463053</link>
       <title>Ikke alt stemmer</title>
@@ -35,9 +48,9 @@ Vært: Minna Grooss.
       <pubDate>Mon, 13 May 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463053/7b4c31f3bb97c9e193802a0a3e1c8371e981faff4ead5aa4d6b8f1e6eeee81f5.mp3" type="audio/mpeg" length="168479773" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463053/ab93d357a8a2fe045ff908eeb9365397d2fa533df6c683074028d0aa768ae89b.mp3" type="audio/mpeg" length="172801501" />
     </item>
     <item>
       <guid isPermaLink="false">12422463196</guid>
@@ -401,19 +414,6 @@ Vært: Minna Grooss.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463033/1cbf855e22586038d3e21b91c220593374fb282c41dcdf43016739b7db7609f0.mp3" type="audio/mpeg" length="172801522" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463156</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-venner-af-natten-12422463156</link>
-      <title>Venner af natten</title>
-      <description>Uventede venskaber opstår i mørket. Ida Riegles Lonely Waltz møder Thomas Koppels Kærlighedssang til jorden. Françoise Hardy giver hånd til Bach. Og et kor af stemmer rejser sig fra dybet af aftenen med den unge svenske komponist Andrea Tarrodi og værket Lume.
-Vært: Minna Grooss.</description>
-      <pubDate>Sun, 14 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463156/86fda5229d63fb31058aee1955e732a3b4242010c2f08cdab3db5600abcd054b.mp3" type="audio/mpeg" length="168480463" />
     </item>
   </channel>
 </rss>

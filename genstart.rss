@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 13 May 2024 06:41:22 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:27:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460113</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>I seng med fjenden</title>
+      <description>Betjente, der går i seng med bandemedlemmer. En elev, der bliver plantet på Politiskolen. Overskrifterne i de svenske nyheder har længe handlet om den afstumpede og dødelige vold i gaderne, men en ny rapport afslører en måske endnu mere uhyggelig side af bandemiljøet. Rapporten fra de svenske myndigheder beskriver hvordan bandemiljøet har forbindelser til ansatte i lægehuse, forebyggelsesindsatser og bankverdenen. Det stopper ikke dér, for avisen Dagens Nyheter fortæller, hvordan kriminelle helt bevidst forsøger at få en fod ind i politiet. Kan svenskerne overhovedet stole på deres eget politi? Kriminolog på Lunds Universitet, David Sausdal, fortæller om bandernes tråde ind i det svenske demokrati.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 10/5.</description>
+      <pubDate>Tue, 14 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460113/cbf04a4de85e89910a373a55acdbe11da453b07eedbfb1101f23ec73f01adf76.mp3" type="audio/mpeg" length="37427788" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460112</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
