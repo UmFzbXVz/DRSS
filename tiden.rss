@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 06:20:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 10:22:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451088</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-kirkerup-sagen-kulturministerens-opgoer-med-ai-og-georgisk-opstand-11802451088</link>
+      <title>Kirkerup-sagen, Kulturministerens opgør med AI og georgisk opstand.</title>
+      <description>Kulturminister Jakob Engel.Schmidt har set sig sur på de AI-videoer, som Liberal Alliance og Dansk Folkeparti har lavet, men kan han gøre dem ulovlige? En af Danmarkshistoriens mest omtalte mordsager går i dag i gang i retten i Næstved. Demonstranter i Georgien nægter at give efter for en lov, der rykker landet længere væk fra et EU-medlemskab.
+Vært: Adrian Busk.
+Medvirkende: 
+Henrik Moltke, DR's tech-korrespondent.
+Trine Maria Ilsøe, DR's retskorrespondent.
+Matilde Kimer, DR's Ruslandskorrespondent.</description>
+      <pubDate>Tue, 14 May 2024 09:10:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451088/d7d8a3d3d03eda3ffc2c36247993774ddfb8cfa6dccbe931bb3b83876a711267.mp3" type="audio/mpeg" length="25251143" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451087</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-camping-paa-campus-ballade-hos-boeing-og-svampe-riget-11802451087</link>

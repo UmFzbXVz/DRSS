@@ -19,7 +19,7 @@ Kontakt os via dr.dk/tipos eller skriv til drundersoeger@proton.me</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 06:27:17 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 10:25:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -73,6 +73,29 @@ Hør hele serien lige nu ved at søge efter "Lyssky" i DRLYD.</description>
       <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66309dc33177a9a7a4aaf7f8.jpg" />
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802417307/e36c2e30b297cf9d3e189722bff753ed3feeda29d50caed1a34a2844764c28dc.mp3" type="audio/mpeg" length="1361550" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802417304</guid>
+      <link>https://www.dr.dk/lyd/special-radio/moerklagt/massoeren/massoeren-4-6-ekkoet-11802417304</link>
+      <title>Massøren 4:6 - Ekkoet</title>
+      <description>Fire gravide kvinder bestiller tid hos massøren. En politiefterforsker, en antropolog, en projektleder og en, der arbejder med it-kriminalitet. Fælles for dem alle er, at da de går ud af døren fra massørens klinik, har de en oplevelse af, at noget under behandlingen var helt forkert.
+Vært og tilrettelægger: Merle Baeré.
+Research: Anne Skjerning.
+Lyddesign og klip: Marie Kildebæk.
+Musik: Marie Kildebæk og Kristján Ólafsson.
+Redaktion: Anne Jepsen.
+Skuespiller: Mathilde Eusebius.
+Redaktør: Troels Kingo og Jens Vithner.</description>
+      <pubDate>Tue, 14 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000040004</itunes:order>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:33:23</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66309dc33177a9a7a4aaf7f8.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802417304/376305f098441263cef79023f2da124da5438c6cef7b029d702bab73fc595e28.mp3" type="audio/mpeg" length="48085501" />
     </item>
     <item>
       <guid isPermaLink="false">11802417303</guid>

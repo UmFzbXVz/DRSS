@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 06:27:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 10:35:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332496509</guid>
+      <link>https://www.dr.dk/lyd/p3/splittet-til-atomer/splittet-til-atomer-2024/splittet-til-atomer-c21-stuck-in-my-heart-13332496509</link>
+      <title>C21: Stuck in My Heart</title>
+      <description>Sangskriver og producer Lars har en vision. Han vil skabe det næste store boyband. Han opdager to medlemmer i en talentfodboldklub og det tredje i et lokalt rockband. C21 er skabt, men det er ikke uden udfordringer, de når ud i verden med deres musik.
+ 
+Gæster: Søren Bregendal og David Pepke.
+Vært og klipper: Sara Frost.
+Medvært: Nina Liv Benstrup.
+Lyddesigner: Nina Vadsholt.
+Programansvarlig: Anders Stegger.</description>
+      <pubDate>Tue, 14 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:31:39</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496509/67618cafd4ef2548b0f03f8601cb5d096d22787571e9b2ce5888cae9d2583c80.mp3" type="audio/mpeg" length="45589685" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496508</guid>
       <link>https://www.dr.dk/lyd/p3/splittet-til-atomer/splittet-til-atomer-2024/splittet-til-atomer-ida-laurberg-jeg-haaber-din-kaereste-doer-13332496508</link>
