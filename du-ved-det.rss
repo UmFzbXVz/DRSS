@@ -10,7 +10,7 @@ Vært: Marie Hobitz.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 05:28:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 17:23:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Vært: Marie Hobitz.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332424197</guid>
+      <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-karen-mukupa-13332424197</link>
+      <title>Karen Mukupa</title>
+      <description>'Du ved det' helt sikkert godt, så find telefonen frem, og gør dig klar til at blive quizzet i al den musik, du elsker at lytte til!
+Der er eksklusive P3-sokker på højkant og vanvittig søndagshygge, når Marie inviterer indenfor i P3's helt eget musikquizprogram.
+Vært: Marie Hobitz.
+Gæst: Karen Mukupa.</description>
+      <pubDate>Sun, 12 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424197/f5e9364c651cfab160dff96eb0710e160acf6dd4959b5f6abcefb8a50224269b.mp3" type="audio/mpeg" length="172886271" />
+    </item>
     <item>
       <guid isPermaLink="false">13332424187</guid>
       <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-infernal-13332424187</link>

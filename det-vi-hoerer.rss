@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 05:28:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 17:23:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,23 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481846</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-12422481846</link>
+      <title>Søndag 12. maj 2024</title>
+      <description>Velkommen til musikelskernes klub. Som værter på P2 lytter vi til rigtig meget musik, og det elsker vi, for musikken er vores store passion. I denne serie udvælger vi hver især vores absolutte yndlingsmusik til dig, fordi vi gerne vil give vores personlige opdagelser med musikken videre. Vi præsenterer dig for kunstnere, værker og skæringer som du måske ikke har hørt før, og håber at du genopdager musik som du har glemt. 
+"Det vi hører" er den ultimative klassiske playliste skabt af nogle af Danmarks mest alsidige musikkendere. 
+Vært: Cæcilie Iburg Printzlau.</description>
+      <pubDate>Sun, 12 May 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000170006</itunes:order>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481846/a773cc0f22fb5996ddc484cf294eec90aa9e36c909b14f7c3e6556fadce7c6f0.mp3" type="audio/mpeg" length="168481593" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481845</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-bloede-roede-saeder-12422481845</link>
