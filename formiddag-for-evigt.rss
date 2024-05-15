@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:34 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452424202</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-mr-sanborn-has-left-the-building-18452424202</link>
+      <title>Mr. Sanborn has left the building</title>
+      <description>Nyligt afdøde David Sanborn får et par spins i dagens program og så kan du høre fra manden selv, hvorfor man skal lade være med at lyde som ham. Ben Websters ånd kigger også forbi i anledning af Ben Webster prisen der uddeles denne dag i Kolding. Der er lyttere der dyrker frimærkehaver, lyttere der har det fedt på fjerde sal og lyttere med ondt i hjertet. Evigheden har musik til det hele.   
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Tue, 14 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424202/065093389cd05c1a8964045266bfc77eef856cb619695314eccb5fb1030b08df.mp3" type="audio/mpeg" length="168482164" />
+    </item>
     <item>
       <guid isPermaLink="false">18452424201</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-endnu-mere-mandag-18452424201</link>
@@ -290,20 +304,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424162/e8183512c16284baba7e001d205951cddfc55e97eaa1a55f7a51fb08d57fcdda.mp3" type="audio/mpeg" length="168481588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424161</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-mandagsjazz-til-modernister-18452424161</link>
-      <title>Mandagsjazz til modernister</title>
-      <description>Der bliver delt en masse mandagsegnet musik ud og især til dem, der kører på retro-scootere i Italien. En ny lytter lægger fliser, og andre har brug for jazz til lamper fra storskrald og ængstlige cykeltur. Sådan er mandagen også.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Mon, 15 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424161/f044ccc8f59d93b33b1c11e0d81f707d72350e826654d147ede31954eda32fd5.mp3" type="audio/mpeg" length="168482164" />
     </item>
   </channel>
 </rss>

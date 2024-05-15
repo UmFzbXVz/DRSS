@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:34 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332427202</guid>
+      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-dennis-knudsens-ansigt-og-vores-indre-monolog-13332427202</link>
+      <title>Dennis Knudsens ansigt og vores indre monolog</title>
+      <description>Dennis Knudsen har brudt endnu et tabu. Først satte han fokus på det at miste besindelsen på Kombardofærgen ved at flå en bom i stykker. Nu står han frem igen og bryder tabuet om at vise sit ansigt en uge efter en skønhedsoperation. Det taler vi om i dag.
+Så snakker vi om vores indre monolog. JoJo har nemlig læst en artikel fra Politiken, som forklarer, at hver tiende dansker ikke har en indre stemme. I artiklen beskriver de den indre stemme som en livslang samtalepartner i ens hoved, som opmuntrer os, skælder os ud, minder os om, vi skal huske at købe køkkenrulle, og hjælper os med at forberede os på samtaler. Men hver tiende hører ikke en lyd. Vi vil derfor gerne finde en lytter, som ikke har en indre stemme, så vi får en fornemmelse af, hvordan de tænker.
+Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
+      <pubDate>Tue, 14 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427202/775f8967ada288eed213613d7bb84742eb5c1b454b1d17ec82d8a011cb05889b.mp3" type="audio/mpeg" length="172802192" />
+    </item>
     <item>
       <guid isPermaLink="false">13332427201</guid>
       <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-sasseline-effekten-og-en-glemt-mors-dag-13332427201</link>
@@ -257,23 +271,6 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427162/7c6797a1a8a8c3d12ebc2db66b01f3ae317878db3050a3cb1dd7741ea0080cc8.mp3" type="audio/mpeg" length="172801617" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427161</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-verdens-daarligste-program-not-13332427161</link>
-      <title>Verdens dårligste program...... NOT!</title>
-      <description>Henrik prøver at hjælpe sine stakkels medværter med at forstå konflikten mellem Iran og Israel en meget simpel metafor: Skolegården. Mon de forstår det? NOT.
-Den norske Paradise Hotel-deltager Amalie er godt i gang med at få genoplivet en gammel Borat-trend. Derfor stiller JoJo et meget vigtigt spørgsmål: Er 'Not' in igen?
-Derudover har Jannik en (rødhåret) høne at plukke med Go' Morgen P3 og de to Mikkel'er, så vi ringer Mikkel Klint Thorius op for lige at få sat nogle ting på plads.......
-Sæson 2 af Forræder er også tilbage - på en rivalkanal, ja - men det afholder ikke JoJo, Jannik og Henrik fra at lege det famøse spil sammen med lytterne - hvem er loyal, og hvem er NOT?
-Værter: JoJo, Jannik Schow og Henrik Eriksen.
-Medvirkende: Mikkel Klint Thorius.</description>
-      <pubDate>Mon, 15 Apr 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427161/b2b25928d58f2466a28f7206daaa20a1f5544e05e3184fbcc72f499f4b0d457e.mp3" type="audio/mpeg" length="172801587" />
     </item>
   </channel>
 </rss>

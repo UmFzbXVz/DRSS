@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -376,19 +376,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:14:33</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192720/ed233311ad0a10bae41fd155c2c38f68694246219b935425e6d7c362229135b6.mp3" type="audio/mpeg" length="20972554" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192719</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-tina-ymer-16122192719</link>
-      <title>Tina Ymer</title>
-      <description>Kimmies Salon kigger nærmere på cryptovaluta, du kan lære alt om hunde, mød Danmarks ærligste politiker, bliv liderlig i selskab med Tina Ymer og mød manden der var den første til at kalde brystvorter for "knapper"
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 14 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192719/2e71459a9b3d5ef035aabc3c9c1c377b91808c012b1e29812c822b721ac95fea.mp3" type="audio/mpeg" length="21622900" />
     </item>
   </channel>
 </rss>

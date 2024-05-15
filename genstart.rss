@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:31:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:16:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460114</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Bittersøde bær</title>
+      <description>Søde, røde jordbær med strøsukker og fløde er sommerens højdepunkt. Men de har en kompliceret tilblivelseshistorie. Under kilometervis af hvide teltduge i den tørre, sydspanske region, Huelva, knokler migrantarbejdere under arbejds- og levevilkår, der slider på krop og sind. Marokkanske jordbærplukkere kommer til Sydspanien og drømmer om et liv med frihed, tryghed og muligheder inden for EUs grænser, men snart ser de sig fanget i et usynligt bur af midlertidighed og fattigdom. Teaterinstruktør Tue Biering har inviteret en håndfuld bærplukkere på scenen på Teater Republique og i dagens Genstart fortæller han om, hvilken pris bærplukkerne betaler for, at vi ubekymret kan spise søde, røde bær året rundt.
+Vært: Anna ingrisch.
+Program publiceret i DR Lyd d. 12/5.</description>
+      <pubDate>Wed, 15 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460114/aa34368523c8d96e6463dda13f6eba0d8c3be285558f0de741bba2c725ff8da0.mp3" type="audio/mpeg" length="37110407" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460113</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9522,19 +9536,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:41</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150096/16d5ed1d7afdb4a9cbae778d7c4300248aac73729a5197ed7a4bc0dfe7f7a86f.mp3" type="audio/mpeg" length="34122697" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150095</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-ros-til-rwanda-11802150095</link>
-      <title>Ros til Rwanda</title>
-      <description>Et billede og en video med to danske ministre dukker op på Twitter. Afsenderen er Rwandas udenrigsministerium og mediet Rwanda Today. I videoen roser de danske ministre Rwanda. Ingen har kendt til mødet, men da ministrene har sat fusserne på dansk jord, offentliggøres en diffus og ukonkret aftale med Rwanda. Regeringen har længe haft et ønske om at oprette et modtagecenter for asylansøgere i et tredjeland. Kan det være Rwanda? Spekulationen går i gang. Hvad ved vi egentlig om aftalen med Rwanda? Og hvad er det for et land, Danmark samarbejder med? Journalist Johanne Højberg Møller, der har boet i landets hovedstad, fortæller.
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 14 May 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:14</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150095/a8703438478eb48229319eaf8d9c4881d37315d5e5a791d549c8bf657fe54bc8.mp3" type="audio/mpeg" length="34902596" />
     </item>
   </channel>
 </rss>

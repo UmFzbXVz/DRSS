@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:36 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421202</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-drake-har-vundet-eller-hvad-13332421202</link>
+      <title>Drake har vundet - eller hvad?</title>
+      <description>Det er igen blevet hot take tirsdag, og vi bliver tæt på hjem, for det leveres nemlig af Residensens ene vært Kasper Reippurt. Den altomsluttende hiphop beef bliver nu for alvor afgjort. Vi skal også forbi funky kærestelingo og sjove måder at finde sit kunstnernavn på. Velkommen!</description>
+      <pubDate>Tue, 14 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421202/e6a036a09f270f9290f4d708d9fa7f829175d7faffd12cf38c071234740f6a08.mp3" type="audio/mpeg" length="172802189" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421201</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-baby-baby-baby-ohhhhhh-13332421201</link>
@@ -223,19 +235,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421162/0be14023515acbd647dc39abeeeccf2b5a9dd698c37136a27aa34b8621787c87.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421161</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-bad-boy-eller-skvat-boy-13332421161</link>
-      <title>Bad-boy eller skvat-boy?</title>
-      <description>Hozier spiller med musklerne på sin nye sang, men præcis hvor meget bad boy er der over at drikke sort kaffe og gå i seng kl. 03? Vi spørger Brian Sandberg. Derudover er det P3's eksklusive nye T-shirts på højkant i Power-quizzen og bekendelser om manglende evner i indbakken. Velkommen indenfor!
-Gæst på tlf.: Brian Sandberg.</description>
-      <pubDate>Mon, 15 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421161/2545a45ae2b557986a23220e23ee583f6ba71657067d3bbe8db9e6b7f001ad1b.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:23 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:32 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -98,18 +98,6 @@
       <itunes:duration>00:37:54</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192874/da9e6e2e1a76ba57658ae01d8a125bb46753361aef9e194e1e40c2f2427a085e.mp3" type="audio/mpeg" length="54598329" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192873</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-jeg-vil-ikke-doe-uden-at-have-elsket-pigen-med-den-blaa-cykel-16122192873</link>
-      <title>"Jeg vil ikke dø uden at have elsket" - Pigen med den blå cykel</title>
-      <description>Hvad gør det ved lidenskaben i mennesket, når man blive placeret i nogle omstændigheder, hvor man ikke har noget at miste? Det spejler vi os i, når vi dykker ned i Reginé Deforges' passionerede roman, Pigen med den blå cykel. Der er krig, kærlighed, bomber og brystvorter på programmet, når vi følger Lea Delmas' rejse fra jomfruelighed til sexsulten heltinde.</description>
-      <pubDate>Fri, 14 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:41</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192873/0de538b0089806ab13290b58a4c29697603628eb31f2985fe229214b19f1fef4.mp3" type="audio/mpeg" length="29796342" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:34 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429202</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-david-sanborn-15452429202</link>
+      <title>David Sanborn</title>
+      <description>Hans altsax lød næsten overalt. 
+Nu er David Sanborn død 78 år gammel.
+Forfatter og musiker Thomas Vilhelm gæster Studie 5 med mindeord og portræt af Den amerikanske stjerne-saxofonist.
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Tue, 14 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429202/4af5e92fa3f1555d2c368a78d227837c9e698266bc4163dcca7c613deabc8a25.mp3" type="audio/mpeg" length="168481564" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429201</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-stevie-wonder-og-johnny-logan-15452429201</link>

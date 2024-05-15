@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452432202</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432202</link>
+      <title>Tirsdag 14. maj 2024</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Robert Haugsted.</description>
+      <pubDate>Tue, 14 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432202/d602cbab570bbc9e84f4e57601dcf902b34178a9e22747730bc574c5834c86a5.mp3" type="audio/mpeg" length="252001994" />
+    </item>
     <item>
       <guid isPermaLink="false">16452432201</guid>
       <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432201</link>

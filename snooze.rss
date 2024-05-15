@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428202</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428202</link>
+      <title>Tirsdag 14. maj 2024</title>
+      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Tue, 14 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428202/3c8ee6b24cfdadda7ec203af2555d3963c1b1613ab0b13e0b85a690a46d702b8.mp3" type="audio/mpeg" length="252002165" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428201</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-ned-fra-himlen-igen-18452428201</link>
@@ -373,23 +390,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428162/2bd5e962d5862790683bd27d1b5f5539636ba423aebf52cac9c31d8e831f207a.mp3" type="audio/mpeg" length="252001612" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428161</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-med-p8-til-jazzahead-18452428161</link>
-      <title>Med P8 til Jazzahead!</title>
-      <description>Verdens største branchefestival for jazz har netop kørt for fuld damp i weekenden. Flere danske artister var med på Jazzahead, og det var P8 også - vi får lidt stemning fra jazzens topmøde i Bremen.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Mon, 15 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428161/662f57870d8f34d1ae023290000eed10ba9c58af48b9cf2459a3863f30baa831.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>

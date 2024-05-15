@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 14 May 2024 10:34:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 05:28:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Vært: Charlotte Hagen Striib.</description>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452428202</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-birgitte-rahbek-kornum-15452428202</link>
+      <title>Med Birgitte Rahbek Kornum</title>
+      <description>Sover du for lidt? - så er du ikke den eneste
+Sundhedsstyrelsen har netop lavet nye anbefalinger for søvnlængde for alle aldersgrupper. F.eks. sover hver tredje voksne for lidt.
+Forsker Birgitte Rahbek Kornum fortæller meget mere om vigtigheden af, at vi prioriterer vores søvn.
+Vært: Søren Hansen.</description>
+      <pubDate>Tue, 14 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428202/5e6ecf1368d6118caa4b9f48c6a3f300cd4201e183e076e322d882c174ae8b44.mp3" type="audio/mpeg" length="168482182" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452428201</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-eva-skafte-jensen-15452428201</link>
       <title>Med Eva Skafte Jensen</title>
@@ -40,20 +55,6 @@ Vært: Søren Hansen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428201/184304115ea633c79127c26e0a28d7bd94fc4ad10071e86cce9fbba48a2414d1.mp3" type="audio/mpeg" length="168481593" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428195</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-masser-af-genlyt-fra-dr-s-radioarkiv-15452428195</link>
-      <title>Med masser af genlyt fra DR's radioarkiv</title>
-      <description>Nyd en afslappet fredag formiddag, hvor det emmer af dejlige radiominder, når der serveres klip med bl.a. "Gæt en sang", "Statens Husholdningsråd", "Trafikradio" og meget mere.
-Ole Tøpholm har seneste nyt fra Eurovision i Malmø, dagen efter dansk deltagelse i den 2. semifinale
-Vært: Søren Hansen.</description>
-      <pubDate>Fri, 10 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428195/d8e7c06ef6c7a2e38d9d2bcaf5ae097a692d18706b136d3abe806921be5eaa12.mp3" type="audio/mpeg" length="168481601" />
     </item>
   </channel>
 </rss>
