@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 17:23:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:41:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593ba97a838f3bbb32a050f.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802401139</guid>
+      <link>https://www.dr.dk/lyd/p1/udsyn/udsyn-2024/udsyn-kampen-om-handicapomraadet-11802401139</link>
+      <title>Kampen om handicapområdet</title>
+      <description>Regeringen har lavet en ny rammeaftale på handicapområdet sammen med Konservative, LA og Radikale Venstre. Aftalen bliver kritiseret for at være en spareøvelse, snarere end et velfærdsløft til mennesker med handicap. Sammen med digter og handicapaktivist Caspar Eric trækker Udsyn tråde tilbage i dansk velfærdshistorie. Hvordan er mennesker med handicap blevet defineret som gruppe gennem tiden? Og er der tegn i tiden på et skred i måden vi betragter handicapområdet på?
+Vært: Kaspar Colling Nielsen.</description>
+      <pubDate>Thu, 16 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:44</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802401139/fd69c18dafe214a243ac3fd5505a645360c293570cbf01449432d6f7257416d5.mp3" type="audio/mpeg" length="38519312" />
+    </item>
     <item>
       <guid isPermaLink="false">11802401138</guid>
       <link>https://www.dr.dk/lyd/p1/udsyn/udsyn-2024/udsyn-europa-i-doedskramper-11802401138</link>
@@ -1017,24 +1029,6 @@ Redaktør: Tine Møller Sørensen.</description>
       <itunes:duration>00:29:01</itunes:duration>
       <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593fe68846e9f8fc0349aa6.jpg" />
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802301230/0a537099dfc7a89127e7e81c8895dd47f587c32f652a9647519c241b14781d86.mp3" type="audio/mpeg" length="41798480" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802301229</guid>
-      <link>https://www.dr.dk/lyd/p1/udsyn/udsyn-2023/orientering-udsyn-xi-og-bidens-naeste-traek-11802301229</link>
-      <title>Orientering Udsyn: Xi og Bidens næste træk?</title>
-      <description>Præsidenterne for Kina og USA mødes i dag i San Francisco. Det i sig selv er usædvanligt - og parterne virker tilsyneladende også parate til at tage hul på en svær dialog. Men til trods for dialog, sørger de begge for at opretholde fjendebilledet af hinanden - så hvem har egentlig overtaget i det store politiske skakspil mellem Kina og USA? 
-Iværksættere og entreprenører er tidens nye rockstjerner. Men ind imellem ender det med, at når stjernestøvet har lagt sig, så står der en svindler tilbage, hvis idé måske var lidt for smart. Hvorfor falder folk for dem, der bedrager sig frem i erhvervslivet?
-Gæster: Friis Arne Petersen, tidligere ambassadør i Kina og USA og Jacob Dahl Rendtorff, professor i ledelsesfilosofi og virksomhedsetik på Roskilde Universitet.
-Tilrettelæggelse: Svend Johannesen.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Wed, 15 Nov 2023 15:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:28:47</itunes:duration>
-      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593fe68846e9f8fc0349aa6.jpg" />
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802301229/a934e9488eb236fff55bbdd22c72c5e482b31290d7879f0c8ba14eab2d849f9b.mp3" type="audio/mpeg" length="41458843" />
     </item>
     <item>
       <guid isPermaLink="false">11802301165</guid>

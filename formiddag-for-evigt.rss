@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 17:23:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:41:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -304,20 +304,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424163/077b81032cf37be991abfc0a93256742dd3cfea12fd84b471f971f9218114c4d.mp3" type="audio/mpeg" length="168481588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424162</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-byporten-er-aaben-18452424162</link>
-      <title>Byporten er åben</title>
-      <description>Vi besøger denne formiddag et gennembrudsalbum fra spillestedet The Village Gate. Musikken tager os også med til både jazzmesse i Tyskland og en barnestjerne fra Bali. Formiddagslytterne har brug for jazz til brandmænd i Børsen og jazz til at skære besværligt fibergibs til.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Tue, 16 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424162/e8183512c16284baba7e001d205951cddfc55e97eaa1a55f7a51fb08d57fcdda.mp3" type="audio/mpeg" length="168481588" />
     </item>
   </channel>
 </rss>

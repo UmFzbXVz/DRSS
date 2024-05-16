@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 17:23:27 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:41:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460115</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Temulig billig</title>
+      <description>"Shop som en milliardær" er sloganet på den kinesiske hjemmeside Temu, fordi hos dem kan du købe stort set alt - til ekstremt lave priser. I Danmark køber vi bunkevis af de her billige dingenoter. På bare to år er det blevet en af landets mest populære websider til nethandel. Men hvor tilsvarende europæiske virksomheder skal leve op til en lang række krav, både hvad angår sikkerhed og miljø, så opererer Temu i et nærmest lovløst land. Nu opfordrer miljøminister, Magnus Heunicke, forbrugerne til helt at stoppe handlen på den kinesiske webshop. Vi spørger Betina Schiønning, jurist og chefkonsulent hos Dansk Erhverv, der i ti år har advaret mod en kattelem ind til de europæiske storforbrugere, hvad problemet er. 
+Vært: Simon Stefanski. 
+Program publiceret i DR Lyd d. 13/5.</description>
+      <pubDate>Thu, 16 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460115/2ea5cbc7e1d24de978faa47267eee3ed3cf04dbb3b31ee4867151a76bcbb027b.mp3" type="audio/mpeg" length="38006661" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460114</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

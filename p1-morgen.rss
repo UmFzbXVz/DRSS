@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 17:23:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:42:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,20 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433204</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433204</link>
+      <title>Torsdag 16. maj 2024</title>
+      <description>Er 'russerloven' dødsstødet for en demokratisk fremtid og Georgiens drøm om at blive en del af EU? 
+Kan man vurdere, hvor god en person bliver som forælder ved kun at studere en journal? Er man virkelig en diagnose resten af sit liv? 
+Og kan Fico-attentat få store konsekvenser for Europæisk politik?
+Dagens værter: Cecilie Lange og Thomas Tjaerandsen.</description>
+      <pubDate>Thu, 16 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:57</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433204/b40d075c32fe6821010de81985ac29afd03813b8bd0de861d6bbba10c2daad2a.mp3" type="audio/mpeg" length="237547809" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433203</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433203</link>
@@ -1844,18 +1858,6 @@ Dagens værter: Morten Runge og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:03</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333471/210dac2714dbcc42711f608f3eb0b45558cefebc06d87fc684076fe8d129e2e4.mp3" type="audio/mpeg" length="237687987" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333466</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333466</link>
-      <title>Lørdag 18. nov. 2023</title>
-      <description>Hvilke debatter skal vi forvente kommer til at fylde på Venstres landsmøde? Er mere kvindekunst på museerne et spørgsmål om ligestilling? Skaber konflikten mellem Israel og Hamas mulighed for en forhandlet fred mellem Israel og Palæstina?
-Dagens værter: Anne Kirstine Hermann og Ole Brink.</description>
-      <pubDate>Sat, 18 Nov 2023 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:50:07</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333466/c1bb1038cc2bb8f8db6b98bec367b8e75f8caabe150a07d5bb8f3c92ae0a1c21.mp3" type="audio/mpeg" length="158589729" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 17:23:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:42:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463203</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-blaa-time-12422463203</link>
+      <title>Blå time</title>
+      <description>Dagen er gået på hæld og læner sig op ad natten. 
+Du er blå og eftertænksom, og ønsker ro og nærvær. Natsværmeren sørger for musikken, der er svøbt særligt i de blåtonede farver. 
+Vært: Tina Rømer.</description>
+      <pubDate>Thu, 16 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463203/be66d6a9cc1500f8dcdab6fb662e9d0f8cb2a7f01f398c12db4ebeb723499ef7.mp3" type="audio/mpeg" length="168482132" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463202</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-slentren-12422463202</link>
@@ -399,20 +413,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463162/1a91183d47e7e369a7f8dd9c468d757ec7e436ab26814cbe22c86c5a21074c1c.mp3" type="audio/mpeg" length="168480309" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422263171</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-blaa-i-maaneskin-12422263171</link>
-      <title>Blå i måneskin</title>
-      <description>Og masser af mol. Det betyder trøstevals, vinterdrømme og nordlys. 
-Vært: Katrine Ring.
-(Sendt første gang 26. april 2022).</description>
-      <pubDate>Tue, 16 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:30:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263171/1d34c87bb833e6d1e0226b0a9a86efd92c96ffcc041126bf603e22183e85febb.mp3" type="audio/mpeg" length="129602052" />
     </item>
   </channel>
 </rss>

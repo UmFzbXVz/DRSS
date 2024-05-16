@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 17:22:57 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:41:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451090</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-den-33-aariges-forklaringer-premierminister-ramt-af-skud-og-uffe-elbaeks-kinaproblem-11802451090</link>
+      <title>Den 33-åriges forklaringer, premierminister ramt af skud og Uffe Elbæks Kinaproblem</title>
+      <description>Den 33-årige tiltalte i Kirkerup-sagen har for første gang svaret på spørgsmål i retten i sagerne om forbrydelser mod tre teenagepiger. Slovakiets premierminister, Robert Fico, er onsdag blevet ramt af skud. Kinesiske hackere forsøger at krybe ind i Uffe Elbæks telefon. Nu tre år senere har han fået et svar, som han ikke er tilfreds med.
+Vært: Annika Wetterling og Adrian Busk. 
+Medvirkende: 
+Trine Maria Ilsøe, DR's retskorrespondent.
+Uffe Elbæk, tidligere folketingsmedlem.</description>
+      <pubDate>Thu, 16 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451090/f1bf593edb20300844b259c0e1d7c4352a52e4a50b51d2d2b008d3679a225686.mp3" type="audio/mpeg" length="25497678" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451089</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-trumps-pitbull-limfjords-larm-og-hestemilliardaerens-mishandling-11802451089</link>
@@ -1984,24 +2000,6 @@ Jens Hilligsøe, overlæge og formand for Dansk Kirurgisk Selskab.</description>
       <itunes:duration>00:20:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351210/e0e2f463db6e323afe031c3fff9186f8d000571f56bcec442aada716aeb5a757.mp3" type="audio/mpeg" length="29451547" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351209</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-helvedes-hospitalet-skattesmaekket-og-en-6-procents-alkoholgraense-11802351209</link>
-      <title>Helvedes-hospitalet, skattesmækket, og en 6 procents alkoholgrænse</title>
-      <description>En dødsdom til de civile eller Hamas' hovedkvarter? Det største hospital i Gaza er lige nu omdrejningspunktet for krigen mellem Hamas og Israel. 
-Regeringen sparker julefrokostsæsonen i gang med en ny forebyggelsesplan, der vil gøre det ulovligt for unge under 18 år at købe alkohol med over 6 procent. 
-Mange boligejere vil betale for lidt i skat næste år, og det kommer til at gøre ondt. 
-Vært: Adrian Busk.
-Medvirkende: 
-Claudia Læssøe, lektor ved Forsvarsakademiet.
-Henrik Rindom, psykiater, overlæge og misbrugsbehandler på Stofrådgivningen i København.</description>
-      <pubDate>Wed, 15 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:56</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351209/2954fe53ee262afe1d5a0e7d2af3e3e18a96640f0b2223714f0bf446b1954071.mp3" type="audio/mpeg" length="27289243" />
     </item>
   </channel>
 </rss>

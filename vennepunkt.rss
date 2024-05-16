@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 17:23:09 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:42:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,26 @@ Produceret for DR af MonoMono.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122393679</guid>
+      <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-special-et-umage-vennepar-med-helin-erdem-og-sofie-diemer-16122393679</link>
+      <title>Special: Et umage vennepar - med Helin Erdem og Sofie Diemer</title>
+      <description>Efter ærlige samtaler med en lang række af modige gæster retter Sofie blikket mod sig selv. Hun har nemlig inviteret en af sine bedste veninder i studiet til en konfronterende snak om deres konflikter og forventninger i venskabet.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Helin Erdem, vært. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Thu, 16 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:35:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393679/fdfe8e87d9ecbfad70c8f408bcf058ad7be14fb2c728f361f407581bf59ecef9.mp3" type="audio/mpeg" length="50903291" />
+    </item>
     <item>
       <guid isPermaLink="false">16122393678</guid>
       <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-er-nok-lidt-en-daarlig-ven-med-mathias-hammer-16122393678</link>

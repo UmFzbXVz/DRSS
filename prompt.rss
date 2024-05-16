@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 15 May 2024 17:23:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:42:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,21 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421019</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-flirtende-chatgpt-deepfake-lov-og-hipsterchatbot-11802421019</link>
+      <title>Flirtende ChatGPT, deepfake-lov og hipsterchatbot</title>
+      <description>Joaquin Phoenix' film 'Her' har været inspiration for OpenAIs opdatering af ChatGPT. En film, hvor hovedpersonen bliver forelsket i sin taleassistent. OpenAI vil have os til at snakke - ikke kun skrive - med ChatGPT, som snart bliver i stand til både at aflæse og udtrykke følelser. Vi gennemgår de store nyheder fra både OpenAI og Google i ugens løb.
+Henrik Moltkes favoritchatbot er endelig kommet til Danmark. Sprogmodellen Claude lover at være mere etisk og mindre hallucinerende. Men hvem er den for?
+Og så vil kulturminister Jakob Engel-Schmidt (M) forbyde politiske deepfakes som den, DFs Morten Messerschmidt var i vælten med for nyligt. Noget overraskende er det ophavsretten, der skal bruges til forbuddet. 
+Værter: Marcel Mirzaei-Fard, DRs techanalytiker, og Henrik Moltke, DRs techkorrespondent.</description>
+      <pubDate>Thu, 16 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421019/57293c9d8e6090254e14da6c64ea59c4de109c63bc6765e1bb87396a1f4b163a.mp3" type="audio/mpeg" length="77927489" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421018</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-i-krig-med-google-soegninger-chatgpt-faar-arme-og-ben-og-danskgpt-2-0-11802421018</link>
