@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:47:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:36:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460116</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Adieu Depardieu</title>
+      <description>Gérard Depardieu er en af de allerstørste og mest elskede skuespillere, Frankrig nogensinde har haft. Han har vundet store, internationale priser, modtaget hædersmedaljer, men i de senere år har han været hovedperson i en lang række anklager om seksuelle overgreb og voldtægter. Han har selv afvist anklagerne, den franske kulturelite har kaldt det en heksejagt, men nu står Depardieu over for en tiltale og en retssag. Karin Mørch er journalist på DRs udlandsredaktion, hvor hun især følger Frankrig og i dagens Genstart fortæller hun om Depardieus storhed og fald. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 14/5.</description>
+      <pubDate>Fri, 17 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460116/9581c3793adeea994c976be1df46c557e1fc1fb78182cc6a69044330ada60715.mp3" type="audio/mpeg" length="35728582" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460115</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

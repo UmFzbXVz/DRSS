@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:48:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:47:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450099</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-guardiola-fodboldens-stoerste-influencer-13652450099</link>
+      <title>Guardiola: Fodboldens største influencer</title>
+      <description>Trofæskabet er allerede fyldt til bristepunktet, men søndag skal der formentlig findes plads til endnu en pokal.
+Pep Guardiola og Manchester City kan sikre endnu et engelsk mesterskab søndag, og den triumf vil være endnu et tydeligt billede på den vindermaskine, den spanske træner har skabt.
+Men han har også betydet meget for andre end Manchester City, og i dag fortæller Mikkel Bischoff, hvordan Guardiola har inspireret hele fodboldverdenen.
+Vært: Emil Schiønning.</description>
+      <pubDate>Fri, 17 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450099/2d38bf92e378b2dd2f201d5b46d9b9872a124f8c04d05b7630c82b3b354bc86c.mp3" type="audio/mpeg" length="26682491" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450098</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-aartusindets-stoerste-kamp-13652450098</link>
@@ -1898,20 +1913,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:43</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350223/179774e336391dc96a920c9447c57ad15492a63924dd0eecf44caa5d47f3f01b.mp3" type="audio/mpeg" length="24076095" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350222</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-paa-besoeg-hos-jonas-vingegaard-13652350222</link>
-      <title>På besøg hos Jonas Vingegaard</title>
-      <description>Den danske Tour-konge ser tilbage på en vild sæson og kigger frem mod næste år.
-Den vilde vuelta som hjælperytter for Sepp Kuss, næste års duel mod Primoz Roglic og familiens flytning til Schweiz. Vingegaard vender det hele og fortæller også om sin store drøm, der både omfatter VM og OL.
-Værter: Emil Schiønning og Sarah Fisker.</description>
-      <pubDate>Thu, 16 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:21</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350222/eadc92bbf284529e562b40f3f34afd8ea22a37179376a0fdf2ac7d6ba6bd657e.mp3" type="audio/mpeg" length="23568859" />
     </item>
   </channel>
 </rss>

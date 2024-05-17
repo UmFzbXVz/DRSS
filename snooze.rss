@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:48:43 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:44:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -390,23 +390,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428164/0085a7863b16e416d445ad212507e61c1fc8d6310d20945247bcfe20f23c37a1.mp3" type="audio/mpeg" length="252002165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428163</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-de-unge-haab-for-dansk-jazzkonkurrencen-18452428163</link>
-      <title>De unge håb for dansk - Jazzkonkurrencen.</title>
-      <description>Jazzkonkurrencen er et årligt tilbagevendende talentprogram, hvor tre unge håb fra den danske jazzscene dyster med og mod hinanden på spillesteder over hele landet. I aften spiller de tre orkestre i Odense, og vi griber derfor telefonen og ringer til den nye generation i dansk jazz.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Wed, 17 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428163/61c9839881c8b60b873bdd1fe99bb39bb81b2bd3b705236a606ad3be1c2dc2cd.mp3" type="audio/mpeg" length="252001614" />
     </item>
   </channel>
 </rss>

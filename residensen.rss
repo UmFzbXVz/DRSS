@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:48:23 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:47:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421204</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421204</link>
+      <title>Torsdag 16. maj 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Thu, 16 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421204/3b6a19a59a38fd18cc97e6f21bf36c548d516c519eedcc1cbfd2736251819599.mp3" type="audio/mpeg" length="172801589" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421203</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-unge-jens-13332421203</link>
@@ -219,18 +231,6 @@ Gæst i studiet: August 'GUZO' Møller Fogh.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421164/4bf77480de9859cb18025e0515c8b19bceb04da1ddd21bd9383462d102892070.mp3" type="audio/mpeg" length="172801589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421163</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-brimheim-13332421163</link>
-      <title>Med Brimheim</title>
-      <description>Brimheim er i studiet til en snak om albummet Ratking, Avril Lavigne-skuffelser og offentlige playlister. Derudover er der stadig beef i hiphopland, men den klarer Kasper med et hurtigt overblik. Måske. Velkommen indenfor!</description>
-      <pubDate>Wed, 17 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421163/e29212f45c6c14a3098c0745b94c5999a4b9f415d5041f1d2ad37000a1cf3851.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>

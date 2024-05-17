@@ -11,7 +11,7 @@ Gæster: Jakob Ambrosius Garff, ansat ved dagbladet Børsen, og Oskar Bernhardts
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:48:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:47:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Gæster: Jakob Ambrosius Garff, ansat ved dagbladet Børsen, og Oskar Bernhardts
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332496419</guid>
+      <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-krig-paa-boligmarkedet-og-meme-aktier-i-hopla-13332496419</link>
+      <title>Krig på boligmarkedet og MEME-aktier i hopla</title>
+      <description>Der er udbrudt en regulær priskrig på boligmarkedet, hvor det nu i visse tilfælde er billigere at få et banklån end realkreditlån. Jakob har derfor opfundet "Leje-pers guide til at komme ind på boligmarkedet", så folk kan forstå de ændrede dynamikker.
+Oskar er smuttet til MEME-land, hvor der er opfundet et nyt rating system til at vurdere, om der er potentiale i de små, usikre aktier.
+Over at glas hvid Bourgogne (Albert Sounit, 2023, Vieilles Vignes) vinder Oskar endnu engang ugens bets.</description>
+      <pubDate>Fri, 17 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:04:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496419/79015c28cec758f79a69cc1a6b12fdb7643089ed9dc51ac1324a765680cdbeb1.mp3" type="audio/mpeg" length="92250302" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496418</guid>
       <link>https://www.dr.dk/lyd/special-radio/kapitalisterne/kapitalisterne-2024/kapitalisterne-regeringen-boykotter-temu-og-apple-laver-verdenshistoriens-stoerste-aktietilbagekoeb-13332496418</link>

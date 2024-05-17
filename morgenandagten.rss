@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:48:42 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:47:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -456,24 +456,6 @@ Postludium: Louis James Alfred Lefébure-Wély: Verset G-dur.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405164/be3442d48a038115ec591cfbf2c11f1e99e4dc0c450dec70c0efecf378949b20.mp3" type="audio/mpeg" length="36001581" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405163</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405163</link>
-      <title>Onsdag 17. apr. 2024</title>
-      <description>Præludium:	Jesper Madsen: Min mund og mit hjerte.
-Fra det G.T.:	5. Mosebog 30,9-14.
-Salme: 396 "Min mund og mit hjerte".
-Fra det N.T.:	Romerbrevet 12,3-8.
-Korvers: Carl Nielsen: Tak for al Guds kærlighed (Tekst: Marinus Børup).
-Salme: 327 "Kirken er som Himmerige".
-Postludium: Niels W. Gade: Tonestykke i C-dur.</description>
-      <pubDate>Wed, 17 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405163/bcfe956e4abd7e4a040053ab9ab46b678aefcbb4f5e7f0d1e0fc32966773ef8d.mp3" type="audio/mpeg" length="36001579" />
     </item>
   </channel>
 </rss>

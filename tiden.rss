@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:48:27 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:47:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451091</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-swifties-i-stockholm-hvem-er-fico-og-doping-i-kolding-11802451091</link>
+      <title>Swifties i Stockholm, hvem er Fico og doping i Kolding</title>
+      <description>Taylor Swift rammer i weekenden Stockholm, og der er solgt omkring 200.000 billetter. Tiden dykker ned i hypen. Den kontroversielle Robert Fico bliver skudt på et tidspunkt i Slovakiet, hvor den politiske splittelse aldrig har været større, men hvem er Fico og hvilke konsekvenser kan attentatforsøget få for demokratiet i Slovakiet? Fem mænd er tiltalt i Danmarks største sag om indsmugling og salg af doping.
+Vært: Annika Wetterling.
+Medvirkende: 
+Lykke Friis, direktør for tænketanken Europa. 
+Sofie Aukdal, forfatter til bogen Mastermind om Taylor Swift.</description>
+      <pubDate>Fri, 17 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451091/6e0a56d839c1815333279e4e62f474472eb0710e751befe293727fe5fd3e227b.mp3" type="audio/mpeg" length="22489800" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451090</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-den-33-aariges-forklaringer-premierminister-ramt-af-skud-og-uffe-elbaeks-kinaproblem-11802451090</link>
@@ -1981,25 +1997,6 @@ Steffen Kretz, DR's internationale korrespondent.</description>
       <itunes:duration>00:18:26</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351211/f6bbb89522e025f1973994d733bd435308dbfdca24dab3dab51a8a2c231a22da.mp3" type="audio/mpeg" length="26547712" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351210</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-kraeft-forlomme-hospitalsoperation-og-borgmesterens-flag-11802351210</link>
-      <title>Kræft-forlomme, hospitalsoperation og borgmesterens flag</title>
-      <description>Krigen er nu rykket helt ind på Al-Shifa hospitalet i Gaza, efter at Israels militær har stormet området.
-Kræftpatienters ret til hurtig behandling skubber patienter, som måske har mere behov for behandling bagerst i køen. Det mener flere læger i hvert fald.
-En borgmester i København hænger et israelsk flag op i vinduet på Københavns Rådhus, men hvorfor ikke minde ofrene i Gaza?
-Vært: Adrian Busk.
-Medvirkende: 
-Jens-Kristian Lütken, beskæftigelses- og integrationsborgmester, Københavns Kommune.
-Iben Yde, militærjurist og Ph.d. ved Forsvarsakademiet.
-Jens Hilligsøe, overlæge og formand for Dansk Kirurgisk Selskab.</description>
-      <pubDate>Thu, 16 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:27</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351210/e0e2f463db6e323afe031c3fff9186f8d000571f56bcec442aada716aeb5a757.mp3" type="audio/mpeg" length="29451547" />
     </item>
   </channel>
 </rss>

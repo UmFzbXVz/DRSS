@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:48:44 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:47:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -304,20 +304,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424164/a9b1c1203482271209439d297b71c291f717f6cdae9fb6a2172b80e9200c9bc0.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424163</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-en-dansk-quiz-18452424163</link>
-      <title>En dansk quiz</title>
-      <description>Den Store Coverquiz er tilbage, og i dag bliver den smurt på et dansk rundstykke. Der bliver kigget nærmere på en ikonisk dansk duoplade, og lytterne har brug for musik til alt fra syge korsbånd til kedelige selvangivelser.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Wed, 17 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424163/077b81032cf37be991abfc0a93256742dd3cfea12fd84b471f971f9218114c4d.mp3" type="audio/mpeg" length="168481588" />
     </item>
   </channel>
 </rss>

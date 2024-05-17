@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 16 May 2024 19:48:40 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 05:47:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463057</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tys-12422463057</link>
+      <title>Tys</title>
+      <description>Når noget er hemmeligt, er det tys tys, når vi beder nogen om at være stille, så er det tys.
+I natsværmeren kan vi tysse på hinanden, for at kunne lytte og lade musikken få ordet.
+Vært: Tina Rømer.
+(Sendt første gang 5. februar).</description>
+      <pubDate>Fri, 17 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463057/98b1ad37791d9a4b0a1839bdacc4b30b0b643fa9a22be0a11e5dc656a67e7dc6.mp3" type="audio/mpeg" length="168478661" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463203</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-blaa-time-12422463203</link>
@@ -400,19 +415,6 @@ Vært: Tina Rømer.
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463044/faebc45b7d2cdd966abc9c983d62571337c8fe25f338e3919583cbaa677f8c64.mp3" type="audio/mpeg" length="168468927" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463162</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nattens-spejl-12422463162</link>
-      <title>Nattens spejl</title>
-      <description>Når skønheden vipper på kanten af noget ubærligt. Må natten spejle alle dine drømme.
-Vært: Minna Grooss.</description>
-      <pubDate>Wed, 17 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463162/1a91183d47e7e369a7f8dd9c468d757ec7e436ab26814cbe22c86c5a21074c1c.mp3" type="audio/mpeg" length="168480309" />
     </item>
   </channel>
 </rss>
