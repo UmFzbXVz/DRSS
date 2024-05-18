@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 05:56:17 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 16:35:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452434206</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-yndlingssange-18452434206</link>
+      <title>Yndlingssange</title>
+      <description>I dag dykker vi ned i de gode sange - yndlingssange, dem man bare kan høre igen og igen og igen. 
+Vært og tilrettelægger: Josephine Philip.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 18 May 2024 13:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434206/6cc908ef88e575fb12d9d81e0a75c944609a0a3ed2de24ed1f2fe4de9a771164.mp3" type="audio/mpeg" length="82081519" />
+    </item>
     <item>
       <guid isPermaLink="false">18452434196</guid>
       <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-roerende-stemmer-18452434196</link>

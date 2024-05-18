@@ -10,7 +10,7 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 05:56:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 16:35:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,19 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122481206</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-brasiliansk-fodboldmusik-16122481206</link>
+      <title>Brasiliansk fodboldmusik</title>
+      <description>Denne uges program bliver kuglefedt, som alle de unge går rundt og udtrykker sig, når de synes noget er fedt på den brasilianske måde.
+Udover musik så er Brasilien kendt for sin angrebsbetonede og legende tilgang til fodbold, som harmonerer PERFEKT med landets mange musiktraditioner. Vi skal blandt andet høre en fed plade som Pelé og Sergio Mendes har skabt sammen, vi skal høre Marcos Valle synge om fodbold for slet ikke at nævne alle de andre, som du selv bliver nødt til at mærke på egen krop for rigtig at kunne forstå.</description>
+      <pubDate>Sat, 18 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122481206/00b90607efcab4c3e3a7b8e1e847afd1b90cc5c4341ad4b9546278f14cc1e840.mp3" type="audio/mpeg" length="168482186" />
+    </item>
     <item>
       <guid isPermaLink="false">16122481196</guid>
       <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-byens-bedste-brazil-boogie-16122481196</link>
