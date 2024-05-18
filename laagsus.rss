@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:38 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122433205</guid>
+      <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-16122433205</link>
+      <title>Fredag 17. maj 2024</title>
+      <description>Alt er Lågsus på P3, når Pelle Peter Jencel fyrer op for din eftermiddag.</description>
+      <pubDate>Fri, 17 May 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122433205/b8669031f098118de26819e4832a1c864dd875bdc7950c2497eb48425b90fb51.mp3" type="audio/mpeg" length="172801982" />
+    </item>
     <item>
       <guid isPermaLink="false">16122433195</guid>
       <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-16122433195</link>

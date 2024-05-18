@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:50 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410205</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410205</link>
+      <title>Fredag 17. maj 2024</title>
+      <description>Det er en stor dag for alle de danske swifties, der skal til Stockholm i Sverige for at se Taytay give koncert. Liva forsøger derfor at få en af de mange fyldte busser gennem på telefonen for at høre stemningen. Det er også en morgen, hvor værterne har en høne at plukke med Hjerdis fra DMI, som forleden kaldte årets første sommerdag. Noget helt vanvittigt, når flere dele af landet havde det alt andet end sommeragtigt. Reglen er nemlig, at det bare skal være 25 grader et eller andet sted i Danmark, men måske den regel skal laves om. Mikkel har brug for lytternes hjælp til at lave en quiz, han har fundet på, men som han godt ved måske er for dårlig, og så er Andreas dybt forvirret over stedet, nogle unge klimaaktivister har valgt at sætte ind.
+Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
+Medvirkende:
+Kim Abelstedt Hansen og Elsebeth Boulund Sørensen, campingpladsejere.
+Niels Jørgen, buschauffør.</description>
+      <pubDate>Fri, 17 May 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410205/4e2f6ae3f5409fa7fab0454650f8bae5feebf99e811917aed8a230c57fb52948.mp3" type="audio/mpeg" length="254882098" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410204</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410204</link>
@@ -74,22 +90,6 @@ Martin Lidegaard, politisk leder, Radikale Venstre.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410202/d004a66d27efe40608fcf4572a956758995e43c04fc97ff824ab14c6234c478a.mp3" type="audio/mpeg" length="254882098" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410201</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410201</link>
-      <title>Mandag 13. maj 2024</title>
-      <description>Det er mandag efter kristi himmelfarts-ferien. Vi lægger lige ud med at tale om, hvornår vi får fri igen.
-Så er vi også stået op til en dag, hvor der har været rocker-demonstration i går. Ikke imod rockerne, men rockere der demonstrerer.
-Vi får også historien, om dengang Andreas så en mand gå og spise hjertesalat direkte fra posen. Han vil rigtig gerne vide, hvad I andre spiser, når I er i bevægelse.
-Til sidst har vi en overraskelse til jer. I får nemlig en unik mulighed for at være med på vores nye EM-sang i samarbejde med Lidt til Lægterne!
-Værter: Liva Manghezi, Mikkel Rosendal og Andreas Kousholt.</description>
-      <pubDate>Mon, 13 May 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410201/e338649fc47f86e8e40d2a0f24d36462a304828cb2b7ad3ea2a44ff5ba7ec5c5.mp3" type="audio/mpeg" length="254882098" />
     </item>
   </channel>
 </rss>

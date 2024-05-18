@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405205</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405205</link>
+      <title>Fredag 17. maj 2024</title>
+      <description>Præludium: Diederich Buxtehude: Nu bede vi den Helligånd, BuxWV 209.
+Fra det G.T.: Esajas 57,15-19.
+Salme: 308 "Helligånd, vor sorg du slukke".
+Fra det N.T.:	Johannesevangeliet 16, 23b-28.
+Korvers: Albert Becker: Oplys, o Gud, mig med din Ånd (tekst: Dansk bearbejdelse: Niels Rindorf.
+Salme: 723 "Naturen holder pinsefest".
+Postludium: Johann Sebastian Bach: Kom, Helligånd, Gud Herre From, BWV 667.</description>
+      <pubDate>Fri, 17 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405205/3759dc6a90999000b2078502d68f8dcd563d8ef032484fe6011effdf21e0ab2d.mp3" type="audio/mpeg" length="36001581" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405204</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405204</link>
@@ -438,24 +456,6 @@ Postludium: Kate Boundy: Andante grazioso B-dur.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405165/2db74be6cf9a447fac8200283f508b502d1556af53b0c74e1e8fb02c774cb174.mp3" type="audio/mpeg" length="36001574" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405164</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405164</link>
-      <title>Torsdag 18. apr. 2024</title>
-      <description>Præludium:	William Warder Harvey: Andante D-dur.
-Fra det G.T.:	Salme 30.
-Salme: 741 "Op, min sjæl, thi sol er oppe".
-Fra det N.T.:	Romerbrevet 12,9-16.
-Korvers: Carl Nielsen: Tak for al Guds kærlighed (Tekst: Marinus Børup).
-Salme: 367 "Vi rækker vore hænder frem".
-Postludium: Louis James Alfred Lefébure-Wély: Verset G-dur.</description>
-      <pubDate>Thu, 18 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405164/be3442d48a038115ec591cfbf2c11f1e99e4dc0c450dec70c0efecf378949b20.mp3" type="audio/mpeg" length="36001581" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:38 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12422463056</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tag-natten-som-den-er-12422463056</link>
+      <title>Tag natten som den er</title>
+      <description>Natsværmeren læner sig op ad dørkammen til din aften uden at mase sig for meget på. Et kor løfter dig op, filmmusikken husker dig på, hvem du også er, og en ung komponist leger med genre.
+Vært: Minna Grooss.
+(Sendt første gang 4. februar).</description>
+      <pubDate>Sat, 18 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463056/bd07b6f3a559466c77df0a7516b20c97689a1ecccdb5f4d0a88897e29d475d82.mp3" type="audio/mpeg" length="168479291" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463057</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tys-12422463057</link>
       <title>Tys</title>
@@ -36,9 +50,9 @@ Vært: Tina Rømer.
       <pubDate>Fri, 17 May 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>01:30:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463057/98b1ad37791d9a4b0a1839bdacc4b30b0b643fa9a22be0a11e5dc656a67e7dc6.mp3" type="audio/mpeg" length="168478661" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463057/6f51489e772af5ed9a135997acb63c76564c51765daab5b1aae1896d58a3c3f1.mp3" type="audio/mpeg" length="129602147" />
     </item>
     <item>
       <guid isPermaLink="false">12422463203</guid>
@@ -401,20 +415,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463164/2f2730e28566e4b1f94fc60c2ed775a95eef0a860cdbf06cafa20ea1b80ef726.mp3" type="audio/mpeg" length="168481541" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463044</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-ekko-12422463044</link>
-      <title>Ekko</title>
-      <description>I den græske mytologi er der bjergnymfen der elsker lyden af sin egen stemme. Natsværmeren elsker lyden af stemmer og instrumenter der synger. Hør musik der kaster genlyd af sig fra blandt andre Arvo Pärt, Rebekka Karijord og Martin Lohse.
-Vært: Tina Rømer.
-(Sendt første gang 26. januar).</description>
-      <pubDate>Thu, 18 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463044/faebc45b7d2cdd966abc9c983d62571337c8fe25f338e3919583cbaa677f8c64.mp3" type="audio/mpeg" length="168468927" />
     </item>
   </channel>
 </rss>

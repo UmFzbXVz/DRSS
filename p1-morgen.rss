@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,20 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433205</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433205</link>
+      <title>Fredag 17. maj 2024</title>
+      <description>Hvorfor vurderer eksperter, at Miljøministeriet har forsøgt at skjule ulovlige retningslinjer for EU?
+Hvorfor er der brug for alkoholforbud for landets 9. klasser?
+Og hvad betyder det for Ukraine, at soldater i større stil skal tvinges ind?  
+Dagens værter: Cecilie Lange og Thomas Tjeranden.</description>
+      <pubDate>Fri, 17 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433205/821694b58276cce00ed881d70e57ba9949b026d8e43b23ee98b31f1bd4fb0106.mp3" type="audio/mpeg" length="237764015" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433204</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433204</link>
@@ -1846,18 +1860,6 @@ Dagens værter: Søren Carlsen og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:55</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333472/b101b8f05edc294c9d2e7f44ea22ea11ff6aadee949977f377d893a73d9cb11f.mp3" type="audio/mpeg" length="237497121" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333471</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333471</link>
-      <title>Mandag 20. nov. 2023</title>
-      <description>Hvorfor vender størstedelen af politifolk ikke tilbage til arbejdet efter deres orlov? Hvorfor er tilbuddet til kræftpatienter om operation i udlandet ikke godt nok? Hvad betyder det for Argentina, at Javier Milei vinder præsidentvalget? 
-Dagens værter: Morten Runge og Søren Carlsen.</description>
-      <pubDate>Mon, 20 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:03</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333471/210dac2714dbcc42711f608f3eb0b45558cefebc06d87fc684076fe8d129e2e4.mp3" type="audio/mpeg" length="237687987" />
     </item>
   </channel>
 </rss>

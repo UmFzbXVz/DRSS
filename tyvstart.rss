@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:32 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -1899,20 +1899,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350224/d9bda416b1b6815c544750f69195946fb700a37dc5afc684449e9cb91e1d4d8c.mp3" type="audio/mpeg" length="26098429" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350223</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-landsholdets-skaebnedage-13652350223</link>
-      <title>Landsholdets skæbnedage</title>
-      <description>Selvom EM-kvalifikationen har budt på dårlige præstationer og store skuffelsen, har Hjulmands tropper stadig skæbnen i egne hænder.
-Nu spidser det til, og det virker overkommeligt at skrabe de nødvendige point sammen i weekendens to sidste kampe mod Slovenien og Nordirland. Men de seneste måneder har vist, at alt ikke er, som det plejer, og selvom fodboldkommentator Andreas Kraul ikke er panikslagen, forstår han, hvorfor danske fans kan være usikre.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 17 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:43</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350223/179774e336391dc96a920c9447c57ad15492a63924dd0eecf44caa5d47f3f01b.mp3" type="audio/mpeg" length="24076095" />
     </item>
   </channel>
 </rss>

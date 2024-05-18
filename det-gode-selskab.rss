@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Charlotte Hagen Striib.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452428205</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-jens-wendel-hansen-15452428205</link>
+      <title>Med Jens Wendel-Hansen</title>
+      <description>Præsten og politikeren N.F.S. Grundtvig har efterladt 37.000 sider med salmer og andre tekster, som historiker Jens Wendel-Hansen er med til at digitalisere og kommentere - sammen med 10-12 kolleger på Centret for Grundtvigforskning. Jens anslår, det vil tage 20 år. 
+Vært: Charlotte Striib.</description>
+      <pubDate>Fri, 17 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428205/283bf76880e416c00046393e0d1ef4d97f86789d9435dd3b2e988d75c87e7a7b.mp3" type="audio/mpeg" length="168481606" />
+    </item>
     <item>
       <guid isPermaLink="false">15452428204</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-mette-frobenius-15452428204</link>
@@ -67,21 +80,6 @@ Vært: Søren Hansen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428202/5e6ecf1368d6118caa4b9f48c6a3f300cd4201e183e076e322d882c174ae8b44.mp3" type="audio/mpeg" length="168482182" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428201</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-eva-skafte-jensen-15452428201</link>
-      <title>Med Eva Skafte Jensen</title>
-      <description>Skal du skrive "Kære" eller "Hej", når du indleder en mail eller et brev? Den udfordring sidder rigtig mange med.
-Og hvordan med afslutningen? - Skal det være "Kærlig Hilsen", "Med Venlig Hilsen" eller måske "Mange Hilsner"?
-Seniorforsker ved Dansk Sprognævn Eva Skafte Jensen fortæller meget om, hvem der typisk bruger hvilke vendinger.
-Vært: Søren Hansen.</description>
-      <pubDate>Mon, 13 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428201/184304115ea633c79127c26e0a28d7bd94fc4ad10071e86cce9fbba48a2414d1.mp3" type="audio/mpeg" length="168481593" />
     </item>
   </channel>
 </rss>

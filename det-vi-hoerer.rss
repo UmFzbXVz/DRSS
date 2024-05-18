@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -384,22 +384,6 @@ Vært: Benedikte Bové.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381884/b9d0d7c1e31712bf929bdb5f74f2e8a105a946c6e017611ef339db622119735d.mp3" type="audio/mpeg" length="165794563" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381883</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-de-store-koncertoplevelser-12422381883</link>
-      <title>De store koncertoplevelser</title>
-      <description>I min ungdom gik jeg til koncert for en flad femmer! Odense Symfoniorkesters tilbud til unge var generøst og genialt og gav store musikalske oplevelser. Hør også om en skelsættende masterclass med Mstislav Rostropovitj.
-Vært: Benedikte Bové.</description>
-      <pubDate>Fri, 17 Nov 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000110003</itunes:order>
-      <itunes:season>11</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381883/7e7c25d4d98f6c57ee032964d1f12b2ea70e8dbd54cd4cdf7927309e67e2b8b9.mp3" type="audio/mpeg" length="165601596" />
     </item>
   </channel>
 </rss>

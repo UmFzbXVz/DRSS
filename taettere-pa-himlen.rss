@@ -9,7 +9,7 @@ Andrew Moyo har dig. Kom nu!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:50 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Andrew Moyo har dig. Kom nu!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332429205</guid>
+      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-sara-bro-og-herlige-svend-13332429205</link>
+      <title>Med Sara Bro og Herlige Svend</title>
+      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
+Andrew Moyo har dig. Kom nu!</description>
+      <pubDate>Fri, 17 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429205/503466db8268080fd3698c1ab25ce103a0f0d06d414b4d8382eaa892671cca0b.mp3" type="audio/mpeg" length="172802050" />
+    </item>
     <item>
       <guid isPermaLink="false">13332429195</guid>
       <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-noerrebropigen-og-skinkedrengen-13332429195</link>
@@ -289,20 +302,6 @@ Gæster: FVN &amp; Cisilia.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329475/b59fe12fe720020361b13f3af4fe2842448ab5917f1cabb0d1e4d98570a8cce2.mp3" type="audio/mpeg" length="172994442" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332329465</guid>
-      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2023/taettere-paa-himlen-13332329465</link>
-      <title>Fredag 17. nov. 2023</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!
-Gæster: Nynne Givskov og Kasper Reippurt.</description>
-      <pubDate>Fri, 17 Nov 2023 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329465/9a74f0ac31fef4cb0c8c37dca6987c3c154867fd98ff840361b7418146f46716.mp3" type="audio/mpeg" length="172801461" />
     </item>
   </channel>
 </rss>

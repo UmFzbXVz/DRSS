@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 17 May 2024 05:47:33 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 05:56:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802443140</guid>
+      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-socialdemokratiet-rammer-nyt-lavpunkt-godt-nok-vildt-11802443140</link>
+      <title>Socialdemokratiet rammer nyt lavpunkt: "Godt nok vildt!"</title>
+      <description>Noa Redington spærrer øjnene op, da han ser en helt ny måling, hvor Socialdemokratiet står til at miste over en tredjedel af de vælgere, der stemte på dem ved sidste valg. Redington var rådgiver for statsminister Helle Thorning-Schmidt, da hun havde lige så elendige målinger for 11 år siden. Dengang opfordrede en række kredsformænd hende til at gå af. Så hvor hårdt presset er partiet og statsminister Mette Frederiksen af den nye måling? Det spørger Slotsholmen om i dag. Vi runder også Venstre, hvor en række folketingspolitikere nu udtaler sig anonymt om, at deres formand, Troels Lund Poulsen, skal steppe op og gå efter den magtfulde post som finansminister.
+Værter: Pia Glud Munksgaard og Thomas Buhl.
+Gæster: Noa Redington, politisk kommentator, tidligere rådgiver for Helle Thorning-Schmidt, Jacob Bruun, tidligere rådgiver i Venstre, indehaver af Bruun Advisory.
+Tilrettelægger: Theodora Renard.</description>
+      <pubDate>Fri, 17 May 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:21:28</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802443140/8e38a02838945392970e7710375202a60dbf41b70a0d2e22c874b5da3c804d28.mp3" type="audio/mpeg" length="30922445" />
+    </item>
     <item>
       <guid isPermaLink="false">11802443139</guid>
       <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-foelelsesladet-veganer-debat-splitter-alternativet-11802443139</link>
@@ -760,20 +774,6 @@ Gæster: Christine Cordsen, politisk korrespondent, DR.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:21:08</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343265/367c2580bce2f6d5ea931a64fd98c29475a00b0c77f19729d5068517bb728105.mp3" type="audio/mpeg" length="30443794" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802343249</guid>
-      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2023/slotsholmen-smaek-til-regeringen-igen-11802343249</link>
-      <title>Smæk til regeringen - igen</title>
-      <description>Vælgerne siver fra regeringen, og en spritny måling markerer et nyt lavpunkt for SVM. Socialdemokratiet får den dårligste måling med Mette Frederiksen som formand, Venstre og Moderaterne går også tilbage, og hvis der var folketingsvalg i morgen, ville regeringen miste hver tredje vælger. Hvad er gået galt for regeringen, der ellers lige har været på charmetur? Og risikerer de dårlige målinger at skabe sprækker i regeringssamarbejdet? Det spørger vi to politiske analytikere om i dag.
-Værter: Thomas Buhl og Pia Glud Munksgaard.
-Gæster: Christine Cordsen, politisk korrespondent, DR, Jens Ringberg, politisk analytiker, DR.
-Tilrettelægger: Jonas Gulmann.</description>
-      <pubDate>Fri, 17 Nov 2023 16:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:38</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343249/00ef56956df78c8cdb5833bdc53582ec4a150c0ff1933b9da495e35fd7f03d2d.mp3" type="audio/mpeg" length="29733005" />
     </item>
   </channel>
 </rss>
