@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:34:35 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:14:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -373,23 +373,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428171/4145d6f62a69365e69665c6ae921d7b680694e676d6e073bf63cd2252a2cfd65.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428165</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-med-p8-til-jazzahead-den-nye-generation-af-jazzelskere-18452428165</link>
-      <title>Med P8 til Jazzahead - den nye generation af jazzelskere</title>
-      <description>Gennem ugen har vi rapporteret fra weekendens branchefestival Jazzahead og talt med nogle af de danske artister, som var på plakaten. Denne morgen handler det om nogle af dem, som var med uden at spille, nemlig et helt hold af unge fra det voksende jazzmiljø i Kolding samt en delegation fra Jazzdanmark.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Fri, 19 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428165/1c702b607546bb418883dd163125909ab98290f81b74c2ca6e409d713d262670.mp3" type="audio/mpeg" length="252002183" />
     </item>
   </channel>
 </rss>

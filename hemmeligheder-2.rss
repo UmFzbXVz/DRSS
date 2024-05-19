@@ -13,7 +13,7 @@ Produceret af P3 Podcast.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:34:50 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:15:07 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret af P3 Podcast.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593b93ca838f3bbb329ffa8.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">13332496220</guid>
+      <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-mattias-kolstrup-13332496220</link>
+      <title>Mattias Kolstrup</title>
+      <description>En lytter har købt dyr kunst for at hævne sig på sin kæreste, og en anden lytter er bange for at blive som sin psykisk syge mor. Sådan lyder det, når Sanne Cigale Benmouyal aflytter telefonsvareren med Mattias Kolstrup, der selv deler en hemmelighed, som bryder med hans image.</description>
+      <pubDate>Sun, 19 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:00:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496220/74bf67ff4b64142eda26ad8c913dba9b0724547b27e4afda1be6bde2b5102ca2.mp3" type="audio/mpeg" length="86532925" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496219</guid>
       <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-frederikke-legaard-13332496219</link>

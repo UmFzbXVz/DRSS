@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:34:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:14:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -65,21 +65,6 @@ Vært: Søren Hansen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428203/60436d2cdbc36a5d45d55824fe8664e2715dbe214d0f677aaf075606d1ed3dfb.mp3" type="audio/mpeg" length="168482182" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428202</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-birgitte-rahbek-kornum-15452428202</link>
-      <title>Med Birgitte Rahbek Kornum</title>
-      <description>Sover du for lidt? - så er du ikke den eneste
-Sundhedsstyrelsen har netop lavet nye anbefalinger for søvnlængde for alle aldersgrupper. F.eks. sover hver tredje voksne for lidt.
-Forsker Birgitte Rahbek Kornum fortæller meget mere om vigtigheden af, at vi prioriterer vores søvn.
-Vært: Søren Hansen.</description>
-      <pubDate>Tue, 14 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428202/5e6ecf1368d6118caa4b9f48c6a3f300cd4201e183e076e322d882c174ae8b44.mp3" type="audio/mpeg" length="168482182" />
     </item>
   </channel>
 </rss>

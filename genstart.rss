@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:34:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:06:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460117</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>En endefuld til Trump</title>
+      <description>På et hotelværelse i Lake Tahoe folder Stormy Daniels i 2006 et magasin sammen. Hun smækker Donald Trump med det bagi og efterfølgende har de sex i missionærstilling. Pornostjernen har tidligere fortalt de slibrige detaljer om sit intime møde Trump, men nu gør hun det igen. Den her gang under ed i en retssal i New York, hvor den tidligere amerikanske præsident er tiltalt for at have betalt sin daværende advokat Michael Cohen for at give skuespillerinden 130.000 dollars for at tie om sit møde med Trump. Tystys-penge, anklageren mener kan ses som et ulovligt kampagnebidrag, der kan have påvirket Trumps vej til det Hvide Hus. I dagens Genstart åbner Berlingskes USA-korrespondent, Jacob Heinel Jensen, dørene til retssalen og fortæller om den kulørte retssag, der sender den tidligere præsident - og nuværende præsidentkandidat - ud i lidt af en storm. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 15/5.</description>
+      <pubDate>Sun, 19 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460117/5e69f2f3448a238ccda6bab54aaa58a774713ac01de43a6227a75db6e6f364f2.mp3" type="audio/mpeg" length="33003534" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460116</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9537,19 +9551,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:18</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150098/b90fe7e6190933e4d686b005a802e5c0e307c30272d6b13f90e8ee95353e448a.mp3" type="audio/mpeg" length="33572613" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150097</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-scener-fra-et-tvangsaegteskab-11802150097</link>
-      <title>Scener fra et tvangsægteskab</title>
-      <description>Som 18-årig bliver Karima Bouylud giftet bort til en mand i Marokko, som hun ikke kender. Tvangsægteskabet konverterer det beskyttede ungdomsliv i Danmark til et uønsket voksenliv i Marokko og bliver starten på en dyster deroute. Baseret på egne dagbogsnotater, har den nyudklækkede forfatter nu begået en roman med titlen 'I kærlighedens navn'. Karima Bouylud fortæller sin smertefulde historie om livet i spændingsfeltet mellem dansk og marokkansk kultur.
-Vært: Knud Brix.</description>
-      <pubDate>Tue, 18 May 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:11</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150097/5b723e50203ebb03bb80d763817003b77b404949a3991cdd5c84e0367c7f6801.mp3" type="audio/mpeg" length="34840396" />
     </item>
   </channel>
 </rss>

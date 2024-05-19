@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:34:52 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:15:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -73,23 +73,6 @@ Medvirkende: David Rasmusson, svensker.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410203/751f1e7f0ef74db000590f5d7defe1c1ce3dc9d6c5765f624ad33083746b7683.mp3" type="audio/mpeg" length="254881522" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410202</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410202</link>
-      <title>Tirsdag 14. maj 2024</title>
-      <description>Kan man kende en rig person på deres latter? Lad os finde ud af det.
-Hele verdens senator med vanter, Bernie Sanders, har sendt et brev gennem Politiken til Danmark. Få styr på Novo Nordisk pengegriske tilgang til Wegovy på det amerikanske marked! Vi giver Bernie en chance. I får lov til at bestemme, om vi skal tage fat i Novo Nordisk - eller om vi skal lade amerikanerne sejle deres egen sø og høste pengene.
-Der har været så meget bøvl med Eurovision i år. Nu er EU også sure, fordi EU-flag var forbudte til showet. Men hvem har egentlig lige et EU-flag? Mikkel siger: ingen. Andreas siger: Alle der stemmer eller har stemt på Radikale Venstre.
-Værter: Liva Manghezi, Mikkel Rosendal og Andreas Kousholt.
-Medvirkende:
-Martin Lidegaard, politisk leder, Radikale Venstre.</description>
-      <pubDate>Tue, 14 May 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410202/d004a66d27efe40608fcf4572a956758995e43c04fc97ff824ab14c6234c478a.mp3" type="audio/mpeg" length="254882098" />
     </item>
   </channel>
 </rss>

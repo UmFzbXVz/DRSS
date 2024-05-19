@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:35:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:15:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -70,21 +70,6 @@ Nyd din solskinsdag med Drømmeholdet!</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425203/6ff2f0f5942946c0e1c7369b6149d7288dee0e5b856fa185b2364620a1cfd9de.mp3" type="audio/mpeg" length="254882179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425202</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-dahlgaards-tivoli-telefon-i-tornadoen-og-droem-om-feedback-13332425202</link>
-      <title>Dahlgårds Tivoli, telefon i Tornadoen og drøm om feedback</title>
-      <description>Det er simpelthen utroligt, vi skal tage den her igen. Vi skal altså bruge din drøm kammerat! Send den og dit telefonnummer til p3drommer@dr.dk.
-"Går man i byen, så står man op om morgen", er en af de ting du lærer og lever efter, hvis du ligesom Lasse er fan af Dahlgårds tivoli. Dagens drøm er derfor en Dahlgårs Tivoli-jakke.
-Charlie har været i Tornadoen på Bakken, men kom ud derfra en telefon fattigere. Den vil han have igen, og det er der jo kun en mand, der kan hjælpe med! Morten Messerschmidt selvfølgelig.
-Christines bror laver musik, han tør bare kun vise det til hende. Christine ved godt, hun er lidt farvet af at være hans søster, så hun drømmer om at en rigtig producer vil give ham ægte feedback.</description>
-      <pubDate>Tue, 14 May 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425202/0870bb18db906600d8c9955661ce78449e958645d6a0b235f4aca6e09759e182.mp3" type="audio/mpeg" length="254882184" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:34:54 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:14:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -35,9 +35,9 @@ Vært: Minna Grooss.
       <pubDate>Sat, 18 May 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463056/bd07b6f3a559466c77df0a7516b20c97689a1ecccdb5f4d0a88897e29d475d82.mp3" type="audio/mpeg" length="168479291" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463056/ff6456856a93f7283ed1cd751dcec0e5571cdc9ccd86914c9d4d20677bc214e6.mp3" type="audio/mpeg" length="82081595" />
     </item>
     <item>
       <guid isPermaLink="false">12422463057</guid>
@@ -402,19 +402,6 @@ Vært: Peter Albrechtsen.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463165/606557d6bc3498f59a9cf9ec447f78dbb40b9f679adfd20c12a087c5f3bd64cf.mp3" type="audio/mpeg" length="168468853" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463164</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-en-soed-duft-af-brandy-12422463164</link>
-      <title>En sød duft af brandy</title>
-      <description>Længslen efter tilrøget barer i smalle gader, hvor cigaretter blev skoddet på gulvet, og der duftede af sød brandy. Røgen er væk, men den søde brandy hænger ved.
-Vært: Minna Grooss.</description>
-      <pubDate>Fri, 19 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463164/2f2730e28566e4b1f94fc60c2ed775a95eef0a860cdbf06cafa20ea1b80ef726.mp3" type="audio/mpeg" length="168481541" />
     </item>
   </channel>
 </rss>

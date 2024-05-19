@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:34:34 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:14:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -290,20 +290,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424171/8d2f940a2f16963819950b7a14b5b71cff5e13553abc6330604218bf0e47692f.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424165</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-fumlebiens-skimmelsvamp-18452424165</link>
-      <title>Fumlebiens skimmelsvamp</title>
-      <description>I denne udgave af programmet kan du høre historien om, hvorfor et nummer, der egentlig skulle hedde Flight Of The Bumblebee, blev til Blight Of The Fumblebee. Lytterne blokerer internettet og kræver jazz til både specialeskrivning, morgenmad i Paris og hjemmearbejdsdag i nattøj og uglet hår. Ingen teams-møder her.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Fri, 19 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424165/5cba1508049ac38b9cba5fa424ea27d3f644d6c390779628ff459ec682845979.mp3" type="audio/mpeg" length="168482164" />
     </item>
   </channel>
 </rss>

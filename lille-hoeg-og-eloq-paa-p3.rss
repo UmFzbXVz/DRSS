@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 18 May 2024 16:34:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:14:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122434206</guid>
+      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-scott-storch-og-de-30-mio-dollars-16122434206</link>
+      <title>Scott Storch og de 30 mio. dollars</title>
+      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
+Produceret for DR af Chloroform.</description>
+      <pubDate>Sat, 18 May 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434206/a00fc89b2c307b22786136f5ec808481cc81f29f8ff5f97fad2b7a6543d41819.mp3" type="audio/mpeg" length="172802181" />
+    </item>
     <item>
       <guid isPermaLink="false">16122434196</guid>
       <link>https://www.dr.dk/lyd/p3/flex/flex/flex-amen-breaks-og-kalkunlyde-16122434196</link>
