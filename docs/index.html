@@ -52,14 +52,15 @@ document.querySelector('.container h2').addEventListener('touchstart', function(
 
 document.addEventListener('DOMContentLoaded', async () => {
     try {
-        const [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData] = await Promise.all([
+        const [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData] = await Promise.all([
             fetchDRPodcastsData(),
             fetchPodimoPodcastsData(),
             fetchMiscPodcastsData(),
             fetchPir8dioPodcastsData(),
+            fetchPolitikenPodcastsData(),
             preloadRssIcon()
         ]);
-        filterPodcasts(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData);
+        filterPodcasts(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData);
     } catch (error) {
         console.error('Error fetching data:', error);
     }
@@ -92,6 +93,10 @@ async function fetchMiscPodcastsData() {
 
 async function fetchPir8dioPodcastsData() {
     return fetchData('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/data.json');
+}
+  
+async function fetchPolitikenPodcastsData() {
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json');
 }
 
 async function fetchData(url) {
@@ -159,8 +164,9 @@ async function filterPodcasts(searchText) {
     const podimoPodcastsData = await fetchPodimoPodcastsData();
     const miscPodcastsData = await fetchMiscPodcastsData();
     const pir8dioPodcastsData = await fetchPir8dioPodcastsData();
+    const politikenPodcastsData = await fetchPolitikenPodcastsData();
 
-    if (!drPodcastsData || !podimoPodcastsData || !miscPodcastsData || !pir8dioPodcastsData) {
+    if (!drPodcastsData || !podimoPodcastsData || !miscPodcastsData || !pir8dioPodcastsData || !politikenPodcastsData) {
         console.error('Error: No podcasts data available');
         return;
     }
@@ -186,6 +192,12 @@ async function filterPodcasts(searchText) {
     const filteredPir8dioPodcasts = pir8dioPodcastsData.filter(podcast => {
         const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
         const contentMatches = isAdvanced && podcast.content && podcast.content.toLowerCase().includes(searchText.toLowerCase());
+        return titleMatches || contentMatches;
+    });
+  
+      const filteredPolitikenPodcasts = politikenPodcastsData.filter(podcast => {
+        const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
+        const contentMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
         return titleMatches || contentMatches;
     });
 
@@ -236,6 +248,15 @@ async function filterPodcasts(searchText) {
             text: podcast.title + ' (r8Dio)',
             url: podcast.program_url,
             rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${encodeURIComponent(podcast.slug)}.rss`,
+            weight: calculateWeight(podcast.title, searchText)
+        });
+    });
+  
+      filteredPolitikenPodcasts.forEach(podcast => {
+        results.push({
+            text: podcast.title + ' (Politiken)',
+            url: podcast.program_url,
+            rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/${encodeURIComponent(podcast.id)}.rss`,
             weight: calculateWeight(podcast.title, searchText)
         });
     });
@@ -313,14 +334,6 @@ document.getElementById('searchInput').addEventListener('keypress', function(eve
     if (event.key === 'Enter') {
         this.blur();
     }
-});
-
-document.querySelectorAll('a.podcast-link').forEach(link => {
-    link.addEventListener('click', function(event) {
-        event.preventDefault();
-        const rssUrl = encodeURIComponent(this.href.replace('podcast://', ''));
-        window.location.href = `podcast://${rssUrl}`;
-    });
 });
 </script>
 </body>
