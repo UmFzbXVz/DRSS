@@ -135,8 +135,8 @@ h2 {
 }
 
 .container h2::before {
-    content: '\00a0\00a0\00a0\00a0\00a0\00a0';
-    white-space: pre;
+    content: '';
+    padding-right: 1.3em;
 }
 
 .container h2::after {
