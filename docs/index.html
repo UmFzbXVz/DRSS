@@ -28,26 +28,24 @@ document.querySelector('.container h2').addEventListener('touchstart', function(
     event.preventDefault();
     const touchDuration = 400;
     const start = new Date().getTime();
+    let isAdvanced = this.classList.contains('advanced');
 
     const longPressTimer = setTimeout(() => {
         if (!isAdvanced) {
-            this.style.color = '#1DA1F2'; 
+            this.classList.add('advanced');
         } else {
-            this.style.color = '#f5f5f5';
+            this.classList.remove('advanced');
         }
         isAdvanced = !isAdvanced;
         const searchText = document.getElementById('searchInput').value.trim();
         filterPodcasts(searchText);
     }, touchDuration);
 
-    this.addEventListener('touchend', function() {
-        clearTimeout(longPressTimer); 
-    });
-
-    this.addEventListener('touchmove', function() {
-        clearTimeout(longPressTimer); 
-    });
+    const clearTimer = () => clearTimeout(longPressTimer);
+    this.addEventListener('touchend', clearTimer);
+    this.addEventListener('touchmove', clearTimer);
 });
+
 
 
 document.addEventListener('DOMContentLoaded', async () => {
