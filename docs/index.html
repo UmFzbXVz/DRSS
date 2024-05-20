@@ -23,17 +23,15 @@ const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fe
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
 let isAdvanced = false;
-const element = document.querySelector('.container h2');
-const magnifyingGlass = '🔎️';
+const h2Container = document.querySelector('.container h2');
 
-
-element.addEventListener('click', () => {
+h2Container.addEventListener('click', () => {
     if (!isAdvanced) {
-        element.style.color = '#1DA1F2';
-        element.textContent += ` ${magnifyingGlass}`;
+        h2Container.style.color = '#1DA1F2';
+        h2Container.style.setProperty('--magnifying-glass-opacity', '1'); // Set opacity to 100% when advanced
     } else {
-        element.style.color = '#f5f5f5';
-        element.textContent = element.textContent.replace(` ${magnifyingGlass}`, '');
+        h2Container.style.color = '#f5f5f5';
+        h2Container.style.setProperty('--magnifying-glass-opacity', '0'); // Set opacity to 0% when not advanced
     }
     isAdvanced = !isAdvanced;
     const searchText = document.getElementById('searchInput').value.trim();
