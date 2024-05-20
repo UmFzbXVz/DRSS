@@ -134,11 +134,12 @@ h2 {
     transition: background 0.3s, transform 0.3s, text-shadow 0.3s;
 }
 
-h2.advanced {
-    background: linear-gradient(90deg, white, #1DA1F2);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+.container h2::before {
+    content: '\00a0\00a0';
+}
+.container h2::after {
+    content: '🔎️';
+    opacity: var(--magnifying-glass-opacity, 0);
 }
 
 .result img,
