@@ -22,9 +22,11 @@
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
-let isAdvanced = false;
   
-document.querySelector('.container h2').addEventListener('touchstart', function(event) {
+  
+let isAdvanced = false;
+
+document.querySelector('.container h2').addEventListener('mousedown', function(event) {
     event.preventDefault();
     const touchDuration = 400;
     const start = new Date().getTime();
@@ -40,14 +42,42 @@ document.querySelector('.container h2').addEventListener('touchstart', function(
         filterPodcasts(searchText);
     }, touchDuration);
 
-    this.addEventListener('touchend', function() {
+    const clearTimer = () => {
         clearTimeout(longPressTimer); 
-    });
+        document.removeEventListener('mouseup', clearTimer);
+        document.removeEventListener('mousemove', clearTimer);
+    };
 
-    this.addEventListener('touchmove', function() {
-        clearTimeout(longPressTimer); 
-    });
+    document.addEventListener('mouseup', clearTimer);
+    document.addEventListener('mousemove', clearTimer);
 });
+
+document.querySelector('.container h2').addEventListener('touchstart', function(event) {
+    event.preventDefault();
+    const touchDuration = 400;
+    const start = new Date().getTime();
+
+    const longPressTimer = setTimeout(() => {
+        if (!isAdvanced) {
+            this.classList.add('advanced');
+        } else {
+            this.classList.remove('advanced');
+        }
+        isAdvanced = !isAdvanced;
+        const searchText = document.getElementById('searchInput').value.trim();
+        filterPodcasts(searchText);
+    }, touchDuration);
+
+    const clearTimer = () => {
+        clearTimeout(longPressTimer); 
+        document.removeEventListener('touchend', clearTimer);
+        document.removeEventListener('touchmove', clearTimer);
+    };
+
+    document.addEventListener('touchend', clearTimer);
+    document.addEventListener('touchmove', clearTimer);
+});
+
 
 document.addEventListener('DOMContentLoaded', async () => {
     try {
