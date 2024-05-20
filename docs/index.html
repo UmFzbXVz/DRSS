@@ -9,7 +9,7 @@
 <body>
 
 <div class="container">
-  <h2>Test foregår. Paß auf!</h2>
+  <h2>find podcasts</h2>
   <div class="search-wrapper">
       <input type="text" id="searchInput" placeholder="Søg...">
       <span class="clear-search" onclick="clearSearch()">&#10006;</span>
@@ -28,10 +28,10 @@ const h2Container = document.querySelector('.container h2');
 h2Container.addEventListener('click', () => {
     if (!isAdvanced) {
         h2Container.style.color = '#1DA1F2';
-        h2Container.style.setProperty('--magnifying-glass-opacity', '1'); // Set opacity to 100% when advanced
+        h2Container.style.setProperty('--magnifying-glass-opacity', '1');
     } else {
         h2Container.style.color = '#f5f5f5';
-        h2Container.style.setProperty('--magnifying-glass-opacity', '0'); // Set opacity to 0% when not advanced
+        h2Container.style.setProperty('--magnifying-glass-opacity', '0');
     }
     isAdvanced = !isAdvanced;
     const searchText = document.getElementById('searchInput').value.trim();
