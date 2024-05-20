@@ -126,29 +126,19 @@ h2 {
     text-align: center;
     font-size: 28px;
     margin-bottom: 20px;
-    background: linear-gradient(90deg, white, #e0e0e0);
-    -webkit-background-clip: text;
-    color: transparent;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     font-weight: bold;
     letter-spacing: 1.5px;
+    background: linear-gradient(90deg, white, #e0e0e0);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     transition: background 0.3s, transform 0.3s, text-shadow 0.3s;
 }
 
 h2.advanced {
-    text-align: center;
-    font-size: 28px;
-    margin-bottom: 20px;
-    background: linear-gradient(90deg, white, #1DA1F2);    
-    -webkit-background-clip: text;
-    color: transparent;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-    font-weight: bold;
-    letter-spacing: 1.5px;
-    transition: background 0.3s, transform 0.3s, text-shadow 0.3s;
+    background: linear-gradient(90deg, white, #1DA1F2);
 }
-
-
 
 .result img,
 .result .podcast-logo,
