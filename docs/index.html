@@ -25,58 +25,50 @@ const resultsContainer = document.getElementById('results');
   
   
 let isAdvanced = false;
+const element = document.querySelector('.container h2');
 
-document.querySelector('.container h2').addEventListener('mousedown', function(event) {
+const handleLongPress = (event) => {
     event.preventDefault();
     const touchDuration = 400;
-    const start = new Date().getTime();
+    let longPressTimer;
 
-    const longPressTimer = setTimeout(() => {
-        if (!isAdvanced) {
-            this.style.color = '#1DA1F2'; 
-        } else {
-            this.style.color = '#f5f5f5';
-        }
-        isAdvanced = !isAdvanced;
-        const searchText = document.getElementById('searchInput').value.trim();
-        filterPodcasts(searchText);
-    }, touchDuration);
-
-    const clearTimer = () => {
-        clearTimeout(longPressTimer); 
-        document.removeEventListener('mouseup', clearTimer);
-        document.removeEventListener('mousemove', clearTimer);
+    const startPress = () => {
+        longPressTimer = setTimeout(() => {
+            if (!isAdvanced) {
+                element.style.color = '#1DA1F2';
+            } else {
+                element.style.color = '#f5f5f5';
+            }
+            isAdvanced = !isAdvanced;
+            const searchText = document.getElementById('searchInput').value.trim();
+            filterPodcasts(searchText);
+        }, touchDuration);
     };
 
-    document.addEventListener('mouseup', clearTimer);
-    document.addEventListener('mousemove', clearTimer);
-});
-
-document.querySelector('.container h2').addEventListener('touchstart', function(event) {
-    event.preventDefault();
-    const touchDuration = 400;
-    const start = new Date().getTime();
-
-    const longPressTimer = setTimeout(() => {
-        if (!isAdvanced) {
-            this.classList.add('advanced');
-        } else {
-            this.classList.remove('advanced');
-        }
-        isAdvanced = !isAdvanced;
-        const searchText = document.getElementById('searchInput').value.trim();
-        filterPodcasts(searchText);
-    }, touchDuration);
-
-    const clearTimer = () => {
-        clearTimeout(longPressTimer); 
-        document.removeEventListener('touchend', clearTimer);
-        document.removeEventListener('touchmove', clearTimer);
+    const clearPress = () => {
+        clearTimeout(longPressTimer);
+        element.removeEventListener('mouseup', clearPress);
+        element.removeEventListener('mouseleave', clearPress);
+        element.removeEventListener('touchend', clearPress);
+        element.removeEventListener('touchmove', clearPress);
+        element.removeEventListener('touchcancel', clearPress);
     };
 
-    document.addEventListener('touchend', clearTimer);
-    document.addEventListener('touchmove', clearTimer);
-});
+    if (event.type === 'mousedown') {
+        startPress();
+        element.addEventListener('mouseup', clearPress);
+        element.addEventListener('mouseleave', clearPress);
+    } else if (event.type === 'touchstart') {
+        startPress();
+        element.addEventListener('touchend', clearPress);
+        element.addEventListener('touchmove', clearPress);
+        element.addEventListener('touchcancel', clearPress);
+    }
+};
+
+element.addEventListener('mousedown', handleLongPress);
+element.addEventListener('touchstart', handleLongPress);
+
 
 
 document.addEventListener('DOMContentLoaded', async () => {
