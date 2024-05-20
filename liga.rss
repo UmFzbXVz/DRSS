@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:25:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652402207</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402207</link>
+      <title>Søndag 19. maj 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Morten Hausborg og Sara Skovhave.</description>
+      <pubDate>Sun, 19 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:53:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402207/eac2ebe6485151b5e5f1331976718bf786c2741621258c69d2a1d186800d6111.mp3" type="audio/mpeg" length="163178210" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652402204</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402204</link>
       <title>Torsdag 16. maj 2024</title>
@@ -37,19 +50,6 @@ Værter: Morten Hausborg og Sara Skovhave.</description>
       <itunes:duration>03:51:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402204/09d5f1571126bffc6c846c1296e6c04b5be386ccedde1157916345b8e6bed774.mp3" type="audio/mpeg" length="334060130" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402203</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402203</link>
-      <title>Onsdag 15. maj 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Morten Hausborg og Sara Skovhave.</description>
-      <pubDate>Wed, 15 May 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>04:12:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402203/5e466513c51888b0f85f05e559c35c98b64b65acecc1d962c048a33f3e8ff369.mp3" type="audio/mpeg" length="362967266" />
     </item>
   </channel>
 </rss>

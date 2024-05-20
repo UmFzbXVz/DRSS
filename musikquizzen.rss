@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:15:02 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:26:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Kenneth K.</description>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122448120</guid>
+      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-podcast-16122448120</link>
+      <title>Søndag 19. maj 2024</title>
+      <description>Danmarks mest musikalske quiz.
+Vært: Kenneth K.</description>
+      <pubDate>Sun, 19 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:03:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448120/46249cf7c31b4bb496cbce5de90b6854146ce16dc452148627d0d5543eca037e.mp3" type="audio/mpeg" length="91135519" />
+    </item>
     <item>
       <guid isPermaLink="false">16122448119</guid>
       <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-2011-hiphop-i-90erne-og-mors-dag-quizzen-16122448119</link>
@@ -340,19 +353,6 @@ Vært: Kenneth K.</description>
       <itunes:duration>00:59:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122348147/51d9066724854ac0d72a427548af6023b3eb243d3d85d3dc50e7d58dc89822b0.mp3" type="audio/mpeg" length="85154911" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122348146</guid>
-      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2023/musikquizzen-00er-sangerinder-nik-og-jay-og-youtube-quiz-16122348146</link>
-      <title>00er sangerinder, Nik &amp; Jay og Youtube-Quiz</title>
-      <description>Hvem synger "Copacabana"? (1978) Hvem synger hittet "Ramt i natten"? (Quizkampen) Den hurtige Nik &amp; Jay quiz - Jeg giver dig det første ord i sangtitlen. Du stikker mig resten af titlen. Første ord: Kommer? For at få introspørgsmålet til dagens Youtube-Quiz bliver du nødt til at lytte hele podcasten.
-Vært: Kenneth K.</description>
-      <pubDate>Sun, 19 Nov 2023 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:33</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122348146/d8a8ff5576ad60b3863fad3438af08171c3ceeba16761c915937ed9d58c95d94.mp3" type="audio/mpeg" length="82887199" />
     </item>
   </channel>
 </rss>

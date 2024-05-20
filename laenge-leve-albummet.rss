@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:25:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436620</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-om-at-gaa-igennem-forandringer-og-have-joni-mitchell-som-anker-16452436620</link>
+      <title>Om at gå igennem forandringer og have Joni Mitchell som anker</title>
+      <description>Jeg har i dag besøg af Raymonde Gaunoux, som rører mig fuldstændig til rødbedefars i sine indlevende betragtninger om Joni Mitchell og dennes album "Blue". Undervejs kommer vi omkring de store forandringer, vi alle kan gennemgå i livet, og for Raymonde har der i den grad været store transitioner i livet i hans overgang fra kvinde til mand. Altsammen med Joni Mitchell som Anker, og det synes jeg, er en meget rørende fortælling. Samtidig er Blue sådan et helstøbt album, hvor Joni viser præcis, hvor overjordisk en sanger og sangskriver hun er. God - nej, megagod fornøjelse.
+Kh Goodluck Casper.</description>
+      <pubDate>Sun, 19 May 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:25:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436620/e924693bf65923f322302aa67c086843239970f093d7c54d0e1bc0a149be24ec.mp3" type="audio/mpeg" length="122754684" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436619</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-med-kajsa-vala-og-hendes-forhold-til-emmylou-harris-16452436619</link>

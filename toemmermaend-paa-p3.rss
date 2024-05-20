@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:34 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:25:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -26,6 +26,24 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332440857</guid>
+      <link>https://www.dr.dk/lyd/p3/toemmermaend-paa-p3/toemmermaend-paa-p3/toemmermaend-paa-p3-uheldige-dates-og-en-bachelorettes-branderter-13332440857</link>
+      <title>Uheldige dates og en bachelorettes branderter</title>
+      <description>Bachelorette Lissa Paustian er gæst hos Anne Albrechtsen i dagens udgave af Tømmermænd på P3. Lissa deler ud af tre personlige fuldehistorier og hjælper med at kåre den bredeste brandert blandt lytternes historier. Vi kommer blandt andet omkring en masse dates, der ikke gik som forventet!
+Vært: Anne Albrechtsen.
+Producer: Frederik Birch.
+Gæst: Lissa Paustian.</description>
+      <pubDate>Sun, 19 May 2024 22:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000007</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:40:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332440857/88199d50f17b9e5dad73f811b8a95e857891853dcddb0762cdcb50b4ec56bfbc.mp3" type="audio/mpeg" length="58202944" />
+    </item>
     <item>
       <guid isPermaLink="false">13332440856</guid>
       <link>https://www.dr.dk/lyd/p3/toemmermaend-paa-p3/toemmermaend-paa-p3/toemmermaend-paa-p3-misforstaaelser-og-en-tur-med-politiet-13332440856</link>

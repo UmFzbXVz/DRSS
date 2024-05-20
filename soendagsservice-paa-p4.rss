@@ -10,7 +10,7 @@ Produceret for DR af MorLillen Rocks.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:25:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Produceret for DR af MorLillen Rocks.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122442020</guid>
+      <link>https://www.dr.dk/lyd/p4/soendagsservice-paa-p4/soendagsservice-paa-p4-2024/soendagsservice-paa-p4-16122442020</link>
+      <title>Søndag 19. maj 2024</title>
+      <description>Hver søndag giver Søndagsservice på P4 din uge et servicetjek. Hvad har været din uges højdepunkt? Hvilke historier talte vi alle sammen om? og hvilke historier talte vi ikke nok om? 
+Værter: Julie Bundgaard &amp; Rune Hedeman.
+Produceret for DR af MorLillen Rocks.</description>
+      <pubDate>Sun, 19 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122442020/6a2b11b15f30be39aed2e190642a2fed7f4e5807fc6ed2ac386e03beba1ddb74.mp3" type="audio/mpeg" length="168482178" />
+    </item>
     <item>
       <guid isPermaLink="false">16122442019</guid>
       <link>https://www.dr.dk/lyd/p4/soendagsservice-paa-p4/soendagsservice-paa-p4-2024/soendagsservice-paa-p4-16122442019</link>

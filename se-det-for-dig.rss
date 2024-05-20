@@ -10,7 +10,7 @@ Redaktør: Mikkel Bagger.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:34 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:25:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Mikkel Bagger.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452440207</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-animeret-betyder-at-goere-livlig-18452440207</link>
+      <title>Animeret betyder at gøre livlig</title>
+      <description>Ansporet af en skøn, ny animeret film i biograferne, dykker dagens udsendelse ned i noget af al den bedste jazz- og soulmusik fra animerede film. Men bare rolig, det er ikke kun for børn, men de må godt lytte med. 
+Vært: Ida Rud.
+Redaktør: Mikkel Bagger.</description>
+      <pubDate>Sun, 19 May 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452440207/44d5a7ea0769c7d1d9536a87fe242f801f377a838628208004dd8cdf6827a8cc.mp3" type="audio/mpeg" length="168482182" />
+    </item>
     <item>
       <guid isPermaLink="false">18452440197</guid>
       <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-det-bliver-raat-musik-fra-quentin-tarantinos-film-18452440197</link>

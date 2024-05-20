@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:53 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:26:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -438,24 +438,6 @@ Postludium: Johann Sebastian Bach: Fuga c-mol, BWV 537/II.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405171/a2a240afab15ae6e073b966bd554c4ad6f095c1a2796ae8e7aadf081ab72abfd.mp3" type="audio/mpeg" length="36001584" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405166</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405166</link>
-      <title>Lørdag 20. apr. 2024</title>
-      <description>Præludium:	Cesar Franck: Præludium i D-Dur.
-Davidssalme: 25, 1-5.
-Salme: 379, vers 1-5 "Der er en vej, som verden ikke kender".
-Fra det N.T.	Apostlenes Gerninger 4, 7-12.
-Trosbekendelsen.
-Salme: 379, vers 6-8.
-Postludium: Sigfrid Karg-Elert: Du er, opstandne sejershelt.</description>
-      <pubDate>Sat, 20 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405166/7a12eabbf9e14afce9581e3b3eee3b6e443d1f04d5a50ef79b567b4355dea376.mp3" type="audio/mpeg" length="36001573" />
     </item>
   </channel>
 </rss>

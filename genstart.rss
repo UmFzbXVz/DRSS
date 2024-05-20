@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:06:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:26:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460118</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Den danske våbensmugler</title>
+      <description>Lastrummet i det lille propelfly er fyldt med våbenkasser, mens det svæver i natten over Indien. Pludselig sænker flyet sig og lader kasserne glide ud. Niels Holck ånder lettet ud, men ved slet ikke, hvad der venter ham. For da han kaster fire tons våben ud af lastrummet, så kaster han samtidig sig selv ud i årtiers flugt fra at blive retsforfulgt i Indien. Nu udspiller sagen om hans udlevering sig igen i en dansk retssal, og selv er han overbevist om, at han er brik i et storpolitisk spil, der vægter diplomatiet over hans liv. Så er Niels Holck terrorist, frihedskæmper eller en sødetablet i den diplomatiske kaffe? Det spørger Genstart ham om i dagens afsnit.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 16/5.</description>
+      <pubDate>Mon, 20 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460118/e0d5d4457f05ef6d5c49d2705edd0989880b2af2207f5e41b595be9f6fab27ac.mp3" type="audio/mpeg" length="40118286" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460117</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9538,19 +9552,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:22:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150100/5a19fe00fa6c24195d4f144873d5d5c449cef59a1a592525584056bb4301ecf0.mp3" type="audio/mpeg" length="32081934" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150098</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-tog-fogh-fejl-11802150098</link>
-      <title>Tog Fogh fejl?</title>
-      <description>Anders Fogh Rasmussen må ikke længere rejse til Kina. Han og hans organisation er sanktioneret for at harcelere mod Kinas diktatur. Flere eksperter frygter nu, at konflikten også kan få konsekvenser for Danmark. Men Foghs nuværende rolle som kontant Kina-revser, står i skarp kontrast til hans toneleje som Kina-venlig statsminister. Så er det Anders eller Kina, der har forandret sig? Det spørger vi ham selv om.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 19 May 2021 03:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:18</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150098/b90fe7e6190933e4d686b005a802e5c0e307c30272d6b13f90e8ee95353e448a.mp3" type="audio/mpeg" length="33572613" />
     </item>
   </channel>
 </rss>

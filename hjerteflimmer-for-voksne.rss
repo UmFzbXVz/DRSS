@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:15:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:26:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,26 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400012</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-signe-vadgaard-og-victor-boy-lindholm-15452400012</link>
+      <title>Signe Vadgaard &amp; Victor Boy Lindholm</title>
+      <description>Efter Signe har født for anden gang er der sket noget med hendes tanker. Hun er begyndt at hænge sig i ting, som før måske blev taget forgivet. Det udseende, som altid bare har været der, er begyndt at fylde negativt i Signes hoved. Hendes kone siger alt det rigtige, men det er som om, ordene ikke virker. Og hvis ikke engang ens livs kærlighed, kan hive én op, hvem kan så?
+Victor har fået øje på et mystisk behov i sig selv: Han skal altid forklare alting. Når han skændes med sin kæreste vil han med det samme retfærdiggøre sine handlinger i stedet for at forsøge at forstå hans kærestes følelser. Hvorfor gør han det? 
+Vi taler også om, hvordan Jytte chikanerer mig med videoer fra luksushotelværelser, om vigtigheden af at tage sin sorg seriøst, selv når den føles forkælet, og så fortæller Jytte, hvordan magien kan ramme overalt - selv i en lille pis-by ved havet i Wales.
+Gæster: Signe Vadgaard &amp; Victor Boy Lindholm. 
+Ekspert: Jytte Vikkelsøe. 
+Vært: Sebastian Lynggaard.  
+Producer: Cæcilie Helena Denman-Gretoft. 
+Musik: "Hold up" Beyonce. 
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 20 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:35:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400012/516519900e72777cd4a559ea45dec1759c78554cb289dce533253fdb9178f3e6.mp3" type="audio/mpeg" length="136809085" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400011</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-freja-klint-sandberg-og-elias-sadaq-15452400011</link>
@@ -2011,22 +2031,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>00:56:58</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195321/7a070225919b87440983727cd6034b175acafb5496f648fc8976bbc9c03afa28.mp3" type="audio/mpeg" length="82054125" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195320</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hjerteflimmer-for-voksne-julie-zangenberg-og-skinz-13332195320</link>
-      <title>Julie Zangenberg &amp; Skinz</title>
-      <description>Skinz spørger, hvornår man ved, at man er klar til at leve et rigtigt "voksen" liv? Julie spørger, om vi mennesker overhovedet har brug for en partner, eller om vi faktisk er mere glade alene?
-Medvirkende: Skuespiller Julie Zangenberg, sanger Skinz og parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 19 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:44:51</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195320/73b68b1d34cabffc2a4e95893a1f476997d788b2b2d4301afc21c00986109016.mp3" type="audio/mpeg" length="150992109" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:26:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -389,19 +389,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:56:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263476/a5370e01b500c2c22049e919ffb178293db14a45fad3d1745d5a79558d85200c.mp3" type="audio/mpeg" length="168432646" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463165</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tilbage-til-sort-12422463165</link>
-      <title>Tilbage til sort</title>
-      <description>Kosmisk jazz. Soulsangerinder med filmiske strygere. Guitar og klassisk orkester. Peter Albrechtsen er vært på aftenens vidtfavnende Natsværmer.
-Vært: Peter Albrechtsen.</description>
-      <pubDate>Sat, 20 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463165/606557d6bc3498f59a9cf9ec447f78dbb40b9f679adfd20c12a087c5f3bd64cf.mp3" type="audio/mpeg" length="168468853" />
     </item>
   </channel>
 </rss>

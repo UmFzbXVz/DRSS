@@ -9,7 +9,7 @@ Vært: Søren Hansen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:25:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -77,19 +77,6 @@ Vært: Søren Hansen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452431176/4e3ed6d5f5b2725f7067d05b49f60acac28b4ff0f2d03a7a20d333c5a2f575b3.mp3" type="audio/mpeg" length="168481476" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452431166</guid>
-      <link>https://www.dr.dk/lyd/p5/singlepladen/singlepladen-2024/singlepladen-15452431166</link>
-      <title>Lørdag 20. apr. 2024</title>
-      <description>Programmet, hvor du sammen med vært Søren Hansen, dyrker Singlepladerne fra storhedstiden - især fra 60'erne til 80'erne. 
-Vært: Søren Hansen.</description>
-      <pubDate>Sat, 20 Apr 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452431166/d2b8788a7edd8beba413c6c4eb174ab0aae61fb82bf0e1cbb744883f362895aa.mp3" type="audio/mpeg" length="168482052" />
     </item>
   </channel>
 </rss>

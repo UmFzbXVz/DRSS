@@ -9,7 +9,7 @@ En rolig start på dagen og en samtale om livets vigtige hjørner og vendepunkte
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:15:12 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:26:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@ En rolig start på dagen og en samtale om livets vigtige hjørner og vendepunkte
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422444207</guid>
+      <link>https://www.dr.dk/lyd/p2/stines-soendag/stines-soendag-2024/stines-soendag-laura-bro-skuespiller-12422444207</link>
+      <title>Laura Bro, skuespiller</title>
+      <description>Som barn følte hun sig anderledes, fordi hun kom fra en kendt skuespillerfamilie. Da hun som voksen vælger at følge i forældrenes fodspor, har hun en fornemmelse af, at hun slæber rundt på en hel skyggefamilie af skuespillere, som andre synes hun minder om. 
+Gæst: Laura Bro, skuespiller.
+Vært: Stine Rosengren.</description>
+      <pubDate>Sun, 19 May 2024 09:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422444207/4fcadc19bc616bf2930404384c8052c3dae6bab29e1218b59e34d63a55ca960e.mp3" type="audio/mpeg" length="165602185" />
+    </item>
     <item>
       <guid isPermaLink="false">12422444197</guid>
       <link>https://www.dr.dk/lyd/p2/stines-soendag/stines-soendag-2024/stines-soendag-soeren-huss-sanger-og-sangskriver-12422444197</link>

@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:04:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:15:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -31,6 +31,20 @@ Produceret for DR af PodAmok.</description>
       <itunes:category text="Food" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493202</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-gaa-aldrig-ned-paa-udstyr-16122493202</link>
+      <title>Gå aldrig ned på udstyr!</title>
+      <description>Peter Falktoft får besøg af Survival instruktør Jesper Hede, som fylder studiet til bristepunktet med prepping-gear og gennemgår, hvad der er essentielt for at overleve i en krisesituation. Både på farten og i hjemmet. Han løfter sløret for, hvordan man undgår at spilde sine penge, og peger på hvilke ting, der med fordel kan benyttes, som allerede findes indenfor hjemmets fire vægge. 
+Gæst: Jesper Hede.
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 20 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:37:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493202/0b2250a548b590f1b1533d1f877f15f0a24cae4ab4a5aaa1907b92512ab929a1.mp3" type="audio/mpeg" length="54598312" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493201</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-klar-parat-prep-16122493201</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 19 May 2024 06:14:50 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 05:25:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -76,19 +76,6 @@ Produceret for DR af Chloroform.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434176/71ebbbbf14a7fa5701820e997ad132fa568ee2f07b32fb4ff8ef13cf3330fecc.mp3" type="audio/mpeg" length="172801579" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122434166</guid>
-      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-16122434166</link>
-      <title>Lørdag 20. apr. 2024</title>
-      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
-Produceret for DR af Chloroform.</description>
-      <pubDate>Sat, 20 Apr 2024 20:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434166/9d225b467c67a8f08773da098fa4d669170ae7aca6490ab939fecb45cbecf51f.mp3" type="audio/mpeg" length="172801579" />
     </item>
   </channel>
 </rss>
