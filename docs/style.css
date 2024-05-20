@@ -135,8 +135,9 @@ h2 {
 }
 
 .container h2::before {
-    content: '\00a0\00a0';
+    content: '\00a0\00a0\00a0\00a0\00a0';
 }
+
 .container h2::after {
     content: '🔎️';
     opacity: var(--magnifying-glass-opacity, 0);
