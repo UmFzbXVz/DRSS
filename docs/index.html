@@ -22,54 +22,23 @@
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
-  
-  
 let isAdvanced = false;
 const element = document.querySelector('.container h2');
+const magnifyingGlass = '🔎️';
 
-const handleLongPress = (event) => {
-    event.preventDefault();
-    const touchDuration = 400;
-    let longPressTimer;
 
-    const startPress = () => {
-        longPressTimer = setTimeout(() => {
-            if (!isAdvanced) {
-                element.style.color = '#1DA1F2';
-            } else {
-                element.style.color = '#f5f5f5';
-            }
-            isAdvanced = !isAdvanced;
-            const searchText = document.getElementById('searchInput').value.trim();
-            filterPodcasts(searchText);
-        }, touchDuration);
-    };
-
-    const clearPress = () => {
-        clearTimeout(longPressTimer);
-        element.removeEventListener('mouseup', clearPress);
-        element.removeEventListener('mouseleave', clearPress);
-        element.removeEventListener('touchend', clearPress);
-        element.removeEventListener('touchmove', clearPress);
-        element.removeEventListener('touchcancel', clearPress);
-    };
-
-    if (event.type === 'mousedown') {
-        startPress();
-        element.addEventListener('mouseup', clearPress);
-        element.addEventListener('mouseleave', clearPress);
-    } else if (event.type === 'touchstart') {
-        startPress();
-        element.addEventListener('touchend', clearPress);
-        element.addEventListener('touchmove', clearPress);
-        element.addEventListener('touchcancel', clearPress);
+element.addEventListener('click', () => {
+    if (!isAdvanced) {
+        element.style.color = '#1DA1F2';
+        element.textContent += ` ${magnifyingGlass}`;
+    } else {
+        element.style.color = '#f5f5f5';
+        element.textContent = element.textContent.replace(` ${magnifyingGlass}`, '');
     }
-};
-
-element.addEventListener('mousedown', handleLongPress);
-element.addEventListener('touchstart', handleLongPress);
-
-
+    isAdvanced = !isAdvanced;
+    const searchText = document.getElementById('searchInput').value.trim();
+    filterPodcasts(searchText);
+});
 
 document.addEventListener('DOMContentLoaded', async () => {
     try {
@@ -87,6 +56,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 });
 
+  
 async function preloadRssIcon() {
     try {
         const response = await fetch(rssIconUrl);
