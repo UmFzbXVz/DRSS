@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #121212; /* Dark background */
-    color: #f5f5f5; /* Near-white text color */
+    background-color: #121212;
+    color: #f5f5f5; 
     margin: 0;
     padding: 0;
 }
@@ -21,14 +21,22 @@ body {
 }
 
 input[type="text"] {
-    width: 80%;
-    max-width: 400px;
-    padding: 10px;
-    font-size: 16px;
+    width: 100%;
+    max-width: 370px;
+    padding: 15px;
+    font-size: 18px;
     border: none;
-    border-radius: 5px;
-    background-color: #2b2b2b; /* Dark gray background */
-    color: #f5f5f5; /* Near-white text color */
+    border-radius: 30px;
+    background-color: #292929; 
+    color: #e0e0e0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+input[type="text"]:focus {
+    background-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    outline: none;
 }
 
 .clear-search {
@@ -37,12 +45,14 @@ input[type="text"] {
     left: calc(100% - 12%);
     transform: translate(-50%, -50%);
     cursor: pointer;
-    color: #ccc; /* Light gray color */
+    color: #ccc;
     z-index: 1;
+    font-size: 20px;
+    transition: color 0.3s;
 }
 
 .clear-search:hover {
-    color: #f0f0f0; /* Slightly lighter gray color on hover */
+    color: #fff; 
 }
 
 #results {
@@ -54,19 +64,20 @@ input[type="text"] {
 ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
 }
 
 li {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 a {
-    color: #f5f5f5; /* Near-white link color */
+    color: #f5f5f5; 
     text-decoration: none;
 }
 
 a:hover {
-    color: #f0f0f0; /* Slightly lighter gray color on hover */
+    color: #f0f0f0;
     text-decoration: underline;
 }
 
@@ -77,11 +88,11 @@ a:hover {
 }
 
 .result {
-    background-color: #2b2b2b; /* Dark gray background */
+    background-color: #242424; 
     padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease;
+    border-radius: 10px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .helper-text {
@@ -96,26 +107,26 @@ a:hover {
 }
 
 .result a {
-    color: #f5f5f5; /* Near-white link color */
+    color: #f5f5f5; 
     text-decoration: none;
     font-weight: bold;
 }
 
 .result a:hover {
-    color: #f0f0f0; /* Slightly lighter gray color on hover */
+    color: #f0f0f0; 
     text-decoration: underline;
 }
 
 .result p {
     margin-top: 10px;
-    color: #f5f5f5; /* Near-white text color */
+    color: #f5f5f5; 
 }
 
 h2 {
     text-align: center;
-    font-size: 24px;
+    font-size: 28px;
     margin-bottom: 20px;
-    color: #f5f5f5; /* Near-white heading color */
+    color: #e0e0e0; 
 }
 
 
@@ -139,4 +150,9 @@ h2 {
     height: 15px;
     margin-left: 10px;
     cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.rss-icon:hover {
+    transform: scale(1.3);
 }
