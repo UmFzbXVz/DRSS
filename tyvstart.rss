@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 20 May 2024 05:26:13 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:34:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450101</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-13652450101</link>
+      <title>Tirsdag 21. maj 2024</title>
+      <description>DRs daglige sportspodcast. Alle hverdage får du én stærk historie fra sportens fascinerende verden. De største stjerner, vildeste overraskelser og alt om de store danske bedrifter.</description>
+      <pubDate>Tue, 21 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:52</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450101/342a99a1251011d9ab76d90304ae40b2d8fa07cff113883884ed74b21fce248a.mp3" type="audio/mpeg" length="25735449" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450099</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-guardiola-fodboldens-stoerste-influencer-13652450099</link>
@@ -1884,21 +1896,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350225/d8b8ac8eea04c69e2759d8d61326e659edfd401bbbfcbf8d8b59c2f1c1b9f636.mp3" type="audio/mpeg" length="21993848" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350224</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-mus-samtale-for-holger-og-boris-13652350224</link>
-      <title>MUS-samtale for Holger og Boris</title>
-      <description>Holger Runes sæson er færdig, og med Boris Becker på sidelinjen sluttede han fornuftigt af ved sæsonfinalerne.
-Samarbejdet med den tyske træner er blevet forlænget, men spørgsmålet er, hvad der skal fokuseres på over vinterpausen, inden den nye sæson begynder efter nytår. 
-Tennisreporter Kresten Mosbæk byder indenfor til MUS-samtale.
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350224/d9bda416b1b6815c544750f69195946fb700a37dc5afc684449e9cb91e1d4d8c.mp3" type="audio/mpeg" length="26098429" />
     </item>
   </channel>
 </rss>

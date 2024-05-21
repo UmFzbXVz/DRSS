@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 20 May 2024 05:26:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:27:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,32 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463211</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-12422463211</link>
+      <title>Tirsdag 21. maj 2024</title>
+      <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.
+Vært: Peter Albrechtsen.</description>
+      <pubDate>Tue, 21 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463211/2c173b043d0478fbe374457c44b2a2902022326800ef7283f75becdf72963527.mp3" type="audio/mpeg" length="168481482" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422463207</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-mandag-i-maj-12422463207</link>
+      <title>Mandag i maj</title>
+      <description>Et punket postlude, tristessens skønhed, og håb er noget af det, der fylder Natsværmerens forårsnat.
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 20 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463207/506140b1de40805c3c14c8d2d7dfe5c7068f7e31d3d17c8a61d5faea33661eb0.mp3" type="audio/mpeg" length="168481471" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463056</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tag-natten-som-den-er-12422463056</link>
@@ -375,20 +401,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463167/b13b5dfef8de3d30962a24314dd04e61909a025da751d018d13969ff251e46e4.mp3" type="audio/mpeg" length="168473453" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422263476</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-temmelig-islandsk-og-dog-12422263476</link>
-      <title>Temmelig islandsk, og dog</title>
-      <description>En islandsk tone præger aftens lydbillede. Som altid med afstikkere i natsværmerens eskapistiske natur. Anna Thorvaldsdottir er en gennemgående komponist, der får selskab af Max Richter, Benita Haastrup, Anne Roemer, Ólafur Arnalds, Bach med flere uventede gæster.
-Vært: Minna Grooss.
-(Sendt første gang 27. november 2022).</description>
-      <pubDate>Sun, 21 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:57</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263476/a5370e01b500c2c22049e919ffb178293db14a45fad3d1745d5a79558d85200c.mp3" type="audio/mpeg" length="168432646" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 20 May 2024 05:25:51 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:34:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -72,18 +72,6 @@
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452426177/65a83346b334e60b640ae4fb32b80bd233684b0ebdaf6a8899c0d808a06dca5b.mp3" type="audio/mpeg" length="168481943" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452426167</guid>
-      <link>https://www.dr.dk/lyd/p6beat/vaer-her-nu/vaer-her-nu-2024/vaer-her-nu-16452426167</link>
-      <title>Søndag 21. apr. 2024</title>
-      <description>Vært: Mads Axelsen.</description>
-      <pubDate>Sun, 21 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452426167/388f1d336e10bb01b0b2eb84c542269e753f69ba80328caa07534d140c8ec790.mp3" type="audio/mpeg" length="168481943" />
     </item>
   </channel>
 </rss>

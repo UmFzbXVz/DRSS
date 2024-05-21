@@ -10,7 +10,7 @@ Vært: Anne Glad, forbruger- og livsstilsekspert.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 20 May 2024 05:26:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:34:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Anne Glad, forbruger- og livsstilsekspert.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bd407d0c1a1406979fc9.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">11032499017</guid>
+      <link>https://www.dr.dk/lyd/special-radio/du-kender-typen-3180390403000</link>
+      <title>TEASER: Camille Jones</title>
+      <description>Typen, der laver billig hverdagsmad fyldt med kærlighed og prioriterer padel lige så højt som at arbejde.
+Glæd dig til dagens episode, som du nu kan høre &lt;a href=https://www.dr.dk/lyd/special-radio/du-kender-typen&gt;i DR Lyd.&lt;/a&gt;</description>
+      <pubDate>Tue, 21 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032499017/3b8559a444344224941cd3bf346fd771020ba0cd17dfcde8e14fc9b347c6b83d.mp3" type="audio/mpeg" length="1796985" />
+    </item>
     <item>
       <guid isPermaLink="false">11032499016</guid>
       <link>https://www.dr.dk/lyd/special-radio/du-kender-typen-3180390403000</link>

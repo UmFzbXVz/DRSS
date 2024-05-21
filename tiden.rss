@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 20 May 2024 05:26:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:34:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451214</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-prep-for-faellesskabet-haj-mysteriet-og-nyt-hold-til-eu-11802451214</link>
+      <title>Prep for fællesskabet, haj-mysteriet og nyt hold til EU</title>
+      <description>Truslerne lurer, og danskerne skal holde sig klar til krig, mener forsvarsministeren. Hvordan gør man så det? Der er landet en ny måling, der viser store udskiftninger i det hold af politikere, der står til at komme i Europa-Parlamentet. Hajer er blevet fundet på fortove og veje, og nu er Tiden gået på jagt efter at løse mysteriet.  
+Vært: Annika Wetterling.
+Medvirkende: 
+Derek Beach, professor i statskundskab på Aarhus Universitet og forsker i EU.
+Rasmus Dahlberg, katastrofehistoriker på Forsvarsakademiet.</description>
+      <pubDate>Tue, 21 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451214/412d42ef16f124fcbc2dfa3253d45d15c46ddf9e000408dcc25171b54cbefcf2.mp3" type="audio/mpeg" length="25597320" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451091</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-swifties-i-stockholm-hvem-er-fico-og-doping-i-kolding-11802451091</link>
@@ -1960,25 +1976,6 @@ Ulrik Bie, økonomiredaktør Berlingske.</description>
       <itunes:duration>00:22:11</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351213/af65f053b65a9060f405516c35d479079444029984b791e9528ddc75547c98a4.mp3" type="audio/mpeg" length="31948280" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351212</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-forbudt-forhold-klima-koteletter-og-netanyahus-dilemma-11802351212</link>
-      <title>Forbudt forhold, klima-koteletter og Netanyahus dilemma</title>
-      <description>Et forhold til en 15-årig, får Lars Løkke Rasmussen til at ekskludere endnu et partimedlem. 
-En principiel retssag om greenwashing begynder i dag. For kan svinekød nogensinde være klimavenligt?
-Gidselsituationen i krigen mellem Hamas og Israel skaber et dilemma for Netanyahu.
-Vært: Adrian Busk.
-Medvirkende:
-Steffen Hjaltelin, tidligere rådgiver for Lars Løkke Rasmussen.
-Monica Jørgensen, Journalist DR.
-Allan Sørensen, Mellemøstkorrespondent for Kristelig Dagblad.</description>
-      <pubDate>Mon, 20 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:38</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351212/f3c86f45ee967d48399d98db3092773b4cf59c5c0828ad39f34ce044a1f5c712.mp3" type="audio/mpeg" length="29730679" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 20 May 2024 05:25:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:34:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,19 @@ Vært: Charlotte Hagen Striib.</description>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452428211</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-15452428211</link>
+      <title>Mandag 20. maj 2024</title>
+      <description>Her møder du spændende mennesker og får ny inspiration til det aktive liv.
+Vært: Søren Hansen.</description>
+      <pubDate>Mon, 20 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428211/f62cf37cf9081f62f8aa316deeda7f8e76474c2c7ded3f2aa5e235fa46849c60.mp3" type="audio/mpeg" length="168482014" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452428205</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-jens-wendel-hansen-15452428205</link>
       <title>Med Jens Wendel-Hansen</title>
@@ -38,19 +51,6 @@ Vært: Charlotte Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428205/283bf76880e416c00046393e0d1ef4d97f86789d9435dd3b2e988d75c87e7a7b.mp3" type="audio/mpeg" length="168481606" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428204</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-mette-frobenius-15452428204</link>
-      <title>Med Mette Frobenius</title>
-      <description>For 30 år siden stod hun med hjertet oppe i halsen for første gang på en comedy-scene i København. I dag rejser Mette Frobenius rundt med sit oplysende stand-up-show om EU. Med parlamentsvalget 9. juni lige om hjørnet. 
-Vært: Charlotte Striib.</description>
-      <pubDate>Thu, 16 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428204/7b292d6ac8685b33ccb582fd2a9be1aae823051f3ffd8ba458dd30b3036d5506.mp3" type="audio/mpeg" length="168482173" />
     </item>
   </channel>
 </rss>

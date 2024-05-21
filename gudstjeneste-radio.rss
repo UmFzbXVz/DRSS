@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 20 May 2024 05:25:51 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:34:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,24 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523beb27d0c1a140697c025.jpg" />
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
+    <item>
+      <guid isPermaLink="false">11042404211</guid>
+      <link>https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2024/gudstjeneste-paa-p1-11042404211</link>
+      <title>Mandag 20. maj 2024</title>
+      <description>Gudstjeneste fra frikirken Hillsong, Falkoner Salen i København. 2. pinsedag.
+Medvirkende: 
+Prædikant: Thomas Hansen.
+Sang: Elisabeth Skov, Daniel Hansen, Sincere Irategeka, Rouven Link.
+Klaver + Music Director: Casper Thomassen.
+Trommer: Jonas Iversen.
+Akustisk guitar: Rouven Link.
+Vært: Katarina Lewkovitch.</description>
+      <pubDate>Mon, 20 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:41</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042404211/185e9f4c0ae941949502818dea2d26508ec73dd676f5a59cecae3e8caf6b260e.mp3" type="audio/mpeg" length="81646132" />
+    </item>
     <item>
       <guid isPermaLink="false">11042404207</guid>
       <link>https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2024/gudstjeneste-paa-p1-11042404207</link>
@@ -166,37 +184,6 @@ Vært: Katarina Lewkovitch.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:57:00</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042404177/14d777c64beb86e748aa7a1bfb0aab82c2c7a2f8a80c00f17e492be4e76c7eb8.mp3" type="audio/mpeg" length="82082175" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042404167</guid>
-      <link>https://www.dr.dk/lyd/p1/gudstjeneste-paa-p1/gudstjeneste-paa-p1-2024/gudstjeneste-paa-p1-11042404167</link>
-      <title>Søndag 21. apr. 2024</title>
-      <description>Rigshospitalets Kirke, Københavns stift. 3. søndag efter påske.
-Prædikant: Lotte Mørk.
-Organist: Birgitte Frandsen.
-Violinist: Lisa Wolf.
-Salmer: 
-DDS 736: Den mørke nat forgangen er.
-DDS 367: Vi rækker vore hænder frem.
-DDS 46: Sorrig og glæde. 
-DDS 208: Skriv dig, Jesus, på mit hjerte. 
-DDS 217: Min Jesus, lad mit hjerte få. 
-Præludium. 
-3. violinsonate i F-dur, 1. sats.
-Komponist: Händel.
-Motet:
-Gådefuld er du vor Gud.
-Komponister: Birgitte Frandsen / Peter Lindbæk.
-Forfatter: Lisbeth Smedegaard Andersen.
-Postludium.
-3. violinsonate 4. sats.
-Komponist: Händel.
-Vært: Katarina Lewkovitch.</description>
-      <pubDate>Sun, 21 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042404167/2b8dbc30db4c48c2410a8bc1fab59d7b720c0f7098689e1435f74ea4d9e26037.mp3" type="audio/mpeg" length="82082174" />
     </item>
   </channel>
 </rss>

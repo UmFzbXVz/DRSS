@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 20 May 2024 05:26:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:26:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460119</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>En georgisk knude</title>
+      <description>De står vrede og banker løs på barrikaderne, der står som en beskyttende mur hele vejen rundt om landets parlament. Vreden er vendt mod Georgiens regering, der netop har vedtaget den omstridte lov, der går under navnet, Russerloven. I Rusland er en lignende lov nemlig blevet brugt til at lukke ned for kritisk presse og uafhængige organisationer. Siden Sovjetunionens sammenbrud har flertallet i Georgien ellers kæmpet for at nærme sig vesten - og ultimativt EU. Men nu har den siddende regering altså ændret kurs og rettet blikket mod øst. I dagens Genstart fortæller DR's korrespondent Matilde Kimer om loven, der i værste fald kan sætte de demokratiske rettigheder under pres.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 17/5.</description>
+      <pubDate>Tue, 21 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460119/77bf62d150bdd63741f4690237395413ea2bb303e4f53ce332cad73efe11ead3.mp3" type="audio/mpeg" length="33152135" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460118</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9539,19 +9553,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:24:12</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150101/302e13723c493933c9b8da5042e08a3ac487d7c74f27bd235745cd1d23296a12.mp3" type="audio/mpeg" length="34869773" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150100</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-en-gnist-i-jerusalem-11802150100</link>
-      <title>En gnist i Jerusalem</title>
-      <description>Hamas fyrer raketter afsted mod Israel. Israel bomber det tætbefolkede Gaza. Flere hundrede er døde i de værste kampe i området i flere år. Hvad fik den ulmende konflikt til at bryde ud i lys lue med uhørt hast? Allan Sørensen, Kristeligt Dagblads korrespondent i Mellemøsten har fulgt forløbet tæt.
-Vært: Knud Brix.</description>
-      <pubDate>Thu, 20 May 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:16</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150100/5a19fe00fa6c24195d4f144873d5d5c449cef59a1a592525584056bb4301ecf0.mp3" type="audio/mpeg" length="32081934" />
     </item>
   </channel>
 </rss>
