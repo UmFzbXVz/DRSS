@@ -22,8 +22,13 @@
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
-let isAdvanced = false;
 const h2Container = document.querySelector('.container h2');
+let isAdvanced = false;
+let drPodcastsData = [];
+let podimoPodcastsData = [];
+let miscPodcastsData = [];
+let pir8dioPodcastsData = [];
+let politikenPodcastsData = [];
 
 h2Container.classList.add('gradient-basic');
 h2Container.addEventListener('click', () => {
@@ -43,7 +48,13 @@ h2Container.addEventListener('click', () => {
 
 document.addEventListener('DOMContentLoaded', async () => {
     try {
-        await Promise.all([
+        [
+            drPodcastsData,
+            podimoPodcastsData,
+            miscPodcastsData,
+            pir8dioPodcastsData,
+            politikenPodcastsData
+        ] = await Promise.all([
             fetchDRPodcastsData(),
             fetchPodimoPodcastsData(),
             fetchMiscPodcastsData(),
@@ -266,8 +277,6 @@ async function filterPodcasts(searchText) {
 
     displayResults(results);
 }
-
-
 
 document.getElementById('searchInput').addEventListener('input', function() {
     const searchText = this.value.trim();
