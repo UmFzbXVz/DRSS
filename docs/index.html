@@ -43,7 +43,7 @@ h2Container.addEventListener('click', () => {
 
 document.addEventListener('DOMContentLoaded', async () => {
     try {
-        const [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData] = await Promise.all([
+        await Promise.all([
             fetchDRPodcastsData(),
             fetchPodimoPodcastsData(),
             fetchMiscPodcastsData(),
@@ -51,12 +51,11 @@ document.addEventListener('DOMContentLoaded', async () => {
             fetchPolitikenPodcastsData(),
             preloadRssIcon()
         ]);
-        filterPodcasts(drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData);
+        filterPodcasts('');
     } catch (error) {
         console.error('Error fetching data:', error);
     }
 });
-
   
 async function preloadRssIcon() {
     try {
@@ -147,6 +146,11 @@ async function displayResults(results) {
 }
 
 async function filterPodcasts(searchText) {
+    if (typeof searchText !== 'string') {
+        console.error('searchText is not a string:', searchText);
+        return;
+    }
+    
     if (searchText.length < 3) {
         resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
         return;
