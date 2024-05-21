@@ -128,10 +128,25 @@ h2 {
     margin-bottom: 20px;
     font-weight: bold;
     letter-spacing: 1.5px;
+    color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     transition: background 0.3s, transform 0.3s, text-shadow 0.3s;
+}
+
+h2.gradient-basic {
+    background: linear-gradient(90deg, white, darkgrey);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+h2.gradient-advanced {
+    background: linear-gradient(90deg, white, #1DA1F2);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
 
 .container h2::before {
