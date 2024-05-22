@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:23 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421212</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421212</link>
+      <title>Tirsdag 21. maj 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Tue, 21 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421212/42e9347c619c09460a61c656d640cceaf48ec84142781f5f31f01511aef1099f.mp3" type="audio/mpeg" length="172802165" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421211</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421211</link>
@@ -219,18 +231,6 @@ Gæst i studiet: August 'GUZO' Møller Fogh.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421172/53213e56c9bda180097c3f5bcf274a5d20cf76e6f89bb8d92533e3cc61d8a457.mp3" type="audio/mpeg" length="172801602" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421171</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-hvem-kender-malthe-13332421171</link>
-      <title>Hvem kender Malthe?!</title>
-      <description>Hele P3 leder efter Danmarks største The Minds of 99-fan, og Residensen er sent til festen. Det stopper os ikke i at kaste snøren ud efter en kandidat, der kan stå distancen i finalen. Der er tryk på telefonerne i Powerquizzen, og så er der fuldt hus på værter, der ikke har gjort deres hjemmearbejde. Velkommen indenfor!</description>
-      <pubDate>Mon, 22 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421171/17e9866fe834db41bffcdd02cf4b61349f90c13038005d17801adba170822047.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

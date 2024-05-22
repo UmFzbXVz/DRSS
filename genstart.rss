@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:26:27 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460120</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Far er vred</title>
+      <description>I det blege lys på en fødegang kommer en lille dreng til verden. Men det er ikke kun navlestrengen, der forbinder ham med generationen, der kom før. Fra sit inderste væsen udspringer et dybt netværk af rødder, der forbinder søn med far efter far efter far. Mønstre og værdier pulserer gennem de rødder. Men gennem dem strømmer også en måde at opdrage, rollen som far - og i forfatter Daniel Dalgaards tilfælde også vrede. I dagens Genstart fortæller han om at have taget et opgør med den vrede, han selv har arvet og stiller spørgsmål ved, om vreden har en plads i forældreskabet.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 19/5.</description>
+      <pubDate>Wed, 22 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460120/ca70117bc8491dd3a75ebae0dd2d01ae1f26186c253f1f8993e205ad41bf736f.mp3" type="audio/mpeg" length="36137540" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460119</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9540,19 +9554,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150103/d540bd60095ea3483e9111b665cfc2c4b955de4e461268d267137187b088e1e0.mp3" type="audio/mpeg" length="33526533" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150101</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-hvorfor-besoeger-blinken-os-11802150101</link>
-      <title>Hvorfor besøger Blinken os?</title>
-      <description>USA's nye ansigt udadtil hedder Antony Blinken. Som Bidens udenrigsminister skal han repræsentere Amerika efter Trump - og i denne uge besøgte han Danmark på et af sine første europæiske besøg. Den Harvard-uddannede karrierediplomat mødtes med hele det officielle Danmark og talte særligt om Grønland og Arktis. Men hvem er den nye udenrigsminister, og hvilken rolle skal USA spille i verden med Blinken? Johannes Langkilde interviewer selv Blinken, og fortæller om diplomati og røvballerock.
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 21 May 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:12</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150101/302e13723c493933c9b8da5042e08a3ac487d7c74f27bd235745cd1d23296a12.mp3" type="audio/mpeg" length="34869773" />
     </item>
   </channel>
 </rss>

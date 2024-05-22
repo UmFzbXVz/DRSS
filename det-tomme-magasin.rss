@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:10 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -363,19 +363,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:12:19</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192721/051ccf8a3e12297cfa09a58fe3c11eb0463f4ae78a7ae6fb15448390aca036cc.mp3" type="audio/mpeg" length="17738871" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192720</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-lomborg-live-16122192720</link>
-      <title>Lomborg Live</title>
-      <description>Børnebøger med socialrealistiske slutninger, nem, nem satire, mød en af Danmarks farligste mænd, hør statsministeren på slap line og så er der premiere på Lomborg Live.
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 21 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:33</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192720/ed233311ad0a10bae41fd155c2c38f68694246219b935425e6d7c362229135b6.mp3" type="audio/mpeg" length="20972554" />
     </item>
   </channel>
 </rss>

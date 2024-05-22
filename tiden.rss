@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:38 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:19:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451092</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-slagteren-af-teheran-goer-det-selv-krigsskibe-og-arrestordren-paa-netanyahu-11802451092</link>
+      <title>Slagteren af Teheran, gør-det-selv-krigsskibe og arrestordren på Netanyahu</title>
+      <description>Irans præsident er død, men hvem var manden, som bliver kaldt slagteren af Teheran? Efter 20 års pause skal vi igen til at bygge krigsskibe i Danmark, hvis det står til regeringen. Chefanklageren for Den Internationale Straffedomstol vil have Netanyahu anholdt. 
+Vært: Annika Wetterling.
+Medvirkende: 
+Rasmus Elling, lektor ved Københavns Universitet og forsker i Iran. 
+Frederik Harhoff, Professor emeritus i folkeret ved Syddansk Universitet og tidligere dommer for FN's krigsforbrydertribunal for Jugoslavien.</description>
+      <pubDate>Wed, 22 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451092/51cab8937af16e5bd007b156ccd41764c9958c25890ab7303f7688dff2ee3289.mp3" type="audio/mpeg" length="23562888" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451214</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-prep-for-faellesskabet-haj-mysteriet-og-nyt-hold-til-eu-11802451214</link>
@@ -1958,24 +1974,6 @@ Henrik Moltke, DR's tech-korrespondent.</description>
       <itunes:duration>00:22:43</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351214/77160ead48b038a4a1f44d764e7a73ae64f03974604025cb54168c2e25141a0e.mp3" type="audio/mpeg" length="32716083" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351213</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-rigmandens-last-motorsavspolitik-og-400-millioner-11802351213</link>
-      <title>Rigmandens last, Motorsavspolitik og 400 millioner</title>
-      <description>Vi spørger en af Danmarks rigeste personer, om det giver stof til eftertanke, at forbruget hos de rigeste 1 procent står for næsten 16 procent af det globale CO2-udslip. 
-Et af Danmarks største advokatfirmaer Bech Bruun skal nu betale 400 millioner kroner i erstatning til den danske stat efter at have rådgivet en tysk svindelbank.
-Argentinas nyvalgte præsident bliver kaldt for en vanvittig økonom, så kan han redde landets vanvittige økonomi?
-Vært: Annika Wetterling.
-Medvirkende: 
-Martin Thorborg, dansk iværksætter og millionær.
-Ulrik Bie, økonomiredaktør Berlingske.</description>
-      <pubDate>Tue, 21 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:11</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351213/af65f053b65a9060f405516c35d479079444029984b791e9528ddc75547c98a4.mp3" type="audio/mpeg" length="31948280" />
     </item>
   </channel>
 </rss>

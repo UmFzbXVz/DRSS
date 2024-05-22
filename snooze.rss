@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:16:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428212</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428212</link>
+      <title>Tirsdag 21. maj 2024</title>
+      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Tue, 21 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428212/ae463d68e29e31fb188c3f71b4fd34778023c1e90f67894c7ba8f1a437b058d9.mp3" type="audio/mpeg" length="252001589" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428211</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-godmorgen-i-cameroun-18452428211</link>
@@ -373,23 +390,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428172/7b2054b5d2e3e1459d36eb5164ae8034a09b2e44e54ed23ed74baffd3b64d65d.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428171</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jazz-til-faellesskabet-18452428171</link>
-      <title>Jazz til fællesskabet</title>
-      <description>En af Snooze-lytterne har været på højskole og får morgenfladen til at stå i fællesskabets tegn med morgenjazz, der hylder forbindelsen mellem mennesker.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked.</description>
-      <pubDate>Mon, 22 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428171/4145d6f62a69365e69665c6ae921d7b680694e676d6e073bf63cd2252a2cfd65.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>

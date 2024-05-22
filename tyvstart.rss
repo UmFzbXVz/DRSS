@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:41 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,26 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652450102</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ol-atleternes-store-madpakker-13652450102</link>
+      <title>OL-atleternes store madpakker</title>
+      <description>Uden mad og drikke dur helten ikke. Derfor skal ernæringsfysiolog Cecilie Refsgaard med de danske atleter til sommerens OL i Paris.
+Hendes vigtigste opgave bliver, at der er fyldt godt op på depoterne hos de danskere, der skal jagte medaljer.
+Men det er ikke nogen nem opgave, for man kan glemme at spise, hvis man er spændt inden konkurrence. Og så er der også den mytiske kantine i OL-byen, der kan være overvældende for enhver.
+Vært: Emil Schiønning.</description>
+      <pubDate>Wed, 22 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450102/0b6b90a37e2d002d97c6cc892790f073081ebf5281d2cf9a969f04bb786981bd.mp3" type="audio/mpeg" length="28517047" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652450101</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-13652450101</link>
-      <title>Tirsdag 21. maj 2024</title>
-      <description>DRs daglige sportspodcast. Alle hverdage får du én stærk historie fra sportens fascinerende verden. De største stjerner, vildeste overraskelser og alt om de store danske bedrifter.</description>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-postkort-fra-giroen-13652450101</link>
+      <title>Postkort fra Giroen</title>
+      <description>Der er postkort fra Italien! Cykelekspert Brian Nygaard følger Giro-feltet rundt i støvlelandet, og han fortæller dig, hvad der er årets helt store historier indtil videre. Ud over superstjernen Tadej Pogacars voldsomme dominans, hvad vil vi så huske løbets første to uger for?
+Vi tager også en tur i Nørreskoven, hvor Vejle Boldklub holder til. Der er feststemning, jubel og glade dage, da klubben har sikret sig endnu en sæson i Superligaen efter en hård kamp om at undgå nedrykning. Vært: Emil Schiønning.</description>
       <pubDate>Tue, 21 May 2024 05:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -1881,21 +1897,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350226/bba2aeab4a8b52199e7ad1c556bb7649c0a24b467a9ba17f1c69f67d5ea64456.mp3" type="audio/mpeg" length="21942012" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350225</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-heldigvis-er-em-foerst-til-sommer-13652350225</link>
-      <title>Heldigvis er EM først til sommer</title>
-      <description>Danmark er klar til EM, men mandagens punktum for kvalifikationen var ikke kønt. Nordirland slog et anonymt landshold med 2-0, og det seneste år har været enormt svingende.
-Heldigvis er der lang tid til EM, men virkeligheden er også, at Kasper Hjulmand allerede nu har travlt med at sætte sit landshold sammen til den kommende slutrunde. 
-Fodboldekspert Kenneth Møller Pedersen fortæller, hvor landstrænerens første hovedpine ligger.
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:16</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350225/d8b8ac8eea04c69e2759d8d61326e659edfd401bbbfcbf8d8b59c2f1c1b9f636.mp3" type="audio/mpeg" length="21993848" />
     </item>
   </channel>
 </rss>

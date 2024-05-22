@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:10 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:09 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -86,18 +86,6 @@
       <itunes:duration>00:38:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192875/6caa06e3e566d92f3b1da9ec03fb707c602ea061d1c9c4c3477b3cf7888b7c29.mp3" type="audio/mpeg" length="55329848" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192874</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-opbrud-og-nedbrud-vaerelse-samlet-af-kvinder-16122192874</link>
-      <title>Opbrud og nedbrud - Værelse samlet af kvinder</title>
-      <description>Hvor står man, når hele ens liv er i opbrud? Forhold er ofte fundamentet for menneskers liv, men når forholdet går i stykker, kan det føles som om, at alt bryder sammen indeni og udenpå. Opbrud følges af sammenbrud, nedbrud og opstandelse, og derimellem findes man one-night-stands, grædeture på gulvet og ensomme nætter i store senge. Således også hovedpersonen i Katrine Grünfeldts 'Værelse samlet af kvinder', som behandler bruddet på poetisk vis, og som ansporer en snak om, hvad fanden man gør, når man bryder sammen i et brud.</description>
-      <pubDate>Fri, 21 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:37:54</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192874/da9e6e2e1a76ba57658ae01d8a125bb46753361aef9e194e1e40c2f2427a085e.mp3" type="audio/mpeg" length="54598329" />
     </item>
   </channel>
 </rss>

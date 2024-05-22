@@ -10,7 +10,7 @@ Vært: Carsten Ortmann.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:25:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -268,21 +268,6 @@ I redaktionen: Sune With.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:03</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032411021/a82538ffb2f55db9054db68f911c94dac37443086af55b174899d51c4f61fdbb.mp3" type="audio/mpeg" length="80724555" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11532001042</guid>
-      <link>https://www.dr.dk/lyd/p1/supertanker/supertanker-2022/supertanker-royal-magisk-og-moderne-11532001042</link>
-      <title>Royal; magisk og moderne</title>
-      <description>Vi danskere er glade for vores kongehus. Over 80% af os ønsker at bevare det. Det har en magi, en eventyrlighed, som i mange andre henseender er forsvundet fra vores samfund. Vi lever i en hektisk, fragmenteret verden præget af store forskelle i kultur, religion, arbejdsliv, familieformer o.m.a. og vi glæder os over både at kunne se op til og spejle os i et kongehus som fremviser stabilitet, respekt for tradition og fædreland, men som også gradvist har fornyet sig - moderniseret sig - på en måde, som gør at vi kan genkende os selv i dem. Indtil videre uden at tippe over i for meget folkelighed med risiko for at overflødiggøre sig selv
-Medvirkende: Anne-Marie Dahl, fremtidsforsker; cand.scient.pol., psykolog.
-Lars Hovbakke Sørensen, historiker, Aarhus og Københavns Universiteter. 
-Carsten Ortmann, tilrettelægger og vært.
-(Sendt første gang den 21. januar 2020)</description>
-      <pubDate>Wed, 03 Jan 2024 10:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:07</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11532001042/c68696e9e20803c3f633d1ae8833ca7a080ff4683cba35d34ffc20bb5b054399.mp3" type="audio/mpeg" length="80825350" />
     </item>
     <item>
       <guid isPermaLink="false">11032411011</guid>
@@ -1896,6 +1881,21 @@ Carsten Ortmann, tilrettelægger og vært.
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:05</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11532001362/85e7a34977c91b15e79fb58678381047dd014b3a6c4741a22215b79706bb114b.mp3" type="audio/mpeg" length="80769476" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11532001042</guid>
+      <link>https://www.dr.dk/lyd/p1/supertanker/supertanker-2022/supertanker-royal-magisk-og-moderne-11532001042</link>
+      <title>Royal; magisk og moderne</title>
+      <description>Vi danskere er glade for vores kongehus. Over 80% af os ønsker at bevare det. Det har en magi, en eventyrlighed, som i mange andre henseender er forsvundet fra vores samfund. Vi lever i en hektisk, fragmenteret verden præget af store forskelle i kultur, religion, arbejdsliv, familieformer o.m.a. og vi glæder os over både at kunne se op til og spejle os i et kongehus som fremviser stabilitet, respekt for tradition og fædreland, men som også gradvist har fornyet sig - moderniseret sig - på en måde, som gør at vi kan genkende os selv i dem. Indtil videre uden at tippe over i for meget folkelighed med risiko for at overflødiggøre sig selv
+Medvirkende: Anne-Marie Dahl, fremtidsforsker; cand.scient.pol., psykolog.
+Lars Hovbakke Sørensen, historiker, Aarhus og Københavns Universiteter. 
+Carsten Ortmann, tilrettelægger og vært.
+(Sendt første gang den 21. januar 2020)</description>
+      <pubDate>Tue, 21 Jan 2020 11:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:07</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11532001042/c68696e9e20803c3f633d1ae8833ca7a080ff4683cba35d34ffc20bb5b054399.mp3" type="audio/mpeg" length="80825350" />
     </item>
   </channel>
 </rss>

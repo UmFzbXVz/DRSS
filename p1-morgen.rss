@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433212</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433212</link>
+      <title>Tirsdag 21. maj 2024</title>
+      <description>Hvorfor er hver anden dansker i tvivl om, hvad de skal stemme til EP-valg? Hvordan reagerer Israel på anklagerne om folkemord? Hvordan skal Moderaternes "blue deal" redde havmiljøet?
+Dagens værter: Thomas Tjaerandsen og Cecilie Lange.</description>
+      <pubDate>Tue, 21 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:13</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433212/6315ff9cfda0e3afaccb9b4825bd9cd9cf676a0fb1ccf09034962a55232e372d.mp3" type="audio/mpeg" length="236474330" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433206</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433206</link>
@@ -1822,18 +1834,6 @@ Dagens værter: Søren Carlsen og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:05</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333476/beb63e169af76ec4efe2018835bf23d23ea253f5bc898c3296883d1783aa50e1.mp3" type="audio/mpeg" length="158539617" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333475</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333475</link>
-      <title>Fredag 24. nov. 2023</title>
-      <description>Kommer Israel og Hamas til at overholde våbenhvilen? Hvilken betydning får omfattende malariavaccination for det afrikanske kontinent? Og hvordan er det at være gidsel, der snart kan se frem til at blive frigivet? 
-Dagens værter: Maria Hollænder og Morten Runge.</description>
-      <pubDate>Fri, 24 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:58</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333475/6936e576318b633c6b0c45422de82580f4293757f155b9f01616033db1bd7673.mp3" type="audio/mpeg" length="237568756" />
     </item>
   </channel>
 </rss>

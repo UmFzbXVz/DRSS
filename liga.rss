@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652402212</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402212</link>
+      <title>Tirsdag 21. maj 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Morten Hausborg og Rikke Smed.</description>
+      <pubDate>Tue, 21 May 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:51:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402212/c3a7b411837f031fd69d7f956949460e6efbdc6333858bef9ae5fc654c645c51.mp3" type="audio/mpeg" length="333054431" />
+    </item>
     <item>
       <guid isPermaLink="false">13652402211</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402211</link>

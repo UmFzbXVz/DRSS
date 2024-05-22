@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,19 @@ Vært: Charlotte Hagen Striib.</description>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452428212</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-rasmus-wichmann-15452428212</link>
+      <title>Med Rasmus Wichmann</title>
+      <description>Slægtsforsker Rasmus Wichmann giver tips til både den uerfarne og den erfarne slægtsforsker til at søge tidligere slægtninge frem. 
+Vært: Charlotte Hagen Striib.</description>
+      <pubDate>Tue, 21 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428212/a18368f20229063e0d4df853790ed4f8f7a1c3a17beb2a051ae9027b283f5dd5.mp3" type="audio/mpeg" length="168482095" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452428211</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-15452428211</link>
       <title>Mandag 20. maj 2024</title>
@@ -38,19 +51,6 @@ Vært: Søren Hansen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428211/f62cf37cf9081f62f8aa316deeda7f8e76474c2c7ded3f2aa5e235fa46849c60.mp3" type="audio/mpeg" length="168482014" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428205</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-jens-wendel-hansen-15452428205</link>
-      <title>Med Jens Wendel-Hansen</title>
-      <description>Præsten og politikeren N.F.S. Grundtvig har efterladt 37.000 sider med salmer og andre tekster, som historiker Jens Wendel-Hansen er med til at digitalisere og kommentere - sammen med 10-12 kolleger på Centret for Grundtvigforskning. Jens anslår, det vil tage 20 år. 
-Vært: Charlotte Striib.</description>
-      <pubDate>Fri, 17 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428205/283bf76880e416c00046393e0d1ef4d97f86789d9435dd3b2e988d75c87e7a7b.mp3" type="audio/mpeg" length="168481606" />
     </item>
   </channel>
 </rss>

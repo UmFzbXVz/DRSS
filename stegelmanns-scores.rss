@@ -9,7 +9,7 @@ Jakob Stegelmann og hans medvært spiller ny og gammel symfonisk musik fra film,
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:11 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -246,19 +246,6 @@ Jakob Stegelmann spiller ny og gammel symfonisk musik fra film, spil og tv-serie
       <itunes:duration>01:14:38</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122321482/f86a4756922ef7b7be07d32258e2d4a95a5cb2f81050c0063056ce8e2744918e.mp3" type="audio/mpeg" length="107474437" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122321472</guid>
-      <link>https://www.dr.dk/lyd/p2/stegelmanns-score/stegelmanns-score-2023/stegelmanns-score-mesterdetektiverne-16122321472</link>
-      <title>Mesterdetektiverne</title>
-      <description>Musik fra film og computerspil.
-Jakob Stegelmann spiller ny og gammel symfonisk musik fra film, spil og tv-serier. Episodens medvært er Regitze Heiberg fra Troldspejlet.</description>
-      <pubDate>Tue, 21 Nov 2023 18:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:14:38</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122321472/ffb2b1a0f76d0e6ffac00191d4cc138b1a613fe64756f45de04909ed33fdf0c6.mp3" type="audio/mpeg" length="107474481" />
     </item>
   </channel>
 </rss>

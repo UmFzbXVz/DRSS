@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:43 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405212</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405212</link>
+      <title>Tirsdag 21. maj 2024</title>
+      <description>Præludium: Knud-Erik Jensen: I al sin glans nu stråler solen.
+Fra det G.T.:	Ezekiel 37,1-10.
+Salme: 290, vers 1-4 "I al sin glans nu stråler solen".
+Fra det N.T.:	Apostlenes Gerninger 2,14-21.
+Vekselsang:	Ånden selv vidner med vor ånd (Rom. 8, 16-17 &amp; 26).
+Salme: 290, vers 5-7.
+Postludium: Christian Præstholm: I al sin glans nu stråler solen.</description>
+      <pubDate>Tue, 21 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405212/948dc1dc68a7ab1a0977745ca8a729c092519a1a9b86c7b2f29bae4eb89faf01.mp3" type="audio/mpeg" length="36001576" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405206</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405206</link>
@@ -420,24 +438,6 @@ Postludium: Battison Haynes: Meditation G-dur.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405172/f340caae1687403a6a9a97f60562378fef647afaffb2c5427a7fb04eb7dc4234.mp3" type="audio/mpeg" length="36001576" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405171</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405171</link>
-      <title>Mandag 22. apr. 2024</title>
-      <description>Præludium:	Friedrich Wilhelm Zachau: Aleneste Gud i Himmerig.
-Ord til dagen: af Dorothee Sölle.
-Salme: 743 "Nu rinder solen op af østerlide".
-Fra det N.T.:	Romerbrevet 13, 7-10.
-Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
-Salme: 657, vers 1 + 4-5 "Vågn op, du, som sover".
-Postludium: Johann Sebastian Bach: Fuga c-mol, BWV 537/II.</description>
-      <pubDate>Mon, 22 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405171/a2a240afab15ae6e073b966bd554c4ad6f095c1a2796ae8e7aadf081ab72abfd.mp3" type="audio/mpeg" length="36001584" />
     </item>
   </channel>
 </rss>

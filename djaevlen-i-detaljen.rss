@@ -11,7 +11,7 @@ Produceret for DR af Filt Cph.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 21 May 2024 06:34:38 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:29:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret for DR af Filt Cph.</description>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16122492719</guid>
+      <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
+      <title>Teaser: Drabskomplottet på Djursland 1:2</title>
+      <description>I sommeren 2022 forsvinder den 40-årige Frank Jørgensen. Senere bliver han bil fundet udbrændt, og efterfølgende bliver hans lig også fundet. Bag drabet står fire personer, som kendte Frank. Deriblandt hans ekskæreste Maibrit. Hør hele afsnittet i &lt;a href=https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen&gt;DR Lyd&lt;/a&gt;.</description>
+      <pubDate>Wed, 22 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:40</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492719/0145f46b868182f155123275959bb99e53ff00b6e3038637f4a8822f11d99ece.mp3" type="audio/mpeg" length="2417342" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492718</guid>
       <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
