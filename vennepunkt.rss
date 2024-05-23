@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 22 May 2024 15:50:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:26:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,26 @@ Produceret for DR af MonoMono.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122393680</guid>
+      <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-jeg-sparkede-nedad-jeg-var-en-kujon-med-glenn-bech-16122393680</link>
+      <title>"Jeg sparkede nedad, jeg var en kujon" - med Glenn Bech</title>
+      <description>Glenn har aldrig været sig selv i sin hjemby og har skjult sig bag en facade for ikke at blive opdaget af sine klassekammerater. Sofie deler en lyttefortælling om at finde to venner på gymnasiet, der viser sig at være nogle helt andre, end de udgiver sig for at være. Og så tager episoden en drejning, da Sofie røber en stor hemmelighed.
+Skriv til vennepunkt@dr.dk, hvis du vil dele din vennefortælling med os.
+
+Vært: Sofie Diemer.
+Medvirkende: Glenn Bech, forfatter og psykolog. 
+Producer og klip: Luna Lam.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Thu, 23 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:36:34</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393680/ab2ee25d8cbdc33e207bda63c2964315ad20bd1e6f88b0295a6bef6dbdcd5f54.mp3" type="audio/mpeg" length="52657766" />
+    </item>
     <item>
       <guid isPermaLink="false">16122393679</guid>
       <link>https://www.dr.dk/lyd/special-radio/vennepunkt/vennepunkt-2024/vennepunkt-special-et-umage-vennepar-med-helin-erdem-og-sofie-diemer-16122393679</link>

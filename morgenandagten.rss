@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 22 May 2024 15:50:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:26:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -438,24 +438,6 @@ Postludium: Johann Sebastian Bach: Den ypperligste vej.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405173/78f2d0c47fb98f7a40a0dba89c30fbcdcd416e31208a51ca621d1d1acd9b476f.mp3" type="audio/mpeg" length="36001583" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405172</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405172</link>
-      <title>Tirsdag 23. apr. 2024</title>
-      <description>Præludium:	Myles Birket Foster: Grazioso G-dur.
-Fra det G.T.:	1. Mosebog 17,1-7.
-Salme: 754 "Se, nu stiger solen af havets skød".
-Fra det N.T.:	Romerbrevet 13,11 - 14,1.
-Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
-Salme: 598 "O Gud, du ved og kender".
-Postludium: Battison Haynes: Meditation G-dur.</description>
-      <pubDate>Tue, 23 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405172/f340caae1687403a6a9a97f60562378fef647afaffb2c5427a7fb04eb7dc4234.mp3" type="audio/mpeg" length="36001576" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 22 May 2024 15:50:16 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:26:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421213</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421213</link>
+      <title>Onsdag 22. maj 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Wed, 22 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421213/0aa30728f4c4809bde35d87a4daf749bb225997fd268712e6f51cff735ede776.mp3" type="audio/mpeg" length="172802165" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421212</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-2-i-1-er-altid-irriterende-eller-hvad-13332421212</link>
@@ -219,18 +231,6 @@ Gæst i studiet: August 'GUZO' Møller Fogh.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421173/ffcb0b3e08a0a0fb08f7755e3faea815e33050985f92ba2f34a294dc59aef2a8.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421172</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-residensen-skal-finde-sin-ung-kniv-skarpe-kandidat-til-the-minds-of-99-konkurrencen-13332421172</link>
-      <title>Residensen skal finde sin (ung)kniv-skarpe kandidat til The Minds of 99-konkurrencen!</title>
-      <description>P3-programmerne er gået i bokseringen i denne uge i kampen om at finde Danmarks største The Minds of 99-fan, og Residensens konkurrence-gen er ikke til at tage fejl af. Der bliver ledt i mediearkiverne, i fangrupper, i sms'en, og - i konkurrenceåndens tegn - kigget lidt over skuldrene hos de andre programmer. Det viser sig at give pote, og snart kan Residensen samle sine kandidater i en dyst for at se, hvem de tager med sig i finalen på fredag.</description>
-      <pubDate>Tue, 23 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421172/53213e56c9bda180097c3f5bcf274a5d20cf76e6f89bb8d92533e3cc61d8a457.mp3" type="audio/mpeg" length="172801602" />
     </item>
   </channel>
 </rss>

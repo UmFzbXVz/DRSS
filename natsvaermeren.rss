@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 22 May 2024 15:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:26:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463213</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-i-nattens-hede-12422463213</link>
+      <title>I nattens hede</title>
+      <description>Det er nat. Ved kuffertbåndet venter du på din kuffert. De fleste passagerer du fløj med, er for længst væk. Dem, der står tilbage, er fremmede fra andre destinationer. Dine vidner bor i det land du rejste ud fra, og byen du er landet i sover.  
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 23 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463213/d1a620beed025e8739272ec5a05bfb70cd62674598608528534767b23973ceb1.mp3" type="audio/mpeg" length="168482184" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463211</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-glas-i-flere-former-12422463211</link>
@@ -221,19 +234,6 @@ Vært: Peter Albrechtsen.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463174/a7e127442edf85563f1cf8b3d2486378bae31cb43879b962b20da580578cff8a.mp3" type="audio/mpeg" length="168477578" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463171</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-aaret-rundt-12422463171</link>
-      <title>Året rundt</title>
-      <description>En årskalender i musik.
-Vært: Katrine Ring.</description>
-      <pubDate>Tue, 23 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463171/66ebb28f8c2ba6ddbcd1d502ef7f63870ae94994a8353647a4dea9b66fdd3df1.mp3" type="audio/mpeg" length="168480241" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463057</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tys-12422463057</link>
       <title>Tys</title>
@@ -370,9 +370,9 @@ Vært: Minna Grooss.
       <pubDate>Tue, 02 May 2023 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363181/de30e91ed354a5ce2a3c46d7c181b7d949ddc528b2edb3a5ed05a1b6244c1089.mp3" type="audio/mpeg" length="168482190" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363181/e35584c2f00f70f39a2f1f1b1b6df897fc91b4ec856b4b885159ecd5e91ee22d.mp3" type="audio/mpeg" length="172802190" />
     </item>
     <item>
       <guid isPermaLink="false">12422363177</guid>

@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 22 May 2024 15:50:33 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:26:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,19 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421020</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-scarlett-johansson-vs-openai-slut-med-hjemmesider-og-en-superfake-verden-11802421020</link>
+      <title>Scarlett Johansson vs. OpenAI, slut med hjemmesider og en superfake verden</title>
+      <description>En byge af møgsager har ramt OpenAI. Nu beskylder Scarlett Johansson selskabet for at have kopieret hendes stemme, og samtidig har en chef fra et sikkerhedsteam sagt op. Vi vender tre møgsager på stribe hos AI-kæledæggerne. Google vil gøre 'internettet' til en undermenu, mens AI'ens svar bliver default. Er det snart slut med at besøge hjemmesider i det hele taget? Vi får også besøg af Victor Riparbelli, stifter af virksomheden Synthezia med 400 ansatte i London. De laver 3D-kloner og avatarer til virksomheder. Men har vi overhovedet brug for mere syntetisk indhold, der gør os i tvivl om, hvad der er ægte og hvad der er falsk?
+Værter: Marcel Mirzaei-Fard, DRs techanalytiker, og Henrik Moltke, DRs techkorrespondent.</description>
+      <pubDate>Thu, 23 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:29</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421020/edcee1f434e6396b9c608d8875a38a66c883301dc27481f7b0d52dccbdab3554.mp3" type="audio/mpeg" length="78467758" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421019</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-flirtende-chatgpt-deepfake-lov-og-hipsterbot-11802421019</link>

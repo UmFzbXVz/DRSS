@@ -17,7 +17,7 @@ Produceret for P3 af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 22 May 2024 15:47:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:20:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -39,6 +39,40 @@ Produceret for P3 af MonoMono.</description>
     </itunes:category>
     <itunes:category text="History" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493763</guid>
+      <link>https://www.dr.dk/lyd/p3/tyran/papa-doc/tyran-baby-doc-3-4-16122493763</link>
+      <title>Baby Doc 3:4</title>
+      <description>Papa Doc kan ikke slås ihjel! Det påstår han i hvert fald selv. Og i løbet af 1960'erne får han opbygget et image som en halvgudommelig voodoo-troldmand, der hersker over liv og død. I virkeligheden er han ved at blive en gammel svagelig mand med sukkersyge. Han er nød til at udpege en efterfølger til herskertronen og det hvide palads. Og desværre er der kun én oplagt kandidat - hans uduelige teenagesøn; Baby Doc.
+
+Manuskript: Oskar Bundgaard.
+Lydesign: Mikkel Rønnau.
+Fortæller: Emil Rothstein-Christensen.
+Soundtrack: Mikkel Bøgeskov Andersson &amp; Mikkel Rønnau.
+Redaktører: Tobias Ingemann &amp; Emil Rothstein-Christensen.
+DRredaktør: Anders Eriksen Stegger.
+
+Produceret for P3 af MonoMono.
+
+Kilder:
+Papa Doc: Haiti and its Dictator: Barnard Diederich &amp; Al Burt.
+Papa Doc, Baby Doc: Haiti and the Duvaliers: James Ferguson.
+Francois &amp; Jean-Claude Duvalier; Erin Condit.
+Haiti: A Shattered Nation; Elizabeth Abbott.
+Written in Blood: Robert Debs Heinl.
+Third-World Folk Beliefs: Haiti Medical Anthropology: Bryant C. Freeman.
+Dominican Republic &amp; Haiti country studies: Helen Chapin Metz (red).</description>
+      <pubDate>Thu, 23 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000050003</itunes:order>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:34:37</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6638a1d52d524a23697602b1.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493763/8ee2fd43890fdd083231c81f0059b4d8f66084fe24de09d044383ccc29c46e36.mp3" type="audio/mpeg" length="49862448" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493762</guid>
       <link>https://www.dr.dk/lyd/p3/tyran/papa-doc/tyran-papa-doc-2-4-16122493762</link>

@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 22 May 2024 15:50:53 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:26:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -389,24 +389,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428173/a6d644c37a7b567b0b71b49a4de7dd3dbde737e26058fb359224d8448a4c5083.mp3" type="audio/mpeg" length="252001592" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428172</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-breaking-news-fra-danish-music-awards-jazz-18452428172</link>
-      <title>Breaking news fra Danish Music Awards Jazz</title>
-      <description>Jazzdanmark åbner i dag for indstillinger til Danish Music Awards Jazz, og i år bliver der rykket godt og grundigt rundt på kategorierne. Vi får besøg fra Jazzdanmark og går i DMA-mode.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende: Tobias Bendixen, kommunikationsmedarbejder hos Jazzdanmark.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked.</description>
-      <pubDate>Tue, 23 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428172/7b2054b5d2e3e1459d36eb5164ae8034a09b2e44e54ed23ed74baffd3b64d65d.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>

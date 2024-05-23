@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 22 May 2024 15:50:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:26:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450103</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-saadan-ender-superligaen-13652450103</link>
+      <title>Sådan ender Superligaen</title>
+      <description>Alt er på spil i sidste runde af Superligaen. 
+Både guld, sølv og bronze skal fordeles, den eftertragtede syvendeplads skal finde sin ejer, og så bliver vi klogere på, hvem der skal følge med Hvidovre ned i første division.
+
+Hvis man skulle synes, det hele bliver lidt for spændende, så frygt ej: Tyvstart har allieret sig med DR Sportens fodboldkommentatorer Jens Ole Sørensen og Andreas Kraul, og sammen forudsiger de, hvordan det hele ser ud, når sidste fløjt har lydt i Superligaen 2023/24.
+
+Vært: Emil Schiønning</description>
+      <pubDate>Thu, 23 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450103/fa3a0c5eb3c7d34db6fa50445f5150ddba166ec4a2ea8e4a09e7a6f2e5b78a62.mp3" type="audio/mpeg" length="27484281" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450102</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ol-atleternes-store-madpakker-13652450102</link>
@@ -1882,21 +1899,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:56</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350227/34c32ef488822fa6830c73d826baecee22736c4570bf2aad8f00eaeac50d3080.mp3" type="audio/mpeg" length="25840956" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350226</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-ol-atleternes-aar-i-rampelyset-13652350226</link>
-      <title>OL-atleternes år i rampelyset</title>
-      <description>Mange sportsfolk kan gå helt for sig selv i tre år, men når OL nærmer sig, ændrer deres liv sig markant.
-Sådan er det for skeetskytten Jesper Hansen, der vev legene i Tokyo vandt sølv og nu er udtaget til Paris som den første dansker.
-Men hvordan er det at være atlet, når man pludselig ender i mediernes søgelys, fordi OL er lige om hjørnet? Det svarer medaljevinderen på i dagens episode.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:14</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350226/bba2aeab4a8b52199e7ad1c556bb7649c0a24b467a9ba17f1c69f67d5ea64456.mp3" type="audio/mpeg" length="21942012" />
     </item>
   </channel>
 </rss>
