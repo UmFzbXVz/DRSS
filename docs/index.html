@@ -14,11 +14,31 @@
       <input type="text" id="searchInput" placeholder="Søg...">
       <span class="clear-search" onclick="clearSearch()">&#10006;</span>
   </div>
-  <p class="helper-text">*Alt her på siden kan ændres og gå i stykker; undgå den</p>
+  <p class="helper-text">Her burde dit styresystems navn stå</p>
   <div id="results"></div>
 </div>
  
 <script>
+    function detectOS() {
+      const userAgent = navigator.userAgent;
+      const osPatterns = [
+        { pattern: /Android/i, name: "Android" },
+        { pattern: /webOS/i, name: "webOS" },
+        { pattern: /iPhone/i, name: "iPhone" },
+        { pattern: /iPad/i, name: "iPad" },
+        { pattern: /iPod/i, name: "iPod" },
+        { pattern: /Opera Mini/i, name: "Opera Mini" },
+        { pattern: /Windows NT/i, name: "Windows" },
+        { pattern: /Mac OS X/i, name: "Mac OS" },
+        { pattern: /Linux/i, name: "Linux" }
+      ];
+
+      const os = osPatterns.find(osPattern => osPattern.pattern.test(userAgent))?.name || "ukendt";
+      document.querySelector(".helper-text").textContent = "Dit styresystem er " + os;
+    }
+
+    document.addEventListener("DOMContentLoaded", detectOS);
+  
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
 const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
