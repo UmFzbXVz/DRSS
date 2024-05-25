@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:26:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,32 @@ Vært: Charlotte Hagen Striib.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452428215</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-per-wennick-15452428215</link>
+      <title>Med Per Wennick</title>
+      <description>For 25 år siden filmede Per Wennick dokumentaren om dansefamilien Fredie-Pedersen, der skabte stor debat om børn og elitesport. Per har mødt familien igen og lavet hans sidste dokumentarfilm 'Ingen slinger i valsen'. Om en uge fylder han 75 år og kan se tilbage på over 80 dokumentarproduktioner for DR. 
+Vært: Charlotte Hagen Striib.</description>
+      <pubDate>Fri, 24 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428215/5aafca371ecb73dd2b769031da4be55c1f73d752d1d217607835c4358c8cdff6.mp3" type="audio/mpeg" length="168481607" />
+    </item>
+    <item>
+      <guid isPermaLink="false">15452428214</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-hans-otto-bisgaard-15452428214</link>
+      <title>Med Hans Otto Bisgaard</title>
+      <description>Den legendariske radio- og TV-stemme og vært, Hans Otto Bisgaard, har skrevet en selvbiografi om sit liv, både det professionelle og det private, der er præget af sorgen over tabet af sønnen, Jeppe, i 2018.
+Vært: Charlotte Hagen Striib.</description>
+      <pubDate>Thu, 23 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428214/ee12d1f726792da1d475a1c4a9ffb7cb115d3eafc32336845684feaf6ff27530.mp3" type="audio/mpeg" length="168482160" />
+    </item>
     <item>
       <guid isPermaLink="false">15452428213</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-kirsten-hemmeshoej-15452428213</link>
@@ -51,19 +77,6 @@ Vært: Charlotte Hagen Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428212/a18368f20229063e0d4df853790ed4f8f7a1c3a17beb2a051ae9027b283f5dd5.mp3" type="audio/mpeg" length="168482095" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428211</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-15452428211</link>
-      <title>Mandag 20. maj 2024</title>
-      <description>Her møder du spændende mennesker og får ny inspiration til det aktive liv.
-Vært: Søren Hansen.</description>
-      <pubDate>Mon, 20 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428211/f62cf37cf9081f62f8aa316deeda7f8e76474c2c7ded3f2aa5e235fa46849c60.mp3" type="audio/mpeg" length="168482014" />
     </item>
   </channel>
 </rss>

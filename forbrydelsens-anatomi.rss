@@ -13,7 +13,7 @@ forbrydelsens@dr.dk</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:26:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -34,6 +34,25 @@ forbrydelsens@dr.dk</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <itunes:category text="History" />
+    <item>
+      <guid isPermaLink="false">11032462007</guid>
+      <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-ekstramateriale-11032462007</link>
+      <title>Et klassemord - Ekstramateriale</title>
+      <description>Sæson 2 af Forbrydelsens anatomi om mordet på Maren, hendes sønner og Skov-Christian er slut. Men hvis du gerne vil gå videre med sagen på egen hånd, så kan du få inspiration i det her ekstra afsnit. 
+Medvirkende: 
+Martin Schmidt-Nielsen; bibliotekar.
+Birgit S. Hansen; borgmester Frederikshavn Kommune.
+Rikke Precht; vært og tilrettelægger. 
+Sara Røjkjær Knudsen; vært og tilrettelægger.</description>
+      <pubDate>Fri, 24 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000020007</itunes:order>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:21:52</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032462007/b3f444793ac57d55a927489a25e94b174606b0369b2497f95d15749f6d905299.mp3" type="audio/mpeg" length="31490359" />
+    </item>
     <item>
       <guid isPermaLink="false">11032462006</guid>
       <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-6-6-frelser-eller-forbryder-11032462006</link>

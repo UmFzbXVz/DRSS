@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:26:44 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452498014</guid>
+      <link>https://www.dr.dk/lyd/special-radio/10-20-30/10-20-30-2024/10-20-30-mia-lyhne-musik-at-miste-sin-moedom-til-15452498014</link>
+      <title>Mia Lyhne - musik at miste sin mødom til</title>
+      <description>Musik sætter gang i drømmene. Og Mia Lyhne går efter drømmen, om den så er at komme med i Vesterbro Ungdomsgård - uden at bo på Vesterbro - eller at blive professionel skuespiller - trods syv afslag fra skuespillerskolen. Vi tager med hende hjem til barndommens bofællesskab i Smørumnedre, hvor Mias sangvalg får tårerne frem hos Signe. Vi skal også med på hendes første musikfestival, hvor hun kom for at score, men i stedet blev bjergtaget af Annisette. Og så afslører Mia og Signe, hvilke sange de som teenagere planlagde som soundtrack til deres seksuelle debut.
+Vært og tilrettelægger: Signe Muusmann
+Producer og klipper: Valdemar Stauning
+Lyddesigner: Frederik Ludwigs
+Redaktør: Christian Lundov</description>
+      <pubDate>Fri, 24 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:32:53</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452498014/ac9e399574a6a420e64412e10ae8932f0acd07878a3586a9670ae59950dd7f59.mp3" type="audio/mpeg" length="47368372" />
+    </item>
     <item>
       <guid isPermaLink="false">15452498013</guid>
       <link>https://www.dr.dk/lyd/special-radio/10-20-30/10-20-30-2024/10-20-30-wafande-en-stor-brun-kartoffel-vender-tilbage-15452498013</link>

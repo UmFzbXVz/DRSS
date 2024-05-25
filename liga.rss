@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:26:09 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -37,32 +37,6 @@ Værter: Morten Hausborg og Rikke Smed.</description>
       <itunes:duration>03:51:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402212/c3a7b411837f031fd69d7f956949460e6efbdc6333858bef9ae5fc654c645c51.mp3" type="audio/mpeg" length="333054431" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402211</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402211</link>
-      <title>Mandag 20. maj 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Morten Hausborg, Alberte Røhl og Emil Schiønning.</description>
-      <pubDate>Mon, 20 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>06:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402211/7f47da4dba18dce0bf57c1a4d9550f72a747d68f15c5991e770838b5bf5c835e.mp3" type="audio/mpeg" length="600482035" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402207</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402207</link>
-      <title>Søndag 19. maj 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Morten Hausborg og Sara Skovhave.</description>
-      <pubDate>Sun, 19 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:53:19</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402207/eac2ebe6485151b5e5f1331976718bf786c2741621258c69d2a1d186800d6111.mp3" type="audio/mpeg" length="163178210" />
     </item>
   </channel>
 </rss>

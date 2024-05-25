@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:25:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452435215</guid>
+      <link>https://www.dr.dk/lyd/p6beat/farrock/farrock-2024/farrock-gode-vaner-og-daarlige-vaner-16452435215</link>
+      <title>Gode vaner og dårlige vaner</title>
+      <description>Vi skal huske de gode vaner, så vi får det godt med os selv og får det godt i vores hylster, ik'?</description>
+      <pubDate>Fri, 24 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452435215/f5cdacc30485b35b625c7c0ada2c6653f37f0dfd9c0951649de05d119226155b.mp3" type="audio/mpeg" length="168482098" />
+    </item>
     <item>
       <guid isPermaLink="false">16452435205</guid>
       <link>https://www.dr.dk/lyd/p6beat/farrock/farrock-2024/farrock-verdenstouren-naermer-sig-16452435205</link>
@@ -302,18 +314,6 @@ Kærlig hilsen Goodluck og Frankie.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452335485/2c8282b582e3866a236f2fa243e2b1da2c7b8da02665d92cbd1f4a97af18318a.mp3" type="audio/mpeg" length="168481571" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452335475</guid>
-      <link>https://www.dr.dk/lyd/p6beat/farrock/farrock-2023/farrock-16452335475</link>
-      <title>Fredag 24. nov. 2023</title>
-      <description>Du behøver ikke engang banke på - døren står allerede på klem, når Goodluck Casper og Frank Frankie Ziyanak åbner op og inviterer indenfor til en musikalsk livsrejse - Vi kalder det farrock!</description>
-      <pubDate>Fri, 24 Nov 2023 10:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452335475/0759fa3308ca2159e9186ac9c6cb4721d9c8e8c417c0d0fab99ba6e5c9b0207d.mp3" type="audio/mpeg" length="168675070" />
     </item>
     <item>
       <guid isPermaLink="false">16452135515</guid>

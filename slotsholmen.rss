@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:26:30 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:09:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802443142</guid>
+      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-df-affyrer-hovsa-missil-ind-i-valgkampen-11802443142</link>
+      <title>DF affyrer hovsa-missil ind i valgkampen</title>
+      <description>Morten Messerschmidt kalder klimapolitik i Danmark for hysteri og er på vej til at trække Dansk Folkeparti ud af den historiske klimaaftale. Ifølge en ekspert er der tale om et farligt hovsa-missil, der risikerer at ramme partiet selv. Så hvad kan det komme det til at betyde for Messerschmidts parti, og hvilke konsekvenser får det for dansk politik? De undersøger Slotsholmen, der også ser på en ny, kontroversiel valgtest op til EU-valget. Testen ser neutral ud ved første øjekast, men den er lavet af et parti, og kritikerne kalder den manipulerende og et problem for demokratiet.
+Værter: Thomas Buhl og Pia Glud Munksgaard.
+Gæster: Lars Trier Mogensen, politisk kommentator og podcastvært, Anders Vistisen, spidskandidat, Dansk Folkeparti.</description>
+      <pubDate>Fri, 24 May 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:05</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802443142/bae8a8e2132a7d863878d3a9c16cb6e692c1f7d3fe92aac072d4d03b08d96c79.mp3" type="audio/mpeg" length="34688906" />
+    </item>
     <item>
       <guid isPermaLink="false">11802443141</guid>
       <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-hash-rap-og-soevndals-selvironi-valgkampen-er-i-gang-11802443141</link>
@@ -734,33 +747,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:23:12</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343252/6f166e8c499f6445121aaae4a26e4388d92401fc813a39f286caba3eb97f82c7.mp3" type="audio/mpeg" length="33432649" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802343251</guid>
-      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2023/slotsholmen-lose-er-tilbage-mere-magtfuld-end-nogensinde-11802343251</link>
-      <title>Lose er tilbage - mere magtfuld end nogensinde</title>
-      <description>Hun er lige blevet den næstmest magtfulde kvinde i dansk politik. Sammen med Troels Lund Poulsen skal hun forsøge at genrejse Venstre. Men hvem er magtoperatøren Stephanie Lose? Hvad er hendes ambitioner for sig selv og Venstre? Og hvorfor læser hun egentlig kun bøger i ferierne? Det spørger Slotsholmen Stephanie Lose om i dag.
-Værter: Pia Glud Munksgaard og Thomas Buhl.
-Gæst: Stephanie Lose, økonomiminister, næstformand i Venstre.
-Tilrettelægger: Jonas Gulmann.</description>
-      <pubDate>Fri, 24 Nov 2023 16:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:10</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343251/bc18c408cbce70819f97fd62b2b9b644cfb5fe231c0150f2b91c369544e8f08e.mp3" type="audio/mpeg" length="31926411" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802343266</guid>
-      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2023/slotsholmen-en-loeve-og-en-kanin-troels-lund-har-sat-sit-ministerhold-11802343266</link>
-      <title>En løve og en kanin: Troels Lund har sat sit ministerhold</title>
-      <description>Iværksætteren Mia Wagner har kun været medlem af Venstre i en uges tid. Og nu skal hun være med til at få Venstre ud af krisen som ny minister i regeringen. Morten Dahlin rykker også op i hierarkiet, bliver minister og kan være fremtidens mand i Venstre. Men vil dagens ministerrokade hjælpe partiet ud af krisen? Og hvad betyder rokaden for den samlede regering, der for længst har mistet sit flertal i meningsmålingerne? 
-Værter: Thomas Buhl og Pia Glud Munksgaard.
-Gæster: Jarl Cordua, kommentator og Venstre-kender, Andreas Thyrring, partner i Ulveman og Børsting.</description>
-      <pubDate>Thu, 23 Nov 2023 16:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:43</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343266/59a6e46f639cb403c074c6b71f1279936daf8eef728efc2dfe8fa219a9981082.mp3" type="audio/mpeg" length="32737426" />
     </item>
   </channel>
 </rss>

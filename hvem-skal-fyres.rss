@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:25:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -36,18 +36,6 @@
       <itunes:duration>00:22:47</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310742/b58d5d32c971faf35238a359f50bf016fe2e73a8cf6618d990b82a0ae86710ac.mp3" type="audio/mpeg" length="32823795" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332310741</guid>
-      <link>https://www.dr.dk/lyd/p3/hvem-skal-fyres/hvem-skal-fyres-2023/hvem-skal-fyres-hvordan-overfuser-man-en-gammel-dame-13332310741</link>
-      <title>Hvordan overfuser man en gammel dame?</title>
-      <description>Ugen har været meget præget af kighoste. Nok også for meget. Og så har Mikkel været i et offentligt skænderi med en gammel dame. Vi evaluerer, hvordan det gik.</description>
-      <pubDate>Fri, 24 Nov 2023 10:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:30:28</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332310741/ed387a220c8231b46791e2fa9cde334f7c2b19cb6c306f9414f70d470f12ab89.mp3" type="audio/mpeg" length="43877723" />
     </item>
   </channel>
 </rss>

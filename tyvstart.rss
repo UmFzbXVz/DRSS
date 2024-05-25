@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:26:39 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450104</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-forlaenget-weekend-i-frankrig-13652450104</link>
+      <title>Forlænget weekend i Frankrig?</title>
+      <description>Der er blevet trukket lod til French Open, og DR Sportens tennisreporter Kresten Mosbæk er på vej mod Paris. Men skal han satse på en længere ferie i det franske, eller ryger de to danske håb, Clara Tauson og Holger Rune, tidligt ud af turneringen?
+
+Holger Rune har ikke spillet op til sit bedste i lang tid, mens Clara Tauson omvendt har vist gode takter på det seneste. Men hvad kan vi egentlig forvente af dem, nu hvor de kommende modstandere er fundet? 
+
+Det spørger vi om i Tyvstart i dag.
+
+Vært: Emil Schiønning</description>
+      <pubDate>Fri, 24 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:27</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450104/ea946e454487cb807a6be22e72864132084f23848bf1cb6c624fad820bfa11d4.mp3" type="audio/mpeg" length="26585721" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450103</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-saadan-ender-superligaen-13652450103</link>
@@ -1871,34 +1889,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350229/ef7b7eb46a2158490bfc9cd053415741b69cd289f3b96058426abdae65c720fb.mp3" type="audio/mpeg" length="24890457" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350228</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-i-kamp-for-vm-baelte-og-udsatte-unge-13652350228</link>
-      <title>I kamp for VM-bælte og udsatte unge</title>
-      <description>Youssef Assouik er ottedobbelt verdensmester i thai- og kickboksning. Fredag skal han forsvare et af sine bælter til et event, han selv arrangerer, og samtidig driver han sit eget gym. 
-Men det vigtigste for 28-årige Assouik er de udsatte unge, han som socialrådgiver arbejder med. Han drømmer om at skabe den næste verdensmester i de sportsgrene, han selv elsker så højt.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:52</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350228/3e13b9271774aec101195c93a65a4f3559e40a427ed311183fa2e7699b5d9996.mp3" type="audio/mpeg" length="24303030" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350227</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-landsholdsprofil-stopper-mens-legen-er-god-13652350227</link>
-      <title>Landsholdsprofil stopper, mens legen er god</title>
-      <description>Den snart tidligere fodboldspiller Nicoline Sørensen har valgt at indstille sin karriere, selvom hun kun er 26 år gammel. 
-I dagens Tyvstart fortæller hun, hvorfor fodbold ikke længere er en fornøjelse, selvom hun både var til VM i sommer og er på kontrakt hos Everton i en af verdens bedste ligaer. 
-Vært: Emil Schiønning.</description>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:56</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350227/34c32ef488822fa6830c73d826baecee22736c4570bf2aad8f00eaeac50d3080.mp3" type="audio/mpeg" length="25840956" />
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:22:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460122</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Frygten for fronten</title>
+      <description>I 16 timer lyder luftalarmen over Kharkiv-regionen. Russerne arbejder ihærdigt for at åbne en ny front, og imens savner de ukrainske soldater våben, ammunition og kollegaer. Mange har mistet livet i kampen for fædrelandet, og dem, der stadig kæmper, er udmattede og tyndslidte af krigens rædsler. Nu har det ukrainske parlament vedtaget en ny mobiliseringslov, der skal sørge for at flere, friske soldater kommer til fronten. Det gælder også dem, der med alle kræfter har forsøgt at undslippe. I dagens Genstart fortæller Sofie Rose, postdoc ved Center for War Studies på SDU, om de tusindvis af ukrainere, der siden krigens start har søgt over grænserne og nu lever med skammen over potentielt at lade fædrelandet i stikken.
+Vært: Anna Ingrisch. 
+Program publiceret i DR Lyd d. 21/5.</description>
+      <pubDate>Fri, 24 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460122/a47bba67ece759dda369d1b9982ed70ea32384293ba1999c2c09971d8ef17e61.mp3" type="audio/mpeg" length="31932167" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460121</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:26:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463215</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-en-lydmesters-indre-ro-12422463215</link>
+      <title>En lydmesters indre ro</title>
+      <description>En af USAs førende lydmagere, Steve Albini, er gået bort, og selv om han var kendt for sin energiske lyd, så lavede han også stille plader, der passer perfekt til nattens indre ro. Peter Albrechtsen hylder mesterens afdæmpede toner i denne udgave af Natsværmeren, der også byder på ny dansk musik og udsøgt klassisk lyd fra Sibelius og John Barry.</description>
+      <pubDate>Sat, 25 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463215/c87c1af94c354808bfe0a2253f6e6a754d176442fa2e0bd6f4ceec1c0b341090.mp3" type="audio/mpeg" length="168482184" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463213</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-i-nattens-hede-12422463213</link>
@@ -234,6 +246,21 @@ Vært: Peter Albrechtsen.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463174/a7e127442edf85563f1cf8b3d2486378bae31cb43879b962b20da580578cff8a.mp3" type="audio/mpeg" length="168477578" />
     </item>
     <item>
+      <guid isPermaLink="false">12422463084</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-rider-mod-solnedgangen-12422463084</link>
+      <title>Rider mod solnedgangen</title>
+      <description>En hest og en ensom rytter rider gennem et dramatisk landskab, tørt, bjergrigt og alt farvet i nuancer af brunt.
+Jeg sætter musikken til scenen fra barndommens cowboyfilm til nutidige toner, der fanger suset fra vidderne og følelserne under den hårde lædervest.
+Vært: Tina Rømer.
+(Sendt første gang 23. februar).</description>
+      <pubDate>Fri, 23 Feb 2024 03:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463084/89e7bf65596310c83b8c4a50431d6e1416510c096fca4f5b793ab697990b1e28.mp3" type="audio/mpeg" length="172802185" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463057</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tys-12422463057</link>
       <title>Tys</title>
@@ -303,34 +330,6 @@ Vært: Tina Rømer.
       <itunes:duration>01:56:56</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363217/9a0d3ce327b87bd5f0fb45b083e62d058b2837b85a935ca5a52e020c95caf5a3.mp3" type="audio/mpeg" length="168398622" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363213</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lyden-af-moens-klint-12422363213</link>
-      <title>Lyden af Møns Klint</title>
-      <description>Du sidder i båd under stjernerne. Karlsvognen ligger på kanten af Møns klint, der fra søsiden mister sin højde op mod universets uendelige. Et soundtrack spiller, og natten går over i dag i den lyse forårsnat. 
-Vært: Minna Grooss.
-(Sendt første gang 25. maj 2023).</description>
-      <pubDate>Thu, 25 May 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363213/2cb6e363864e8d5096960504dd6ad99c9dbc9bb90169a17176e53d5b3135f466.mp3" type="audio/mpeg" length="168576077" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363211</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-nattens-kompas-12422363211</link>
-      <title>Nattens kompas</title>
-      <description>Intet er givet på forhånd, intet er som i går, eller for lidt siden. Natten er ingenmandsland, natten er en Jætte, en kaosmagt. Natten er rolig, natten er vild og frem for alt er natten er din. Lise Dress, Schumann, Nala Sinephro, Ravel, Kreisler, Jomi Massage, Pia Raug, Hugo Diaz og Martha Agerich lader natten gå sin gang med andre af nattens sjæle.
-Vært: Minna Grooss.
-(Sendt førte gang 23. maj 2023).</description>
-      <pubDate>Tue, 23 May 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363211/9b76060bcdd53af40a0dc0934bb994099989959e6b4d645e528e73e09702fe9c.mp3" type="audio/mpeg" length="168461441" />
     </item>
     <item>
       <guid isPermaLink="false">12422363201</guid>

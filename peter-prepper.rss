@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:22:51 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:14:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,11 +25,7 @@ Produceret for DR af PodAmok.</description>
     </image>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6638d73ecb5a7630228433f5.jpg" />
     <category>Leisure</category>
-    <category>Arts</category>
     <itunes:category text="Leisure" />
-    <itunes:category text="Arts">
-      <itunes:category text="Food" />
-    </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
       <guid isPermaLink="false">16122493202</guid>

@@ -17,7 +17,7 @@ Kontakt os via dr.dk/tipos eller skriv til drundersoeger@proton.me</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:25:39 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:20:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -51,20 +51,6 @@ Kontakt os via dr.dk/tipos eller skriv til drundersoeger@proton.me</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802212010/e9a9c78e9f728312537b501eeba62970c1f42634df6d80a48704508028b5734d.mp3" type="audio/mpeg" length="39628891" />
     </item>
     <item>
-      <guid isPermaLink="false">11802212009</guid>
-      <link>https://www.dr.dk/lyd/p1/opgoeret/opgoeret-1/opgoeret-7-8-det-sidste-vidne-11802212009</link>
-      <title>7:8 - Det sidste vidne</title>
-      <description>Udenfor døren til retssal 900 står Daniel Rye og kigger ind af et lille vindue. Han er det allersidste vidne, der skal fortælle om sine oplevelser i fangenskab. Efter otte år skal han igen sidde overfor en af de mænd, der er anklaget for at have været hans fangevogtere i Syrien.</description>
-      <pubDate>Fri, 29 Apr 2022 05:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000010008</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>8</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:09</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802212009/11b02a1faf117244522edabb2c8127f1ab8e146d51b26c6ec5b277db5c3c0ed0.mp3" type="audio/mpeg" length="34788187" />
-    </item>
-    <item>
       <guid isPermaLink="false">11802212008</guid>
       <link>https://www.dr.dk/lyd/p1/opgoeret/opgoeret-1/opgoeret-6-8-det-hemmelige-vidne-11802212008</link>
       <title>6:8 - Det hemmelige vidne</title>
@@ -77,6 +63,20 @@ Kontakt os via dr.dk/tipos eller skriv til drundersoeger@proton.me</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:18:22</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802212008/2c3eaae3b9815f87044d08f0b13e6e45cbfec57686610900f5e3b30ac815d4f0.mp3" type="audio/mpeg" length="26468443" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802212009</guid>
+      <link>https://www.dr.dk/lyd/p1/opgoeret/opgoeret-1/opgoeret-7-8-det-sidste-vidne-11802212009</link>
+      <title>7:8 - Det sidste vidne</title>
+      <description>Udenfor døren til retssal 900 står Daniel Rye og kigger ind af et lille vindue. Han er det allersidste vidne, der skal fortælle om sine oplevelser i fangenskab. Efter otte år skal han igen sidde overfor en af de mænd, der er anklaget for at have været hans fangevogtere i Syrien.</description>
+      <pubDate>Fri, 29 Apr 2022 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010008</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:09</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802212009/11b02a1faf117244522edabb2c8127f1ab8e146d51b26c6ec5b277db5c3c0ed0.mp3" type="audio/mpeg" length="34788187" />
     </item>
     <item>
       <guid isPermaLink="false">11802212007</guid>

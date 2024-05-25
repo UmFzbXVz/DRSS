@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 23 May 2024 05:26:28 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:21:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,30 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433215</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433215</link>
+      <title>Fredag 24. maj 2024</title>
+      <description>Kan man godt være kandidat til Europa Parlamentet, når man indirekte er med til at finansiere Ruslands krigsmaskine? Hvordan reagerer AfD på udsmidning fra europæisk højregruppe i parlamentet? Og hvor stor er vreden over de tre landes anerkendelse af Palæstina i Israel?
+Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
+      <pubDate>Fri, 24 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:04</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433215/33c99277ac05319525da8815ab0ca201cc1b182926b88bc9ee2dcf082ffb0091.mp3" type="audio/mpeg" length="237717367" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433214</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433214</link>
+      <title>Torsdag 23. maj 2024</title>
+      <description>Hvordan skal man sikre, at dyreaktivister ikke får held med at pårvirke dyreprojekter med chikane? Kan det konservative genvinde magten i UK? Og bør regeringen have mere fokus på sundhed for at øge arbejdsudbuddet?
+Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
+      <pubDate>Thu, 23 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:02</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433214/f025b49477524db8922a1594c1193de6edca0ff5e90939e5b57b1ea0d5edea92.mp3" type="audio/mpeg" length="237662646" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433213</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433213</link>
@@ -1812,20 +1836,6 @@ Dagens værter: Maria Hollænder og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:09</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333482/6c97f5438f6ba9d1777012728cd6ebd9027c8fdbfee645e2327868508e26c10f.mp3" type="audio/mpeg" length="237836385" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333481</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333481</link>
-      <title>Mandag 27. nov. 2023</title>
-      <description>Hvad er 3F ansvar for forskelsbehandlingen i byggebranchen? 
-Hvorfor stiger misbruget af opiodpiller blandt unge?
-Hvor udbredt er oplevelsen af racisme i Danmark?
-Dagens værter: Maria Hollænder og Ole Brink.</description>
-      <pubDate>Mon, 27 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:47</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333481/e168fa8c44dc71ca93c201e219018b6c811070a86e325530a3faeeafab347a7f.mp3" type="audio/mpeg" length="237307041" />
     </item>
   </channel>
 </rss>
