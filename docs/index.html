@@ -20,7 +20,6 @@
  
 <script>
 const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-const isMobile = /Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent);
 const resultsContainer = document.getElementById('results');
 const h2Container = document.querySelector('.container h2');
 let isAdvanced = false;
@@ -317,25 +316,25 @@ function createRSSIcon(rssLink) {
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
     rssIcon.addEventListener('click', async () => {
-        if (isMobile) {
+        if (os !== "Android") {
             const anchor = document.createElement('a');
             anchor.href = 'podcast://' + rssLink;
             anchor.target = '_blank'; 
             anchor.click(); 
             await navigator.clipboard.writeText(rssLink);
         } else {
-                        try {
-                await navigator.clipboard.writeText(rssLink);
-                const os = detectOS();
-                if (os !== "Android") {
-                    showToast("RSS-link kopieret");
-                }
-            } catch (error) {
-                console.error('Fejl', error);
+          try {
+            await navigator.clipboard.writeText(rssLink);
+            const os = detectOS();
+            if (os !== "Android") {
+              showToast("RSS-link kopieret");
             }
+          } catch (error) {
+            console.error('Fejl:', error);
+          }
         }
     });
-    return rssIcon;
+  return rssIcon;
 }
 
 function createListItem(text, url) {
