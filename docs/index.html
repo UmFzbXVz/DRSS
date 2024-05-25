@@ -14,7 +14,7 @@
       <input type="text" id="searchInput" placeholder="Søg...">
       <span class="clear-search" onclick="clearSearch()">&#10006;</span>
   </div>
-  <p class="helper-text">Her kan vises noget hjælpetekst</p>
+  <p class="helper-text">Her burde dit styresystems navn stå</p>
   <div id="results"></div>
 </div>
  
@@ -327,7 +327,7 @@ function createRSSIcon(rssLink) {
                         try {
                 await navigator.clipboard.writeText(rssLink);
                 const os = detectOS();
-                if (os === "Windows" || os === "Mac OS" || os === "Linux") {
+                if (os !== "Android") {
                     showToast("RSS-link kopieret");
                 }
             } catch (error) {
