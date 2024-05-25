@@ -249,3 +249,72 @@ h2.gradient-advanced {
         transform: translateX(-50%) translateY(100%);
     }
 }
+
+        .podcast-info {
+            text-align: center;
+            margin: 20px;
+            padding: 20px;
+            background-color: #242424;
+            border-radius: 10px;
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+        }
+
+        .podcast-info h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+            font-weight: bold;
+            letter-spacing: 1.5px;
+            color: #f5f5f5;
+        }
+
+        .episode {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #333;
+            border-radius: 10px;
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+        }
+
+.episode h4 {
+    margin-top: -10px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    color: #f5f5f5;
+    font-weight: bold;
+}
+
+
+        .episode p {
+            margin-top: 5px;
+            color: #e0e0e0;
+        }
+
+        .episode a {
+            color: #1e90ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .episode a:hover {
+            color: #87ceeb;
+            text-decoration: underline;
+        }
+
+.toggle {
+    cursor: pointer;
+    color: #1e90ff;
+    margin-left: 5px;
+}
+
+.toggle:hover {
+    color: #87ceeb;
+}
+
+.pub-date {
+    font-size: 12px;
+    color: #aaa;
+    font-weight: normal;
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+
