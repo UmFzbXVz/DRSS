@@ -327,6 +327,8 @@ h2.gradient-advanced {
     cursor: pointer;
     transition: background-color 0.3s, box-shadow 0.3s;
     z-index: 1;
+    height: 28px;
+    line-height: 10px;
 }
 
 .sort-button:hover {
