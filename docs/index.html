@@ -311,12 +311,13 @@ function showToast(message) {
 }
   
 function createRSSIcon(rssLink) {
+    const os = detectOS();
     const rssIcon = document.createElement('img');
     rssIcon.src = rssIconUrl;
     rssIcon.alt = 'RSS';
     rssIcon.classList.add('rss-icon');
     rssIcon.addEventListener('click', async () => {
-        if (os !== "Android") {
+        if (os === "Android") {
             const anchor = document.createElement('a');
             anchor.href = 'podcast://' + rssLink;
             anchor.target = '_blank'; 
@@ -325,7 +326,6 @@ function createRSSIcon(rssLink) {
         } else {
           try {
             await navigator.clipboard.writeText(rssLink);
-            const os = detectOS();
             if (os !== "Android") {
               showToast("RSS-link kopieret");
             }
