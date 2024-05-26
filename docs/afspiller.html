@@ -9,19 +9,12 @@
 <body>
 <div class="container">
   <div id="podcast-info" class="podcast-info"></div>
-  <div class="pagination-and-theme">
-    <div id="pagination-controls" class="pagination-controls">
-      <button id="prev-page" class="pagination-button">←</button>
-      <span id="page-info" class="page-info">
-        <span id="current-page" contenteditable="true">1</span> / <span id="total-pages">1</span>
-      </span>
-      <button id="next-page" class="pagination-button">→</button>
-    </div>
-    <button class="theme-switcher" id="theme-switcher">
-    <span class="theme-switcher-icon">🌙</span>
-    <span class="theme-switcher-text"></span>
-</button>
-
+  <div id="pagination-controls" class="pagination-controls">
+    <button id="prev-page" class="pagination-button">←</button>
+    <span id="page-info" class="page-info">
+      <span id="current-page" contenteditable="true">1</span> / <span id="total-pages">1</span>
+    </span>
+    <button id="next-page" class="pagination-button">→</button>
   </div>
 </div>
 
@@ -189,14 +182,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
       event.target.blur();
     }
-  });
-
-  const themeSwitcher = document.getElementById("theme-switcher");
-  themeSwitcher.addEventListener("click", () => {
-    const themeLink = document.getElementById("theme-link");
-    const currentTheme = themeLink.getAttribute("href");
-    const newTheme = currentTheme === "style.css" ? "light.css" : "style.css";
-    themeLink.setAttribute("href", newTheme);
   });
 });
 </script>
