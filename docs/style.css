@@ -10,7 +10,7 @@ body {
     margin: 40px auto;
     max-width: 500px;
     position: relative;
-
+    padding-bottom: 30px;
 }
 
 .search-wrapper {
@@ -311,10 +311,7 @@ h2.gradient-advanced {
     left: 50%;
     transform: translateX(-50%);
     display: none;
-    background-color: #242424;
-    border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    color: #f5f5f5;
 }
 
 #audio-player {
