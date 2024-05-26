@@ -3,371 +3,194 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Testområde</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Afspiller</title>
+  <link id="theme-link" rel="stylesheet" href="style.css">
 </head>
 <body>
-
 <div class="container">
-  <h2>find podcasts</h2>
-  <div class="search-wrapper">
-      <input type="text" id="searchInput" placeholder="Søg...">
-      <span class="clear-search" onclick="clearSearch()">&#10006;</span>
+  <div id="podcast-info" class="podcast-info"></div>
+  <div id="pagination-controls" class="pagination-controls">
+    <button id="prev-page" class="pagination-button">←</button>
+    <span id="page-info" class="page-info">
+      <span id="current-page" contenteditable="true">1</span> / <span id="total-pages">1</span>
+    </span>
+    <button id="next-page" class="pagination-button">→</button>
   </div>
-  <p class="helper-text">Her kan vises lidt hjælpetekst</p>
-  <div id="results"></div>
 </div>
- 
+
+
+<audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);">
+  Din browser understøtter ikke direkte afspilning af lydfiler
+</audio>
+
 <script>
-const rssIconUrl = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png';
-const resultsContainer = document.getElementById('results');
-const h2Container = document.querySelector('.container h2');
-let isAdvanced = false;
-let drPodcastsData = [];
-let podimoPodcastsData = [];
-let miscPodcastsData = [];
-let pir8dioPodcastsData = [];
-let politikenPodcastsData = [];
+let currentPage = 1;
+let totalEpisodes = 0;
+const itemsPerPage = 10;
 
-h2Container.classList.add('gradient-basic');
-h2Container.addEventListener('click', () => {
-    if (!isAdvanced) {
-        h2Container.classList.remove('gradient-basic');
-        h2Container.classList.add('gradient-advanced');
-        h2Container.style.setProperty('--magnifying-glass-opacity', '1');
-    } else {
-        h2Container.classList.remove('gradient-advanced');
-        h2Container.classList.add('gradient-basic');
-        h2Container.style.setProperty('--magnifying-glass-opacity', '0');
+async function loadPodcast() {
+  try {
+    const params = new URLSearchParams(window.location.search);
+    const rssUrl = params.get("rss");
+    if (!rssUrl) {
+        throw new Error("Ugyldig RSS");
     }
-    isAdvanced = !isAdvanced;
-    const searchText = document.getElementById('searchInput').value.trim();
-    filterPodcasts(searchText);
-});
 
-document.addEventListener('DOMContentLoaded', async () => {
-    try {
-        [
-            drPodcastsData,
-            podimoPodcastsData,
-            miscPodcastsData,
-            pir8dioPodcastsData,
-            politikenPodcastsData
-        ] = await Promise.all([
-            fetchDRPodcastsData(),
-            fetchPodimoPodcastsData(),
-            fetchMiscPodcastsData(),
-            fetchPir8dioPodcastsData(),
-            fetchPolitikenPodcastsData(),
-            preloadRssIcon()
-        ]);
-    } catch (error) {
-        console.error('Error fetching data:', error);
+    const response = await fetch(rssUrl);
+    if (!response.ok) {
+      throw new Error(`Netværksfejl: ${response.statusText}`);
     }
-});
+
+    const rssText = await response.text();
+    const parser = new DOMParser();
+    const rssDoc = parser.parseFromString(rssText, "application/xml");
+
+    if (rssDoc.querySelector("parsererror")) {
+      throw new Error("Ugyldigt XML-format");
+    }
+
+    const channel = rssDoc.querySelector("channel");
+    if (!channel) {
+      throw new Error("Ugyldig RSS: Mangler hovedkanal i feed");
+    }
+
+    const title = channel.querySelector("title")?.textContent || "(ingen titel)";
+    const description = channel.querySelector("description")?.textContent || "(ingen beskrivelse)";
+    const episodes = channel.querySelectorAll("item");
+
+    totalEpisodes = episodes.length;
+
+    episodesData = Array.from(episodes).map((episode) => {
+      return {
+        title: episode.querySelector("title")?.textContent || "(ingen titel)",
+        description: episode.querySelector("description")?.textContent || "(ingen beskrivelse)",
+        pubDate: new Date(episode.querySelector("pubDate")?.textContent),
+        link: episode.querySelector("enclosure")?.getAttribute("url"),
+      };
+    });
+
+    document.getElementById("podcast-info").innerHTML = `<h2>${title}</h2><p>${description}</p>`;
+    displayEpisodes();
+  } catch (error) {
+    document.getElementById("podcast-info").innerHTML = `<p>Indlæsningsfejl: ${error.message}</p>`;
+    console.error("Error loading podcast data:", error);
+  }
+}
+
+function displayEpisodes() {
+  const startIndex = (currentPage - 1) * itemsPerPage;
+  const endIndex = startIndex + itemsPerPage;
+  const totalPages = Math.ceil(totalEpisodes / itemsPerPage);
+  document.getElementById("total-pages").textContent = totalPages;
+
+  episodesData.sort((a, b) => {
+    return new Date(a.pubDate) - new Date(b.pubDate);
+  });
+
+  const episodesToShow = episodesData.slice(startIndex, endIndex);
+
+  let episodesHTML = '';
+
+  episodesToShow.forEach((episode) => {
+    episodesHTML += `
+      <div class="episode" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+        <h4 class="episode-title">${episode.title}</h4>
+        <p class="pub-date">${episode.pubDate.toLocaleDateString()}</p>
+        <p class="episode-description">${episode.description}</p>
+      </div>
+    `;
+  });
+
+  document.getElementById("podcast-info").innerHTML += episodesHTML;
+  attachEpisodeClickListeners();
+  attachDescriptionToggleListeners();
+  updatePaginationControls();
+}
+
+function attachEpisodeClickListeners() {
+  document.querySelectorAll('.episode').forEach((episodeElement) => {
+    episodeElement.addEventListener('click', (event) => {
+      if (!event.target.classList.contains('episode-description')) {
+        const episodeUrl = episodeElement.getAttribute('data-url');
+        const episodeTitle = episodeElement.getAttribute('data-title');
+        playEpisode(episodeUrl, episodeTitle);
+      }
+    });
+  });
+}
+
+function attachDescriptionToggleListeners() {
+  document.querySelectorAll('.episode-description').forEach((description) => {
+    description.addEventListener('click', (event) => {
+      event.stopPropagation();
+      if (description.style.maxHeight) {
+        description.style.maxHeight = null;
+        description.classList.remove('expanded');
+      } else {
+        description.style.maxHeight = description.scrollHeight + "px";
+        description.classList.add('expanded');
+      }
+    });
+  });
+}
+
+function updatePaginationControls() {
+  document.getElementById("current-page").textContent = currentPage;
+  const totalPages = parseInt(document.getElementById("total-pages").textContent);
+  document.getElementById("prev-page").disabled = currentPage === 1;
+  document.getElementById("next-page").disabled = currentPage === totalPages;
+}
+
+function changePage(increment) {
+  currentPage += increment;
+  document.querySelectorAll('.episode').forEach(episode => episode.remove());
+  displayEpisodes();
+}
+
+function playEpisode(episodeUrl, episodeTitle) {
+  const audioPlayer = document.getElementById("audio-player");
+  audioPlayer.src = episodeUrl;
+  audioPlayer.style.display = "block";
+  audioPlayer.play();
+
+  document.title = episodeTitle;
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  loadPodcast();
+
+  document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
+  document.getElementById("next-page").addEventListener('click', () => changePage(1));
   
-async function preloadRssIcon() {
-    try {
-        const response = await fetch(rssIconUrl);
-        if (!response.ok) {
-            throw new Error('Error fetching RSS icon');
-        }
-        return await response.blob();
-    } catch (error) {
-        console.error('Error preloading RSS icon:', error);
-        return null;
-    }
-}
-
-async function fetchDRPodcastsData() {
-    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
-}
-
-async function fetchPodimoPodcastsData() {
-    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
-}
-
-async function fetchMiscPodcastsData() {
-    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
-}
-
-async function fetchPir8dioPodcastsData() {
-    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/data.json');
-}
-  
-async function fetchPolitikenPodcastsData() {
-    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json');
-}
-
-async function fetchData(url) {
-    try {
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`Error fetching data from ${url}`);
-        }
-        return await response.json();
-    } catch (error) {
-        console.error(`Error fetching data from ${url}:`, error);
-        return null;
-    }
-}
-
-function clearSearch() {
-    document.getElementById('searchInput').value = '';
-    resultsContainer.innerHTML = '';
-}
-
-function sanitizeFilename(filename) {
-    return filename.replace(/[<>:"/\\|?*]/g, '_');
-}
-
-async function getPodimoRSSLink(podcastName, podcastURL) {
-    try {
-        const sanitizedTitle = sanitizeFilename(podcastName);
-        return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(sanitizedTitle)}.rss`;
-    } catch (error) {
-        console.error('Error getting Podimo RSS link:', error);
-        return null;
-    }
-}
-
-async function displayResults(results) {
-    resultsContainer.innerHTML = '';
-    if (results.length === 0) {
-        resultsContainer.innerHTML = '<p>Ingen søgeresultater fundet</p>';
-        return;
-    }
-
-    const ul = document.createElement('ul');
-
-    results.forEach(result => {
-        const li = createListItem(result.text, result.url);
-
-        if (result.rssLink) {
-            const rssIcon = createRSSIcon(result.rssLink);
-            li.appendChild(rssIcon);
-        }
-
-        ul.appendChild(li);
-    });
-
-    resultsContainer.appendChild(ul);
-}
-
-async function filterPodcasts(searchText) {
-    if (typeof searchText !== 'string') {
-        console.error('searchText is not a string:', searchText);
-        return;
-    }
-    
-    if (searchText.length < 3) {
-        resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
-        return;
-    }
-
-    const drPodcastsData = await fetchDRPodcastsData();
-    const podimoPodcastsData = await fetchPodimoPodcastsData();
-    const miscPodcastsData = await fetchMiscPodcastsData();
-    const pir8dioPodcastsData = await fetchPir8dioPodcastsData();
-    const politikenPodcastsData = await fetchPolitikenPodcastsData();
-
-    if (!drPodcastsData || !podimoPodcastsData || !miscPodcastsData || !pir8dioPodcastsData || !politikenPodcastsData) {
-        console.error('Error: No podcasts data available');
-        return;
-    }
-
-    const filteredDRPodcasts = drPodcastsData.filter(podcast => {
-        const nameMatches = podcast.name && podcast.name.toLowerCase().includes(searchText.toLowerCase());
-        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        return nameMatches || descriptionMatches;
-    });
-
-    const filteredPodimoPodcasts = podimoPodcastsData.filter(podcast => {
-        const titleMatches = isAdvanced && podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
-        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        return titleMatches || descriptionMatches;
-    });
-
-    const filteredMiscPodcasts = Object.values(miscPodcastsData).filter(podcast => {
-        const altTextMatches = podcast.alt_text && podcast.alt_text.toLowerCase().includes(searchText.toLowerCase());
-        const descriptionMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        return altTextMatches || descriptionMatches;
-    });
-
-    const filteredPir8dioPodcasts = pir8dioPodcastsData.filter(podcast => {
-        const titleMatches = isAdvanced && podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
-        const contentMatches = isAdvanced && podcast.content && podcast.content.toLowerCase().includes(searchText.toLowerCase());
-        return titleMatches || contentMatches;
-    });
-  
-      const filteredPolitikenPodcasts = politikenPodcastsData.filter(podcast => {
-        const titleMatches = podcast.title && podcast.title.toLowerCase().includes(searchText.toLowerCase());
-        const contentMatches = isAdvanced && podcast.description && podcast.description.toLowerCase().includes(searchText.toLowerCase());
-        return titleMatches || contentMatches;
-    });
-
-    const results = [];
-
-    function calculateWeight(title, searchText) {
-        const titleLowerCase = title.toLowerCase();
-        const searchTextLowerCase = searchText.toLowerCase();
-        if (titleLowerCase.startsWith(searchTextLowerCase)) {
-            return 2;
-        } else if (titleLowerCase.includes(searchTextLowerCase)) {
-            return 1;
-        } else {
-            return 0;
-        }
-    }
-
-    filteredDRPodcasts.forEach(podcast => {
-        results.push({
-            text: podcast.name + ' (DR)',
-            url: podcast.program_url,
-            rssLink: podcast.url.includes('') ? podcast.url : null,
-            weight: calculateWeight(podcast.name, searchText)
-        });
-    });
-
-    for (const podcast of filteredPodimoPodcasts) {
-        const rssLink = await getPodimoRSSLink(podcast.title, podcast.url);
-        results.push({
-            text: `${podcast.title} (Podimo)`,
-            url: `https://podimo.com/dk/shows/${podcast.id}`,
-            rssLink: rssLink,
-            weight: calculateWeight(podcast.title, searchText)
-        });
-    }
-
-    filteredMiscPodcasts.forEach(podcast => {
-        results.push({
-            text: podcast.alt_text + ' (24syv)',
-            url: 'https://umfzbxvz.github.io/DRSS/afspiller.html?rss=' + getFormattedRSSUrl(podcast.alt_text),
-            rssLink: getFormattedRSSUrl(podcast.alt_text),
-            weight: calculateWeight(podcast.alt_text, searchText)
-        });
-    });
-
-    filteredPir8dioPodcasts.forEach(podcast => {
-        results.push({
-            text: podcast.title + ' (r8Dio)',
-            url: podcast.program_url,
-            rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${encodeURIComponent(podcast.slug)}.rss`,
-            weight: calculateWeight(podcast.title, searchText)
-        });
-    });
-  
-      filteredPolitikenPodcasts.forEach(podcast => {
-        results.push({
-            text: podcast.title + ' (Politiken)',
-            url: podcast.program_url,
-            rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/${encodeURIComponent(podcast.id)}.rss`,
-            weight: calculateWeight(podcast.title, searchText)
-        });
-    });
-
-    results.sort((a, b) => {
-        if (a.weight !== b.weight) {
-            return b.weight - a.weight;
-        }
-        return a.text.localeCompare(b.text);
-    });
-
-    displayResults(results);
-}
-
-document.getElementById('searchInput').addEventListener('input', function() {
-    const searchText = this.value.trim();
-    filterPodcasts(searchText);
-});
-
-  
-function detectOS() {
-  const userAgent = navigator.userAgent;
-  const osPatterns = [
-    { pattern: /Android/i, name: "Android" },
-    { pattern: /webOS/i, name: "webOS" },
-    { pattern: /iPhone/i, name: "iPhone" },
-    { pattern: /iPad/i, name: "iPad" },
-    { pattern: /iPod/i, name: "iPod" },
-    { pattern: /Opera Mini/i, name: "Opera Mini" },
-    { pattern: /Windows NT/i, name: "Windows" },
-    { pattern: /Mac OS X/i, name: "Mac OS" },
-    { pattern: /Linux/i, name: "Linux" }
-  ];
-
-  const os = osPatterns.find(osPattern => osPattern.pattern.test(userAgent))?.name || "ukendt";
-  return os;
-}
-
-function showToast(message) {
-    const toast = document.createElement('div');
-    toast.textContent = message;
-    toast.classList.add('toast');
-    document.body.appendChild(toast);
+  const currentPageElement = document.getElementById("current-page");
+  currentPageElement.addEventListener('focus', (event) => {
     setTimeout(() => {
-        toast.remove();
-    }, 2000);
-}
-  
-function createRSSIcon(rssLink) {
-    const os = detectOS();
-    const rssIcon = document.createElement('img');
-    rssIcon.src = rssIconUrl;
-    rssIcon.alt = 'RSS';
-    rssIcon.classList.add('rss-icon');
-    rssIcon.addEventListener('click', async () => {
-        if (os === "Android") {
-            const anchor = document.createElement('a');
-            anchor.href = 'podcast://' + rssLink;
-            anchor.target = '_blank'; 
-            anchor.click(); 
-            await navigator.clipboard.writeText(rssLink);
-        } else {
-          try {
-            await navigator.clipboard.writeText(rssLink);
-            if (os !== "Android") {
-              showToast("RSS-link kopieret");
-            }
-          } catch (error) {
-            console.error('Fejl:', error);
-          }
-        }
-    });
-  return rssIcon;
-}
+      document.execCommand('selectAll', false, null);
+    }, 0);
+  });
 
-function createListItem(text, url) {
-    const li = document.createElement('li');
-    const a = document.createElement('a');
-    a.href = url;
-    a.textContent = text;
-    li.appendChild(a);
-    return li;
-}
-
-function getFormattedRSSUrl(podcastName) {
-    const formattedPodcastName = podcastName
-        .replace(/\//g, '_')
-        .replace(/\?/g, '_')
-        .replace(/ /g, '_')
-        .toLowerCase() + '.rss';
-    let directory;
-    const firstCharacter = formattedPodcastName.charAt(0);
-    
-    if (!isNaN(parseInt(firstCharacter))) {
-        directory = '0-9';
-    } else {
-        directory = firstCharacter.toUpperCase();
-    }
-
-    return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
-}
-
-document.getElementById('searchInput').addEventListener('keypress', function(event) {
+  document.getElementById("page-info").addEventListener('keypress', function(event) {
     if (event.key === 'Enter') {
-        this.blur();
+      const newPage = parseInt(document.getElementById("current-page").textContent);
+      const totalPages = parseInt(document.getElementById("total-pages").textContent);
+      if (newPage >= 1 && newPage <= totalPages) {
+        currentPage = newPage;
+        document.querySelectorAll('.episode').forEach(episode => episode.remove());
+        displayEpisodes();
+      } else {
+        document.getElementById("current-page").textContent = currentPage;
+      }
+      event.target.blur();
     }
+  });
+
+  const themeSwitcher = document.getElementById("theme-switcher");
+  themeSwitcher.addEventListener("click", () => {
+    const themeLink = document.getElementById("theme-link");
+    const currentTheme = themeLink.getAttribute("href");
+    const newTheme = currentTheme === "style.css" ? "light.css" : "style.css";
+    themeLink.setAttribute("href", newTheme);
+  });
 });
 </script>
 </body>
