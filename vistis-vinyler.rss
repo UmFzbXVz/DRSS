@@ -10,7 +10,7 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:25 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:44:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122481216</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-tandsmoer-og-brasiliansk-gospel-16122481216</link>
+      <title>Tandsmør og brasiliansk gospel</title>
+      <description>Det bliver fedt i denne uges VV. RIGTIG fedt. Faktisk så meget at man bliver i tvivl om man i virkeligheden var så vild med tandsmør, som man gik og troede.
+Det bliver i hvert fald noget man bliver nødt til at tage stilling til, da Jonas Visti hiver et par umanerligt slibrige og slekse r'n'b-prægede gospelnumre fra Brasilien frem.
+Muligvis for første gang i programmets historie at Jonas er så i tvivl om hvorvidt det overhovedet er god musik.
+Udover det: rødglødende 7" singler fra DR Congo og en hulens masse sindssyg brasiliansk musik!!</description>
+      <pubDate>Sat, 25 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:54:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122481216/d69c79ce0945fdf49c1d8c16c240fe65c6ccf311ff784ca87f32e02e3c9726fc.mp3" type="audio/mpeg" length="164245707" />
+    </item>
     <item>
       <guid isPermaLink="false">16122481206</guid>
       <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-brasiliansk-fodboldmusik-16122481206</link>

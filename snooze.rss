@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:13 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:30:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -371,24 +371,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428181/2f57b08649b01fb312b16542e2076b61019c35b78dcc89e1caa4e5e9df9dbae4.mp3" type="audio/mpeg" length="252002165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428175</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-dr-big-band-hylder-ellington-18452428175</link>
-      <title>DR Big Band hylder Ellington</title>
-      <description>På mandag har Duke Ellington 125 års dag, og i den anledning, fylder DR Big Band Koncerthuset med toner fra den legendariske big band-mester. Snooze tager denne morgen temperaturen på jazzens Mozart.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende: Paul Ellington, Duke Ellingtons barnebarn.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked.</description>
-      <pubDate>Fri, 26 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428175/02e51b13cfc59e2ac2dd4611889bd6a4b6116b66e718d1adcc08412e792ad101.mp3" type="audio/mpeg" length="252001610" />
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@ Produceret af P3 Podcast.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:28 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:43:53 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret af P3 Podcast.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593b93ca838f3bbb329ffa8.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">13332496221</guid>
+      <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-sara-frost-13332496221</link>
+      <title>Sara Frost</title>
+      <description>En lytter blev groomet af sin stedfar som barn, og en anden lytter er bange for sex uden at vide hvorfor. Sådan lyder det, når Sanne Cigale Benmouyal aflytter telefonsvareren med Sara Frost, som selv deler en hemmelighed om at have det svært som ung.</description>
+      <pubDate>Sun, 26 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:27</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496221/e0bc203ee339a9646c3490264eecd949b8f18d2ef7ae9614ece60eca2050c343.mp3" type="audio/mpeg" length="78414485" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496220</guid>
       <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-mattias-kolstrup-13332496220</link>

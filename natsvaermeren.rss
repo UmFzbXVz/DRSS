@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:34 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:44:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463216</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-kram-et-trae-12422463216</link>
+      <title>Kram et træ</title>
+      <description>Det vrimler med træer i Natsværmeren...
+Vært: Katrine Ring.</description>
+      <pubDate>Sun, 26 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463216/8488278692db6fde2ffb1f071d21b639e7359e4e72af07c15976b0e503b0eff5.mp3" type="audio/mpeg" length="168474499" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463215</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-en-lydmesters-indre-ro-12422463215</link>
@@ -231,19 +244,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463176/27d8d1af9166b7fb01862a10b124e2d62912dd442397d2688ce058fe436c3638.mp3" type="audio/mpeg" length="168479199" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463174</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-krig-og-poesi-12422463174</link>
-      <title>Krig og poesi</title>
-      <description>Behøver en voldsom film have voldsom musik? Selvfølgelig ikke. Den biografaktuelle Civil War har et soundtrack, som med sine svævende toner skaber en stærk poetisk kontrast til den heftige handling og i aftenens udgave af Natsværmeren kigger vært Peter Albrechtsen nærmere på komponisterne Ben Salisbury og Geoff Barrow. Og spiller andre smukke toner af både Elgar og Shostakovich. 
-Vært: Peter Albrechtsen.</description>
-      <pubDate>Fri, 26 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463174/a7e127442edf85563f1cf8b3d2486378bae31cb43879b962b20da580578cff8a.mp3" type="audio/mpeg" length="168477578" />
     </item>
     <item>
       <guid isPermaLink="false">12422463084</guid>

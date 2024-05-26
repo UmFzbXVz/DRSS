@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:43:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433216</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433216</link>
+      <title>Lørdag 25. maj 2024</title>
+      <description>Skal dyrevelfærdslovgivningen for svin i DK være mindre lempelig? Hvordan skal vi fortolke ICJs dom mod Israel?  Og er den nye EM-sang et hit? 
+Dagens værter: Thomas Tjaerandsen og Anne Kirstine Hermann.</description>
+      <pubDate>Sat, 25 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:51</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433216/0011b24958f5ba8296528f32b945060d163ea0ab87f46b9add094f495ac7343a.mp3" type="audio/mpeg" length="158207841" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433215</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433215</link>
@@ -1819,23 +1831,6 @@ Dagens værter er Pernille Rudbæk og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:53</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333483/48968c4bd85fd1e389d817edd97718c598b3e10d7bfb6c827ee8c211656d9c74.mp3" type="audio/mpeg" length="237445857" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333482</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333482</link>
-      <title>Tirsdag 28. nov. 2023</title>
-      <description>For første gang er der nu stort set lige så mange kvinder som mænd i toppen af civilsamfundets største og mest magtfulde organisationer.
-Hvordan er det lykkedes at få næsten lige mange mænd og kvinder i toppen af 100 af civilsamfundets største og mest magtfulde organisationer, når andelen af kvinder i toppen af erhvervslivet har været fastfrosset i årtier?
-Forlængelsen af våbenhvilen mellem Israel og Hamas på to dage, giver nødhjælpsorganisationerne flere muligheder for at uddele mad, medicin, vand og andre fornødenheder til indbyggerne i Gaza.
-Hvilke muligheder giver to ekstra dage med våbenhvile for at hjælpe flere palæstinensere i hele Gaza-striben og hvem bliver det primære fokus at hjælpe i de kommende dage?
-En ny DR dokumentar fortæller om et omfattende misbrug af opioid-piller blandt unge og her til morgen lyder det så fra politkere fra Venstre, Konservative og Socialdemokratiet, at de er klar til at ændre loven for at straffe ulovligt salg af opioider hårdere.
-Hvilken type lovstramning vil fungere godt? Er lovstramninger det eneste rigtige?
-Dagens værter: Maria Hollænder og Ole Brink.</description>
-      <pubDate>Tue, 28 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:09</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333482/6c97f5438f6ba9d1777012728cd6ebd9027c8fdbfee645e2327868508e26c10f.mp3" type="audio/mpeg" length="237836385" />
     </item>
   </channel>
 </rss>

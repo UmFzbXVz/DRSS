@@ -10,7 +10,7 @@ Produceret af BEAM for P3.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:19:51 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:43:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -95,6 +95,23 @@ Produceret af BEAM for P3.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122436194/3663e918cd91f2307253809ac8edd54947a8f9cbdbcd5075832a5f3ecd11a541.mp3" type="audio/mpeg" length="172802175" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122436216</guid>
+      <link>https://www.dr.dk/lyd/p3/benaegt-benaegt-benaegt/benaegt-benaegt-benaegt/benaegt-benaegt-benaegt-16122436216</link>
+      <title>Lørdag 25. maj 2024</title>
+      <description>Har du dummet dig? Er du faldet i? Eller har du gjort noget, du fortryder? Så ring ind til Benægt, benægt, benægt og gå til bekendelse. Vi sørger for at grine med dig, og vi lover, at der helt sikkert er nogen, der har gjort noget dummere end dig. Programmet sender hver lørdag fra 10-12. Lasse er vært, og han har helt sikkert gjort noget dummere end dig.
+Vært: Lasse Knudsen.
+Produceret af BEAM for P3.</description>
+      <pubDate>Sat, 25 May 2024 10:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000004</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122436216/7cf86e052e40b11d825b541bc95f77d49547c8d1b26ba162cbd2cbc3fbb7059b.mp3" type="audio/mpeg" length="172802175" />
     </item>
     <item>
       <guid isPermaLink="false">16122436206</guid>

@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:15 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:43:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -139,6 +139,22 @@ Vært: Cæcilie Iburg Printzlau.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481841/b59b7b4ca8cc186794b0342750d054a7f078f993e29021455161a778ae61ce8d.mp3" type="audio/mpeg" length="168674568" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422481828</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/helle-kristensen/det-vi-hoerer-8-8-at-underholde-berige-og-forstyrre-12422481828</link>
+      <title>8:8 - At underholde, berige og forstyrre</title>
+      <description>En forårskantate, en efterårsballet og en musikalsk t-shirt blander sig med vrøvletekster og specielle instrumentkombinationer. Bachs blokfløjter og Griegs klavermusik er selvfølgelig med, når de musikalske sløjfer skal bindes i denne 8. og sidste udsendelse, der også byder på et operagys...
+Vært: Helle Kristensen.</description>
+      <pubDate>Sat, 25 May 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000160008</itunes:order>
+      <itunes:season>16</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481828/37c89724f0a6c0bbf9fca659c98df4a258b66dedab932f6fc95f3716e2124647.mp3" type="audio/mpeg" length="168482186" />
     </item>
     <item>
       <guid isPermaLink="false">12422481827</guid>

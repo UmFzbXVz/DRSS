@@ -10,7 +10,7 @@ www.dr.dk/p8jazz</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:12 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:43:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -82,20 +82,6 @@ www.dr.dk/p8jazz</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452421185/6a9af7ba1d8d441f41efa4211891edee0bf27cdd372f35a9ef7123ceaa2c4b6a.mp3" type="audio/mpeg" length="165602175" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452421175</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/vistis-weekendguide/vistis-weekendguide-2024/vistis-weekendguide-18452421175</link>
-      <title>Fredag 26. apr. 2024</title>
-      <description>Er du klar til weekenden? I Vistis Weekendguide tager Jonas Visti dig med på en musikalsk tour de force gennem ugens åndehul, hvor du kan blive klar til dansegulvet, få leveret soundtracket til fyraftens-øllen, og varmet op til den lumre lørdag, inden du til sidst heales for dine eksistentielle søndagskvaler dagen derpå. Rigtig god weekend!
-Vært: Jonas Visti. 
-www.dr.dk/p8jazz</description>
-      <pubDate>Fri, 26 Apr 2024 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452421175/6473ba1a17166d36dc22053588d30f42936002e28a580a1d067c73a6d28350eb.mp3" type="audio/mpeg" length="165602175" />
     </item>
   </channel>
 </rss>

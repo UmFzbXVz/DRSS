@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:43:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -64,19 +64,6 @@ Vært: Charlotte Hagen Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428213/9ddebd59f2bbcd4496ad1f9cd5d7b790251811dbc0f9210638893a0937a474a7.mp3" type="audio/mpeg" length="168482145" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428212</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-rasmus-wichmann-15452428212</link>
-      <title>Med Rasmus Wichmann</title>
-      <description>Slægtsforsker Rasmus Wichmann giver tips til både den uerfarne og den erfarne slægtsforsker til at søge tidligere slægtninge frem. 
-Vært: Charlotte Hagen Striib.</description>
-      <pubDate>Tue, 21 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428212/a18368f20229063e0d4df853790ed4f8f7a1c3a17beb2a051ae9027b283f5dd5.mp3" type="audio/mpeg" length="168482095" />
     </item>
   </channel>
 </rss>

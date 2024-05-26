@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 25 May 2024 06:21:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:43:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -69,21 +69,6 @@ Til sidst vil My gerne passe en skildpadde henover sommeren.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425213/ae360d82f5c023fbcfd7fa68b682bf9b6e1ffa081821ff780e037f94330a83b2.mp3" type="audio/mpeg" length="254881617" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425212</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-store-terninger-250-000-kuglepenne-og-sports-regnebueflag-13332425212</link>
-      <title>Store terninger, 250.000 kuglepenne og sports-regnebueflag</title>
-      <description>Du er så dejlig, når du sidder der og sender din drøm ind til p3drommer@dr.dk - og du husker jo selvfølgelig dit telefonnummer!
-Erik skal flytte hjemmefra, og derfor står han og mangler lidt at pynte lejligheden med. Og Erik ved præcis, hvad det skal være. Han har nemlig altid drømt om et eksemplar af de store Danske Spil-terninger, der hænger på tanker og i kiosker.
-Hans har samlet på kuglepenne i 50 år. Han er efterhånden indehaver af over 250.000 kuglepenne, men der er især én, der mangler. Nemlig en kuglepen fra Kongehuset.
-Til sidst har Jørn lavet noget meget flot og stort, både i bogstavelig og overført forstand. Han har nemlig forenet sport og inklusion, i form af et regnbueflag lavet ud af sportstrøjer. Det skal op at hænge et sted!</description>
-      <pubDate>Tue, 21 May 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425212/63f33d566af5e30faf07959f1537c5e27e989e912404f0cfe94f7685552ed6a2.mp3" type="audio/mpeg" length="254882179" />
     </item>
   </channel>
 </rss>
