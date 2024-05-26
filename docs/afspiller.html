@@ -4,19 +4,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Afspiller</title>
-  <link rel="stylesheet" href="style.css">
+  <link id="theme-link" rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="container">
   <div id="podcast-info" class="podcast-info"></div>
-  <div id="pagination-controls" class="pagination-controls">
-    <button id="prev-page" class="pagination-button">←</button>
-    <span id="page-info" class="page-info">
-      <span id="current-page" contenteditable="true">1</span> / <span id="total-pages">1</span>
-    </span>
-    <button id="next-page" class="pagination-button">→</button>
+  <div class="pagination-and-theme">
+    <div id="pagination-controls" class="pagination-controls">
+      <button id="prev-page" class="pagination-button">←</button>
+      <span id="page-info" class="page-info">
+        <span id="current-page" contenteditable="true">1</span> / <span id="total-pages">1</span>
+      </span>
+      <button id="next-page" class="pagination-button">→</button>
+    </div>
+    <button class="theme-switcher" id="theme-switcher">
+    <span class="theme-switcher-icon">🌙</span>
+    <span class="theme-switcher-text"></span>
+</button>
+
   </div>
 </div>
+
 
 <audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);">
   Din browser understøtter ikke direkte afspilning af lydfiler
@@ -181,6 +189,14 @@ document.addEventListener("DOMContentLoaded", () => {
       }
       event.target.blur();
     }
+  });
+
+  const themeSwitcher = document.getElementById("theme-switcher");
+  themeSwitcher.addEventListener("click", () => {
+    const themeLink = document.getElementById("theme-link");
+    const currentTheme = themeLink.getAttribute("href");
+    const newTheme = currentTheme === "style.css" ? "light.css" : "style.css";
+    themeLink.setAttribute("href", newTheme);
   });
 });
 </script>
