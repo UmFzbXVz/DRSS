@@ -11,7 +11,9 @@
   <div id="podcast-info" class="podcast-info"></div>
   <div id="pagination-controls" class="pagination-controls">
     <button id="prev-page" class="pagination-button">←</button>
-    <span id="page-info" class="page-info"></span>
+    <span id="page-info" class="page-info">
+      <span id="current-page" contenteditable="true">1</span> / <span id="total-pages">72</span>
+    </span>
     <button id="next-page" class="pagination-button">→</button>
   </div>
 </div>
@@ -74,6 +76,11 @@ async function loadPodcast() {
 function displayEpisodes() {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
+
+  episodesData.sort((a, b) => {
+    return new Date(a.pubDate) - new Date(b.pubDate);
+  });
+
   const episodesToShow = episodesData.slice(startIndex, endIndex);
 
   let episodesHTML = '';
@@ -93,6 +100,7 @@ function displayEpisodes() {
   attachDescriptionToggleListeners();
   updatePaginationControls();
 }
+
 
 function attachEpisodeClickListeners() {
   document.querySelectorAll('.episode').forEach((episodeElement) => {
@@ -121,10 +129,22 @@ function attachDescriptionToggleListeners() {
   });
 }
 
+  function attachPodcastDescriptionToggleListener() {
+  const podcastDescription = document.getElementById('podcast-description');
+  podcastDescription.addEventListener('click', () => {
+    if (podcastDescription.classList.contains('expanded')) {
+      podcastDescription.style.maxHeight = null;
+      podcastDescription.classList.remove('expanded');
+    } else {
+      podcastDescription.style.maxHeight = podcastDescription.scrollHeight + 'px';
+      podcastDescription.classList.add('expanded');
+    }
+  });
+}
+  
 function updatePaginationControls() {
-  const totalPages = Math.ceil(episodesData.length / itemsPerPage);
-  document.getElementById("page-info").textContent = `${currentPage} / ${totalPages}`;
-
+  document.getElementById("current-page").textContent = currentPage;
+  const totalPages = parseInt(document.getElementById("total-pages").textContent);
   document.getElementById("prev-page").disabled = currentPage === 1;
   document.getElementById("next-page").disabled = currentPage === totalPages;
 }
@@ -150,6 +170,22 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
   document.getElementById("next-page").addEventListener('click', () => changePage(1));
 });
+  
+document.getElementById("page-info").addEventListener('keypress', function(event) {
+  if (event.key === 'Enter') {
+    const newPage = parseInt(document.getElementById("current-page").textContent);
+    const totalPages = parseInt(document.getElementById("total-pages").textContent);
+    if (newPage >= 1 && newPage <= totalPages) {
+      currentPage = newPage;
+      document.querySelectorAll('.episode').forEach(episode => episode.remove());
+      displayEpisodes();
+    } else {
+      document.getElementById("current-page").textContent = currentPage;
+    }
+    event.target.blur();
+  }
+});
+
 </script>
 </body>
 </html>
