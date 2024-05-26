@@ -238,6 +238,7 @@ h2.gradient-advanced {
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
     padding: 20px;
     text-align: left;
+  line-height: 1.4;
 }
 
 .podcast-info h2 {
@@ -271,6 +272,7 @@ h2.gradient-advanced {
   text-overflow: ellipsis;
   white-space: normal;
   word-break: break-word;
+  line-height: 1.3;
 }
 
 .episode-description.expanded {
