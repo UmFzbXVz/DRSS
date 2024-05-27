@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:34 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,24 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481861</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-hyp-alle-mine-kaepheste-12422481861</link>
+      <title>Hyp alle mine kæpheste</title>
+      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg lytter til efter fyraften og når jeg har fri.
+En blanding af uopslidelige klassikere og smalle særinteresser, bl.a. musik fra Estland og gamle plader med døde pianister.
+Lyt med, når alle mine kæpheste bliver trukket frem af stalden!
+Vært: Jens Cornelius.</description>
+      <pubDate>Sun, 26 May 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000180001</itunes:order>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481861/3959cfee058f5dd2a4b8b82b395133586c00bc42924ee32fc8c201d6b1f1f550.mp3" type="audio/mpeg" length="168481606" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481847</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/caecilie-iburg-printzlau/det-vi-hoerer-summer-af-sol-og-sommer-12422481847</link>

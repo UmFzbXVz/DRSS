@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433221</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433221</link>
+      <title>Mandag 27. maj 2024</title>
+      <description>Hvorfor giver ny planet håb om liv i rummet? Hvad får Venstre ud af at præsentere et EU-forsvarsudspil netop nu? Hvorfor fortsætter forskningsprojekt, når den Nationale Videnskabsetiske Komité i 2021 afslog at forlænge det?
+Dagens værter: Pernille Rudbæk og Bjarne stensbeck.</description>
+      <pubDate>Mon, 27 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433221/16dabc6d201d4f48f4db2da1ae9fd016a3b61ddb5ddd711e65c0877ef445ea11.mp3" type="audio/mpeg" length="252001377" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433216</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433216</link>
@@ -1816,21 +1828,6 @@ Dagens værter: Jan Falkentoft og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:09:22</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333484/c2311fbb173502ab0ac1f233cd3167ae3ad86ea82ff422713d19649354d5cc55.mp3" type="audio/mpeg" length="186305855" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333483</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333483</link>
-      <title>Onsdag 29. nov. 2023</title>
-      <description>Kommunerne er, bredt set, for dårlige til at sagsbehandle i sager med børn og unge, der har et handicap, faktisk er der fejl i stort set hver anden af de sager, hvor borgere klager over kommunernes sagsbehandling på børnehandicapområde. Er dette et udtryk for, at kommunerne er "ligeglade", eller er der andre grunde til, at det går så galt?
-Siden krigen mellem Ukraine og Rusland brød ud, har Polen været en af de tætteste allierede til Ukraine, MEN de polske lastbilchaufføreres blokade af grænsen mellem Polen og Ukraine er blot det seneste eksempel på udfordringerne mellem de to lande. Hvor dybt stikker denne lastbils-fejde?
-Gør regeringen nok for at sparke danskernes adfærd i en grønnere retning?   
-Hvis vi regner på klimaaftrykket per dansker - så udleder vi mellem 13-14 tons CO2. Det er lidt over det dobbelte af en gennemsnitlig borger i verden - ifølge beregninger fra den grønne tænketank, Concito. Nu dropper regeringen udspil om bedre klimaadfærd, og det er problematisk, hvis vi skal nå de internationale klimamål. Gør regeringen nok for at sparke danskernes adfærd i en grønnere retning?
-Dagens værter er Pernille Rudbæk og Ole Brink.</description>
-      <pubDate>Wed, 29 Nov 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:53</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333483/48968c4bd85fd1e389d817edd97718c598b3e10d7bfb6c827ee8c211656d9c74.mp3" type="audio/mpeg" length="237445857" />
     </item>
   </channel>
 </rss>

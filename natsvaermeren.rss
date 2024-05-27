@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:44:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463217</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-musikkens-fabrik-12422463217</link>
+      <title>Musikkens fabrik</title>
+      <description>Du er inviteret dig indenfor i en stor fabrikshal. Der højt til loftet, så du er tvivl om der overhovedet er tag på bygningen. Fra hjørnerne spiller musikken fra alle kanter, og indhyller dig i forskellige verdener, der giver dig mulighed for at skabe din egen aften, lige som du ønsker den. 
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 27 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463217/747f068d7aa15e17631a1b7a38e9f609b7dfef3565f3d24446bcb25a54d4dfba.mp3" type="audio/mpeg" length="168482185" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463216</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-kram-et-trae-12422463216</link>

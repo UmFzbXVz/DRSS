@@ -9,7 +9,7 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:42:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <category>History</category>
     <itunes:category text="History" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11162411016</guid>
+      <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-da-faeroeerne-ville-loesrive-sig-1-2-11162411016</link>
+      <title>Da Færøerne ville løsrive sig 1:2</title>
+      <description>Færøerne har to gange været millimeter fra at løsrive sig Danmark og Rigsfællesskabet. Første gang var lige efter 2. verdenskrig. Anden gang var i 2000 efter en stor bankskandale. Men hvorfor skete det ikke? 
+Redaktion: Johanne Mosegaard, Celine Klint og Martin Grønne.
+Redaktør: Hanne Barslund.
+Medvirkende: Linda Mortansdóttir og Hans Andrias Sølvará.</description>
+      <pubDate>Mon, 27 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162411016/fbbd33b36435b117bd1e29446ffadd8d55bbe556dce27f1ad2aa506ec05fbf3f.mp3" type="audio/mpeg" length="39325697" />
+    </item>
     <item>
       <guid isPermaLink="false">11162411015</guid>
       <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-rust-i-jerntaeppet-11162411015</link>

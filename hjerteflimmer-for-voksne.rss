@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,26 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400013</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-anna-tychsen-og-anders-haahr-15452400013</link>
+      <title>Anna Tychsen &amp; Anders Haahr</title>
+      <description>Anna kan klare sig selv. Det har hun været overbevist om, siden hun var 10 år gammel. Men hvis man er så sikker på, man kan klare sig selv, får man så overhovedet nogensinde brug for andre? En kæreste for eksempel...? Og hvordan tager man imod hjælp, hvis det hele tiden har været ens rolle at hjælpe andre?
+Anders er blevet overbevist om at det med at tage initiativ, det er altså mandens opgave. Det er en overbevisning, som jeg kan genkende, og vi kommer til at tale om, hvordan pligtinitiativ kan påvirke relationer.  Men hvordan klarer man sig, hvis man på den ene side føler vægten fra pligtinitiativet og samtidig er elendig til at håndtere afvisninger?
+Vi taler om at punktere kærestesorger med drinksparaplyer, om hvordan man lader relationer tage røven på én - og så giver Anna Jytte noget at tænke over. Ja, hun bliver faktisk nødt til at gå i haven for at få reflekteret i bund.
+Gæster: Anna Tychsen &amp; Anders Haahr
+Ekspert: Jytte Vikkelsøe. 
+Vært: Sebastian Lynggaard.  
+Producer: Cæcilie Helena Denman-Gretoft. 
+Musik: "Hold up" Beyonce. 
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 27 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:40:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400013/24f58183be653e9efa8d45b6da0af72e30d88406ee1bbfe3cd4dbef91e768712.mp3" type="audio/mpeg" length="144264249" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400012</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-signe-vadgaard-og-victor-boy-lindholm-15452400012</link>
@@ -2015,22 +2035,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>01:14:33</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195322/f65802faf45302df1a99f8eec916bc3c91e9fd8bee52e35806d99dd67281b819.mp3" type="audio/mpeg" length="107370477" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195321</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hjerteflimmer-for-voksne-ericka-jane-og-kasper-fisker-13332195321</link>
-      <title>Ericka Jane &amp; Kasper Fisker</title>
-      <description>Ericka spørger, hvorfor hun føler, at hendes kæreste vælger hende fra, bare fordi han ikke har samme behov for hjemmeaftner, som hun har? Og Kasper spørger, hvordan det kan være, at de selvsamme ting, som han virkelig sætter pris på hos sin kone, også er dem, der irriterer ham allermest?
-Medvirkende: Sangerinde Ericka Jane, tidligere fodboldspiller Kasper Fisker og parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 26 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:58</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195321/7a070225919b87440983727cd6034b175acafb5496f648fc8976bbc9c03afa28.mp3" type="audio/mpeg" length="82054125" />
     </item>
   </channel>
 </rss>

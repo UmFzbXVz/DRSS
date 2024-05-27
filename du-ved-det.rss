@@ -10,7 +10,7 @@ Vært: Marie Hobitz.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:42:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:39:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Vært: Marie Hobitz.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332424217</guid>
+      <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-victor-lander-13332424217</link>
+      <title>Victor Lander</title>
+      <description>'Du ved det' helt sikkert godt, så find telefonen frem, og gør dig klar til at blive quizzet i al den musik, du elsker at lytte til!
+Der er eksklusive P3-sokker på højkant og vanvittig søndagshygge, når Marie inviterer indenfor i P3's helt eget musikquizprogram.
+Vært: Marie Hobitz.
+Gæst: Victor Lander.</description>
+      <pubDate>Sun, 26 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424217/ad5f1939047090ed8dfd57d9c995fed2d0a8a3b2d2cacfaf27699286faf8ed0a.mp3" type="audio/mpeg" length="172802176" />
+    </item>
     <item>
       <guid isPermaLink="false">13332424207</guid>
       <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-herlige-svend-13332424207</link>

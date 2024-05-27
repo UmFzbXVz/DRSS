@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:32:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:36:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460124</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Svin</title>
+      <description>Den blomstrende gule raps lyser op i landskabet. Græs, korn, roer, majs - det danske landbrug er allestedsnærværende, når man bevæger sig igennem det ganske land. Du ser køer, der græsser på marken, små lam, der hopper lystigt rundt og et par heste i en fold. Det ligner idyl. Men et dyr er stort set fraværende. Grisen. Den er faktisk nærmest usynlig. Mange kommer kun ud når de skal transporteres fra stald til slagteri. Hvert år producerer vi 30 millioner konkurrencedygtige svin til verdensmarkedet. Men før de eksporteres, ja, så lever de i enorme produktions-optimerede staldanlæg. Anlæg som ganske få danskere har adgang til. Marie Sæhl, klima- og miljøjournalist ved Dagbladet Information,  fortæller, hvad det er for et liv, millioner af hemmelige svin lever derinde bag staldens anonyme vægge. 
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 23/5.</description>
+      <pubDate>Mon, 27 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460124/07725ec54790373ae06f52d819d33aed63194803214277d57f90dcf380515c8e.mp3" type="audio/mpeg" length="39220281" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460123</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9570,19 +9584,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:22:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150105/3a291ea0b2a6b63e198ab631c87e6068ba6cd38f8d49fa964065ec3e119c2202.mp3" type="audio/mpeg" length="33058824" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150104</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-hvorfor-skal-moedrene-hjem-11802150104</link>
-      <title>Hvorfor skal mødrene hjem?</title>
-      <description>Meldingen har været klar fra statsminister Mette Frederiksen: De syv kvinder i syriske fangelejre er ikke velkomne i Danmark. Men sidste tirsdag får regerings-piben en anden lyd. Nu skal tre mødre tilbage til Danmark sammen med deres 14 børn. Hvem er de tre kvinder, som Mette Frederiksen kaldte landsforrædere, men nu har forbarmet sig over? Og hvilken skæbne venter dem og deres børn på dansk jord? Mellemøstkorrespondent Michael S. Lund har mødt kvinderne i de syriske fangelejre.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 26 May 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:22</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150104/bfe413481248761625bc5c90615e36ae03c063f2797a73e6abfdb255b55ac891.mp3" type="audio/mpeg" length="33651533" />
     </item>
   </channel>
 </rss>

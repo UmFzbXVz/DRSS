@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451095</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-mad-max-faengslet-i-kosovo-og-den-indiske-slutspurt-11802451095</link>
+      <title>Mad Max, fængslet i Kosovo og den indiske slutspurt</title>
+      <description>Udvisningsdømte kriminelle fra Danmark kan inden for et par år blive sendt til et fængsel i Kosovo for at afsone deres straf. Er der grund til bekymring? Verdens største demokratiske valg går ind i sin slutspurt. Hans tilnavn er Mad Max og han er blevet kendt i hele EU for kontroversielle udtalelser. Nu er hans parti AfD smidt på porten i Europa-parlamentet. 
+Vært: Adrian Busk. 
+Medvirkende: 
+Therese Rytter, juridisk chef for Dignity, Dansk Institut mod Tortur. 
+Philip Roin, DR's korrespondent i Kina.
+Moritz Schramm, lektor og studieleder på Syddansk Universitet, forsker i tysk kultur og samfund.</description>
+      <pubDate>Mon, 27 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:27</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451095/1863a0356e86c8583358fbdc9d65d0d2ef4589bf8f6f91f2b0133c2b7d98525c.mp3" type="audio/mpeg" length="25150925" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451094</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-lgbt-i-eu-fodbold-folkefesten-og-staten-palaestina-11802451094</link>

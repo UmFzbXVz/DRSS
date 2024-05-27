@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -26,6 +26,24 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332440858</guid>
+      <link>https://www.dr.dk/lyd/p3/toemmermaend-paa-p3/toemmermaend-paa-p3/toemmermaend-paa-p3-gangsters-loes-i-sunny-beach-13332440858</link>
+      <title>Gangsters løs i Sunny Beach</title>
+      <description>I dagens udgave af Tømmermænd på P3 kommer Oliver Stanescu på besøg hos Anne Albrechtsen. Teorien er som altid, at man får det bedre med sine egne tømmermænd ved at høre om andres branderter. Det hjælper derfor at høre, om dengang Oliver tog til Sunny Beach som 16-årig og fandt sin nye personlighed som gangster. Derudover dykker vi ned i forskellige lytterhistorier og kårer selvfølgelig også den bedste brandert.
+Vært: Anne Albrechtsen.
+Producer: Frederik Birch.
+Gæst: Oliver Stanescu.</description>
+      <pubDate>Sun, 26 May 2024 22:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000008</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332440858/efab02ea9c83087579847f64a0211a7a31a6ea47ca95431ecb503eed7bdb1695.mp3" type="audio/mpeg" length="79972294" />
+    </item>
     <item>
       <guid isPermaLink="false">13332440857</guid>
       <link>https://www.dr.dk/lyd/p3/toemmermaend-paa-p3/toemmermaend-paa-p3/toemmermaend-paa-p3-uheldige-dates-og-en-bachelorettes-branderter-13332440857</link>

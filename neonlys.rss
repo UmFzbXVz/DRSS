@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:42:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -109,18 +109,6 @@ Desuden er lørdagsstemningen fuldstændig i højsæde, og Alida har nogle bounc
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418177/40a635f47780d05064a032fdc91f8acbd3bf30fbfae590c7646a4b57ab272818.mp3" type="audio/mpeg" length="172801482" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418176</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-verdens-bedste-hiphopalbum-og-lighters-up-13332418176</link>
-      <title>Verdens bedste hiphopalbum og Lighters Up!</title>
-      <description>Et af verdens bedste hiphopalbum er Nas' Illmatic, som fylder 30 år. Alida har valgt tre numre ud: Den personlige favorit, den undervurderede og klassikeren. Samtidig har Ice Spice teaset et nyt nummer med titlen 'Gimme A Light,' som snart er ude, mens lighter-temaet også får en lille kærlig hånd, for der er faktisk rigtige mange gode numre med netop en reference til lighteren.</description>
-      <pubDate>Sat, 27 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418176/e8670bd413c4e0bfbd06d0dd83b7ed6697b6102735ae70d1eecdecde238ff9a9.mp3" type="audio/mpeg" length="172802058" />
     </item>
   </channel>
 </rss>

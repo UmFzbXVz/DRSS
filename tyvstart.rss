@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450105</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-kaempe-drama-og-eksamen-i-superligaen-13652450105</link>
+      <title>Kæmpe drama og eksamen i Superligaen</title>
+      <description>FC Midtjylland er danske mestre. 
+Og det markerer samtidig enden på en vanvittig sæson i Superligaen. Holdene kan nu gå på ferie, men inden da skal de have eksamenskarakterer. 
+Hvem får topkarakter, og hvem dumper med et brag? 
+Det beslutter fodboldkommentator og dagens censor, Andreas Kraul, i dagens episode af Tyvstart.
+Vært: Emil Schiønning.</description>
+      <pubDate>Mon, 27 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450105/a205b0df00fab19d6e732e1b46ad424071d6703362559903d3df7738d1dbc951.mp3" type="audio/mpeg" length="36382329" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450104</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-forlaenget-weekend-i-frankrig-13652450104</link>

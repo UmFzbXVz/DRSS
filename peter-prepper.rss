@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493203</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-hvorfor-prepper-jeg-prepping-og-psyken-16122493203</link>
+      <title>Hvorfor prepper jeg? Prepping og psyken</title>
+      <description>Peter Falktoft smider sig på briksen hos klinisk psykolog Heidi Frølund Pedersen, som har forsket i danskernes psykiske tilstand under Corona-pandemien. Spørgsmålene står i kø: hvorfor er der så mange, som er begyndt at preppe? Fodrer vi et umætteligt angstmonster, eller finder vi netop ro ved at forberede os? Dagens gæst kommer derudover med konkrete råd til, hvordan vi bedst plejer psyken under en krise.
+Gæst: Heidi Frølund Pedersen.
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 27 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:43:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493203/0c7cff9bd0836799275d90a9c0e982a70d724280b5bdd92e431d00b1752d169b.mp3" type="audio/mpeg" length="63026941" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493202</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-gaa-aldrig-ned-paa-udstyr-16122493202</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:58 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405221</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405221</link>
+      <title>Mandag 27. maj 2024</title>
+      <description>Præludium:	Wolfgang Amadeus Mozart: Adagio, d-mol.
+Ord til dagen: af Birgitta af Vadstena.
+Salme: 418 "Herre Jesus, kom at røre".
+Fra det N.T.:	Matthæusevangeliet 3, 1-6.
+Vekselsang Dit ord består, Herre (Sl. 119, 89-90 &amp; 23, 1-2).
+Salme: 11 "Nu takker alle Gud".
+Postludium: Justin Heinrich Knecht: Nu takker alle Gud.</description>
+      <pubDate>Mon, 27 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405221/62d1f2e9dc70bf73aee46f9076fd09a7052ffbd34018276af541b317d18e61f2.mp3" type="audio/mpeg" length="36001573" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405216</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405216</link>
@@ -420,24 +438,6 @@ Postludium: Johann Gottfried Walther: Du er, opstandne sejershelt.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405181/85b01b2289d176dad86d47438cd153f0674ca8b3d0ca05795e7ff1d6900f7171.mp3" type="audio/mpeg" length="36001582" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405176</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405176</link>
-      <title>Lørdag 27. apr. 2024</title>
-      <description>Præludium:	Mads Høck: Dig være, mildeste Gud Fader.
-Davidssalme: 27, vs. 1, 7-9 og 13-14.
-Salme: 302 "Gud Helligånd! o kom".
-Fra det N.T.:	2. Korintherbrev 5, 14-21.
-Trosbekendelsen.
-Salme: 6 "Dig være, mildeste Gud Fader".
-Postludium: Jean-Philippe Rameau: Air tendre.</description>
-      <pubDate>Sat, 27 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405176/000df8f13d5f33730d97a109172a32b9d933bde60582a8cab2b85fdb25c27736.mp3" type="audio/mpeg" length="36001576" />
     </item>
   </channel>
 </rss>

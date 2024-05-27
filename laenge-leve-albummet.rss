@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:35:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436621</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-jacob-bellens-og-topgunn-og-good-times-16452436621</link>
+      <title>Jacob Bellens og Topgunn og good times</title>
+      <description>Jeg har fået Jacob Bellens på besøg, og hvilken fornøjelse! Du kender hans stemme fra I Got You On Tape osv., men når han har fri, hører han Topgunn. Lyt med og få een på opleveren!
+Mange hilsner fra Goodluck Casper.</description>
+      <pubDate>Sun, 26 May 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:58:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436621/318608cab1fcb2131039a327d310f25c55c5d69b8a7b36df66fa7109c6e393c4.mp3" type="audio/mpeg" length="83719701" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436620</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-om-at-gaa-igennem-forandringer-og-have-joni-mitchell-som-anker-16452436620</link>
@@ -282,19 +295,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>01:04:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354641/321baacf16bf755e8a8b5bf23004128ceadeb1540664f83ad950230f9c20ffd7.mp3" type="audio/mpeg" length="92333249" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354640</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-scarlet-pleasure-og-rhcp-californication-16452354640</link>
-      <title>Scarlet Pleasure og RHCP "Californication"</title>
-      <description>Vi skal gå fuldstændig fanboy på Red Hot Chili Peppers, som er et band, der betyder alverden for de 3 barndomsvenner i Scarlet Pleasure. Gutterne har både mødt dem, givet dem en demo og haft en engelsk telefonsvarer, hvis Flea eller John Fuscinate, nu skulle ringe tilbage. De har været til koncert med dem på poterarbend i Budapest. De har simpelthen dyrket hvert trommeslag ned i mindste detalje. Så kom med på en passioneret tur ned gennem "Californication".
-(Sendt første gang 26. november 2023).</description>
-      <pubDate>Sun, 26 Nov 2023 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:58:02</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354640/06b344009e3fb4809db93dda5ea30190be0a8ce9cda72a1141650f1f1895a1bd.mp3" type="audio/mpeg" length="83585530" />
     </item>
   </channel>
 </rss>

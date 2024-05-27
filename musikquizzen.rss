@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 26 May 2024 06:43:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:40:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Kenneth K.</description>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122448121</guid>
+      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-kan-du-gaette-hits-paa-1-ord-16122448121</link>
+      <title>Kan du gætte hits på 1 ord?</title>
+      <description>Hvilken sang tænker du på, hvis jeg siger ordet "Shape..."? Ed Sheeran med Shape of You, right? Det er sådan vi spiller "Hits du kan gætte på 1 ord" i Musikquizzen. Gæt også med i kategorierne 1990, Boybands og Brætspilsquizzen.
+Vært: Kenneth K.</description>
+      <pubDate>Sun, 26 May 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448121/290b75cfe43733401763be471017314a1c54bc5b6674c24b7891d7934a651ebc.mp3" type="audio/mpeg" length="81242719" />
+    </item>
     <item>
       <guid isPermaLink="false">16122448120</guid>
       <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-ekspertquiz-i-billie-eilish-1-erne-i-00-erne-og-1979-16122448120</link>
@@ -340,19 +353,6 @@ Vært: Kenneth K.</description>
       <itunes:duration>00:59:43</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122348148/5c27d097f961d74fe0a33f670749884128db06e96d796ff916c391e67073aa24.mp3" type="audio/mpeg" length="85994143" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122348147</guid>
-      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2023/musikquizzen-2016-90er-sangerinder-og-the-raveonettes-16122348147</link>
-      <title>2016, 90er sangerinder og The Raveonettes</title>
-      <description>Hvem synger "Side By Side", "Into You" og "Dangerous Woman"? (2016) Hvad hedder de to sangerinde i Ray Dee Ohh? (Quizkampen 90er sangerinder) Hvilket dansk band har udgivet nummeret Byens Kro? (Cafehotellet) Jeg giver dig det første ord i sangtitlen. Du stikker mig resten af titlen. Første ord: Aly,? (Den hurtige Raveonettes Quiz). Hvilken sangerinde havde i nullerne et hit med "White Flag"? (Musik med D).
-Vært: Kenneth K.</description>
-      <pubDate>Sun, 26 Nov 2023 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:59:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122348147/51d9066724854ac0d72a427548af6023b3eb243d3d85d3dc50e7d58dc89822b0.mp3" type="audio/mpeg" length="85154911" />
     </item>
   </channel>
 </rss>
