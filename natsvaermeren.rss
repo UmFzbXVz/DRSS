@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:28:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463221</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-med-forsigtig-lethed-12422463221</link>
+      <title>Med forsigtig lethed</title>
+      <description>Uden at love for meget, er der en snert af forventning til sommerens kommen gemt i aftens soundtrack. 
+Vært: Minna Grooss.</description>
+      <pubDate>Tue, 28 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463221/302b465aac0372501eb22ee4af9f93cf2d743827712518e72fd1c184b1c84751.mp3" type="audio/mpeg" length="168482050" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463217</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-musikkens-fabrik-12422463217</link>
@@ -244,19 +257,6 @@ Vært: Tina Rømer.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463181/9536ac41c199cee35602ed6e68237e9117279cce842f3d81bfd1875c31c89b19.mp3" type="audio/mpeg" length="168472353" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463176</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-illusionernes-palads-12422463176</link>
-      <title>Illusionernes Palads</title>
-      <description>En kanin i løb, en sang, der får bålet til at gnistre, en tango for to, og et par legender bliver vækket til live i Natsværmeren.
-Vært: Minna Grooss.</description>
-      <pubDate>Sun, 28 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463176/27d8d1af9166b7fb01862a10b124e2d62912dd442397d2688ce058fe436c3638.mp3" type="audio/mpeg" length="168479199" />
     </item>
     <item>
       <guid isPermaLink="false">12422463084</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:13 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:36:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410221</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410221</link>
+      <title>Mandag 27. maj 2024</title>
+      <description>Hvor glade er LA for EU? Hvorfor er sociale medier så farlige for børn? Og hvordan kan AI knække koden til at forstå, hvad dyr taler om?   
+Dagens værter: Anne Kirstine Hermann og Søren Carlsen.</description>
+      <pubDate>Mon, 27 May 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:21:28</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410221/5aa1f4aeeefa3b9f2f1a2dcd6347fff26fabefe86a6d1cd4eb65fb039d43a5bf.mp3" type="audio/mpeg" length="117326395" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410215</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410215</link>
@@ -1914,38 +1926,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:10</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302485/c6cfc580acdd774011706ace8d0baecd5661ebb59d920bd0efaafb449a02f75c.mp3" type="audio/mpeg" length="79448718" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304484</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304484</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens vært: Ole Brink og Søren Carlsen.
-Og i dagens udgave af Orientering Udsyn:
-Hvis du tidligere er stødt på betegnelsen "udviklingslande" eller "tredjeverdenslande", så vil du nu opleve, at landene i højere grad omtales som det "globale syd". Betegnelsen har virkelig bidt sig fast, og hvor det "globale syd" oprindeligt var en vestlig opfindelse, så har landene, begrebet dækker over, nu taget det til sig, samlet sig under det - og bruger det til fælles front mod Vesten, som de beskylder for hykleri. 
-Selvom det ikke er to ord, vi så tit forbinder med hinanden, så vinder "økologisk økonomi" lige nu frem. Det er en anden måde at anskue økonomi på - anderledes for den almindelige måde - og selvom det på ingen måde er en ny teori, så ser den økologiske økonomi ud til at få et lille gennembrud i de her år. Det handler om at tænke økonomi som en indlejret del af naturen.   
-Gæster: Adam Moe Fejerskov, forsker på Dansk Institut for Internationale Studier og Inge Røpke, professor i økologisk økonomi på Aalborg Universitet.
-Tilrettelæggelse: Sven Johannesen og Inge Scheel Kelstrup.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Nickolaj Sander.</description>
-      <pubDate>Thu, 30 Nov 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:12</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304484/bc2564d176d2d29bc8e749eb233bd3ad6febe239e2042e7a96a2051bb6da172c.mp3" type="audio/mpeg" length="79499975" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310484</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310484</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Ole Brink og Søren Carlsen.</description>
-      <pubDate>Thu, 30 Nov 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:06</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310484/993787286c3744656a612550e9e0c5099f681081d7727a4298f202c34a44dbbd.mp3" type="audio/mpeg" length="79351867" />
     </item>
   </channel>
 </rss>

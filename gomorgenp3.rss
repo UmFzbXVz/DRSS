@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:25 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:37:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -55,19 +55,6 @@ Stå op med Liva Manghezi og Mikkel Rosendal, som sender dig både opløftet og 
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410215/0f247cdfddff5df840f8e6860c23b2b443b256634a5e66e3bbc09e365609fb17.mp3" type="audio/mpeg" length="254882098" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410214</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410214</link>
-      <title>Torsdag 23. maj 2024</title>
-      <description>- fokuserer på de ting, der betyder noget for dig, dit liv og din hverdag.
-Stå op med Liva Manghezi, Mikkel Rosendal og Andreas Kousholt, som sender dig både opløftet og oplyst ud i dagen.</description>
-      <pubDate>Thu, 23 May 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410214/c2b1c221587ef2b0f502ea9d88e67b5e9e3905a6fa368bfe513120cda430f6ec.mp3" type="audio/mpeg" length="254882098" />
     </item>
   </channel>
 </rss>

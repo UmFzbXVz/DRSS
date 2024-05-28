@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:23 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:37:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332496510</guid>
+      <link>https://www.dr.dk/lyd/p3/splittet-til-atomer/splittet-til-atomer-2024/splittet-til-atomer-mew-the-zookeper-s-boy-13332496510</link>
+      <title>Mew: The Zookeper's Boy</title>
+      <description>Sara Sadiq Frost og lyddesigner Nina Liv, dykker, sammen med Mew, ned i 'The Zookeper's Boy'.
+
+Gæster: Jonas Bjerre, Silas Graae og Johan Wohlert.
+Vært og klipper: Sara Frost.
+Medvært og lyddesigner: Nina Liv Benstrup.
+Programansvarlig: Anders Stegger.</description>
+      <pubDate>Tue, 28 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:36:41</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496510/5fd0db61b269be0c37607881c4b20b1db36588d4867c665c84c04e918e7c1206.mp3" type="audio/mpeg" length="52836907" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496509</guid>
       <link>https://www.dr.dk/lyd/p3/splittet-til-atomer/splittet-til-atomer-2024/splittet-til-atomer-c21-stuck-in-my-heart-13332496509</link>

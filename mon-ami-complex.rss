@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:36:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -113,37 +113,6 @@ Band Of Horses - Slow Cruel Hands Of Time</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462187/86e6ebf6321d36145d920572c6f3f6e44578d707ef9841231fcc4f30de68fb6f.mp3" type="audio/mpeg" length="168481594" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122462177</guid>
-      <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-nikolaj-noerlund-og-den-hvide-hvide-hest-16122462177</link>
-      <title>Nikolaj Nørlund og den hvide hvide hest</title>
-      <description>Sangskriver/producer/musiker Nikolaj Nørlund åbner op for skattekisten af erfaringer fra et vildt og langt skabende liv.
-
-Time 1
-The Animals - Don't Let Me Be misnderstood
-Dina Washington - I understand
-Tony Njoku - Rhododendrons 
-Alabaster DePlume - Did You Know 
-Fine - Days Incomplete 
-Roger Fakhr - East Of Any Place
-Nikolaj Nørlund - Balancen
-Smile - Friend of a friend
-
-Time 2 
-Nikolaj Nørlund - Rablende Superstar
-Malena Zavala - Ritmo De Vida
-Ora Corgan - Cowgirl
-Swen Wunder - Black Iris
-Ringo Starr - I'm The Greatest 
-Conversations Azamiah - India Blue 
-Bjørk - It's Oh So Quiet</description>
-      <pubDate>Sun, 28 Apr 2024 19:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462177/f8759c4552151701fb354acf9220515c75228cd6b67fe07e45fd40db297d0bc6.mp3" type="audio/mpeg" length="168482173" />
     </item>
   </channel>
 </rss>

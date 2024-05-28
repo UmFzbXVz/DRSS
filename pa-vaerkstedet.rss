@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:44:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:36:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -78,6 +78,21 @@ Producer og tilrettelægger: Iben Mogensen.
       <itunes:duration>01:15:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353251/7395da240d5d04f45a5412a1e6e9c30b8f6257e8980c254477af5db962bb43ec.mp3" type="audio/mpeg" length="108002183" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422353221</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet-2023/paa-vaerkstedet-carsten-bo-eriksen-komponist-12422353221</link>
+      <title>Carsten Bo Eriksen, komponist</title>
+      <description>Komponisten Carsten Bo Eriksen har sagt, at han henter sin drivkraft og inspiration i menneskets og naturens forfald. 
+Hvad er det med det forfald? Hvorfor har det så stor betydning for ham, og hvilken betydning har det for hans kreative processer?
+Det taler psykologiprofessor Lene Tanggaard med Carsten Bo Eriksen om i dagens udsendelse.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 29 May 2023 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353221/78cd4045020429c66579f6da8dbcf44fe068acb0c1395fd306030919ae2dc9b5.mp3" type="audio/mpeg" length="108002180" />
     </item>
   </channel>
 </rss>

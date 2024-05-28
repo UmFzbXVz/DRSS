@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:37:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450106</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-rune-vs-rune-13652450106</link>
+      <title>Rune vs. Rune</title>
+      <description>I 2023 gik Holger Rune ind til French Open som en af favoritterne til titlen.
+Et år senere ser det ganske anderledes ud. Der har været mange udskiftninger på trænerposten, de store resultater er udeblevet, og spillet har mildt sagt været svingende. 
+
+Så hvor stærkt står danskeren egentlig inden sin første kamp på det røde grus i Frankrig - mentalt og fysisk? Og er hans største udfordring i virkeligheden ham selv? 
+Det spørger Tyvstart om i dag.
+Vært: Mads Thyrsted</description>
+      <pubDate>Tue, 28 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450106/59ea15a9b615197780b0a830bbebb615b1efcfb326e3100539160f7c59353c49.mp3" type="audio/mpeg" length="25995315" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450105</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-kaempe-drama-og-eksamen-i-superligaen-13652450105</link>
@@ -1892,19 +1909,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350230/ae9087b9341dff216ad819bbca3b88402baaca5e1f4f94a141403f79698edd89.mp3" type="audio/mpeg" length="24873277" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350229</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-shitstorm-rammer-helgstrands-milliardimperie-13652350229</link>
-      <title>Shitstorm rammer Helgstrands milliardimperie</title>
-      <description>Dressurrytteren og forretningsmanden Andreas Helgstrand er igen havnet i en shitstorm. På milliardærens stutteri i Nordjylland bliver hestene på brutal vis trænet uhensigtsmæssigt. Det har TV2 afsløret i programmet 'Operation X'.Hvad gør sagen så alvorlig? Hvor efterlader det dansk ridesport? Og hvordan ser Andreas Helgstrands fremtid ud på det danske dressurlandshold? Det svarer DR's ridesportskommentator, Birgitte Borch, på i dette afsnit af Tyvstart.
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 27 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:17</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350229/ef7b7eb46a2158490bfc9cd053415741b69cd289f3b96058426abdae65c720fb.mp3" type="audio/mpeg" length="24890457" />
     </item>
   </channel>
 </rss>

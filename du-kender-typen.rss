@@ -10,7 +10,7 @@ Vært: Anne Glad, forbruger- og livsstilsekspert.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:36:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Anne Glad, forbruger- og livsstilsekspert.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bd407d0c1a1406979fc9.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">11032499018</guid>
+      <link>https://www.dr.dk/lyd/special-radio/du-kender-typen-3180390403000</link>
+      <title>TEASER: Sebastian Lynggaard</title>
+      <description>Typen, der føler sig rig, når han læser i papiravis, og som tager på både café og fodboldstation for at se på mennesker.
+Glæd dig til dagens episode, som du nu kan høre &lt;a href=https://www.dr.dk/lyd/special-radio/du-kender-typen&gt;i DR Lyd.&lt;/a&gt;</description>
+      <pubDate>Tue, 28 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032499018/79c953a21ff069ebc43fcc86a690acb84d3084d52e38986c1695c8492ce154a7.mp3" type="audio/mpeg" length="1162784" />
+    </item>
     <item>
       <guid isPermaLink="false">11032499017</guid>
       <link>https://www.dr.dk/lyd/special-radio/du-kender-typen-3180390403000</link>

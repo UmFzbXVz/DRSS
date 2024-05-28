@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:39:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:35:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451096</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-podcast-uetisk-genprojekt-nye-planetdroemme-og-teltlejr-i-brand-11802451096</link>
+      <title>Uetisk genprojekt, nye planetdrømme og teltlejr i brand</title>
+      <description>Et omfattende gen-projekt får kritik for at være uetisk og flere patientorganisationer mener det svækker tilliden til forskning. Rumforskere har fundet en ny planet, der ligner jorden både i højde og drøjde. Men råber vi ikke bare ulven kommer igen? Og så undersøger Israel et voldsomt angreb i Rafah, hvor 35 personer ifølge Gazas sundhedsmyndigheder er blevet dræbt.
+Vært: Adrian Busk.
+Medvirkende: 
+Astrid Fischer, journalist DR Dokumentar. 
+Tina Ibsen, astrofysiker og podcastvært.</description>
+      <pubDate>Tue, 28 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451096/d69c1fd4f09d670af02dfae8dc18f3c88b90e08a52173b02ec7839f66ce5bf80.mp3" type="audio/mpeg" length="22628620" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451095</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-mad-max-faengslet-i-kosovo-og-den-indiske-slutspurt-11802451095</link>
@@ -1951,24 +1967,6 @@ Shadi Lubbad, dansk-palæstinenser.</description>
       <itunes:duration>00:19:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351218/3ad9a7a79d5999d3f8eb3df342a721d08bbc945f8ef77fc1d03797edae9dd03a.mp3" type="audio/mpeg" length="28032054" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351217</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-vaabenhvilen-livsfarlige-opioider-og-mr-security-11802351217</link>
-      <title>Våbenhvilen, livsfarlige opioider og Mr. Security</title>
-      <description>Vi tager en status på våbenhvilen mellem Hamas og Israel. 
-Opioider er nogle af de dødeligste rusmidler i Danmark, og bliver misbrugt af flere og flere unge. Vi hører fra en af dem, der har levet på de farlige piller.
-Benjamin Netanyahu er den længst siddende premierminister i Israel, og han har i flere år haft korruptionsanklager hængende over hovedet uden at miste magten. Kan han overleve den her gang? 
-Vært Annika Wetterling og Adrian Busk.
-Medvirkende: 
-Sille Ugelvig, journalist og vært på DR-podcasten "Piller fra Helvede".
-Hans henrik fafner, journalist med bopæl i Tel Aviv.</description>
-      <pubDate>Mon, 27 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:21:44</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351217/eacb70435fe9966af316f32674f01250c101b4f90a1f9f090809aff1e3e34b11.mp3" type="audio/mpeg" length="31312379" />
     </item>
   </channel>
 </rss>

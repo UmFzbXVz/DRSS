@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:04 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:36:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -39,20 +39,6 @@ Vært: Rasmus Scharling Toft.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429215/a4888e57993c611d46a640a3d946e19f36678ac324a224b1b8a6860f36b5c479.mp3" type="audio/mpeg" length="168482189" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429214</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-sommerfestival-15452429214</link>
-      <title>Sommerfestival</title>
-      <description>I dag starter den første af de store festivaler i det danske sommerland
-Jelling festival lægger ud med festivalstemning og musik fra både store og mindre danske navne. og et par enkelte store navne fra udlandet er også på programmet i Studie 5.
-Vært: Rasmus Scharling Toft.</description>
-      <pubDate>Thu, 23 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429214/3f1ce445e39192e2530d7cab12a3b72b5af39555dbba7c7e6ba0488f95de9264.mp3" type="audio/mpeg" length="168479797" />
     </item>
   </channel>
 </rss>

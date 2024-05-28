@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:45:25 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:36:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,19 +50,6 @@ Vært: Jonas Hansen.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432215/3d7888bac82ff5f91d8b1de4c9ce168647b37b2a89788f2549d329b419462efc.mp3" type="audio/mpeg" length="252001415" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452432214</guid>
-      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432214</link>
-      <title>Torsdag 23. maj 2024</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Jonas Hansen.</description>
-      <pubDate>Thu, 23 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432214/4d95c14dbd5a49a40cf05702d0b91385b4dc96c1f257bdecf316371e9baa1507.mp3" type="audio/mpeg" length="252001415" />
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 27 May 2024 14:38:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 05:31:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460125</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Slagteren fra Teheran</title>
+      <description>Ind i den tykke tåge forsvinder helikopteren med den iranske præsident ombord. Men den forlader aldrig tågen igen. Redningsholdet klamrer sig langs de stejle, grønne bjergskråninger op gennem det fugtige slør, men finder kun en helikopter splittet i sammenkrøllede vragdele og syv lig. I Irans gader bliver der på én gang bedt for præsidenten og grædt salte tårer, men også skudt farverigt fyrværkeri af i en glædesfest over hans død, som også hyldes overalt på sociale medier. Genstart spørger i dag Iran-forsker Rasmus Elling om, hvorfor så mange iranere danser på præsidentens grav og hvor længe dansen kan vare ved.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 24/5.</description>
+      <pubDate>Tue, 28 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:43</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460125/b96bf42f1e96f0f364f840487eca95b5af6c4252393990693cd1ac3652116008.mp3" type="audio/mpeg" length="38485901" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460124</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9571,19 +9585,6 @@ Roman Protasevitj. Han spiller en central rolle i sidste års demonstrationer mo
       <itunes:duration>00:21:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150106/5a5bd7dcdc46555786739dde0275ecfb7a5c96f3e21c480f39a3bb53082c73cd.mp3" type="audio/mpeg" length="30898251" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150105</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-joachim-har-det-ikke-let-11802150105</link>
-      <title>Joachim har det ikke let</title>
-      <description>Prins Joachim giver et opsigtsvækkende interview til det franske magasin Point de Vue i starten af maj, hvor han fortæller, at han har svært ved at finde sin rolle i det danske kongehus, og at han oplever samme utilfredshed som sin far, Prins Henrik. Jacob Heinel Jensen, royal korrespondent på B.T., har talt med Prins Joachim om det opsigtsvækkende interview, og giver sin udlægning af, hvad der ligger bag prinsens udtalelser.
-Vært: Knud Brix.</description>
-      <pubDate>Thu, 27 May 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:57</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150105/3a291ea0b2a6b63e198ab631c87e6068ba6cd38f8d49fa964065ec3e119c2202.mp3" type="audio/mpeg" length="33058824" />
     </item>
   </channel>
 </rss>
