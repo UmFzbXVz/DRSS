@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:36:50 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452424222</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424222</link>
+      <title>Tirsdag 28. maj 2024</title>
+      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Tue, 28 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424222/3e77d554e728dca655e2f916304f6f8a67742df0a61f62003ceef2a3c96e2b02.mp3" type="audio/mpeg" length="168481588" />
+    </item>
     <item>
       <guid isPermaLink="false">18452424221</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424221</link>
@@ -290,20 +304,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424182/fa2bb92547011d7afeaf9896a92710f8e9050ab7e6c3c5fbadee7b724c8ed705.mp3" type="audio/mpeg" length="168481588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424181</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-duke-ellington-4-ever-18452424181</link>
-      <title>Duke Ellington 4-ever</title>
-      <description>Der er dømt forår i formiddagsklæder og det dufter pludselig lidt anderledes. Det er sol, swing og Duke Ellingtons 125 års fødselsdag. Der er også søde svenske hverdagssysler og ikke mindst lyttere der har brug for musik til sygdom og søde roomies, hjemmearbejde med udsigt til solsorten og mandagsmøder med sild og snaps. Formiddagen har det hele.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Mon, 29 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424181/d456ad2d97eb32f2a31e28288160107ea3e1a4d1aaa07611fd518312aaddadc8.mp3" type="audio/mpeg" length="168481588" />
     </item>
   </channel>
 </rss>

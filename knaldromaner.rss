@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:36:40 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:17 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -74,18 +74,6 @@
       <itunes:duration>00:28:32</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192876/904ef8ac7bebfe6766f85ec614cca3695b5dd37d56d87ef29bcb95910d5958fe.mp3" type="audio/mpeg" length="41113593" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192875</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-dannelse-takt-og-tone-16122192875</link>
-      <title>Dannelse - Takt &amp; Tone</title>
-      <description>Jesus, hvor ville man gerne have en guide til livet, så det blev lidt nemmere at leve. Emma Gad har gjort forsøget, og selvom visse dele af den berømte bog ikke er ældet med den største ynde, så har andre dele faktisk en stor berettigelse - selv i dag. Resten er til humoristisk underholdning. Vi forsøger at opdatere Emma (med den største respekt), og det fører til snakke om alt fra kedelig konversation til implicitte følgen-hjem-invitationer.</description>
-      <pubDate>Fri, 28 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:38:25</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192875/6caa06e3e566d92f3b1da9ec03fb707c602ea061d1c9c4c3477b3cf7888b7c29.mp3" type="audio/mpeg" length="55329848" />
     </item>
   </channel>
 </rss>

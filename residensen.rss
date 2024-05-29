@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:36:51 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,23 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">13332421221</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421221</link>
-      <title>Mandag 27. maj 2024</title>
+      <guid isPermaLink="false">13332421222</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421222</link>
+      <title>Tirsdag 28. maj 2024</title>
       <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Tue, 28 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421222/ab5b0cf5df3a314bc45eedc9e1eecc413c79ca8591c61e9a4c206215af3813cf.mp3" type="audio/mpeg" length="172801590" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332421221</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-ny-em-titelmelodi-men-handler-den-kun-om-fodbold-13332421221</link>
+      <title>Ny EM-titelmelodi, men handler den kun om fodbold?</title>
+      <description>Så blev det mandag, og i Nynnes fravær holdes Kasper i selskab af Residensens praktikant Esmeralda. Vi taler om umage par, der matcher hinandens freakyness, og som altid powerquiz i sit fulde flor. Vi runder selvfølgelig også den nye officielle danske EM sang - som i nogles øjne ikke kun handler om fodbold.
+Velkommen indenfor!</description>
       <pubDate>Mon, 27 May 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -219,18 +232,6 @@ Gæst i studiet: Mina Okabe.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421182/42b6677ed725dbb938ad02e39d8bac9c890423c361db8617c782bafb04110beb.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421181</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-kanye-eller-porno-13332421181</link>
-      <title>Kanye eller porno?</title>
-      <description>Dagens program giver dig beklageligvis en vished om, at nogle spiser æggemad på toilettet, men derudover vender vi både Doja Cats børnefjendtlige koncerter, Sexyy Reds effektiviserede hverdag, Powerquizzen og Kanye Wests kommende pornokarriere. Velkommen indenfor!</description>
-      <pubDate>Mon, 29 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421181/b212e20a86077aee36f7aa9ed2263bc789fd260fa4c6b9cfd8e07993517650dc.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:37:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,24 @@ Produceret for DR af MonoMono.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122492406</guid>
+      <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-krigskorrespondenten-16122492406</link>
+      <title>Krigskorrespondenten</title>
+      <description>Journalisten Thea Pedersen fortæller om at komme helt tæt på krigen som reporter. Om at sidde på skødet af en gramsende irakisk soldat på vej til fronten og gå hen over lig i Mosul. Om at få en særlig fortrolighed med ukrainske soldater og opleve at ens nære kilder bliver dræbt. 
+Vært og tilrettelægger: Martin Tamm Andersen.
+Gæst: Thea Pedersen, journalist. 
+Klip, producer og musik: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Irene Strøyer.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Wed, 29 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:36:47</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492406/f4d750281f6ebfc88294bd7bd2ad8377bcb522a9972e85bd43acec650e08abbd.mp3" type="audio/mpeg" length="52981470" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492405</guid>
       <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-helikopterpiloten-16122492405</link>

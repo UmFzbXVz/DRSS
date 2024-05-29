@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:37:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450107</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-wozniacki-og-rune-i-olympisk-double-13652450107</link>
+      <title>Wozniacki og Rune i olympisk double?</title>
+      <description>I disse uger spilles der French Open i Paris, og om få måneder skal der spilles OL på det samme grus.
+Holger Rune ligner et sikkert dansk kort, mens vejen ser sværere ud for Caroline Wozniacki og Clara Tauson. Men svært er ikke umuligt, og måske kan det endda ende med en dansk mixed double ved OL.
+
+Men hvor stort er OL egentlig i tennis-regi? Og hvordan lykkes det at få en - eller måske endda to - danske kvinder med? 
+Det spørger vi om i dagens Tyvstart, hvor der også følges op på Holger Runes første opgør ved French Open.
+Vært: Emil Schiønning</description>
+      <pubDate>Wed, 29 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:39</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450107/45e7f419bcac5d3746fb269bb79e8729ca70818e76d6c4d0ede966ffac7e16cb.mp3" type="audio/mpeg" length="28318908" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450106</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-rune-vs-rune-13652450106</link>
@@ -1895,20 +1912,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:22</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350231/6ab9747450d13194e32154b707eddb27be67309809779fe8d59004f7908603ce.mp3" type="audio/mpeg" length="23580057" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350230</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-magnussens-elendige-aar-i-formel-1-13652350230</link>
-      <title>Magnussens elendige år i Formel 1</title>
-      <description>Formel 1-sæsonen er slut, og Kevin Magnussen ender næstsidst i kørernes verdensmesterskab. Det er dårligt, men det er bedre end danskeren team Hass, der ligger sidst. 
-I dagens Tyvstart gør Formel 1-ekspert Peter Nygaard status over sæsonen for både Hass og Magnussen. Er resultaterne på nogen måde tilfredsstillende? Og hvorfor har Magnussen fået sin kontrakt forlænget, når han ikke engang var bedre end sin teamkammerat?
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:16</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350230/ae9087b9341dff216ad819bbca3b88402baaca5e1f4f94a141403f79698edd89.mp3" type="audio/mpeg" length="24873277" />
     </item>
   </channel>
 </rss>

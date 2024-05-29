@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:35:35 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:01:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,8 +27,24 @@ Vært: Annika Wetterling.</description>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">11802451097</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-miljoefarligt-samraad-jordpenge-og-neutrale-newyorkere-11802451097</link>
+      <title>Miljøfarligt samråd, jordpenge og neutrale newyorkere</title>
+      <description>Presset på miljøminister Magnus Heunicke vokser og vokser i sagen om kritiserede miljøgodkendelser. Nu har ministeren så forsvaret sig i et samråd. Små landmænd håber, at det nye Europa-Parlament efter valget d. 9 juni vil se på uddelingen af landbrugsstøtte. 12 nævninge står nu med Donald Trumps skæbne i hænderne. De skal nemlig blive enige om, hvorvidt ekspræsidenten kan erklæres skyldig.   
+Værter: Adrian Busk og Annika Wetterling.
+Medvirkende:
+Line Gertsen, undersøgende journalist DR.
+Niels Bjerre-Poulsen, professor i amerikanske studier, SDU.</description>
+      <pubDate>Wed, 29 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:37</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451097/cf6e176c8e571096794db1aae9b4c52cd2e943b8c56105757793fa1a5df60593.mp3" type="audio/mpeg" length="23935570" />
+    </item>
+    <item>
       <guid isPermaLink="false">11802451096</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-podcast-uetisk-genprojekt-nye-planetdroemme-og-teltlejr-i-brand-11802451096</link>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-uetisk-genprojekt-nye-planetdroemme-og-teltlejr-i-brand-11802451096</link>
       <title>Uetisk genprojekt, nye planetdrømme og teltlejr i brand</title>
       <description>Et omfattende gen-projekt får kritik for at være uetisk og flere patientorganisationer mener det svækker tilliden til forskning. Rumforskere har fundet en ny planet, der ligner jorden både i højde og drøjde. Men råber vi ikke bare ulven kommer igen? Og så undersøger Israel et voldsomt angreb i Rafah, hvor 35 personer ifølge Gazas sundhedsmyndigheder er blevet dræbt.
 Vært: Adrian Busk.
@@ -1948,25 +1964,6 @@ Mads Korsager, DR's forsvarskorrespondent.</description>
       <itunes:duration>00:18:54</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351219/0d1a179c78770b840785278c488fa9f6cc928e1dc8f4a8cb3ae808425908400c.mp3" type="audio/mpeg" length="27224506" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351218</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-ole-birks-brok-racisme-rapporten-og-et-hjem-i-ruiner-11802351218</link>
-      <title>Ole Birks brok, racisme-rapporten og et hjem i ruiner</title>
-      <description>Liberal Alliance kalder den nye finanslov for uambitiøs og ligegyldig - men hvorfor er de så med i aftalen?
-Den mest omfattende rapport om racisme i Danmark er landet, og det ser ikke godt ud.
-Fordrevne palæstinenserne i Gaza bruger våbenhvilen til at vende tilbage til deres hjem, som for mange ser anderledes ud, end det hjem de efterlod.
-Vært: Annika Wetterling.
-Medvirkende: 
-Ole Birk Olesen, finansordfører for Liberal Alliance.
-Siham El Haddad, underviser og udsat for racisme. 
-Shadi Lubbad, dansk-palæstinenser.</description>
-      <pubDate>Tue, 28 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:19:27</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351218/3ad9a7a79d5999d3f8eb3df342a721d08bbc945f8ef77fc1d03797edae9dd03a.mp3" type="audio/mpeg" length="28032054" />
     </item>
   </channel>
 </rss>

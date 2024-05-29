@@ -11,7 +11,7 @@ Produceret for DR af Filt Cph.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:36:59 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:06:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret for DR af Filt Cph.</description>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16122492720</guid>
+      <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
+      <title>Teaser: Drabskomplottet på Djursland 2:2</title>
+      <description>Da retssagen mod de fire tiltalte begynder, bliver der afspillet en chokerende lydfil i retten. På lydfilen bliver det diskuteret, hvordan drabet skal udføres. Samtidig kommer det også frem, at de fire tiltalte, efter at have begået drabet, tager på spahotel og hygger sig. Hør hele afsnittet i &lt;a href=https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen&gt;DR Lyd&lt;/a&gt;.</description>
+      <pubDate>Wed, 29 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:33</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492720/cbc9b2a2429c6bf01dce0ec3ff13e69747d4709ffd7c01d10804d19dd852b1fe.mp3" type="audio/mpeg" length="2251175" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492719</guid>
       <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>

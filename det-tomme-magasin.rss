@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:36:40 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -350,19 +350,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:17:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192722/1638483a2c267dcc5cd82fb77419c729abef95f68772a3e2bc2f5aec9fef6d6f.mp3" type="audio/mpeg" length="25077140" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192721</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-filmmagasinet-16122192721</link>
-      <title>Filmmagasinet</title>
-      <description>Ken Block anmelder film, papmachéhøjskolen søger kursister, hvem får det sidste ord, hvordan lyder det når man har tinitus og hvordan tomler man egentlig?
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 28 May 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:12:19</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192721/051ccf8a3e12297cfa09a58fe3c11eb0463f4ae78a7ae6fb15448390aca036cc.mp3" type="audio/mpeg" length="17738871" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:37:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332410222</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410222</link>
+      <title>Tirsdag 28. maj 2024</title>
+      <description>Politikerne skal til at gemme sms'er og beskeder i 25 år, men hvilke ytringer kan overhovedet klare 25 års-testen, og hvad skrev Andreas og Liva på Facebook?
+Canadiske forskere vil bruge AI til at forstå høns, men er det høns, som vi helst vil høre fra? Fredag er der premiere på vores EM-sang med Lidt til Lægterne, og vi går i pitchmode.
+Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
+Medvirkende: Thomas Loft, vært på P4 og podcasten Fodboldlisten.</description>
+      <pubDate>Tue, 28 May 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410222/adbef822963b151719709a7d5d1acad3cf7e18503b968d0e0165d75fe809d7a3.mp3" type="audio/mpeg" length="254863157" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332410221</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410221</link>
       <title>Mandag 27. maj 2024</title>
@@ -42,19 +57,6 @@ Lidt til Lægterne.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410221/6c14f2b7d71c7a9343109ef39166151fffbfcba851ccb8541cbbdffe6df08ee6.mp3" type="audio/mpeg" length="254882098" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410215</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410215</link>
-      <title>Fredag 24. maj 2024</title>
-      <description>- fokuserer på de ting, der betyder noget for dig, dit liv og din hverdag.
-Stå op med Liva Manghezi og Mikkel Rosendal, som sender dig både opløftet og oplyst ud i dagen.</description>
-      <pubDate>Fri, 24 May 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410215/0f247cdfddff5df840f8e6860c23b2b443b256634a5e66e3bbc09e365609fb17.mp3" type="audio/mpeg" length="254882098" />
     </item>
   </channel>
 </rss>

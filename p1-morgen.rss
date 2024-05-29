@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:37:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433222</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433222</link>
+      <title>Tirsdag 28. maj 2024</title>
+      <description>Hvordan påvirker EU's landbrugsstøtte danske landmænd? Hvad er Brøndby-fans ansvar for at sikre et trygt miljø? Og hvordan sikrer vi at andre regioner får del i dansk udviklingsbistand, når så meget af den går til Ukraine?
+Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
+      <pubDate>Tue, 28 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:48</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433222/d6b4583a792a4b98b10f64a8b3a46aecf06ec1cf71c61bdda337fb542102099b.mp3" type="audio/mpeg" length="237331233" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433221</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433221</link>
@@ -1804,18 +1816,6 @@ Dagens værter: Morten Runge og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:49:59</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333486/bbf1e5b1d955e1e3aab4ee09054c8c3afcc264a29a9482ae80a071d241dae9a5.mp3" type="audio/mpeg" length="158394639" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333485</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333485</link>
-      <title>Fredag 1. dec. 2023</title>
-      <description>Fortsætter våbenhvilen mellem Hamas og Israel? Har det nogen effekt på hvidvaskning, at tusindkronesedlen udfases? Og hvad betyder Ruslands forbud mod LGBT+- bevægelsen? 
-Dagens værter: Morten Runge og Søren Carlsen.</description>
-      <pubDate>Fri, 01 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:43:55</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333485/655efed64c0691a6b4d7285495c5fbdffc1e2cd1c480a74224276f8b8a86d574.mp3" type="audio/mpeg" length="236062476" />
     </item>
   </channel>
 </rss>

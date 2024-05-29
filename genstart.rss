@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:31:19 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:15:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460126</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>En solstrålehistorie</title>
+      <description>Solen er den kosmiske kilde på alt liv på jorden, og samtidig kan den slukke alt lys på et øjeblik. Det er sæson for solstorme, et dramatisk fænomen, hvor gigantiske eksplosioner på solens overflade kaster plasmaskyer mod jorden. Det giver smukke nordlys, men hvis vi er uheldige, kan en solstorm også føre til, at vores elnet og satellitter bliver svitset. Christoffer Karoff er lektor på Aarhus Universitet, hvor han har forsket i solstorme, og i dagens Genstart fortæller han om at vente i nervøs spænding på, hvad der sker næste gang solstormene raser.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 26/5.</description>
+      <pubDate>Wed, 29 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460126/19320d91b79fa6cf80ebe231c6ebe5154a0b5ef57c284d9c470a8b6de33a6e78.mp3" type="audio/mpeg" length="33260429" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460125</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9572,19 +9586,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:22:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150107/07b9d1cdef37f22e4aeace4c03c404990509b229cff18334165814406d79848f.mp3" type="audio/mpeg" length="32351489" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150106</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-lukasjenkos-luftrum-11802150106</link>
-      <title>Lukasjenkos luftrum</title>
-      <description>To hviderussiske kampfly tvinger søndag et passagerfly til at ændre kurs og lande i Minsk. Ombord er den 26-årige aktivist 
-Roman Protasevitj. Han spiller en central rolle i sidste års demonstrationer mod diktatoren Lukasjenko. Vesten fordømmer Lukashenko, men han afviser alle anklager og hævder, at der var en terrorist ombord. Hvem er Roman Protasevitj, som Lukashenko vil gå så langt for at slå en klo i? Korrespondent Matilde Kimer følger sagen.</description>
-      <pubDate>Fri, 28 May 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:21:27</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150106/5a5bd7dcdc46555786739dde0275ecfb7a5c96f3e21c480f39a3bb53082c73cd.mp3" type="audio/mpeg" length="30898251" />
     </item>
   </channel>
 </rss>

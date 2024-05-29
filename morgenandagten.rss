@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 28 May 2024 05:37:12 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 05:16:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405222</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405222</link>
+      <title>Tirsdag 28. maj 2024</title>
+      <description>Præludium:	Johann Sebastian Bach: O Herre Krist! dig til os vend, BWV 632.
+Fra det G.T.:	Ezekiel 34, 17-24.
+Salme: 288 "Drag ind ad disse porte".
+Fra det N.T.:	Matthæusevangeliet 3, 7-12.
+Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837.
+Salme: 444 "Guds-husets dør er i vor dåb".
+Postludium: Anonym: Guds-husets dør er i vor dåb.</description>
+      <pubDate>Tue, 28 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405222/bd84452029cac6d1d8f025adcdba0ed99afc226fd3df2407f2191f97bc67119b.mp3" type="audio/mpeg" length="36001579" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405221</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405221</link>
@@ -420,24 +438,6 @@ Postludium: Théodore Salomé: Poco allegretto.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405182/e0a349738a0d77220456ec22ea524bc1611f547a372f57569c8830da81d2265f.mp3" type="audio/mpeg" length="36001577" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405181</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405181</link>
-      <title>Mandag 29. apr. 2024</title>
-      <description>Præludium:	Cesar Franck: Præludium i D-Dur.
-Ord til dagen: af K.E. Løgstrup.
-Salme: 547 "Man siger, livet har bange kår".
-Fra det N.T.:	Johannesevangeliet 14, 1-7.
-Korvers: Søren Birch: Jeg er vejen og sandheden og livet (tekst: Johannes 14,6).
-Salme: 245, vers 1 + 5 "Opstandne Herre, du vil gå".
-Postludium: Johann Gottfried Walther: Du er, opstandne sejershelt.</description>
-      <pubDate>Mon, 29 Apr 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405181/85b01b2289d176dad86d47438cd153f0674ca8b3d0ca05795e7ff1d6900f7171.mp3" type="audio/mpeg" length="36001582" />
     </item>
   </channel>
 </rss>
