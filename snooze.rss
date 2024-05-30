@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 29 May 2024 05:16:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 13:59:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,62 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428224</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-se-det-for-dig-ida-rud-og-den-jazzede-filmmusik-18452428224</link>
+      <title>Se Det For Dig - Ida Rud og den jazzede filmmusik</title>
+      <description>Et nyt program på P8 er født, og det handler om al den fede jazz og soul, man kan høre på det store lærred. Programmet hedder Se Det For Dig, og vi får denne morgen besøg af vært og tilrettelægger Ida Rud til en snak om de store toner i filmmusikkens jazz.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Medvirkende: Ida Rud, vært og tilrettelægger på Se Det For Dig.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Thu, 30 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428224/a5459855517503a100b4fb0ecbcf57270a7ea2c966518416e9f9c67e8ad88696.mp3" type="audio/mpeg" length="252002189" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452428223</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-finale-i-jazzkonkurrencen-18452428223</link>
+      <title>Finale i Jazzkonkurrencen</title>
+      <description>Jazzkonkurrencen er et talentprogram for unge, danske jazzmusikere, som drømmer om at leve af og med musikken. I løbet af nogle måneder har tre orkestre spillet over hele landet, og den stort anlagte finale løber i aften af stablen på Montmartre i København. Vi lytter til de nye stjerneskud, og kigger også på nogle af tidligere års vindere.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Medvirkende:
+Hannah Vingborg, pianist i Vingborg/Valencia.
+Morten Heide, synth i Udsyn.
+Ronja Rose Andersson, saxofon og vokal i Musvit.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Wed, 29 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428223/d6c42315cf6acc778712a13fd2f3e64d1062e3c02e59610354ac7849e1954df1.mp3" type="audio/mpeg" length="252002188" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452428222</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-morgen-i-etiopien-18452428222</link>
+      <title>Morgen i Etiopien</title>
+      <description>Den smækre, støvede og meditative lyd fra Etiopiens jazzhistorie er på programmet denne morgen i Snooze. Det er både fordi Etiopien fejrer en slags nationaldag i dag, men i høj grad også fordi morgenstunden altid bliver bedre med Mulatu Astatke i ørerne.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Tue, 28 May 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428222/17d445fb138f7a408d054a3a1109c7dbc7ba1abbf0a5ab44e4fff027640c39be.mp3" type="audio/mpeg" length="252002184" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428221</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jazz-paa-aeroe-18452428221</link>
@@ -354,23 +410,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428183/2a47d439df85b0f70544e58225d33841db559d95b8ef2d3f34378d392a5c542a.mp3" type="audio/mpeg" length="252002185" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428182</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-carl-prisen-18452428182</link>
-      <title>Carl Prisen</title>
-      <description>En slags Danish Music Awards, bare for komponister, tekstforfattere og sangskrivere. Det kan man kalde Carl Prisen, som har sit prisshow i dag. Vi kigger bl.a. på de nominerede, som i 15 kategorier rummer alt lige fra pop, over filmmusik og til jazz. 
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 30 Apr 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428182/bebfb90baf9f1508a616442e9c5eb3998fb424d2445adf6708dbece8762496fb.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>

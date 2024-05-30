@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 29 May 2024 05:16:36 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 13:59:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652402223</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402223</link>
+      <title>Onsdag 29. maj 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Vært: Morten Hausborg.</description>
+      <pubDate>Wed, 29 May 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:51:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402223/7775eeaf58154bf045449631d763aa861ab10496b317b42a4ab748ad3c43ab23.mp3" type="audio/mpeg" length="333269263" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652402217</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402217</link>
       <title>Søndag 26. maj 2024</title>
@@ -37,19 +50,6 @@ Værter: Emil Schiønning og Thomas Loft.</description>
       <itunes:duration>04:53:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402217/aff3566be21034485e3d74114c9eeff27a580161a522d2588f773f1630a5856f.mp3" type="audio/mpeg" length="422277985" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402216</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402216</link>
-      <title>Lørdag 25. maj 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Thomas Loft og Rikke Smed.</description>
-      <pubDate>Sat, 25 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:53:30</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402216/d6048a08da78b93e43c876b1fa4b40f30917f521b08a0d42bef8534b2dc2277f.mp3" type="audio/mpeg" length="336253531" />
     </item>
   </channel>
 </rss>

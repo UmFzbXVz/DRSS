@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 29 May 2024 05:16:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 13:59:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,34 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452424224</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424224</link>
+      <title>Torsdag 30. maj 2024</title>
+      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Thu, 30 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424224/6b1c04360494cd45cc422c9f93fc2150ee2dff0d559a3915c18acc9eb6b5cf50.mp3" type="audio/mpeg" length="168481588" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452424223</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424223</link>
+      <title>Onsdag 29. maj 2024</title>
+      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Wed, 29 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424223/3235e948b8496bca053f510c886b36185972430a12e1f08788b63952e2120f4e.mp3" type="audio/mpeg" length="168481588" />
+    </item>
     <item>
       <guid isPermaLink="false">18452424222</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424222</link>
@@ -290,20 +318,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424183/c24b5167520e840d80d9a965ea13b369607757d8621b031271b1591961e7066e.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424182</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-musikken-fra-fallout-og-en-lille-smule-banjo-18452424182</link>
-      <title>Musikken fra Fallout og en lille smule banjo</title>
-      <description>Formiddagen præsenterer denne gang en håndfuld jazzede numre fra et genialt soundtrack til den dystopiske streamingserie Fallout. Derudover kan du komme med til koncert med pianist Chick Cora og banjolegenden Bela Fleck. Lytterne har brug for musik til formiddagen og formiddagen leverer.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Tue, 30 Apr 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424182/fa2bb92547011d7afeaf9896a92710f8e9050ab7e6c3c5fbadee7b724c8ed705.mp3" type="audio/mpeg" length="168481588" />
     </item>
   </channel>
 </rss>

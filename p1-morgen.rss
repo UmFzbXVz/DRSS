@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 29 May 2024 05:16:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 13:59:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,30 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433224</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433224</link>
+      <title>Torsdag 30. maj 2024</title>
+      <description>Hvorfor har Danmark brug for et spilinstitut? Skal fiskere kameraovervåges i Kattegat? Og hvorfor deler folk aktivistiske budskaber på sociale medier?
+Dagens værter: Cecilie Lange og Thomas Tjerandesen.</description>
+      <pubDate>Thu, 30 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:05</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433224/2e4c036803d6b6419e35f16bb6f41a30aa3e84f7bfccecf4175be1ca4718b124.mp3" type="audio/mpeg" length="237744958" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433223</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433223</link>
+      <title>Onsdag 29. maj 2024</title>
+      <description>Hvilke lande udfører stadig dødstraf? Hvad stiller vi op mod dynamisk prissætning Hvorfor vil regeringen have børnene i arbejde?
+Dagens værter: Cecilie Lange og Thomas Tjaerandsen.</description>
+      <pubDate>Wed, 29 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:03</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433223/45739c439bfc64a16e2afc0007ae3d4ab61370519f4d870953f81c9b4824febd.mp3" type="audio/mpeg" length="237689643" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433222</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433222</link>
@@ -1804,18 +1828,6 @@ Dagens værter: Maria Hollænder og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:56</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333491/596e6b4fe1e3b570ecaf0160188650b84442926b8263c845ae3599a5332fa6e7.mp3" type="audio/mpeg" length="237510369" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333486</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333486</link>
-      <title>Lørdag 2. dec. 2023</title>
-      <description>Hvor fejlede den israelske efterretningstjeneste? Er Israel stoppet med at lytte til USA? Hvordan kommer det til at skabe en ladeport for indvandring at droppe sprogkravet?
-Dagens værter: Morten Runge og Pernille Rudbæk.</description>
-      <pubDate>Sat, 02 Dec 2023 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:49:59</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333486/bbf1e5b1d955e1e3aab4ee09054c8c3afcc264a29a9482ae80a071d241dae9a5.mp3" type="audio/mpeg" length="158394639" />
     </item>
   </channel>
 </rss>

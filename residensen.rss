@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 29 May 2024 05:16:18 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 13:59:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,24 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332421223</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-josva-13332421223</link>
+      <title>Med JOSVA</title>
+      <description>"I'm working late, cause I'm a singeeeeeeeer", men hvorfor er det kun sangerne, der skal have alt spotlightet? Residensen hylder det arbejdende folk, der lytter med fra vagten på en sen onsdag aften. JOSVA er i studiet til en snak om I Made It-situationer og verdens mest rekvisit-tunge musikvideo. Velkommen indenfor!</description>
+      <pubDate>Wed, 29 May 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421223/2579cf3d69ce4c894434598290f37e68b5c6e0ed6c6e87def9af413e7dbffbdd.mp3" type="audio/mpeg" length="172801589" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332421222</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421222</link>
-      <title>Tirsdag 28. maj 2024</title>
-      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-gadefester-er-kun-fede-eller-hvad-13332421222</link>
+      <title>Gadefester er kun fede - eller hvad?</title>
+      <description>P3-studiet bliver på denne hot take tirsdag er lavet om til et safe space. Der lukkes op for musikalske holdninger, der kan skille vandene derude. Vi snakker gadefester og spørger både jer derude på gaderne samt en vaskeægte gadefest-ekspert. Vi undersøger desuden også, om man kan regne folks foretrukne tv og film-streamning ud, ud fra hvad man lytter til af musik. Velkommen indenfor!
+Tlf.gæst: Thomas Fleurquin. 
+Reporter: Esmeralda Holmberg.</description>
       <pubDate>Tue, 28 May 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -220,18 +234,6 @@ Gæst i studiet: Mina Okabe.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421183/d1cddb8319bec0549789bcb11115f820c06ac51b631e9054357ce53ea6ec821e.mp3" type="audio/mpeg" length="172801589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421182</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-flere-hoejtalere-i-det-offentlige-rum-eller-hvad-13332421182</link>
-      <title>Flere højtalere i det offentlige rum - eller hvad?</title>
-      <description>Hot Take Tirsdag er tilbage, og Kasper har af uransagelige årsager fået ordet igen. Vi beklager på forhånd, men forsætter ufortrødent med et program, der vender både pornosoundtracks fra 80'erne og Ena Cosovics encounter med Oasis. Velkommen indenfor!</description>
-      <pubDate>Tue, 30 Apr 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421182/42b6677ed725dbb938ad02e39d8bac9c890423c361db8617c782bafb04110beb.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

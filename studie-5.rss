@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 29 May 2024 05:16:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 13:59:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429223</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-anna-scharling-to-ens-poler-15452429223</link>
+      <title>Anna Scharling  To ens poler..</title>
+      <description>Anna Scharling tackler den moderne præstationskultur på nyt album
+Hun spiller et af numrene To ens poler..  i Studie 5
+Vært: Rasmus Scharling Toft</description>
+      <pubDate>Wed, 29 May 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429223/eec48e0611e20be763aaafdc16b20b3b1abd75a58fd61ab5a1288e829dbdad03.mp3" type="audio/mpeg" length="168481499" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429222</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-joergen-klubien-kom-tilbage-nu-live-15452429222</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 29 May 2024 05:16:32 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 13:59:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450108</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-sorte-tennisskyer-og-aarets-fodboldbrag-13652450108</link>
+      <title>Sorte tennisskyer og årets fodboldbrag</title>
+      <description>David mod Goliat. 
+
+Fredag spiller Danmarks fodboldkvinder mod de spanske verdensmestre, med de spås ikke mange chancer. Det samme gælder for Dortmund, der lørdag aften skal kæmpe mod giganterne fra Real Madrid om det mest eftertragtede klubtrofæ i verden. Får vi en overraskelse? 
+
+Og så skal vi et smut til det våde Frankrig, hvor Clara Tausons kamp onsdag regnede væk til French Open.
+
+Vært: Emil Schiønning.</description>
+      <pubDate>Thu, 30 May 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450108/c08b8ba2124292517220a77596877d8e0a234f31640a7f9426bd071e4f35c9c6.mp3" type="audio/mpeg" length="28857466" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450107</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-wozniacki-og-rune-i-olympisk-double-13652450107</link>
@@ -1899,19 +1917,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:18</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350232/b0a854181cde4f418e075ee2ac4ed13cf84092cf20cedaf062e0e73fddc44995.mp3" type="audio/mpeg" length="24915327" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350231</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-i-hovedet-paa-harry-kane-13652350231</link>
-      <title>I hovedet på Harry Kane</title>
-      <description>Hvilken arv drømmer Harry Kane om at efterlade i fodboldverdenen? Hvorfor har han fravalgt en scoringsrekord i sit hjemland for at jagte mesterskaber?Det svarer fodboldekspert Tommy Bechmann på i dagens anledning, hvor FC København brager sammen med Harry Kane og Bayern München i Champions League.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:22</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350231/6ab9747450d13194e32154b707eddb27be67309809779fe8d59004f7908603ce.mp3" type="audio/mpeg" length="23580057" />
     </item>
   </channel>
 </rss>

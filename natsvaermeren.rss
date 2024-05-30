@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 29 May 2024 05:16:28 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 13:59:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -246,19 +246,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463183/c9e714d53c3da28efbaddf42a6b2fbe360de5eab3811b6c1ab2231f6841860b4.mp3" type="audio/mpeg" length="168467158" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463181</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-musikalske-tankestreger-12422463181</link>
-      <title>Musikalske tankestreger</title>
-      <description>I skumringen, når skyggerne er lange, kan tanker blive til eftertanker. Den eftertænksomhed, der kan ramme dig, forsøger Natsværmeren at matche med lange musikalske tankestreger i skyggen af dagen.
-Vært: Tina Rømer.</description>
-      <pubDate>Tue, 30 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463181/9536ac41c199cee35602ed6e68237e9117279cce842f3d81bfd1875c31c89b19.mp3" type="audio/mpeg" length="168472353" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463084</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-rider-mod-solnedgangen-12422463084</link>
       <title>Rider mod solnedgangen</title>
@@ -272,6 +259,20 @@ Vært: Tina Rømer.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463084/89e7bf65596310c83b8c4a50431d6e1416510c096fca4f5b793ab697990b1e28.mp3" type="audio/mpeg" length="172802185" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422463082</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-droemmenes-holdeplads-12422463082</link>
+      <title>Drømmenes holdeplads</title>
+      <description>Hvad er drømme skabt af? Natsværmeren giver et bud via musikkens åbne svar.
+Vært: Minna Grooss.
+(Sendt første gang 21. februar).</description>
+      <pubDate>Wed, 21 Feb 2024 03:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463082/023730fddc6b138a0345330205ce0d86faa9fa3acac93e8a52d2ff08854a470a.mp3" type="audio/mpeg" length="168472842" />
     </item>
     <item>
       <guid isPermaLink="false">12422463057</guid>
@@ -315,6 +316,20 @@ Vært: Minna Grooss.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463053/ab93d357a8a2fe045ff908eeb9365397d2fa533df6c683074028d0aa768ae89b.mp3" type="audio/mpeg" length="172801501" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363242</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-der-er-noget-i-luften-12422363242</link>
+      <title>Der er noget i luften</title>
+      <description>Jeg ved ikke hvad, men du får musik vævet af drømme, stjernestøv og stille toner, som leder dig blidt videre på din vej.
+Vært: Tina Rømer.
+(Sendt første gang 14. juni 2023).</description>
+      <pubDate>Wed, 14 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363242/4c05ad573cca2166fa43e55cc2db46c311cf3664386a7c7f4ab469b21f8c2cb1.mp3" type="audio/mpeg" length="172801528" />
     </item>
     <item>
       <guid isPermaLink="false">12422363221</guid>
