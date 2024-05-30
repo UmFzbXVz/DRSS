@@ -179,9 +179,24 @@ function playNextEpisode() {
   }
 }
 
+function savePlaybackProgress(episodeUrl, currentTime) {
+  localStorage.setItem(`playback-progress-${episodeUrl}`, currentTime);
+}
+
+function getPlaybackProgress(episodeUrl) {
+  return localStorage.getItem(`playback-progress-${episodeUrl}`) || 0;
+}
+  
 function playEpisode(episodeUrl, episodeTitle) {
   const audioPlayer = document.getElementById("audio-player");
+  
+  if (audioPlayer.src) {
+    savePlaybackProgress(audioPlayer.src, audioPlayer.currentTime);
+  }
+
+  const savedTime = getPlaybackProgress(episodeUrl);
   audioPlayer.src = episodeUrl;
+  audioPlayer.currentTime = savedTime;
   audioPlayer.style.display = "block";
   audioPlayer.play();
 
@@ -191,14 +206,12 @@ function playEpisode(episodeUrl, episodeTitle) {
   document.querySelector(`.episode[data-url='${episodeUrl}']`).classList.add('playing');
 }
 
-
-
 document.addEventListener("DOMContentLoaded", () => {
   loadPodcast();
 
   document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
   document.getElementById("next-page").addEventListener('click', () => changePage(1));
-  
+
   const currentPageElement = document.getElementById("current-page");
   currentPageElement.addEventListener('focus', (event) => {
     setTimeout(() => {
@@ -236,7 +249,7 @@ document.addEventListener("DOMContentLoaded", () => {
   themeToggle.addEventListener('click', () => {
     document.body.classList.toggle('dark-theme');
     document.body.classList.toggle('light-theme');
-    
+
     if (document.body.classList.contains('dark-theme')) {
       localStorage.setItem('theme', 'dark');
       themeToggle.textContent = '☀';
@@ -247,9 +260,24 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   const audioPlayer = document.getElementById("audio-player");
-  audioPlayer.addEventListener('ended', playNextEpisode);
-});
 
+  audioPlayer.addEventListener('ended', playNextEpisode);
+  
+  audioPlayer.addEventListener('timeupdate', () => {
+    const episodeUrl = audioPlayer.src;
+    savePlaybackProgress(episodeUrl, audioPlayer.currentTime);
+  });
+
+  audioPlayer.addEventListener('pause', () => {
+    const episodeUrl = audioPlayer.src;
+    savePlaybackProgress(episodeUrl, audioPlayer.currentTime);
+  });
+
+  window.addEventListener('beforeunload', () => {
+    const episodeUrl = audioPlayer.src;
+    savePlaybackProgress(episodeUrl, audioPlayer.currentTime);
+  });
+});
 </script>
 </body>
 </html>
