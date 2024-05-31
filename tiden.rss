@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 30 May 2024 13:51:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 06:15:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451100</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-et-grynet-bevis-koreansk-ballondans-og-dagbog-fra-rafah-11802451100</link>
+      <title>Et grynet bevis, koreansk ballondans og dagbog fra Rafah</title>
+      <description>Hypnose, rekonstruktion og engelsk bilekspert. Flere tekniske beviser er blevet fremlagt i Kirkerup-sagen. Der sendes provokerende, flyvende balloner over grænsen mellem Sydkorea og Nordkorea. En dansk læge skriver dagbog fra Gaza. DR's mellemøstkorrespondent har løbende talt med ham. 
+Vært: Annika Wetterling.
+Medvirkende:
+Trine Maria Ilsøe, DR's retskorrespondent.
+Puk Damsgaard, DR's mellemøstkorrespondent.</description>
+      <pubDate>Fri, 31 May 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451100/9de93550235b8f30f9782092055e077532757bdb54875ce78375886531019ae7.mp3" type="audio/mpeg" length="23068103" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451098</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-den-sorte-svane-et-moede-med-loekke-og-sunaks-skodstart-11802451098</link>
@@ -1947,22 +1963,6 @@ Christian Skettrup, digital efterforsker ved Njord Law Firm og medvært på podc
       <itunes:duration>00:16:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351221/c5fa63adff72401c30a7dbaa344ecb5a9b13e9ee0f092903404b153b56baa49d.mp3" type="audio/mpeg" length="24282295" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351220</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-olieglad-sultan-frie-fanger-og-haandbold-mistanke-11802351220</link>
-      <title>Olieglad sultan, frie fanger og håndbold-mistanke</title>
-      <description>I dag begynder det 28. klimatopmøde. Men flere har en skepsis over for chefforhandleren. For han er nemlig også direktør for Abu Dhabis nationale olieselskab. Palæstinensere fejrer fejringen. Men hvem er de fanger, der nu bliver byttet med israelske gidsler? En ud af tre skandinaviske landsholdsspillere mistænker, at de har været med til en håndboldkamp, hvor der var matchfixing.
-Vært: Annika Wetterling.
-Medvirkende:
-Marie Sæhl, klimajournalist Information.
-Nanna Muus, DR's mellemøstkorrespondent.</description>
-      <pubDate>Thu, 30 Nov 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:31</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351220/edbcad30146d8e5931887b96f355d19bf3dc48b732575d198cea2912c2409400.mp3" type="audio/mpeg" length="26683643" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 30 May 2024 13:59:57 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 06:28:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -304,20 +304,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424184/dddc527aa122f6e12d3dd190166c71a8834219d3b5aefd3222b1d753bda97dd9.mp3" type="audio/mpeg" length="168481588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424183</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-den-store-gule-maske-18452424183</link>
-      <title>Den store gule maske</title>
-      <description>Den Store Coverquiz kredser omkring et af de store 70'er albums der er prydet af en næsten ikonisk gul maske. Samtidig bliver arbejdernes internationale kampformiddag fyldt med sommerlige vibrationer fra nær og fjern, fremtid og fortid. Der er nok at se til på en formiddag i evigheden.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Wed, 01 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424183/c24b5167520e840d80d9a965ea13b369607757d8621b031271b1591961e7066e.mp3" type="audio/mpeg" length="168482164" />
     </item>
   </channel>
 </rss>

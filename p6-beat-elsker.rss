@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 30 May 2024 13:59:41 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 06:17:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -231,6 +231,22 @@ Sendt første gang: 6. marts 2021.</description>
       <itunes:duration>05:45:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452150602/dff8528f9c93e703066ecea743e19a19fecb5e9d81a370dfba2582fb5d42776b.mp3" type="audio/mpeg" length="496988781" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16452070010</guid>
+      <link>https://www.dr.dk/lyd/p6beat/p6-elsker/p6-elsker-2020/p6-beat-elsker-ekstra-nick-cave-16452070010</link>
+      <title>P6 BEAT elsker Ekstra: Nick Cave</title>
+      <description>Hvad er der sket med Nick Cave som musiker og menneske, siden "P6 BEAT elsker Nick Cave" (2013)? Det undersøger vi i denne "P6 BEAT elsker Ekstra"-podcast, i selskab med Nick Cave selv. Du får musik fra alle de albums, der er udgivet siden 2013, koncertklip, samtaler med Nick Cave-fans og et helt unikt indblik i den store udstilling "Stranger Than Kindness", som Nick Cave selv har været med til at skabe på Den Sorte Diamant i København.
+Medvirkende: Nick Cave, Jacob Ege Hinchely og Marie Hobitz (P6 BEAT) og 
+Christina Back (Head of Exhibition, Den Sorte Diamant).
+Vært: Anders Bøtter.
+Sendt første gang: 8. december 2020.</description>
+      <pubDate>Wed, 10 Feb 2021 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:23:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452070010/28672b400fea427863b062eb5e6399878efa613f0d64736cee987d7575ed9f08.mp3" type="audio/mpeg" length="206259119" />
     </item>
     <item>
       <guid isPermaLink="false">16452150601</guid>

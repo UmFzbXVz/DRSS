@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 30 May 2024 13:59:51 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 06:28:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -393,23 +393,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428184/d9b79b841d4f87e11202671e8d7ba6fc617c95728d9bfde3ac8faadbb803d607.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428183</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-ellingtons-barnebarn-i-danmark-18452428183</link>
-      <title>Ellingtons barnebarn i Danmark</title>
-      <description>I weekenden hyldede DR Big Band Duke Ellington med et stort anlagt show i DR Koncerthuset. De havde også inviteret big band-mesterens barnebarn, Paul Ellington, som er født og opvokset i Danmark. Han kiggede i den forbindelse også forbi P8.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Wed, 01 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428183/2a47d439df85b0f70544e58225d33841db559d95b8ef2d3f34378d392a5c542a.mp3" type="audio/mpeg" length="252002185" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 30 May 2024 13:59:42 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 06:29:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463224</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-soiree-12422463224</link>
+      <title>Soirée</title>
+      <description>Selskab til din aften, og her er det at musikken fra Natsværmeren kommer ind i billedet.
+Jeg fylder et par timer med melodier der svæver i luften som lyskæder spændt ud mellem træerne. De glimtende lys lokker i det fjerne, og kommer du tæt på, danner de ring om dig.
+Vært: Tina Rømer.</description>
+      <pubDate>Fri, 31 May 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463224/6ed1f62c1f6454bdab841ff27ad4b77fd552bfed77ab22bf455115acfbd4afeb.mp3" type="audio/mpeg" length="168482177" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463221</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-med-forsigtig-lethed-12422463221</link>
@@ -270,9 +284,9 @@ Vært: Minna Grooss.
       <pubDate>Wed, 21 Feb 2024 03:03:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>01:30:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463082/023730fddc6b138a0345330205ce0d86faa9fa3acac93e8a52d2ff08854a470a.mp3" type="audio/mpeg" length="168472842" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463082/57847c7bfffe4e505116c31111f7917dededba1f1725bac101b1fcb4c8b3667e.mp3" type="audio/mpeg" length="129601482" />
     </item>
     <item>
       <guid isPermaLink="false">12422463057</guid>
@@ -400,20 +414,6 @@ Vært: Minna Grooss.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363181/e35584c2f00f70f39a2f1f1b1b6df897fc91b4ec856b4b885159ecd5e91ee22d.mp3" type="audio/mpeg" length="172802190" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363177</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-1-maj-12422363177</link>
-      <title>1 maj</title>
-      <description>En ræverød kampsang, lyden af klarinet og en ung fransk komponist sender arbejdernes kampdag ind i foråret sammen med Brahms, Vivaldi, Ola Gjeilo og Ricky Lee Jones.
-Vært: Minna Grooss.
-(Sendt første gang 1. maj 2023).</description>
-      <pubDate>Mon, 01 May 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:05</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363177/bc76bf8af5aeb53c5d2f1d47ecd5147c94efbdfe2383eb7d47297a6228ea0107.mp3" type="audio/mpeg" length="168614615" />
     </item>
   </channel>
 </rss>
