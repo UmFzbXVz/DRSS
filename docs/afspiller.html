@@ -18,7 +18,9 @@
     <button id="next-page" class="pagination-button" aria-label="Next Page">→</button>
   </div>
   <div id="theme-toggle" class="theme-toggle" aria-label="Toggle Theme"></div>
-  <button id="toggle-fully-listened" class="toggle-fully-listened" aria-label="Toggle Fully Listened Episodes">👁</button>
+  <button id="toggle-fully-listened" class="toggle-fully-listened" aria-label="Toggle Fully Listened Episodes">
+  <img src="eyeOpen" alt="Eye Open Icon">
+</button>
 </div>
 
 <audio id="audio-player" controls preload="none" style="width: 500px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);" aria-label="Podcast Player">
@@ -36,6 +38,12 @@ let filterEpisodes = false;
 let podTitle = '';
 let podDesc = '';
 let isPlaying = false;
+const eyeOpen = 'https://static.vecteezy.com/system/resources/previews/014/475/656/original/eye-icon-simple-flat-eye-design-vision-care-concept-wear-glasses-for-a-clear-vision-png.png';
+const eyeClosed = 'https://cdn2.iconfinder.com/data/icons/eye-symbol/64/eye-09-64.png';
+const sun = 'https://icon-library.com/images/sun-icon-vector/sun-icon-vector-25.jpg';
+const moon = 'https://static.thenounproject.com/png/936949-200.png';
+
+
 
 async function loadPodcast() {
   try {
@@ -93,8 +101,8 @@ async function loadPodcast() {
 
 function toggleEpisodeFilter() {
   filterEpisodes = !filterEpisodes;
-  const toggleButton = document.getElementById("toggle-fully-listened");
-  toggleButton.textContent = filterEpisodes ? "🔎︎" : "👁";
+  toggleButton = document.getElementById("toggle-fully-listened");
+  toggleButton.innerHTML = filterEpisodes ? "<img src='" + eyeClosed + "' alt='Eye Closed Icon'>" : "<img src='" + eyeOpen + "' alt='Eye Open Icon'>";
   toggleButton.classList.toggle("toggle-fully-listened-filtered");
   displayEpisodes();
 }
@@ -298,6 +306,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
   document.getElementById("next-page").addEventListener('click', () => changePage(1));
+  const toggleButton = document.getElementById("toggle-fully-listened");
+toggleButton.innerHTML = localStorage.getItem("filterEpisodes") === "true" ? `<img src="${eyeClosed}" alt="Eye Closed Icon">` : `<img src="${eyeOpen}" alt="Eye Open Icon">`;
+toggleButton.classList.toggle("toggle-fully-listened-filtered", localStorage.getItem("filterEpisodes") === "true");
 
   const currentPageElement = document.getElementById("current-page");
   currentPageElement.addEventListener('focus', (event) => {
@@ -322,31 +333,20 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  const themeToggle = document.getElementById('theme-toggle');
+const themeToggle = document.getElementById('theme-toggle');
+const savedTheme = localStorage.getItem('theme') || 'light';
 
-  const savedTheme = localStorage.getItem('theme');
-  if (savedTheme) {
-    document.body.classList.add(savedTheme + '-theme');
-    themeToggle.textContent = savedTheme === 'dark' ? '☀' : '☽';
-  } else {
-    document.body.classList.add('light-theme');
-    themeToggle.textContent = '☽';
-  }
+document.body.classList.add(savedTheme + '-theme');
+themeToggle.innerHTML = savedTheme === 'dark' ? `<img src="${sun}" alt="Sun Icon">` : `<img src="${moon}" alt="Moon Icon">`;
 
-  themeToggle.addEventListener('click', () => {
-    document.body.classList.toggle('dark-theme');
-    document.body.classList.toggle('light-theme');
-    document.getElementById("toggle-fully-listened").classList.toggle("toggle-fully-listened-white");
-    document.getElementById("toggle-fully-listened").classList.toggle("toggle-fully-listened-black");
-
-    if (document.body.classList.contains('dark-theme')) {
-      localStorage.setItem('theme', 'dark');
-      themeToggle.textContent = '☀';
-    } else {
-      localStorage.setItem('theme', 'light');
-      themeToggle.textContent = '☽';
-    }
-  });
+themeToggle.addEventListener('click', () => {
+  const newTheme = document.body.classList.contains('dark-theme') ? 'light' : 'dark';
+  document.body.classList.remove('dark-theme', 'light-theme');
+  document.body.classList.add(`${newTheme}-theme`);
+  
+  localStorage.setItem('theme', newTheme);
+  themeToggle.innerHTML = newTheme === 'dark' ? `<img src="${sun}" alt="Sun Icon">` : `<img src="${moon}" alt="Moon Icon">`;
+});
 
   const audioPlayer = document.getElementById("audio-player");
 
