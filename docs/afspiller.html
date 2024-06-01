@@ -206,13 +206,16 @@ function playNextEpisode() {
       changePage(1);
       setTimeout(() => {
         const firstEpisode = document.querySelector('.episode');
-        const episodeUrl = firstEpisode.getAttribute('data-url');
-        const episodeTitle = firstEpisode.getAttribute('data-title');
-        playEpisode(episodeUrl, episodeTitle);
+        if (firstEpisode) {
+          const episodeUrl = firstEpisode.getAttribute('data-url');
+          const episodeTitle = firstEpisode.getAttribute('data-title');
+          playEpisode(episodeUrl, episodeTitle);
+        }
         window.scrollTo({ top: 0, behavior: 'smooth' });
       }, 100);
     }
   }
+  displayEpisodes();
 }
 
 function savePlaybackProgress(episodeUrl, currentTime) {
@@ -293,33 +296,10 @@ function handleEnded() {
   if (isChangingEpisode) return;
   const audioPlayer = document.getElementById("audio-player");
   const episodeUrl = audioPlayer.src;
-  
+
   markEpisodeAsFinished(episodeUrl);
-  
-  const episodes = document.querySelectorAll('.episode');
-  const currentIndex = Array.from(episodes).findIndex(episode => episode.classList.contains('playing'));
-  
-  if (currentIndex === episodes.length - 1) {
-    const totalPages = parseInt(document.getElementById("total-pages").textContent);
-    if (currentPage < totalPages) {
-      currentPage++;
-      document.querySelectorAll('.episode').forEach(episode => episode.remove());
-      displayEpisodes();
-      setTimeout(() => {
-        window.scrollTo({ top: 0});
-        const firstEpisode = document.querySelector('.episode');
-        const episodeUrl = firstEpisode.getAttribute('data-url');
-        const episodeTitle = firstEpisode.getAttribute('data-title');
-        playEpisode(episodeUrl, episodeTitle);
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-      }, 100);
-    }
-  } else {
-    displayEpisodes();
-    playNextEpisode();
-  }
-  
-  isPlaying = false;
+
+  playNextEpisode();
 }
 
 function isEpisodeFullyListened(episodeUrl) {
@@ -390,6 +370,9 @@ themeToggle.addEventListener('click', () => {
   
   localStorage.setItem('theme', newTheme);
   themeToggle.innerHTML = newTheme === 'dark' ? `<img src="${sun}" alt="Sun Icon">` : `<img src="${moon}" alt="Moon Icon">`;
+  const spinner = document.getElementById('loading-spinner');
+  spinner.classList.toggle('dark-theme', newTheme === 'dark');
+  spinner.classList.toggle('light-theme', newTheme === 'light');
 });
 
   const audioPlayer = document.getElementById("audio-player");
