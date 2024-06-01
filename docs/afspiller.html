@@ -90,6 +90,7 @@ async function loadPodcast() {
 
 function toggleEpisodeFilter() {
   filterEpisodes = !filterEpisodes;
+  localStorage.setItem("filterEpisodes", filterEpisodes);
   toggleButton = document.getElementById("toggle-fully-listened");
   toggleButton.innerHTML = filterEpisodes ? "<img src='" + eyeClosed + "' alt='Eye Closed Icon'>" : "<img src='" + eyeOpen + "' alt='Eye Open Icon'>";
   toggleButton.classList.toggle("toggle-fully-listened-filtered");
@@ -99,21 +100,30 @@ function toggleEpisodeFilter() {
 function displayEpisodes() {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
-  const totalPages = Math.ceil(totalEpisodes / itemsPerPage);
-  document.getElementById("total-pages").textContent = totalPages;
+  const finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
+  let totalPages = Math.ceil(totalEpisodes / itemsPerPage);
+  const finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
   document.getElementById("podcast-info").innerHTML = `<h2>${podTitle}</h2><p>${podDesc}</p>`;
 
   episodesData.sort((a, b) => {
     return new Date(a.pubDate) - new Date(b.pubDate);
   });
 
-  const finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
-  const finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
-
-  let episodesToShow = episodesData.slice(startIndex, endIndex);
+  let filteredEpisodesData = episodesData;
   if (filterEpisodes) {
-    episodesToShow = episodesData.filter(episode => !finishedEpisodes.includes(episode.link)).slice(startIndex, endIndex);
+    filteredEpisodesData = episodesData.filter(episode => !finishedEpisodes.includes(episode.link));
+    totalPages = Math.ceil(filteredEpisodesData.length / itemsPerPage);
   }
+  
+  let episodesToShow = filteredEpisodesData.slice(startIndex, endIndex);
+  
+  document.getElementById("total-pages").textContent = totalPages;
+  if (episodesToShow.length === 0 && currentPage > 1) {
+    currentPage--;
+    changePage(0);
+    return;
+  }
+  updatePaginationControls();
   let episodesHTML = '';
 
   const currentlyPlaying = localStorage.getItem('currentlyPlaying');
@@ -248,7 +258,6 @@ function playEpisode(episodeUrl, episodeTitle) {
   });
 }
 
-
 function handleTimeUpdate() {
   const audioPlayer = document.getElementById("audio-player");
   const currentTime = audioPlayer.currentTime;
@@ -263,7 +272,6 @@ function handleTimeUpdate() {
     handleEnded();
   }
 }
-
 
 function handlePause() {
   if (isChangingEpisode) return;
@@ -280,9 +288,7 @@ function handleEnded() {
   const audioPlayer = document.getElementById("audio-player");
   const episodeUrl = audioPlayer.src;
   
-  if (isEpisodeFullyListened(episodeUrl)) {
-    markEpisodeAsFinished(episodeUrl);
-  }
+  markEpisodeAsFinished(episodeUrl);
   
   const episodes = document.querySelectorAll('.episode');
   const currentIndex = Array.from(episodes).findIndex(episode => episode.classList.contains('playing'));
@@ -303,13 +309,12 @@ function handleEnded() {
       }, 100);
     }
   } else {
+    displayEpisodes();
     playNextEpisode();
   }
   
   isPlaying = false;
 }
-
-
 
 function isEpisodeFullyListened(episodeUrl) {
   const savedTime = getPlaybackProgress(episodeUrl);
@@ -317,17 +322,17 @@ function isEpisodeFullyListened(episodeUrl) {
   return savedTime >= audioPlayer.duration;
 }
 
-function markEpisodeAsFinished(episodeUrl) {
-  const finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
+function markEpisodeAsFinished(url) {
+  let finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
   let finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
-
-  if (!finishedEpisodes.includes(episodeUrl)) {
-    finishedEpisodes.push(episodeUrl);
+  if (!finishedEpisodes.includes(url)) {
+    finishedEpisodes.push(url);
     localStorage.setItem("finishedEpisodes", JSON.stringify(finishedEpisodes));
   }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  filterEpisodes = localStorage.getItem("filterEpisodes") === "true";
   loadPodcast();
 
   document.getElementById("prev-page").addEventListener('click', () => {
