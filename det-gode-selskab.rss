@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:28:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:32:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -64,19 +64,6 @@ Vært: Charlotte Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428222/a86e41e932166c910d83ac65bb33aad5850de1f16e2eff0e755a22c97967ff05.mp3" type="audio/mpeg" length="168481576" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428221</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-15452428221</link>
-      <title>Mandag 27. maj 2024</title>
-      <description>Her møder du spændende mennesker og får ny inspiration til det aktive liv.
-Vært: Søren Hansen.</description>
-      <pubDate>Mon, 27 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428221/ae0378cb835de8615993e89cc8b82cc34502b307bda241dbf29e8393ca052c92.mp3" type="audio/mpeg" length="168482014" />
     </item>
   </channel>
 </rss>

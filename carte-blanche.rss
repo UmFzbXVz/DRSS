@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:28:44 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:32:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -76,21 +76,6 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427222/a3182432ed1709b6e6c0fbf7517be45aa33e41a5eac0aaa2c90e75c14f6c1644.mp3" type="audio/mpeg" length="172801602" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427221</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-blindsmagning-superliga-og-sommertendenser-13332427221</link>
-      <title>Blindsmagning, superliga og sommertendenser</title>
-      <description>Jannik er mødt ind med lange øjne i dag, fordi dagen i går stod på DM i blindsmagning. Selv om det er meningen, at man spytter vinen ud ved blindsmagning, kan man jo godt blive grebet af en stemning.
-Hvis du mod alt forventning ikke skulle have lagt mærke til det, så var der altså final showdown i Superligaen i dag, og du kan tro vi ikke er færdige med at koge suppe på den affære.
-Solen varmer luften og vandet, dagene er lange og lyse, og det er på tide at snakke om sommerens tendenser - og for guds skyld før alle andre medier begynder på det. Skal kammerjunkerne eksempelvis knuses eller knækkes? Svaret vil chokere dig.
-Værter: Jannik Schow og Henrik Eriksen.</description>
-      <pubDate>Mon, 27 May 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427221/4fe3248f809dff1ee7d3b2057afdc75adc78f174800d93352a5327015f8a6fc7.mp3" type="audio/mpeg" length="172802166" />
     </item>
   </channel>
 </rss>

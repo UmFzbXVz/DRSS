@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:29:01 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:28:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,42 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405226</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405226</link>
+      <title>Lørdag 1. jun. 2024</title>
+      <description>Præludium: Leopold Mozart: Scherzo.
+Davidssalme: 34, 2-6.
+Salme: 30 "Op, alle, som på jorden bor".
+Fra det N.T.: Første Timotheusbrev 6, 6-12.
+Trosbekendelsen.
+Salme: 562 vers 1-3 + 5 "Som markens blomst henvisner fage".
+Postludium: Jesper Madsen: Op, alle som på jorden bor.</description>
+      <pubDate>Sat, 01 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405226/1eebf3f8604c5e7d2f6bc38ded0533764847467ff37210f5c5fcf39c688f3c76.mp3" type="audio/mpeg" length="36001576" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11042405225</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405225</link>
+      <title>Fredag 31. maj 2024</title>
+      <description>Præludium:	Matthias Weckmann: Kom, Helligånd, Gud Herre From.
+Fra det G.T.:	Jeremias 23,25-29.
+Salme: 753 "Gud, du som lyset og dagen oplod".
+Fra det N.T.:	Matthæusevangeliet 4,12-17.
+Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837.
+Salme: 336 "Vor Gud han er så fast en borg".                                                          
+Postludium: Carl Nielsen: Tågen letter.</description>
+      <pubDate>Fri, 31 May 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405225/29a0d0db20dd4efa84862654b5b033a9657af40655223730396fc7e17814f9bb.mp3" type="audio/mpeg" length="36001581" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405224</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405224</link>
@@ -420,24 +456,6 @@ Postludium: Jean Langlais: Chant de paix.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405185/bb61eacd1541bde4f99e4ee50a97b085674b60a9177905403f3e99b07b489ff9.mp3" type="audio/mpeg" length="36001579" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405184</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405184</link>
-      <title>Torsdag 2. maj 2024</title>
-      <description>Præludium:	Knud-Erik Jensen: Den mørke nat forgangen er.
-Fra det G.T.:	1. Mosebog 24,10-15a.
-Salme: 736 "Den mørke nat forgangen er".
-Fra det N.T.:	Johannesevangeliet 14,15-21.
-Korvers: Søren Birch: Jeg er vejen og sandheden og livet (tekst: Johannes 14,6).
-Salme: 297 "I kristne, som bekende".
-Postludium: Naji Hakim: Den mørke nat forgangen er.</description>
-      <pubDate>Thu, 02 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405184/7e955921604db8627f1f49ecffa070acb97fa4e9591c76881365ddfa421f97f9.mp3" type="audio/mpeg" length="36001581" />
     </item>
   </channel>
 </rss>

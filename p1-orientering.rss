@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:28:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:32:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410225</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410225</link>
+      <title>Fredag 31. maj 2024</title>
+      <description>Donald Trump blev i går dømt skyldig i alle 34 punkter i sagen om de såkaldte 'tys-tys'- penge til pornoskuespilleren Stormy Daniels. Hvad betyder dommen for støtten til Trump? Finansminister Nicolai Wammen kunne i dag præsentere en ny økonomiaftale mellem Kommunernes Landsforening og regeringen. Hvad betyder den nye økonomi aftale for velfærden i kommunerne? En ny vindmøllepark mellem Sønderborg og Assens skaber splittelse mellem de to kommuner. Hvorfor er de så uenige? 
+Dagens værter: Morten Runge og Ole Brink.</description>
+      <pubDate>Fri, 31 May 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:54</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410225/ec76b7639bd08339b0652a527bd9c302ff7acf26e48da00f0b7684aa2e5404f9.mp3" type="audio/mpeg" length="158278210" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410224</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410224</link>
@@ -1892,39 +1904,6 @@ Dagens værter: Pernille Øhlenschlæger Rudbæk og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:54:51</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310492/d42f5dca1edae31cfc156ddaaa7db1713dab4deecf33c232e44e7f5bbba4a96d.mp3" type="audio/mpeg" length="79006285" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304491</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304491</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens vært: Pernille Øhlenschlæger Rudbæk og Ole Brink.
-Og i dagens udgave af Orientering Udsyn:
-De afrikanske lande udleder i det store regnskab næsten ingen CO2, men de voksende klimaforandringer rammer kontinentet hårdt.
-Det har fået Afrika til at sadle om, og med Kenya i spidsen går de nu sammen mod de rige lande, som ofte har overset det afrikanske kontinent på COP-møderne. Men under enigheden lurer sprækkerne...
-Selvom modstand er let at lukke ned i Putins rige, vokser en ny slags protestbevægelse frem i Rusland. For koner, mødre og døtre vil have deres mænd hjem fra krigen mod Ukraine. Men de er ikke imod krigen - tværtimod - og måske er det rigtig smart?
-Gæster: Stig Jensen, lektor i Afrikastudier ved Københavns Universitet og Charlotte Flindt Pedersen, direktør for Det Udenrigspolitiske Selskab.
-Tilrettelæggelse: Nickolaj Sander og Inge Scheel Kelstrup.
-Vært: Brita Kvist.
-Lyddesign: Jonas Johs Andersen.
-Redaktører: Nickolaj Sander og Tine Møller Sørensen.</description>
-      <pubDate>Mon, 04 Dec 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:11</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304491/e8cdafbffac3d6fb9c8e02b18461c1816989418fbfdac3ee0c5fa02d764d440c.mp3" type="audio/mpeg" length="79474631" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310491</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310491</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Ole Brink.</description>
-      <pubDate>Mon, 04 Dec 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:54:15</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310491/32994679655b3d3a0dd24c92e8b477cf149dfd112e8af142bfc4d3ef26082abb.mp3" type="audio/mpeg" length="78135373" />
     </item>
   </channel>
 </rss>

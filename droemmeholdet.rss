@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:28:58 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:32:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332425225</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-maersk-droemmeholdets-fodboldhold-og-kastet-ketsjer-13332425225</link>
+      <title>Mærsk, Drømmeholdets fodboldhold og kastet ketsjer</title>
+      <description>Du har altså ikke fri, før du lige har sendt os din drøm kammerat! Send den til p3drommer@dr.dk - husk nu dit nummer ik'?
+Drømmene lander i Drømmebanken, men det betyder ikke, de bliver glemt. Maria skrev ind med sin drøm om at komme op på et Mærsk skib tilbage i februar, og vi har arbejdet på den lige siden.
+Martin bliver udfordret til et spil kylling i Orkanen i Fårup sommerland. Drømmeholdet laver et fodboldhold, som skal spille mod Patriks hold i morgen på Fyn. Og så drømmer Cathrine og hendes to piger om at give deres mand og far verdens bedste fars dag gave, nemlig en ketsjer fra Viktor Axelsen. Skyd weekenden i gang med Drømmeholdet - vi er tilbage på mandag!</description>
+      <pubDate>Fri, 31 May 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425225/21e79c407718604e426a509aeafd3344a2ebb1257bce297e8a1176c3956cfbb0.mp3" type="audio/mpeg" length="254882179" />
+    </item>
     <item>
       <guid isPermaLink="false">13332425224</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-et-barn-i-faengsel-oel-og-rutschebaner-13332425224</link>
@@ -69,21 +83,6 @@ Næste drømmer ved ikke, hvad der foregår. Det er nemlig hans hustru Maria, so
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425222/c9835a54b2f534b8c7ebf833bc6b7e42a687bf6a0d0df27366e7cac8ac58f8f1.mp3" type="audio/mpeg" length="254882179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425221</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-smadre-porcelaen-droem-mumie-og-forlystelses-hypeman-13332425221</link>
-      <title>Smadre-porcelæn-drøm, mumie og forlystelses-hypeman</title>
-      <description>Du har den der lidt skøre drøm, har du ik'? Den skal vi høre! Send den til p3drommer@dr.dk.
-Musselmalet, riflet, blå mega. Du kender dem, Maiken hader dem. Hun hader faktisk alt Royal Copenhagen, og derfor drømmer hun om at smadre en masse Royal Copenhagen med et bat.
-15-årige Valdemar drømmer om at få en mumie på sit værelse. Det bliver selvfølgelig lidt af en opgave. Vi skal have godkendelse fra mor, viden fra Glyptoteket og en lørdags-kylling?
-Til sidst drømmer Michelles kæreste om at være hypeman i en forlystelse. Derfor ringer Michelle ind, med en uvidende kæreste på medhør.</description>
-      <pubDate>Mon, 27 May 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425221/8a89b26b3e704636511ce8c035460e800c6a11ccd3493b170834517a41cf4158.mp3" type="audio/mpeg" length="254882180" />
     </item>
   </channel>
 </rss>

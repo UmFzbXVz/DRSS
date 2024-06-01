@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:28:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:32:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -210,18 +210,6 @@ Gæst i studiet: Mina Okabe.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421191/483b35c2c928cf17801b1f43bc51fb5b62f0b85283fdda50a726b05bd93da9d7.mp3" type="audio/mpeg" length="172801589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421184</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-live-fra-loebeturen-13332421184</link>
-      <title>Live fra løbeturen</title>
-      <description>Usikker på den perfekte playliste? Nynne sender bogstavelig talt løbende og tester din løbeplayliste for dig forud for CPH Marathon. Drake og Kendrick er stadig uvenner, så vi jagter de dummeste skænderier, du har fundet dig selv i. Velkommen indenfor!</description>
-      <pubDate>Thu, 02 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421184/d093de89ce6732e6a5351ddb44b54ad79bcb34b9cc32bed5307af207c6ff4c2d.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>

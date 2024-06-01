@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:29:02 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:32:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,32 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410225</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410225</link>
+      <title>Fredag 31. maj 2024</title>
+      <description>Mette Frederiksen overvejer at genindføre store bededag! Der skal bare lige findes 3 milliarder. Men dem har de muligvis selv allerede fundet i regeringen. Andreas har undersøgt det.
+Og så har Nordkorea gennemført en historisk militæroperation. De har sendt balloner til Sydkorea... fyldt med lort.
+Donald Trump er blevet dømt skyldig i "tys-tys-sagen". Alle eksperter siger, at det er historisk og meget betydeligt. Men kommer det rent faktisk til at have betydning for noget som helst?
+DET ER PREMIEREDAG! Vores EM-sang med Lidt til Lægterne er endelig udkommet. Og der er kæmpe stemning. Vi har samlet folk i hele Danmark til at spille den på fuld skrue. Og så har vi selvfølgelig også samlet drengene fra Lidt til Lægterne i studiet.
+Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
+Medvirkende:
+Mads Dalgaard Madsen, USA-ekspert.
+Mads Bo og Martin Johannes Larsen, Lidt til Lægterne.
+Anders Ugilt og Nanna Nørregaard, værter på P4 Morgen København.
+Jens Peder Veje Sørensen, teamleder på Molslinjen.
+Martin Lewis, Loud 'n' Proud.
+Fillip Fyllgraf, festivaldeltager på Skive Festival.
+Kathrine Deleuran, Customer Relations Manager I Bilka Tilst.
+Mads Læbel, praktikant på P3.
+Lotte Ymer, Rikke Yndal og Suzanne Madsen, medarbejdere i Circle K.</description>
+      <pubDate>Fri, 31 May 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410225/c32b65f0741eeeabfbf58dafffed0245861a35be2cb8f3612ed6afe8fdd9c612.mp3" type="audio/mpeg" length="254881522" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410224</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410224</link>
@@ -74,24 +100,6 @@ Medvirkende: Thomas Loft, vært på P4 og podcasten Fodboldlisten.</description>
       <itunes:duration>02:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410222/adbef822963b151719709a7d5d1acad3cf7e18503b968d0e0165d75fe809d7a3.mp3" type="audio/mpeg" length="254863157" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410221</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410221</link>
-      <title>Mandag 27. maj 2024</title>
-      <description>Vi har fundet ud af, hvilke danskere der drikker mest - og svaret er overraskende!
-Vi skal også forbi en omgang 'du er ikke alene' og finde ud af, om Nicolai er den eneste dansker, der godt kan lide kolde øl og lunken sodavand.
-Derudover er der kæmpe fodboldtema. Lidt til Lægterne kommer forbi, og så kigger vi på, hvordan vi kan sikre storskærme til EM på barer og restauranter.
-Værter: Mikkel Rosendal og Andreas Kousholt.
-Medvirkende:
-Sten Schaumburg-Müller, professor ved juridisk institut på SDU.
-Lidt til Lægterne.</description>
-      <pubDate>Mon, 27 May 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410221/6c14f2b7d71c7a9343109ef39166151fffbfcba851ccb8541cbbdffe6df08ee6.mp3" type="audio/mpeg" length="254882098" />
     </item>
   </channel>
 </rss>

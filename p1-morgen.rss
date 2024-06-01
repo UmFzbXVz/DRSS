@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:27:05 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:17:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,30 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433226</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433226</link>
+      <title>Lørdag 1. jun. 2024</title>
+      <description>Hvordan ser USA ud et døgn efter afgørelsen mod Trump? Hvordan er status på Færøerne? Hvorfor genopføre en Beatles-koncert 60 år efter?
+Dagens værter: Ole Brink og Morten Runge.</description>
+      <pubDate>Sat, 01 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:01</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433226/ec7d09bb5e3e24f81fd72c73c85fb98e0eab6e28e6a019701e2858aada0db3cb.mp3" type="audio/mpeg" length="158433057" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433225</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433225</link>
+      <title>Fredag 31. maj 2024</title>
+      <description>Hvad betyder det, at Trump er kendt skyldig i alle 34 anklagepunkter? Hvorfor bliver læger ved med at udskrive recepter på opioider til patienter i årevis? Og hvordan lykkes Iran med at infiltrere kriminelle netværk i Sverige?
+Dagens værter: Pernille Rudbæk og Cecilie Lange.</description>
+      <pubDate>Fri, 31 May 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:14</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433225/73cff0dfa852edfe8597099e92682ef659110d62c1cda9dae8935e534a922f56.mp3" type="audio/mpeg" length="236518708" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433224</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433224</link>
@@ -1816,18 +1840,6 @@ Dagens værter: Anne Kirstine Hermann og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:51</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333492/9750252d57431c718d09bd7d9c0fe6a31e9c94079fd8c6b39e7ff7bb9d14e26a.mp3" type="audio/mpeg" length="237386529" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333491</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333491</link>
-      <title>Mandag 4. dec. 2023</title>
-      <description>Hvad foregår bag de lukkede døre på COP? Hvad er konsekvensen ved, at man lukker pigeklubber? Og hvordan kan den Internationale Straffedomstol undersøge krigsforbrydelser i Israel, når Israel ikke anerkender domstolen? 
-Dagens værter: Maria Hollænder og Søren Carlsen.</description>
-      <pubDate>Mon, 04 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:56</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333491/596e6b4fe1e3b570ecaf0160188650b84442926b8263c845ae3599a5332fa6e7.mp3" type="audio/mpeg" length="237510369" />
     </item>
   </channel>
 </rss>

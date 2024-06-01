@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:28:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:31:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452435225</guid>
+      <link>https://www.dr.dk/lyd/p6beat/farrock/farrock-2024/farrock-husk-lige-tandlaegen-16452435225</link>
+      <title>Husk lige tandlægen!</title>
+      <description>Vi taler om alt det fede, der er forbundet ved at tage til både skoletandlæge og voksentandlæge, og så skal vi da også lige omkring den kommende verdens-tour, som vil bringe os både til Horsens Holder samt Folkemødet over de kommende uger.</description>
+      <pubDate>Fri, 31 May 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452435225/ab25c5fa977971e008178d4393d72d48becc16cb689ed41be775ada7e30e6686.mp3" type="audio/mpeg" length="168482098" />
+    </item>
     <item>
       <guid isPermaLink="false">16452435215</guid>
       <link>https://www.dr.dk/lyd/p6beat/farrock/farrock-2024/farrock-gode-vaner-og-daarlige-vaner-16452435215</link>

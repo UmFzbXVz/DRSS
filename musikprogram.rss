@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 31 May 2024 06:28:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 11:31:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332423225</guid>
+      <link>https://www.dr.dk/lyd/p3/musikchefen/musikchefen-2024/musikchefen-hurra-for-verdens-smukkeste-spil-13332423225</link>
+      <title>Hurra for verdens smukkeste spil!</title>
+      <description>Fodboldfeberen er på vej, og ingen slutrunde uden slagsang fra Lidt Til Lægterne og Go'Morgen P3, der varmer op til EM i Tyskland. Vi tjekker også nye ting fra Lamin, fred again .. og Mille, og P3's Uundgåelige er countryficeret. Verdens bedste lyttere melder også ind for at blive 'Chef For En Sang': Stefania har fundet kærligheden i et dark room, og Frederik kårer en beef-vinder.
+Medvirkende: 
+Lidt Til Lægterne/Go'Morgen P3.
+Mille (sanger).
+Stefania (lytter).
+Frederik (lytter).</description>
+      <pubDate>Fri, 31 May 2024 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332423225/642b0fec363f013045b7842589943cd11eb64e49ca570c5b2586a59782072c17.mp3" type="audio/mpeg" length="172802131" />
+    </item>
     <item>
       <guid isPermaLink="false">13332423215</guid>
       <link>https://www.dr.dk/lyd/p3/musikchefen/musikchefen-2024/musikchefen-nej-det-maa-vaere-en-prank-13332423215</link>
