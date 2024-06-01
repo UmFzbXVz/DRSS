@@ -128,16 +128,17 @@ function displayEpisodes() {
 
   const currentlyPlaying = localStorage.getItem('currentlyPlaying');
 
-  episodesToShow.forEach((episode) => {
+episodesToShow.forEach((episode) => {
     const playingClass = episode.link === currentlyPlaying ? 'playing' : '';
     episodesHTML += `
       <div class="episode ${playingClass}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+        <div class="loading-spinner" style="display: none;"></div>
         <h4 class="episode-title">${episode.title}</h4>
         <p class="pub-date">${episode.pubDate.toLocaleDateString()}</p>
         <p class="episode-description">${episode.description}</p>
       </div>
     `;
-  });
+});
 
   document.getElementById("podcast-info").innerHTML += episodesHTML;
   attachEpisodeClickListeners();
@@ -151,6 +152,8 @@ function attachEpisodeClickListeners() {
       if (!event.target.classList.contains('episode-description')) {
         const episodeUrl = episodeElement.getAttribute('data-url');
         const episodeTitle = episodeElement.getAttribute('data-title');
+        const spinner = episodeElement.querySelector('.loading-spinner');
+        spinner.style.display = "block";
         playEpisode(episodeUrl, episodeTitle);
       }
     });
@@ -251,6 +254,9 @@ function playEpisode(episodeUrl, episodeTitle) {
     audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
     audioPlayer.addEventListener('pause', handlePause);
     audioPlayer.addEventListener('ended', handleEnded);
+    
+    const spinner = document.querySelector(`.episode[data-url='${episodeUrl}'] .loading-spinner`);
+    spinner.style.display = "none";
   }).catch(error => {
     console.error("Error playing episode:", error);
   }).finally(() => {
