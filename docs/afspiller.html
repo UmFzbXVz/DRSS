@@ -329,8 +329,15 @@ function markEpisodeAsFinished(episodeUrl) {
 document.addEventListener("DOMContentLoaded", () => {
   loadPodcast();
 
-  document.getElementById("prev-page").addEventListener('click', () => changePage(-1));
-  document.getElementById("next-page").addEventListener('click', () => changePage(1));
+  document.getElementById("prev-page").addEventListener('click', () => {
+    changePage(-1);
+    window.scrollTo({ top: document.body.scrollHeight});
+  });
+  document.getElementById("next-page").addEventListener('click', () => {
+    changePage(1);
+    window.scrollTo({ top: document.body.scrollHeight});
+  });
+  
   const toggleButton = document.getElementById("toggle-fully-listened");
 toggleButton.innerHTML = localStorage.getItem("filterEpisodes") === "true" ? `<img src="${eyeClosed}" alt="Eye Closed Icon">` : `<img src="${eyeOpen}" alt="Eye Open Icon">`;
 toggleButton.classList.toggle("toggle-fully-listened-filtered", localStorage.getItem("filterEpisodes") === "true");
