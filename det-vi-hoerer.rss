@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:31:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,23 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481862</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-doede-pianisters-klub-12422481862</link>
+      <title>Døde pianisters klub</title>
+      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg lytter til efter fyraften og når jeg har fri.
+Denne gang med ungarske musikere på hjemmebane, gammel barokmusik i ny forklædning og et af de store genier fra "Døde pianisters klub".
+Vært: Jens Cornelius.</description>
+      <pubDate>Sun, 02 Jun 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000180002</itunes:order>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481862/300aedf91a4b63bc417901eeee66ed7d2d5266fdb9e755f667794eca53c7103a.mp3" type="audio/mpeg" length="168482184" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481861</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-hyp-alle-mine-kaepheste-12422481861</link>
@@ -417,22 +434,6 @@ Vært: Benedikte Bové.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381886/88193cbd3fc88e7889da6d6f5f72070ca42e16921a292018f4d1b70711c8bb7f.mp3" type="audio/mpeg" length="165794564" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381885</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-kunsten-at-synge-12422381885</link>
-      <title>Kunsten at synge</title>
-      <description>... også i kor. Jeg elsker vokalmusik! Både selv at medvirke i korværker og lytte til sangere, som kan alt det, jeg ikke kan. Hør bl.a. lidt fra Mendelssohns Elias og Brittens War Requiem og hør også nogle af mine yndlingssangere som Philippe Jaroussky og Michael Spyres. 
-Vært: Benedikte Bové.</description>
-      <pubDate>Fri, 01 Dec 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000110005</itunes:order>
-      <itunes:season>11</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381885/5937da5cb8bc89ff7f8dab64984db7a6a8a33a1b63adbdd272ef648696a32534.mp3" type="audio/mpeg" length="165795147" />
     </item>
   </channel>
 </rss>

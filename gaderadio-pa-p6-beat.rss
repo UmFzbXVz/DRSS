@@ -10,7 +10,7 @@ Vært: Frank Frankie Ziyanak.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:31:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Vært: Frank Frankie Ziyanak.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452434226</guid>
+      <link>https://www.dr.dk/lyd/p6beat/gaderadio/gaderadio-2024/gaderadio-nv-2024-16452434226</link>
+      <title>NV 2024!</title>
+      <description>" ...Jeg skal pille tapet ned!"
+Nord Vest - fuld af forandring! Frida drømmer om latte art, selv når hun er vågen, August øver sig i tapetopløsning, og Dorthe uddanner ungdommen i musiksmag!
+Dét er Gaderadio, og det er meget mere end dét!
+Vært: Frank Frankie Ziyanak.</description>
+      <pubDate>Sat, 01 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452434226/16907adac2cc3f11323805edf0c0cd46a0afd7f4b8ec850aad39f82ae6c520d6.mp3" type="audio/mpeg" length="168482162" />
+    </item>
     <item>
       <guid isPermaLink="false">16452434206</guid>
       <link>https://www.dr.dk/lyd/p6beat/gaderadio/gaderadio-2024/gaderadio-soendre-boulevard-paa-langs-16452434206</link>
@@ -55,20 +70,6 @@ Vært: Frank Frankie Ziyanak.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452434196/08b1852e4b0353ef04263945b960c2fa939a3e8be7cf4774d02724f8987e75a8.mp3" type="audio/mpeg" length="168482179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452434186</guid>
-      <link>https://www.dr.dk/lyd/p6beat/gaderadio/gaderadio-2024/gaderadio-noerrebro-badet-i-sol-16452434186</link>
-      <title>Nørrebro badet i sol!</title>
-      <description>" ...Las Ketchup? - Har aldrig hørt om det!"
-Solstrålerne rækker langt om længe helt ned til jordens overflade, og Frankie besøger sit yndlingshood - næst efter Amager! Vi besøger Nørrebros egen Nanna, der har undgået ketchupsangen - Lars, der fylder 22, og Katrine, der smeder guld og menneskelige relationer! Der er smukt - det er Gaderadio!
-Vært: Frank Frankie Ziyanak.</description>
-      <pubDate>Sat, 04 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452434186/ebf728918cc407291ce9c990e8a66d3cee3d5c1c4a08b9509b59eba4ee1cc2ff.mp3" type="audio/mpeg" length="168482182" />
     </item>
   </channel>
 </rss>

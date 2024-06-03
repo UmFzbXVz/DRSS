@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/alban-alex-og-evigheden" rel="self" type="application/rss+xml" />
+    <title>Alban, Alex og Evigheden</title>
+    <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden-5466745623000</link>
+    <description>Hver uge mødes Alban Lendorff og Alexander McKenzie for at spille musik for hinanden og glemme verdens og hverdagens kaos, bare i to timer. Studiet er deres boble, hvor kun kunsten og evigheden gælder, og du er inviteret med.
+Produceret for DR af MonoMono.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:02 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/alban-alex-og-evigheden.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66598330a7671a3d410404fa.jpg</url>
+      <title>Alban, Alex og Evigheden</title>
+      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden-5466745623000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66598330a7671a3d410404fa.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122423226</guid>
+      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-premiere-16122423226</link>
+      <title>Premiere</title>
+      <description>I premieren på programmet fortæller Alban om sin kærlighed til Romeo &amp; Julie balletten, og Alex fortæller om et stykke af Debussy, der har fulgt ham siden han lærte at spille klaver. Samtalerne handler om også om hvorfor den enkeste musik og den enkleste dans kan være det sværeste at udføre. 
+
+Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
+Producer og redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Sat, 01 Jun 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423226/f419fadaf5ef86fa620d2bf672a1232738d8f3ecc561505987431c2f74932150.mp3" type="audio/mpeg" length="168481612" />
+    </item>
+  </channel>
+</rss>

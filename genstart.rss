@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:28:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,34 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460130</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Hirses Lykkehjul</title>
+      <description>Når lykkehjulet drejer og tavlen lyser op, står hun klar til at afsløre bogstaverne. I takt med at E'er, S'er og O'er vendes, bliver Maria Hirse allemandseje. Hun katapulterer ind i 90'ernes kendisverden - hendes udseende, fremtoning, smil og kærester bliver beskrevet ned til mindste detalje. Men glamouren bliver efterhånden ommøbleret til en noget mørkere tone. Først får hun en betinget dom for hæleri, ulovlig våbenbesiddelse og indbrudsforsøg. Et par år senere to års fængsel for at orkestrere overfald på sin ekskæreste. I dag fortæller Maria Hirse om turen fra solsiden til skyggen.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 30/5.</description>
+      <pubDate>Mon, 03 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:28:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460130/966d8021ea1e9e117f78d4e37571f837565dab5fa4c280665afbbd31cec18f7d.mp3" type="audio/mpeg" length="41664254" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802460129</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Europas MadMax</title>
+      <description>'Vive la vraie Europe!' råber Marine Le Pen ind i mikrofonen og hundredvis af højrefløjsentusiaster bryder ud i jubel. Hun hylder dét Europa, der er lige på den anden side af EU-valget. 'Det rigtige Europa', hvor højrefløjsparlamentarikere, hvis meningsmålingerne holder stik, sidder på hvert fjerde sæde i parlamentet. Men så rammer balladen. Midt i den tidlige fejring kommer Alternative Für Deutshlands spidskandidat Maximilian Krah, også kendt som MadMax, med kontroversielle udtalelser om SS-uniformer. I dagens Genstart fortæller DRs EU-reporter Per Bang Thomsen om den splid, der ligger og ulmer lige under den festlige overflade. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 29/5.</description>
+      <pubDate>Sun, 02 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460129/e5bc49514af997bbe16e6714402ce7fe8992c222ab02d1f572f44c6c26a810b3.mp3" type="audio/mpeg" length="34571392" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460128</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9573,34 +9601,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:24:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150110/8d6d6c6183f2cf930b75e33a7512e5a45c6523763201b99378a58cf491212dbc.mp3" type="audio/mpeg" length="35152009" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150109</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-parfumesaelgerens-doed-11802150109</link>
-      <title>Parfumesælgerens død</title>
-      <description>Han bliver kaldt parfumesælger og overgangsfigur, men ender med at blive den længst siddende statsminister siden krigen. Den konservative kæmpe Poul Schlüter dør 92 år gammel. Hvad var det Schlüter kunne, og hvilket aftryk har han sat i dansk politik?  
-Politisk kommentator Hans Engell var forsvars- og justitsminister under Schlüters regering. Han fortæller om tiden under og efter Schlüter.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 02 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150109/e55e5743ee0ed3dae1119a02d55088c44922fc232c36a58be2f31d3981fa27b3.mp3" type="audio/mpeg" length="37527433" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150108</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-taet-paa-mette-11802150108</link>
-      <title>Tæt på Mette</title>
-      <description>Journalist Anne Sofie Kragh har haft eksklusiv adgang til Statsministeriet - før, under og efter Mette Frederiksens håndtering af corona-krisen. Hun er der som en flue. 
-Når krisen kradser, når drejebogen smuldrer og når statsministeren snerrer. Hvordan er Mette, når kameraerne slukker? Og kan man komme helt tæt på statsministeren uden at blive forblændet? Vi taler med forfatteren bag det nye statsministerportræt.  
-Vært: Knud Brix.</description>
-      <pubDate>Tue, 01 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:31</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150108/3329f3d652856e83a660efa829df14e1761091cdf8c4ca63fe8f407aa8e5b80d.mp3" type="audio/mpeg" length="33872706" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:12 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451101</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-en-rasende-trump-russisk-statsfond-og-blyantspenge-11802451101</link>
+      <title>En rasende Trump, russisk statsfond og blyantspenge</title>
+      <description>Donald Trump kalder sin dom for en smædekampagne og politisk motiveret. Men måske han faktisk kan bruge den til sin fordel. En russisk statsfond omgår europæiske sanktioner og kaster penge ind i påvirkningskampagner, afslører dokumenter. 37 tusinde kroner hver måned får EU-parlamentarikere oven i deres løn. Men der er ingen krav om dokumentation for, hvad de bruges til. 
+Vært: Annika Wetterling.
+Medvirkende:
+Niels Fastrup, journalist DR's undersøgende redaktion.
+Lasse Engelbrecht, journalist DR's udlandsredaktion.</description>
+      <pubDate>Mon, 03 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451101/ff8519a2df53b983b0b5f288439c3096db7cc7f33066e14939fb1ac4900c9668.mp3" type="audio/mpeg" length="24354893" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451100</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-et-grynet-bevis-koreansk-ballondans-og-dagbog-fra-rafah-11802451100</link>
@@ -1945,24 +1961,6 @@ Filip Knaack Kirkegaard, redaktør på Klimamonitor.</description>
       <itunes:duration>00:20:53</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351222/4e09db06f98b15bdd04181e84ffd260dc4611c35dbe895c28d7719845583bdbf.mp3" type="audio/mpeg" length="30095864" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351221</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-klima-klapsalver-en-farlig-snap-ven-og-vaabenhvilens-ofre-11802351221</link>
-      <title>Klima-klapsalver, en farlig Snap-ven og våbenhvilens ofre</title>
-      <description>Allerede på klimatopmødets første dag er der stående klapsalver, da en ny klimafond ser dagens lys. Betyder det, at COP28 faktisk bliver historisk? 
-My AI, Snapchats kunstig intelligente "ven", er ikke sikker at bruge for børn. Det advarer Medierådet for Børn og Unge nu om.
-Våbenhvilen mellem Israel og Hamas er blevet forlænget igen. Men palæstinensere og israelere bliver fortsat dræbt af skud.
-Vært: Annika Wetterling.
-Medvirkende: 
-Steffen Kretz, DR's international korrespondent.
-Christian Skettrup, digital efterforsker ved Njord Law Firm og medvært på podcasten 'Enter'.</description>
-      <pubDate>Fri, 01 Dec 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:51</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351221/c5fa63adff72401c30a7dbaa344ecb5a9b13e9ee0f092903404b153b56baa49d.mp3" type="audio/mpeg" length="24282295" />
     </item>
   </channel>
 </rss>

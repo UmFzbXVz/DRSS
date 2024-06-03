@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -290,20 +290,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424191/94718f336795f865f30128279f81cf4f56ce78f229a517cf8d3df74b69404aa5.mp3" type="audio/mpeg" length="168481588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424185</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-lyden-af-aarhus-18452424185</link>
-      <title>Lyden af Aarhus</title>
-      <description>Vi tager et kig på årets SPOT festival der i år byder på et flot jazzprogram. Blandt andet med tre lokale orkestre der alle kredser omkring den samme sound. Der er også plads til at folde din fredagsboogie ud til det tunge groove og så giver vi et bud på god musik til lytternes weekend.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Fri, 03 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424185/d41de1dbc4f81db5cec7e3becee789e1feb094c5d479a5bf0d2c19d2f63931c5.mp3" type="audio/mpeg" length="168481588" />
     </item>
   </channel>
 </rss>

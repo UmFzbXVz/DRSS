@@ -13,7 +13,7 @@ Produceret af P3 Podcast.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:20 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret af P3 Podcast.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593b93ca838f3bbb329ffa8.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">13332496222</guid>
+      <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-linea-maja-ernst-13332496222</link>
+      <title>Linea Maja Ernst</title>
+      <description>En lytter holder sin kæreste hemmelig for sin religiøse familie, og en anden lytter har glemt sit barns fødselsdag. De hemmeligheder deler lytterne med Sanne Cigale Benmouyal og Linea Maja Ernst, som selv deler en hemmelighed, der fylder hver sommer.</description>
+      <pubDate>Sun, 02 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496222/162e45d6f647e93ea0c0ce863cee76e5bde5058165285faf4a8e87cdb3042015.mp3" type="audio/mpeg" length="83243956" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496221</guid>
       <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-sara-frost-13332496221</link>

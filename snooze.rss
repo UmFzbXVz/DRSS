@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:27:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -375,24 +375,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428191/253526fcbd95bfd4a57fb8df9c68200b6956b7b00c174132f8350963d0320f29.mp3" type="audio/mpeg" length="252001617" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428185</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-spot-festival-18452428185</link>
-      <title>SPOT Festival</title>
-      <description>Danmarks største og fedeste festival for upcoming artister bliver skudt i gang i dag i Aarhus, når SPOT festival forvandler Smilets By til et virvar af mennesker og toner. Der er masser af jazz på programmet, og det kigger vi på i denne morgens Snooze.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende: Maria Fritzel, praktikant på P8.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Fri, 03 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428185/69e775fa4b48c227fb7706416892d75188e33a3862d08e40e1758813a864973f.mp3" type="audio/mpeg" length="252002178" />
     </item>
   </channel>
 </rss>

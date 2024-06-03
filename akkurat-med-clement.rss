@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,17 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:664de93b8445d7d25e7420d4.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11162451227</guid>
+      <link>https://www.dr.dk/lyd/p1/akkurat-med-clement/akkurat-med-clement-2024/akkurat-med-clement-11162451227</link>
+      <title>Søndag 2. jun. 2024</title>
+      <description>Hvad er ugens vigtigste nyheder - og hvorfor? En række aktuelle gæster diskuterer nyhedsbilledet i ind- og udland med Clement Kjersgaard.</description>
+      <pubDate>Sun, 02 Jun 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162451227/a1e5696af616d84427fc17e402353be77b3932d326c984390ad7e42b4ca83c3e.mp3" type="audio/mpeg" length="151202054" />
+    </item>
     <item>
       <guid isPermaLink="false">11162451177</guid>
       <link>https://www.dr.dk/lyd/p1/akkurat-med-clement/akkurat-med-clement-2024/politikerne-overdriver-truslen-fra-rusland-11162451177</link>
@@ -151,8 +162,8 @@ Vært: Clement Kjersgaard.</description>
       <pubDate>Sun, 21 Jan 2024 12:15:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:42:18</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162451037/13b1601e8793a7675b8e9aee337472e641ed037808ad844eaa3bdd438ed996f5.mp3" type="audio/mpeg" length="147324550" />
+      <itunes:duration>01:45:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162451037/fe5737067167f4646eba81f07a5d27ebeca9ff9670010a6a039b6ade45fc2f76.mp3" type="audio/mpeg" length="151201606" />
     </item>
     <item>
       <guid isPermaLink="false">11162451027</guid>

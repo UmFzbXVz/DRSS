@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,26 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400014</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-jakob-engel-schmidt-og-mikkeline-thomsen-15452400014</link>
+      <title>Jakob Engel-Schmidt &amp; Mikkeline Thomsen</title>
+      <description>Mikkeline er en rigtig H-girl. Det er - som bogstavets to rette sider - en person, der kan stå selv. For hende er det en frygt at blive en A-girl, der er nødt til at læne sig op ad en anden for at kunne være oprejst. Men hendes insisteren på selvstændighed kan være en udfordring, fordi Mikkeline ender med at lade en indre isvind trække hende op på et fjeld i stedet for at kommunikere sine behov. Men hvordan bliver man stående i konflikten, når man føler, at man ligeså godt kan æde sine behov og tage dem med hen på et nyt fjeld?
+Jakob er lige blevet far, og siden da har skænderierne, som par jo har, ændret karakter. De to meget politiske forældre er på en måde begyndt at tage deres arbejde med hjem. Når de skændes er det nemlig som om, de altid skal have ret begge to. Den dialog, der før var konstruktiv er nu mere udfordret. Så hvordan sørger man for at holde fast i det konstruktive og minimere paneldebatten? Og vinder man egentlig overhovedet, når ens kæreste taber i et skænderi?
+Vi taler også om, hvordan man lader skrøbeligheden sætte sig bag rattet, hvordan man bruger døden som rådgiver og så taler vi om at se sit forhold som et spil RISK
+Gæster: Jakob Engel-Schmidt &amp; Mikkeline Thomsen 
+Ekspert: Jytte Vikkelsøe. 
+Vært: Sebastian Lynggaard.  
+Producer: Cæcilie Helena Denman-Gretoft. 
+Musik: "Hold up" Beyonce. 
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 03 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:17:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400014/4a8accde0b0e52d210ea03d6e4465e8652e045c7d2353b1e3a3f2ebbc4cdaed7.mp3" type="audio/mpeg" length="112202361" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400013</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-anna-tychsen-og-anders-haahr-15452400013</link>
@@ -2019,22 +2039,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>00:47:11</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195323/d5bf81dc6f90b7d4319e194a429c4488ec2ba0f8f6124b92febc4cbd0ca2a4b1.mp3" type="audio/mpeg" length="67967289" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195322</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hjerteflimmer-for-voksne-faustix-og-elisa-lykke-13332195322</link>
-      <title>Faustix &amp; Elisa Lykke</title>
-      <description>Elisa spørger, om det er hende, der er for krævende, når hun dater? Faustix er her under corona gået all in på at være hjemmegående far, der henter børn, laver mad, bygger drivhus og går i joggingtøj, men nu er han blevet i tvivl, om hans kone faktisk synes, det er virkelig utiltrækkende og kedeligt?
-Medvirkende: PR-agent Elisa Lykke, musikproducer Faustix og parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 02 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:14:33</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195322/f65802faf45302df1a99f8eec916bc3c91e9fd8bee52e35806d99dd67281b819.mp3" type="audio/mpeg" length="107370477" />
     </item>
   </channel>
 </rss>

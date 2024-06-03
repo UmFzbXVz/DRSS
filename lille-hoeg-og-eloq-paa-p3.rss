@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:31:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122434226</guid>
+      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-16122434226</link>
+      <title>Lørdag 1. jun. 2024</title>
+      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
+Produceret for DR af Chloroform.</description>
+      <pubDate>Sat, 01 Jun 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434226/99923afc8727f0d2d8156af49b5dff0ddc48be9b4e998c5fdb11a59566834707.mp3" type="audio/mpeg" length="172801579" />
+    </item>
     <item>
       <guid isPermaLink="false">16122434216</guid>
       <link>https://www.dr.dk/lyd/p3/flex/flex/flex-ung-dj-flexmorder-og-main-phase-16122434216</link>
@@ -63,19 +76,6 @@ Produceret for DR af Chloroform.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434196/e85b1b17bbf7a86fc174f54ee36a605caf9b33fddcc26b64042697aa685aeab5.mp3" type="audio/mpeg" length="172802180" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122434186</guid>
-      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-where-s-my-monkey-16122434186</link>
-      <title>Where's my monkey?!</title>
-      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
-Produceret for DR af Chloroform.</description>
-      <pubDate>Sat, 04 May 2024 20:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434186/d05b2931fd6d52c77967519e42fab32bccc674d0d96f3b50b6da01fe21c14ba4.mp3" type="audio/mpeg" length="172802173" />
     </item>
   </channel>
 </rss>

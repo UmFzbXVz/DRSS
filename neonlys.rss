@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:31:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -84,19 +84,6 @@
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418187/aced16267ba82c96e33f6ebc9b2c84a470d7b94a0fc8957802918605cfa02d82.mp3" type="audio/mpeg" length="172802153" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418186</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-ice-ice-baby-og-hiphopfest-13332418186</link>
-      <title>Ice, ice baby og hiphopfest</title>
-      <description>Icekiid er P3's Uundgåelige med ny musik og har været lyden til sol og sommer i mange år. Vi genbesøger nogle gamle hits, såvel som nye!
-Desuden er lørdagsstemningen fuldstændig i højsæde, og Alida har nogle bouncy hiphopbangers klar til din weekend.</description>
-      <pubDate>Sat, 04 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418186/5cdc91f59f411d4e1b48965e05eed0b656e3a86c6cc1df0177d2eaaa68b3857a.mp3" type="audio/mpeg" length="172801607" />
     </item>
   </channel>
 </rss>

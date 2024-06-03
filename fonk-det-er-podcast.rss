@@ -9,7 +9,7 @@ Værter: Henrik Milling &amp; Nicolai Molbech.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:15 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Værter: Henrik Milling &amp; Nicolai Molbech.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122446622</guid>
+      <link>https://www.dr.dk/lyd/p4/fonk-det-er-podcast/fonk-det-er-podcast-2024/fonk-det-er-podcast-16122446622</link>
+      <title>Lørdag 1. jun. 2024</title>
+      <description>Gør dig klar til en fest med masser af funk og disco. Advarsel: Du kan risikere at blive afsindig glad i låget.
+Værter: Henrik Milling &amp; Nicolai Molbech.</description>
+      <pubDate>Sat, 01 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122446622/5a14c0a367e00f7e54d18b245324e1f0a4db2232fdcdfa8c318bea4d0db01945.mp3" type="audio/mpeg" length="166079560" />
+    </item>
     <item>
       <guid isPermaLink="false">16122446620</guid>
       <link>https://www.dr.dk/lyd/p4/fonk-det-er-podcast/fonk-det-er-podcast-2024/fonk-det-er-podcast-16122446620</link>
@@ -337,19 +350,6 @@ Værter: Henrik Milling &amp; Nicolai Molbech.</description>
       <itunes:duration>01:53:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122346641/1c2157bf9c4923cac07108ce1e0b65977caeeef3ec5501e02a9262ffa6c6f635.mp3" type="audio/mpeg" length="163148872" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122346640</guid>
-      <link>https://www.dr.dk/lyd/p4/fonk-det-er-podcast/fonk-det-er-podcast-2023/fonk-det-er-podcast-16122346640</link>
-      <title>Lørdag 2. dec. 2023</title>
-      <description>Gør dig klar til en fest med masser af funk og disco. Advarsel: Du kan risikere at blive afsindig glad i låget.
-Værter: Henrik Milling &amp; Nicolai Molbech.</description>
-      <pubDate>Sat, 02 Dec 2023 00:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:54:35</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122346640/f0ab0269645acab537812f24527f340d150c9ef4500bc86a5f81fb8676e14d40.mp3" type="audio/mpeg" length="165008776" />
     </item>
   </channel>
 </rss>

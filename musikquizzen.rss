@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Kenneth K.</description>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122448122</guid>
+      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-podcast-16122448122</link>
+      <title>Søndag 2. jun. 2024</title>
+      <description>Danmarks mest musikalske quiz.
+Vært: Kenneth K.</description>
+      <pubDate>Sun, 02 Jun 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448122/2864d3235703e068ff6976568ed74f614d3063c6661ad2e187b4db61ff698a7d.mp3" type="audio/mpeg" length="82392415" />
+    </item>
     <item>
       <guid isPermaLink="false">16122448121</guid>
       <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-kan-du-gaette-hits-paa-1-ord-16122448121</link>

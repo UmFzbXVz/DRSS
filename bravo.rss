@@ -9,7 +9,7 @@ Lyt med, når hun deler ud af operaens store følelser, operahits og sjove histo
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:31:43 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@ Lyt med, når hun deler ud af operaens store følelser, operahits og sjove histo
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422437226</guid>
+      <link>https://www.dr.dk/lyd/p2/bravo-med-lotte-heise/bravo-med-lotte-heise-2024/bravo-med-lotte-heise-12422437226</link>
+      <title>Lørdag 1. jun. 2024</title>
+      <description>Tager dig både med til Wiener Staatsoper, en tur ud i det danske sommerland og et smut til Tivoli.
+Her er alt fra Wagner over Verdi til Mozart og Schubert.
+Vært: Lotte Heise.</description>
+      <pubDate>Sat, 01 Jun 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:17:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422437226/03a60f56b276e4af266e043e7cf5964fdf7839ca45b34f1c44682f991cfaf4c8.mp3" type="audio/mpeg" length="110881518" />
+    </item>
     <item>
       <guid isPermaLink="false">12422437216</guid>
       <link>https://www.dr.dk/lyd/p2/bravo-med-lotte-heise/bravo-med-lotte-heise-2024/bravo-med-lotte-heise-12422437216</link>
@@ -70,21 +84,6 @@ Vært: Lotte Heise.</description>
       <itunes:duration>01:17:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422437196/3e1241d1bc589eb36a8b7677d1c3d7d83a9c3502ae1542ed48d4c76cda98affe.mp3" type="audio/mpeg" length="110882179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422437186</guid>
-      <link>https://www.dr.dk/lyd/p2/bravo-med-lotte-heise/bravo-med-lotte-heise-2024/bravo-med-lotte-heise-12422437186</link>
-      <title>Lørdag 4. maj 2024</title>
-      <description>Tager dig både en tur til Espana og napper en stak Lytterønsker mere.
-Her er kig til Manuel de Falla´s uhyggelige opera La Vida Breve, et smukt mellemspil fra ham Nætter i spanske haver og her er også et lyt til La Magic Opal Suite af Isaac Albinez.
-Og Lytterønskerne spænder bla. fra "Che faro senza Euridice", Orfeus &amp; Euridice, over "Mon Coeur s´ouvre a ta voix", Samson &amp; Dahlia til "Morgenlich leuchtend in rosigem Schein", Die Meistersinger.
-Vært: Lotte Heise.</description>
-      <pubDate>Sat, 04 May 2024 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:17:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422437186/f465a1a2ea8671090a4cbbf12a4142559949afdfe729d4fe33467459bf990f50.mp3" type="audio/mpeg" length="110881600" />
     </item>
   </channel>
 </rss>

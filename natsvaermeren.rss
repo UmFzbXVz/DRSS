@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:16 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463226</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-orkestret-i-natten-12422463226</link>
+      <title>Orkestret i natten</title>
+      <description>Det starter og slutter med smukke nattetoner af pakistansk-amerikansk herkomst og derimellem er der blandt andet musik fra DR-serien Orkestret og romantiske toner fra en ikonisk gangsterfilm. Peter Albrechtsen er vidtfavnende vært i denne episode af Natsværmeren.</description>
+      <pubDate>Sun, 02 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463226/03c0cb627cac3e4d9307aea3d529922bdcc6c0373f5d59fca463e1d3ef510d4c.mp3" type="audio/mpeg" length="168481607" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463224</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-soiree-12422463224</link>
@@ -234,18 +246,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463186/7a00aa5df76deaf773ababa377f72f35c450ad459f4a085d72c11b4262dc3a27.mp3" type="audio/mpeg" length="168564461" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463184</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sorthvide-lydboelger-12422463184</link>
-      <title>Sorthvide lydbølger</title>
-      <description>Satie, Beethoven, nordisk folkemusik, farverig musik til en sort-hvid historie og symfoniorkester der spiller duet med skvulpende havlyde. Ørerne kommer vidt omkring i denne udgave af Natsværmeren med vært Peter Albrechtsen.</description>
-      <pubDate>Fri, 03 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463184/fb56d0c568655a7e67a76577c5713541e0a192a82a3fdb6a82a1c36fd9ada526.mp3" type="audio/mpeg" length="168477545" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463086</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-komma-i-natten-12422463086</link>
       <title>Et komma i natten</title>
@@ -255,9 +255,9 @@ Vært: Minna Grooss.
       <pubDate>Sun, 25 Feb 2024 03:03:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
+      <itunes:duration>01:45:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463086/2b2c65f9c1884f391aa89403dd32cbda88de6560b751fa5e44b3a1cb55099596.mp3" type="audio/mpeg" length="168472388" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463086/a504391402accaa0d331fa6fd1acaf5357a93337cf1ddc667c95e5a89d62b029.mp3" type="audio/mpeg" length="151201604" />
     </item>
     <item>
       <guid isPermaLink="false">12422463084</guid>
@@ -358,20 +358,6 @@ Vært: Katrine Ring.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363221/afb89c022607031cfed6c90a1b7bd4ab954a9d747b946e98c6af5afc94ec4dec.mp3" type="audio/mpeg" length="172801509" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363217</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-aftenland-12422363217</link>
-      <title>Aftenland</title>
-      <description>Landskaber i det dunkle aftenlys hvor lyde bliver højere når synet svækkes. Var det uglen der tudede, og hvem tilhører øjnene i skovens mørke mellem træstammerne.
-Vært: Tina Rømer.
-(Sendt første gang 29. maj 2023).</description>
-      <pubDate>Mon, 29 May 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:56</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363217/9a0d3ce327b87bd5f0fb45b083e62d058b2837b85a935ca5a52e020c95caf5a3.mp3" type="audio/mpeg" length="168398622" />
     </item>
     <item>
       <guid isPermaLink="false">12422363201</guid>

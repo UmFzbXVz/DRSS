@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:31:51 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452434226</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-60-er-og-70-er-sange-18452434226</link>
+      <title>60'er og 70'er sange</title>
+      <description>I dag skal vi tilbage i tiden, mere præcist til 60'erne og 70'erne. To årtier der efter min mening bød på et kæmpe repertoire af vidunderlige sange og ikke mindst en fantastisk æstetik. Der er noget med lyden af 60'erne og 70'erne, der kan noget helt særligt, ikke mindst når man lytter til vokalmusik - masser af rumklang, flotte stryger- og korarrangementer og autentiske optagelser.
+Vært og tilrettelægger: Josephine Philip.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 01 Jun 2024 13:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434226/299f74973efb53a7abb3db6e5404fe8b929e27625f7f098406cd71defe6c8dc1.mp3" type="audio/mpeg" length="82081609" />
+    </item>
     <item>
       <guid isPermaLink="false">18452434216</guid>
       <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-sommeren-kommer-18452434216</link>
@@ -68,21 +82,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434196/4a858d077aa1eda2db82e2acbfa99acf7f6ac0b08a68cf2450588c29df42db5e.mp3" type="audio/mpeg" length="82081609" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452434186</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-cover-sange-18452434186</link>
-      <title>Cover sange</title>
-      <description>I dag skal lytte til coversange. Jeg har fundet alt frem fra Aretha Franklin der synger Beatles, til Nina Simone der synger Leonard Cohen til Frank Ocean der fortolker en klassisk jazz ballade.
-Fantastiske sange og vidunderlige stemmer. 
-Vært og tilrettelægger: Josephine Philip.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 04 May 2024 13:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434186/727a60f87b8f05d8a00443aa67942fa53d8c54b32bfa598b8aebaed21e9de7d9.mp3" type="audio/mpeg" length="82082178" />
     </item>
   </channel>
 </rss>

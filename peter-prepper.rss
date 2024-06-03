@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493204</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-angreb-fra-cyberspace-16122493204</link>
+      <title>Angreb fra cyberspace</title>
+      <description>Peter Falktoft får besøg af it-ekspert og white hat hacker Martin Kofod. Truslen om et omfattende hacking-angreb, der kan lamme Danmark, er helt øverst, når man måler danskernes bekrymring. Det er, i følge dagen gæst, fuldt forståeligt. Men hvem står bag disse koordinerede angreb? Hvor rustede er vi til at modstå dem på nationalt plan? Og hvordan prepper man mod hacking som privatperson?
+Gæst: Martin Kofod.
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 03 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:47:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493204/aa864b96280e9d1a5443854d9e4c724f72d045ac298d8389925484bfff82d124.mp3" type="audio/mpeg" length="68328445" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493203</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-hvorfor-prepper-jeg-prepping-og-psyken-16122493203</link>

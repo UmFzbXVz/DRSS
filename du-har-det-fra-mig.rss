@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:31:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452436226</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-18452436226</link>
+      <title>Lørdag 1. jun. 2024</title>
+      <description>Kender du det at få anbefalet musik fra nogen, du slet ikke kan slippe igen? Jeg stikker hånden i samlingen og rammer dig med alt det bedste fra udødelige mestre, nye fængende tracks og hemmelige glemte perler. Og du må gerne sige du har det fra mig!
+Vært og tilrettelægger: Naya Buric.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 01 Jun 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436226/ebebccb104f6b779469521cfa8c505445b0ea8106d3036ecd0a32458b90cb058.mp3" type="audio/mpeg" length="168482174" />
+    </item>
     <item>
       <guid isPermaLink="false">18452436216</guid>
       <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-dagdroem-og-solskin-18452436216</link>
@@ -68,20 +82,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436196/b8ba9bc79b1bb346e9fa415747c86c6a751903077e976c60c2ce5acbbc0624a2.mp3" type="audio/mpeg" length="168481609" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452436186</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/varm-musik-til-foraaret-18452436186</link>
-      <title>Varm musik til foråret</title>
-      <description>Cesaria Evora tager dig med til Cap Verde, støvet cumbia sætter ild under dansegulvet og en gruppe musikere fra ørkenen spiller en rammende sjæler.
-Vært og tilrettelægger: Naya Buric.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 04 May 2024 16:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436186/7b387bfb1ab4ae505d5ea1f0cfbcc7a32bcea49a08dd7c4322656e0cb3ba6ecc.mp3" type="audio/mpeg" length="168481598" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Produceret for DR af ECOSOVIC.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:24:12 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:27:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,32 @@ Produceret for DR af ECOSOVIC.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122432227</guid>
+      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432227</link>
+      <title>Søndag 2. jun. 2024</title>
+      <description>I Popdatering Weekend præsenterer Morten Nabild dig for den bedste, nye popmusik og tager dig med på en tur op og ned ad hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.
+Produceret for DR af ECOSOVIC.</description>
+      <pubDate>Sun, 02 Jun 2024 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432227/aade509b9c1b4076f283a5b419ddb9da7f480b01169c883fbace272b37989ab3.mp3" type="audio/mpeg" length="172802145" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122432226</guid>
+      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432226</link>
+      <title>Lørdag 1. jun. 2024</title>
+      <description>I Popdatering Weekend præsenterer Morten Nabild dig for den bedste, nye popmusik og tager dig med på en tur op og ned ad hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.
+Produceret for DR af ECOSOVIC.</description>
+      <pubDate>Sat, 01 Jun 2024 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432226/d9c4bdf1aed587b49047dca36a537de7ef303dfa3c4a2cf66c7a73cd20e23540.mp3" type="audio/mpeg" length="172801569" />
+    </item>
     <item>
       <guid isPermaLink="false">16122432217</guid>
       <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432217</link>
@@ -116,19 +142,6 @@ Produceret for DR af ECOSOVIC.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432187/63b6c05889b1fd7d2a78a366b74dd5a42389d30034307557dae7f9ab0a5cc9f2.mp3" type="audio/mpeg" length="172801567" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122432186</guid>
-      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432186</link>
-      <title>Lørdag 4. maj 2024</title>
-      <description>I Popdatering Weekend præsenterer Ena Cosovic dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.
-Produceret for DR af ECOSOVIC.</description>
-      <pubDate>Sat, 04 May 2024 12:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432186/9f9b4f3e017f1c60c5858700b01891572468357563f16d8737112a30991a762b.mp3" type="audio/mpeg" length="172801567" />
     </item>
   </channel>
 </rss>

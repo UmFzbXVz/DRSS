@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450110</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tausons-gennembrud-og-rune-tilbage-paa-den-store-scene-13652450110</link>
+      <title>Tausons gennembrud og Rune tilbage på den store scene</title>
+      <description>Det blev til et exit i fjerde runde ved French Open for Clara Tauson, der undervejs imponerede med flot spil. Efter nederlaget til Ons Jabeur søndag var det dog skuffelsen, der fyldte mest. Men Tauson kan trods alt tage en masse med fra årets turnering.
+
+Holger Rune er stadig med, og hans aftenkamp mandag bliver på den helt store scene, nemlig Court Philippe Chatrier. Og det er da heller ikke hvem som helst, han møder. Han skal nemlig forsøge at bide skeer med Alexander Zverev, der er seedet som nummer fire i turneringen. 
+Vært: Emil Schiønning</description>
+      <pubDate>Mon, 03 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450110/2a66696f3cab126ed9cd7ce7bf4b97dfac7b7eb629face61e05d8c9431c97fa6.mp3" type="audio/mpeg" length="23542135" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450109</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-toptennis-i-regnen-og-mission-final4-13652450109</link>
@@ -1903,20 +1918,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:06</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350234/215d4ab0f81b0b247e52d1d26502faaf3e5bf67d54130d423123bd96295d937d.mp3" type="audio/mpeg" length="21769208" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350233</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-den-store-vm-optakt-13652350233</link>
-      <title>Den store VM-optakt</title>
-      <description>Kan Danmark virkelig vinde guld? Er Sandra Toft den vigtigste spiller på landsholdet? Og kan det hele være ligegyldigt at diskutere, fordi Norge alligevel vinder igen?
-Dagens Tyvstart bager op til et brag af et håndbold-VM, der i løbet af december bliver spillet på hjemmebane. Den tidligere landsholdsspiller Lotte Griegel svarer på de vigtigste spørgsmål, inden det hele begynder i Boxen. 
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:19:04</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350233/132971cdbff996cb32b852aa0b0f74f1b4c70aec4f93ea55fb321e1fe0d432ff.mp3" type="audio/mpeg" length="27475638" />
     </item>
   </channel>
 </rss>

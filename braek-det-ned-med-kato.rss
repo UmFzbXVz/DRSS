@@ -9,7 +9,7 @@ Produceret for DR af Kato Music ApS.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:31:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -51,19 +51,6 @@ Produceret for DR af Kato Music ApS.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122330849/d5a5db31e499dc57fb5d6a3a47d533e1a9a5b36d4254abca6b6b2308fafa8d51.mp3" type="audio/mpeg" length="172994448" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122330848</guid>
-      <link>https://www.dr.dk/lyd/p3/braek-det-ned-med-kato/braek-det-ned-med-kato-2023/braek-det-ned-med-kato-16122330848</link>
-      <title>Fredag 1. dec. 2023</title>
-      <description>Kato brækker ugen ned og sparker weekenden i gang. Han mixer alt det bedste live fra sit studie i Aarhus.
-Produceret for DR af Kato Music ApS.</description>
-      <pubDate>Fri, 01 Dec 2023 16:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122330848/c240f7edab6bc89635ce4eb802c73b34b401247d9d201a71a9438dcbb6088aea.mp3" type="audio/mpeg" length="172994448" />
     </item>
   </channel>
 </rss>

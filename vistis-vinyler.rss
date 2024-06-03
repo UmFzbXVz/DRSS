@@ -10,7 +10,7 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 01 Jun 2024 11:32:11 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 06:29:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,19 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122481226</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-ghanesisk-udflytter-funk-16122481226</link>
+      <title>Ghanesisk udflytter-funk</title>
+      <description>Jeps, titlen siger dig med al sandsynlighed ikke en skid.
+Men faktisk er der en mening med idiotien, for i denne uge skal vi nærmest udelukkende høre ghanesiske musikere, som har bosat sig til vestlige lande. Og det giver en sjælden kombination af totalt frie og velsvingende vibes og grooves blandet op med vestens hyper moderne indspilningstekniker. Det vil sige at plader som med al sandsynlighed ville have været indspillet helt low-fi endte med at blive hi-fi.</description>
+      <pubDate>Sat, 01 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:54:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122481226/31f55e90e976f7e3b8ade58c8a7c927bb5a793f225b6e819afc8113bdab013c2.mp3" type="audio/mpeg" length="164245130" />
+    </item>
     <item>
       <guid isPermaLink="false">16122481216</guid>
       <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-tandsmoer-og-brasiliansk-gospel-16122481216</link>
