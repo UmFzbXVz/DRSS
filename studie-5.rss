@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 11:38:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 18:34:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429232</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-the-beatles-i-danmark-15452429232</link>
+      <title>The Beatles I Danmark</title>
+      <description>Det er 60 år siden The Beatles gav to koncerter i K.B Hallen i København.
+Jørgen Krabbenhøft var forsanger i The Hitmakers som spillede opvarmning før Beatles gik på scenen.
+Hør hvordan The Hitmakers kom til at spille The Beatles nyeste udgivelse FØR The Beatles.
+Niels Harrild , Vært for podcasten "Vi elsker Beatles" fortæller hvorfor koncerten med The Beatles den 4 juni 1964 er historisk
+Vært: Rasmus Scharling Toft</description>
+      <pubDate>Tue, 04 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429232/c11ad76f4d860f2c0e8107f3ed66555e6fe13f76b66958742747c1e00b8e003a.mp3" type="audio/mpeg" length="168481617" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429231</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429231</link>

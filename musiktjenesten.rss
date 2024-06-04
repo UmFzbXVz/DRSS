@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 11:37:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 18:34:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452428232</guid>
+      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten-2024/musiktjenesten-16452428232</link>
+      <title>Tirsdag 4. jun. 2024</title>
+      <description>Musiktjenesten giver dig dagens bedste musikhistorier og gør din eftermiddag hyggelig og sjov - og selvfølgelig fuld af god musik! Vi tester din musikalske viden i quizzer og finder de bedste sange inden for forskellige temaer sammen med dig. Velkommen indenfor!</description>
+      <pubDate>Tue, 04 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428232/b69fa1b66e036bd445fb453310963d8449b1efe21059e3c2702a2d617846a0d3.mp3" type="audio/mpeg" length="168481592" />
+    </item>
     <item>
       <guid isPermaLink="false">16452428231</guid>
       <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten-2024/musiktjenesten-16452428231</link>
