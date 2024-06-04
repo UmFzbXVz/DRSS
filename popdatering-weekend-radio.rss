@@ -9,7 +9,7 @@ Produceret for DR af ECOSOVIC.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:27:30 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:24:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,10 +28,9 @@ Produceret for DR af ECOSOVIC.</description>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
       <guid isPermaLink="false">16122432227</guid>
-      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432227</link>
-      <title>Søndag 2. jun. 2024</title>
-      <description>I Popdatering Weekend præsenterer Morten Nabild dig for den bedste, nye popmusik og tager dig med på en tur op og ned ad hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.
-Produceret for DR af ECOSOVIC.</description>
+      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-non-stop-musik-16122432227</link>
+      <title>Non-stop musik</title>
+      <description>Produceret for DR af ECOSOVIC.</description>
       <pubDate>Sun, 02 Jun 2024 12:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -129,19 +128,6 @@ Produceret for DR af ECOSOVIC.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432196/125be2318c87199a10307c2513ed71cbe0c00695d1bd9edc42b7a29946666e4d.mp3" type="audio/mpeg" length="172801567" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122432187</guid>
-      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432187</link>
-      <title>Søndag 5. maj 2024</title>
-      <description>I Popdatering Weekend præsenterer Ena Cosovic dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.
-Produceret for DR af ECOSOVIC.</description>
-      <pubDate>Sun, 05 May 2024 12:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432187/63b6c05889b1fd7d2a78a366b74dd5a42389d30034307557dae7f9ab0a5cc9f2.mp3" type="audio/mpeg" length="172801567" />
     </item>
   </channel>
 </rss>

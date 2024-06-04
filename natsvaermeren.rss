@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:29:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:38:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463231</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-drama-og-skoenhed-12422463231</link>
+      <title>Drama og skønhed</title>
+      <description>Aftenens udgave af Natsværmeren byder på både smukke klassiske toner fra blandt andet Henryk Górecki og dramatiske filmiske toner af John Barry og Alexandre Desplat. Vært er Peter Albrechtsen.</description>
+      <pubDate>Tue, 04 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463231/e82359820cedc5e5ebc054f857b6b9c090ed78dbac937dd699364ecd9888c20b.mp3" type="audio/mpeg" length="168482125" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463226</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-orkestret-i-natten-12422463226</link>
@@ -231,19 +243,6 @@ Vært: Peter Albrechtsen.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463187/85575a90354bece86bde95241f0b8ba7b126bbf38eefe62efa32096e686ac7eb.mp3" type="audio/mpeg" length="168479877" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463186</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-om-kaerlighed-og-doed-12422463186</link>
-      <title>Om kærlighed og død</title>
-      <description>En filmscene fra filmen, Faidra med et soundtrack Miki Theodorakis sætter scenen i aftens Natsværmer. En græsk tragedie i mange afskygninger.
-Vært: Minna Grooss.</description>
-      <pubDate>Sun, 05 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463186/7a00aa5df76deaf773ababa377f72f35c450ad459f4a085d72c11b4262dc3a27.mp3" type="audio/mpeg" length="168564461" />
     </item>
     <item>
       <guid isPermaLink="false">12422463086</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:29:30 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:38:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,36 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410232</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410232</link>
+      <title>Tirsdag 4. jun. 2024</title>
+      <description>- fokuserer på de ting, der betyder noget for dig, dit liv og din hverdag.
+Stå op med Liva Manghezi og Andreas Kousholt, som sender dig både opløftet og oplyst ud i dagen.</description>
+      <pubDate>Tue, 04 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410232/ae94a39c7f90019a6959223ca0590eb230f79507c412fdb4297f236fd81ac99e.mp3" type="audio/mpeg" length="254881506" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332410231</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410231</link>
+      <title>Mandag 3. jun. 2024</title>
+      <description>Andreas er i et toksisk forhold med vejrtjenesterne, så han har kontaktet zoo og fået hjælp fra deres abe.
+Han har også lavet en kandidattest, der på MEGET kort tid kan fortælle dig, hvad du skal stemme.
+Vi skal have faktisk have en del af jer ned at stemme den her uge, for der er straffe til alle værterne, hvis I rammer x antal tusinde, der vil stemme.
+Værter: Mikkel Rosendal og Andreas Kousholt.
+Medvirkende:
+Rosa Bendsen, ser serier i badet.</description>
+      <pubDate>Mon, 03 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410231/b406f1ef2f72772b70150e9c82f5f5e5160dd55a2969bd22c4ca32b6b668c154.mp3" type="audio/mpeg" length="254881591" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410225</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410225</link>
@@ -50,23 +80,6 @@ Lotte Ymer, Rikke Yndal og Suzanne Madsen, medarbejdere i Circle K.</description
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410225/c32b65f0741eeeabfbf58dafffed0245861a35be2cb8f3612ed6afe8fdd9c612.mp3" type="audio/mpeg" length="254881522" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410224</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410224</link>
-      <title>Torsdag 30. maj 2024</title>
-      <description>Det går helt i hundene i dag. Der bliver holdt Distortion... for hunde? Vi spørger DJ'en, som skal spille, hvilket musik man får hunde til at gå amok til. Og så er Liva også hoppet i musikhjørnet. Hun har fundet en meget specifik linje i en sang, som simpelthen sidder fast.
-Hvor stor er en håndfuld? Vi må nemlig kun spise fem håndfulde slik om ugen nu, siger fødevarestyrelsen. Så vi tester hvilket slik, der er bedst i en håndfuld. Vi skal fandme ikke snydes for slik! Og så fortsætter vores mission med at promovere vores nye sang med Lidt til Lægterne.
-Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
-Medvirkende: 
-Joachim Schiødt, DJ i HEJLEIF.
-Mathias Buch, musikchef på P3.</description>
-      <pubDate>Thu, 30 May 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410224/2db54c3396b64c081701c65ff576dcb5e4936ae884562a2f4b8d47695416c2d3.mp3" type="audio/mpeg" length="254882098" />
     </item>
   </channel>
 </rss>

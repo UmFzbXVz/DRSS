@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:28:48 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:38:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,18 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436622</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-i-godt-selskab-med-jung-og-war-on-drugs-16452436622</link>
+      <title>I godt selskab med Jung og War on Drugs</title>
+      <description>Jeg har besøg af de 3 dejlige gutter fra Jung, og sammen læner vi os godt og grundigt ned i den ægte farrock af den tilbagelænede slags, hvor man virkelig bliver suget ind i nogle u-undskyldende lange numre sammen War on Drugs. Det er altså noget, der virker!</description>
+      <pubDate>Sun, 02 Jun 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:03:33</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436622/f0cd7ccdac6e981de599225826dd077270d3115a101dcd1714a79f3f6e2967a5.mp3" type="audio/mpeg" length="91520507" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436621</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-jacob-bellens-og-topgunn-og-good-times-16452436621</link>
@@ -283,18 +295,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>00:59:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354642/05eb87d955b17e60518842a4e1c0a501504d2ddb02741337bd6e7d6a281d0fbe.mp3" type="audio/mpeg" length="85545655" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354641</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-bandet-nyredolk-med-slipknot-og-korn-i-bagagen-16452354641</link>
-      <title>Bandet Nyredolk med Slipknot og koRn i bagagen</title>
-      <description>Jeg glæder mig til du skal lytte på denne udsendelse med bandet Nyredolk. Deres identitet er hemmelig, men det er deres følelser og energi bestemt ikke! Jeg mødte dem til en snak om både at være fuldstændig ustyrlige voldsomme, men også om sårbarhed og ømhed inde bag masker, voldsomme skrig og læderjakker. Alt sammen til tonerne af de "forbudte" nu-metal-bands koRn og Slipknot.</description>
-      <pubDate>Sun, 03 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:04:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354641/321baacf16bf755e8a8b5bf23004128ceadeb1540664f83ad950230f9c20ffd7.mp3" type="audio/mpeg" length="92333249" />
     </item>
   </channel>
 </rss>

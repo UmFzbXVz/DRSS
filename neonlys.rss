@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:29:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:38:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -72,18 +72,6 @@
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418196/19be13dacdca7711f51072c8dc39432793ea5abb4b5a4ebc781d23aa1c943d84.mp3" type="audio/mpeg" length="172801482" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418187</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-masser-nyt-musik-og-soendagsvibes-13332418187</link>
-      <title>MASser nyt musik og søndagsvibes</title>
-      <description>Rapperen Mas' nye ep er rigtig god. Som i rigtig god. Vi hører to numre fra den, og så er der ellers søndagshygge for resten af pengene med genbesøg af lidt ældre numre i hiphop- og r'n'b-kataloget, som Alida har fundet frem.</description>
-      <pubDate>Sun, 05 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418187/aced16267ba82c96e33f6ebc9b2c84a470d7b94a0fc8957802918605cfa02d82.mp3" type="audio/mpeg" length="172802153" />
     </item>
   </channel>
 </rss>

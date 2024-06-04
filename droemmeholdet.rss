@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:29:26 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:38:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332425231</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-flyverdragt-sjov-ep-stemme-og-s-togs-traek-13332425231</link>
+      <title>Flyverdragt, sjov EP-stemme og S-togs-træk?</title>
+      <description>Jamen dog, jamen dog. Nu sidder vi sørme og skal bruge din drøm! Send til p3drommer@dr.dk - husk dit telefonnummer.
+For mange år siden fik amerikanske Michael en flyverdragt fra en amerikansk pilot, han mødte på Hawaii. Den har han mistet, og lige siden har han drømt at få den tilbage.
+På søndag er der EP-valg, og derfor skal vi have folk til at stemme. Alle stemmer er nemlig vigtige, men kun få er sjove, og derfor leder vi efter lyttere, der vil bruge deres sjove stemme.
+Bagefter har vi Drømmeholdets tungeste drøm. Jeppe drømmer nemlig om at trække et S-tog.
+Vi skal have fat i nogen stærke mennesker og en togvogn, for det her skal vi selvfølgelig gøre stort! Start din uge ud med Drømmeholdet!</description>
+      <pubDate>Mon, 03 Jun 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425231/32db1f3cdecf2a858ec1621ec54a9b0d0f2bd2c19f86c2a774bfb782513f595a.mp3" type="audio/mpeg" length="254882182" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332425225</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-maersk-droemmeholdets-fodboldhold-og-kastet-ketsjer-13332425225</link>
       <title>Mærsk, Drømmeholdets fodboldhold og kastet ketsjer</title>
@@ -38,21 +54,6 @@ Martin bliver udfordret til et spil kylling i Orkanen i Fårup sommerland. Drøm
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425225/21e79c407718604e426a509aeafd3344a2ebb1257bce297e8a1176c3956cfbb0.mp3" type="audio/mpeg" length="254882179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425224</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-et-barn-i-faengsel-oel-og-rutschebaner-13332425224</link>
-      <title>Et barn i fængsel, øl og rutschebaner</title>
-      <description>Er det fordi, du ikke tror, vi kan løse din drøm, siden du ikke har sendt den ind? Send din drøm til os på p3drommer@dr.dk, og lad os modbevise dig.
-Christian på 18 og hans venner elsker Odense Pilsner, og de har derfor sat sig et mål om at kunne skrive Drømmeholdet med øldåser så stort, at det kan ses på Google Maps.
-Heidis mand elsker Orkanen i Fårup Sommerland. Så meget, at han vil køre i den en hel dag og slå rekorden for flest ture i uden at forlade vognen.
-Og så har Linea et lidt specielt barn ved navn Buster. Han er 4 år. Og Buster han vil bare sygt gerne i fængsel.</description>
-      <pubDate>Thu, 30 May 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425224/e2a35ad6d76c87789a52be71f62c413a010de2dd87d790c6cf221fa4f1d77eab.mp3" type="audio/mpeg" length="254882185" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:28:51 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:37:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422453231</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet/paa-vaerkstedet-astrid-elbo-solodanser-ved-den-kongelige-ballet-12422453231</link>
+      <title>Astrid Elbo, Solodanser ved den kongelige ballet</title>
+      <description>Astrid Elbo har sagt, at hun for tiden er drevet af et oprør. Hvad er det for et oprør, og hvad betyder det for hendes kreative processer? Det taler psykologiprofessor Lene Tanggaard med Astrid Elbo om i dagens udsendelse.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 03 Jun 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422453231/42e0bab85559a14b231d06eb9bfbaad380c10919c662b00e700e748c89f64863.mp3" type="audio/mpeg" length="108001607" />
+    </item>
     <item>
       <guid isPermaLink="false">12422453201</guid>
       <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet/paa-vaerkstedet-katrine-marie-guldager-forfatter-12422453201</link>

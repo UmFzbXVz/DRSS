@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:29:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:37:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421231</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-omg-er-du-taylor-swift-13332421231</link>
+      <title>OMG er du Taylor Swift?!?!</title>
+      <description>I weekenden fyldte den kære Kasper Reippurt rundt, og derfor har han fået lidt pynt til sit skønne smil i fødselsdagsgave. Vi snakker teenageår med tilhørende musiksmag, og så runder vi problematikken om at dele navn med kendte mennesker - endda hvis man deler sit navn med verdens største artist lige nu. Velkommen!</description>
+      <pubDate>Mon, 03 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421231/c8fdc283a2d12c27d1292cf771d414a7bb1a16d41b745e9485669ea327712f60.mp3" type="audio/mpeg" length="172802165" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421223</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-josva-13332421223</link>

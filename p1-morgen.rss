@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 03 Jun 2024 06:25:12 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 11:33:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,30 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433232</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433232</link>
+      <title>Tirsdag 4. jun. 2024</title>
+      <description>I Indien er den 43 dage lange valgkamp slut, og den siddende premierminister Narendra Modi ser ud til at blive genvalgt. Hvad betyder Modis genvalg i Indien? I et nyt forslag fra Bruxelles skal tøjproducenter betale et gebyr alt efter, hvor stor en klima- og miljøpåvirkning deres produkter har. Hvordan skal en EU-lov mindske vores tøjaffald? "Konkurrencemanien er gået amok og ødelægger børnesportsglæden" sådan lyder det i et opråb fra Danmarks Idrætsforbund. Hvad gør det ved børn at blive udsat for massiv konkurrence i sport allerede fra en tidlig alder?  
+Dagens værter: Cecilie Lange og Bjarne Steensbeck.</description>
+      <pubDate>Tue, 04 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433232/3b3d10d01c9e91f16f3aa5d3957abb6a63826b50e0cc59aa8bf4cf439d967b26.mp3" type="audio/mpeg" length="237749409" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433231</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433231</link>
+      <title>Mandag 3. jun. 2024</title>
+      <description>Hvorfor risikerer Danmark at blive attraktiv for økonomisk kriminalitet med ny lovændring? Har teltaktionen på KU været en succes? Og hvordan forsøger Rusland at desinformere i vesten?
+Dagens værter: Bjarne Steensbeck og Cecilie Lange.</description>
+      <pubDate>Mon, 03 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:43:37</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433231/a274b93f506584dafb110735e774a9a6e8f13c14d2caf510a2704a4e53856de2.mp3" type="audio/mpeg" length="235627042" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433226</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433226</link>
@@ -1804,18 +1828,6 @@ Dagens værter: Ole Brink og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:01</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333495/6f72e0dc4dbaf210e6ff7d734920cc0f6a65cb846057ea8fc5adad741848a25a.mp3" type="audio/mpeg" length="237642273" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333494</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333494</link>
-      <title>Torsdag 7. dec. 2023</title>
-      <description>Hvor stort et problem kan strejke blive for Tesla? Hvorfor vender SF oppositionen ryggen? Og hvad er status på COP28? 
-Dagens værter: Maria Hollænder og Søren Carlsen.</description>
-      <pubDate>Thu, 07 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:03</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333494/29c9f71744bcd11be995774cff1c90dc56815ebebc2267bd1605be2f849ab294.mp3" type="audio/mpeg" length="237676956" />
     </item>
   </channel>
 </rss>
