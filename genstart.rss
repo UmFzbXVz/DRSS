@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 18:34:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 04:22:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460132</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Tøjkrise</title>
+      <description>I Atacama-ørkenen strækker kilometer af sandbanker sig dækket af farvestrålende tøj. Meget af det er helt nyt, ubrugt og kasseret. I Danmark køber vi billigt nyt tøj, som aldrig før for at være med på den nyeste mode. Men vores hurtigt producerede tøj bliver smidt lige så hurtigt ud, hvorefter det ender på en langsommelig jordomsejling til tøjkirkegårde som i Chile. DR's korrespondent i Sydamerika, Kristian Almblad, er rejst til ørkenen for at spørge, hvorfor vores plastiktøj ligger i Chile og kvæler ørkenen?
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 2/6.</description>
+      <pubDate>Wed, 05 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460132/93782bc596d4cfe984a97f8aae7f2f9e85077a5ece9ad5b937cb22d115c553b9.mp3" type="audio/mpeg" length="28776838" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460131</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9589,19 +9603,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:25:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150112/9a4dd6f0c8088906d4f3380cd4287f539c7185c4f57a8c05405669b07b66499a.mp3" type="audio/mpeg" length="36420941" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150111</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-tiktok-manden-11802150111</link>
-      <title>TikTok-manden</title>
-      <description>I mere end et årti har TikTok-manden opsøgt unge piger på nettet og udsat dem for blufærdighedskrænkelser, trusler, afpresning og i visse tilfælde voldtægt. Selv om piger har advaret om manden på sociale medier, er han fortsat. Indtil nu hvor mere end 60 unge kvinder og piger har anmeldt ham, og han er netop blevet dømt for voldtægt og en række andre alvorlige forhold. Hvem er TikTok-manden? Og spejler hans metoder på nettet et mere udbredt problem?  BT's graverjournalist Trina Nielsen har mødt ham.
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 04 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:25</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150111/5d0d8804d0d9f9d09ac63fb537c430a1f736e8b5ab898984848baa2861c83fb5.mp3" type="audio/mpeg" length="32286983" />
     </item>
   </channel>
 </rss>

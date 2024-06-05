@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 18:34:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 04:22:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -337,19 +337,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:13:37</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192723/6a4f6bdce5139fbee9dd01a610a171329594c6803f5185347eea521af6cdf5ab.mp3" type="audio/mpeg" length="19621874" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192722</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-punjabi-fm-16122192722</link>
-      <title>Punjabi FM</title>
-      <description>Har du pigelus? Kender du Punjabi Kim? Har Danmark et problem med racisme? Og hvordan er det at møde en vampyr? Alle dine spørgsmål bliver besvaret i ugens udgave af Det Tomme Magasin.
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 04 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192722/1638483a2c267dcc5cd82fb77419c729abef95f68772a3e2bc2f5aec9fef6d6f.mp3" type="audio/mpeg" length="25077140" />
     </item>
   </channel>
 </rss>

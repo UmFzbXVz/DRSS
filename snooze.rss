@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 18:34:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 04:22:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -389,26 +389,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428192/14073047ac703370384c7ee288e288d8e9376a0747b62f488334965efc0a6399.mp3" type="audio/mpeg" length="252001611" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428191</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jazz-fra-en-vaeg-med-else-marie-pade-18452428191</link>
-      <title>Jazz fra en væg med Else Marie Pade</title>
-      <description>Pionerkomponisten Else Marie Pade lavede ikke kun klassisk og elektronisk musik. Som man kan høre på en ny plade fra bandet Dybfølt, så mestrede hun også jazzede kompositioner. Vi kigger på det nye album "Sange fra en væg".
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende:
-Mathæus Bech, bassist i Dybfølt.
-Maria Fritzel, praktikant på P8.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Mon, 06 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428191/253526fcbd95bfd4a57fb8df9c68200b6956b7b00c174132f8350963d0320f29.mp3" type="audio/mpeg" length="252001617" />
     </item>
   </channel>
 </rss>

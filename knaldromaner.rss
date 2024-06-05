@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 18:34:06 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 04:22:40 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -62,18 +62,6 @@
       <itunes:duration>00:31:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192877/75fa3fb7bf14ba81ce9d4bfe619d13f5f3225b9f3c11df952587645bb8b27f1b.mp3" type="audio/mpeg" length="44684209" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192876</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-the-one-who-got-away-de-noegne-traeer-16122192876</link>
-      <title>The one who got away - De nøgne træer</title>
-      <description>"The one who go away" er et kærlighedens fabeldyr, som vi ynder at bruge i virkelighedens fortællinger i et forsøg på at forevige de tabte kærlighedsaktører i vores liv. Men er "The one who got away" en myte, eller kan vi alle sammen udpege personen, hvis vi graver dybt nok i vores hjerter? I Tage Skou-Hansens smukke krigsroman, De Nøgne Træer møder vi alt fra bad boys til trekantsdramaer og en modstandskamp, der forgår på militant såvel som følelsesmæssigt niveau.</description>
-      <pubDate>Fri, 04 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:28:32</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192876/904ef8ac7bebfe6766f85ec614cca3695b5dd37d56d87ef29bcb95910d5958fe.mp3" type="audio/mpeg" length="41113593" />
     </item>
   </channel>
 </rss>

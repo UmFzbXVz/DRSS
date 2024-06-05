@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 18:34:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 04:13:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451103</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-traktorer-i-bruxelles-mexicansk-isdronning-og-ep-stoledans-11802451103</link>
+      <title>Traktorer i Bruxelles, mexicansk isdronning og EP-stoledans</title>
+      <description>Utilfredse landmænd kører traktorer ind på de fine boulevarder i Bruxelles. De demonstrerer mod EU's grønne pagt her kort før valget. Mexico skriver historie. For den første kvinde er nu blevet valgt som landets næste præsident. Hvem er hun, og hvad vil hun? En ny meningsmåling viser, hvem der står stærkt, svagt og lige på vippen til europaparlamentsvalget. 
+Vært: Annika Wetterling.
+Medvirkende: 
+Per Bang, DR's EU-reporter.
+Pia Glud Munksgaard, politisk analytiker i DR.
+Kristian Almblad, DR's korrespondent i Sydafrika.</description>
+      <pubDate>Wed, 05 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451103/b5b37fa384ecc6d5b157b3178db65661713fbf31098e3a16b657ef230774adb3.mp3" type="audio/mpeg" length="22293967" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451102</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-eu-s-fashion-opgoer-sydtysk-storm-og-mandelas-arv-11802451102</link>
@@ -1958,25 +1975,6 @@ Karin Liltorp, folketingsmedlem for Moderaterne.</description>
       <itunes:duration>00:18:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351223/3e755ed294bf1e6b8c23cc1ee359a13d8d6a3b86ca489998905205c74f1e914e.mp3" type="audio/mpeg" length="26259124" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351222</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-fantasiloes-fond-diplomatiets-mand-og-co2-lotteri-11802351222</link>
-      <title>Fantasiløs fond, diplomatiets mand og CO2-lotteri</title>
-      <description>175 millioner kroner sender Danmark til den aftalte klimafond, der skal kompensere skader i udviklingslande. Men hvad siger en aktivist fra Argentina? 
-Den ene dag er der våbenhvile, den næste kamp igen. Så har diplomatiet overhovedet en betydning i krigen mellem Israel og Hamas? 
-Og så begynder bygningen af det første CO2 fangst anlæg i Danmark. 
-Værter: Annika Wetterling og Adrian Busk.
-Medvirkende:
-Bruno Sirote, klimaaktivist fra Argentina.
-Friis Arne Petersen, tidl. direktør i Udenrigsministeriet.
-Filip Knaack Kirkegaard, redaktør på Klimamonitor.</description>
-      <pubDate>Mon, 04 Dec 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:53</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351222/4e09db06f98b15bdd04181e84ffd260dc4611c35dbe895c28d7719845583bdbf.mp3" type="audio/mpeg" length="30095864" />
     </item>
   </channel>
 </rss>

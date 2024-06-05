@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 18:34:25 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 04:22:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421232</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421232</link>
+      <title>Tirsdag 4. jun. 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Tue, 04 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421232/5545522c63d416524d21946a63f45a97ac5d5d15c7f5b7bcb8d2f6206bee2008.mp3" type="audio/mpeg" length="172801590" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421231</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-omg-er-du-taylor-swift-13332421231</link>
@@ -210,18 +222,6 @@ Gæst i studiet: Mina Okabe.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421192/ca718d93b2650ad5c43613cb7db7479b84a57c9fe9f674e8c963dbac7d6c6887.mp3" type="audio/mpeg" length="172801607" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421191</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-har-hjalmer-overhovedet-set-friends-13332421191</link>
-      <title>Har Hjalmer overhovedet set Friends?!</title>
-      <description>Ny uge, næsten samme musikalske nyhedsbillede: Drake og Kendrick beefer stadig, og vi efterlyser endnu en gang de dummeste skænderier, du har fundet dig selv i. Powerquizzen er i fuld effekt, Pimp My Ride er tilbage og Hjalmers manglende Friends-kundskaber markerer et 20-års-jubilæum. Store ting. Velkommen indenfor!</description>
-      <pubDate>Mon, 06 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421191/483b35c2c928cf17801b1f43bc51fb5b62f0b85283fdda50a726b05bd93da9d7.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>

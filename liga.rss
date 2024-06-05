@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 04 Jun 2024 18:34:50 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 04:22:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652402232</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402232</link>
+      <title>Tirsdag 4. jun. 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Morten Hausborg og Rikke Smed.</description>
+      <pubDate>Tue, 04 Jun 2024 20:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402232/727d475bf88f97f63290429de16ccc4182ae5d9e212aba89f747e700b7e60129.mp3" type="audio/mpeg" length="341281439" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652402227</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402227</link>
       <title>Søndag 2. jun. 2024</title>
@@ -37,19 +50,6 @@ Vært: Morten Hausborg.</description>
       <itunes:duration>03:47:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402227/d0335586521b582833f2274e742a1e90b242bf678bc951d9762f56b0dbe2a59f.mp3" type="audio/mpeg" length="327953359" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402225</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402225</link>
-      <title>Fredag 31. maj 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Alberte Røhl og Thomas Loft.</description>
-      <pubDate>Fri, 31 May 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>04:00:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402225/caeabb82253f884c0668476ac5af9a21217d0724de020bc228153deda35c9e29.mp3" type="audio/mpeg" length="345685534" />
     </item>
   </channel>
 </rss>
