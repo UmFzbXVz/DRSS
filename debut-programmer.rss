@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452430233</guid>
+      <link>https://www.dr.dk/lyd/p6beat/debut/debut/debut-16452430233</link>
+      <title>Onsdag 5. jun. 2024</title>
+      <description>Din vært Sebastian Saxton giver dig hver onsdag det nyeste musik, der er under radaren - nyt, uudgivet og uafhængigt fra Danmark og udlandet. Debut er programmet for de nysgerrige!</description>
+      <pubDate>Wed, 05 Jun 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452430233/fe0da813e0f1a2f2fd64c39a8048307dfe953c5d198fb120b764b81e2801b579.mp3" type="audio/mpeg" length="165602082" />
+    </item>
     <item>
       <guid isPermaLink="false">16452430223</guid>
       <link>https://www.dr.dk/lyd/p6beat/debut/debut/debut-16452430223</link>

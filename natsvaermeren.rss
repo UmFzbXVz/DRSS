@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:44 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:19:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463233</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-folkemusik-og-skaeve-toner-12422463233</link>
+      <title>Folkemusik og skæve toner</title>
+      <description>Gamelan, melanesisk sang og en nubisk bøn møder fremmede og velkendte toner.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 06 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463233/aa3438010a9689ae32e796c219850c9f54114f70adac1faa714c49267ca481ab.mp3" type="audio/mpeg" length="168482026" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463231</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-drama-og-skoenhed-12422463231</link>
@@ -332,6 +345,19 @@ Vært: Tina Rømer.
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363242/4c05ad573cca2166fa43e55cc2db46c311cf3664386a7c7f4ab469b21f8c2cb1.mp3" type="audio/mpeg" length="172801528" />
     </item>
     <item>
+      <guid isPermaLink="false">12422363223</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-i-ballon-over-ukendte-landskaber-12422363223</link>
+      <title>I ballon over ukendte landskaber</title>
+      <description>Som at svæve i en ballon henover Cappadocia eller Bagans templer og små landsbyer med et soundtrack af Dustin O'Halloran, Aphex Twin, Mendelssohn, Jónsi &amp; Alex, Poppy Ackroyd, Ian Bostridge stemme og Izumi Tatenos snefnug.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 01 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363223/7897a3cf55120debe49754e956dbea1de3a1af033a6a761284ea95cc79d8e8b4.mp3" type="audio/mpeg" length="172801588" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363221</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-naar-naturen-kalder-12422363221</link>
       <title>Når naturen kalder</title>
@@ -358,20 +384,6 @@ Vært: Minna Grooss.
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363201/45c886db2698e5e28609d16bee19c3ede9abbda650b2c15b12ec7a4c3f98ef00.mp3" type="audio/mpeg" length="82081605" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363196</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-rosen-fra-lesbos-12422363196</link>
-      <title>Rosen fra Lesbos</title>
-      <description>Med en åbning af Henrik Nordbrandt digt "Rosen fra Lesbos" tager Natsværmeren dig på en personlig rejse ind i det græske. Fra åbne køkkendøre, lyden af bjergene og lune sommernætter følger Nana Mouskuri, Maria Callas, Vangelis, Eleni Karaindrou, Kavakos og mange flere natten på vej.
-Vært: Minna Grooss.
-(Sendt første gang 14. maj 2023).</description>
-      <pubDate>Sun, 14 May 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:30:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363196/87a20a2eea6b4f9c2dc97a2725c5458cbce3a617ba88d4a74e67d41a3e1e4d12.mp3" type="audio/mpeg" length="129601610" />
     </item>
     <item>
       <guid isPermaLink="false">12422363181</guid>

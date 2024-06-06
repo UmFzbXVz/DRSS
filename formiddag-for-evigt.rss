@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,24 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">18452424233</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424233</link>
+      <title>Shit hvor er det gult</title>
+      <description>Den store coverquiz beriger formiddagen med en lækker smækker plade fra 1976 der er så gul at solbrillerne må frem. Ud over quiz, så byder lytterne ind med hverdagssyslerne og vi hører musik der går godt til forvrikkede ankler, søde kærester, sengesamling på efterskolen og selvfølgelig også til den lille nye lytter Solvej.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Wed, 05 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424233/015c7f65ee726846854056245282319a666d0d59449d22e30e1541a5139d3b6b.mp3" type="audio/mpeg" length="168481588" />
+    </item>
+    <item>
       <guid isPermaLink="false">18452424232</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424232</link>
-      <title>Tirsdag 4. jun. 2024</title>
-      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+      <title>Club Mozambiqu</title>
+      <description>Formiddagen byder både på afrikanske vinde og et besøg på en svedig jazzklub i USA i midten af 70'erne. Vi får vist en masse lytterformiddage og ude i landet er der brug for musik til både billedkunsteksamen, 80 års jazzreflektioner og ikke mindst musik til en hjertelig hjemkomst fra 3 måneder i Fransk Polynesien.
 Vært og tilrettelægger: Niels Christian Cederberg.
 Redaktør: Kasper Christensen.</description>
       <pubDate>Tue, 04 Jun 2024 10:03:00 +0200</pubDate>
@@ -42,8 +56,9 @@ Redaktør: Kasper Christensen.</description>
     <item>
       <guid isPermaLink="false">18452424231</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424231</link>
-      <title>Mandag 3. jun. 2024</title>
-      <description>Vært og tilrettelægger: Niels Christian Cederberg.
+      <title>SÅ er det sommer</title>
+      <description>Mandagen forkæler os alle sammen med varme stråler fra evigheden. Hengemte musikalske perler slår armen rundt om de store klassikere og former et inferno af fryd. Lytterne er vågne og de får musik til både til far på barsel, sabbatår og fakturering.
+Vært og tilrettelægger: Niels Christian Cederberg.
 Redaktør: Kasper Christensen.</description>
       <pubDate>Mon, 03 Jun 2024 10:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
@@ -289,20 +304,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424193/65db2d34d07540b71749511d6ad2c8141ae527e869a1792d9b2066e5ded0a1ca.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424192</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424192</link>
-      <title>Tirsdag 7. maj 2024</title>
-      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Tue, 07 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424192/f10b67eb12564eb86c69fee32c2ce5368f586f2c41d54bc88f8df0aa19c18556.mp3" type="audio/mpeg" length="168481588" />
     </item>
   </channel>
 </rss>

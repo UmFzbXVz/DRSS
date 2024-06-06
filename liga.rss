@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:47 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:19:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652402233</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402233</link>
+      <title>Onsdag 5. jun. 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Emil Schiønning og Louise Dreisig.</description>
+      <pubDate>Wed, 05 Jun 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402233/49a30db199035337ef51385d348262008d4a60d923ea0b2778826f7791bdd5e7.mp3" type="audio/mpeg" length="338401444" />
+    </item>
     <item>
       <guid isPermaLink="false">13652402232</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402232</link>

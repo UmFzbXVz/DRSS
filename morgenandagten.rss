@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:19:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405233</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405233</link>
+      <title>Onsdag 5. jun. 2024</title>
+      <description>Præludium: Johann Sebastian Bach: Behold os, Herre, ved dit ord.
+Fra det G.T.:	Amos 5, 4-7.
+Salme: 319 "Vidunderligst af alt på jord".
+Fra det N.T.: Matthæusevangeliet 5, 1-7.
+Korvers: Rued Langgaard: Helligånd! Du samle folket (tekst: efter Grundtvig).
+Salme: 337 "Behold os, Herre, ved dit ord".
+Postludium: John Stanley: 2. sats af Voluntary. VII, e-mol.</description>
+      <pubDate>Wed, 05 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405233/964f573a8195233565d36c04293b8ca79189c17a25466b1e6bc57e09803ef1ee.mp3" type="audio/mpeg" length="36001580" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405232</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405232</link>
@@ -420,24 +438,6 @@ Postludium: Otto Malling: Christi Himmelfartsdag.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405193/04bf9adf26ef397864d5866557d610d55c67f5a40bdba3b0729df661324a2304.mp3" type="audio/mpeg" length="36001578" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405192</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405192</link>
-      <title>Tirsdag 7. maj 2024</title>
-      <description>Præludium: Georg Muffat: Toccata Sexta F-dur.
-Fra det G.T.: Jeremias 17,5-8.
-Salme: 725 "Det dufter lysegrønt af græs".
-Fra det N.T.:	Johannesevangeliet 15,9-17.
-Korvers: Bendt Fabricius: Jeg er det sande vintræ (tekst: Joh. 15).
-Salme: 401 "Guds ord det er vort arvegods".
-Postludium: Christian Flor: Guds ord, det er vort arvegods.</description>
-      <pubDate>Tue, 07 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405192/09c325338d809b7226da7dbab072dff13c7c69d83c0eb75a54e79b3c63ef54eb.mp3" type="audio/mpeg" length="36001583" />
     </item>
   </channel>
 </rss>

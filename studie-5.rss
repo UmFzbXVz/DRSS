@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:44 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429233</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-sange-om-danmark-paa-grundlovsdag-15452429233</link>
+      <title>Sange om Danmark på Grundlovsdag.</title>
+      <description>Genhør nogle af de helt nye Danmarkssange, som flere af landets største musikere skrev, i serien 'Min sang til Danmark'.
+Hør bla Steffen Brandt, Anne Linnet og Peter Sommer
+Vi fejrer også 40 året for Bruce Springsteens album "Born in the USA". Forfatter og musiker Thomas Vilhelm fortæller om The Boss største album fra 1984 
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Wed, 05 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429233/20db8b24eb7c24c3431881257220d3f93d786c710b7899aab18f4cbd8cff886d.mp3" type="audio/mpeg" length="168482183" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429232</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-the-beatles-i-danmark-15452429232</link>

@@ -9,7 +9,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -234,6 +234,25 @@ Produceret for DR af Munck for DR.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:30:06</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122111542/036aac6434db31b446ad3d4f2e485eb00cac15fed04f41043bbbf4c56714b9c6.mp3" type="audio/mpeg" length="43365770" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122111541</guid>
+      <link>https://www.dr.dk/lyd/p1/det-vi-gaar-rundt-med/det-vi-gaar-rundt-med-1/det-vi-gaar-rundt-med-1-12-med-kristian-moltke-martiny-i-faelledparken-16122111541</link>
+      <title>1:12 - Med Kristian Moltke Martiny i Fælledparken</title>
+      <description>I første afsnit mødes Caspar med Kristian Moltke Martiny i Fællledparken. Kristian er kognitions- og bevidsthedsforsker og har arbejdet meget med hvordan folk med handicap tænker, og hvordan krop og identitet hænger sammen. Så Caspar har bestemt sig for at få spurgt ind til nogle af de lidt hårde ting, som han aldrig rigtig har snakket med nogen om. Og så har Kristian en kone der har Cystisk Fibrose, så hvad gør det at være pårørende ved den måde Kristian tænker om sin egen krop, og hvor skal Caspar overhovedet starte, hvis han gerne vil have et andet forhold til sin egen?
+Vært og tilrettelægger: Caspar Eric.
+Producer og lyddesigner: Kim G. Hansen.
+Komponist og assisterende lyddesigner: Frederik Bjørn.
+Redaktør: Hanne Budtz-Jørgensen. 
+Produceret for DR af Munck for DR.</description>
+      <pubDate>Sat, 05 Jun 2021 16:30:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:30:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122111541/46349506474169fa3d8daa9dc73efa7d8e11010c42cdd8682415cddc451e13c0.mp3" type="audio/mpeg" length="43364620" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:13:18 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:09:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451104</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-groen-grundlov-kreative-kampagner-og-cybervaern-11802451104</link>
+      <title>Grøn grundlov, kreative kampagner og cyberværn</title>
+      <description>Irriterende skruelåg, lovlig cannabis og gamle slogans. Valgkampagnerne til EP-valget skal være kreative for at få vælgerne op af stolene. Der skal uddannes flere cyber-nørder til at forsvare Danmark mod den stigende cybertrussel, lyder det fra flere partier. Fejringen er grundlovsdag er forbi, men der spirer et lille oprør mod Danmarks lovgrundlag. Flere ønsker, at naturen skal have en større plads. 
+Vært: Adrian Busk.
+Medvirkende: 
+Jacob Bruun, tidligere kampagnerådgiver.
+Jens-André, forfatter og debattør.</description>
+      <pubDate>Thu, 06 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451104/a50e20dd0f5e5bdecd1ecbea3c03818d267c083df53b3a34bdce7ab23d0b7b17.mp3" type="audio/mpeg" length="24568586" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451103</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-traktorer-i-bruxelles-mexicansk-isdronning-og-ep-stoledans-11802451103</link>
@@ -1957,24 +1973,6 @@ Pia Kjærsgaard, medlem af DF, tidligere formand for Folketinget.</description>
       <itunes:duration>00:19:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351224/cf1e2581c4a207e2bcefc18558def20265c5969b0e18378c7daed3e8dd02b1bc.mp3" type="audio/mpeg" length="27746938" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351223</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-karins-koran-finger-bombeflugt-og-en-oekonomisk-gulerod-11802351223</link>
-      <title>Karins koran-finger, bombeflugt og en økonomisk gulerod</title>
-      <description>Bomberne regner over det sydlige Gaza, som er tilflugtssted for 1,8 millioner fordrevne civile, så hvad gør de?
-"Første, sidste og eneste gang, at vi skal have så specielt et forløb". Vi kigger på de penge, som regeringen har sendt mod offentlig ansatte 
-Koranloven skal til afstemning i Folketinget. Karin Liltorp fra Moderaterne stemmer for, men er faktisk modstander. 
-Vært: Adrian Busk.
-Medvirkende: 
-Malthe Sommerand, journalist på DRs udlandsredaktion.
-Karin Liltorp, folketingsmedlem for Moderaterne.</description>
-      <pubDate>Tue, 05 Dec 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:14</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351223/3e755ed294bf1e6b8c23cc1ee359a13d8d6a3b86ca489998905205c74f1e914e.mp3" type="audio/mpeg" length="26259124" />
     </item>
   </channel>
 </rss>

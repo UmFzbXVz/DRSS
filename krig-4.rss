@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:27 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:19:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,23 @@ Produceret for DR af MonoMono.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122492407</guid>
+      <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-viceforsvarschefen-16122492407</link>
+      <title>Viceforsvarschefen</title>
+      <description>Generalløjtnant Kenneth Pedersen fortæller om at være en af de allerøverst placerede i det danske forsvar. Om hvordan diversitet giver mere kampkraft, og gør soldaterne bedre til at slå ihjel. 
+Vært og tilrettelægger: Martin Tamm Andersen.
+Gæst: Generalløjtnant Kenneth Pedersen.
+Klip, producer og musik: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen. 
+Produceret for DR af MonoMono.</description>
+      <pubDate>Wed, 05 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:34:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492407/4a9e34e03bc54f6098397ff52b2f2fa9ed94dd3a36577b79b62a4cdbbbede1c8.mp3" type="audio/mpeg" length="49381498" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492406</guid>
       <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-krigskorrespondenten-16122492406</link>

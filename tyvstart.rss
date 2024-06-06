@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:47 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,40 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450113</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ol-billetter-i-rom-og-sejr-i-parken-13652450113</link>
+      <title>OL-billetter i Rom og sejr i Parken</title>
+      <description>Den vildeste sportssommer står for døren, og på fredag bliver den for alvor sat i gang med EM i atletik.
+
+Her stiller 26 danske atleter op i Rom for at kæmpe for både finalepladser og OL-billetter. Men hvad kan vi egentlig tillade os at forvente af den danske delegation?
+ 
+Fodbold-EM venter også lige om hjørnet, og de danske herrer fik en lovende optakt med en sejr i testkampen mod Sverige. Men hvor står holdet egentlig så tæt på EM?
+
+Det spørger Tyvstart om i dag.
+Værter: Rikke Smed og Emil Schiønning.</description>
+      <pubDate>Thu, 06 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:52</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450113/99419e206c1073c0563ef755071645d08c01a1dea02ef9e683c9e07cf8e21123.mp3" type="audio/mpeg" length="24301881" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13652450112</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-naar-ol-droemmen-bliver-knust-13652450112</link>
+      <title>Når OL-drømmen bliver knust</title>
+      <description>Line Kjærsfeldt er Danmarks bedste kvindelige badmintonspiller. I hvert fald hvis man kigger på verdensranglisten. 
+Men da OL-holdet blev udtaget af det danske badmintonforbund, var hendes navn ingen steder at finde. Den ene plads gik i stedet til kollegaen Mia Blichfeldt.
+I dagens afsnit af Tyvstart fortæller Line Kjærsfeldt om, hvordan det føles, når drømmen bliver knust.
+Vært: Emil Schiønning.</description>
+      <pubDate>Wed, 05 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:12:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450112/33a503761da93a8f62083b6c7452d829ff4e8008e8b6e111a86cee7c572e382d.mp3" type="audio/mpeg" length="17965305" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450111</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-verdens-bedste-wingman-og-au-revoir-rune-13652450111</link>
@@ -1905,21 +1939,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:14:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350237/9b0eb438a8b02d942b226afa0589ed5e0e57962150f7c32202ca6639ba24c125.mp3" type="audio/mpeg" length="20196724" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350236</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-efteraarets-alternative-superliga-awards-13652350236</link>
-      <title>Efterårets alternative Superliga Awards</title>
-      <description>Dansk fodbold er gået på juleferie, og det kalder på et award show.
-Hvem har fortjent at få et opkald af Hjulmand inden næste sommers EM? Hvem er lykkelige over, at der endelig er julepause? Hvem har gjort sig fortjent til et klubskifte væk fra Superligaen i det nye år?
-Fodboldekspert Mathias Jacobsen uddeler priserne.
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 05 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:38</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350236/5a8987348ca3fe9a578b8e3cadd13e78cbfc9de61553a1b1ff6ad34d0ae9c689.mp3" type="audio/mpeg" length="25394555" />
     </item>
   </channel>
 </rss>

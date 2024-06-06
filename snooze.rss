@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:45 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,10 +27,27 @@ Vært: Julian Svejgaard.</description>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">18452428233</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428233</link>
+      <title>Jazz i Grundloven</title>
+      <description>5. juni er en lidt crowdet mærkedag herhjemme med både fars dag og Grundlovens 175-års jubilæum, men det forhindrer os ikke i at nå omkring både jazz til fædre og til demokratiet i denne morgens Snooze. 
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Wed, 05 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428233/771be90eef5917b541f81849371469a848d030733ab52c5188e03abde9d43a5e.mp3" type="audio/mpeg" length="252002165" />
+    </item>
+    <item>
       <guid isPermaLink="false">18452428232</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428232</link>
-      <title>Tirsdag 4. jun. 2024</title>
-      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
+      <title>Bas-jazz</title>
+      <description>De er store, tunge og bombastiske, men basserne kan i høj grad også være yndefulde og smukke, især i de helt små og intime duoformater. Vi siger bas til din jazz denne morgen i Snooze.
 Vært og tilrettelægger: Julian Svejgaard.
 Redaktør: Kasper Christensen.
 Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
@@ -46,8 +63,8 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
     <item>
       <guid isPermaLink="false">18452428231</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428231</link>
-      <title>Mandag 3. jun. 2024</title>
-      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
+      <title>Sommertid</title>
+      <description>Juni måned er i gang og sommertiden er over os. Det gælder selvfølgelig også musikken i Snooze, som denne morgen uddeler varme sommerkram.
 Vært og tilrettelægger: Julian Svejgaard.
 Redaktør: Kasper Christensen.
 Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
@@ -371,24 +388,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428193/c9095e682237bdc9293fc92bc843a0ae8dc29a5eb79a317fcf7e3943c2809f92.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428192</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-monica-zetterlund-uden-sidestykke-18452428192</link>
-      <title>Monica Zetterlund uden sidestykke</title>
-      <description>Alle elsker Monica Zetterlund. Det gør vi også på P8, hvor hun er hovedperson i ugens udgave af vores nye podcast Uden Sidestykke. Vi tager tilbage til de på engang hjertevarme og iskolde 60'ere i svensk jazz.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende: Naya Buric, vært på podcasten Uden Sidestykke.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 07 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428192/14073047ac703370384c7ee288e288d8e9376a0747b62f488334965efc0a6399.mp3" type="audio/mpeg" length="252001611" />
     </item>
   </channel>
 </rss>

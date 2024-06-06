@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:19:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460133</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Høj sø</title>
+      <description>Ud af disen dukker ryggen af en sort ubåd op mellem bølgerne. Den cirkler om Geo Barents, holder øje. Redningsskibet sejler i en nautisk arena mellem den libyske kystvagts vågne øjne, EU's politiske benspænd, legesyge delfiner og havskildpadder. Antropolog Sine Plambech har været på dækket i en måned - og med Genstarts mikrofon har hun optaget lyden af de politiske spændinger på Middelhavet - fra dækket, redningsbåden og ansigt til ansigt med de mennesker, der bliver samlet op. Da hun ankommer boksetræner besætningen under den sicilianske sol. I to afsnit tager hun os med ind i migrationens boksering. 
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 3/6.</description>
+      <pubDate>Thu, 06 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:30</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460133/014345be956c70c567f8c17c720b9962e7b51acfd5b8bd92006594e04d4da21c.mp3" type="audio/mpeg" length="35283327" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460132</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

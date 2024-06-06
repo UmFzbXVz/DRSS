@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:40 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:19:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593ba97a838f3bbb32a050f.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802401145</guid>
+      <link>https://www.dr.dk/lyd/p1/udsyn/udsyn-2024/udsyn-ukendte-ansigter-en-guide-til-eu-valget-11802401145</link>
+      <title>Ukendte ansigter: En guide til EU-valget</title>
+      <description>Det er valg til Europa-Parlamentet og byen er fyldt med valgplakater med billeder af ukendte politikere. Det er lidt som at vågne i en parallelverden, som er en lille smule anderledes end den man faldt i søvn i. For hvem er de, politikerne på plakaterne? Deres løfter er også lidt anderledes. Tonen synes lettere, endda fjollet til tider. Fremmedgørelsen er ikke helt grebet ud ad luften. Ifølge en undersøgelse foretaget af Voxmeter kan to ud af tre danskere ikke nævne navnet på en eneste af kandidaterne til parlamentetsvalget. Hvorfor er det egentlig sådan? Hvorfor kender vi ikke de folk vi sender afsted til EU? Hvordan er hverdagen som EU parlamentariker og hvordan fungerer EU i det hele taget? Sammen med Derek Beach, professor i statskundskab ved Aarhus Universitet, guider Udsyn i dag til EU-valget og EU som politisk institution.       
+Vært: Kaspar Colling Nielsen.</description>
+      <pubDate>Thu, 06 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:28:41</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802401145/1d5794d05e2542e46f4b02b63ceab4abe145ef684f345d8a047a172229f27e26.mp3" type="audio/mpeg" length="41308874" />
+    </item>
     <item>
       <guid isPermaLink="false">11802401144</guid>
       <link>https://www.dr.dk/lyd/p1/udsyn/udsyn-2024/udsyn-little-britain-11802401144</link>
@@ -835,24 +847,6 @@ Redaktør: Tine Møller Sørensen.</description>
       <itunes:duration>00:28:54</itunes:duration>
       <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593fe68846e9f8fc0349aa6.jpg" />
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802301244/23aeb7eded0113f7024724f408364c654d03fcfe58eda40f3c4d80b85cff70f9.mp3" type="audio/mpeg" length="41641230" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802301243</guid>
-      <link>https://www.dr.dk/lyd/p1/udsyn/udsyn-2023/orientering-udsyn-vakler-eu-s-stoette-til-ukraine-11802301243</link>
-      <title>Orientering Udsyn: Vakler EU's støtte til Ukraine?</title>
-      <description>Gennem hele krigen har EU været en fast støtte for Ukraine, men når medlemsstaternes ledere samles til topmøde i næste uge, kan der meget vel opstå sprækker i det billede. For selvom der er lagt op til en ny langsigtet støtteplan, så bliver udsigten til at opnå enighed stadigt længere.
-Når vi køber fx flybilletter, så kan vi betale os fra den CO2-udledning der følger med flyturen, ved at betale klimakompensation. Det samme princip kan bruges af virksomheder og stater, der har svært ved at imødekomme internationale krav om at mindske udledningen. Men når vi reelt ikke kan vide om det virker, giver det så overhovedet mening?
-Gæster: Ole Ryborg, DRs EU-korrespondent og Kirstine Lund Christiansen, forsker i politisk økologi på Københavns Universitet.
-Tilrettelæggelse: Elise Normann og Sven Johannesen.
-Vært: Nickolaj Sander.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Tue, 05 Dec 2023 15:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:27:17</itunes:duration>
-      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593fe68846e9f8fc0349aa6.jpg" />
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802301243/b614d0322ac88990d6d79fe78d75cc81fbc44cfaea2c1934e1b3f78e72fbbd82.mp3" type="audio/mpeg" length="39307854" />
     </item>
     <item>
       <guid isPermaLink="false">11802301165</guid>

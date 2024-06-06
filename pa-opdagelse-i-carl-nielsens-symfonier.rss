@@ -16,7 +16,7 @@ Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkri
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:38 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -97,22 +97,6 @@ Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkri
       <itunes:duration>00:32:13</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560002/3bcbbda7226275548f81bd408df3e4355520b10055071a372aa6a5585cfe46b5.mp3" type="audio/mpeg" length="46403017" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12421560001</guid>
-      <link>https://www.dr.dk/lyd/p2/paa-opdagelse-i-carl-nielsens-symfonier/paa-opdagelse-i-carl-nielsens-symfonier-1/paa-opdagelse-i-carl-nielsens-symfonier-1-6-12421560001</link>
-      <title>På opdagelse i Carl Nielsens symfonier 1:6</title>
-      <description>P2 vært og pianist Mathias Hammer går tæt på Carl Nielsens Symfoni nr. 1. Han søger årsagen til symfoniens optimistiske udtryk og finder bl.a. svar i komponistens nyforelskelse og stemningen i København i 1890erne. Undervejs får han hjælp af dirigent Michael Schønwandt, musikkritiker Jakob Levinsen og historiker Barbara Zalewski.
-(Sendt første gang 2. marts 2015).</description>
-      <pubDate>Fri, 27 Feb 2015 06:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000010001</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:36</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560001/888365c564e39eb447f800a9eba5ccd3a3ec5ef8c664818d46b5fbe5ee7589c5.mp3" type="audio/mpeg" length="38314259" />
     </item>
   </channel>
 </rss>

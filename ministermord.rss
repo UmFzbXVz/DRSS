@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/ministermord" rel="self" type="application/rss+xml" />
+    <title>Ministermord</title>
+    <link>https://www.dr.dk/lyd/special-radio/ministermord-5466763568000</link>
+    <description>I løbet af de sidste par århundrede er adskillige ministre brevet dræbt. Men hvem var de? Hvorfor blev de dræbt, og hvilken betydning havde det for de lande, de var ministre i. Det undersøger Kristoffer Lind og Simon Emil Ammitzbøll i Ministermord.
+
+Produceret for DR af Munck Studios.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:48 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/ministermord.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:665d75a5a7671a3d4113c622.jpg</url>
+      <title>Ministermord</title>
+      <link>https://www.dr.dk/lyd/special-radio/ministermord-5466763568000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:665d75a5a7671a3d4113c622.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494301</guid>
+      <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-mordet-paa-aldo-moro-16122494301</link>
+      <title>Mordet på Aldo Moro</title>
+      <description>Den 9. maj 1978 bliver den forhenværende italienske premierminister Aldo Moro fundet i bagagerummet på en rød Renault 4, dræbt af 11 skud. Bag mordet står terrorgruppen De Røde Brigader. Mordet skaber et ramaskrig i hele Italien, og er siden blevet kaldt det italienske Kennedy-mord. Men hvorfor skulle Aldo Moro dø? Hvad var det for et politisk landskab, dramaet udspillede sig i? Og hvad har det betydet siden? 
+
+Værter: Simon Emil Ammitzbøll-Bille og Kristoffer Lind.
+Producer: Anne Lundager.
+Redaktører: Rune Born Schwartz og Cecilie Egholm Tonnesen.
+Der er brugt klip fra DR's mediearkiv, TG1 og Radio Free Europe.
+Produceret for DR af Munck Studios.</description>
+      <pubDate>Thu, 06 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494301/29ee787c9f2f728649b0eb1dfbc6e2fd69cdbe8faf8af6213fae8364235e9593.mp3" type="audio/mpeg" length="81318992" />
+    </item>
+  </channel>
+</rss>

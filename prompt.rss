@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 05 Jun 2024 04:22:23 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:19:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,19 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421022</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-chatgpt-tager-kandidattesten-pizza-computer-og-russer-propaganda-forklaedt-som-netflix-dokumentar-11802421022</link>
+      <title>ChatGPT tager kandidattesten, pizza-computer og russer-propaganda forklædt som Netflix-dokumentar</title>
+      <description>Hvis ChatGPT skulle stemme til EP-valget, ville den enten stemme på... Få svaret i denne uges Prompt, hvor vi også har sat Claude, Meta AI og Elon Musks chatbot på samme opgave. Vi vender også den største politiaktion mod et botnet til dato. En aktion, som dansk politi deltog i sammen med FBI og Europol - og hvor en uskyldig computer fra et pizzaria i Randers spiller en nøglerolle. Og så har Rusland udgivet en fake Netflix-lignende dokumentar med Tom Cruise i hovedrollen. Den skal være med til at skabe frygt og misinformation om OL i Paris til sommer.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, DRs techkorrespondent.</description>
+      <pubDate>Thu, 06 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421022/c6fadfbbe0917b6bdb2967e6557c6f0233a0173aa8d88b191a7f95a927e19ec2.mp3" type="audio/mpeg" length="79225226" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421021</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-valgflaesk-quiz-helle-thorning-og-tomat-ost-lim-11802421021</link>
