@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 06 Jun 2024 06:18:45 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 16:24:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428234</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jamaicas-piano-konge-fylder-rundt-18452428234</link>
+      <title>Jamaicas piano-konge fylder rundt</title>
+      <description>Den jamaicansk-amerikanske jazzpianist Monty Alexander fylder rundt i dag - 80 år er gået med en melodisk og svingende fusion af bebop, swing og jamaicanske traditioner, et musikalsk konglomerat, som fylder Snooze denne morgen.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Thu, 06 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428234/5711f3ef1756db6fb1251e2182f8e24fc5f13c20dcab06a543b6c00141d5a084.mp3" type="audio/mpeg" length="252002181" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428233</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428233</link>

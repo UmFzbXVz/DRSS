@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 06 Jun 2024 06:15:28 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 16:24:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410234</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410234</link>
+      <title>Torsdag 6. jun. 2024</title>
+      <description>- fokuserer på de ting, der betyder noget for dig, dit liv og din hverdag.
+Stå op med Liva Manghezi, Mikkel Rosendal og Andreas Kousholt, som sender dig både opløftet og oplyst ud i dagen.</description>
+      <pubDate>Thu, 06 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410234/9d9802656988a9e0580248e65f7544ac34a85fdc37aa66621cf54de9c419e119.mp3" type="audio/mpeg" length="254882098" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410233</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410233</link>
