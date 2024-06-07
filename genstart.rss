@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 06 Jun 2024 16:24:34 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 04:46:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460134</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>I samme båd</title>
+      <description>Nu er 52 mænd samlet på redningsskibet Geo Barents dæk. Fra Marokko, Bangladesh, Syrien, Egypten. I ens sorte træningsdragter kommer de til hægterne med morgengymnastik og griber om hinanden: De klarede den. Efter 15 timer på Middelhavets rullende bølger får de mad, et brusebad, en cigaret. Men rejsen mod Italien er begyndt. Her går de af borde til en ny politisk virkelighed: Et EU, der ikke vil have flere migranter, og slet ikke dem. Et EU der skal til valg, hvor migranternes tilstedeværelse og fravær er et hovedtema. Antropolog Sine Plambech tager os med på anden del af rejsen - den håbefulde sejlads ind til Italien. Men hvad er det for et liv, der venter dem i Europa? 
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 4/6.</description>
+      <pubDate>Fri, 07 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:37</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460134/96f55f592c885383df92042e998c2fecdced568a7f8eadceb2b11a529e4fe4f7.mp3" type="audio/mpeg" length="38352839" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460133</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

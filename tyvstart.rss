@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 06 Jun 2024 16:24:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 04:46:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -1924,21 +1924,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:36</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350238/7fe2b4fc33cbf8f0b1af995726ce2c4d19ecd92883e687f71eb60b90c1d86c0d.mp3" type="audio/mpeg" length="26787324" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350237</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-boellebank-i-boxen-13652350237</link>
-      <title>Bøllebank i Boxen</title>
-      <description>De danske håndboldkvinder leverede lidt af en magtdemonstration, da de tirsdag aften slog Rumænien med 39-23. 
-Jesper Jensens tropper er videre til mellemrunden efter tre sejre i tre kampe, og nu ligner det danske landshold endelig et, der kommer til at spille med om medaljerne. 
-I dagens Tyvstart ser håndboldekspert Helle Thomsen frem mod de vigtige mellemrundekampe.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 06 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:01</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350237/9b0eb438a8b02d942b226afa0589ed5e0e57962150f7c32202ca6639ba24c125.mp3" type="audio/mpeg" length="20196724" />
     </item>
   </channel>
 </rss>

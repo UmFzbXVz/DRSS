@@ -9,7 +9,7 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 06 Jun 2024 16:24:16 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 04:46:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332426234</guid>
+      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-rohde-warm-up-13332426234</link>
+      <title>Rohde warm-up</title>
+      <description>Til ingens overraskelse er der nærmest ingen, der kender spidskandidaterne til EP-valget. Det viser en ny undersøgelse som DR Nyheder har fået lavet af Epinion. Men står det rent faktisk så galt til? Kan man sige hvad som helst om dem, uden folk opdager det? Det tester vi i dag.
+Hver dag i den her ekstra spændende uge ringer vi til Jens Rohde. Den eneste i Danmark, der er kvalificeret til at dømme politiske situationer ud fra fodboldloven. Så det gør vi selvfølgelig.
+Vi laver også 'Gæt et land quiz' og snakker om Mathildes e-Boks.
+Værter: Mathilde Muus og Anton Ringdal.
+Medvirkende:
+Lars Krull, seniorrådgiver ved Aalborg Universitet og bankekspert.
+Jens Rohde, formand for Danske Fodbolddommere.</description>
+      <pubDate>Thu, 06 Jun 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426234/4ffe51f99ab5f67efd1f599e9098e3eac201e9189ab19248aa2516bf558f26a7.mp3" type="audio/mpeg" length="172802133" />
+    </item>
     <item>
       <guid isPermaLink="false">13332426233</guid>
       <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-hold-kaeft-det-er-mange-penge-13332426233</link>

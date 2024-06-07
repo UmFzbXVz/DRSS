@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 06 Jun 2024 16:24:25 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 04:41:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451105</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-et-gammelt-dna-bevis-skoleangreb-og-partialliancer-11802451105</link>
+      <title>Et gammelt DNA-bevis, skoleangreb og partialliancer</title>
+      <description>Næsten 30 år efter at en 7-årig pige bliver dræbt, peger politiet nu på en formodet gerningsmand.
+En skole er blevet ramt af et angreb i Gaza, mens flere lande presser på for en våbenhvile.
+Flere partier er i et valgforbund med hinanden. Nogen står uden. Hvad betyder det for EP-valget? 
+Vært: Annika Wetterling.
+Medvirkende:
+Pia Glud Munksgaard, DR's politiske analytiker.
+Caroline Clante, retsreporter i DR.</description>
+      <pubDate>Fri, 07 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:22</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451105/fca357cf603c8745b34b1819da5774d4760bf9caaa550c0c23f7b0f638bc05a8.mp3" type="audio/mpeg" length="22130380" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451104</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-groen-grundlov-kreative-kampagner-og-cybervaern-11802451104</link>
@@ -1954,25 +1972,6 @@ Troels Møller, spilredaktør ved Troldspejlet.</description>
       <itunes:duration>00:17:41</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351225/713a8bf4dd8720b23832c1c03220d3d5dac0460c49a8a8311cc5214d1bc77265.mp3" type="audio/mpeg" length="25474610" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351224</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-den-sloeve-opposition-sure-politibetjente-og-en-draebt-kvinde-11802351224</link>
-      <title>Den sløve opposition, sure politibetjente og en dræbt kvinde</title>
-      <description>Hvorfor fortjener politibetjente ikke lønforhøjelser ligesom sygeplejerskerne, pædagogerne, sosu-assistenterne og fængselsbetjentene? Det spørger vi FH's formand om. 
-En dræbt kvinde i Italien har skabt landsdækkende opgør med en mandsdomineret kultur. 
-Regeringen kritiserer oppositionen for at være for sløve og for ikke at kritisere regeringen nok.  
-Vært: Annika Wetterling.
-Medvirkende: 
-Morten Skov Christiansen, formand FH.
-Anna Gaarslev, DR's Europakorrespondent.
-Pia Kjærsgaard, medlem af DF, tidligere formand for Folketinget.</description>
-      <pubDate>Wed, 06 Dec 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:19:16</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351224/cf1e2581c4a207e2bcefc18558def20265c5969b0e18378c7daed3e8dd02b1bc.mp3" type="audio/mpeg" length="27746938" />
     </item>
   </channel>
 </rss>

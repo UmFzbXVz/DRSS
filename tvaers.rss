@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 06 Jun 2024 16:23:34 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 04:46:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -347,24 +347,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>00:34:23</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195714/0da164359b6f0faa7339e6d5db3b778ef1e9af261b0811033c4733f43d75fc20.mp3" type="audio/mpeg" length="49524913" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195713</guid>
-      <link>https://www.dr.dk/lyd/p3/tvaers/tvaers-20211/tvaers-monster-1-2-13332195713</link>
-      <title>Monster 1:2</title>
-      <description>Jesper vågner til lyden af en kaffemaskine. Han er forvirret over, hvor han er. Han finder snart ud af, at det slet ikke er en kaffemaskine, han hører. Det er lyden af den respirator, der trækker vejret for ham, mens han er i kunstigt koma. Det sidste, han husker, er at stå på taget af Ungdomshuset nytårsaften.
-
-Medvirkende: Jesper Bertelsen.
-Tilrettelæggelse: Mette Moltke Wozniak og Simon Eriksen. 
-Vært: Mette Moltke Wozniak og Line Kirsten Nikolajsen.
-Redaktør: Sandra Mia Susgaard.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Sun, 06 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:29:28</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195713/a85362afe9e80a426e170891c8d1f8dac0e4eaee47fd3ed819d8536ef6c83bb9.mp3" type="audio/mpeg" length="42439531" />
     </item>
   </channel>
 </rss>
