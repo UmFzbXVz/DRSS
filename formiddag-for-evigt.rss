@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:51:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,24 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">18452424235</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-den-afrokanske-gloed-18452424235</link>
+      <title>Den afrokanske glød</title>
+      <description>Fredagen betyder musik der brænder med en anden glød og i dag besøger vi musikken der har fået en lille smule afro på sig. Lytterne har spændende ting for i deres weekend og der bliver delt musik ud til 101 års fødselsdage, champagnecykelture og bykamps træning i Oksbøl.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Fri, 07 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424235/b1d053e337af5b3764509a84921794cc2146419228f1fafa22d58fb2dd10a821.mp3" type="audio/mpeg" length="168482192" />
+    </item>
+    <item>
       <guid isPermaLink="false">18452424234</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424234</link>
-      <title>Torsdag 6. jun. 2024</title>
-      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+      <title>Duke Ellington og jazz</title>
+      <description>Formiddags radioen byder i dag på en stemme fra evigheden. Duke Ellington kigger forbi fra arkivet og forklarer hvorfor han stoppede med at bruge begrebet jazz når han optrådte med sit orkester. Som altid bliver der også tid til at dele musik ud og evigheden tilbyder musik der passer til tøsevandreture med kage, indramning af akvareller og fremstilling af tandproteser.
 Vært og tilrettelægger: Niels Christian Cederberg.
 Redaktør: Kasper Christensen.</description>
       <pubDate>Thu, 06 Jun 2024 10:03:00 +0200</pubDate>
@@ -290,20 +304,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424201/4730f8cd4b28b5312cec9f66692fce60b40147631c492ffb68fe56d6c4a91863.mp3" type="audio/mpeg" length="168481588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424194</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424194</link>
-      <title>Torsdag 9. maj 2024</title>
-      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Thu, 09 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424194/6e833f9553d451f54b0354e0eb1f05a1f3a5615ae8dbdb43689648117c79a454.mp3" type="audio/mpeg" length="168481588" />
     </item>
   </channel>
 </rss>

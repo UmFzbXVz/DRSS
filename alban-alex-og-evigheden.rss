@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:14 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:52:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Produceret for DR af MonoMono.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122423236</guid>
+      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-tudelisten-og-barndomsminder-16122423236</link>
+      <title>"Tudelisten" og barndomsminder</title>
+      <description>Alban fortæller om sin "tudeliste" med musikstykker, som kan få tårerne frem hos ham øjeblikkeligt. Den liste bruger han, når han skal græde på kommando som skuespiller. Alex fortæller om minder fra barndommen om at danse rundt i stuen som lille til Stravinskys voldsomme Le Sacre du Printemps og om at gå på opdagelse i sin fars kammer for at finde noder. De taler også om balletten Manon og om mystikeren Hildegard von Bingen. 
+
+Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
+Producer og redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Sat, 08 Jun 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:53:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423236/c2fc2a796ced03b21089aea20446bf015d42464e6e1be52dbde417b81e09cee4.mp3" type="audio/mpeg" length="162797643" />
+    </item>
     <item>
       <guid isPermaLink="false">16122423226</guid>
       <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-premiere-16122423226</link>

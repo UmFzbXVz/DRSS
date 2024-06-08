@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:17 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:37:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452434236</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-18452434236</link>
+      <title>Lørdag 8. jun. 2024</title>
+      <description>Tristessen, lykken, uretfærdigheden og drømmen om en bedre verden. Det er, hvad jazzens Blå Stemmer er fulde af. Josephine Philip serverer den bedste vokaljazz fra øverste, og inderste, hylde - fra crooner til scat og alt det midt imellem.
+Vært og tilrettelægger: Josephine Philip.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 08 Jun 2024 13:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434236/7e377da458315d36af475a88539ccd20c55396bd6704e29f6048c43e4871f49d.mp3" type="audio/mpeg" length="82082164" />
+    </item>
     <item>
       <guid isPermaLink="false">18452434226</guid>
       <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-60-er-og-70-er-sange-18452434226</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:47 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:51:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421235</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-northside-13332421235</link>
+      <title>På NorthSide</title>
+      <description>Værter: Nynne Givskov og Kasper Reippurt.</description>
+      <pubDate>Fri, 07 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:59:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421235/908646a309ce73cbb8d2b742f8d3f6259918cb9f5dd375d6989363c61293d62a.mp3" type="audio/mpeg" length="172800814" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421234</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-northside-13332421234</link>
@@ -197,18 +209,6 @@ Velkommen indenfor!</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421201/bdd98a7efef5bdb2486adf5b8ba0519a360fcf4645fc4fced90519405949d6d6.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421194</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-kinky-faetter-den-uofficielle-nationalmelodi-13332421194</link>
-      <title>Kinky Fætter - den uofficielle nationalmelodi</title>
-      <description>Til trods for, at Kasper aldrig har hørt Mr. Brightside, så stævner vi ufortrødent ud mod dagens program, der både skal finde en nye uofficiel nationalmelodi, lege Alle Veje Fører til Taylor Swift og tjekke ind hos en nyklippet Mo. Velkommen indenfor!</description>
-      <pubDate>Thu, 09 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421194/19d3803babdb75280a82f6fafc9a4c53704b90ee093d192bbe7eba3d0388e00e.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>

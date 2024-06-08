@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:51:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802443146</guid>
+      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-grus-i-socialdemokratiets-valgmaskine-11802443146</link>
+      <title>Grus i Socialdemokratiets valgmaskine</title>
+      <description>Tre dage før EU-valget kaster S-kandidat Niels Fuglsang grus i den socialdemokratiske valgmaskine med et kontroversielt forslag om energirenoveringer, som kan komme til at koste danske boligejere hundredtusindvis af kroner. Spidskandidat Christel Schaldemose forsøger at pande forslaget ned, men hvor hårdt kan sagen alligevel ramme Socialdemokratiet? Og hvad betyder det for partiet, at Schaldemose selv har stemt for skrappe krav til energirenoveringer i EU? Det er Slotsholmen, som også går tæt på  Danmarks mest EU-begejstrede parti, der i den seneste måling står til slet ikke at få valgt nogen ind i parlamentet.
+Vært: Thomas Buhl.
+Gæster: Christine Cordsen, politisk analytiker, DR, Henrik Kjerrumgaard, tidligere rådgiver Radikale Venstre.
+Tilrettelæggere: Theodora Renard og Jacob Thue Stenager.</description>
+      <pubDate>Fri, 07 Jun 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:13</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802443146/31e542c871a35712c2e7b47d360eb5878338d75364a899f1f1f3f2bae92d857d.mp3" type="audio/mpeg" length="33449351" />
+    </item>
     <item>
       <guid isPermaLink="false">11802443145</guid>
       <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-den-socialdemokratiske-kampvogn-er-sat-ind-11802443145</link>
@@ -732,19 +746,6 @@ Gæst: Marie Bjerre, digitalisering- og ligestillingsminister, Venstre.</descrip
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:20:27</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343255/eefff8aa046f15634a808ba49a14bacbcb5edd3e9e5de89aa0854dcc6352799e.mp3" type="audio/mpeg" length="29472078" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802343267</guid>
-      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2023/slotsholmen-hvad-nu-venstre-mia-wagner-faerdig-som-minister-11802343267</link>
-      <title>Hvad nu Venstre? Mia Wagner færdig som minister</title>
-      <description>Det er en dårlig dag for Troels Lund Poulsen, der torsdag må opgive sin nye trumf, der skulle have været med til at vende krisen for Venstre. Mia Wagner stopper som digitaliserings- og ligestillingsminister efter bare 14 dage som posten på grund af helbredsproblemer. Hvor stort et problem er det for Venstre? Og hvordan kommer partiet videre herfra? Det spørger Slotsholmen en tidligere rådgiver for Venstre om.
-Værter: Pia Glud Munksgaard og Thomas Buhl.
-Gæst: Jacob Bruun, tidligere rådgiver, Venstre, indehaver af Bruun Advisory.</description>
-      <pubDate>Thu, 07 Dec 2023 15:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:34</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343267/4758e3ef2d037a139158432dbd1a6554b9a7b4e7a495fb58564ce83c3db1c12c.mp3" type="audio/mpeg" length="20998538" />
     </item>
   </channel>
 </rss>

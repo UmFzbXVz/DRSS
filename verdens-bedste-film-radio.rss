@@ -9,7 +9,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:25 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:51:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Produceret for DR af Munck Studios København.</description>
     <category>TV &amp; Film</category>
     <itunes:category text="TV &amp; Film" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122415236</guid>
+      <link>https://www.dr.dk/lyd/special-radio/verdens-bedste-film/verdens-bedste-film-2024/verdens-bedste-film-ratatouille-med-nina-rask-16122415236</link>
+      <title>Ratatouille med Nina Rask</title>
+      <description>"Hver gang jeg ser den, opdager jeg flere og flere ting, jeg kan læse ind i den," siger skuespiller og komiker Nina Rask. Nina har vist Birgitte Hjort Sørensen animationsfilmen Ratatouille fra 2007, og de er enige om, at filmen har enormt meget substans, som bliver leveret med en god portion humor - noget, som Nina også anvender i sit arbejde.
+
+Vært: Birgitte Hjort Sørensen.
+Gæst: Nina Rask.
+Redaktion: Olivia Keblovszki, Jens Malthe Næsby og Rune Born Schwartz.
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Fri, 07 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122415236/cfd46e88d945fde690f79f68dc84c0afdd3b54022ea06412f9f526fdf377c867.mp3" type="audio/mpeg" length="81990597" />
+    </item>
     <item>
       <guid isPermaLink="false">16122415226</guid>
       <link>https://www.dr.dk/lyd/special-radio/verdens-bedste-film/verdens-bedste-film-2024/verdens-bedste-film-breaking-the-waves-med-manon-rasmussen-16122415226</link>

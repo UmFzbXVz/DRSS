@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:42 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:51:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452432235</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432235</link>
+      <title>Fredag 7. jun. 2024</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Camilla Jane Lea.</description>
+      <pubDate>Fri, 07 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432235/a7201b9c4197b679a68a0798becf3445d86358ae56f21b4fa8a62b088f65309e.mp3" type="audio/mpeg" length="252001995" />
+    </item>
     <item>
       <guid isPermaLink="false">16452432234</guid>
       <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432234</link>
@@ -63,19 +76,6 @@ Vært: Camilla Jane Lea.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432232/f918acc57425647109e3beba452612255e690cb4abae86df863c3b30f9e3f7b5.mp3" type="audio/mpeg" length="252001419" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452432231</guid>
-      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432231</link>
-      <title>Mandag 3. jun. 2024</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Jonas Hansen.</description>
-      <pubDate>Mon, 03 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432231/653c3a78b44a46eb7befcc9f2e26bb3c0ef52df59cff82dc12968cb4fe2640ec.mp3" type="audio/mpeg" length="252001991" />
     </item>
   </channel>
 </rss>

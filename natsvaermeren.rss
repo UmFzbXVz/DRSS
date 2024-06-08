@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:47 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:52:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463234</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-det-er-nat-12422463234</link>
+      <title>Det er nat</title>
+      <description>- og det er godt nok mørkt.
+Vært: Katrine Ring.</description>
+      <pubDate>Fri, 07 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463234/42e5b9a0277ad0d47d409efd175ce6ecf3a787ef14385f62d57e2f70ebf3b179.mp3" type="audio/mpeg" length="168481971" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463233</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-folkemusik-og-skaeve-toner-12422463233</link>
@@ -345,20 +358,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363223/7897a3cf55120debe49754e956dbea1de3a1af033a6a761284ea95cc79d8e8b4.mp3" type="audio/mpeg" length="172801588" />
     </item>
     <item>
-      <guid isPermaLink="false">12422363221</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-naar-naturen-kalder-12422363221</link>
-      <title>Når naturen kalder</title>
-      <description>Naturen trænger sig ind på musikkens territorium som en parasit. Musikken svarer igen med kærlighed.
-Vært: Katrine Ring.
-(Sendt første gang 30. maj 2023).</description>
-      <pubDate>Tue, 30 May 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363221/afb89c022607031cfed6c90a1b7bd4ab954a9d747b946e98c6af5afc94ec4dec.mp3" type="audio/mpeg" length="172801509" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422363201</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-lange-fladers-nat-12422363201</link>
       <title>De lange fladers nat</title>
@@ -385,6 +384,21 @@ Vært: Minna Grooss.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363181/e35584c2f00f70f39a2f1f1b1b6df897fc91b4ec856b4b885159ecd5e91ee22d.mp3" type="audio/mpeg" length="172802190" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422263424</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-kaleidoskob-12422263424</link>
+      <title>Kaleidoskob</title>
+      <description>Et mønster er aldrig givet på forhånd. Natsværmeren væver tider, genre og lande sammen og skaber nye farvetoner denne aften. Noget er hørt før, mens andet opstår i en ny sammenhæng og klinger på en anden måde ny måde. Et bud kunne være Joni Mitchell side om side med Phillip Glass, eller Marianne Faithfull der læner sig op ad Vladimir Horowitz og Haydn. Altid med plads til uforudsete overraskelser
+Vært: Minna Grooss.
+www.dr.dk/p2
+(Sendt første gang 21. oktober 2022).</description>
+      <pubDate>Fri, 21 Oct 2022 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263424/292d82a3738b5083e3c73594a39f316d0997adf02e5a747132882a9f24899b11.mp3" type="audio/mpeg" length="168481617" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:46:41 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:51:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410235</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410235</link>
+      <title>Fredag 7. jun. 2024</title>
+      <description>SÅ SKER DET!!! Sidste chance for at DU kan tilkendegive, at du, og dem du har lokket med, stemmer til Europa-Parlamentetsvalget på søndag - og ikke mindst også sidste chance for at tælle med i regnskabet, når VI bliver straffet, som stemmetallet stiger.
+Det er hele vores morgen. Og det stikker af.
+Værter: Mikkel Rosendal og Andreas Kousholt.
+Medvirkende:
+Simon Roliggaard, redaktør, Go' Morgen P3.
+Liva Manghezi, vært, Go' Morgen P3.
+Vecdi Uzuner, vandcykelansvarlig, Kaffesalonen.</description>
+      <pubDate>Fri, 07 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410235/ec534454e8e70135f872c9e3e32dc0b384b4dc1f24d553967058d364b4d6cb12.mp3" type="audio/mpeg" length="254882084" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410234</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410234</link>
@@ -70,23 +88,6 @@ Stå op med Liva Manghezi og Andreas Kousholt, som sender dig både opløftet og
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410232/ae94a39c7f90019a6959223ca0590eb230f79507c412fdb4297f236fd81ac99e.mp3" type="audio/mpeg" length="254881506" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410231</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410231</link>
-      <title>Mandag 3. jun. 2024</title>
-      <description>Andreas er i et toksisk forhold med vejrtjenesterne, så han har kontaktet zoo og fået hjælp fra deres abe.
-Han har også lavet en kandidattest, der på MEGET kort tid kan fortælle dig, hvad du skal stemme.
-Vi skal have faktisk have en del af jer ned at stemme den her uge, for der er straffe til alle værterne, hvis I rammer x antal tusinde, der vil stemme.
-Værter: Mikkel Rosendal og Andreas Kousholt.
-Medvirkende:
-Rosa Bendsen, ser serier i badet.</description>
-      <pubDate>Mon, 03 Jun 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410231/b406f1ef2f72772b70150e9c82f5f5e5160dd55a2969bd22c4ca32b6b668c154.mp3" type="audio/mpeg" length="254881591" />
     </item>
   </channel>
 </rss>

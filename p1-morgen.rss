@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 07 Jun 2024 04:39:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 19:38:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,30 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433236</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433236</link>
+      <title>Lørdag 8. jun. 2024</title>
+      <description>Hvordan har krigen i Gaza ændret arbejdet som ambassadør i Israel? Hvordan har Amira fra "Den Sorte Svane" det? Hvilke partier er i valgforbund sammen, og hvor stor betydning får de?
+Dagens værter: Pernille Rudbæk og Morten Runge.</description>
+      <pubDate>Sat, 08 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433236/2253e45ec84536409ea033a50ac7fb91fde3736936ffa0129c94e710ef86bae4.mp3" type="audio/mpeg" length="158558049" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433235</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433235</link>
+      <title>Fredag 7. jun. 2024</title>
+      <description>I går sænkede ECB renten - hvad er næste skridt for centralbanken? Hvordan målretter politikere annoncer til EP-valget? Og skal kirken prædike om en kønsneutral gud?
+Dagens værter: Bjarne Steensbeck og Ole Brink.</description>
+      <pubDate>Fri, 07 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:23</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433235/ba31d299b5dfbbaed24aeb1d3020b618c000bf4edd178948db19d94fcacba279.mp3" type="audio/mpeg" length="236715081" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433234</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433234</link>
@@ -1816,18 +1840,6 @@ Dagens værter: Bjarne Steensbeck og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:50</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333502/e317e34d4f456efed3da90e541fec281f54c15f8a1c30f3ce798a75f48b38f09.mp3" type="audio/mpeg" length="237384434" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333501</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333501</link>
-      <title>Mandag 11. dec. 2023</title>
-      <description>Hvordan vil EU regulere kunstig intelligens? Hvorfor er det behov for anbefalinger om skærmbrug på ungdomsuddannelser? COP28 i Dubai nærmer sig sin afslutning. Hvad bliver de store stridspunkter i forhold til, hvad der skal stå i aftalen?
-Dagens værter: Bjarne Steensbech og Morten Runge.</description>
-      <pubDate>Mon, 11 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:03</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333501/8b7195da7fdcf8590cddfa4737a57269d2e2437b3e856e93445022fc80da6ddc.mp3" type="audio/mpeg" length="237681441" />
     </item>
   </channel>
 </rss>
