@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 08 Jun 2024 19:51:29 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 06:03:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -417,23 +417,6 @@ Vært: Benedikte Bové.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381887/3fe566ddc6d1e2fd65c539989a5171d65538b57566fdbdf178ce8c2130ec9aa7.mp3" type="audio/mpeg" length="165794569" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422381886</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/benedikte-bove/det-vi-hoerer-en-skabssvensker-springer-ud-12422381886</link>
-      <title>En skabssvensker springer ud</title>
-      <description>Jeg holder virkelig meget af Sverige! Af det svenske sprog, svenske sangere og musikere og svensk kultur og musik i det hele taget. Næsten ligegyldigt hvilken genre: Klassisk, jazz, viser, pop og folkemusik.
-Kom med på en musikalsk tur hinsidan. 
-Vært: Benedikte Bové.</description>
-      <pubDate>Fri, 08 Dec 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000110006</itunes:order>
-      <itunes:season>11</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381886/88193cbd3fc88e7889da6d6f5f72070ca42e16921a292018f4d1b70711c8bb7f.mp3" type="audio/mpeg" length="165794564" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 08 Jun 2024 19:52:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 06:03:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463236</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-haelder-mod-lyset-12422463236</link>
+      <title>Hælder mod lyset</title>
+      <description>Som en tørstig stueplante søger musikken mod det søde liv.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 09 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463236/95bc85491fbab1c0a60a47f6c62e64f580e6875c53ae4c5958f389ea77c39546.mp3" type="audio/mpeg" length="168481435" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463234</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-det-er-nat-12422463234</link>
@@ -358,20 +371,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363223/7897a3cf55120debe49754e956dbea1de3a1af033a6a761284ea95cc79d8e8b4.mp3" type="audio/mpeg" length="172801588" />
     </item>
     <item>
-      <guid isPermaLink="false">12422363201</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-lange-fladers-nat-12422363201</link>
-      <title>De lange fladers nat</title>
-      <description>En hypnotisk aften med en række af nutidens musikere og komponister med et frit forhold til genre. Jonas Struck, Hildur Guðnadóttir, Sarah Davachi, Kjartan Sveinsson, Donicetti og Rameau fører skibet sikkert i havn.
-Vært: Minna Grooss.
-(Sendt første gang 16. maj 2023).</description>
-      <pubDate>Tue, 16 May 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363201/45c886db2698e5e28609d16bee19c3ede9abbda650b2c15b12ec7a4c3f98ef00.mp3" type="audio/mpeg" length="82081605" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422363181</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-mod-oest-paa-bonjour-cafe-12422363181</link>
       <title>Mod øst på Bonjour cafe</title>
@@ -396,9 +395,9 @@ www.dr.dk/p2
       <pubDate>Fri, 21 Oct 2022 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
+      <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263424/292d82a3738b5083e3c73594a39f316d0997adf02e5a747132882a9f24899b11.mp3" type="audio/mpeg" length="168481617" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263424/a22ad859e6ec24a9e24bc61943d7e026eccb3985ad8c0942e20a9ab434e5019a.mp3" type="audio/mpeg" length="172802193" />
     </item>
   </channel>
 </rss>

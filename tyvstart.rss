@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 08 Jun 2024 19:51:57 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 06:03:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -1908,21 +1908,6 @@ Værter: Emil Schiønning og Andreas Kraul.</description>
       <itunes:duration>00:28:53</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350255/bb9f1c807f6b3958ec6c3f9ebad280b6a3a3b43c68d966d945e2eb67ed79a95c.mp3" type="audio/mpeg" length="41611161" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350239</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-haandboldens-hurlumhejhus-13652350239</link>
-      <title>Håndboldens hurlumhejhus</title>
-      <description>Værtslande får selv lov til at vælge sin modstander i mellemrunden, og wildcards bliver tildelt til dem, den internationale håndboldtop lige føler for. 
-Mens kvindernes VM er i fuld gang, har flere konkrete sager genstartet diskussionen om håndbold som en amatørsport.
-Emil Halkier, der er håndboldreporter på DR Sporten, fortæller om hurlumhejhuset i sin elskede sportsgren.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 08 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:32</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350239/d4d65ce5e8c82b8dc16f9793b22c483a59ec2ad5a32b010dea3f3b1835089fbb.mp3" type="audio/mpeg" length="23820348" />
     </item>
   </channel>
 </rss>

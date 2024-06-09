@@ -9,7 +9,7 @@ Vært: Lonnie Kjer.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 08 Jun 2024 19:51:30 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 06:03:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Lonnie Kjer.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452436236</guid>
+      <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-barbra-streisand-15452436236</link>
+      <title>Barbra Streisand</title>
+      <description>I 'Stjernestøv' får du 2 timer med fokus på én særlig kunstner: Højdepunkt, lavpunkt, vendepunkt og anekdoter om hits og alt dét indimellem fra de sangere, 'vi' voksede op med.  
+Vært: Lonnie Kjer.</description>
+      <pubDate>Sat, 08 Jun 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452436236/f7eaab660bd0235820e0411c2444bbb79f70773152cec49d2264cad185bdb291.mp3" type="audio/mpeg" length="168481546" />
+    </item>
     <item>
       <guid isPermaLink="false">15452436226</guid>
       <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-lionel-richie-15452436226</link>
