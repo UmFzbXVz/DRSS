@@ -10,7 +10,7 @@ Vært: Ole Tøpholm.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:06 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -130,20 +130,6 @@ Vært: Lonnie Kjer.</description>
       <itunes:duration>00:12:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452433203/0dcad6dd112c957abab4962d0a58d8d20a90cb3ee63fa2c589d49ff4e884bb2d.mp3" type="audio/mpeg" length="17281453" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452432196</guid>
-      <link>https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen-2024/dansktoppen-15452432196</link>
-      <title>Lørdag 11. maj 2024</title>
-      <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
-Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
-Vært: Lonnie Kjer.</description>
-      <pubDate>Sat, 11 May 2024 12:15:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452432196/42103c4b771d7806e01526b5a5b9874afbd2275d28e770001815decf42d9e3cb.mp3" type="audio/mpeg" length="151201493" />
     </item>
   </channel>
 </rss>

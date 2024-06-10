@@ -9,7 +9,7 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:10 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,18 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332426237</guid>
+      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-13332426237</link>
+      <title>Søndag 9. jun. 2024</title>
+      <description>Anton og Mathilde følger med i parlamentsvalget i fire og en halv time i en helt særlig valgudgave af Balalajka - husk at stemme!</description>
+      <pubDate>Sun, 09 Jun 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>04:30:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426237/26dc6ad2a1439159999420520b9d3a61de9f8242fff78f8c94494cd8aac9526f.mp3" type="audio/mpeg" length="388801461" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332426234</guid>
       <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-rohde-warm-up-13332426234</link>
       <title>Rohde warm-up</title>
@@ -43,23 +55,6 @@ Jens Rohde, formand for Danske Fodbolddommere.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426234/4ffe51f99ab5f67efd1f599e9098e3eac201e9189ab19248aa2516bf558f26a7.mp3" type="audio/mpeg" length="172802133" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332426233</guid>
-      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-hold-kaeft-det-er-mange-penge-13332426233</link>
-      <title>Hold kæft, det er mange penge</title>
-      <description>Vi ser stadig frem mod EP-valget på søndag ved at dele kort ud til politikerne sammen med Jens Rohde. Og så laver vi også vores skelsættende, valgopfordrende quiz, gæt et land-quizzen.
-Vi præsenterer også vores nye format "Hold kæft, det er mange penge", og så har Mathilde highlights med fra Demokratiets aften i går.
-Værter: Mathilde Muus og Anton Ringdal.
-Medvirkende:
-Jørgen Hansen, seniorforsker hos Institut for Ecoscience på Aarhus Universitet.
-Jens Rohde, formand for Danske Fodbolddommere.</description>
-      <pubDate>Wed, 05 Jun 2024 16:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426233/0d2f7bab45ecfbf743ce4c3ddad5b7aaf8eb8aec5ebfd1fcff8861dd375fd500.mp3" type="audio/mpeg" length="172802133" />
     </item>
   </channel>
 </rss>

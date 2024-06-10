@@ -10,7 +10,7 @@ Redaktør: Mikkel Bagger.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:02:58 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Mikkel Bagger.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452440237</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-lyden-af-frihed-polsk-jazz-18452440237</link>
+      <title>Lyden af frihed - Polsk jazz</title>
+      <description>I dag går Danmark til stemmeurnerne angående EU-valget, og i den anledning dykker Ida Rud ned i de polske film og deres film, hvor jazzen ofte spiller så vægtig og smuk en rolle.
+Vært og tilrettelægger: Ida Rud.
+Redaktør: Mikkel Bagger.</description>
+      <pubDate>Sun, 09 Jun 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452440237/761b3be6ad01af2c295f852a194e09b6f4f99fccca924908d7c5e9d1d83dfef1.mp3" type="audio/mpeg" length="168482168" />
+    </item>
     <item>
       <guid isPermaLink="false">18452440227</guid>
       <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-dansk-musik-i-film-og-tv-18452440227</link>

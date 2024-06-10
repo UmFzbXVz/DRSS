@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493205</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-kroppen-i-krise-16122493205</link>
+      <title>Kroppen i krise</title>
+      <description>Spørger man dagens gæst, paramediciner Teis Krag, hvad danskerne bør preppe som det første, så falder svaret prompte på en førstehjælpskasse. I den her episode gennemgår Peter Falktoft med sin gæst behandlingen af forbrændinger, kraftige blødninger og der aflives undervejs et par sejlivede myter, som danskerne har fået galt i krisen. Hvad sker der med kroppen, når vi er pressede under en krise og hvilke symptomer må man aldrig negligere.
+Gæst: Teis Krag.
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 10 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:37:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493205/1646b6e77767a96407f28e83c58a6a8d0c3daf1d49657694c0480477426ab8bb.mp3" type="audio/mpeg" length="54441665" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493204</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-angreb-fra-cyberspace-16122493204</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,26 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400015</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-basim-og-kaya-bruel-15452400015</link>
+      <title>Basim &amp; Kaya Brüel</title>
+      <description>Basim har en historik, som han skammer sig over. Han har det med at såre sine kærester, før de sårer ham. Han skal have en vej ud, inden kærestetoget rammer nogen af de lidt for seriøse stationer. Men hvorfor skal Basim overhovedet have en vej ud? Og hvordan undgår man det, der føles uundgåeligt? 
+ Kaya har lige fejret sølvbryllup og det hele går skæppeskønt. Sådan da. Kaya har nemlig opdaget, at hun sover hamrende godt, når hun sover alene. Så hvordan balancerer man lige behovet for at sove godt med ens partners behov for nærhed - især når den partner måske har et lidt større nusse-putte-behov end én selv? Og er det der med at sove hver for sig i virkeligheden begyndelsen på enden?
+Vi tager en endnu en tur til den lille walisiske pis-by, og så giver hjerteflimmer-toget (med Kaya som konduktør) mig en stor åbenbaring om min kærestes krop.
+Gæster: Basim &amp; Kaya Brüel
+Ekspert: Jytte Vikkelsøe. 
+Vært: Sebastian Lynggaard.  
+Producer: Cæcilie Helena Denman-Gretoft. 
+Musik: "Hold up" Beyonce. 
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 10 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:41:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400015/e83a88b07ea0bf0006f0af4fb3a722215f32df0186e27755e70ac8f56dd79513.mp3" type="audio/mpeg" length="146078075" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400014</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-jakob-engel-schmidt-og-mikkeline-thomsen-15452400014</link>
@@ -2021,24 +2041,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>00:50:13</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195324/915f0c3ff5f5719fa43e3189588a35b5eccbee24bfb62174d9c377da4a6b80fb.mp3" type="audio/mpeg" length="72336828" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195323</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/sommerspecial-spoergsmaal-fra-lytterne-13332195323</link>
-      <title>Sommerspecial: Spørgsmål fra lytterne</title>
-      <description>Det er blevet sommer og tid til endnu en spørgerunde med verdens bedste lyttere.
-Jytte og Sara svarer på alle de gode spørgsmål, der er landet i hjerteflimmer postkassen - god lytning og nyd solen!
-
-Medvirkende: Parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 09 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:47:11</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195323/d5bf81dc6f90b7d4319e194a429c4488ec2ba0f8f6124b92febc4cbd0ca2a4b1.mp3" type="audio/mpeg" length="67967289" />
     </item>
   </channel>
 </rss>

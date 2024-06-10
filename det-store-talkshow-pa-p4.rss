@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:06 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -82,20 +82,6 @@ Wafande: han er sanger, sangskriver og musiker. Han har lagt stemmer til tegnefi
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440206/84b179953edf49b6c2e434ecdcd4577f0691a9a78c813afbff5941f8addfb4ae.mp3" type="audio/mpeg" length="168482176" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452440196</guid>
-      <link>https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/det-store-talkshow-15452440196</link>
-      <title>Lørdag 11. maj 2024</title>
-      <description>De to værter Cecilie Hother og David Mandel får hver lørdag besøg af tre kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.
-Gæsterne er håndboldlandsholdsspillerne Emil Jakobsen, Lukas Jørgensen, Mads Mensah og Niclas Kirkeløkke. Fire håndboldspillere med mere end 370 landskampe tilsammen. 
-Herrelandsholdet er samlet inden to landskampe i denne weekend mod Norge og Kroatien (Lørdag eftermiddag og søndag eftermiddag). Og samtidig er herrelandsholdet i gang med de vigtige forberedelser til OL til sommer i Paris. Derfor har Det Store talkshow besøgt landsholdslejren.</description>
-      <pubDate>Sat, 11 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440196/299d30122a691f02682e39653f3f6cb4dc6c1ce366e1a39c7e714f6d0d146423.mp3" type="audio/mpeg" length="168482179" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:02:57 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Produceret for DR af Munck Studios København.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122480237</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/sjael/sjael-2024/sjael-16122480237</link>
+      <title>Søndag 9. jun. 2024</title>
+      <description>Med Sjæl har soul-musikken fået et hjem på P8. Kom med rundt i hele sjælens anatomi historisk og genremæssigt med Karen Rosenberg bag mikrofonen. 
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Sun, 09 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122480237/bef282495a94a35bed21ef163f6a9d3d49dbe398d5dc866d8fe7f071a056ee34.mp3" type="audio/mpeg" length="168482101" />
+    </item>
     <item>
       <guid isPermaLink="false">16122480227</guid>
       <link>https://www.dr.dk/lyd/p8jazz/sjael/sjael-2024/sjael-16122480227</link>

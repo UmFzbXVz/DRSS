@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332425237</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-13332425237</link>
+      <title>Søndag 9. jun. 2024</title>
+      <description>Kan vi gøre en forskel i dit liv, mens du er nede at stemme til Europa-Parlamentsvalget? Vi gør i hvert fald et forsøg. Det er valgdag, og Drømmeholdet er med dig fra 10-12, hvor vi sammen med alle P3's lyttere forsøger at opfylde din drøm, mens du er nede at stemme!</description>
+      <pubDate>Sun, 09 Jun 2024 10:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425237/8a81b65c9d915bee910490a5d63830724da04abd51eb6c822c88c4d65c872125.mp3" type="audio/mpeg" length="172802166" />
+    </item>
     <item>
       <guid isPermaLink="false">13332425235</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-soegen-efter-stryhn-og-smuk-nordmand-13332425235</link>
@@ -54,22 +66,6 @@ Og så skal vi til noget af en drøm. Victoria er altid blevet kaldt Stryhns på
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425234/ced57c36fa1a1aa745f8f74a07161a00ad385fbb3fe4f7a36adb7f6938992854.mp3" type="audio/mpeg" length="254882184" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425233</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-klatring-i-tv-mast-askespredning-og-far-kato-fan-13332425233</link>
-      <title>Klatring i tv-mast, askespredning og far-Kato-fan</title>
-      <description>Du forstår slet ikke, hvor glad du kan gøre os, hvis bare du sender din drøm ind til p3drommer@dr.dk - husk dit telefonnummer.
-Jacob drømmer om at kravle op i et meget højt tårn. Faktisk en tv-mast på over 200 meter. Det er dog ikke noget man bare lige kan gøre.
-Herefter skal vi finde endnu en sjov stemme, som kan få husket folk på at stemme til EP-valget på søndag.
-Mia drømmer om at sprede sin fars aske over Det Gule Rev, men hun har ingen båd.
-Til sidst har Frederikke en drøm på vegne af sin far. Nemlig en hilsen fra Kato.</description>
-      <pubDate>Wed, 05 Jun 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425233/7fa64f9f72f15d2d2bde895eba7290bd26a6e175703e11d78e0986f9b07378eb.mp3" type="audio/mpeg" length="254881609" />
     </item>
   </channel>
 </rss>

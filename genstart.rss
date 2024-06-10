@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:15 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:36:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460136</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Donalds dom</title>
+      <description>Anklageskriftet mod Donald Trump bliver læst nærmest rytmisk remset op: 'Anklage nummer ét: skyldig, anklage to: skyldig, anklage tre: skyldig....' Det står klart, at USA's tidligere præsident er kendt skyldig i alle 34 anklager, der har været rejst mod ham under retssagen i New York. Ifølge kendelsen, så har han forfalsket dokumenter og forsøgt at dække over tystys-penge han har betalt pornoskuespillerinden Stormy Daniels tilbage i 2016. Dommen lander i et miskmask af splittelse. Selv hævder Trump nærmest selvfølgeligt, at dommen er udtryk for et ødelagt, politiseret system, og han anker den med det samme. I dagens Genstart udlægger Rune Lykkeberg konsekvenserne for præsidentkandidaten - og kampen om den sandhed, som det amerikanske retssystem er blevet en del af.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 6/6.</description>
+      <pubDate>Mon, 10 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:39</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460136/ea5302d3a8be40ae976e6c714d21bab2768f99ed9e9d0199744cdef2b8cd590b.mp3" type="audio/mpeg" length="34075453" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460135</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9604,19 +9618,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:34</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150115/b4d5cd60e9c3ac4749b3bff2e39ec87f41d9c4fbf0f7e27c3afa077469b596ac.mp3" type="audio/mpeg" length="33941834" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150114</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-manden-med-de-gyldne-oerer-11802150114</link>
-      <title>Manden med de gyldne ører</title>
-      <description>Flemming Rasmussen har mixet sig gennem den moderne musikhistorie, som producer i det legendariske danske studie Sweet Silence. Fra fødselshjælper for Metallica, natte-jam med Ringo Starr. Diplomat for Anne Linnet-band til den allerførste debut-optagelse - med Gasolin. Hvordan ser de seneste 45 års musikhistorie ud gennem teknikerens tonede briller? Og hvad har det gjort ved musikken og kunsten, at enhver med en computer i dag selv kan indspille hits?  Flemming Rasmussen, der netop har samlet sin fortælling i bogen Rock og Stjernestøv, fortæller.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 09 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150114/ffbb6e2a86f2bf78e0983050ee497c697968238916ab242d3879bb43d1f95269.mp3" type="audio/mpeg" length="34764937" />
     </item>
   </channel>
 </rss>

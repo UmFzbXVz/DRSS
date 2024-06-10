@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:10 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,23 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481863</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-sproed-musik-til-traette-oerer-12422481863</link>
+      <title>Sprød musik til trætte ører</title>
+      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg lytter til efter fyraften og når jeg har fri.
+Denne gang med franske bagateller, norske folketoner og sprød barokmusik, som man kan nyde, selv om ørerne er blevet lidt trætte.
+Vært: Jens Cornelius.</description>
+      <pubDate>Sun, 09 Jun 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000180003</itunes:order>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481863/ea8141098c69c4650a42c8e93574592f9936e1506137dc06235b25bfaebb8344.mp3" type="audio/mpeg" length="168482184" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481862</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-doede-pianisters-klub-12422481862</link>

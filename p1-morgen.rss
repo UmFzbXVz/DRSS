@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:16 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:32:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,17 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433237</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433237</link>
+      <title>Søndag 9. jun. 2024</title>
+      <description>- med radioavis, aktualitet, baggrund og debat.</description>
+      <pubDate>Sun, 09 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:52</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433237/955b263c46d62192aec75c9777cf241ba6e47292266a254d6c57db55a2ccebf4.mp3" type="audio/mpeg" length="158225121" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433236</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433236</link>
@@ -1812,22 +1823,6 @@ Dagens værter: Morten Runge og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:53</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333504/d35dad9c6ccdebeb49fd572aa81b4d54b3df8af59879e9940dc4115c4a2331bd.mp3" type="audio/mpeg" length="237451243" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333503</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333503</link>
-      <title>Onsdag 13. dec. 2023</title>
-      <description>For at omgå koranloven har islamkritikkerren Rasmus Paludan startet en teatertrup og vil lave et teaterstykke, hvor koranen bliver brændt af - det må man nemlig godt. Er et teaterstykke med Rasmus Paludan provokunst eller politisk agitation?   
-Et stort flertal af medlemmerne af FN's Generalforsamling havde hermed stemt FOR en resolution, der kaldte på en øjeblikkelig våbenhvile i Gaza. OG for første gang stemte Danmark også ja.
-I oktober undlod Danmark at stemme i en lignende afstemning i samme FN-organ - blandt andet fordi Hamas' terrorangreb i Israel i starten af oktober ikke blev fordømt i teksten, lød det dengang fra udenrigsminister Lars Løkke Rasmussen. Nu stemmer vi for. Hvad er anderledes mellem denne resolution og den tidligere?
-For få øjeblikke siden landede en aftale på klimatopmødet COP28 i Dubai. Aftalen er IKKE bindende, men OPFORDRER landene til at gennemføre "dybe, hurtige og vedvarende" nedskæringer i udledningen af drivhusgasser.
-Hvad siger den her COP28 om den globale handlekraft i forhold til at håndtere vores udfordringer med klimaforandringer?
-Dagens værter: Pernille Rudbæk og Ole Brink.</description>
-      <pubDate>Wed, 13 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:42:31</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333503/68604f8305a67d92048af033c163d0b1d757aa604527b8f922111b481d11f53a.mp3" type="audio/mpeg" length="234029025" />
     </item>
   </channel>
 </rss>

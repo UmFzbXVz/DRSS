@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:02:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436623</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-en-personlig-fortaelling-fra-selma-judith-med-amy-winehouse-som-bagtaeppe-16452436623</link>
+      <title>En personlig fortælling fra Selma Judith med Amy Winehouse som bagtæppe</title>
+      <description>Jeg har besøg af Selma Judith, som fortæller meget personligt om, hvordan det går, og hvilke udfordringer livet kan byde på, både når ens mor pludselig dør, og når man måske ryger for mange joints. Alt sammen pakket ind i inderlighed og store blandende føelser og masser af grin. Jeg glæder mig rigtig meget til, du skal lytte med. Vi kommer altså dybt ind i nogle personlige rum i dag.
+Mange hilsner Goodluck Casper.</description>
+      <pubDate>Sun, 09 Jun 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:10:49</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436623/61a918b8a0816c4ca1834a0ddc426f6e52ca8538153c09dd608b846b0305ad92.mp3" type="audio/mpeg" length="101981247" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436622</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-i-godt-selskab-med-jung-og-war-on-drugs-16452436622</link>

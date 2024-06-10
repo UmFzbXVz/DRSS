@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 09 Jun 2024 06:03:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:41:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,25 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451106</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-eu-finalen-fransk-valgbombe-og-kandidater-paa-vippen-11802451106</link>
+      <title>EU-finalen, fransk valgbombe og kandidater på vippen</title>
+      <description>Der er blevet hujet højt og mindre højt blandt de danske partier. Du får et overblik over, hvordan resultaterne indtil videre ser ud. 
+Præsident Macron overraskede og udskrev valg efter hvad der ligner en kæmpe sejr til rivalen Marine Le Pens parti i Europa. 
+Og så taler vi med to kandidater, der havde meget at vinde og tabe ved valget søndag. 
+Vært: Annika Wetterling.
+Medvirkende: 
+Lasse Engelbrecht, journalist på DR's udlandsredaktion.
+Sigrid Friis, spidskandidat Radikale Venstre.
+Kristoffer Storm, spidskandidat Danmarksdemokraterne.</description>
+      <pubDate>Mon, 10 Jun 2024 02:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451106/45ceb0325a1f55ea2d22fca396c656e04c492418966f7d7b539ee7e628cdf2b3.mp3" type="audio/mpeg" length="24842186" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451105</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-et-gammelt-dna-bevis-skoleangreb-og-partialliancer-11802451105</link>
