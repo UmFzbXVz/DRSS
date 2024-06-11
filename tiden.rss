@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:47 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:52:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451107</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-sexisme-i-musikbranchen-eu-til-hoejre-og-modi-i-modvind-11802451107</link>
+      <title>Sexisme i musikbranchen, EU til højre og Modi i modvind</title>
+      <description>Flere kvindelige musikere står frem med vidnesbyrd om en branche med sexisme og ulighed. Der var stor fremgang til højrefløjspartier rundt om i Europa, men var det så meget, som flere havde spået? 
+Modi er blevet indsat som premierminister, trods fremgang til den indiske opposition ved valget. 
+Vært: Adrian Busk og Annika Wetterling.
+Medvirkende:
+Sandra Brovall, DR's kulturkorrespondent.
+Thomas Sehested, Indien-ekspert.</description>
+      <pubDate>Tue, 11 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:50</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451107/b63ab12afc10c2fb77caae07aa7e0803dd8cb3f8588c1645ccb93b9757c4f784.mp3" type="audio/mpeg" length="27145033" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451106</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-eu-finalen-fransk-valgbombe-og-kandidater-paa-vippen-11802451106</link>

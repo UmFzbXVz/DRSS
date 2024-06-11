@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:49 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:52:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463241</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-techfaste-12422463241</link>
+      <title>Techfaste</title>
+      <description>I februar 2024 stillede boghandler Carsten Kaag fra København det åbenlyst nødvendige spørgsmål: hvornår teckfaster du? Svaret i Natsværmeren er, hver aften mellem kl. 22-24. Velkommen til døgnets pauserum.
+Vært: Minna Grooss.</description>
+      <pubDate>Tue, 11 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463241/a249ddd634020cf15f2e6d40a1f2b2a4d2288f352d0424217be1f39fd4858af0.mp3" type="audio/mpeg" length="168481578" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463236</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-haelder-mod-lyset-12422463236</link>
@@ -232,19 +245,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463201/4932a6f187c8bd59aa30f13a5ed35a216b38036dbea9d606296e4328dd866288.mp3" type="audio/mpeg" length="168482107" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463196</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tidsrejse-12422463196</link>
-      <title>Tidsrejse</title>
-      <description>Når en tidsdimension ikke er nok. 
-Vært: Katrine Ring.</description>
-      <pubDate>Sun, 12 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463196/cd0f8c769a3e63fa5c693561c9ee2a9cae3b5fa9df61f5cf88beb56a98bd13ee.mp3" type="audio/mpeg" length="168481402" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463086</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-komma-i-natten-12422463086</link>
       <title>Et komma i natten</title>
@@ -343,6 +343,20 @@ Vært: Tina Rømer.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363242/4c05ad573cca2166fa43e55cc2db46c311cf3664386a7c7f4ab469b21f8c2cb1.mp3" type="audio/mpeg" length="172801528" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363227</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-midsommer-12422363227</link>
+      <title>Midsommer</title>
+      <description>En længsel efter midsommer, brændelugt i luften, insekternes summen og ro, ro, ro. 
+Vært: Katrine Ring.
+(Sendt første gang 5. juni 2023).</description>
+      <pubDate>Mon, 05 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363227/e78bb5176fb968553258cb9384bb8e6a8d8ea82f7ab81146ddd41e90e77e8b91.mp3" type="audio/mpeg" length="168482056" />
     </item>
     <item>
       <guid isPermaLink="false">12422363223</guid>

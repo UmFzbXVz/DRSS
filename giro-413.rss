@@ -12,7 +12,7 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:40 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:52:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -94,22 +94,6 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
       <itunes:duration>01:45:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452422207/e91e3fcec74c00e9f26268be1a40e6e864846e20a2d91c063c8608ff883dc643.mp3" type="audio/mpeg" length="151202159" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452422197</guid>
-      <link>https://www.dr.dk/lyd/p5/giro-413/giro-413/giro-413-15452422197</link>
-      <title>Søndag 12. maj 2024</title>
-      <description>Vært Gitte Førby sammensætter ugens program baseret på lytternes henvendelser. 
-Bidrag kan sendes til:
-Giro: Kontoart: 01 Gironr.: 7000413
-Eller via MobilePay: 724 413 - send herefter din hilsen på giro413@dr.dk
-Eller indtal selv din hilsen - ring 7020 7030.</description>
-      <pubDate>Sun, 12 May 2024 12:15:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452422197/556cc59e05912d982952465840b42fdb46f7bc3933fe0bee183a3f83280c83f3.mp3" type="audio/mpeg" length="151201583" />
     </item>
   </channel>
 </rss>

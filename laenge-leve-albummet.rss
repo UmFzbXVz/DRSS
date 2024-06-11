@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:51:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -296,18 +296,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>01:13:12</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354643/856e60d6f2316faaaeb0daf98d165a843bbfe01ea7156c7511448d2e1407bcee.mp3" type="audio/mpeg" length="105433739" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354642</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-myrkur-og-the-cranberries-no-need-to-argue-16452354642</link>
-      <title>Myrkur og The Cranberries "No Need to Argue"</title>
-      <description>Amalie Bruun aka Myrkur har en storslået 90'er klassiker med, nemlig The Cranberries og deres album fra 1994 "No Need to Argue". Vi taler dybt og inderligt om al den sjæl, der ligger i sanger og sangskriver Dolores' stemme og kærligheden til de keltiske rødder. Og selvfølgelig får vi også hele historien om den udødelige klassiker "Zombie".</description>
-      <pubDate>Sun, 10 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:59:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354642/05eb87d955b17e60518842a4e1c0a501504d2ddb02741337bd6e7d6a281d0fbe.mp3" type="audio/mpeg" length="85545655" />
     </item>
   </channel>
 </rss>

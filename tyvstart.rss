@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:51:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450116</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-sejldronningen-naegter-at-afgive-sin-krone-13652450116</link>
+      <title>Sejldronningen nægter at afgive sin trone</title>
+      <description>Danmarks helt store medaljehåb. 
+Anne-Marie Rindom er under et gevaldigt pres til OL, når hun skal forsvare sin guldmedalje. 
+Den firedobbelte verdensmester er den helt store stjerne ude på vandet, og i dagens afsnit Tyvstart spørger vi den 32-årige østjyde ind til, hvordan hun i en årrække har været i verdenstoppen, og hvor længe hun har tænkt sig at blive ved. 
+Vært: Rikke Smed Iversen.</description>
+      <pubDate>Tue, 11 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450116/3cd750091982d20f74e1cf93f3a9d5eb078add011467c05c8609af299992a7a2.mp3" type="audio/mpeg" length="25037337" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450115</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-hjulmands-hovedpine-og-aalborgs-smertefulde-soelvmedaljer-13652450115</link>
@@ -1907,22 +1922,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:55</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350240/2ccb136275bdbc11ec656403dc8b5fef6eeae2b3ade86e13abfef25a14d05e8d.mp3" type="audio/mpeg" length="24385403" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350255</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-special-kritik-af-kasper-schmeichel-13652350255</link>
-      <title>Special: Kritik af Kasper Schmeichel</title>
-      <description>Den danske landsholdskeeper Kasper Schmeichel inviterer til en længere snak i Belgien, hvor han spiller for Anderlecht. 
-Han ser tilbage på de seneste år med en hård tid i Nice, bruddet med Leicester og ikke mindst landsholdets EM-kvalifikation. 
-Sidstnævnte har været genstand for meget kritik, mens der også har været sat spørgsmålstegn ved Schmeichel selv.
-
-Værter: Emil Schiønning og Andreas Kraul.</description>
-      <pubDate>Sun, 10 Dec 2023 07:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:28:53</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350255/bb9f1c807f6b3958ec6c3f9ebad280b6a3a3b43c68d966d945e2eb67ed79a95c.mp3" type="audio/mpeg" length="41611161" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:30 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:51:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,19 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332426241</guid>
+      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-13332426241</link>
+      <title>Mandag 10. jun. 2024</title>
+      <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
+Værter: Anton Ringdal og Mathilde Muus.</description>
+      <pubDate>Mon, 10 Jun 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426241/91595a9b74afd1790f85b4b9725c11d88b4b4626baf0e1b251fd14fca12bdbe6.mp3" type="audio/mpeg" length="172802133" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332426237</guid>
       <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-13332426237</link>
       <title>Søndag 9. jun. 2024</title>
@@ -37,24 +50,6 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
       <itunes:duration>04:30:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426237/26dc6ad2a1439159999420520b9d3a61de9f8242fff78f8c94494cd8aac9526f.mp3" type="audio/mpeg" length="388801461" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332426234</guid>
-      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-rohde-warm-up-13332426234</link>
-      <title>Rohde warm-up</title>
-      <description>Til ingens overraskelse er der nærmest ingen, der kender spidskandidaterne til EP-valget. Det viser en ny undersøgelse som DR Nyheder har fået lavet af Epinion. Men står det rent faktisk så galt til? Kan man sige hvad som helst om dem, uden folk opdager det? Det tester vi i dag.
-Hver dag i den her ekstra spændende uge ringer vi til Jens Rohde. Den eneste i Danmark, der er kvalificeret til at dømme politiske situationer ud fra fodboldloven. Så det gør vi selvfølgelig.
-Vi laver også 'Gæt et land quiz' og snakker om Mathildes e-Boks.
-Værter: Mathilde Muus og Anton Ringdal.
-Medvirkende:
-Lars Krull, seniorrådgiver ved Aalborg Universitet og bankekspert.
-Jens Rohde, formand for Danske Fodbolddommere.</description>
-      <pubDate>Thu, 06 Jun 2024 16:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426234/4ffe51f99ab5f67efd1f599e9098e3eac201e9189ab19248aa2516bf558f26a7.mp3" type="audio/mpeg" length="172802133" />
     </item>
   </channel>
 </rss>

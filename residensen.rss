@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:17 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:51:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421241</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421241</link>
+      <title>Mandag 10. jun. 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Mon, 10 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421241/d29c14f415cef8691ae1634d97b9558dc823f229b9cf785b0de765183c36cfc8.mp3" type="audio/mpeg" length="172802166" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421236</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-northside-13332421236</link>

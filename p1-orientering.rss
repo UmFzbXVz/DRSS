@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:52:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410241</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410241</link>
+      <title>Mandag 10. jun. 2024</title>
+      <description>Villy Søvndal kommer i Europaparlamentsvalget som 72-årig. Det bedste valg i mands minde for SF? Hvorfor kan musikbranchen ikke få bugt med sexisme? Og hvordan bliver magtfordelingen i Bruxelles?
+Dagens værter: Anne Kirstine Herman og Jan Falkentoft.</description>
+      <pubDate>Mon, 10 Jun 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:22:04</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410241/6d461fc80f2573315e4a10efe33be40bde762e400be156825b53f3511c10a6d3.mp3" type="audio/mpeg" length="118187458" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410235</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410235</link>
@@ -1690,38 +1702,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:01</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302505/924f55605abf1c4c46bfec6c5153ecef518655566c9bdc4c889a47ac95fb2904.mp3" type="audio/mpeg" length="79234441" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304504</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304504</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Thomas Tjaerandsen og Søren Carlsen.
-Og i dagens udgave af Orientering Udsyn:
-Selvom Danmark fortsat spæder til, så får Ukraine sværere og sværere ved at få pengene til at følge med støtteerklæringerne. Så i et forsøg på at sætte skub i den amerikanske hastelov, der skal sikre milliarder af dollars i støtte, har præsident Zelenskyj været på charmetur til Washington. Men spørgsmålet om den amerikanske støtte til krigen er blevet en del af et amerikansk indenrigspolitisk slagsmål, der komplicerer tingene yderligere 
-EU er nu -stort set- blevet enig om en omfattende AI-lov, der som den første af sin slags forsøger at regulere brugen af kunstig intelligens. Og det er med god grund, for Europa er tidligere kommet for sent ud af starthullerne, når man har skulle tæmme den nye teknologi.
-Gæster: Rasmus Brun Pedersen, lektor i International Politik ved Aarhus Universitet og Therese Moreau, Datatech-redaktør og journalist på techmediet Version2.
-Tilrettelæggelse: Asta Handberg og Sven Johannesen.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Thu, 14 Dec 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:08</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304504/edc5165940e55c0350f9ec129bb75d757c69e2f7c9a0731933b41dae755df85a.mp3" type="audio/mpeg" length="79412998" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310504</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310504</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Thomas Tjaerandsen og Søren Carlsen.</description>
-      <pubDate>Thu, 14 Dec 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:06</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310504/86f600daeb58e528233a4420324bc4e0e739a3fee8290ceb96d1b19d5fe5b015.mp3" type="audio/mpeg" length="79347844" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:51:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -48,18 +48,6 @@
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418206/83678d722063fdc9dde36cbc79ffbf97b570a8d2aa007753f455eef92505cd93.mp3" type="audio/mpeg" length="172801503" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332418197</guid>
-      <link>https://www.dr.dk/lyd/p3/neonlys/neonlys-2024/neonlys-soendag-og-saenkede-skuldre-13332418197</link>
-      <title>Søndag og sænkede skuldre</title>
-      <description>Læn dig tilbage i selskab med Alida denne smukke søndag, der spiller det nyeste, fineste hiphop og r'n'b - og til tider med nogle afstikkere. Blandt andet en dansk reggaeton-artist!</description>
-      <pubDate>Sun, 12 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332418197/e2d3eee09b21ac838ee8f0341846369f2a08cc4a54cff6843b496486fb015f93.mp3" type="audio/mpeg" length="172801482" />
     </item>
   </channel>
 </rss>

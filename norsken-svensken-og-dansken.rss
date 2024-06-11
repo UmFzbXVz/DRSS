@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:52:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -32,8 +32,8 @@
       <pubDate>Sat, 08 Jun 2024 07:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122414237/eb5014fa884cb6cdd814ef4374e0780c00fd00289a540e77f56ca6ccc8291d42.mp3" type="audio/mpeg" length="82082132" />
+      <itunes:duration>00:56:07</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122414237/b79e2d932515bd636590b4b9001dc2843837435bb817490030bef92021e6d616.mp3" type="audio/mpeg" length="80817236" />
     </item>
     <item>
       <guid isPermaLink="false">16122414227</guid>
@@ -287,17 +287,6 @@
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:57:11</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122314507/022319bfb882d2d745e8f9b680855b4192f11bc258accbb848fa5aa60c83e276.mp3" type="audio/mpeg" length="82366041" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122314497</guid>
-      <link>https://www.dr.dk/lyd/p1/norsken-svensken-og-dansken/norsken-svensken-og-dansken-2023/norsken-svensken-og-dansken-klimafarce-og-svensk-plagiat-16122314497</link>
-      <title>Klimafarce og svensk plagiat</title>
-      <description>Er Norge Nordens klimasynder nr. 1? Er Sverige det nye Ungarn? Eller er Sverige i virkeligheden kun en dårlig kopi af Danmark?</description>
-      <pubDate>Sat, 09 Dec 2023 07:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:11</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122314497/c47a65aa49aef4e024b529c6484bc4dc8b71d2e8dda606db4a0e7fd5905cad47.mp3" type="audio/mpeg" length="80926022" />
     </item>
   </channel>
 </rss>

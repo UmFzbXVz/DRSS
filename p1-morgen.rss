@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:32:26 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:52:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,10 +25,24 @@
     <category>News</category>
     <itunes:category text="News" />
     <item>
+      <guid isPermaLink="false">11802433241</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433241</link>
+      <title>Mandag 10. jun. 2024</title>
+      <description>P1 morgen stiller skarpt dagen efter EP-valget. De vigtigste historier, analyser og reaktioner dagen derpå. Vi spørger blandt andet om: 
+Hvor tæt blev valget for de danske kandidater? Hvad kommer højrefløjens fremgang til at betyde for europaparlamentet? Hvem er vindere og tabere, hvis vi kigger på kortet over Europa?
+Dagens værter: Pernille Rudbæk og Bjarne Steensbæk</description>
+      <pubDate>Mon, 10 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:39:56</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433241/1b272b50fdd1e163fe75135e9e29b4e0c6a38755e588368fd74068db0f1b284e.mp3" type="audio/mpeg" length="316716129" />
+    </item>
+    <item>
       <guid isPermaLink="false">11802433237</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433237</link>
       <title>Søndag 9. jun. 2024</title>
-      <description>- med radioavis, aktualitet, baggrund og debat.</description>
+      <description>Hvor afgørende er EP-valget i Tyskland for hele EU? Hvorfor har højrefløjen vind i de italienske sejl, og hvem står bag? Hvordan ser en valgdag ud for en ep-kandidat?
+Dagens værter: Pernille Rudbæk og Ole Brink.</description>
       <pubDate>Sun, 09 Jun 2024 08:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -1811,18 +1825,6 @@ Dagens værter: Pernille Rudbæk og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:46:11</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333505/fab9d18e66f21c7387d6d044fd8a6c44286d3b124ecbb071f8364a88ccbf8d2a.mp3" type="audio/mpeg" length="239316917" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333504</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333504</link>
-      <title>Torsdag 14. dec. 2023</title>
-      <description>Skal man ændre patientrettighederne på kræftområdet? Begår Israel krigsforbrydelser, når der siden krigens start er blevet ramt 92 FN-skoler i Gaza? Og hvordan ser trusselsbilledet mod Danmark ud?
-Dagens værter: Morten Runge og Pernille Rudbæk.</description>
-      <pubDate>Thu, 14 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:53</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333504/d35dad9c6ccdebeb49fd572aa81b4d54b3df8af59879e9940dc4115c4a2331bd.mp3" type="audio/mpeg" length="237451243" />
     </item>
   </channel>
 </rss>

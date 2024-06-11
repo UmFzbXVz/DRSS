@@ -10,7 +10,7 @@ Vært: Jørgen de Mylius.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:51 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:52:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Jørgen de Mylius.</description>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452423241</guid>
+      <link>https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423241</link>
+      <title>Mandag 10. jun. 2024</title>
+      <description>Musik og historier fra pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+      <pubDate>Mon, 10 Jun 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452423241/ebdb54dcf088ebc14e0630b5550f32ba86f7fd096865b53139b0eb15c19c9780.mp3" type="audio/mpeg" length="79201972" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452423235</guid>
       <link>https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423235</link>
       <title>Fredag 7. jun. 2024</title>
@@ -39,19 +52,6 @@ Vært: Jørgen de Mylius.</description>
       <itunes:duration>00:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452423235/9daddbe24e4edfb75bb60ca0088af2d61983ca466060a413fdd4fa97d6f305f9.mp3" type="audio/mpeg" length="79201396" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452423234</guid>
-      <link>https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423234</link>
-      <title>Torsdag 6. jun. 2024</title>
-      <description>Musik og historier fra pigtrådsæraen.
-Vært: Jørgen de Mylius.</description>
-      <pubDate>Thu, 06 Jun 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452423234/0a1a1ea90f8e7f7f54e9f9d91ca117281d4d105b2d0a0e7e9690fe90255dfe5b.mp3" type="audio/mpeg" length="79201972" />
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:36:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:45:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460137</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Svanemærket hvidvask</title>
+      <description>For TV2's rullende skjulte kameraer afsløres en umage kreds af karakterer. Et samarbejde om svindel pakket ind i nærmest normale, venskabelige, helt hyggelige snakke og møder. Et teater af kram, kyllingesandwiches og kriminalitet udspiller sig for øjnene af hele Danmark, der nu er på fornavn med folk fra bandemiljøet - og dem der hjælper dem. I rollerne som topadvokat, rocker, direktør, kriminel og jurist indtager den lille kreds skærmen, som var de castet til det. Journalist, podcastvært og forfatter Carsten Norton tager Genstart med ind i den større kreds i underverdenen - han fortæller om de sociale dynamikker og regler for tillid, der nu er blevet udfordret af en stikker - og hvad det kan forandre.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 7/6.</description>
+      <pubDate>Tue, 11 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460137/6ea4bfc5e01d9d4c0d6bdbc872c3f8fa4685becc8f60bac75d3eede7aef3ba1a.mp3" type="audio/mpeg" length="39564748" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460136</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9605,19 +9619,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:24:47</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150116/7ee882258466e7b6927288e2b61a49f856d8490f3587faad8634bd9e3318d208.mp3" type="audio/mpeg" length="35694600" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150115</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-radikale-rystelser-11802150115</link>
-      <title>Radikale rystelser</title>
-      <description>Sofie Carsten Nielsen er egentlig klar til at forlade dansk politik, da hun i stedet bliver formand for Radikale Venstre. Metoo-bevægelsen har rystet partiet, krænkelsessagerne vælter ud af skabene og flere sætter spørgsmålstegn ved, om den tidligere næstformand er den rigtige til at bringe partiet videre. Stormen er stilnet, og efter et halvt år på formandsposten slår Sofie Carsten Nielsen på reformtrommen og flirter med blå blok. Hvad vil hun med partiet? Og er hun den rigtige til at bringe partiet ud af fortidens skygger? Vi spørger Sofie Carsten Nielsen, formand for Radikale Venstre.
-Vært: Knud Brix.</description>
-      <pubDate>Thu, 10 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:34</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150115/b4d5cd60e9c3ac4749b3bff2e39ec87f41d9c4fbf0f7e27c3afa077469b596ac.mp3" type="audio/mpeg" length="33941834" />
     </item>
   </channel>
 </rss>

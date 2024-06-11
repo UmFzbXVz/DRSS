@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:51:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,19 @@ Vært: Charlotte Hagen Striib.</description>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452428241</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-lone-leth-larsen-15452428241</link>
+      <title>Med Lone Leth Larsen</title>
+      <description>I 16 år boede Lone Leth Larsen i den by, som mange nyvalgte EU-parlamentarikere nu skal lære at kende. Hun er forfatter til tidligere udgaver af 'Turen går til Bruxelles' - og tilbringer i dag pensionistlivet som beboer på Læsø. 
+Vært: Charlotte Striib.</description>
+      <pubDate>Mon, 10 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428241/f4d768a3efaa0b956cf44da7937398f9e095e42fb6156a072606d541db0eadb0.mp3" type="audio/mpeg" length="168482181" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452428235</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-astrid-haug-15452428235</link>
       <title>Med Astrid Haug</title>
@@ -38,19 +51,6 @@ Vært: Charlotte Striib</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428235/646577f7d4b4c3825b5d6d423db7e3d91fe2aabca1bd1f906918fc16fe4f2e09.mp3" type="audio/mpeg" length="168482189" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428234</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-britt-noerbak-15452428234</link>
-      <title>Med Britt Nørbak</title>
-      <description>Mange tilbød at tage med på journalist og forfatter Britt Nørbaks researchtur til bogen: '111 søde steder som du skal se'. Hun har smagt sig gennem alle egne af Danmark - på trods af en type 1-diabetes i bagagen.  
-Vært: Charlotte Striib</description>
-      <pubDate>Thu, 06 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428234/dfe13935b502130fac86f9106bcfbce4c9cd1e43bc35e6f350e15aa80b3a355c.mp3" type="audio/mpeg" length="168482164" />
     </item>
   </channel>
 </rss>

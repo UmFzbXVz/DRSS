@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:22 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:51:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -115,38 +115,6 @@ The national - I need my girl</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462207/288c94101579237672dccf0215471a343e5bba80aabf24434061e33841244079.mp3" type="audio/mpeg" length="168482027" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122462197</guid>
-      <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-lina-hashim-og-det-flydende-rum-16122462197</link>
-      <title>Lina Hashim og det flydende rum</title>
-      <description>Kunstner Lina Hashim fortæller om hendes fantastiske processer, tanker og idéer. 
-
-Time 1 
-
-Mask -  Radical Fashion
-DNA - Yangze
-Haenim - Rahill
-poor mum - molly drake
-Good old Owl - Niobe
-Ighman - Meteor Airlines
-Spinning song - Nick Cave and the bad seeds
-
-Time 2
-
-Loose my mind - Emel og Nayomi
-Rehearsel - Ekko
-Sun kil moon - Birthday girl
-Lazer Lights - Chantel van t
-Kennie Rogers - Where does Rosie Go 
-OTOOTO - Take a Little Time 
-Huw Marc Bennett - Ffarwel i Langyfelach Ion</description>
-      <pubDate>Sun, 12 May 2024 19:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462197/a1c2768d594701b1c53418ab2324f2638710ea2e8c826c92974dbb85c2813b9f.mp3" type="audio/mpeg" length="168482159" />
     </item>
   </channel>
 </rss>

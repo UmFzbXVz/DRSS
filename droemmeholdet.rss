@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 10 Jun 2024 05:41:35 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:52:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332425241</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-harry-potter-bryllup-baby-topmodel-og-slange-simon-13332425241</link>
+      <title>Harry Potter-bryllup, baby-topmodel og slange-Simon</title>
+      <description>Må vi ikke please få din drøm ind til os? Vi ved jo, hvor fed den er! Send den til p3drommer@dr.dk! Husk dit telefonnummer.
+Dans søster skal giftes til sommer, og derfor vil Dan gerne overraske hende og hendes kommende mand. De er store Harry Potter-fans, så overraskelsen skal selvfølgelig være et espalier af troldmænd og hekse, der står klar, når parret kommer ud af kirken. 
+Alle forældre er overbeviste om, at deres baby er den pæneste. Jonathan er dog helt overbevist, at hans baby er aller pænest. Derfor vil han have hans baby til at være ansigtet på et af de produkter, man ikke kan undgå at se. En vaskeægte topmodel-baby.
+Til sidst vil Simon bare gerne holde en kæmpe pytonslange.</description>
+      <pubDate>Mon, 10 Jun 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425241/b25b41179a1a0783137a568669f7fc388fbb857bf97187b9d0dd4f55ab8b2be1.mp3" type="audio/mpeg" length="254882180" />
+    </item>
     <item>
       <guid isPermaLink="false">13332425237</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-13332425237</link>
@@ -51,21 +66,6 @@ Til sidst har vi gang i en rigtig god omgang sporløs. Joakim har nemlig set en 
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425235/a80f414407e3ebec7f65e1b4d58c17dd37a9b202f6cfd7e2bd7352bbbdacc5dd.mp3" type="audio/mpeg" length="254882186" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425234</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-3d-scanning-af-mathias-gidsel-ep-og-leverpostejs-bryllup-13332425234</link>
-      <title>3D-scanning af Mathias Gidsel, EP og leverpostejs-bryllup?</title>
-      <description>Du er en drømmer. Det ved vi. Det ved du. Bevis det. Send den til p3drommer@dr.dk - husk telefonnummer!
-Vi har lavet en fejl. Vi har opfyldt en drøm uden at kunne opfylde den. Drømmen var en 3D-prinet version af Mathias Gidsel. Vi havde bare ikke tænkt på, at man jo så skal bruge en scanning af Mathias Gidsel!?
-Vores reporter Mads er live igennem fra den partybus, der fragter en gruppe unge ud for at brevstemme til EP-valget.
-Og så skal vi til noget af en drøm. Victoria er altid blevet kaldt Stryhns på grund af sit leverpostejsfarvede hår. Derfor vil hun nu hedde det helt officielt. Så gerne at hun er villig til at blive gift for det. Drøm med, med dit Drømmehold!</description>
-      <pubDate>Thu, 06 Jun 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425234/ced57c36fa1a1aa745f8f74a07161a00ad385fbb3fe4f7a36adb7f6938992854.mp3" type="audio/mpeg" length="254882184" />
     </item>
   </channel>
 </rss>
