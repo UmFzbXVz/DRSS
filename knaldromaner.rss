@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:51:37 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:02 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,18 +50,6 @@
       <itunes:duration>00:37:13</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192878/fc90cff96b1cf10c258f7e2133e74e2e1de3568b7188b3c36a3fc5ee42dc9832.mp3" type="audio/mpeg" length="53600120" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192877</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-konflikter-en-stol-for-lidt-rester-16122192877</link>
-      <title>Konflikter - En stol for lidt (Rester)</title>
-      <description>Er konflikter en naturlig del af det, at være i et parforhold, eller betyder en konflikt altid noget større? Helle Helles 'En stol for lidt' fra novellesamlingen 'Rester', ligger med sin minimalistiske form op til en masse refleksioner om, hvad der egentlig sker i fortællingen, såvel som i virkelighedens verden. Kan man skrue ned fra sit temperament, og kan temperament bruges til at tænde de erotiske gnister?</description>
-      <pubDate>Fri, 11 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:31:01</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192877/75fa3fb7bf14ba81ce9d4bfe619d13f5f3225b9f3c11df952587645bb8b27f1b.mp3" type="audio/mpeg" length="44684209" />
     </item>
   </channel>
 </rss>

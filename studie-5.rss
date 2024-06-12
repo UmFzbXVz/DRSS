@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:51:53 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452429242</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-rasmus-walter-glem-alt-om-i-gaar-15452429242</link>
+      <title>Rasmus Walter, Glem alt om i går</title>
+      <description>Rasmus Walter gæster studie 5 . Han gir et nummer og fortæller om sit nye album "Glem alt om i går".
+Vært: Rasmus Scharling Toft.</description>
+      <pubDate>Tue, 11 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429242/a080aa5f8f45dc7db7196b12984fa73668b871a0d760a882c528c384b983acb5.mp3" type="audio/mpeg" length="168481484" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452429241</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-otte-kvinder-fortaeller-om-martin-brygmanns-graenseoverskridende-adfaerd-15452429241</link>
       <title>Otte kvinder fortæller om Martin Brygmanns grænseoverskridende adfærd</title>
@@ -38,18 +51,6 @@ Vært: Rasmus Scharling Toft</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429241/17efcd047cdee52d0bfdc3ff34c90f69849fc3dd2a2706d60729039200cc3d68.mp3" type="audio/mpeg" length="168482189" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429235</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429235</link>
-      <title>Fredag 7. jun. 2024</title>
-      <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
-      <pubDate>Fri, 07 Jun 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429235/e04568996d0b161b2d516e80d3f21f30aaf498dd46b96f9b79826abe69c23792.mp3" type="audio/mpeg" length="168481525" />
     </item>
   </channel>
 </rss>

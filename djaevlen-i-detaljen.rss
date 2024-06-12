@@ -11,7 +11,7 @@ Produceret for DR af Filt Cph.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:51:58 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,20 @@ Produceret for DR af Filt Cph.</description>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16122492722</guid>
+      <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
+      <title>Teaser: Drengen, der ikke længere findes 2:3 - Vask de penge!</title>
+      <description>Wael er nu for alvor kommet ind i det kriminelle miljø. Han begynder at tjene enormt mange penge - først rockeraspirant og senere som hvidvasker. Men livet i overhalingsbanen kommer med en pris, og pludselig kommer Wael i store problemer. 
+Serien her er baseret på bogen 'Hvidvaskeren' - skrevet af Svante Karlshøj Ipsen og Wael. 
+Hør hele afsnittet i &lt;a href=https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen&gt;DR Lyd&lt;/a&gt;.</description>
+      <pubDate>Wed, 12 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492722/c4d62ebe61a5cb1047c3b5e67cee0b8bad13b6e48bc985b143a4b3405fd152c2.mp3" type="audio/mpeg" length="1568888" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492721</guid>
       <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>

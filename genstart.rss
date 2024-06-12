@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:45:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460138</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Den Ensomme Union</title>
+      <description>Valgstederne er åbne, og meget er på spil. Verden er i voldsom bevægelse, og den gamle orden er tilsyneladende på vej over bord. Gamle allierede og handelspartnere er ikke længere en sikker havn, og derfor står de store beslutninger i kø: Hvordan forsvarer vi os selv? Hvordan forsyner vi os selv? Hvordan beskytter vi jorden fra os selv? De EU-parlamentarikere, der bliver valgt i dag, skal vælge hvilken vej, vi går. Den vej kigger Genstart nedad i dag sammen med vores korrespondent Ole Ryborg.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 9/6.</description>
+      <pubDate>Wed, 12 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460138/0da84bd8b75e0c363d5dbd49923f0bdd0f57f63c853402814642f3ae5ba384f4.mp3" type="audio/mpeg" length="37341962" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460137</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9606,19 +9620,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:24:45</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150117/dccd73a962fc59518b4f582c3affe6206c3050d4a615ac88570f033bcf797cbd.mp3" type="audio/mpeg" length="35660036" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150116</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-miraklet-i-jerusalem-11802150116</link>
-      <title>"Miraklet i Jerusalem"</title>
-      <description>Otte partier fra yderste venstrefløj til længst mod højre er gået sammen i en koalitionsregering kun enige om én enkelt ting; at Israels premierminister, Benjamin Netanyahu, skal væk fra magten. Er det så godt eller slet for Israel? Ingen af delene, det er et mirakel, proklamerer Weekendavisens chefredaktør Martin Krasnik. For i hans dansk/jødiske optik repræsenterer Netanyahu et repressivt, korrupt og for Israel giftigt hegemoni.
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 11 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:47</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150116/7ee882258466e7b6927288e2b61a49f856d8490f3587faad8634bd9e3318d208.mp3" type="audio/mpeg" length="35694600" />
     </item>
   </channel>
 </rss>

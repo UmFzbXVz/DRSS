@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:51:37 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -324,19 +324,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:10:45</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192724/65b75ac83fd6b0097092c9153cb6efc45a91d716f89e5dface45778130d75942.mp3" type="audio/mpeg" length="15505166" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192723</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-ud-i-det-blaa-16122192723</link>
-      <title>Ud i det blå</title>
-      <description>Mød Thomas Thómas Thomás der ved alt om børn, der er flere gode tilbud på oppustelige ting, gæt med når vi quizzer i "hvad er det vi hører", lær at trække vejret og så skal vi genforelske os i den danske natur.
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 11 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:13:37</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192723/6a4f6bdce5139fbee9dd01a610a171329594c6803f5185347eea521af6cdf5ab.mp3" type="audio/mpeg" length="19621874" />
     </item>
   </channel>
 </rss>

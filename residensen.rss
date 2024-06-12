@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:51:49 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421242</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421242</link>
+      <title>Tirsdag 11. jun. 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Tue, 11 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421242/594791435b42c1669f8a53f7a554eed8f4f669ce92c9981bd12015f84aa0f150.mp3" type="audio/mpeg" length="172802166" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421241</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421241</link>
@@ -220,19 +232,6 @@ Tlf.gæst: Linda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421202/e6a036a09f270f9290f4d708d9fa7f829175d7faffd12cf38c071234740f6a08.mp3" type="audio/mpeg" length="172802189" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421201</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-baby-baby-baby-ohhhhhh-13332421201</link>
-      <title>Baby baby baby ohhhhhh</title>
-      <description>Hvilket nummer er bedst at offentliggøre en graviditet til? Bieber skal være far, og Nynne har brug for svar på spørgsmålet for at undgå mere forvirring på Instagram. Powerquizzen er i fuld effekt, og så skal klaphatten luftes, når vi skal høre lytterne, hvornår de sidst er gået dansk.
-Velkommen indenfor!</description>
-      <pubDate>Mon, 13 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421201/bdd98a7efef5bdb2486adf5b8ba0519a360fcf4645fc4fced90519405949d6d6.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

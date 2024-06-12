@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:51:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450117</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-13652450117</link>
+      <title>Skatetalent nærmer sig OL-rampelyset</title>
+      <description>16-årige Viktor Solmunde er det helt nye stjerneskud på den internationale skatescene. 
+Han ligger lunt i svinget til at kvalificere sig til OL, men det kræver et godt resultat i det sidste kvalifikationsstævne i Budapest.
+I dagens afsnit Tyvstart spørger vi talentet om, hvordan det er at leve i rampelyset i så ung en alder, og hvordan det er at have en dansk skatelegende som sin træner, men også sin konkurrent. 
+Vært: Emil Schiønning.</description>
+      <pubDate>Wed, 12 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:29</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450117/0f127e54e32eb6a03a3f5ae07f38d456012e3f09e675a6b727ea186ea78d23c4.mp3" type="audio/mpeg" length="26632281" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450116</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-sejldronningen-naegter-at-afgive-sin-krone-13652450116</link>
@@ -1907,21 +1922,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:28</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350241/e448adcec4674460d93e7262e97150c1ebad9219cef8bd415eda59f634f63dbc.mp3" type="audio/mpeg" length="25157820" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350240</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-danmarks-bekymrende-bundniveau-13652350240</link>
-      <title>Danmarks bekymrende bundniveau</title>
-      <description>Mandag aften er der gruppefinale ved VM. Danmark møder Tyskland, og selvom begge nationer er videre til kvartfinalen, er der meget på spil.
-Det er vigtigt at vinde gruppen for at få så nem en modstander som muligt, men for Danmark er der også noget med selvtilliden. 
-For torsdag aften blev det til et choknederlag til Japan, og generelt har danskerne bøvlet meget med deres bundniveau. 
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 11 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:55</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350240/2ccb136275bdbc11ec656403dc8b5fef6eeae2b3ade86e13abfef25a14d05e8d.mp3" type="audio/mpeg" length="24385403" />
     </item>
   </channel>
 </rss>

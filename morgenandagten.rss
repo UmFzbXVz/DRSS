@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:52:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405242</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405242</link>
+      <title>Tirsdag 11. jun. 2024</title>
+      <description>Præludium: Max Reger: Jesus, at du blev min broder.
+Fra det G.T.: 5. Mosebog 6,4-9.
+Salme: 694 "Jesus, at du blev min broder".
+Fra det N.T.: Matthæusevangeliet 5, 21-26.
+Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
+Salme: 746, vers 2 "O Jesus, Morgenstjerne".
+Postludium: Rued Langgaard: Præludium i c-mol.</description>
+      <pubDate>Tue, 11 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405242/c5f9298dd45bcf193c5fa8c95ac7cd3b6e4f8ce97c46408df0797d336d9bdc6f.mp3" type="audio/mpeg" length="36001581" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405241</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405241</link>
@@ -438,24 +456,6 @@ Postludium: Johann Sebastian Bach: Fuga g-mol, BWV 578.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405202/917a2c92f9317ae4d5a8b6cbc51f18b1f9e41d84a33b5977b48352dbae673f44.mp3" type="audio/mpeg" length="36001580" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405201</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405201</link>
-      <title>Mandag 13. maj 2024</title>
-      <description>Præludium: Helmut Walcha: Nu bede vi den Helligånd.
-Ord til dagen: af Dorothee Sölle.
-Salme: 722 "Nu blomstertiden kommer".
-Fra det N.T.:	Johannesevangeliet 15,26 - 16,4.
-Korvers: Albert Becker: Oplys, o Gud, mig med din Ånd (tekst: Dansk bearbejdelse: Niels Rindorf.
-Salme: 289 "Nu bede vi den Helligånd".
-Postludium: Johann Gottfried Walther: Nu bede vi den Helligånd.</description>
-      <pubDate>Mon, 13 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405201/a80a3946b02878119bd29ecbab1252d34846628e022eb4fe22b62cd8f1ef11d5.mp3" type="audio/mpeg" length="36001581" />
     </item>
   </channel>
 </rss>

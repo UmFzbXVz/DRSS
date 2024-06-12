@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 11 Jun 2024 05:52:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 05:45:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433242</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433242</link>
+      <title>Tirsdag 11. jun. 2024</title>
+      <description>Hvor meget påvirkning har EP-valget haft på de forskellige landes national politik? Hvad er løsningen på de mest centrale udfordringer i sundhedssystemet i øjeblikket? Og hvorfor endte LA kun som det fjerdestørste blå parti?
+Dagens værter: Bjarne Steensbeck og Søren Carlsen</description>
+      <pubDate>Tue, 11 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:04</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433242/9efed115bfb058c4bee47bcd9fa6b4502ff2a1c2e716cc2028875d0268201d92.mp3" type="audio/mpeg" length="237714487" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433241</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433241</link>
@@ -1811,20 +1823,6 @@ Dagens værter: Ole Brink og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:02</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333506/aebbc320808b178762b3d50d83deb7c21f5a584640c60519f53d497e5dffb75b.mp3" type="audio/mpeg" length="158455155" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333505</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333505</link>
-      <title>Fredag 15. dec. 2023</title>
-      <description>Politiet havde en storaktion i går med tre anholdte, som sigtes for planlægning af terror. Der er stadig utrolig meget, som vi ikke ved, men én af de ting, som kom frem på pressemødet i går var, at de anholdte har tråde til bandemiljøet. Hvorfor krydses bandemiljøet og terror?
-Ukraines fremtid er på manges læber i dag. Blandt andet ved det igangværende EU-top-møde i Bruxelles, hvor er skal træffes afgørende beslutninger, der er relateret til landets fremtid. Og det møde vækker opmærksomheden hos også de unge ukrainere, hvor en stor EU-optimisme gør sig gældende. Hvad betyder EU-topmødet for unge ukrainere?
-Nyheden om de danske antiterroranholdelser tager også overskrifter i Israel. Hvad er Israels reaktion og hvordan det kan påvirke krigen mellem Hamas og Israel?
-Dagens værter: Pernille Rudbæk og Morten Runge.</description>
-      <pubDate>Fri, 15 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:46:11</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333505/fab9d18e66f21c7387d6d044fd8a6c44286d3b124ecbb071f8364a88ccbf8d2a.mp3" type="audio/mpeg" length="239316917" />
     </item>
   </channel>
 </rss>
