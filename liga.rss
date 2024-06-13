@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:13 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:03:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -37,19 +37,6 @@ Værter: Lotte Friis og Morten Hausborg.</description>
       <itunes:duration>02:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402237/e50770a65d2605fb2597954c2260b79f91a07b7f77429a1823d3153bede54786.mp3" type="audio/mpeg" length="254880288" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402236</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402236</link>
-      <title>Lørdag 8. jun. 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Vært: Emil Schiønning.</description>
-      <pubDate>Sat, 08 Jun 2024 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:54:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402236/760bc2e49a833995170a865772324cfa8c3d7977aef90118664fe996da957d2f.mp3" type="audio/mpeg" length="337036304" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:17 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:00:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,19 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421023</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-iphone-smoeres-ind-i-ai-altman-i-stormvejr-og-meta-napper-dine-gamle-festbilleder-11802421023</link>
+      <title>IPhone smøres ind i AI, Altman i stormvejr og Meta napper dine gamle festbilleder</title>
+      <description>Apple melder sig omsider ind i AI-kampen med en AI-pakke, de kalder Apple Intelligence. Det betyder, at din telefon snart vil få massevis af AI-funktioner - hvis du da har en af de nye, dyre telefoner. Vi diskuterer, om Apple Intelligence kan give AI det folkelige gennembrud. Nuværende og tidligere ansatte hos OpenAI revser virksomheden og Sam Altman, som beskyldes for at skabe en usund kultur med løgne og psykisk vold. Samtidig frygter de tidligere ansatte, at OpenAI ikke gør nok for at sikre os mod den kunstig intelligens' udvikling, der ifølge dem risikerer at ødelægge vores liv og samfund. Vi ringer til vores husven Fred Benenson, der har arbejdet med Sam Altman, for at forstå, hvad der er på spil. Og så går Meta snart i gang med at træne deres AI på dine billeder, kommentarer og posts - medmindre du gør indsigelse. Vi fortæller dig hvordan.
+Værter: Marcel Mirzaei-Fard, tech-analytiker og Henrik Moltke, tech-korrespondent.</description>
+      <pubDate>Thu, 13 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:11</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421023/40c1cccfd98d301469dc2167d0b0db1b5b57686528c20ad3194ccb13e4f11f85.mp3" type="audio/mpeg" length="78039236" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421022</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-chatgpt-tager-kandidattesten-pizza-computer-og-russer-propaganda-forklaedt-som-netflix-dokumentar-11802421022</link>

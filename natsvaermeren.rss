@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:03:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -232,19 +232,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463202/e8d1fcd9555a5f92207fb1377fb64d7a8ad90bc7b68ec7e18bfb042da5cf7e7a.mp3" type="audio/mpeg" length="168482169" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463201</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-majnat-12422463201</link>
-      <title>Majnat</title>
-      <description>Bøgen er sprungen ud, solsorten synger, og der er håb i alt det grønne, banalt som det lyder. Natsværmeren har lavet et soundtrack til forårets mange sindstilstande.
-Vært: Minna Grooss.</description>
-      <pubDate>Tue, 14 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463201/4932a6f187c8bd59aa30f13a5ed35a216b38036dbea9d606296e4328dd866288.mp3" type="audio/mpeg" length="168482107" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463086</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-komma-i-natten-12422463086</link>
       <title>Et komma i natten</title>
@@ -315,6 +302,20 @@ Vært: Minna Grooss.
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463056/ff6456856a93f7283ed1cd751dcec0e5571cdc9ccd86914c9d4d20677bc214e6.mp3" type="audio/mpeg" length="82081595" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363251</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-gratis-glaeder-12422363251</link>
+      <title>De gratis glæder</title>
+      <description>Det begynder med glæden ved en sommerfugl, en lørdag aften, luften, ja, alt det som er godt og gratis. 
+Vært: Katrine Ring.
+(Sendt første gang 20. juni 2023).</description>
+      <pubDate>Tue, 20 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363251/c22214d58bec4fedf99f846714ec266dbb4020ebca55b00d9d1632c335d04b07.mp3" type="audio/mpeg" length="168482084" />
     </item>
     <item>
       <guid isPermaLink="false">12422363242</guid>

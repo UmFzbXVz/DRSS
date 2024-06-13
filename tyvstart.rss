@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:03:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450118</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-den-store-em-spaakugle-13652450118</link>
+      <title>Den store EM-spåkugle</title>
+      <description>Vil du klædes på til at vide mere om EM i fodbold end dine venner? 
+Så er det i dag, du skal høre Tyvstart.  
+Vi har Thomas Gravesen og Mikkel Bischoff med til at give fem forudsigelser hver forud for slutrunden. Hvem er favorit, hvem flopper og hvem bliver årets overraskelser?  
+Derudover drøfter vi naturligvis, hvordan det danske landshold kommer til at klare sig. 
+Vært: Rikke Smed Iversen.</description>
+      <pubDate>Thu, 13 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:33:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450118/5145db1fc0dda27e321da3b5f2b460c09460a0227bf418ce2d1e3bb05f565a5c.mp3" type="audio/mpeg" length="48158647" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450117</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-13652450117</link>
@@ -1908,20 +1924,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:21</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350242/07430bbbfa54c4aa4826ed6e1cc155cfd70a04dafe392db4b786b4d01f187042.mp3" type="audio/mpeg" length="26449789" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350241</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-aarets-kamp-i-dansk-klubfodbold-13652350241</link>
-      <title>Årets kamp i dansk klubfodbold</title>
-      <description>Så kort kan det siges, når FC København tirsdag aften byder Galatasaray velkommen til Parken med et opgør, der på forhånd har det hele. Holdene er á point i Champions League, vinderen stryger videre, og så er har det verbale bål buldret mellem de to klubber siden mødet i runde ét. Det lugter af et fodbolddrama.
-I anden del af episoden evaluerer fra Boxen i Herning, hvor det danske kvindelandshold i håndbold nu kan gøre sig klar til knald eller fald-kampene.
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 12 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:28</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350241/e448adcec4674460d93e7262e97150c1ebad9219cef8bd415eda59f634f63dbc.mp3" type="audio/mpeg" length="25157820" />
     </item>
   </channel>
 </rss>

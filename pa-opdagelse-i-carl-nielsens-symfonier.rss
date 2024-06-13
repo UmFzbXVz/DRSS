@@ -16,7 +16,7 @@ Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkri
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:03:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -97,22 +97,6 @@ Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkri
       <itunes:duration>00:28:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560003/0cad32846c6cfac7e4cfdd82656e868302e2d247be120db3c69b9ce0afaa0aa2.mp3" type="audio/mpeg" length="40915465" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12421560002</guid>
-      <link>https://www.dr.dk/lyd/p2/paa-opdagelse-i-carl-nielsens-symfonier/paa-opdagelse-i-carl-nielsens-symfonier-1/paa-opdagelse-i-carl-nielsens-symfonier-2-6-12421560002</link>
-      <title>På opdagelse i Carl Nielsens symfonier 2:6</title>
-      <description>I sin Symfoni nr. 2,,De fire temperamenter, portrætterer Carl Nielsen ikke bare de menneskelige arketyper. Han beskriver det hele menneske. Med udgangspunkt i musikken søger Mathias Hammer ind til sindets grundfarver og dermed ind til mennesket Carl Nielsen. Undervejs får han hjælp af parterapeut Dorthe Nørlev, dirigent Michael Schønwandt og musikkritiker Jakob Levinsen.
-(Sendt første gang 3. marts 2015).</description>
-      <pubDate>Fri, 27 Feb 2015 06:01:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000010002</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:32:13</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560002/3bcbbda7226275548f81bd408df3e4355520b10055071a372aa6a5585cfe46b5.mp3" type="audio/mpeg" length="46403017" />
     </item>
   </channel>
 </rss>

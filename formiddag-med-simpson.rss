@@ -9,7 +9,7 @@ Anekdoter, milde afhøringer og personlige beretninger fra musiklivet kan foreko
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:17 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:03:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Anekdoter, milde afhøringer og personlige beretninger fra musiklivet kan foreko
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452422243</guid>
+      <link>https://www.dr.dk/lyd/p6beat/formiddag-med-simpson/formiddag-med-simpson-2024/formiddag-med-simpson-16452422243</link>
+      <title>Onsdag 12. jun. 2024</title>
+      <description>Med en stak plader byder Mikael Simpson ind med evigt grønne klassikere, noget teksttungt, lidt elektronisk musik, og ikke mindst noget du ikke anede, at du havde lyst til at få din boogie på til.
+Anekdoter, milde afhøringer og personlige beretninger fra musiklivet kan forekomme.</description>
+      <pubDate>Wed, 12 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452422243/e7fcc47c4c45d6ee1ab502c724a0982b7da6fb9f56bf9a57039bdf3ece84d3a6.mp3" type="audio/mpeg" length="168481600" />
+    </item>
     <item>
       <guid isPermaLink="false">16452422242</guid>
       <link>https://www.dr.dk/lyd/p6beat/formiddag-med-simpson/formiddag-med-simpson-2024/formiddag-med-simpson-16452422242</link>
@@ -1077,19 +1090,6 @@ Anekdoter, milde afhøringer og personlige beretninger fra musiklivet kan foreko
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452322503/78e54877066f94cb726f3febbfe7c7449648b0edaceb2f1d5aecf5da092affc8.mp3" type="audio/mpeg" length="168674560" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452322502</guid>
-      <link>https://www.dr.dk/lyd/p6beat/formiddag-med-simpson/formiddag-med-simpson-2023/formiddag-med-simpson-16452322502</link>
-      <title>Tirsdag 12. dec. 2023</title>
-      <description>Med en stak plader byder Mikael Simpson ind med evigt grønne klassikere, noget teksttungt, lidt elektronisk musik, og ikke mindst noget du ikke anede, at du havde lyst til at få din boogie på til.
-Anekdoter, milde afhøringer og personlige beretninger fra musiklivet kan forekomme.</description>
-      <pubDate>Tue, 12 Dec 2023 10:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452322502/429e6cd7a5b4de98b7fdeeb00bb5b649879b4c32169819882e9bcb7797dc5f10.mp3" type="audio/mpeg" length="168675136" />
     </item>
   </channel>
 </rss>

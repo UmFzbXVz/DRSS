@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:03:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,11 +25,23 @@
     <category>News</category>
     <itunes:category text="News" />
     <item>
+      <guid isPermaLink="false">11802433243</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433243</link>
+      <title>Onsdag 12. jun. 2024</title>
+      <description>I DR's dokumentarserie "Sexisme i Musikbranchen" stiller en række kvinder sig frem og retter en hård kritik af det, de betegner som strukturel seximisme i branchen. Hvilket ansvar har DR for at få flere kvinder i æteren?  Den EU-venlige premierminister, Donald Tusk, blev den store vinder til Europaparlamentsvalget i Polen. Betyder det, at Polen er på vej tilbage på en demokratisk og europæisk kurs? Sundhedsstrukturkommissionen præsenterede i går, hvordan man kan sikre det danske sundhedsvæsen i fremtiden. Hvordan vil Sundhedsstrukturkommissionens flytte flere læger på landet? 
+Dagens værter: Bjarne Steensbeck &amp; Thomas Tjaerandsen.</description>
+      <pubDate>Wed, 12 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:07</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433243/597b9888693533e12bc48c355654012a968cd76327f9725738ec1d3cb3654ecd.mp3" type="audio/mpeg" length="237779937" />
+    </item>
+    <item>
       <guid isPermaLink="false">11802433242</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433242</link>
       <title>Tirsdag 11. jun. 2024</title>
       <description>Hvor meget påvirkning har EP-valget haft på de forskellige landes national politik? Hvad er løsningen på de mest centrale udfordringer i sundhedssystemet i øjeblikket? Og hvorfor endte LA kun som det fjerdestørste blå parti?
-Dagens værter: Bjarne Steensbeck og Søren Carlsen</description>
+Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
       <pubDate>Tue, 11 Jun 2024 06:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -42,7 +54,7 @@ Dagens værter: Bjarne Steensbeck og Søren Carlsen</description>
       <title>Mandag 10. jun. 2024</title>
       <description>P1 morgen stiller skarpt dagen efter EP-valget. De vigtigste historier, analyser og reaktioner dagen derpå. Vi spørger blandt andet om: 
 Hvor tæt blev valget for de danske kandidater? Hvad kommer højrefløjens fremgang til at betyde for europaparlamentet? Hvem er vindere og tabere, hvis vi kigger på kortet over Europa?
-Dagens værter: Pernille Rudbæk og Bjarne Steensbæk</description>
+Dagens værter: Pernille Rudbæk og Bjarne Steensbæk.</description>
       <pubDate>Mon, 10 Jun 2024 06:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -1811,18 +1823,6 @@ Dagens værter: Pernille Øhlenschlæger Rudbæk og Bjarne Steensbeck.</descript
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:54</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333511/bb234c35a5ee38d55b12dae32ae8b30733633dc613381a08276f53ddfbcb22d3.mp3" type="audio/mpeg" length="237461985" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333506</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333506</link>
-      <title>Lørdag 16. dec. 2023</title>
-      <description>Er det korrekt af Ekstra Bladet at bruge et billede af Frederik Vad på historien om et 26-årigt DSU-medlem, som var i forhold med en 15-årig? Hvilket billede giver ny meningsmåling af situationen i Gaza? Hvordan gik det håndboldkvinderne i semifinalen mod Norge?
-Dagens værter: Ole Brink og Bjarne Steensbeck.</description>
-      <pubDate>Sat, 16 Dec 2023 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:50:02</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333506/aebbc320808b178762b3d50d83deb7c21f5a584640c60519f53d497e5dffb75b.mp3" type="audio/mpeg" length="158455155" />
     </item>
   </channel>
 </rss>

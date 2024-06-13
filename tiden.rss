@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:03:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451109</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-folkemoedets-debatter-macrons-gamble-og-heunicke-i-nyt-samraad-11802451109</link>
+      <title>Folkemødets debatter, Macrons gamble og Heunicke i nyt samråd</title>
+      <description>Folkemødet har fået kritik for at invitere demonstranter ind i debatten. Hvorfor ville de gerne det? Opposition vil have miljøministeren til at suspendere de omstridte vejledninger for miljøfarlige stoffer, der giver mulighed for at tillade virksomheder at udlede miljøfarlige stoffer. Macron gambler med sin egen magt ved at udskrive parlamentsvalg i Frankrig. 
+Vært: Adrian Busk.
+Medvirkende:
+Vibe Klarup, formand for bestyrelsen bag Folkemødet.
+Kirsten Biering, Seniorrådgiver, DIIS.</description>
+      <pubDate>Thu, 13 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:47</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451109/b45806b2e5c59fd9121d5eba3e9a537a8a467b7aa5c9845f15c6a970c9a343b2.mp3" type="audio/mpeg" length="24183243" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451108</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-en-vaklende-regering-pladedirektoerens-erkendelse-og-sunde-anbefalinger-11802451108</link>
@@ -1953,24 +1969,6 @@ Ole Ryborg, DR's EU-korrespondent.</description>
       <itunes:duration>00:17:17</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351229/96e62a7c72f683443dd693ccbbb4dfcdd03397e7c737a51b8b3bc1e8cbfe21f4.mp3" type="audio/mpeg" length="24894590" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351228</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-paa-jagt-efter-hamas-skaermfaengslet-og-et-landsmands-nej-11802351228</link>
-      <title>På jagt efter Hamas, skærmfængslet og et landsmands-nej</title>
-      <description>Israel er på menneskejagt efter højtstående Hamas-leder, alt imens omverdenen presser på for en våbenhvile. 
-Tiden dykker i dag også ned i de nye skærmanbefalinger, som vil have lukkede computerskærme og spærrede hjemmesider. 
-I dag er det sidste chance for de danske landmænd, der vil sige frivilligt ja-tak til at tage deres CO2-svinende lavbundsjorde ud af produktion. Men for landmanden Lars, så bliver det et stort nej tak.
-Vært: Adrian Busk.
-Medvirkende: 
-Peter Viggo, lektor på forsvarsakademiet. 
-Lars Palle, svineproducent.</description>
-      <pubDate>Tue, 12 Dec 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:13</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351228/bca45528ca7b5b95bb68f27f7a6569597e80b39e297c644a8c52a7ed6358dfeb.mp3" type="audio/mpeg" length="26244157" />
     </item>
   </channel>
 </rss>

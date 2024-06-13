@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 12 Jun 2024 05:45:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:03:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452424243</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424243</link>
+      <title>Onsdag 12. jun. 2024</title>
+      <description>Formiddag For Evigt hylder jazzens evige gyldighed. Vært Niels Christian Cederberg holder dig i hånden på hverdagsrejsen fra fortid til fremtid og tilbage igen.
+Vært og tilrettelægger: Niels Christian Cederberg.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Wed, 12 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424243/7ea54bd84e88b03a4c880588804ca718cec5a6b72fb87339c1f915443aea542c.mp3" type="audio/mpeg" length="168482164" />
+    </item>
     <item>
       <guid isPermaLink="false">18452424242</guid>
       <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-18452424242</link>
@@ -304,20 +318,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424203/6ae461d27ce84da185884eafdd4499e93983231b8876046504fe9277b3378386.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424202</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-mr-sanborn-has-left-the-building-18452424202</link>
-      <title>Mr. Sanborn has left the building</title>
-      <description>Nyligt afdøde David Sanborn får et par spins i dagens program og så kan du høre fra manden selv, hvorfor man skal lade være med at lyde som ham. Ben Websters ånd kigger også forbi i anledning af Ben Webster prisen der uddeles denne dag i Kolding. Der er lyttere der dyrker frimærkehaver, lyttere der har det fedt på fjerde sal og lyttere med ondt i hjertet. Evigheden har musik til det hele.   
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Tue, 14 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424202/065093389cd05c1a8964045266bfc77eef856cb619695314eccb5fb1030b08df.mp3" type="audio/mpeg" length="168482164" />
     </item>
   </channel>
 </rss>
