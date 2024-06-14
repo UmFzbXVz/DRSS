@@ -9,7 +9,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 04:50:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:17:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Produceret for DR af Munck Studios København.</description>
     <category>TV &amp; Film</category>
     <itunes:category text="TV &amp; Film" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122415246</guid>
+      <link>https://www.dr.dk/lyd/special-radio/verdens-bedste-film/verdens-bedste-film-2024/verdens-bedste-film-synecdoche-new-york-med-rasmus-heide-16122415246</link>
+      <title>Synecdoche, New York med Rasmus Heide</title>
+      <description>Rasmus Heide, manuskriptforfatter og instruktør bag filmene "Blå Mænd", "Alle for én"-filmene og "Julefrokosten", mener, at Charlie Kaufmans kunstneriske film "Synecdoche, New York" fra 2008 skal opleves som et digt frem for en plottung fortælling. Selvom filmen adskiller sig markant fra hans egne værker, finder Heide inspiration i den og diskuterer med Birgitte Hjort Sørensen, hvad han kalder "den udbredte misforståelse, at brede, kommercielle film kun er underholdning, mens smalle, intellektuelle film er kunst".
+
+Vært: Birgitte Hjort Sørensen
+Gæst: Rasmus Heide
+Redaktion: Olivia Keblovszki, Jens Malthe Næsby og Rune Born Schwartz.
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Fri, 14 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:33</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122415246/5295d3c826ca6c4629cb0d3608784227f4f4d7471bba58a244edac4cac677387.mp3" type="audio/mpeg" length="81445694" />
+    </item>
     <item>
       <guid isPermaLink="false">16122415236</guid>
       <link>https://www.dr.dk/lyd/special-radio/verdens-bedste-film/verdens-bedste-film-2024/verdens-bedste-film-ratatouille-med-nina-rask-16122415236</link>

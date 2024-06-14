@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:03:38 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:16:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -304,20 +304,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424204/69a5998cb786ffad590e54544aafa42f56e86af4111593315d79358b44efa954.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424203</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-et-gammelt-aegtepar-18452424203</link>
-      <title>Et gammelt ægtepar</title>
-      <description>Den Store Coverquiz bringer et berømt jazzalbum i spil hvor to mennesker sidder og ligner et gammelt ægtepar.  Lytterne har forårsfornemmelser og der bliver både prøvet kjoler, åbnet vinduer og fløjet helikopter til lyden af en formiddag på P8.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Wed, 15 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424203/6ae461d27ce84da185884eafdd4499e93983231b8876046504fe9277b3378386.mp3" type="audio/mpeg" length="168482164" />
     </item>
   </channel>
 </rss>

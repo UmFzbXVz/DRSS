@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:02:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:17:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460140</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Guess who's back</title>
+      <description>En ung kvinde går målrettet mod ham. I hånden har hun en McDonalds-kop, og koppens indhold kaster hun lige i hovedet på den kontroversielle og karismatiske politiker, Nigel Farage. Til lyden af Eminems superhit har han meldt sig ind som kandidat i den britiske valgkamp og bliver ved sit første borgermøde overhældt med milkshake. Mr. Brexit, som han også kaldes, forventes at fiske et hav af stemmer fra det konservative parti, og netop derfor bliver han kaldt Premierminister Rishi Sunaks værste mareridt. Han er samtidig en politiker, der slæber et spor af kaos efter sig, DRs korrespondent i Storbritannien Tinne Hjersing Knudsen fortæller om fænomenet Farage og hans rejse fra Brexit til den britiske valgkamp. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 11/6.</description>
+      <pubDate>Fri, 14 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:47</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460140/507a07f2ace428140f375633bb358d7ea817d064bd3117b513368a95fdd2a91f.mp3" type="audio/mpeg" length="34251717" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460139</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

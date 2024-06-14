@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:03:58 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:17:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,31 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463244</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-den-indre-lyd-12422463244</link>
+      <title>Den indre lyd</title>
+      <description>At lytte til éns indre følelser kan føles ekstra godt, når mørket er faldet på, mener vært Peter Albrechtsen og spiller både nye og gamle toner med stærke indre følelser. Hele vejen fra regnen i Blade Runner over Mozarts Måneskinssonate til tegnefilmståreperseren Inderst Inde.</description>
+      <pubDate>Fri, 14 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463244/8ecd4819b40aafbe45733c23bbeb5af1ae2e81b239a9e6361413c4c21cbf2a79.mp3" type="audio/mpeg" length="168482190" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422463243</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-vejrer-aftenluft-12422463243</link>
+      <title>Vejrer aftenluft</title>
+      <description>Morgenlyset tilgiver natten er en titel i aftens Natsværmer, der flyder gennem musikken uden for mange ord.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 13 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463243/b20658d01604f837d022892948080fd4c00030982dd2462ce85b3e3fa1b01401.mp3" type="audio/mpeg" length="168482056" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463241</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-techfaste-12422463241</link>
@@ -217,19 +242,6 @@ Vært: Tina Rømer.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463203/be66d6a9cc1500f8dcdab6fb662e9d0f8cb2a7f01f398c12db4ebeb723499ef7.mp3" type="audio/mpeg" length="168482132" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463202</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-slentren-12422463202</link>
-      <title>Slentren</title>
-      <description>Det er kvinderne, der viser vejen i aften. Dem der lokker med stemmer, skæve kompositioner og modet til at gå nye veje. Pauline Oliveros, Buika, Maria Dolores Pradera, Juliette Pochin, Arooj Aftab, Toechter, Ragnhild Hemsing, The Bekova Sisters, Hildegard von Bingen, Juliette Gréco og Rebecca Clarke tager dig med ud på aftens vandring.
-Vært: Minna Grooss.</description>
-      <pubDate>Wed, 15 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463202/e8d1fcd9555a5f92207fb1377fb64d7a8ad90bc7b68ec7e18bfb042da5cf7e7a.mp3" type="audio/mpeg" length="168482169" />
     </item>
     <item>
       <guid isPermaLink="false">12422463086</guid>

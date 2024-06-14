@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:03:43 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:17:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451110</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-angreb-paa-demokratiet-doedshjaelps-debat-og-italienske-slagsbroedre-11802451110</link>
+      <title>Angreb på demokratiet, dødshjælps-debat og italienske slagsbrødre</title>
+      <description>Overfaldet på Mette Frederiksen er blevet kaldt for et "angreb på demokratiet". Men hvorfor egentlig, når politiet ikke mener, at det var politisk motiveret? 
+"Udvalget for en mere værdig død" har nu afleveret sine første synspunkter. Spørgsmålet er, om politikerne nu er tættere på at indføre aktiv dødshjælp?
+Der har været slagsmål i det italienske parlament, hvor oppositionen beskylder Giorgio Meloni for at være fascistisk.
+Vært: Adrian Busk.</description>
+      <pubDate>Fri, 14 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451110/9e689cf89d6001c372c6148d10df658d0fb8997ffdc0c8f3a540a99441c8781d.mp3" type="audio/mpeg" length="24156745" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451109</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-folkemoedets-debatter-macrons-gamble-og-heunicke-i-nyt-samraad-11802451109</link>
@@ -1951,24 +1966,6 @@ Niels Bilenberg, professor og overlæge, Odense Universitetshospitals børne- og
       <itunes:duration>00:19:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351230/4b16ed5754af7d594ef188275256260e642a8a3c2e42734150bbb7d232c8cb36.mp3" type="audio/mpeg" length="27962364" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351229</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-en-fandens-formulering-selvbygget-flygtningelejr-og-ukraine-haab-11802351229</link>
-      <title>En fandens formulering, selvbygget flygtningelejr og Ukraine-håb</title>
-      <description>Tiden dykker ned i den ene formulering, som spænder ben for en klimaaftale på COP28.
-I Gaza er næsten hele befolkningen ifølge FN nu internt fordrevet, så vi skal også forbi en selvbygget flygtningelejr nær den egyptiske grænse i syd.
-Ukraine går skæbnedage i møde, når EU-ledere skal diskutere støttepenge og EU-optagelse. 
-Vært: Annika Wetterling.
-Medvirkende: 
-Marie Sæhl, journalist ved dagbladet Information.
-Ole Ryborg, DR's EU-korrespondent.</description>
-      <pubDate>Wed, 13 Dec 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:17</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351229/96e62a7c72f683443dd693ccbbb4dfcdd03397e7c737a51b8b3bc1e8cbfe21f4.mp3" type="audio/mpeg" length="24894590" />
     </item>
   </channel>
 </rss>

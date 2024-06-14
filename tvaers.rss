@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:03:24 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:16:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -329,24 +329,6 @@ Vært Line Kirsten Nikolajsen.</description>
       <itunes:duration>00:47:53</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195715/97017a3eeb44c7c7a6cde654e08b0ac86f190fe794bb6b9db26114027ef2d433.mp3" type="audio/mpeg" length="68958590" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195714</guid>
-      <link>https://www.dr.dk/lyd/p3/tvaers/tvaers-20211/tvaers-monster-2-2-13332195714</link>
-      <title>Monster 2:2</title>
-      <description>Jesper har lavet en pagt med sig selv. Så længe hans hund lever, så vil han også leve. Når hunden dør, så vil han også tage billetten.
-
-Medvirkende: Jesper Bertelsen.
-Tilrettelæggelse: Mette Moltke Wozniak og Simon Eriksen.  
-Vært: Mette Moltke Wozniak og Line Kirsten Nikolajsen.
-Redaktør: Sandra Mia Susgaard.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Sun, 13 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:34:23</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195714/0da164359b6f0faa7339e6d5db3b778ef1e9af261b0811033c4733f43d75fc20.mp3" type="audio/mpeg" length="49524913" />
     </item>
   </channel>
 </rss>

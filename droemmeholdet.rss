@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:03:49 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:16:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332425244</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-hvad-skete-der-med-leverpostejspigen-13332425244</link>
+      <title>"Hvad skete der med leverpostejspigen?"</title>
+      <description>Hvis du nu drømmer om noget, men du tænker det aldrig går i opfyldelse. Så prøv lige at send den til os på p3drommer@dr.dk - husk dit telefonnummer!
+Solvei bliver snart student og elsker sangen Solhverv. Derfor drømmer hun om at fejre huen til en særlig version af dén sang, nemlig hvor der bliver sunget "Solvei" i stedet for "solhverv".
+Det har været lidt af en rejse men endelig ser det ud til vi har en opdatering, i Victorias drøm om at få navnet Stryhns.
+Og så sal vi have fundet en dygtig graffiti-maler, som kan male dén campingvogn Nicolas skal lave program i henover sommeren.
+Til sidst gør vi noget nyt. Vi starter nemlig en drøm i dag, så vi kan starte lige på og hårdt i morgen. Det er lillefredag og det skal du fejre med dit Drømmehold!</description>
+      <pubDate>Thu, 13 Jun 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425244/835c1e146f7119efe69a1578e643d3d6f4eb349af85239dfe925f399abda8d71.mp3" type="audio/mpeg" length="254881603" />
+    </item>
     <item>
       <guid isPermaLink="false">13332425243</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-13332425243</link>
@@ -70,18 +86,6 @@ Til sidst vil Simon bare gerne holde en kæmpe pytonslange.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425241/b25b41179a1a0783137a568669f7fc388fbb857bf97187b9d0dd4f55ab8b2be1.mp3" type="audio/mpeg" length="254882180" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425237</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-13332425237</link>
-      <title>Søndag 9. jun. 2024</title>
-      <description>Kan vi gøre en forskel i dit liv, mens du er nede at stemme til Europa-Parlamentsvalget? Vi gør i hvert fald et forsøg. Det er valgdag, og Drømmeholdet er med dig fra 10-12, hvor vi sammen med alle P3's lyttere forsøger at opfylde din drøm, mens du er nede at stemme!</description>
-      <pubDate>Sun, 09 Jun 2024 10:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425237/8a81b65c9d915bee910490a5d63830724da04abd51eb6c822c88c4d65c872125.mp3" type="audio/mpeg" length="172802166" />
     </item>
   </channel>
 </rss>

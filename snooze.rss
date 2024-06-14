@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:03:39 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:16:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428244</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-tre-danske-jazzgiganter-i-ugens-album-18452428244</link>
+      <title>Tre danske jazzgiganter i Ugens Album</title>
+      <description>Ugens album på P8 kommer i denne uge fra tre af dansk jazz' helt store musikere. Trioen Ginman / Blachman / Dahl har med sit stærkt anmelderroste album "What's To Come" cementeret deres position som en stadigt toneangivende trio herhjemme. Vi kaster et nærmere blik på udgivelsen.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Thu, 13 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428244/a9083522996062d1223109caaffc304bf369c9134abf64d8d5f620300b3d455f.mp3" type="audio/mpeg" length="252001604" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428243</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-fuld-af-kaerlighed-filmmusik-fra-jonas-struck-18452428243</link>
@@ -373,23 +390,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428204/50cddf26d4b9d6cf6b1c51377f72e46606f786e5da51482c17a8ff8ae166fe71.mp3" type="audio/mpeg" length="252002165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428203</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-david-sanborn-blaeser-for-sidste-gang-18452428203</link>
-      <title>David Sanborn blæser for sidste gang</title>
-      <description>Den verdensberømte saxofonist David Sanborn har forladt os i denne uge, så vi hører hans stemme og noget af hans musik fra morgenstunden.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Wed, 15 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428203/f4880161dff1a929f9b27a30b8f0fd221dedb832293aef274f5930d45d6bed11.mp3" type="audio/mpeg" length="252002165" />
     </item>
   </channel>
 </rss>

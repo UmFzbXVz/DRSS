@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:03:45 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 06:17:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450119</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-den-sovende-tyske-kaempe-13652450119</link>
+      <title>Den sovende tyske kæmpe</title>
+      <description>Kommer der EM-feber i Tyskland, eller bliver det til endnu en sportslig fiasko for værtslandet? Ved de seneste tre slutrunder har den store fodboldnation skuffet, og i aften er hele kontinentets øjne rettet mod åbningskampen og tyskerne, der den næste måned skal forsøge at revanchere sig på hjemmebane.I dagens afsnit af Tyvstart svarer fodboldkommentator Mathias Jacobsen på, hvilken forfatning Die Mannschaft er i, og hvor langt holdet kan komme til EM.Vært: Emil Schiønning.</description>
+      <pubDate>Fri, 14 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450119/4231cdd136826b23b04e0c65c3f325170e7ba6620a10c2462dc136064777cb57.mp3" type="audio/mpeg" length="23803066" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450118</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-den-store-em-spaakugle-13652450118</link>
@@ -1908,22 +1920,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350243/461dd2f3d79e2b503e74e2d463084ae769da4799a252b1c8da189129d8c57f6b.mp3" type="audio/mpeg" length="21688570" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350242</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-verdens-bedste-bojana-13652350242</link>
-      <title>Verdens bedste Bojana</title>
-      <description>Hun smøgede ærmerne op og sendte dansk håndbold helt til tops.
-Bojana Popovic var en del af Anja Andersens drømmehold i Slagelse, der vandt Champions League efter behov og satte nye standarder for klubhåndbold herhjemme. 
-I dag har montenegrineren stadig ærmerne smøget op - som landstræner for Montenegro og Danmarks VM-modstander.
-DR Sportens håndboldekspert Camilla Andersen var holdkammerat med Popovic og fortæller om den karismatiske stjerne i dagens afsnit.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 13 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:21</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350242/07430bbbfa54c4aa4826ed6e1cc155cfd70a04dafe392db4b786b4d01f187042.mp3" type="audio/mpeg" length="26449789" />
     </item>
   </channel>
 </rss>
