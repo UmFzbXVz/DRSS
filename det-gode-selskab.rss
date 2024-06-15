@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 14 Jun 2024 06:16:50 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:14:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Charlotte Hagen Striib.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452428245</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-jan-hanquist-hansen-15452428245</link>
+      <title>Med Jan Hanquist Hansen</title>
+      <description>Til daglig er han specialtandlæge i Aabenraa, i fritiden ualmindelig glad for fodbold, og i programmet kan du høre Jan Hanquist Hansens helt nye slagsang 'DK', som han har skrevet til det EM i fodbold, der går i gang i dag. 
+Vært: Charlotte Striib</description>
+      <pubDate>Fri, 14 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428245/14665a2b3decf072af233cfca5163119071581bd766f58445edc209c3a7a4b79.mp3" type="audio/mpeg" length="168482172" />
+    </item>
     <item>
       <guid isPermaLink="false">15452428244</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-esben-just-15452428244</link>
@@ -64,19 +77,6 @@ Vært: Charlotte Striib</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428242/bfd7fac1891339b270ee56e57554fe7264bdddd975998a053fe2d5191efbbcd9.mp3" type="audio/mpeg" length="168482137" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428241</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-lone-leth-larsen-15452428241</link>
-      <title>Med Lone Leth Larsen</title>
-      <description>I 16 år boede Lone Leth Larsen i den by, som mange nyvalgte EU-parlamentarikere nu skal lære at kende. Hun er forfatter til tidligere udgaver af 'Turen går til Bruxelles' - og tilbringer i dag pensionistlivet som beboer på Læsø. 
-Vært: Charlotte Striib.</description>
-      <pubDate>Mon, 10 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428241/f4d768a3efaa0b956cf44da7937398f9e095e42fb6156a072606d541db0eadb0.mp3" type="audio/mpeg" length="168482181" />
     </item>
   </channel>
 </rss>

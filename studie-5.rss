@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 14 Jun 2024 06:16:52 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:14:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429245</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429245</link>
+      <title>Fredag 14. jun. 2024</title>
+      <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
+      <pubDate>Fri, 14 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429245/e0157c32150eee241d2728dded327fac74be59b6baba0cb6de4b5fec4fcf4bd2.mp3" type="audio/mpeg" length="168482101" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429244</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429244</link>
@@ -61,20 +73,6 @@ Vært: Rasmus Scharling Toft.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429242/a080aa5f8f45dc7db7196b12984fa73668b871a0d760a882c528c384b983acb5.mp3" type="audio/mpeg" length="168481484" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452429241</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-otte-kvinder-fortaeller-om-martin-brygmanns-graenseoverskridende-adfaerd-15452429241</link>
-      <title>Otte kvinder fortæller om Martin Brygmanns grænseoverskridende adfærd</title>
-      <description>I en ny DR-dokumentarserie med titlen 'Sexisme i musikbranchen' fortæller otte kvinder uafhængigt af hinanden, hvordan de har oplevet grænseoverskridende og krænkende adfærd på deres arbejde. 
-Musikbranchen er stadig i gang med at finde ud af hvordan man skal skabe forhold der giver plads til flere kvindelige musikere. 
-Vært: Rasmus Scharling Toft</description>
-      <pubDate>Mon, 10 Jun 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429241/17efcd047cdee52d0bfdc3ff34c90f69849fc3dd2a2706d60729039200cc3d68.mp3" type="audio/mpeg" length="168482189" />
     </item>
   </channel>
 </rss>

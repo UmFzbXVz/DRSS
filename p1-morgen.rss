@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 14 Jun 2024 06:17:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:14:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,29 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433531</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-p1-paa-folkemoedet-11802433531</link>
+      <title>P1 på Folkemødet</title>
+      <description>P1 sender fra Folkemødet i Allinge.</description>
+      <pubDate>Fri, 14 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433531/c57177cb3515c8f0f1633d126f6a97487cb147f80e120b0ef5f3bd584629f6e9.mp3" type="audio/mpeg" length="165601389" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433245</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433245</link>
+      <title>Fredag 14. jun. 2024</title>
+      <description>Hvorfor er det nødvendigt med hård modstand mod aktiv dødshjælp? Hvorfor ser vi sådan en markant stigning i digital svindel? Og hvor meget fylder sikkerheden i Tyskland op til den her slutrunde?   
+Dagens værter: Thomas Tjaerandsen og Pernille Rudbæk.</description>
+      <pubDate>Fri, 14 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433245/3d5cfd023556d4c027e5ecb4ea07b8412834e861a7b91620a90304b10081505c.mp3" type="audio/mpeg" length="158563441" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433244</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433244</link>
@@ -64,8 +87,7 @@ Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
       <guid isPermaLink="false">11802433241</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433241</link>
       <title>Mandag 10. jun. 2024</title>
-      <description>P1 morgen stiller skarpt dagen efter EP-valget. De vigtigste historier, analyser og reaktioner dagen derpå. Vi spørger blandt andet om: 
-Hvor tæt blev valget for de danske kandidater? Hvad kommer højrefløjens fremgang til at betyde for europaparlamentet? Hvem er vindere og tabere, hvis vi kigger på kortet over Europa?
+      <description>P1 morgen stiller skarpt dagen efter EP-valget. De vigtigste historier, analyser og reaktioner dagen derpå. Vi spørger blandt andet om: Hvor tæt blev valget for de danske kandidater? Hvad kommer højrefløjens fremgang til at betyde for europaparlamentet? Hvem er vindere og tabere, hvis vi kigger på kortet over Europa?
 Dagens værter: Pernille Rudbæk og Bjarne Steensbæk.</description>
       <pubDate>Mon, 10 Jun 2024 06:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
@@ -1823,18 +1845,6 @@ Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:49</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333512/7fbb79ed55370d378d4a9d297784e3879fc209187f613689b46165fdb9b7c5f0.mp3" type="audio/mpeg" length="237349665" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333511</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333511</link>
-      <title>Mandag 18. dec. 2023</title>
-      <description>Hvorfor lægger SDU lokaler til et arrangement, mange mener er problematisk? Navalny er forsvundet - ifølge et russiske medie er han på vej til et andet fængsel. Hvad kan der være sket med Navalny efter hans forsvunden? Og hvorfor er det så voldsomt at blive stalket, at man får symptomer der minder om dem, torturofre har?
-Dagens værter: Pernille Øhlenschlæger Rudbæk og Bjarne Steensbeck.</description>
-      <pubDate>Mon, 18 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:54</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333511/bb234c35a5ee38d55b12dae32ae8b30733633dc613381a08276f53ddfbcb22d3.mp3" type="audio/mpeg" length="237461985" />
     </item>
   </channel>
 </rss>

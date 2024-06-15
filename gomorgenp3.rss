@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 13 Jun 2024 05:03:50 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:14:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410244</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410244</link>
+      <title>Torsdag 13. jun. 2024</title>
+      <description>Vi starter ud med tekniske vanskeligheder - Google Trending-listen er nede, hvilket selvfølgelig gør, at Googlequizzen er i stykker.
+Vi prøver derfor noget andet! Og det bliver nok første og sidste gang med den her udgave.
+Andreas ser kaos med fly alle vegne. Forfærdelig turbulens over det hele og fly der ikke kan klare mosten. Er det klimaforandringerne skyld? Og bliver det værre!?
+Vi får fint besøg af vores venner fra Lidt til Lægterne! Vi skal have dem sendt godt til EM i fodbold i Tyskland - og det samme skal vi med vores EM-maskot. Boldhovedet-
+Og det er ikke det eneste med EM, som vi skal omkring. Vi forsøger også at finde vores eget synske dyr til at forudsige Danmarks kampe - vi skal en tur i Zoo!</description>
+      <pubDate>Thu, 13 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410244/7157a0d0a67da33b5401cb276841d8a6c60aaf51b9885cbeb020c9dccbb429d0.mp3" type="audio/mpeg" length="254882084" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410243</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410243</link>
@@ -50,20 +66,6 @@ Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410242/bd10e0661c51758d9980a3b40946701ac2c707ff4ff64fa0954574a13705a366.mp3" type="audio/mpeg" length="254882170" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410241</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410241</link>
-      <title>Mandag 10. jun. 2024</title>
-      <description>Det er dagen derpå det store Europa-Parlamentsvalg, hvor partiet SF cyklede ind til Christiansborg i et træ-kostume. For første gang er Pia Olsen Dyhrs parti nu det største parti vi sender afsted. Større end Socialdemokratiet. Af samme årsag har værterne fået deres yndlings EU-reporter Per Bang Thomsen i studiet. Normalt sidder han i Bruxelles, så som fejring af at han står i studiet, har Liva fået lavet en jingle til ham. Det er også mandagen efter en weekend, hvor det danske herrelandshold har vist, at de stadig kan spille fodbold, da de slog Norge i sidste venskabskamp, inden EM starter i Tyskland. Det giver selvsagt anledning til at Lidt til Lægternes fodboldsang lige skal have en tur i playlisten.
-Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
-Medvirkende: Per Bang Thomsen, EU-reporter DR.</description>
-      <pubDate>Mon, 10 Jun 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410241/356a02be2a27947483c6a5a33ca9e021ee2573021aa649297258870e1efab1cf.mp3" type="audio/mpeg" length="254881597" />
     </item>
   </channel>
 </rss>

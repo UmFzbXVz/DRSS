@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 14 Jun 2024 06:17:01 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:14:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450258</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-de-ukendte-europamestre-13652450258</link>
+      <title>De ukendte europamestre</title>
+      <description>Hvem er de forsvarende europamestre? 
+Italien vandt for tre år siden EM i fodbold med forsvarsgeneralerne Bonucci og Chiellini på holdkortet. Tidligere har det italienske mandskab være spækket med stjernespillere, men nu er det forholdsvis ukendte navne, der skal løfte arven og sikre et godt resultat for den stolte fodboldnation. 
+Hvem er de, og hvor langt kan de nå i turneringen?
+Det spørger vi fodboldekspert Kenneth Møller Pedersen om i dagens afsnit Tyvstart, hvor vi også runder den danske landsholdslejr. 
+Vært: Emil Schiønning.</description>
+      <pubDate>Sat, 15 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450258/5edd6e7f1bfb0912a13dbccaab84d94527659cce969c3a14c3c9c4f7ff89f18d.mp3" type="audio/mpeg" length="23462651" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450119</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-den-sovende-tyske-kaempe-13652450119</link>
@@ -55,7 +71,7 @@ Vært: Rikke Smed Iversen.</description>
     </item>
     <item>
       <guid isPermaLink="false">13652450117</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-13652450117</link>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-skatetalent-naermer-sig-ol-rampelyset-13652450117</link>
       <title>Skatetalent nærmer sig OL-rampelyset</title>
       <description>16-årige Viktor Solmunde er det helt nye stjerneskud på den internationale skatescene. 
 Han ligger lunt i svinget til at kvalificere sig til OL, men det kræver et godt resultat i det sidste kvalifikationsstævne i Budapest.
@@ -70,7 +86,7 @@ Vært: Emil Schiønning.</description>
     </item>
     <item>
       <guid isPermaLink="false">13652450116</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-sejldronningen-naegter-at-afgive-sin-krone-13652450116</link>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-sejldronningen-naegter-at-afgive-sin-trone-13652450116</link>
       <title>Sejldronningen nægter at afgive sin trone</title>
       <description>Danmarks helt store medaljehåb. 
 Anne-Marie Rindom er under et gevaldigt pres til OL, når hun skal forsvare sin guldmedalje. 
@@ -1906,20 +1922,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:41</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350244/bfc2ff81151577b8991d1a08ce05f81164979c2287a0bcbc7a9d858d3b5c047b.mp3" type="audio/mpeg" length="25485564" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350243</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-mod-medaljerne-med-hiv-og-sving-13652350243</link>
-      <title>Mod medaljerne med hiv og sving</title>
-      <description>De danske håndboldkvinder er klar til VM-semifinalen efter onsdagens sejr på 26-24 over Montenegro. Mod slutningen blev det meget mere nervøst og nervepirrende end nødvendigt, men Jesper Jensens tropper klarede den.
-I dagens Tyvstart er håndboldekspert Helle Thomsen igen på besøg i Boxen for at forklare, hvorfor det skulle være så spændende til sidst.
-Vært: Emil Schiønning.</description>
-      <pubDate>Thu, 14 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350243/461dd2f3d79e2b503e74e2d463084ae769da4799a252b1c8da189129d8c57f6b.mp3" type="audio/mpeg" length="21688570" />
     </item>
   </channel>
 </rss>

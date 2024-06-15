@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 14 Jun 2024 06:16:59 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:14:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332425245</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-travolta-nosser-roerende-rammstein-droem-og-stoppet-toilet-13332425245</link>
+      <title>Travolta-nosser, rørende Rammstein-drøm og stoppet toilet</title>
+      <description>Send os på weekend med din drøm i indbakken! Send den og dit telefonnummer til p3drommer@dr.dk.
+Vi starter hvor vi slap i går. Nemlig hos Julie, som drømmer om den kæmpestore Bachelorette-discokugle.
+Vi skal både til Holland og Ukraine, men det er dét der skal til for at få Julies disco-drøm til at gå i opfyldelse.
+Lottes bror har billetter til Rammstein. Det er Lotte der har glædet ham med ståpladser, dengang han var frisk. Desværre har hendes bror en voksende tumor i hjernen, og er ikke længere i stand til at gå og stå i længere tid.
+Lotte har prøvet alt for at få billetterne ombyttet, men det er umuligt. Drømmeholdet skal have ham til den koncert - koste hvad det vil!
+Dagens sidste drøm er desperat. Bibi skal holde Housewarming-fest for 20 piger i morgen, men hendes toilet er pludselig gået i stykker. VVS'eren hun havde ringet til, brændte hende af og alle hun har ringet til, er fuldt bookede.
+Glædelig weekend fra Drømmeholdet!</description>
+      <pubDate>Fri, 14 Jun 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425245/50367fb738aa8433272feb9358ff5fecbad649eaafc2da2f4aeb6d15e51f5a83.mp3" type="audio/mpeg" length="254882179" />
+    </item>
     <item>
       <guid isPermaLink="false">13332425244</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-hvad-skete-der-med-leverpostejspigen-13332425244</link>
@@ -43,7 +61,7 @@ Til sidst gør vi noget nyt. Vi starter nemlig en drøm i dag, så vi kan starte
     </item>
     <item>
       <guid isPermaLink="false">13332425243</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-13332425243</link>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-royalt-trylleri-30-cm-klitoris-og-bo-hamburger-13332425243</link>
       <title>Royalt trylleri, 30 cm klitoris og Bo Hamburger</title>
       <description>Har du en mærkelig drøm? Sådan en du ikke tør fortælle nogen? Fortæl den til os på p3drommer@dr.dk - husk dit telefonnummer.
 Jonas og Saxe udgør trylle-duoén 'Joxe'. De har tryllet for mange, men der er nogen der ville være de absolut vildeste at trylle for. Nemlig medlemmerne af Kongehuset.
@@ -71,21 +89,6 @@ Til sidst vil Katrine gerne finde en fræk date til sin Golden Doodle-tæve, men
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425242/03dac3099ee55b0d6656cd183ca3e2deaaba0de8d7cb1d182a8b2ef4dad60422.mp3" type="audio/mpeg" length="254881607" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425241</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-harry-potter-bryllup-baby-topmodel-og-slange-simon-13332425241</link>
-      <title>Harry Potter-bryllup, baby-topmodel og slange-Simon</title>
-      <description>Må vi ikke please få din drøm ind til os? Vi ved jo, hvor fed den er! Send den til p3drommer@dr.dk! Husk dit telefonnummer.
-Dans søster skal giftes til sommer, og derfor vil Dan gerne overraske hende og hendes kommende mand. De er store Harry Potter-fans, så overraskelsen skal selvfølgelig være et espalier af troldmænd og hekse, der står klar, når parret kommer ud af kirken. 
-Alle forældre er overbeviste om, at deres baby er den pæneste. Jonathan er dog helt overbevist, at hans baby er aller pænest. Derfor vil han have hans baby til at være ansigtet på et af de produkter, man ikke kan undgå at se. En vaskeægte topmodel-baby.
-Til sidst vil Simon bare gerne holde en kæmpe pytonslange.</description>
-      <pubDate>Mon, 10 Jun 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425241/b25b41179a1a0783137a568669f7fc388fbb857bf97187b9d0dd4f55ab8b2be1.mp3" type="audio/mpeg" length="254882180" />
     </item>
   </channel>
 </rss>

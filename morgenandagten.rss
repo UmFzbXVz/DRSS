@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 14 Jun 2024 06:17:13 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:14:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405245</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405245</link>
+      <title>Fredag 14. jun. 2024</title>
+      <description>Præludium: Helmut Walcha: Den klare sol står op
+Fra det G.T.:	Mikas bog 5,1-4a.
+Salme: 749 "I østen stiger solen op".
+Fra det N.T.	Matthæusevangeliet 5, 38-42.
+Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
+Salme: 696 "Kærlighed er lysets kilde".
+Postludium: Jesper Madsen: Kærlighed er lysets kilde</description>
+      <pubDate>Fri, 14 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405245/5499076682927170de945e56a118ee4abeb26e432ef06c6024e956d9d98f7b54.mp3" type="audio/mpeg" length="36001583" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405244</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405244</link>
@@ -438,24 +456,6 @@ Postludium: Johann Sebastian Bach: Kom, Helligånd, Gud Herre From, BWV 667.</de
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405205/3759dc6a90999000b2078502d68f8dcd563d8ef032484fe6011effdf21e0ab2d.mp3" type="audio/mpeg" length="36001581" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405204</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405204</link>
-      <title>Torsdag 16. maj 2024</title>
-      <description>Præludium: Friedrich Wilhelm Zachow: Kom Helligånd, Gud Herre from.
-Fra det G.T.: Esajas 44,21-24.
-Salme: 293, vers 1-5 "Gud Helligånd, vor trøstermand".
-Fra det N.T.: Johannesevangeliet 16, 16-22.
-Korvers: Albert Becker: Oplys, o Gud, mig med din Ånd (tekst: Dansk bearbejdelse: Niels Rindorf.
-Salme: 635 "Vær stærk, min sjæl".
-Postludium: Hans Matthison-Hansen: Postludium nr. 3, D-dur.</description>
-      <pubDate>Thu, 16 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405204/2a57c814fafa30c60e7664618da719ed17d5a39145e07a67559e88bdc305933d.mp3" type="audio/mpeg" length="36001581" />
     </item>
   </channel>
 </rss>

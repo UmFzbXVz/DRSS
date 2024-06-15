@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 14 Jun 2024 06:16:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:14:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428245</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-naar-hjernen-svinger-med-peter-vuust-18452428245</link>
+      <title>Når hjernen svinger - med Peter Vuust</title>
+      <description>Hjerneforsker og jazzmusiker Peter Vuust er for tiden aktuel i en podcast udgivet af Aarhus Jazz Orchestra, der stiller det enkle, og voldsomt spændene spørgsmål, hvad sker der egentlig i hjernen, når musikken svinger?
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Medvirkende: Peter Vuust; hjerneforsker, komponist og musiker.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Fri, 14 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428245/5318a5e1af14006ff8894b4fdd30c2bc221a54b109787d8c41a1e7042bea0030.mp3" type="audio/mpeg" length="252002185" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428244</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-tre-danske-jazzgiganter-i-ugens-album-18452428244</link>
@@ -80,7 +98,7 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
     </item>
     <item>
       <guid isPermaLink="false">18452428241</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428241</link>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-europaeisk-jazz-18452428241</link>
       <title>Europæisk jazz</title>
       <description>Det er dagen derpå efter EP-valget. I den anledning får vi lidt musik fra intet mindre end hele det europæiske kontinent.
 Vært og tilrettelægger: Julian Svejgaard.
@@ -132,7 +150,7 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
     </item>
     <item>
       <guid isPermaLink="false">18452428233</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428233</link>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jazz-i-grundloven-18452428233</link>
       <title>Jazz i Grundloven</title>
       <description>5. juni er en lidt crowdet mærkedag herhjemme med både fars dag og Grundlovens 175-års jubilæum, men det forhindrer os ikke i at nå omkring både jazz til fædre og til demokratiet i denne morgens Snooze. 
 Vært og tilrettelægger: Julian Svejgaard.
@@ -149,7 +167,7 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
     </item>
     <item>
       <guid isPermaLink="false">18452428232</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428232</link>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-bas-jazz-18452428232</link>
       <title>Bas-jazz</title>
       <description>De er store, tunge og bombastiske, men basserne kan i høj grad også være yndefulde og smukke, især i de helt små og intime duoformater. Vi siger bas til din jazz denne morgen i Snooze.
 Vært og tilrettelægger: Julian Svejgaard.
@@ -166,7 +184,7 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
     </item>
     <item>
       <guid isPermaLink="false">18452428231</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428231</link>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-sommertid-18452428231</link>
       <title>Sommertid</title>
       <description>Juni måned er i gang og sommertiden er over os. Det gælder selvfølgelig også musikken i Snooze, som denne morgen uddeler varme sommerkram.
 Vært og tilrettelægger: Julian Svejgaard.
@@ -373,23 +391,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428205/a169249df4762ae8e447dd67465c6f1dacb57ae17d162de74500b6076b4cd64e.mp3" type="audio/mpeg" length="252002176" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428204</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-en-gammel-mester-bag-ugens-album-18452428204</link>
-      <title>En gammel mester bag ugens album</title>
-      <description>Ugens album på P8 kommer fra en af de sidste bastioner i den levende jazzhistorie - Charles Lloyd udgav på sin 86 års fødselsdag et album med den optimistiske titel "The Sky Will Still Be There Tomorrow". Vi hører lidt af mesterens bidrag fra 1950'erne til 2020'erne.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Thu, 16 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428204/50cddf26d4b9d6cf6b1c51377f72e46606f786e5da51482c17a8ff8ae166fe71.mp3" type="audio/mpeg" length="252002165" />
     </item>
   </channel>
 </rss>
