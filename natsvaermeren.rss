@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:34 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463246</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-uro-12422463246</link>
+      <title>Uro</title>
+      <description>Uro kan både være den uro der hænger over det lille barn for at stimulere sanserne, og det kan være en følelse af uro, vækket af musik måske. Musikken i Natsværmeren vil hænge over dig som en uro, til forhåbentlig glæde og adspredelse, og samtidig vække dine sanser til live.
+Vært: Tina Rømer.</description>
+      <pubDate>Sun, 16 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463246/22f11a841e8f000db450898777c1b0837366f6c4bfa419d5616ead0a92fc89e7.mp3" type="audio/mpeg" length="168481604" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463244</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-den-indre-lyd-12422463244</link>
@@ -271,21 +284,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:30:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463082/57847c7bfffe4e505116c31111f7917dededba1f1725bac101b1fcb4c8b3667e.mp3" type="audio/mpeg" length="129601482" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463057</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tys-12422463057</link>
-      <title>Tys</title>
-      <description>Når noget er hemmeligt, er det tys tys, når vi beder nogen om at være stille, så er det tys.
-I natsværmeren kan vi tysse på hinanden, for at kunne lytte og lade musikken få ordet.
-Vært: Tina Rømer.
-(Sendt første gang 5. februar).</description>
-      <pubDate>Mon, 05 Feb 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:30:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463057/6f51489e772af5ed9a135997acb63c76564c51765daab5b1aae1896d58a3c3f1.mp3" type="audio/mpeg" length="129602147" />
     </item>
     <item>
       <guid isPermaLink="false">12422463056</guid>

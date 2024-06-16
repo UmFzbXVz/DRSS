@@ -10,7 +10,7 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122481246</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-endnu-en-tur-til-yndlingslandet-16122481246</link>
+      <title>Endnu en tur til yndlingslandet</title>
+      <description>Ikk' så meget pis. Der står 100% Brazil på programmet i denne uge.
+Og det ved du jo godt hvad betyder:
+Kilder i mavsen og tankemylder der flyder i retningen af alle mulige lumre ting.
+Men det er helt ok. For det må du nemlig gerne hver lørdag mellem 14 og 16.</description>
+      <pubDate>Sat, 15 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:54:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122481246/5f3fc59c5bd25955e1561faf29ee612f98fa4fd3606576da123aa834324ec47a.mp3" type="audio/mpeg" length="164245705" />
+    </item>
     <item>
       <guid isPermaLink="false">16122481236</guid>
       <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-italiensk-afro-og-vild-brazil-16122481236</link>

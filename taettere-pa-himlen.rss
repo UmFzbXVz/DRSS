@@ -9,7 +9,7 @@ Andrew Moyo har dig. Kom nu!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -286,20 +286,6 @@ Gæster: Sara Frost og Nynne Givskov.</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329515/3ce62742f26594d7a33ef89d12a181fdf57430d92d216b38d65d711d8de192f8.mp3" type="audio/mpeg" length="172995034" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332329505</guid>
-      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2023/taettere-paa-himlen-13332329505</link>
-      <title>Fredag 15. dec. 2023</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!
-Gæster: Patina.</description>
-      <pubDate>Fri, 15 Dec 2023 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332329505/726bb67069a93e65f07ef5baf7001c62e69f6388d8ffb8fdffb86ec67790857e.mp3" type="audio/mpeg" length="172994437" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:10 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -64,19 +64,6 @@ Vært: Charlotte Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428243/e0b9da1d1655cad80eff1947977e7552213169f34248da89d8e9ed8bd5f0fe6b.mp3" type="audio/mpeg" length="168482170" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428242</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-soeren-sillehoved-15452428242</link>
-      <title>Med Søren Sillehoved</title>
-      <description>Natur-Søren bliver han kaldt på Bornholm, hvor han er en engageret naturvejleder. Søren Sillehoved har skrevet flere bøger og er aktuel med 'Gamle historier, sagn og fakta' - om Bornholm.  
-Vært: Charlotte Striib</description>
-      <pubDate>Tue, 11 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428242/bfd7fac1891339b270ee56e57554fe7264bdddd975998a053fe2d5191efbbcd9.mp3" type="audio/mpeg" length="168482137" />
     </item>
   </channel>
 </rss>

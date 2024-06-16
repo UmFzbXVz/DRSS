@@ -10,7 +10,7 @@ Vært: Ole Tøpholm.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:06 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Vært: Ole Tøpholm.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452432246</guid>
+      <link>https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen-2024/dansktoppen-15452432246</link>
+      <title>Lørdag 15. jun. 2024</title>
+      <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
+Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
+Vært: Ole Tøpholm.</description>
+      <pubDate>Sat, 15 Jun 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452432246/9ab32dbd121f08f2bb9aeee9bb1ee50c3dfa964d600a58bdb17ba5fc48f831a6.mp3" type="audio/mpeg" length="151202070" />
+    </item>
     <item>
       <guid isPermaLink="false">15452433243</guid>
       <link>https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/paa-vej-mod-dansktoppen-15452433243</link>

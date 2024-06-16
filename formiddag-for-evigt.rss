@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:09 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -276,20 +276,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424211/52b5f3f7d4fb00903984af44b5933334bfa02559f10b44f01516bf89563c475c.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424205</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-flammende-fredag-18452424205</link>
-      <title>Flammende Fredag</title>
-      <description>Ud over en masse dejlige weekendbeskrivelser fra lytterne byder denne fredag også på musik der brænder på en helt særlig måde. Perfekte fredagstoner fra den musikalske evighedens brændende glød
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Fri, 17 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424205/7d1687df4829664ae1561ea8edab49143d2b3cfb1ab8870d48dfa1e1227750ab.mp3" type="audio/mpeg" length="168482164" />
     </item>
   </channel>
 </rss>

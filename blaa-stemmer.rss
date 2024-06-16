@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:13:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Kasper Christensen</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452434246</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-sange-fra-film-og-tv-serier-18452434246</link>
+      <title>Sange fra film og tv-serier</title>
+      <description>I dag dykker vi ned i film og tv-seriernes verden, vi skal nemlig lytte til et særlig udvalg af fede numre med vokal fra forskellige film og tv-serier. 
+Vært og tilrettelægger: Josephine Philip.
+Redaktør: Kasper Christensen.</description>
+      <pubDate>Sat, 15 Jun 2024 13:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434246/30b8df785b52c081e0a9afb73e0ea80f031c29ed6970f7b1af49c42564fd1956.mp3" type="audio/mpeg" length="82081578" />
+    </item>
     <item>
       <guid isPermaLink="false">18452434236</guid>
       <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-kvindelige-aktuelle-skandinaviske-stemmer-18452434236</link>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:16 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460141</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Macronbund</title>
+      <description>Med tyk symbolik og drama - og en ukuelig optimisme for sit eget europæiske projekt - stormer Macron ind som Frankrigs yngste præsident for syv år siden. Altid flankeret af både nationens og unionens flag styrer han landet med måske FOR selvsikker hånd. For der er ét problem, han ikke kan løse: Franskmændene køber hverken hans drøm eller hans charme. Og efter et nederlag ved Europa-Parlamentsvalget udskriver han med velkendt sans for drama valg i Frankrig. Nu har han tre uger til at vende folkestemningen til sin fordel. Kan han nå det eller smider han det hele væk i overmod? DR's internationale korrespondent Stéphanie Surrugue går Macrons selvsikkerhed efter i sømmene.
+Vært: Annika Wetterling.
+Program publiceret i DR Lyd d. 12/6.</description>
+      <pubDate>Sun, 16 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460141/c2b3e27ea227db8afd3014af4a35c12e456b4f86474202740dc8b13d76998588.mp3" type="audio/mpeg" length="31897601" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460140</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9622,19 +9636,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:22:06</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150119/bd59218aa4e63fc0e3fcfe3aa578e79e50908e291aa58dcc4d535cca51406c18.mp3" type="audio/mpeg" length="31827910" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150118</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-den-trojanske-app-11802150118</link>
-      <title>Den trojanske app</title>
-      <description>Et par FBI-agenter udvikler sammen med en cyber-kriminel en app. De udbreder den i kriminelle miljøer verden over og kigger i hemmelighed på sidelinjen. I sidste uge afslører politiet så den hemmelige aktion og fortæller, at over 800 formodede kriminelle i 16 forskellige lande er blevet anholdt. Hvordan lykkes politiet med at narre de kriminelle? Det forklarer DR's retsanalytiker Louise Dalsgaard.
-Vært: Knud Brix.</description>
-      <pubDate>Tue, 15 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:24:27</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150118/47441a48810ded60fa594f386281036f48b5e05ea5b3424c257853a989f5c95d.mp3" type="audio/mpeg" length="35227466" />
     </item>
   </channel>
 </rss>

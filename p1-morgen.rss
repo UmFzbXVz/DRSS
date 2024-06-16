@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:15 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433246</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433246</link>
+      <title>Lørdag 15. jun. 2024</title>
+      <description>Hvordan gik Folkemødet 2024? Leder fredsforhandlingerne i Schweiz til noget? Og hvem har Ems flotteste trøje?
+Dagens værter: Thomas Tjaerandsen og Søren Carlsen.</description>
+      <pubDate>Sat, 15 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:03</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433246/ff47dff3e916265165dfaa8e43d06a61e950758eb256b4424866a2081b6e7e6e.mp3" type="audio/mpeg" length="158483169" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433531</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-p1-paa-folkemoedet-11802433531</link>
@@ -1833,18 +1845,6 @@ Dagens værter: Søren Carlsen &amp; Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:20</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333513/03303bff144c97f5a2a931cbc7a0f0afa696c366802b8b4d0f337c96b0b9f474.mp3" type="audio/mpeg" length="236650401" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333512</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333512</link>
-      <title>Tirsdag 19. dec. 2023</title>
-      <description>Hvad betyder det for regeringen, at aftalen om SU nu er faldet på plads? Der er nok danske inspektionsskibe. De er bare så slidte, at de ikke kan bruges i NATO-regi. Hvad betyder det for de soldater, der skal bruge skibe, der ikke lever op til NATOs kvalitative styrkemål? Og hvor står vi i Europa i forhold til opbakningen til Israel?  
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <pubDate>Tue, 19 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:49</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333512/7fbb79ed55370d378d4a9d297784e3879fc209187f613689b46165fdb9b7c5f0.mp3" type="audio/mpeg" length="237349665" />
     </item>
   </channel>
 </rss>

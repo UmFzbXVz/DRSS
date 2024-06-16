@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 15 Jun 2024 06:14:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:14:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450259</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-danmarks-gamle-garde-skal-sikre-em-succes-13652450259</link>
+      <title>Danmarks gamle garde skal sikre EM-succes</title>
+      <description>Så er det tid. 
+Danmark spiller i aften deres første kamp ved EM mod Slovenien i Stuttgart.  
+Op til slutrunden har der været spekuleret i, hvorvidt landstræner Kasper Hjulmand har udtaget de rigtige spillere til turneringen. 
+I dagens afsnit af Tyvstart spørger vi den tidligere landsholdsspiller Mikkel Beckmann om, hvor vigtig de erfarne spillere er for Danmark, også selvom de måske er i karrierens efterår.  
+Vært: Emil Schiønning.</description>
+      <pubDate>Sun, 16 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:21:24</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450259/25b822fb97dfbb8cecdb27fa83f0d3172ef0d0831ab8e1e497842db5770e7193.mp3" type="audio/mpeg" length="30821050" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450258</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-de-ukendte-europamestre-13652450258</link>
@@ -1908,20 +1924,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:14:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350245/772347d13d8f1c4d570d9c151cded1e032b8c6199a439334a81049d9529b6411.mp3" type="audio/mpeg" length="20167356" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350244</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-det-danske-guldhaab-staar-paa-sidelinjen-13652350244</link>
-      <title>Det danske guldhåb står på sidelinjen</title>
-      <description>Danmark er oppe mod overmagten, når de møder Norge i fredagens VM-semifinale. Det er måske håndboldhistoriens bedste landshold, men deres landstræner er ikke lige så dygtig som Danmarks Jesper Jensen, mener håndboldeskpert Helle Thomsen. dygtig. 
-I dagens Tyvstart forklarer hun, hvorfor Jesper Jensen er den trumf, der kan blive afgørende mod Norge og Thorir Hergeirsson.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 15 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:41</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350244/bfc2ff81151577b8991d1a08ce05f81164979c2287a0bcbc7a9d858d3b5c047b.mp3" type="audio/mpeg" length="25485564" />
     </item>
   </channel>
 </rss>
