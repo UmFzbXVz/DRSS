@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:03:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,23 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481864</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-lyt-til-hoejre-lyt-til-venstre-12422481864</link>
+      <title>Lyt til højre, lyt til venstre</title>
+      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg selv lytter til efter fyraften og når jeg har fri.
+Denne gang med noget af al den skønne klassiske musik, man støder på, hvis man kigger lidt til siden i stedet for kun at fokusere på det allermest kendte.
+Vært: Jens Cornelius.</description>
+      <pubDate>Sun, 16 Jun 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000180004</itunes:order>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481864/de166eb8ebbb2f72bb97ec86c0b7e9d7795921d45d39e59074640f6ad9ca65cd.mp3" type="audio/mpeg" length="168482185" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481863</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-sproed-musik-til-traette-oerer-12422481863</link>

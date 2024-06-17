@@ -10,7 +10,7 @@ Vært: Jørgen de Mylius.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -78,19 +78,6 @@ Vært: Jørgen de Mylius.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452424216/fa2a4b9100e5b864a27eef26f802738cd43492c301b03dcdc39aee5edeb572bf.mp3" type="audio/mpeg" length="168481425" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452424206</guid>
-      <link>https://www.dr.dk/lyd/p5/eldorado/eldorado-2024/eldorado-15452424206</link>
-      <title>Lørdag 18. maj 2024</title>
-      <description>De gode historier og fantastiske hits, med omdrejningspunkt i 80'erne.
-Vært: Jørgen de Mylius.</description>
-      <pubDate>Sat, 18 May 2024 16:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452424206/1167ecb42ff4246519c14da4f14512d227053b3ce20ab9f80892d801a13ae36e.mp3" type="audio/mpeg" length="168470481" />
     </item>
   </channel>
 </rss>

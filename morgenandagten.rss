@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -438,24 +438,6 @@ Postludium: Christian Præstholm: I al sin glans nu stråler solen.</description
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405212/948dc1dc68a7ab1a0977745ca8a729c092519a1a9b86c7b2f29bae4eb89faf01.mp3" type="audio/mpeg" length="36001576" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405206</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405206</link>
-      <title>Lørdag 18. maj 2024</title>
-      <description>Præludium: Maurice Duruflé: 2 variationer over 'Veni Creator'.
-Davidssalme: 33, 1-4.
-Salme: 282 "Apostlene sad i Jerusalem".
-Fra det N.T.:	Apostlenes Gerninger 2, 1-11.
-Vekselsang:	Ånden selv vidner med vor ånd (Rom. 8, 16 - 17 &amp; 26).
-Salme: 285 vers 1-2 "Hør himmelsus i tredje time".
-Postludium: Maurice Duruflé: Veni Creator.</description>
-      <pubDate>Sat, 18 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405206/b3115a81bc94828fe5606acebd93cb6c1faddd2647dd15cbbe695c09b76a969d.mp3" type="audio/mpeg" length="36001574" />
     </item>
   </channel>
 </rss>

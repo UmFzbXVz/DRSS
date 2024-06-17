@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -40,19 +40,6 @@ Og det er ikke det eneste med EM, som vi skal omkring. Vi forsøger også at fin
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410244/7157a0d0a67da33b5401cb276841d8a6c60aaf51b9885cbeb020c9dccbb429d0.mp3" type="audio/mpeg" length="254882084" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410243</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410243</link>
-      <title>Onsdag 12. jun. 2024</title>
-      <description>- fokuserer på de ting, der betyder noget for dig, dit liv og din hverdag.
-Stå op med Liva Manghezi, Mikkel Rosendal og Andreas Kousholt, som sender dig både opløftet og oplyst ud i dagen.</description>
-      <pubDate>Wed, 12 Jun 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410243/8a07ff9e0057c172f0d0adacd7fc5c5af839982467af47aff7e4cce393578dc2.mp3" type="audio/mpeg" length="254882098" />
     </item>
   </channel>
 </rss>

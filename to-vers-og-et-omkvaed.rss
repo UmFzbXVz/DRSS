@@ -11,7 +11,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:26 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:03:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,21 @@ Produceret for DR af Munck Studios København.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122454247</guid>
+      <link>https://www.dr.dk/lyd/p5/to-vers-og-et-omkvaed/to-vers-og-et-omkvaed-2024/to-vers-og-et-omkvaed-16122454247</link>
+      <title>Søndag 16. jun. 2024</title>
+      <description>Et program, der med både et sug i hjertet og et glimt i øjet præsenterer musik fra 7 årtier. 
+Fokus er på den gode sang og historiefortælling, som den gennem generationer af sangskrivere har foldet sig ud i netop to vers og et omkvæd.
+Vært: Anne Dorte Michelsen.
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Sun, 16 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122454247/8c635494605c9bb8ddc0cdf3f704982514a531e41c76af1cb460d406728329cd.mp3" type="audio/mpeg" length="168482180" />
+    </item>
     <item>
       <guid isPermaLink="false">16122454246</guid>
       <link>https://www.dr.dk/lyd/p5/to-vers-og-et-omkvaed/to-vers-og-et-omkvaed-2024/to-vers-og-et-omkvaed-16122454246</link>
@@ -147,21 +162,6 @@ Produceret for DR af Munck Studios København.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122454207/d0d92db40620ef4192c8fed449c52e96189435707caf7cdcfb02715fa984b304.mp3" type="audio/mpeg" length="168482180" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122454206</guid>
-      <link>https://www.dr.dk/lyd/p5/to-vers-og-et-omkvaed/to-vers-og-et-omkvaed-2024/to-vers-og-et-omkvaed-16122454206</link>
-      <title>Lørdag 18. maj 2024</title>
-      <description>Et program, der med både et sug i hjertet og et glimt i øjet præsenterer musik fra 7 årtier. 
-Fokus er på den gode sang og historiefortælling, som den gennem generationer af sangskrivere har foldet sig ud i netop to vers og et omkvæd.
-Vært: Anne Dorte Michelsen.
-Produceret for DR af Munck Studios København.</description>
-      <pubDate>Sat, 18 May 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122454206/970a13e917dcc8350f6dcadc8c5f718a47e68de1b9a892387ffecd87d381bcce.mp3" type="audio/mpeg" length="168482180" />
     </item>
   </channel>
 </rss>

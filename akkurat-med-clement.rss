@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:38 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,17 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:664de93b8445d7d25e7420d4.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11162451247</guid>
+      <link>https://www.dr.dk/lyd/p1/akkurat-med-clement/akkurat-med-clement-2024/akkurat-live-med-clement-11162451247</link>
+      <title>Akkurat live med Clement</title>
+      <description>Hvad er ugens vigtigste nyheder - og hvorfor? En række aktuelle gæster diskuterer nyhedsbilledet i ind- og udland med Clement Kjersgaard.</description>
+      <pubDate>Sun, 16 Jun 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162451247/417e271a5c07d013784a8565395c460ec901846b4a7aaefe000e5817fc690ae8.mp3" type="audio/mpeg" length="151202059" />
+    </item>
     <item>
       <guid isPermaLink="false">11162451237</guid>
       <link>https://www.dr.dk/lyd/p1/akkurat-med-clement/akkurat-med-clement-2024/akkurat-med-clement-velkommen-til-melonis-europa-11162451237</link>

@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:34 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493206</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-mad-for-preppere-16122493206</link>
+      <title>Mad for preppere</title>
+      <description>"Bare hav lidt ekstra pasta og ris i hjemmet" sådan lyder rådet ofte, når det handler om at preppe mad. Men på sigt er det en dårlig løsning, fortæller ernæringseksperten i denne episode og udstyrer Peter Falktoft med en indkøbsliste med langtidsholdbare fødevarer, som ernæringsmæssigt dækker alle kroppens behov. Ingredienserne i Peters tørmad bliver også analyseret, og suppens smag ender med at overraske eksperten.
+Gæst :  Camilla Trab Damsgaard.
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 17 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:34:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493206/fc2a0d78ef24462789d6ab439c7c8efb652d443d00102c1a841c6d411bded6a4.mp3" type="audio/mpeg" length="49652800" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493205</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-kroppen-i-krise-16122493205</link>

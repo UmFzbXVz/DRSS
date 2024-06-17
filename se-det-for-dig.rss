@@ -10,7 +10,7 @@ Redaktør: Mikkel Bagger.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:22 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:03:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Redaktør: Mikkel Bagger.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452440247</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-18452440247</link>
+      <title>Søndag 16. jun. 2024</title>
+      <description>Lad jazz- og soulmusik male billeder og stemninger frem fra de film og tv-serier, du - måske - kender så godt. Det er søndag, og Ida Rud sætter ord på den jazzede del af filmhistorien - så find popcornene frem og 'Se det for dig'.
+Vært og tilrettelægger: Ida Rud.
+Redaktør: Mikkel Bagger.</description>
+      <pubDate>Sun, 16 Jun 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452440247/d4edf74eda69a9dd181ecb92d4676bb3774188c13d4fb9bca9c5fcdad1206ff9.mp3" type="audio/mpeg" length="168482166" />
+    </item>
     <item>
       <guid isPermaLink="false">18452440237</guid>
       <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-lyden-af-frihed-polsk-jazz-18452440237</link>

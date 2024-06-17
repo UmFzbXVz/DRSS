@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,18 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400016</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-15452400016</link>
+      <title>Mandag 17. jun. 2024</title>
+      <description>Hver uge mødes Sebastian Lynggaard med ph.d. i socialpsykologi Jytte Vikkelsøe, og sammen med to gæster stiller de hinanden alle de vigtigste spørgsmål om kærlighed fra deres eget liv: Skal man nødvendigvis bo sammen med sin kæreste? Er utroskab en del af parforholdet? Og findes kærlighed kun i tosomheden? Få svarene i Hjerteflimmer for voksne.</description>
+      <pubDate>Mon, 17 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:49</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400016/acbe9d66b567c29c7cfabdacc8f1201ea438fa5d7ac270bb93dbcc080d6cf5fe.mp3" type="audio/mpeg" length="152386425" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400015</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-basim-og-kaya-bruel-15452400015</link>
@@ -2023,24 +2035,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>01:26:28</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195325/571b5a5350b411e386f7a34437e4f556a33a1bdc534951189de09334d64e9c9d.mp3" type="audio/mpeg" length="124530494" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195324</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/sommerspecial-spoergsmaal-fra-lytterne-jalousi-sex-og-aabne-parforhold-13332195324</link>
-      <title>Sommerspecial: Spørgsmål fra lytterne - jalousi, sex og åbne parforhold</title>
-      <description>En lytter har skrevet: Hvad er udsigterne for et forhold, der mangler sex, og hvordan skal vi gribe redningsaktionen an? Christoffer er med på en telefon og spørger: Hvorfor trækker jeg mig igen og igen fra en intim relation, når det kommer for tæt på? Og så er der en lytter, der spørger: Hvorfor har jeg mon et behov for, at vi skal synes det samme om alting? Og til sidst bliver der efterspurgt gode råd til at arbejde med sin jalousi i et åbent parforhold.
-Husk, du kan altid skrive til hjerteflimmer@dr.dk, hvis du har et kærlighedsspørgsmål, du søger et svar på.
-
-Medvirkende: Parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 16 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:50:13</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195324/915f0c3ff5f5719fa43e3189588a35b5eccbee24bfb62174d9c377da4a6b80fb.mp3" type="audio/mpeg" length="72336828" />
     </item>
   </channel>
 </rss>

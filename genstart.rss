@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:03:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460142</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Dialog i udu</title>
+      <description>De dukker op i tide og utide, og gør det umuligt at få et ord indført. Med slagord som 'free free Palestine', 'hold kæft' og 'morder' har især propalæstinensiske aktivister de seneste måneder igen og igen afbrudt politiske events og taler. Nu starter Folkemødet på Bornholm, og det skærper bekymringen for afbrydelser - og for vores fælles samtales ve og vel. Men hvem har egentlig monopol på den demokratiske samtale? Det spørger Genstart om i dag, hvor mangeårig forsker i demokratisk deltagelse og aktivisme Silas Harrebye fortæller om de gentagne, ophedede afbrydelser. 
+Vært: Annika Wetterling. 
+Program publiceret i DR Lyd d. 13/6.</description>
+      <pubDate>Mon, 17 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:33</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460142/90dbe2ccdfe35ae76a523afe25d0eb15d5e9cdbe50682050228d9af31f2032b6.mp3" type="audio/mpeg" length="29603968" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460141</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9619,23 +9633,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:27:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150120/934ed81c98bf1fcfb81c474f4a211f83d87b76addbe4c35595cbdf1d30d6575c.mp3" type="audio/mpeg" length="38904077" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150119</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-den-lysende-sti-11802150119</link>
-      <title>Den Lysende Sti</title>
-      <description>Efter årtier med kronisk politisk uro, korruptionsanklager og et utal af valg bliver der i april i år igen udskrevet valg til præsidentposten i Peru. 
-Valget står mellem eliternes favorit Keiko Fujimori og skolelæreren Pedro Castillo fra Perus provins. 
-Men i valgkampens slutspurt spøger resterne af den maoistiske, terror-oprørsgruppe Den Lysende Sti.
-Er Den Lysende Sti virkelig på vej tilbage? Og vil den nye præsident kunne omskrive Perus korrumperede krønike? 
-Det giver journalist og Sydamerika-kender Niels Lindvig sit bud på. 
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 16 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:06</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150119/bd59218aa4e63fc0e3fcfe3aa578e79e50908e291aa58dcc4d535cca51406c18.mp3" type="audio/mpeg" length="31827910" />
     </item>
   </channel>
 </rss>

@@ -12,7 +12,7 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -31,6 +31,22 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452422247</guid>
+      <link>https://www.dr.dk/lyd/p5/giro-413/giro-413/giro-413-15452422247</link>
+      <title>Søndag 16. jun. 2024</title>
+      <description>Vært Ole Tøpholm sammensætter ugens program baseret på lytternes henvendelser. 
+Bidrag kan sendes til:
+Giro: Kontoart: 01 Gironr.: 7000413
+Eller via MobilePay: 724 413 - send herefter din hilsen på giro413@dr.dk
+Eller indtal selv din hilsen - ring 7020 7030.</description>
+      <pubDate>Sun, 16 Jun 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452422247/79db7fe0cc86237e9433f0fc9e56180d89f26bccf6eb3d80ff479a0b51f796e3.mp3" type="audio/mpeg" length="151202159" />
+    </item>
     <item>
       <guid isPermaLink="false">15452422237</guid>
       <link>https://www.dr.dk/lyd/p5/giro-413/giro-413/giro-413-15452422237</link>

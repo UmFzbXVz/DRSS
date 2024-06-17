@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451111</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-folkeskoler-i-forfald-doedelige-bryster-og-dk-i-fn-11802451111</link>
+      <title>Folkeskoler i forfald, dødelige bryster og DK i FN</title>
+      <description>Flere folkeskoler landet over råber nu op. Smertegrænsen er nået for, hvor meget der kan spares. Danmark har fået en eftertragtet plads i FN's sikkerhedsråd, men hvor stor en forskel kan lille Danmark egentlig gøre i det magtfulde selskab? 
+Førstehjælpsinstruktører frygter for kvinders liv, fordi folk er bange for at give førstehjælp til hjertestopsramte med bryster. 
+Vært: Adrian Busk.
+Medvirkende:
+Bjørn Hansen, skolebestyrelsesformand på Provstegårdskolen i Odense.
+Christina Markus Lassen, FN-ambassadør i Udenrigsministeriet.</description>
+      <pubDate>Mon, 17 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:44</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451111/803778f944e9d873af73d03512d3e7edd842303bd2b62a046d18a2115ecc8fdc.mp3" type="audio/mpeg" length="24121035" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451110</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-angreb-paa-demokratiet-doedshjaelps-debat-og-italienske-slagsbroedre-11802451110</link>

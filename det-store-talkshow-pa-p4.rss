@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:03:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -84,20 +84,6 @@ Dicte: Hun har været en del af den danske musikscene i mange år. Og nu er musi
       <itunes:duration>01:45:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440216/8ef3766d15de4078b611580c6a235ca72bcefbcc3cf99103534af3c289eef04f.mp3" type="audio/mpeg" length="151202182" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452440206</guid>
-      <link>https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/det-store-talkshow-15452440206</link>
-      <title>Lørdag 18. maj 2024</title>
-      <description>De to værter Cecilie Hother og David Mandel får hver lørdag besøg af tre kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.
-Christine Feldthaus: Hun er livsstilsekspert, erhvervskvinde, tv-vært og foredragsholder. Og Christine Feldthaus er i øjeblikket aktuel med foredragsturneen "Strik &amp; Drik" sammen med strikkedronningen Lærke Bagger. 
-Wafande: han er sanger, sangskriver og musiker. Han har lagt stemmer til tegnefilm, været med i Vild med Dans og Toppen af Poppen, og nu er Wafande aktuel med mere ny musik blandt andet singlen "jeg blokerer dit nummer".</description>
-      <pubDate>Sat, 18 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440206/84b179953edf49b6c2e434ecdcd4577f0691a9a78c813afbff5941f8addfb4ae.mp3" type="audio/mpeg" length="168482176" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:03:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -51,19 +51,6 @@ Vært: Charlotte Striib</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428244/368c611d3fcc5b65f991afaa4618ac4254e017309b1e6202d4ae28eac3e69a94.mp3" type="audio/mpeg" length="168482187" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428243</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-birthe-schouw-15452428243</link>
-      <title>Med Birthe Schouw</title>
-      <description>Ældretelefonen er en ny mulighed for ensomme ældre, der har brug for at dele tanker og bekymringer. Tidl. sundhedsplejerske Birthe Schouw er en af Ældretelefonens frivillige, og hun har allerede haft flere samtaler.  
-Vært: Charlotte Striib.</description>
-      <pubDate>Wed, 12 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428243/e0b9da1d1655cad80eff1947977e7552213169f34248da89d8e9ed8bd5f0fe6b.mp3" type="audio/mpeg" length="168482170" />
     </item>
   </channel>
 </rss>

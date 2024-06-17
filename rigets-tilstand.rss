@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/rigets-tilstand" rel="self" type="application/rss+xml" />
+    <title>Rigets tilstand</title>
+    <link>https://www.dr.dk/lyd/p3/rigets-tilstand-5604167857000</link>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Mon, 17 Jun 2024 06:03:47 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/rigets-tilstand.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:666c5eb11f475900702b2d6d.jpg</url>
+      <title>Rigets tilstand</title>
+      <link>https://www.dr.dk/lyd/p3/rigets-tilstand-5604167857000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:666c5eb11f475900702b2d6d.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332440951</guid>
+      <link>https://www.dr.dk/lyd/p3/rigets-tilstand/rigets-tilstand/rigets-tilstand-podcast-13332440951</link>
+      <title>Søndag 16. jun. 2024</title>
+      <description>Ligesom kronen er bundet op på euroen, er rigets tilstand bundet op på Jonas Vingegaards tilstand - og pt. er der kun 50% chance for, at han deltager i Touren. I dagens program hiver dine værter, Thomas Bugge og Oliver Seppo, Ouija-brættet frem og tilkalder Chris Anker fra det hinsides for forhåbentlig at berolige os lidt! Desuden bliver tabuet om kvinder, der tisser på brættet, engang for alle brudt. Ikke fordi det er okay, men fordi det er pisseklamt! Og det kan du så skylle ned med to Panodiler!</description>
+      <pubDate>Sun, 16 Jun 2024 22:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000001</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:33:27</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332440951/d701c2f5460db2f7366548e7bd8643167a1be2f107451857b951e4cf630ee9b8.mp3" type="audio/mpeg" length="48185134" />
+    </item>
+  </channel>
+</rss>

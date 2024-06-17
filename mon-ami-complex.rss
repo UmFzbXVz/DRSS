@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:03:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122462247</guid>
+      <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-16122462247</link>
+      <title>Søndag 16. jun. 2024</title>
+      <description>Louise Lolle og Lydmor i en vild og uforudsigelig rejse gennem det smukke, smertefulde og magiske skabende liv.</description>
+      <pubDate>Sun, 16 Jun 2024 19:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462247/4cd9ac1e575b991c77b8d4d731c5a8b5cbb1354aadd4506f3727de504ac49c55.mp3" type="audio/mpeg" length="168482027" />
+    </item>
     <item>
       <guid isPermaLink="false">16122462237</guid>
       <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-elba-og-havet-af-harer-16122462237</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 16 Jun 2024 06:14:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:04:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463247</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nostalgi-og-folk-12422463247</link>
+      <title>Nostalgi og folk</title>
+      <description>Fra blomstrende epoker, engle der letter, og en sang om forår skrevet fra en af Stalins berygtede fangelejre. Bach, Tariverdiev, og Molly Lewis træder frem sammen med John Cage, Chopin, Grethe Ingmann, Gennadij Molchanov og andre udvalgte overraskelser.
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 17 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463247/dff32a7e056f8daf30a52324a5af08e25ba901cb597b188644c5d3b519412152.mp3" type="audio/mpeg" length="168481602" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463246</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-uro-12422463246</link>
@@ -284,20 +297,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:30:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463082/57847c7bfffe4e505116c31111f7917dededba1f1725bac101b1fcb4c8b3667e.mp3" type="audio/mpeg" length="129601482" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463056</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-tag-natten-som-den-er-12422463056</link>
-      <title>Tag natten som den er</title>
-      <description>Natsværmeren læner sig op ad dørkammen til din aften uden at mase sig for meget på. Et kor løfter dig op, filmmusikken husker dig på, hvem du også er, og en ung komponist leger med genre.
-Vært: Minna Grooss.
-(Sendt første gang 4. februar).</description>
-      <pubDate>Sun, 04 Feb 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463056/ff6456856a93f7283ed1cd751dcec0e5571cdc9ccd86914c9d4d20677bc214e6.mp3" type="audio/mpeg" length="82081595" />
     </item>
     <item>
       <guid isPermaLink="false">12422363251</guid>
