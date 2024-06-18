@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:03:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:02:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -284,18 +284,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>00:57:13</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436601/0545b1cef8fbb299f2391b3f266d859a41fa1412028ddbcd535598a116b9a1ab.mp3" type="audio/mpeg" length="82404156" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452354643</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2023/laenge-leve-albummet-tue-track-og-funkadelics-lets-take-it-to-the-stage-16452354643</link>
-      <title>Tue Track og Funkadelics "Lets take it to the stage"</title>
-      <description>Tue Track er på besøg, og jeg kan godt love for, at referencerne flyver rundt på allerbedste måde. Vi kommer til at høre farver og se rytmer, når vi bevæger os ned i 70'ernes boblende psykedeliske funk-rock!</description>
-      <pubDate>Sun, 17 Dec 2023 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:13:12</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452354643/856e60d6f2316faaaeb0daf98d165a843bbfe01ea7156c7511448d2e1407bcee.mp3" type="audio/mpeg" length="105433739" />
     </item>
   </channel>
 </rss>

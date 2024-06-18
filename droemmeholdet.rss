@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:04:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:03:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332425251</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-duften-af-kanel-gylle-og-ironman-13332425251</link>
+      <title>Duften af kanel, gylle og IronMan</title>
+      <description>Hvad er det mærkeligste, du drømmer om? Send det til os på p3drommer.dk - husk telefonnummer.
+Vi har en masse løse ender i dag. Den første startede vi ud i fredags. Det er Jørn, der har en drøm på vegne af sin ven. Drømmen er opstået, fordi hans ven kørte sammen med et dådyr, da han kørte IronMan sidste år. På sygehuset måtte de klippe den VM-dragt op, han var iført, og den skal vi altså have erstattet, selv om det umiddelbart er umuligt.
+Vi har snydt hjemmefra og sendt én afsted til Metallica i weekenden.
+Derefter skal vi have lavet en rigtig drømmeliste. Sådan en med alle de fede mennesker. Dem, der kan noget. Drømmeholdets egen Drømme-kontaktliste.
+Og så skal vi til Jylland. Emmas veninde bliver nemlig 25. Så det ved vi alle, hvad betyder. Vi skal finde den sygeste måde at give kanel på. Jylland! Assemble!</description>
+      <pubDate>Mon, 17 Jun 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425251/3b5a991d71410cc11798a39144b7236a3da13eb5a1cfc58c8d7f1b8f68d60b96.mp3" type="audio/mpeg" length="254881603" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332425245</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-travolta-nosser-roerende-rammstein-droem-og-stoppet-toilet-13332425245</link>
       <title>Travolta-nosser, rørende Rammstein-drøm og stoppet toilet</title>
@@ -42,22 +58,6 @@ Glædelig weekend fra Drømmeholdet!</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425245/50367fb738aa8433272feb9358ff5fecbad649eaafc2da2f4aeb6d15e51f5a83.mp3" type="audio/mpeg" length="254882179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425244</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-hvad-skete-der-med-leverpostejspigen-13332425244</link>
-      <title>"Hvad skete der med leverpostejspigen?"</title>
-      <description>Hvis du nu drømmer om noget, men du tænker det aldrig går i opfyldelse. Så prøv lige at send den til os på p3drommer@dr.dk - husk dit telefonnummer!
-Solvei bliver snart student og elsker sangen Solhverv. Derfor drømmer hun om at fejre huen til en særlig version af dén sang, nemlig hvor der bliver sunget "Solvei" i stedet for "solhverv".
-Det har været lidt af en rejse men endelig ser det ud til vi har en opdatering, i Victorias drøm om at få navnet Stryhns.
-Og så sal vi have fundet en dygtig graffiti-maler, som kan male dén campingvogn Nicolas skal lave program i henover sommeren.
-Til sidst gør vi noget nyt. Vi starter nemlig en drøm i dag, så vi kan starte lige på og hårdt i morgen. Det er lillefredag og det skal du fejre med dit Drømmehold!</description>
-      <pubDate>Thu, 13 Jun 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425244/835c1e146f7119efe69a1578e643d3d6f4eb349af85239dfe925f399abda8d71.mp3" type="audio/mpeg" length="254881603" />
     </item>
   </channel>
 </rss>

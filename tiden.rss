@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:04:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:02:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451112</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-hvis-krisen-kommer-20-procent-natur-og-fransk-fodbold-valg-kamp-11802451112</link>
+      <title>Hvis krisen kommer, 20 procent natur og fransk fodbold(valg)kamp</title>
+      <description>Danskerne skal preppe, men det har vi tidligere været ret dårlige til. Hvorfor? Franske fodboldspillere blander sig i den franske valgkamp og opfordrer til et opgør med ekstremismen i landet. 
+Og så har EU gennemført en storstilet genopretningsplan for naturen. 
+Vært: Adrian Busk
+Medvirkende: Iben Bjørnsson, historiker og adjunkt forsvarsakadamiet 
+Karin Mørch, journalist DR.</description>
+      <pubDate>Tue, 18 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:49</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451112/c1f473be8883c29f1ac03f0814340d2e31909024b4a169bf5d5ac315b7ce571e.mp3" type="audio/mpeg" length="22785291" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451111</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-folkeskoler-i-forfald-doedelige-bryster-og-dk-i-fn-11802451111</link>

@@ -10,7 +10,7 @@ Vært: Anne Glad, forbruger- og livsstilsekspert.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:04:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:02:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Anne Glad, forbruger- og livsstilsekspert.</description>
     <category>Leisure</category>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
+    <item>
+      <guid isPermaLink="false">11032499021</guid>
+      <link>https://www.dr.dk/lyd/special-radio/du-kender-typen-3180390403000</link>
+      <title>TEASER: Peter Gæmelke</title>
+      <description>Typen, der har købt en elbil og værner om gamle traditioner.
+Glæd dig til dagens episode, som du nu kan høre &lt;a href=https://www.dr.dk/lyd/special-radio/du-kender-typen&gt;i DR Lyd.&lt;/a&gt;</description>
+      <pubDate>Tue, 18 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:45</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032499021/fb527d76f6b36e8a3ccf792e29ce63d13c944d0aafd979288967a7b8ff921172.mp3" type="audio/mpeg" length="2526115" />
+    </item>
     <item>
       <guid isPermaLink="false">11032499020</guid>
       <link>https://www.dr.dk/lyd/special-radio/du-kender-typen-3180390403000</link>

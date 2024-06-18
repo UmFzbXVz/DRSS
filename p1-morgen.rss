@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:04:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:02:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433251</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433251</link>
+      <title>Mandag 17. jun. 2024</title>
+      <description>I weekenden kom Forsvarsministeren og Beredskabsstyrelsen med en række anbefalinger til, hvordan vi skal klare os i tre døgn, hvis krisen kommer. Hvorfor er det pludselig blevet nødvendigt med en beredskabsplan? Lægeforeningen vil have mere uddannet personale i psykiatrien, efter en ung læge natten til søndag blev stukket ned på Psykiatrisk Center Amager. Hvad mener Lægeforeningen er løsningen på de mange overfald i psykiatrien? Økonomien sejler for de danske folkeskoler. Hvorfor er folkeskolen så økonomisk presset?
+Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
+      <pubDate>Mon, 17 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:07</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433251/6396d44ab5f45da797536b845f51d5bf89bc17c37201f9fff5fbea3f9704652b.mp3" type="audio/mpeg" length="237771873" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433246</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433246</link>
@@ -1821,18 +1833,6 @@ Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:45</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333515/799a673e2a9fdcb6a509d3ea7c7e4d93d010057f1d65d59afde22d512201205f.mp3" type="audio/mpeg" length="237264582" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333514</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333514</link>
-      <title>Torsdag 21. dec. 2023</title>
-      <description>I aftes blev en afstemning i FN's Sikkerhedsråd om en resolution, der opfordrer til en pause i kampene mellem Israel og Hamas, endnu engang udskudt. Hvorfor er det vigtigt, at FN vedtager en resolution, der opfordrer til pause i kampene mellem Israel og Hamas? I går kunne EU-kommissær Ylva Johansson præsentere ny EU-aftale på asyl- og migrationsområdet. Aftalen har været en varm kartoffel i mange år - efter at asylsystemet brød sammen under flygtningekrisen i 2015 og 2016. En del af aftalen handler om en omfordelingsmekanisme - altså at man kan betale andre lande for at tage alle flygtningene. Hvori ligger det solidariske i at man kan betale andre lande for at tage imod flygtningene? For første gang i 100 år har vinderen af Miss France skønhedskonkurrencen kort hår. Det lyder umiddelbart uskyldigt, men i Frankrig har det skabt stor debat. Hvorfor skaber det debat i Frankrig, at en korthåret kvinde vinder Miss France?
-Dagens værter: Jan Falkentoft og Bjarne Steensbeck.</description>
-      <pubDate>Thu, 21 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:43:50</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333514/0180f4de9b9684f50f4b8fa0245655a6c0dffe8572d61066a53d8f2125dce3ca.mp3" type="audio/mpeg" length="235938096" />
     </item>
   </channel>
 </rss>

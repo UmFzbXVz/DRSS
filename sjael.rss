@@ -9,7 +9,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:03:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:02:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -83,21 +83,6 @@ Produceret for DR af Munck Studios København.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122480217/7a46052b0c6f3a33fef4c981f4f149659a44625796201338bc7d90b73709edd7.mp3" type="audio/mpeg" length="168481525" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122480207</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/sjael/sjael-2024/sjael-16122480207</link>
-      <title>Søndag 19. maj 2024</title>
-      <description>I 1965 lå Frank Sinatra syg i nogle dage, imens han var ved at indspille nyt materiale.
-Måske ikke umiddelbart en begivenhed der ville have indflydelse på soulmusikkens aftryk og eftermæle -  men det fik den!
-Find ud af hvordan og dyk ned i soulens væsen helt tilbage fra 50'erne og frem til i dag, i 2 timer i dagens Sjæl.
-Produceret for DR af Munck Studios København.</description>
-      <pubDate>Sun, 19 May 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122480207/a287f7f6a8508858d39dc8555829acae6370e1c45b57e9dce0016c9429cb3845.mp3" type="audio/mpeg" length="168482101" />
     </item>
   </channel>
 </rss>

@@ -3,12 +3,12 @@
   <channel>
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/sort-soendag" rel="self" type="application/rss+xml" />
     <title>Sort Søndag</title>
-    <link>https://www.dr.dk/lyd/p6beat/sort-soendag-759466897000</link>
+    <link>https://www.dr.dk/lyd/special-radio/sort-soendag-759466897000</link>
     <description>Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonser tunge toner, i selskab med værterne Anders Bøtter og Jakob Trolle. Sort Søndags trofaste "Giro 666 lyttere" byder ind med både nye og gamle numre, "Musiknyt" sørger for at holde dig helt opdateret og hver måned gennemgås et klassisk metal album i "Månedens Mesterværk".</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:04:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:03:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -19,7 +19,7 @@
     <image>
       <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1807d0c1a140697e11e.jpg</url>
       <title>Sort Søndag</title>
-      <link>https://www.dr.dk/lyd/p6beat/sort-soendag-759466897000</link>
+      <link>https://www.dr.dk/lyd/special-radio/sort-soendag-759466897000</link>
     </image>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1807d0c1a140697e11e.jpg" />
     <category>Music</category>
@@ -398,22 +398,6 @@ Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonse
       <itunes:duration>01:26:37</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122392547/a8bc3aacdb62e00aea3e3dcdda000c5f15d187ed112a38dbe7c52a07c4858434.mp3" type="audio/mpeg" length="124740738" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122392546</guid>
-      <link>https://www.dr.dk/lyd/p6beat/sort-soendag/sort-soendag-2023/sort-soendag-lytternes-bedste-metaloplevelser-2023-16122392546</link>
-      <title>Lytternes bedste metaloplevelser 2023</title>
-      <description>Anders Bøtter public service servicerer dig med årets sidste Giro 666, hvor der er samlet til bunke af Sort Søndags trofaste lytteres holdninger til og meninger om "Metal musikåret 2023". Forvent store udenlandske bangers, små danske genistreger og definerende koncertminder, når metalindbakken og metaltelefonen tømmes for sidste gang i 2023. 
-Vært: Anders Bøtter.
-Klip og lyddesign: Emil Germod.
-Udsendelse nr. 607.
-Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonser tunge toner, i selskab med værterne Anders Bøtter og Jakob Trolle. Sort Søndags trofaste "Giro 666 lyttere" byder ind med både nye og gamle numre, "Musiknyt" sørger for at holde dig helt opdateret og hver måned gennemgås et klassisk metal album i "Månedens Mesterværk".</description>
-      <pubDate>Sun, 17 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:34:44</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122392546/6ff5e48c07ca7471901243c0df2b4f0f0cb72b70359c40ecce2738e318a87ac4.mp3" type="audio/mpeg" length="136420284" />
     </item>
     <item>
       <guid isPermaLink="false">16122392539</guid>

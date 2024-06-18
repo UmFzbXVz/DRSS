@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:03:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:03:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410251</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410251</link>
+      <title>Mandag 17. jun. 2024</title>
+      <description>Hvad er det for et magtspil, der går i gang i EU? Hvorfor opløser Netanyahu sit krigskabinet?  Hvordan løser vi problemet med folkeskolernes dårlige økonomi?
+Dagens værter: Kristian Magnus Damsgaard Jensen og Anne Kirstine Hermann.</description>
+      <pubDate>Mon, 17 Jun 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:22:39</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410251/9e6fe796f4b5ed7e7a46e3afa9b3a6a59966d18f9f3c19741ab9747649f1d627.mp3" type="audio/mpeg" length="119039457" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410245</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410245</link>
@@ -1581,37 +1593,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:04</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302515/58b8d42c16532f26aaffb1bb3bb3974df6ae7479c25725a56c523a300ae870aa.mp3" type="audio/mpeg" length="79299530" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304514</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304514</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Thomas Tjaerandsen og Søren Carlsen.
-Og i dagens udgave af Orientering Udsyn:
-Et "nybrud i dansk forsvarspolitik" og et "vigtigt skridt til at sikre Danmark i en voldsom tid". Det var de helt store ord, statsministeren havde fundet frem, da hun præsenterede en ny forsvarsaftale med USA. Men vil Danmark reelt blive et mere sikkert sted med amerikanske tropper på dansk jord? Mens han kæmper mod stadig flere retsinstanser om alt fra ejendomsspekulation til hans personlige involvering i stormen på Kongressen, er ingen amerikansk præsidentkandidat i moderne tid gået til valg med en så radikal plan om at ville ændre landet fundamentalt. Så hvad vil der egentlig ske med USA, hvis Donald Trump bliver præsident?
-Gæster: Peter Viggo Jakobsen, professor ved Center for War Studies ved Syddansk Universitet og Jacob Fuglsang, USA-korrespondent for Politiken.
-Tilrettelæggelse: Asta Handberg, Inge Scheel Kelstrup og Sven Johannesen.
-Vært: Henrik Lerche.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Thu, 21 Dec 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:10</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304514/1272c03fd18fa936e046f59753b2ab3232c7fa134dda36f8b1cf25b46c643488.mp3" type="audio/mpeg" length="79451012" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310514</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310514</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Thomas Tjaerandsen og Søren Carlsen.</description>
-      <pubDate>Thu, 21 Dec 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:11</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310514/e4645e1757662240cdb9b4feb70010f75cbe491806cd0fb97ccc5f273304fa9c.mp3" type="audio/mpeg" length="79473988" />
     </item>
   </channel>
 </rss>

@@ -12,7 +12,7 @@ Skriv fortroligt til os på p3underradaren@protonmail.com
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:03:39 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:02:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -32,6 +32,24 @@ Skriv fortroligt til os på p3underradaren@protonmail.com
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122393745</guid>
+      <link>https://www.dr.dk/lyd/p3/under-radaren/under-radaren-1/trailer-et-farligt-match-ny-saeson-af-under-radaren-paa-vej-16122393745</link>
+      <title>Trailer: Et farligt match: Ny sæson af Under Radaren på vej!</title>
+      <description>Hold øje med dit feed!
+Tirsdag den 25. juni kan du nemlig høre vores nye podcast "Under Radaren - Et farligt match".
+En podcast, hvor vi undersøger den skyggeside, der kan være ved dates, der begynder gennem dating-apps.
+Situationer, der skulle være et trygt møde, en gåtur eller en øl. Men som udvikler sig til de flestes største mareridt. Et seksuelt overgreb.</description>
+      <pubDate>Tue, 18 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010902</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>902</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122393745/c2a85325a639c614a7057eb154b2d4c0482f5cc4deeba74748a7cd6c411b761d.mp3" type="audio/mpeg" length="2060210" />
+    </item>
     <item>
       <guid isPermaLink="false">16122393743</guid>
       <link>https://www.dr.dk/lyd/p3/under-radaren/under-radaren-1/under-radaren-piller-fra-helvede-3-3-det-sidste-skub-16122393743</link>

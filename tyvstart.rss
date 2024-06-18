@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 17 Jun 2024 06:04:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:02:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450121</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ronaldo-til-em-afdanket-eller-afgoerende-13652450121</link>
+      <title>Ronaldo til EM: Afdanket eller afgørende?</title>
+      <description>Cristano Ronaldo er måske verdenshistoriens bedste landsholdsspiller. Men han er snart fyrre år, og betyder det, at han er færdig med at være stjernespilleren hos Portugal? For har manden fra Madeira stadig magi i støvlerne?
+Det får du svaret på i dagens afsnit af Tyvstart.Derudover, hopper vi en tur til Tyskland, hvor der er nyt fra den danske landsholdslejr.Vært: Rikke Smed.</description>
+      <pubDate>Tue, 18 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:45</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450121/f1f184367f9bec8d72d23a1f2252ab222ad12f6fd4fa91d1da8001086cb31a91.mp3" type="audio/mpeg" length="25576473" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450120</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-skuffende-slutrundestart-i-stuttgart-13652450120</link>
