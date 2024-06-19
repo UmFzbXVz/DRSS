@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:41 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:32:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,23 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">13332421251</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421251</link>
-      <title>Mandag 17. jun. 2024</title>
+      <guid isPermaLink="false">13332421252</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421252</link>
+      <title>Tirsdag 18. jun. 2024</title>
       <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Tue, 18 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421252/7e1998ff6058eff3c4b9f48a462f730e6de2165807b38e61b98da4180c04ad2f.mp3" type="audio/mpeg" length="172802165" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332421251</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-em-i-fodbold-em-i-musik-13332421251</link>
+      <title>EM i fodbold? - EM i musik!</title>
+      <description>I går havde Danmark sin første EM-kamp, og vi vil gerne omfavne konceptet med EM i musik! I anledningen af dagens kamp er det selvfølgelig Slovakiet vs. Belgien. Vi har fundet musik fra begge steder, og lytterne styrer slagets gang. Og som altid, skal vi da også forbi Powerquizzen.
+Velkommen indenfor og FORZA!</description>
       <pubDate>Mon, 17 Jun 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -223,18 +236,6 @@ Tlf.gæst: Linda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421212/42e9347c619c09460a61c656d640cceaf48ec84142781f5f31f01511aef1099f.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421211</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421211</link>
-      <title>Mandag 20. maj 2024</title>
-      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
-      <pubDate>Mon, 20 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421211/23a87fe9b105baf99cc745a916d1f04e25f53c6225bafa854083d7cc46bd2f89.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

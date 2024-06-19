@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:32:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -311,19 +311,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:13:25</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192725/4e4a60a0789380a4466a88f99897c476a6ba0345a630e287dc0f4d46e5c1a9af.mp3" type="audio/mpeg" length="19333833" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192724</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-kaffejohn-16122192724</link>
-      <title>Kaffejohn</title>
-      <description>Kunne du tænke dig at bo udenfor? Har du tænkt over hvad der sker når man tænker for længe over tingene? Og hvad synes dyrskuepladsen egentlig om at festivalsæsonen er aflyst?
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 18 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:10:45</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192724/65b75ac83fd6b0097092c9153cb6efc45a91d716f89e5dface45778130d75942.mp3" type="audio/mpeg" length="15505166" />
     </item>
   </channel>
 </rss>

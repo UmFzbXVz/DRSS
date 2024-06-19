@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:33:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428252</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428252</link>
+      <title>Tirsdag 18. jun. 2024</title>
+      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Tue, 18 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428252/9a1fbf2cd3d7ac00e523ff848e52cc9d2e9e39c6c41375a0726c6ea4b3a4adf1.mp3" type="audio/mpeg" length="252001589" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428251</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428251</link>
@@ -374,23 +391,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428212/ae463d68e29e31fb188c3f71b4fd34778023c1e90f67894c7ba8f1a437b058d9.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428211</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-godmorgen-i-cameroun-18452428211</link>
-      <title>Godmorgen i Cameroun</title>
-      <description>Det kan godt være, at det er 2. pinsedag i Danmark. Men i Cameroun fejrer de nationaldag i dag, så vi udnytter chancen til at smutte til Centralafrika og bl.a. høre musik fra den legendariske saxofonist-chef Manu Dibango. 
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Mon, 20 May 2024 07:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428211/ef56b5e9a1f6b9fc55f55d21a13613770b434c6a025b93cf9df0262d20e65a0c.mp3" type="audio/mpeg" length="254882184" />
     </item>
   </channel>
 </rss>

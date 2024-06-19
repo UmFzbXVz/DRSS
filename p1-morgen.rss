@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:56 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:33:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433252</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433252</link>
+      <title>Tirsdag 18. jun. 2024</title>
+      <description>Skal vi forvente straftold på dansk gris i Kina? Skal Socialdemokratiet lytte til baglandet efter dårligt EP-valg? Og hvorfor har vi aldrig været tættere på en dommedag forårsaget af atomkrig?
+Dagens værter: Pernille Rudbæk og Morten Runge.</description>
+      <pubDate>Tue, 18 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:45</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433252/3783409962321f800ccae0f8bc093530930884a592f77d2f3d9ec491beddc824.mp3" type="audio/mpeg" length="237262312" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433251</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433251</link>
@@ -88,7 +100,7 @@ Dagens værter: Thomas Tjaerandsen og Pernille Rudbæk.</description>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433243</link>
       <title>Onsdag 12. jun. 2024</title>
       <description>I DR's dokumentarserie "Sexisme i Musikbranchen" stiller en række kvinder sig frem og retter en hård kritik af det, de betegner som strukturel seximisme i branchen. Hvilket ansvar har DR for at få flere kvinder i æteren?  Den EU-venlige premierminister, Donald Tusk, blev den store vinder til Europaparlamentsvalget i Polen. Betyder det, at Polen er på vej tilbage på en demokratisk og europæisk kurs? Sundhedsstrukturkommissionen præsenterede i går, hvordan man kan sikre det danske sundhedsvæsen i fremtiden. Hvordan vil Sundhedsstrukturkommissionens flytte flere læger på landet? 
-Dagens værter: Bjarne Steensbeck &amp; Thomas Tjaerandsen.</description>
+Dagens værter: Bjarne Steensbeck og Thomas Tjaerandsen.</description>
       <pubDate>Wed, 12 Jun 2024 06:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -1821,18 +1833,6 @@ Dagens værter: Søren Carlsen og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:04</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333516/6bb4336e18d881730cb9c0ae077298c36cac6c2ce1490b2735c733dc77d34822.mp3" type="audio/mpeg" length="158519457" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333515</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333515</link>
-      <title>Fredag 22. dec. 2023</title>
-      <description>Hvad er der i vejen med DUP, den uafhængige politiklagemyndighed? Hvor vigtig en handelspartner er Rusland for Kina? Og hvor alvorlig er fødevarekrisen i Gaza?
-Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
-      <pubDate>Fri, 22 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:45</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333515/799a673e2a9fdcb6a509d3ea7c7e4d93d010057f1d65d59afde22d512201205f.mp3" type="audio/mpeg" length="237264582" />
     </item>
   </channel>
 </rss>

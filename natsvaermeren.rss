@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:03:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:33:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -256,19 +256,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463211/2c173b043d0478fbe374457c44b2a2902022326800ef7283f75becdf72963527.mp3" type="audio/mpeg" length="168481482" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463207</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-mandag-i-maj-12422463207</link>
-      <title>Mandag i maj</title>
-      <description>Et punket postlude, tristessens skønhed, og håb er noget af det, der fylder Natsværmerens forårsnat.
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 20 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463207/506140b1de40805c3c14c8d2d7dfe5c7068f7e31d3d17c8a61d5faea33661eb0.mp3" type="audio/mpeg" length="168481471" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463086</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-komma-i-natten-12422463086</link>
       <title>Et komma i natten</title>
@@ -338,6 +325,19 @@ Vært: Tina Rømer.
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363242/4c05ad573cca2166fa43e55cc2db46c311cf3664386a7c7f4ab469b21f8c2cb1.mp3" type="audio/mpeg" length="172801528" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363236</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-vingefang-12422363236</link>
+      <title>Vingefang</title>
+      <description>På en aftens strækninger flyver Natsværmeren fra Finland, tager turen ned over Danmark, et smut forbi Frankrig og ender Senegal. Let som ingenting med, Rautavaara, Svaneborg Kardyb, Reynaldos Hahn og Seckou Keita Quartet.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 11 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363236/a48b434b183e3909ec132d2af3052d1eef70ecb0c519504757ce793b4a793d1b.mp3" type="audio/mpeg" length="168481586" />
     </item>
     <item>
       <guid isPermaLink="false">12422363233</guid>

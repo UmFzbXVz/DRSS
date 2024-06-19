@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:33:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Produceret for DR af MonoMono.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122492409</guid>
+      <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-16122492409</link>
+      <title>Onsdag 19. jun. 2024</title>
+      <description>Hvordan fungerer krig helt ned i detaljen? Hvad foregår der konkret i en krigszone? Hvad oplever de soldater, vi sender i krig og konflikt? Det handler podcasten KRIG om. Vært er Martin Tamm Andersen, tidligere soldat gennem 18 år og nuværende dokumentarist. I hvert program inviterer han en gæst, der har krigen som håndværk, til at fortælle om sit speciale. I en tid med krig i Europa og oprustning må vi alle forstå, hvad krig er.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Wed, 19 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:43:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492409/5c2b08d52ed772cfcde6def12c904251ce59ed67c7c66c9d863f2e19097c81e5.mp3" type="audio/mpeg" length="63223326" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492408</guid>
       <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-krigskirurgen-16122492408</link>

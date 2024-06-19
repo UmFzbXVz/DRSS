@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:03:02 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:33:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,34 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460144</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Davids kamp mod tabere</title>
+      <description>David Nielsen er en fodboldtræner med kompromisløs vindermentalitet. Han er ikke bange for at sige, at vi i Danmark generelt er for uambitiøse - at vi er for bange for at sige, vi kan vinde. Men David Nielsen har samtidig selv fortalt om den kompromisløse vindermentalitets skyggesider; om at slå en holdkammerat ned under træning. Så i anledningen af, at EM nu fløjtes i gang har Genstart inviteret David Nielsen til en samtale om vindermentaliteten på det danske landshold - om landstræner Kasper Hjulmands bløde værdier - og ikke mindst om David Nielsens egne metoder til sejr.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 16/6.</description>
+      <pubDate>Wed, 19 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:53</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460144/7ad54e9f7b4a29fb9131a7fee97346b12ef704a1ecba992c387fa424e006e4ac.mp3" type="audio/mpeg" length="32962057" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802460143</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Viggos væddemål</title>
+      <description>Viggo Mortensen blev verdenskendt i rollen som Aragorn, der kæmper mod mørket i den ultimative fortælling om det gode og det onde. I virkelighedens verden taler han også højt om, hvad han synes, er rigtigt og forkert. Og nu - på et tidspunkt hvor det kommende amerikanske præsidentvalg kløver hele USA og hvor Hollywoods filmbranche får en del af skylden for splittelsen, udkommer han med en western, hvor bagtæppet er den amerikanske borgerkrig.'Til verdens ende' hedder filmen, og det er Viggo Mortensen selv, der har skrevet og instrueret den. I dagens Genstart fortæller han om helte og skurke - i virkeligheden og på film. Og han sætter to flasker snaps på højkant i et væddemål om det kommende amerikanske valg.  
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 14/6.</description>
+      <pubDate>Tue, 18 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:50</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460143/e1e16b747df24cc4606669d4cb9a89ef6f6427cdcfb980b7f6c3c4f5242ffed2.mp3" type="audio/mpeg" length="38649479" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460142</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9607,19 +9635,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:04</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150122/397d8c66f138ec85bfc1b23828892c9cfa38122f9c9cd348608a837bbdf42f5c.mp3" type="audio/mpeg" length="33239113" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150121</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-tre-millioner-til-vagtlaegen-11802150121</link>
-      <title>Tre millioner til vagtlægen</title>
-      <description>Jo hurtigere samtaler med patienterne, jo flere penge til vagtlægen. Sådan er det i alle landets regioner, hvor vagtlægerne arbejder på akkord - undtagen i Hovedstaden. Systemet betyder, at de bedst betalte vagtlæger sidste år havde en årsløn på mere end tre millioner kroner. Spørgsmålet er, om systemet er rimeligt, eller om de korte samtaler går ud over patienterne? Journalist og dokumentarist Michael Klint har undersøgt vagtlægesystemet og talt med patienter og pårørende.
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 18 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:37</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150121/ea256f41982b6aaadd8d84c62b8f90374e995ca06860489d159bb4f46d09684a.mp3" type="audio/mpeg" length="34014415" />
     </item>
   </channel>
 </rss>

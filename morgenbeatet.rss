@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:33:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">16452432252</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432252</link>
+      <title>Tirsdag 18. jun. 2024</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Jonas Hansen.</description>
+      <pubDate>Tue, 18 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432252/82aa3473d569de29f938e10d70ac76b07a981b9045f19103527d76c20b983079.mp3" type="audio/mpeg" length="252001991" />
+    </item>
+    <item>
       <guid isPermaLink="false">16452432251</guid>
       <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432251</link>
       <title>Mandag 17. jun. 2024</title>
@@ -37,19 +50,6 @@ Vært: Mads Gundersen.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432251/1100a108c5e14eb89f3813a6555480f2107453c8509af583d5a97ad68b02afe0.mp3" type="audio/mpeg" length="252001993" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452432245</guid>
-      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432245</link>
-      <title>Fredag 14. jun. 2024</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Jonas Hansen.</description>
-      <pubDate>Fri, 14 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432245/f50abce205dfc8f2b7867263d44a1f05458251091eeee78eeb2262857dc1d890.mp3" type="audio/mpeg" length="252001991" />
     </item>
   </channel>
 </rss>

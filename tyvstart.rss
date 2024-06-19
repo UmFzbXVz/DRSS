@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:53 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:33:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450122</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-funklende-talenter-og-maalfattige-stjerner-13652450122</link>
+      <title>Funklende talenter og målfattige stjerner</title>
+      <description>Første runde ved EM i fodbold er slut.  
+Der har været drømmemål, dramatik og overraskelser.  
+DR's ekspert under EM Mikkel Bischoff gør status og fortæller, hvad der har gjort indtryk på ham i den første runde af gruppespillet.  
+Hvem ser stærkest ud, og hvem har skuffet fælt? Og hvor katastrofalt er Danmarks uafgjorte resultat mod Slovenien? 
+Det spørger vi om i dagens afsnit af Tyvstart.  
+Vært: Rikke Smed.</description>
+      <pubDate>Wed, 19 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:47</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450122/a392c70f1d09613b767bed8c1b6e730ddc87398ec8c1933910084ca4c38a9b0b.mp3" type="audio/mpeg" length="24176238" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450121</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ronaldo-til-em-afdanket-eller-afgoerende-13652450121</link>
@@ -1938,20 +1955,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:15:54</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350246/f0da042d7d3c04b6b6ab0f9ce8230c2434caeec7ae39f18ce36f49c51b4f743e.mp3" type="audio/mpeg" length="22910267" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350245</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-bronzefest-i-boxen-13652350245</link>
-      <title>Bronzefest i Boxen</title>
-      <description>VM sluttede på den bedst mulige måde for de danske håndbolkvinder, der vandt bronze på hjemmebane. Sejren på 28-27 over Sverige sikrede Danmark medaljer ved tredje slutrunde på stribe. 
-I dagens Tyvstart gør håndboldekspert Helle Thomsen regnskabet op efter et VM, der har budt på store oplevelser, et smerteligt nederlag og masser af drama. 
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 18 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350245/772347d13d8f1c4d570d9c151cded1e032b8c6199a439334a81049d9529b6411.mp3" type="audio/mpeg" length="20167356" />
     </item>
   </channel>
 </rss>

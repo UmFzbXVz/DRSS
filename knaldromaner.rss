@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:32:58 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -38,18 +38,6 @@
       <itunes:duration>00:38:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192879/1356d04a4fd082438e094fe055ff771145e7c101c81f0e5b436a84ac98656bea.mp3" type="audio/mpeg" length="54742330" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192878</guid>
-      <link>https://www.dr.dk/lyd/special-radio/knaldromaner/knaldromaner-2021/knaldromaner-ferieflirts-pura-vida-16122192878</link>
-      <title>Ferieflirts - Pura Vida</title>
-      <description>Ferieflirts kan føles som alt fra den helt store kærlighed til en uvirkelig film, som stopper ligeså udramatisk som kedelige rulletekster. Men hvordan er ferieflirten anerledes end den hjemlige? Og kan udlandske eventyr ændre mennesker? Det graver vi dybt i, når vi møder den rejsende Viktoria, der har sabbatår og lever livet fuldt ud i Caroline Albertsen Minors roman, Pura Vida.</description>
-      <pubDate>Fri, 18 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:37:13</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192878/fc90cff96b1cf10c258f7e2133e74e2e1de3568b7188b3c36a3fc5ee42dc9832.mp3" type="audio/mpeg" length="53600120" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 18 Jun 2024 06:02:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:33:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451113</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-vladimir-og-kim-fiskers-glatbane-og-ballet-undskyldning-11802451113</link>
+      <title>Vladimir og Kim, Fiskers glatbane og ballet-undskyldning</title>
+      <description>Vladimir Putin er blevet inviteret til Nordkoreas leder Kim Jong-Un. Hvem får mest ud af besøget? Den danske bildesigner Henrik Fisker har designet biler for Tesla og film, men nu har hans egen virksomhed søgt om konkursbeskyttelse. Det Kongelige Teater undskylder overfor balletelever. En rapport slår fast, at eleverne har været udsat for et hårdt undervisningsmiljø. 
+Vært: Adrian Busk.
+Medvirkende: 
+Camilla Nørup Sørensen, lektor ved forsvarsakademiet.
+Mikkel Thomsager, chefredaktør på Bilmagasinet.</description>
+      <pubDate>Wed, 19 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451113/5dd95d922b442d7c3cc8aeb0f7c2629d269d2b35b16caa84bd97af05315e4860.mp3" type="audio/mpeg" length="23903304" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451112</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-hvis-krisen-kommer-20-procent-natur-og-fransk-fodbold-valg-kamp-11802451112</link>
@@ -1936,24 +1952,6 @@ Rettelse: Vi havde oprindeligt skrevet titlen 'panodil-overdosis', men det var e
       <itunes:duration>00:15:48</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351233/58d31e1bc4e99b0c06c7ca8208f50f6346a715676de196b9fc7557047c50c333.mp3" type="audio/mpeg" length="22758198" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351232</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-israels-forsvar-kraeftskandalen-og-en-ukrainsk-tech-rockstjerne-11802351232</link>
-      <title>Israels forsvar, kræftskandalen og en Ukrainsk tech-rockstjerne</title>
-      <description>Hvordan forsvarer den danske regering Israels krig i Gaza? Vi spørger Socialdemokratiet. 
-Efter kræftskandalen fra Aarhus skal alle ventetider frem i lyset, og fra det nye år skal regionerne indberette hver gang en kræftpatient venter for længe på udredning eller behandling. 
-Ukraines fremskridt på slagmarken er begrænset. Vi zoomer i dag ind på en ung tech-minister, som ukrainernes sætter sin lid til.
-Vært: Annika Wetterling.
-Medvirkende: 
-Jesper Petersen, udenrigsordfører for Socialdemokratiet.
-Lasse Lindegaard, DR-journalist.</description>
-      <pubDate>Mon, 18 Dec 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:28</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351232/049218daf3b48c2ce173d8bff758e4733df729429c4018ff4241385e145a54ea.mp3" type="audio/mpeg" length="29484156" />
     </item>
   </channel>
 </rss>
