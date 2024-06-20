@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:33:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405253</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405253</link>
+      <title>Onsdag 19. jun. 2024</title>
+      <description>Præludium: Johann Sebastian Bach: Vater unser im Himmelreich.
+Fra det G.T.: Salme 8, 2-10.
+Salme: 364 "Al magt på jorden og i Himlen".
+Fra det N.T.: Matthæusevangeliet 6, 7-15.
+Korvers: Felix Mendelssohn Bartholdy: Gid Jesu glæde i os bo (tekst: Thomas Kingo 1699).
+Salme: 587, vers 1-2+6  "Guds egen kære søn".
+Postludium: Felix Mendelssohn: Andante.</description>
+      <pubDate>Wed, 19 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405253/7ded0b7fc6374114cdd815cf7f3e2f5f218f99c19569b31309a92e908f925cda.mp3" type="audio/mpeg" length="36001586" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405252</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405252</link>
@@ -456,24 +474,6 @@ Postludium: Dietrich Buxtehude: Kom, Helligånd, Gud Herre from.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405213/9a8f0b126a9a491faa042ec195d9caf2a92b25f5de61f6994b293bc90022eb71.mp3" type="audio/mpeg" length="36001580" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405212</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405212</link>
-      <title>Tirsdag 21. maj 2024</title>
-      <description>Præludium: Knud-Erik Jensen: I al sin glans nu stråler solen.
-Fra det G.T.:	Ezekiel 37,1-10.
-Salme: 290, vers 1-4 "I al sin glans nu stråler solen".
-Fra det N.T.:	Apostlenes Gerninger 2,14-21.
-Vekselsang:	Ånden selv vidner med vor ånd (Rom. 8, 16-17 &amp; 26).
-Salme: 290, vers 5-7.
-Postludium: Christian Præstholm: I al sin glans nu stråler solen.</description>
-      <pubDate>Tue, 21 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405212/948dc1dc68a7ab1a0977745ca8a729c092519a1a9b86c7b2f29bae4eb89faf01.mp3" type="audio/mpeg" length="36001576" />
     </item>
   </channel>
 </rss>

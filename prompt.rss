@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:33:13 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421024</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-jakabov-facebook-banemand-og-amazon-aflaeser-dine-foelelser-11802421024</link>
+      <title>Jakabov, Facebook-banemand og Amazon aflæser dine følelser</title>
+      <description>Henrik er utilfreds med, at borgerne bliver bedt om at preppe Jakabov og FM-radioer, når staten har overhørt adskillige advarsler om at forbedre sin it-sikkerhed til et acceptabelt niveau. I Storbritannien bliver togpassagerer overvåget af kameraer med Amazon-software, der kan lave følelsesgenkendelse, dvs. aflæse hvilket humør man er i. Og så har vi et interview med Max Schrems, der er blevet kaldt Metas banemand. Han fører retssager mod Meta, ejer af Facebook og Instagram, på vegne af borgerne, og han har nu været med til at få Meta til at trykke pause på træningen af deres AI-chatbot med europæernes data.</description>
+      <pubDate>Thu, 20 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421024/016af38f7869d020879c3321fabc815d3b04ce8ae870cbadb2c4860b2e93cbce.mp3" type="audio/mpeg" length="78550150" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421023</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-iphone-smoeres-ind-i-ai-altman-i-stormvejr-og-meta-napper-dine-gamle-festbilleder-11802421023</link>

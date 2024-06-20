@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:33:12 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450123</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-hjulmand-mod-mandagstraenerne-13652450123</link>
+      <title>Hjulmand mod mandagstrænerne</title>
+      <description>Danmark møder England i aften klokken 18.00. 
+Der er brug for point på kontoen, men modstanderen er svær og skuffelsen var stor efter den første EM-kamp. Det har resulteret i kritik af Kasper Hjulmand.  
+Tyvstart zoomer ind på de seneste pressemøder og forsøger at blive klogere på, hvor det danske landshold står i forhold til England, og om Kasper Hjulmand gør klogt i at afvise kritikken af deres første kamp. 
+For hvad er det for et landshold, der tropper op forud for kampen mod England? 
+Tyvstart søger svaret. 
+Vært: Rikke Smed</description>
+      <pubDate>Thu, 20 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:25</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450123/823e9dbae29998628409c5405a2a4a8af762f1b3d482bf7a2931d29d38b75f62.mp3" type="audio/mpeg" length="25090905" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450122</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-funklende-talenter-og-maalfattige-stjerner-13652450122</link>
@@ -1940,21 +1957,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:14:23</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350247/2e2df35704ce81021d0906017ea84c6d7cfbff21256877e20be53aa4db33fb5a.mp3" type="audio/mpeg" length="20726076" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350246</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-lodtraekningen-fra-helvede-13652350246</link>
-      <title>Lodtrækningen fra helvede</title>
-      <description>FC København skal møde Manchester City, når der i februar er ottendedelsfinaler i Champions League. 
-Det er lidt af et skrækscenarie for det danske mesterhold, der i sidste sæson tabte med 5-0 til netop City, der efterfølgende vandt verdens bedste klubturnering. 
-Fodboldkommentator Andreas Kraul vurderer FCK's chancer og fortæller, hvilken ottendedelsfinale han glæder sig mest til.
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 19 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:54</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350246/f0da042d7d3c04b6b6ab0f9ce8230c2434caeec7ae39f18ce36f49c51b4f743e.mp3" type="audio/mpeg" length="22910267" />
     </item>
   </channel>
 </rss>

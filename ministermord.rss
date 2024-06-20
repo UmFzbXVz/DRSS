@@ -10,9 +10,8 @@ Produceret for DR af Munck Studios.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:32:29 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
       <itunes:email>podcast@dr.dk</itunes:email>
@@ -31,6 +30,23 @@ Produceret for DR af Munck Studios.</description>
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">16122494303</guid>
+      <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-attentatet-paa-luis-carrero-blanco-16122494303</link>
+      <title>Attentatet på Luis Carrero Blanco</title>
+      <description>Den 20. december 1973 får en kraftig eksplosion en ministerbil til at flyve 30 meter op i luften i Madrid. I bilen sidder den spanske premierminister, Luis Carrero Blanco - Francos højre hånd. Det er den catalanske selvstændighedsbevægelse ETA, der står bag eksplosionen. Men hvorfor skulle Carrero Blanco dø? Hvem var denne helt centrale mand i Francos Spanien? Og hvad betød det for Spaniens udvikling efter Francos død få år senere?
+
+Værter: Simon Emil-Ammitzbøll-Bille og Kristoffer Lind.
+Klip: Anne Lundager.
+Redaktører: Rune Born Schwartz og Cecilie Egholm Tonnesen.
+Produceret for DR af Munck Studios.</description>
+      <pubDate>Thu, 20 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:11</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494303/e219fe4f5d3f76ddee2ececc8437f61169d6fd64339918e32d102e35497d0a4b.mp3" type="audio/mpeg" length="82364428" />
+    </item>
+    <item>
       <guid isPermaLink="false">16122494302</guid>
       <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-henrettelsen-af-imre-nagy-16122494302</link>
       <title>Henrettelsen af Imre Nagy</title>
@@ -42,9 +58,6 @@ Redaktører: Rune Born Schwartz og Cecilie Egholm Tonnesen.
 Produceret for DR af Munck Studios København.</description>
       <pubDate>Thu, 13 Jun 2024 05:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000010002</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:57:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
@@ -63,9 +76,6 @@ Der er brugt klip fra DR's mediearkiv, TG1 og Radio Free Europe.
 Produceret for DR af Munck Studios.</description>
       <pubDate>Thu, 06 Jun 2024 05:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000010001</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:28</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>

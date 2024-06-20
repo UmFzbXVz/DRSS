@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:33:17 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460145</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>En kniv i hjertet</title>
+      <description>På en helt almindelig onsdag stiger 15-årige Elias ud af en bus i Husum sammen med sine venner, hvorefter han bliver stukket i hjertet med en kniv. Få timer før, fortalte han sin mor om fremtidsdrømme på vej til skole. Og mens hun sidder i forårssolen og snakker med sine veninder, modtager hun dét opkald, som alle forældre frygter mest. Ifølge politiet har en kun 14-årig dreng ført kniven. Et liv, som Anna Sørine har skabt, er på et øjeblik taget fra hende. Og blot en uge efter kan hun se landets statsminister tale om drabet fra Folketingets talerstol, mens hun advokerer for strengere straffe og mere udvisning. Men det er slet ikke det, som drabet på hendes søn handler om, lyder det fra Anna Sørine. Genstart taler i dag med hende om, hvad hun mener, at vi skal lære af det tragiske drab på hendes søn.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 17/6.</description>
+      <pubDate>Thu, 20 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:29:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460145/c7919f6e31130248ce89010e41c07b21b5453798725cb8112b1a9098b2a39d04.mp3" type="audio/mpeg" length="41859532" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460144</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:32:59 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,22 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">13332421252</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421252</link>
-      <title>Tirsdag 18. jun. 2024</title>
+      <guid isPermaLink="false">13332421253</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421253</link>
+      <title>Onsdag 19. jun. 2024</title>
       <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Wed, 19 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421253/fb7796ed1b38829b84957d953e976526c6b40954fbe95878d165934d63880cef.mp3" type="audio/mpeg" length="172802165" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332421252</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-det-fedeste-ved-festivaler-det-er-at-tage-hjem-eller-hvad-13332421252</link>
+      <title>Det fedeste ved festivaler det er at tage hjem - eller hvad?</title>
+      <description>Vi runder Hot Take Tirsdag endnu engang, og i dag er det i festivalernes tegn. Hvad der bliver Residensens officielle holdning, er som altid op til jer lyttere. Vi har for alvor skudt det musikalske EM i gang, og i dag er der endnu en nail-biter kamp, som skal afgøres! Velkommen indenfor.</description>
       <pubDate>Tue, 18 Jun 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -224,18 +236,6 @@ Tlf.gæst: Linda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421213/0aa30728f4c4809bde35d87a4daf749bb225997fd268712e6f51cff735ede776.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421212</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-2-i-1-er-altid-irriterende-eller-hvad-13332421212</link>
-      <title>2 i 1 er altid irriterende - eller hvad?</title>
-      <description>Det er hot take tirsdag, og det er efterhånden blevet for vane, at det er Kasper Reippurt, der får taletid - i dag får han simpelthen lov til at bringe endnu et hot take. Desuden skal vi runde Taylor Swift-koncerten, der tog Stockholm med storm over weekenden. Residensens praktikant Esmeralda tog turen dertil og har taget en quiz med hjem, for at teste om Kasper og Nynne har helt styr på deres Taylor ERAs. Velkommen indenfor!</description>
-      <pubDate>Tue, 21 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421212/42e9347c619c09460a61c656d640cceaf48ec84142781f5f31f01511aef1099f.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:33:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451114</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-fodboldkritik-fedtede-alger-og-frit-aegteskab-11802451114</link>
+      <title>Fodboldkritik, fedtede alger og frit ægteskab</title>
+      <description>Der har været meget kritik af landsholdet efter præstationen mod Slovenien. Men skal mandagstrænerne ikke bare slappe af? Fedtede alger indtager de danske kyster. Flere peger på landbrugets udledning af kvælstof.  
+Thailand har som det første land i Sydøstasien vedtaget ægteskaber mellem personer af samme køn.   
+Vært: Adrian Busk.
+Medvirkende: Andreas Kraul, DR's sportskommentator.
+Mikkel Jørgensen, Thailand-kender og forfatter.</description>
+      <pubDate>Thu, 20 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451114/14cb5095fcb5f2d908ca4598038e626c0216bc1b3525cfe0b26b8cb4c244c6c1.mp3" type="audio/mpeg" length="23058893" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451113</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-vladimir-og-kim-fiskers-glatbane-og-ballet-undskyldning-11802451113</link>
@@ -119,7 +135,7 @@ Peter Qvortrup Geisling, DR's sundhedskorrespondent.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:16:23</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451108/c7a0495a51e85e968fac55abf2123e97999d56197d61a6570fe294e38328028b.mp3" type="audio/mpeg" length="23609545" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451108/1204a0420164c277a6665010b4aae02d6b3cb0fba1f3a5b7e7bf0e6b0de98caa.mp3" type="audio/mpeg" length="23609545" />
     </item>
     <item>
       <guid isPermaLink="false">11802451107</guid>
@@ -1935,23 +1951,6 @@ Ole Hall, Novo Nordisk-korrespondent i DR.</description>
       <itunes:duration>00:19:30</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351234/0f8e9cc5e50175d3a1014d2a6d7e6c4bb8f0a48c7f87b69c9ecf6c820c631665.mp3" type="audio/mpeg" length="28089660" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802351233</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2023/tiden-hamas-tunneler-pille-overdosis-og-putins-fjende-nr-1-11802351233</link>
-      <title>Hamas' tunneler, pille-overdosis og Putins fjende nr. 1</title>
-      <description>Israels forsvar hævder at have fundet den hidtil største tunnel bygget af Hamas under jorden i Gaza. Hvad betyder det for krigen? Unge kvinder og piger tager stadig overdosis med hovedpinepiller. Putins fjende nummer ét, oppositionskritikeren Aleksej Navalnyj, er pist væk. Det er ikke tilfældigt, mener ekspert. 
-Vært: Annika Wetterling.
-Medvirkende:
-Peter Viggo Jakobsen, lektor på forsvarsakademiet.
-Flemming Splidsboel, seniorforsker ved Dansk Institut for Internationale Studier med speciale i Rusland.
-Rettelse: Vi havde oprindeligt skrevet titlen 'panodil-overdosis', men det var en misvisende titel, da historien omhandler forgiftning med paracetamol, som er et stof i alle hovedpinepiller og altså ikke kun panodiler.</description>
-      <pubDate>Tue, 19 Dec 2023 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:48</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802351233/58d31e1bc4e99b0c06c7ca8208f50f6346a715676de196b9fc7557047c50c333.mp3" type="audio/mpeg" length="22758198" />
     </item>
   </channel>
 </rss>

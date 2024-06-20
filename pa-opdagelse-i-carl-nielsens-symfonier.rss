@@ -16,7 +16,7 @@ Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkri
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:32:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -81,22 +81,6 @@ Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkri
       <itunes:duration>00:30:32</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560004/dee07f5aca81fb6ca0e4afdc95df827f05dd8af374111a5b2d3d636c0b2aaa1f.mp3" type="audio/mpeg" length="43982088" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12421560003</guid>
-      <link>https://www.dr.dk/lyd/p2/paa-opdagelse-i-carl-nielsens-symfonier/paa-opdagelse-i-carl-nielsens-symfonier-1/paa-opdagelse-i-carl-nielsens-symfonier-3-6-12421560003</link>
-      <title>På opdagelse i Carl Nielsens symfonier 3:6</title>
-      <description>Carl Nielsens Symfoni nr. 3, Sinfonia Espansiva, er en symfonisk skabelsesberetning. Den begynder med astronomisk energi i 1. sats. Men den mister sidenhen pusten og slutter med noget der minder om en melodi fra Højskolesangbogen. Hvorfor? Det søger Mathias Hammer svar på og får hjælp af dirigent Michael Schønwandt, musikkritiker Jakob Levinsen og astrofysiker Tina Ibsen.
-(Sendt første gang 4. marts 2015).</description>
-      <pubDate>Fri, 27 Feb 2015 06:02:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000010003</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:28:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560003/0cad32846c6cfac7e4cfdd82656e868302e2d247be120db3c69b9ce0afaa0aa2.mp3" type="audio/mpeg" length="40915465" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 19 Jun 2024 05:33:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:24:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652404253</guid>
+      <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404253</link>
+      <title>Onsdag 19. jun. 2024</title>
+      <description>Alle kampe og alle mål hele vejen til finalen. Direkte fra havnen i Aarhus. Auf geht's.
+Værter: Alberte Røhl og Thomas Loft.</description>
+      <pubDate>Wed, 19 Jun 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>05:52:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404253/687ce251e75f01952a1174b3184af32f8469a423bbaabc0e32c163024baa481a.mp3" type="audio/mpeg" length="506907954" />
+    </item>
     <item>
       <guid isPermaLink="false">13652404252</guid>
       <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404252</link>
@@ -63,19 +76,6 @@ Værter: Alberte Røhl, Thomas Loft, Emil Schiønning og Morten Hausborg.</descr
       <itunes:duration>08:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404247/3efeca2c97ef801107b7c647e24ad453d541b7b5a70a8036421bdbeee88a0ac6.mp3" type="audio/mpeg" length="773282067" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652404246</guid>
-      <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404246</link>
-      <title>Lørdag 15. jun. 2024</title>
-      <description>Alle kampe og alle mål hele vejen til finalen. Direkte fra havnen i Aarhus. Auf geht's.
-Værter: Alberte Røhl og Thomas Loft.</description>
-      <pubDate>Sat, 15 Jun 2024 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>05:26:33</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404246/cc6caff1c6aa3e1a27593972a123a02ef326a4d42acdd532e6191a73c6beb2a5.mp3" type="audio/mpeg" length="470246130" />
     </item>
   </channel>
 </rss>
