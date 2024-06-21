@@ -4,14 +4,14 @@
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/genstart" rel="self" type="application/rss+xml" />
     <title>Genstart</title>
     <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
-    <description>&lt;a href="https://www.dr.dk/lyd/special-radio/genstart-2642056922000?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_content=podcastseries:genstart"&gt;Fra den 13. november 2023 kan du lytte til Genstarts aktuelle episode – først i app’en DR Lyd. &lt;/a&gt;
+    <description>&lt;a href="https://www.dr.dk/lyd/special-radio/genstart-2642056922000?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_content=podcastseries:genstart"&gt;Husk at du kan lytte til Genstarts aktuelle episode – først i app’en DR Lyd. &lt;/a&gt;
 DR's nyhedspodcast.
 Tidens største og vigtigste nyhedshistorier.
 Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få besvaret de spørgsmål, du ikke anede, du ønskede svar på. Alle hverdage og søndage - fra klokken 03:00.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 20 Jun 2024 05:24:42 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:05:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460146</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Beskeder fra Brygmann</title>
+      <description>Hans ørehængerhits, komiske roller og rammende parodier, har gjort Martin Brygmann til en af landets mest folkekære kulturpersonligheder. Nu drejer en række vidnesbyrd i en dokumentar om sexisme i musikbranchen sig om ham. Han er ikke nævnt ved navn, men en retssag og Facebookopdateringer brød med anonymiteten, der blandt andet skulle sikre, at dokumentaren handler mere om strukturerne end om enkelte personer. Men hvad sker der, når en historie om strukturel sexisme får et navn og et ansigt? DRs kulturkorrespondent Sandra Brovall fortæller om dilemmaet.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 18/6.</description>
+      <pubDate>Fri, 21 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:28:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460146/3dcd5a06a5ac110f23eec0327c646ee2aa98161fd71dfff193627cb85d18353c.mp3" type="audio/mpeg" length="40477709" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460145</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -660,7 +674,7 @@ Program publiceret i DR Lyd d. 26/4.</description>
     </item>
     <item>
       <guid isPermaLink="false">11802460100</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-i-ly-for-missilregn-11802460100</link>
       <title>I ly for missilregn</title>
       <description>Det er spektakulært, når Iron Dome - jernkuplen - lyser himlen op i glimt og eksplosioner, og det minder mere om nytårsaften end en dødsensalvorlig jagt. Men det er alvor, når Iron dome aktiveres og missiler flyver med en hale af damp, og slanger sig på himlen hen over Israel. I årevis har israelerne levet under jernkuplens beskyttelse, men følelsen af sikkerhed kollapsede totalt den 7. oktober, da Hamas udførte det værste angreb i Israels historie. Derfor var det et skæbnens øjeblik for Iron Dome, da Iran sidste lørdag igangsatte det næsten forventede angreb, og her viste Israels forsvarssystem sit fulde potentiale og afværgede, nærmest uden undtagelse, sværmen af droner og raketter. I dag spørger Genstart, Andreas Graae, der er adjunkt i forsvaret, om det højteknologiske skjold kan genskabe israelernes følelse af sikkerhed? 
 Vært Anna Ingrisch.
@@ -674,7 +688,7 @@ Program publiceret i DR Lyd d. 25/4.</description>
     </item>
     <item>
       <guid isPermaLink="false">11802460098</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-lord-pannicks-silketunge-11802460098</link>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
       <title>Lord Pannicks silketunge</title>
       <description>Iført kåber af den fineste silke og brystlange parykker af hestehår, får de millioner af pund for deres ekspertise, når de hjælper russiske oligarker, Premier League klubber - og altså nu også den danske stat. Lord David Pannick og hans kollega Laurence Rabinowitz er to af de såkaldte super silks. Storbritanniens aller fineste og dyreste advokater, der i disse år bliver feteret som stjerner. Nu overtager den ene for den anden i Danmarks sag om udbytteskat i London. I dagens Genstart fortæller DRs erhvervskorrespondent Jakob Ussing om den eksklusive klub, og hvorfor Danmark vælger at hyre verdens dyreste advokater i en sag, der allerede har kostet os milliarder. 
 Vært: Simon Stefanski.

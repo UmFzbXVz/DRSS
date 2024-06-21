@@ -9,7 +9,7 @@ Vært Dan Bjerregaard kaster lys over samfundets mørke sider og giver perspekti
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 20 Jun 2024 05:24:47 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:06:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@ Vært Dan Bjerregaard kaster lys over samfundets mørke sider og giver perspekti
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802465010</guid>
+      <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-monster-eller-ej-11802465010</link>
+      <title>Monster eller ej</title>
+      <description>Kirkerupsagen nærmer sig sin afslutning, og onsdag kom både forsvarer og anklager med deres afsluttende bemærkninger. Vi ser nærmere på de to vidt forskellige fremstillinger af sagen og de juridiske stridspunkter.
+Medvirkende: Trine Maria Ilsøe.
+Vært: Dan Bjerregaard.</description>
+      <pubDate>Fri, 21 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:30:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802465010/c604ae9a969b98f5efeb4bc9f8d9fc098b18f804f4bab687df29f5cf66405986.mp3" type="audio/mpeg" length="44221703" />
+    </item>
     <item>
       <guid isPermaLink="false">11802465009</guid>
       <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-morder-faeldet-af-hemmelig-agent-11802465009</link>

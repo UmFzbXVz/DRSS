@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 20 Jun 2024 05:24:37 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:08:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,22 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">13332421253</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421253</link>
-      <title>Onsdag 19. jun. 2024</title>
+      <guid isPermaLink="false">13332421254</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421254</link>
+      <title>Torsdag 20. jun. 2024</title>
       <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Thu, 20 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421254/fe953f121d9f54c9fc2c6464717f1a3eb61c8694ad28dbbbcc91f6282126acf2.mp3" type="audio/mpeg" length="172802165" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332421253</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-haeng-i-13332421253</link>
+      <title>Hæng i!</title>
+      <description>Hvem hjælper Chris Brown ned fra trapezen? Hvor har lytterne selv siddet mest fast? Og er det Ungarn eller Tyskland, der går videre i det musikalske EM? ALT bliver besvaret i dagens udgave af Residensen. Velkommen indenfor!</description>
       <pubDate>Wed, 19 Jun 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -223,19 +235,6 @@ Velkommen indenfor!</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421214/f28b1b61e521ab058a19820d0ff8bb359972a4bd2e8e6e003f7927687598f45b.mp3" type="audio/mpeg" length="172801590" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421213</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-jordbaerdessert-og-udfordret-fan-loyalitet-13332421213</link>
-      <title>Jordbærdessert og udfordret fan-loyalitet</title>
-      <description>Man skal passe på med, hvad man siger på redaktionen, for pludselig bliver der et helt radioprogram ud af det - i dag handler det om, at der er en, der aldrig har smagt den ypperste sommerdessert nemlig jordbær, fløde og sukker. Vi finder også ud af, om Swifties altid har Taylors ryg, eller om vi bag radiomikrofonens anonymitet kan opsnappe et par kontroversielle holdninger fra køen til Taylor Swift-koncerten i Stockholm.
-Tlf.gæst: Linda Holmberg.</description>
-      <pubDate>Wed, 22 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421213/0aa30728f4c4809bde35d87a4daf749bb225997fd268712e6f51cff735ede776.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

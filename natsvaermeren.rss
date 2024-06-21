@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 20 Jun 2024 05:24:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:08:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,31 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463254</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sommersolhverv-12422463254</link>
+      <title>Sommersolhverv</title>
+      <description>Lyset har overtaget døgnet og sat mørket i skyggen. Men i musikken, lever lys og mørke side om side. Nøjagtig som den korte afstand mellem kærlighed og afsked.
+Vært: Minna Grooss.</description>
+      <pubDate>Fri, 21 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463254/8332d837db152c6884553181c1a59964ba9d6306408cceb6271e33856a781079.mp3" type="audio/mpeg" length="168482111" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422463253</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-skoenhed-i-natten-12422463253</link>
+      <title>Skønhed i natten</title>
+      <description>Der er smuk musik fra alle tider og alle verdenshjørner i aftenens udgave af Natsværmeren, hvor vært Peter Albrechtsen spiller alt fra klassiske legender til moderne filmmusik. Haydn, Morricone, Vaughn Williams, Arvo Pärt, Michael Nyman og George Gershwin. Plus det løse. Og kirkeklokker.</description>
+      <pubDate>Thu, 20 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463253/a36d29a003fd2aaae6f79dc06d1fb2213ea33c73eb259660a73b18be23cc628a.mp3" type="audio/mpeg" length="168482182" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463251</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-skridt-ad-gangen-12422463251</link>

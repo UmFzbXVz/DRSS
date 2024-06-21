@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 20 Jun 2024 05:24:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:08:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -316,19 +316,6 @@ Programansvarlig: Karen Albertsen.</description>
       <itunes:duration>00:35:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195716/ecee8c8b958cb7a620931ea01805cabe6c6b2c7d3ed8e3f9834040491af5655e.mp3" type="audio/mpeg" length="50585341" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195715</guid>
-      <link>https://www.dr.dk/lyd/p3/tvaers/tvaers-20211/tvaers-mehmet-den-svaere-aerlighed-13332195715</link>
-      <title>Mehmet - Den svære ærlighed</title>
-      <description>Mehmet ligger i en fremmede dobbeltseng i et fremmed hus til en fest. Han ligger og stirrer op i loftet og reagerer ikke, når de andre til festen prøver at komme i kontakt med ham. Han nyder at skræmme dem. Kort tid efter løber Mehmet ud på villavejen uden for, hvor han råber og skriger af sine venner. Ingen ved, hvorfor Mehmet opfører sig sådan. Heller ikke ham selv. Det har slået klik for Mehmet.
-Vært Line Kirsten Nikolajsen.</description>
-      <pubDate>Sun, 20 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:47:53</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195715/97017a3eeb44c7c7a6cde654e08b0ac86f190fe794bb6b9db26114027ef2d433.mp3" type="audio/mpeg" length="68958590" />
     </item>
   </channel>
 </rss>

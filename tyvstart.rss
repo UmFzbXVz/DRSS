@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 20 Jun 2024 05:24:45 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:08:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450124</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-danmark-stempler-ind-med-droemmehug-13652450124</link>
+      <title>Danmark stempler ind med drømmehug</title>
+      <description>Tyvstart sender direkte fra storskærmsarrangementet på havnefronten i Aarhus, lige efter Danmark har spillet uafgjort mod England.
+Vi taler om kampen, hvor Danmark i den grad viste niveau og spillede lige op med de engelske stjerner. Nogle spillere markerede sig særdeles godt, og det er gode tegn frem mod den sidste gruppekamp.
+Sammen med kommentator Frederik Lindved og ekspertkommentator Kenneth Møller Pedersen kigger vi på resultatets betydning for Danmarks videre færd ved EM og ser på et landshold, der i den grad er steppet op.
+Vært: Rikke Smed.</description>
+      <pubDate>Thu, 20 Jun 2024 21:30:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:27</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450124/ffc234d2cdb1a3600b0db134de7274fddbd3c79612f51cfb4c1d5f01e8e4807e.mp3" type="audio/mpeg" length="20830831" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450123</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-hjulmand-mod-mandagstraenerne-13652450123</link>
@@ -1943,20 +1958,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:19:06</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350248/51b2b9decb29afeaed032fc936e503c460b66770225212a7a7d6ea9b2cc36ce4.mp3" type="audio/mpeg" length="27526910" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350247</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-har-pogacar-allerede-givet-op-13652350247</link>
-      <title>Har Pogacar allerede givet op?</title>
-      <description>Jonas Vingegaards største konkurrent har meldt sin ankomst til næste års Giro d'Italia, og det er godt nyt for danskerens Tour-chancer. Spørgsmålet er nemlig, om Tadej Pogacar kan præstere i Italien og møde op til Tour de France i topform bare én måned senere?
-Det svarer Brian Vandborg, der i sin aktive karriere kørte begge løb, på i dagens afsnit.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 20 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:23</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350247/2e2df35704ce81021d0906017ea84c6d7cfbff21256877e20be53aa4db33fb5a.mp3" type="audio/mpeg" length="20726076" />
     </item>
   </channel>
 </rss>

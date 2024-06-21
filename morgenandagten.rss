@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 20 Jun 2024 05:24:51 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:08:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405254</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405254</link>
+      <title>Torsdag 20. jun. 2024</title>
+      <description>Præludium: J.S. Bach: Vater unser im Himmelreich, BWV 636 (O hjertekære Jesus Krist)
+Fra det G.T.: Salme 9,2-3 + 8-11.
+Salme: 750 "Nu titte til hinanden".
+Fra det N.T.: Matthæusevangeliet 6, 16-21.
+Korvers: Felix Mendelssohn Bartholdy: Gid Jesu glæde i os bo (tekst: Thomas Kingo 1699).
+Salme: 9, vers 1-5 "O store Gud! vi love dig".
+Postludium: D. Buxtehude: Te Deum Laudamus (1. sats)</description>
+      <pubDate>Thu, 20 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405254/c0e1d5fb0bcd5a95b3ca50092c564594f4f8879a3b57183594e9c70b010e8106.mp3" type="audio/mpeg" length="36001581" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405253</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405253</link>
@@ -456,24 +474,6 @@ Postludium: Johann Sebastian Bach: Præludium a-mol, BWV 543/I.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405214/12abd3c47dd79d19b986eabb2d2d1935118a14d584d62a973f6e10b29bb0a515.mp3" type="audio/mpeg" length="36001585" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405213</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405213</link>
-      <title>Onsdag 22. maj 2024</title>
-      <description>Præludium: Ludwig van Beethoven: Lento assai, Des-dur.
-Fra det G.T.: Ezekiel 37,11-14.
-Salme: 291, vers 1-4 "Du, som går ud fra den levende Gud".
-Fra det N.T.: Apostlenes Gerninger 3, 11-20.
-Korvers: John Frandsen: Gud Helligånd er kirkens grund (tekst: Kirsten Tange Jørgensen).
-Salme: 291, vers 5-6.
-Postludium: Dietrich Buxtehude: Kom, Helligånd, Gud Herre from.</description>
-      <pubDate>Wed, 22 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405213/9a8f0b126a9a491faa042ec195d9caf2a92b25f5de61f6994b293bc90022eb71.mp3" type="audio/mpeg" length="36001580" />
     </item>
   </channel>
 </rss>
