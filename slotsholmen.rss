@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 21 Jun 2024 06:08:24 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:39:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802443150</guid>
+      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-chok-genistreger-og-tilbagetog-11802443150</link>
+      <title>Chok, genistreger og tilbagetog</title>
+      <description>Det har været et vanvittigt år i dansk politik, og i dagens udgave af Slotsholmen kårer vi årets største chok, den vildeste politiske genistreg og det mest opsigtsvækkende tilbagetog sammen med et panel af politikere fra begge sider af folketingssalen. Så lyt med, når Slotsholmen benytter sidste udsendelse inden sommerpausen til at gøre status over dansk politik med Det Store Politiske Awardshow.
+Værter: Thomas Buhl og Pia Glud Munksgaard.
+Gæster: Rasmus Stoklund, Socialdemokratiet, Mette Abildgaard, De Konservative, Karsten Hønge, SF.
+Tilrettelæggelse: Jacob Thue Stenager og Theodora Renard.</description>
+      <pubDate>Fri, 21 Jun 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:43</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802443150/2ed33775112d97a1233a1f78db088996b1e9b81f02c39641a93a8c38ea8db7bf.mp3" type="audio/mpeg" length="35612813" />
+    </item>
     <item>
       <guid isPermaLink="false">11802443149</guid>
       <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2024/slotsholmen-kold-torsk-i-slutspillet-om-eu-topposterne-11802443149</link>
@@ -718,20 +732,6 @@ Tilrettelægger: Jonas Gulmann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:23:57</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343260/d8dddf7fae86ea10f5cc996a06e52bef2cea16dc23481abc2e6a0998c736ddf6.mp3" type="audio/mpeg" length="34503723" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802343259</guid>
-      <link>https://www.dr.dk/lyd/p1/slotsholmen/slotsholmen-2023/slotsholmen-pia-alex-og-alle-de-andre-roedder-11802343259</link>
-      <title>Pia, Alex og alle de andre rødder</title>
-      <description>Vi har talt stolpe op og stolpe ned om regeringen og dens elendige målinger. Men hvordan går det egentlig for partierne i oppositionen? Det ser vi på i dag, og det bliver hæsblæsende, for vi skal igennem alle ni partier sammen med politisk analytiker Jens Ringberg. 
-Værter: Thomas Buhl og Pia Glud Munksgaard.
-Gæst: Jens Ringberg, politisk analytiker, DR. 
-Tilrettelægger: Jonas Gulmann.</description>
-      <pubDate>Fri, 22 Dec 2023 16:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:54</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802343259/ae1c0a1c7db6455e7f3818abdd23e63c8d9c76dbc6086ad04f2bb31ab701ecad.mp3" type="audio/mpeg" length="34427402" />
     </item>
   </channel>
 </rss>

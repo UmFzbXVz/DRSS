@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 21 Jun 2024 06:08:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:39:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,26 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332423255</guid>
+      <link>https://www.dr.dk/lyd/p3/musikchefen/musikchefen-2024/musikchefen-musikalsk-tequila-shot-og-gode-dage-at-doe-paa-13332423255</link>
+      <title>Musikalsk tequila-shot og gode dage at dø på</title>
+      <description>Sommeren er på vej, og det vælter ud med ny musik. 'Musikchefen' rydder op og fejer ugens bedste sammen i en fin lille bunke, og der er blandt andet:
+- topmøde på ny sang fra tre af landets store popstjerner.
+- lyd fra to dansk raps tunge drenge.
+- frisk 'P3's Uundgåelige' fra internationalt hot shot.
+- stadionpop fra Coldplay og musik til svajende rapsmarker fra talentfuldt nyt dansk band.
+Medvirkende: 
+Chappell Roan.
+Andreas Odbjerg.
+Rumle Kærså (APACHA).</description>
+      <pubDate>Fri, 21 Jun 2024 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332423255/d116deab44d2f5f662dff7a31033cc9709c7bbac08ad9f031716ea08d27a542d.mp3" type="audio/mpeg" length="172802131" />
+    </item>
     <item>
       <guid isPermaLink="false">13332423245</guid>
       <link>https://www.dr.dk/lyd/p3/musikchefen/musikchefen-2024/musikchefen-13332423245</link>
@@ -73,22 +93,6 @@ Frederik (lytter).</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332423225/642b0fec363f013045b7842589943cd11eb64e49ca570c5b2586a59782072c17.mp3" type="audio/mpeg" length="172802131" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332423215</guid>
-      <link>https://www.dr.dk/lyd/p3/musikchefen/musikchefen-2024/musikchefen-nej-det-maa-vaere-en-prank-13332423215</link>
-      <title>NEJ!?! - det må være en prank!</title>
-      <description>Det er fredag i Kongeriget Danmark, og Mathias Buch Jensen samler op på ny musik. Lyt med, når:
-- Dansk debutant bliver mundlam og sparker døren ind som 'P3's Uundgåelige'.
-- Vi tjekker den officielle landsholdssang til sommerens EM-slutrunde i fodbold.
-- Sanger, der ifølge Taylor Swift er aaaalt for undervurderet, synger nyt.
-Medvirkende: Emily Bowen.</description>
-      <pubDate>Fri, 24 May 2024 12:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332423215/7bd8b39285507bb2e710e831b41dd907ec62668d0cbfc3a18ae2e5be11f651c1.mp3" type="audio/mpeg" length="172802173" />
     </item>
     <item>
       <guid isPermaLink="false">13332215600</guid>

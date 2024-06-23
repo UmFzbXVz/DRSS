@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 21 Jun 2024 06:08:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:39:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -256,17 +256,17 @@ Vært: Katrine Ring.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463215/c87c1af94c354808bfe0a2253f6e6a754d176442fa2e0bd6f4ceec1c0b341090.mp3" type="audio/mpeg" length="168482184" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463213</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-i-nattens-hede-12422463213</link>
-      <title>I nattens hede</title>
-      <description>Det er nat. Ved kuffertbåndet venter du på din kuffert. De fleste passagerer du fløj med, er for længst væk. Dem, der står tilbage, er fremmede fra andre destinationer. Dine vidner bor i det land du rejste ud fra, og byen du er landet i sover.  
-Vært: Minna Grooss.</description>
-      <pubDate>Thu, 23 May 2024 03:03:00 +0200</pubDate>
+      <guid isPermaLink="false">12422463087</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lys-12422463087</link>
+      <title>Lys</title>
+      <description>Når lyset bryder frem.
+Vært: Katrine Ring.</description>
+      <pubDate>Mon, 26 Feb 2024 03:03:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
+      <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463213/d1a620beed025e8739272ec5a05bfb70cd62674598608528534767b23973ceb1.mp3" type="audio/mpeg" length="168482184" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
     </item>
     <item>
       <guid isPermaLink="false">12422463086</guid>
@@ -283,21 +283,6 @@ Vært: Minna Grooss.
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463086/a504391402accaa0d331fa6fd1acaf5357a93337cf1ddc667c95e5a89d62b029.mp3" type="audio/mpeg" length="151201604" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463084</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-rider-mod-solnedgangen-12422463084</link>
-      <title>Rider mod solnedgangen</title>
-      <description>En hest og en ensom rytter rider gennem et dramatisk landskab, tørt, bjergrigt og alt farvet i nuancer af brunt.
-Jeg sætter musikken til scenen fra barndommens cowboyfilm til nutidige toner, der fanger suset fra vidderne og følelserne under den hårde lædervest.
-Vært: Tina Rømer.
-(Sendt første gang 23. februar).</description>
-      <pubDate>Fri, 23 Feb 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463084/89e7bf65596310c83b8c4a50431d6e1416510c096fca4f5b793ab697990b1e28.mp3" type="audio/mpeg" length="172802185" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463082</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-droemmenes-holdeplads-12422463082</link>
       <title>Drømmenes holdeplads</title>
@@ -310,6 +295,19 @@ Vært: Minna Grooss.
       <itunes:duration>01:30:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463082/57847c7bfffe4e505116c31111f7917dededba1f1725bac101b1fcb4c8b3667e.mp3" type="audio/mpeg" length="129601482" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363254</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-midsommer-12422363254</link>
+      <title>Midsommer</title>
+      <description>Noget lyst og noget langt, noget sommer og noget vemod, og du har opskriften på en særlig Natsværmer i midsommerens tegn.
+Vært: Tina Rømer.</description>
+      <pubDate>Fri, 23 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363254/e9a45ae9488f86665c95d9afde94e669c52543a01cf4148fc1f11bfc960784c5.mp3" type="audio/mpeg" length="168482064" />
     </item>
     <item>
       <guid isPermaLink="false">12422363251</guid>

@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 21 Jun 2024 06:08:15 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:39:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Charlotte Hagen Striib.</description>
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452428255</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-ann-farholt-15452428255</link>
+      <title>Med Ann Farholt</title>
+      <description>DRs historiske dokumentarserie 'Fri, fræk og for meget' handler om syngepigerne i Bakkens Hvile, hvor Ann Farholt sprang til fra jazzscenen i sin tid. Udover at være bakkesangerinde har hun lige tabt 30 kilo og står foran at skulle giftes - igen. 
+Vært: Charlotte Striib.</description>
+      <pubDate>Fri, 21 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428255/ace1edcebadf813c9b86148e37ae8c0b2a9e3b644e8219c37d1ea5de498d79ce.mp3" type="audio/mpeg" length="168481604" />
+    </item>
     <item>
       <guid isPermaLink="false">15452428254</guid>
       <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-frank-with-15452428254</link>
@@ -51,32 +64,6 @@ Vært: Charlotte Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428253/e54dffbb3bc9bf1162638737e4de0ab4157dc449ad8c5184be0bfc873e0cae4f.mp3" type="audio/mpeg" length="168482137" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428252</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-lotte-laursen-15452428252</link>
-      <title>Med Lotte Laursen</title>
-      <description>Gennem Lotte Laursens arbejde i Danske Stenhuggerier i Slagelse møder hun mange, der er ensomme og rådvilde efter tabet af en ægtefælle. Det førte til, at Lotte sidste sommer grundlagde en gåklub for folk, der har mistet og trænger til at snakke med andre.  
-Vært: Charlotte Striib.</description>
-      <pubDate>Tue, 18 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428252/8178a6bfecdecb55797cd134dd6b918410ed266065227520632fd4a5f672c670.mp3" type="audio/mpeg" length="168482187" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428251</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-birgitte-borup-15452428251</link>
-      <title>Med Birgitte Borup</title>
-      <description>Bare fordi du ikke har en partner eller nær ven at holde ferie med, kan du sagtens få masser af ny energi og forskellige oplevelser på solo-ture. Det har Berlingske kulturredaktør Birgitte Borup selv prøvet - og guider dig i flere retninger.  
-Vært: Charlotte Striib.</description>
-      <pubDate>Mon, 17 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428251/06768a4488164f192b5788728e7e43b9b18528dfbbc0931257c71ca7366f3aad.mp3" type="audio/mpeg" length="168481607" />
     </item>
   </channel>
 </rss>

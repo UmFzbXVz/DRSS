@@ -11,7 +11,7 @@ www.dr.dk/p8jazz</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 21 Jun 2024 06:08:06 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:39:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -169,20 +169,6 @@ www.dr.dk/p8jazz
       <itunes:duration>00:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452130166/2c0fc41c2722694f076f43ed4db10b116a0b3628dc8ed307ae2eb18035b4e210.mp3" type="audio/mpeg" length="82275142" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452030516</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/paa-hovedet-i-et-album/paa-hovedet-i-et-album-2020/paa-hovedet-i-et-album-christmas-64-med-jimmy-smith-18452030516</link>
-      <title>Christmas 64' med Jimmy Smith</title>
-      <description>Hver uge retter P8 JAZZ-værterne spotlyset mod ét specifikt jazzalbum, folder historierne ud og spiller musikken fra start til slut. Sæt streamingtjenesternes blandede spillelister på pause og fordyb dig i et jazzværk.  
-Vært: Niels Christian Cederberg. 
-(Sendt første gang 12. december 2020).</description>
-      <pubDate>Sat, 19 Dec 2020 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452030516/c0ee45ec4f99838485f3d1c9d488e1d5f2af143f56b38bfabfb6ff3615b66c96.mp3" type="audio/mpeg" length="79394569" />
     </item>
   </channel>
 </rss>

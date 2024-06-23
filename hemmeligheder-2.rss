@@ -13,7 +13,7 @@ Produceret af P3 Podcast.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 21 Jun 2024 06:08:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:39:47 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,22 @@ Produceret af P3 Podcast.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593b93ca838f3bbb329ffa8.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">13332496225</guid>
+      <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-marie-jedig-13332496225</link>
+      <title>Marie Jedig</title>
+      <description>En lytter foregiver at have besteget et højt bjerg, og en anden lytter i et akademikermiljø holder sin mordrøm hemmelig. Sådan lyder det, når Sanne Cigale Benmouyal aflytter telefonsvareren med Marie Jedig, som selv deler en hemmelighed, der har boet i hende siden barndommen.
+Ring ind med din hemmelighed på 28544000.
+Vært: Sanne Cigale Benmouyal.
+Producer: Sarah Schwab Randeris.
+Redaktionsleder: Anders Stegger.</description>
+      <pubDate>Sun, 23 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:30</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496225/738508a60eb49366acbbdd45c5912551025ab75229147c9016224a1d7b55a435.mp3" type="audio/mpeg" length="81384054" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496224</guid>
       <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-patricia-thyberg-13332496224</link>

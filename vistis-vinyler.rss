@@ -10,7 +10,7 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 21 Jun 2024 06:08:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:39:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122481256</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-bangin-balearic-16122481256</link>
+      <title>Bangin' Balearic</title>
+      <description>Vi skal høre den her noget flyvske musikgenre balearic, som Jonas har gravet i til denne uges udsendelse.
+Du bliver traditionelt set næppe fri for at høre brasiliansk musik, som stadig er og forbliver landet der bliver ved med at give.
+Bedst som man troede man havde hørt sin andel, så dukker der bare en ny skat op, som man bliver forelsket i ved første lyt.</description>
+      <pubDate>Sat, 22 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:54:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122481256/7b518fd03106968a56b734ae123c6d3068e0499aa4b2aa14f1bdf1bb322fb7f8.mp3" type="audio/mpeg" length="164245703" />
+    </item>
     <item>
       <guid isPermaLink="false">16122481246</guid>
       <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-endnu-en-tur-til-yndlingslandet-16122481246</link>
