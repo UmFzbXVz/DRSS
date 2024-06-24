@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422458257</guid>
+      <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-sange-om-vand-12422458257</link>
+      <title>Sange om vand</title>
+      <description>Mens vi står omkring det brændende Skt. Hans bål, skal der vand til. Vand er liv, vand er et hav at bade i, vand slukker tørsten, og når vi sejler ud på bølgen blå bærer vandet os mod nye eventyr. Katrine Muff og Mathias Hammer vander stemmebåndene til lyden af Billie Eilish, Mogens Wieth og Fangekoret.</description>
+      <pubDate>Sun, 23 Jun 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422458257/1081edc38e7bf80256019041e6d70ec02b6a5d36ee8caa071091568159caf05f.mp3" type="audio/mpeg" length="82082189" />
+    </item>
     <item>
       <guid isPermaLink="false">12422458247</guid>
       <link>https://www.dr.dk/lyd/p2/sangbogen-med-muff-og-hammer/sangbogen-med-muff-og-hammer-2024/sangbogen-med-muff-og-hammer-sange-om-broer-12422458247</link>

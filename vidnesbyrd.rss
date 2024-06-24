@@ -19,7 +19,7 @@ Har du en historie vi skal undersøge? Skriv til drundersoeger@proton.me
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:35:23 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -53,6 +53,21 @@ Har du en historie vi skal undersøge? Skriv til drundersoeger@proton.me
       <itunes:duration>00:00:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300174/652af32058f044302e5638f2844d73dff09b1998f3229ac93131c582ae1ee21a.mp3" type="audio/mpeg" length="339616" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802452004</guid>
+      <link>https://www.dr.dk/lyd/special-radio/vidnesbyrd-sexisme-i-musikbranchen/vidnesbyrd-sexisme-i-musikbranchen-1/vidnesbyrd-3-4-sexisme-paa-toppen-11802452004</link>
+      <title>Vidnesbyrd 3:4 - Sexisme på Toppen</title>
+      <description>En laksko glider ind under kjolen på en sangerinde kort før hun går ind på scenen. "Det er så jeg kan se op" siger et mandligt bandmedlem. Og hun er ikke den eneste deltager, der har oplevet et sexistisk miljø på TV2 musikprogram Toppen af Poppen.</description>
+      <pubDate>Mon, 10 Jun 2024 05:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010003</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:36:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802452004/d4456966eaab3c485934c3858e1acd3e3b0772525ccaaabd7417d4a57509b778.mp3" type="audio/mpeg" length="51975812" />
     </item>
     <item>
       <guid isPermaLink="false">11802452003</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -26,6 +26,21 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332440952</guid>
+      <link>https://www.dr.dk/lyd/p3/rigets-tilstand/rigets-tilstand/rigets-tilstand-podcast-13332440952</link>
+      <title>The Mile High Mystery</title>
+      <description>Gordon Ramsay er styrtet på cykel, så endnu en gang påkalder dine værter, Oliver Seppo og Thomas Bugge, Chris Anker fra det hinsides for at høre, om Gordon Ramsay bare skal under kniven, eller om han virkelig selv har fået kniven for struben denne gang og nu må forberede sig på, at han må tage bus nr. 666 til Refshaleøen og tilberede den perfekte bøf Wellington, der fremover - hell yeah! Gud og LGBT's tusind år gamle strid om retten til at bruge regnbuen som symbol er havnet i Patent- og Varemærkestyrelsen, hvor den er skyld i en del hovedpine. Rene Fredensborg har søgt aktindsigt, mens vi her på redaktionen håber på et forlig. Det viser sig desuden, at Niels Hausgaard er Danmarks mest indflydelsesrige mand - utroligt, men sandt! God fornøjelse!</description>
+      <pubDate>Sun, 23 Jun 2024 22:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000002</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:34:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332440952/7e276bad14cccde022d83c384a3cc70ccd004027eaf5e3d5092891478c4b18f6.mp3" type="audio/mpeg" length="48999023" />
+    </item>
     <item>
       <guid isPermaLink="false">13332440951</guid>
       <link>https://www.dr.dk/lyd/p3/rigets-tilstand/rigets-tilstand/rigets-tilstand-pas-normal-activity-13332440951</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:33:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -456,24 +456,6 @@ Postludium: Justin Heinrich Knecht: Nu takker alle Gud.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405221/62d1f2e9dc70bf73aee46f9076fd09a7052ffbd34018276af541b317d18e61f2.mp3" type="audio/mpeg" length="36001573" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405216</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405216</link>
-      <title>Lørdag 25. maj 2024</title>
-      <description>Præludium: Johann Gottfried Walther: Aleneste Gud i Himmerig.
-Davidssalme: 33, 12-15.
-Salme: 435 "Aleneste Gud i Himmerig".
-Fra det N.T.:	Efeserbrevet 1, 3-14. 
-Vekselsang:	Dit ord består, Herre Gud (Sl. 119, 89-90 &amp; 23, 1-2).
-Salme: 6 "Dig være, mildeste Gud Fader".
-Postludium: Théodore Dubois: Prélude, Es-dur.</description>
-      <pubDate>Sat, 25 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405216/e40502006de57cc196fa93af462f305df4b2539ec403465436695d00f8109f3a.mp3" type="audio/mpeg" length="36001572" />
     </item>
   </channel>
 </rss>

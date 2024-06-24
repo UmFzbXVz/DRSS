@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:39 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450125</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-en-ny-spansk-guldalder-13652450125</link>
+      <title>En ny spansk guldalder?</title>
+      <description>Spanien har vundet EM's sværeste gruppe, allerede før de har spillet deres sidste kamp mod Albanien. 
+Med en trup fyldt med store talenter og garvede spillere kigger vi på et landshold, som måske allerede kan levere store præstationer ved dette europamesterskab. 
+Og det tyder på, at Spanien kan se ind i endnu en guldalder, som de har ventet på siden sidste titel ved EM i 2012. 
+Derudover hopper vi også en tur i den danske lejr for at høre, hvordan stemningen er efter præstationen mod England. 
+Vært: Rikke Smed.</description>
+      <pubDate>Mon, 24 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450125/c48cfaa1482f7c7d814fde7ccac3cc771025c855378dce0587f8ac6675e9f198.mp3" type="audio/mpeg" length="28107439" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450124</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-danmark-stempler-ind-med-droemmehug-13652450124</link>

@@ -9,7 +9,7 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:37 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@ Vært og tilrettelægger: Martin Grønne og Celine Klint.</description>
     <category>History</category>
     <itunes:category text="History" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11162411020</guid>
+      <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-den-jyske-vietnamveteran-don-t-say-it-henning-3-3-11162411020</link>
+      <title>Den jyske Vietnamveteran 3:3 -  "Don't say it, Henning..."</title>
+      <description>I 1967 har USA en halv million soldater i krig i Vietnam, og en af dem er altså danskeren Henning Kristensen. Ham og hans buddy Joe Restaino tæller månederne til deres værnepligt er slut. Men de ved stadig, at hver gang solen står op, begynder endnu en dag, hvor de kan blive skudt.
+Medvirkende: Henning Kristensen.
+Redaktion: Martin Grønne og Celine Klint.
+Redaktør: Hanne Barslund.</description>
+      <pubDate>Mon, 24 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:38:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162411020/46e529aef164e775116ab8e1c6cd2e426cb20f972d8ce3baed2b26bf3b62d134.mp3" type="audio/mpeg" length="55189883" />
+    </item>
     <item>
       <guid isPermaLink="false">11162411019</guid>
       <link>https://www.dr.dk/lyd/special-radio/bakspejl/bakspejl-2024/bakspejl-den-jyske-vietnamveteran-you-goddamn-squareheads-2-3-11162411019</link>

@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -51,19 +51,6 @@ Vært: Charlotte Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428254/fae504f91a01431bbeca8c574363e53a85f545d33ca6be095efeb0b93a203af1.mp3" type="audio/mpeg" length="168482150" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428253</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-thomas-dose-15452428253</link>
-      <title>Med Thomas Dose</title>
-      <description>DRs gamle grammofonarkiv, i daglig tale 'Diskoteket', fylder 75 år. Kom med leder i DR Musiktjenester, Thomas Dose, med helt ind bagved til hylderne med LP'er, CD'er og gulnede kartotekskort. 
-Vært: Charlotte Striib.</description>
-      <pubDate>Wed, 19 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428253/e54dffbb3bc9bf1162638737e4de0ab4157dc449ad8c5184be0bfc873e0cae4f.mp3" type="audio/mpeg" length="168482137" />
     </item>
   </channel>
 </rss>

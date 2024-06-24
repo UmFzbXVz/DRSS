@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,27 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400017</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-15452400017</link>
+      <title>Jalal, Camilla &amp; Anton opfølgning på kærligheden</title>
+      <description>I det her afsnit ringer jeg til tre gæster, hvis historier og samtaler har siddet i mig, siden de rejste sig og gik ud af Hjerteflimmer-studiet. 
+Jeg ringer til Anton, som skulle lære at kalde en timeout i skænderierne med Olav, så han bedre kunne få øje på, hvad der egentlig sker i ham, når han går fra nul til 100. 
+Jeg ringer også til Camilla, som fortalte, at hun skulle flytte til Falster basically for at redde sit forhold. Nu er de flyttet - så hvordan går det med hendes drøm om at gå fra at være samboer, som sover for lidt til at blive et romantisk par igen?
+Og så får jeg fat på Jalal, mens han er på shoppetur med familien i City2. Efter han har været på besøg hos Jytte og mig er der en masse problemer i forholdet, der er blevet ligegyldige. I stedet har Jyttes øjne gjort, at han har fået øje på nogle ting i sig selv.
+Medvirkende: Jalal Arabi, Camilla Skov &amp; Anton Hjejle.
+Ekspert: Jytte Vikkelsøe. 
+Vært: Sebastian Lynggaard.  
+Producer: Cæcilie Helena Denman-Gretoft. 
+Musik: "Hold up" Beyonce. 
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 24 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:01:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400017/9f9db1f4a2c17a4312b86eed151623b488967c688dce12befad575f22ad00bf7.mp3" type="audio/mpeg" length="87909561" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400016</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-15452400016</link>
@@ -2024,25 +2045,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>00:45:07</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195327/02609bbc6e99d6725a960975b6f503b3819d7a3017fb40a99d1a431df48bf389.mp3" type="audio/mpeg" length="64974388" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195325</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hoejdepunkter-fra-foraaret-2021-13332195325</link>
-      <title>Højdepunkter fra foråret 2021</title>
-      <description>I denne episode kan du genhøre tre kærlighedsspørgsmål og bagefter få opfølgningen fra gæsterne - hvad skete der egentlig efter vores samtale om kærlighed i studiet?
-TV-vært Anna Lin spørger, om man skal sige for evigt, når man får en kæreste?
-Folketingspolitiker Rosa Lund spørger, hvorfor hun har så travlt med at få det samme som alle andre har i deres parforhold. Og sanger Hjalmer Larsen fortalte for første gang offentligt i Hjerteflimmer for voksne om sin kæreste og spurgte, hvordan han kunne blive bedre til at balancere sit private og offentlige liv.
-
-Medvirkende: TV-vært Anna Lin, musikproducer Lasse Pilfinger, folketingspolitiker Rosa Lund, rapper Benjamin Hav, sanger Hjalmer Larsen, TV-vært Sarah Grünewald og parterapeut Jytte Vikkelsøe
-Vært: Sara Bro.
-Redaktør: Ula Hulgård.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 23 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:26:28</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195325/571b5a5350b411e386f7a34437e4f556a33a1bdc534951189de09334d64e9c9d.mp3" type="audio/mpeg" length="124530494" />
     </item>
   </channel>
 </rss>

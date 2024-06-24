@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493207</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-den-usynlige-krig-16122493207</link>
+      <title>Den usynlige krig</title>
+      <description>Hvad har Hertuginde Kate og en epidemi af væggelus i Paris med prepping at gøre? Hvad er Havannah syndromet? Og hvorfor påvirkes vi igen og igen af misinformation, uden vi fatter den mindste mistanke? Dette afsnit er øremærket den rasende hybridkrig, som ikke kan ses med det blotte øje. Peter Falktoft undersøger, hvordan prepper vi mod den.
+Gæst :  Jeanette Serritslev.
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 24 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:39:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493207/b418760d57a0852d71bad31a2753825aa4dfd6a9967899a17fa2872e835b9e3f.mp3" type="audio/mpeg" length="57577403" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493206</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-mad-for-preppere-16122493206</link>

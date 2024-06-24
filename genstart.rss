@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:33 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460148</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Flugten fra forsorgen</title>
+      <description>I periferien af samfundet lever mennesker med alvorlige fysiske og psykiske handicap stille liv. De bor på et af velfærdsstatens mange botilbud, og nogle steder bliver de passet på i alle døgnets timer. Alligevel, så er tragiske hændelser det seneste halve år sivet ud af tilbuddene. En kvinde dør af skader fra ætsende rengøringsmidler. En mand mister livet, da et skoldhedt bad forbrænder hele hans krop. I dagens Genstart fortæller Ida Marie Mundt, lektor på Københavns Professionshøjskole, om hændelserne der får hende til at sætte spørgsmålstegn ved, om menneskesynet er, som det bør være på de bosteder, der tager vare på dem, der ikke kan tage vare på sig selv. Og om vigtigheden af at lægge stor afstand til menneskesynet i fortidens åndssvageforsorg. 
+Vært: Simon Stefanski. 
+Program publiceret i DR Lyd d. 20/6.</description>
+      <pubDate>Mon, 24 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:21:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460148/64fdd60b43e9f896f08138e714a38e49455be53bfdc2bb1be7b1b931b87de335.mp3" type="audio/mpeg" length="31118285" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460147</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -9638,19 +9652,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:26</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150125/f45d050f6ad105898907dc22334816eba8365d7fe86c874f03cd504be1b45abc.mp3" type="audio/mpeg" length="33748875" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150124</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-oproer-i-hvid-kittel-11802150124</link>
-      <title>Oprør i hvid kittel</title>
-      <description>Fra natten til lørdag nedlægger 5000 danske sygeplejersker på tværs af landet arbejdet. Deres fagforening, Dansk Sygeplejeråd, har ellers to gange anbefalet dem et "ja" til overenskomsten. Når sygeplejerskerne strejker, så skyldes det i høj grad, at en gruppe aktivistiske græsrødder i hvide kitler går kontra på sociale medier. De har fået nok af løngab, siger de. Overfor står arbejdsgiverne, der siger, at de hverken kan eller vil finde flere penge. Hvad bunder strejken i? Og er sygeplejerskerne dårligere lønnet end lignende offentligt ansatte? Økonomikorrespondent i DR Casper Schrøder forklarer om konflikten.
-Vært: Knud Brix.</description>
-      <pubDate>Wed, 23 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:29</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150124/88661c3ea368ccb8a71bf30f98dc9798d98321bbfbcc5c0c5e542050a1c30a29.mp3" type="audio/mpeg" length="38146059" />
     </item>
     <item>
       <guid isPermaLink="false">11802050164</guid>

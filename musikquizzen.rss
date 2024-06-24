@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Kenneth K.</description>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122448125</guid>
+      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-podcast-16122448125</link>
+      <title>Søndag 23. jun. 2024</title>
+      <description>Danmarks mest musikalske quiz.
+Vært: Kenneth K.</description>
+      <pubDate>Sun, 23 Jun 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:05:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448125/506478f4205997afdcdc7d3cd7b31769eb0661192adb5096b72494a71fd937a6.mp3" type="audio/mpeg" length="93970591" />
+    </item>
     <item>
       <guid isPermaLink="false">16122448124</guid>
       <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-podcast-16122448124</link>

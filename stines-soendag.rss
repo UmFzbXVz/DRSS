@@ -9,7 +9,7 @@ En rolig start på dagen og en samtale om livets vigtige hjørner og vendepunkte
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@ En rolig start på dagen og en samtale om livets vigtige hjørner og vendepunkte
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422444257</guid>
+      <link>https://www.dr.dk/lyd/p2/stines-soendag/stines-soendag-2024/stines-soendag-merete-maerkedahl-skuespiller-12422444257</link>
+      <title>Merete Mærkedahl, skuespiller</title>
+      <description>Også denne sommer er hun aktuel i Cirkusrevyen, - selvsamme revy hun måtte trække sig fra for tre år siden, da hun efter forestilling nummer 133 fik et angstanfald. De efterfølgende tre måneder brugte hun på at bearbejde både tabet af sin mor og det store arbejdspres der fulgte, efter hun i 2013 blev landskendt i rollen som frøken Otilia i tv-serien Badehotellet.
+Gæst: Merete Mærkedahl, skuespiller.
+Vært: Stine Rosengren.</description>
+      <pubDate>Sun, 23 Jun 2024 09:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422444257/bd49a6f3218e0ec38c3bb68b08bf6c02b67f7bf072282717e13c5027a6a78977.mp3" type="audio/mpeg" length="165602189" />
+    </item>
     <item>
       <guid isPermaLink="false">12422444247</guid>
       <link>https://www.dr.dk/lyd/p2/stines-soendag/stines-soendag-2024/stines-soendag-mette-kathrine-jensen-staerk-rigsspillekvinde-12422444247</link>
@@ -375,21 +389,6 @@ Vært: Stine Rosengren.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422444011/f2a41601e2936d03b829118d8a07e1530b4c3716a3694bb9179fe9e333e3097f.mp3" type="audio/mpeg" length="165794568" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422344417</guid>
-      <link>https://www.dr.dk/lyd/p2/stines-soendag/stines-soendag-2023/stines-soendag-sigurd-barrett-musiker-og-forfatter-12422344417</link>
-      <title>Sigurd Barrett, musiker og forfatter</title>
-      <description>Som adoptivbarn kæmpede Sigurd Barrett med mobning og følte sig ofte fravalgt. Musikken var en følgesvend og hans tilflugtssted. Men da han indenfor en periode af 3 uger mister begge sine forældre, dukker ensomheden igen op og han vender sin vrede mod Gud. 
-Gæst: Sigurd Barrett, musiker og forfatter.
-Vært: Stine Rosengren.
-(Sendt første gang 15. oktober).</description>
-      <pubDate>Sun, 15 Oct 2023 09:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422344417/37822a21d1fc85e27b2a5e12dc6ee915bf7d61f24855e7fe9466d4f29fc8247a.mp3" type="audio/mpeg" length="168674571" />
     </item>
   </channel>
 </rss>

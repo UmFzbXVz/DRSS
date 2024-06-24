@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:18 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:32:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,23 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481865</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-den-klaverspillende-sagfoerer-12422481865</link>
+      <title>Den klaverspillende sagfører</title>
+      <description>To timers klassisk radio, hvor jeg præsenterer noget af den musik, som jeg selv lytter til efter fyraften og når jeg har fri.
+Denne gang med nogle musikalske personligheder, der sprænger alle rammer, bl.a. Rakhmaninov, Gershwin, og en engelsk advokat, der også er klavervirtuos.
+Vært: Jens Cornelius.</description>
+      <pubDate>Sun, 23 Jun 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000180005</itunes:order>
+      <itunes:season>18</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481865/efd211b3f61212d374b45ca43c09810b7d013d2e70b13b621944b382c766c699.mp3" type="audio/mpeg" length="168481603" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481864</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-lyt-til-hoejre-lyt-til-venstre-12422481864</link>

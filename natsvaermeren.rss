@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 23 Jun 2024 06:39:52 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 05:33:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463257</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-mellem-linjerne-12422463257</link>
+      <title>Mellem linjerne</title>
+      <description>Der er stemmer, filmperler og bløde knæ. Og så er der alt det, der ikke bliver sagt, men siger det hele.
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 24 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463257/8c302417921f5fb75c821c537225a8918a345280089b049016ac7b9f433e4060.mp3" type="audio/mpeg" length="168482053" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463254</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sommersolhverv-12422463254</link>
@@ -242,18 +255,6 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463216/8488278692db6fde2ffb1f071d21b639e7359e4e72af07c15976b0e503b0eff5.mp3" type="audio/mpeg" length="168474499" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463215</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-en-lydmesters-indre-ro-12422463215</link>
-      <title>En lydmesters indre ro</title>
-      <description>En af USAs førende lydmagere, Steve Albini, er gået bort, og selv om han var kendt for sin energiske lyd, så lavede han også stille plader, der passer perfekt til nattens indre ro. Peter Albrechtsen hylder mesterens afdæmpede toner i denne udgave af Natsværmeren, der også byder på ny dansk musik og udsøgt klassisk lyd fra Sibelius og John Barry.</description>
-      <pubDate>Sat, 25 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463215/c87c1af94c354808bfe0a2253f6e6a754d176442fa2e0bd6f4ceec1c0b341090.mp3" type="audio/mpeg" length="168482184" />
     </item>
     <item>
       <guid isPermaLink="false">12422463087</guid>
