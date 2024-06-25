@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 24 Jun 2024 05:32:54 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:16:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433261</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433261</link>
+      <title>Mandag 24. jun. 2024</title>
+      <description>Hvorfor er det problematisk, at kinesiske virksomheder er hovedsponsorer til EM? Er det en god idé at lade politiet bruge ansigtsgenkendelsesteknologi til at efterforske sager om seksuelt misbrug af børn? Og hvordan udvikler den grønne trepartforhandling sig?
+Dagens værter: Morten Runge og Pernille Rudbæk.</description>
+      <pubDate>Mon, 24 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:10</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433261/aac4bfcceadacfd6338acf5dc07ebe631fa1b6976a62f63e070ef47bb0dbc7c8.mp3" type="audio/mpeg" length="236409844" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433256</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433256</link>
@@ -1837,18 +1849,6 @@ Dagens værter: Anne Kirstine Hermann og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:23</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333525/7c1b6f6ed60e0617a099e4de25bacf978df355cfcf18db5a12d8d0260d41a9d0.mp3" type="audio/mpeg" length="236731226" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333524</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333524</link>
-      <title>Torsdag 28. dec. 2023</title>
-      <description>Hvordan er arbejdsvilkårene for journalister i Gaza? Hvorfor er det nødvendigt at hjælpe gravide med deres vægt? Og står Putin styrket tilbage efter året, der gik?  
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <pubDate>Thu, 28 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:03</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333524/166e17c54d7c9e0f9191a86bb36ebca56b6cd14fb8398deba207f982c994a0e2.mp3" type="audio/mpeg" length="237689681" />
     </item>
   </channel>
 </rss>

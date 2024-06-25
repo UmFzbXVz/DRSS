@@ -13,7 +13,7 @@ forbrydelsens@dr.dk</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 24 Jun 2024 05:31:54 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:16:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -23,17 +23,53 @@ forbrydelsens@dr.dk</description>
     </itunes:owner>
     <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/forbrydelsens-anatomi.xml?format=podcast</itunes:new-feed-url>
     <image>
-      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523be417d0c1a140697b7df.jpg</url>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66797ff1561198874f2bb0a3.jpg</url>
       <title>Forbrydelsens Anatomi</title>
       <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi-4675134318000</link>
     </image>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523be417d0c1a140697b7df.jpg" />
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66797ff1561198874f2bb0a3.jpg" />
     <category>Society &amp; Culture</category>
     <category>History</category>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
     <itunes:category text="History" />
+    <item>
+      <guid isPermaLink="false">16122300112</guid>
+      <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi-4675134318000</link>
+      <title>Træt af at vente til næste uge?</title>
+      <description>Du kan allerede høre alle afsnit lige nu i &lt;a href=https://www.dr.dk/lyd/p1/forbrydelsens-anatomi-4675134318000&gt;DR Lyd.&lt;/a&gt; Download DR Lyd-appen, og hør hele serien Forbrydelsens Anatomi - Barneliget på Fejø.</description>
+      <pubDate>Tue, 20 Jun 2023 05:01:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000030991</itunes:order>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>991</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:17</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300112/56b0001a3b76f69a766df8d45f378bd6e20871b3401ab78a3e47d31070410c2a.mp3" type="audio/mpeg" length="423744" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11032462101</guid>
+      <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/barneliget-paa-fejoe/forbrydelsens-anatomi-barneliget-paa-fejoe-1-4-bylten-paa-kirkegaarden-11032462101</link>
+      <title>Barneliget på Fejø: 1:4 -  Bylten på kirkegården</title>
+      <description>En forårsmorgen i maj 1881 finder den lokale kirkegraver på Fejø liget af et spædbarn. Alt tyder på, at en kvinde har skjult sin graviditet, født alene og dræbt barnet. Efterforskningen går i gang og hurtigt kommer en ung kvinde ved navn Ane i søgelyset. 
+Medvirkende: 
+Sara Røjkjær Knudsen, vært og tilrettelægger.
+Niels Sloth; gårdejer og øboer på Fejø.
+Jørgen Nielsen (Krudt); pensioneret kirkegraver og øboer på Fejø.
+Lars Andersen; lektor i historie på Aalborg Universitet med speciale i 1800-tallets kriminelle netværk.
+Agnete Birger Madsen; historiker og forfatter.
+Tilrettelægger, Rikke Precht.
+Redaktører: Carsten Nielsen og Hanne Barslund.</description>
+      <pubDate>Tue, 25 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000030001</itunes:order>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:32:57</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032462101/c116fbd83de7d722f483e694b0f97417e630b490d5193f20946882558e7a2fb9.mp3" type="audio/mpeg" length="47458816" />
+    </item>
     <item>
       <guid isPermaLink="false">11032462007</guid>
       <link>https://www.dr.dk/lyd/p1/forbrydelsens-anatomi/et-klassemord/et-klassemord-ekstramateriale-11032462007</link>

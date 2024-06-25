@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/marias-arv" rel="self" type="application/rss+xml" />
+    <title>Marias arv</title>
+    <link>https://www.dr.dk/lyd/p1/marias-arv-5624711337000</link>
+    <description>Marias mor løb ud foran et tog, da Maria var 25 år. Selvmordet efterlod Maria i chok og med en angst for fremtiden. Maria undersøger i denne serie, hvordan en familietragedie og et traume rammer de pårørende i generationer. Hun er opsat på at gøre sig fri af den tavshed, skam, skyld og angst, der er fulgt med. For sine børns skyld. Tilrettelæggelse: Maria Lorentsen og Mette Willumsen.
+&lt;a href="https://www.dr.dk/lyd/p1/marias-arv-5624711337000?utm_source=thirdparty&amp;utm_medium=rss&amp;utm_content=podcastseries:marias-arv"&gt;Hør hele serien i DR Lyd.&lt;/a&gt;</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Tue, 25 Jun 2024 06:16:45 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/marias-arv.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:666aabf11f4759007024423b.jpg</url>
+      <title>Marias arv</title>
+      <link>https://www.dr.dk/lyd/p1/marias-arv-5624711337000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:666aabf11f4759007024423b.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <item>
+      <guid isPermaLink="false">11032406301</guid>
+      <link>https://www.dr.dk/lyd/p1/marias-arv/marias-arv-1/marias-arv-1-4-chokket-11032406301</link>
+      <title>1:4 - Chokket</title>
+      <description>Da Maria får besked om sin mors selvmord, forsvinder meningen med livet. Maria ser nærmere på det halve år, der førte op til tragedien, og på hvordan et traume opstår. Medvirkende: Maria Lorentsen og psykolog Anette Holmgren. Tilrettelæggelse: Maria Lorentsen og Mette Willumsen. Redaktører: Hanne Barslund og Carsten Nielsen.</description>
+      <pubDate>Tue, 25 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>202406250300000001000111032406301</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:48</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032406301/95c0cfa16e3e61c8b79d3eaad217f8ad2053702ad546c5fda4acf8fb694661fa.mp3" type="audio/mpeg" length="38613750" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122300113</guid>
+      <link>https://www.dr.dk/lyd/p1/marias-arv-5624711337000</link>
+      <title>Træt af at vente til næste uge?</title>
+      <description>Du kan allerede høre alle afsnit lige nu i &lt;a href=https://www.dr.dk/lyd/p1/marias-arv-5624711337000&gt;DR Lyd.&lt;/a&gt; Download DR Lyd-appen, og hør hele serien Marias arv.</description>
+      <pubDate>Tue, 20 Jun 2023 05:01:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>202306200301000001099116122300113</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>991</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:17</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300113/cd4fb3a1f51fb24fcfc630ac9263b35ecf495aac4cfdfce78cb69ff9ebfedf7b.mp3" type="audio/mpeg" length="423652" />
+    </item>
+  </channel>
+</rss>

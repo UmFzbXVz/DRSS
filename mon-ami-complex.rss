@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 24 Jun 2024 05:32:42 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:16:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -115,18 +115,6 @@ The national - I need my girl</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462227/ba6814fa819583811fa7a70d8c9bba41b83e6d1609d76af2959a5e8c6fa8d17f.mp3" type="audio/mpeg" length="168481583" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122462217</guid>
-      <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-16122462217</link>
-      <title>Søndag 26. maj 2024</title>
-      <description>Louise Lolle og Lydmor i en vild og uforudsigelig rejse gennem det smukke, smertefulde og magiske skabende liv.</description>
-      <pubDate>Sun, 26 May 2024 19:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462217/01a3fc9eb6a497f72e2507e27621652b7264b1baea893c476ba58972d16c2cb5.mp3" type="audio/mpeg" length="168482027" />
     </item>
   </channel>
 </rss>

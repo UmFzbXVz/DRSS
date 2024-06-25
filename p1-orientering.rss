@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 24 Jun 2024 05:32:47 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:16:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410261</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410261</link>
+      <title>Mandag 24. jun. 2024</title>
+      <description>Hvordan ville virkeligheden for en arbejdsløs se ud, hvis ekspertgruppes anbefalinger bliver til virkelighed? Bliver trepartsforhandlingerne om en co2-afgift på landbruget afsluttet i dag? Og hvad ved vi om terrorangrebet i Rusland?
+Dagens værter: Adrian Busk og Anne Kirstine Hermann.</description>
+      <pubDate>Mon, 24 Jun 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:47</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410261/3e85f4e5d2cdab182dedbf4f36ba978ab48e9658b1e79581e0b9993b9f857679.mp3" type="audio/mpeg" length="158103682" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410255</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410255</link>
@@ -1535,38 +1547,6 @@ Dagens værter: Ole Brink og Adrian Busk Christensen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:08</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302525/e19bc7913f09be2dd4e0e55014bbd9d641a79e5564568dc67716de6bd9ca6f01.mp3" type="audio/mpeg" length="79406599" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304524</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304524</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Morten Runge og Adrian Busk Christensen.
-Og i dagens udgave af Orientering Udsyn:
-Efter EU's samarbejde er blevet sat på den ene prøve efter den anden i løbet af 2023, så venter nu et helt afgørende valg til næste år, som kommer til at definere, om parlamentet bliver et samarbejdsvilligt et af slagsen - eller det helt modsatte. For med højrenationale vinde, der blæser ind over Europa, er det ikke givet, hvor EU stiller sig, når det kommer til store spørgsmål om klima, migration og energi.
-I tre afsnit samler Udsyn op på året, der gik, og ser frem mod tre vigtige valg i 2024 - i dette afsnit europæernes valg til Europa-Parlamentet.
-Gæst: Rasmus Nørlem Sørensen, sekretariatsleder og chefanalytiker i Oplysningsforbundet DEO.
-Tilrettelæggelse: Elise Normann.
-Vært: Nickolaj Sander.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Thu, 28 Dec 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:09</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304524/bea9f57ec79f74fb3a02c24d9ddb1d24334def75e7c7197efc89e70eea098e18.mp3" type="audio/mpeg" length="79420483" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802310524</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20232/p1-orientering-orientering-11802310524</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Morten Runge og Adrian Busk Christensen.</description>
-      <pubDate>Thu, 28 Dec 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:07</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802310524/c0e19df030dcfb6b2de49e0b219376c7ff7c28e040e2e77f4e27393d8b73925f.mp3" type="audio/mpeg" length="79385863" />
     </item>
   </channel>
 </rss>

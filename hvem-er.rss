@@ -10,7 +10,7 @@ Dyk ned i detaljerne og ind i historierne bag musikken, når nogle af de vigtigs
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 24 Jun 2024 05:32:50 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:16:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -32,6 +32,53 @@ Dyk ned i detaljerne og ind i historierne bag musikken, når nogle af de vigtigs
     </itunes:category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122300114</guid>
+      <link>https://www.dr.dk/lyd/p3/hvem-er-2522729828000</link>
+      <title>Træt af at vente til næste uge?</title>
+      <description>Du kan allerede høre alle afsnit lige nu i &lt;a href=https://www.dr.dk/lyd/p3/hvem-er-2522729828000&gt;DR Lyd.&lt;/a&gt; Download DR Lyd-appen, og hør hele serien Hvem er Taylor Swift.</description>
+      <pubDate>Tue, 20 Jun 2023 05:01:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000170991</itunes:order>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>991</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:17</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6673fb4b1420d5a648fa9929.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300114/bce68e1e72d57e0206b66cf63a8213bdec917303d875378cdf4292adfe127efd.mp3" type="audio/mpeg" length="423708" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13332496131</guid>
+      <link>https://www.dr.dk/lyd/p3/hvem-er/hvem-er/hvem-er-taylor-swift-1-5-13332496131</link>
+      <title>Hvem er Taylor Swift? 1:5</title>
+      <description>En 11-årig, lyshåret pige går med målrettede skridt ned ad gaden i downtown, Nashville. I hånden har hun en CD med covernumre, hun selv har indspillet - og tiden er inde til at pladeselskaberne i countrymusikkens hovedstad indser, at hun er det talent, de leder efter. Det skal hurtigt vise sig, at hun har ret, og det nye talent ser ud til at være ustoppelig. Lige indtil et af tidens mest anerkendte rap-ikoner afbryder hende midt i en takketale til et storslået awardshow.
+
+Gæst: Frederikke Amalie Muff.
+Vært: Andrew Moyo.
+Lyddesign: Jakob Franck Jensen.
+Redaktør: Morten Narvedsen.
+
+Kilder:
+Eyewitness News, ABC 7 Chicago.
+Swiftoenomics?
+Miss Americana, Tremolo Productions, Netflix.
+The Ellen DeGeneres Show.
+Taylor Swift: A young singer's meteoric rise, 60 minutes, CBS.
+Graham Norton Show, BBC.
+Penford Media.
+VMA Awards 2009, MTV.</description>
+      <pubDate>Tue, 25 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000170001</itunes:order>
+      <itunes:season>17</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:44:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6673fb4b1420d5a648fa9929.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496131/5836995497c8ebf77ff8f3a63889dd043a8fdfdc0584159a157367669ab6aa42.mp3" type="audio/mpeg" length="63380016" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496125</guid>
       <link>https://www.dr.dk/lyd/p3/hvem-er/s2-the-minds-of-99/hvem-er-the-minds-of-99-ii-5-5-13332496125</link>

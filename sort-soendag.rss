@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 24 Jun 2024 05:33:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:16:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122492520</guid>
+      <link>https://www.dr.dk/lyd/special-radio/sort-soendag/sort-soendag-2024/sort-soendag-sort-soendag-live-fra-copenhell-2024-16122492520</link>
+      <title>Sort Søndag live fra Copenhell 2024</title>
+      <description>Sort Søndag er i denne uge, for første gang nogensinde, optaget foran et live publikum! Bøtter og Trolle indtog et fyldt Biergarten telt og optog en "Top 3 - Bedste Copenhell minder" inkl. skønne lytterhistorier. Musikere fra NakkeKnaekker, D.A.D. og Persecutor gæstede scenen og stemningen var høj. Det er der kommet end noget anderledes, men helt fantastisk stemningsfyldt podcast ud af. Tak til alle der mødte op og trodsede både tekniske problemer, lydudfald, rørte heavy-podcast værter og konkurrence fra store bands på festivalens scener. Længe leve Copenhell og længe leve verdens bedste lyttere!
+Værter: Anders Bøtter og Jakob Trolle
+Medvirkende: Johan Lundvig og Joakim Kaspersen (Nakkeknaekker), Jacob "Cobber" Binzer (D.A.D.), Benjamin Stage og Christian Andrés Almanza (Persecutor)
+Lyddesign og klip: Emil Germod
+Produceret af: Bowie-Jett
+Udsendelse nr. 629
+Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonser tunge toner, i selskab med værterne Anders Bøtter og Jakob Trolle. Sort Søndags trofaste "Giro 666 lyttere" byder ind med både nye og gamle numre, "Musiknyt" sørger for at holde dig helt opdateret og hver måned gennemgås et klassisk metal album i "Månedens Mesterværk"</description>
+      <pubDate>Sun, 23 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:38:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492520/5ec358e60faa4d173bc46e692dde1f626b305f6044a797158bd208e4a02f8bb3.mp3" type="audio/mpeg" length="142130744" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492519</guid>
       <link>https://www.dr.dk/lyd/special-radio/sort-soendag/sort-soendag-2024/sort-soendag-det-du-ikke-maa-misse-paa-copenhell-2024-16122492519</link>
@@ -381,23 +399,6 @@ Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonse
       <itunes:duration>01:47:56</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122392548/f902b11a312efb1a71e814644eb52c10e79755df625f3ff01a1ba65e9da89039.mp3" type="audio/mpeg" length="155435205" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122392547</guid>
-      <link>https://www.dr.dk/lyd/p6beat/sort-soendag/sort-soendag-2023/sort-soendag-aaret-der-gik-2023-udenlandske-hoejdepunkter-16122392547</link>
-      <title>Året der gik 2023: Udenlandske højdepunkter</title>
-      <description>Anders Bøtter har inviteret Politikens musikjournalist Pernille Jensen og Søren Weiss fra Blastbeast.dk i studiet, for at få deres bud på hvilke metaloplevelser der virkelig rykkede udenfor Danmarks grænser. Glæd dig til en podcast med nogle af de bedste udgivelser og bedste koncertminder fra 2023. Vi snakker bla. om hvordan de helt store samlende fællesskabende sus udeblev i 2023, som så til gengæld bød på fantastiske oplevelser fra mellemstore bands som Zeal &amp; Ardor, Cirith Ungol, Blind Guardian, Harm's Way og Chat Pile.
-Vært: Anders Bøtter.
-Medvirkende: Pernille Jensen (Politiken) og Søren Weiss (Blastbeast.dk).
-Klip og lyddesign: Emil Germod.
-Udsendelse nr. 608.
-Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonser tunge toner, i selskab med værterne Anders Bøtter og Jakob Trolle. Sort Søndags trofaste "Giro 666 lyttere" byder ind med både nye og gamle numre, "Musiknyt" sørger for at holde dig helt opdateret og hver måned gennemgås et klassisk metal album i "Månedens Mesterværk".</description>
-      <pubDate>Sun, 24 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:26:37</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122392547/a8bc3aacdb62e00aea3e3dcdda000c5f15d187ed112a38dbe7c52a07c4858434.mp3" type="audio/mpeg" length="124740738" />
     </item>
     <item>
       <guid isPermaLink="false">16122392539</guid>

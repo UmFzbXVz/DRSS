@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 24 Jun 2024 05:32:38 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:16:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -451,6 +451,22 @@ Vært: Mette Greiffenberg.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481801/3d6424767fefc59fcbfb936f63e5881d2d29c2cadf9ee2c00203d9e3ec00b680.mp3" type="audio/mpeg" length="168674565" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381821</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/nina-oerum/det-vi-hoerer-musikskolebarn-12422381821</link>
+      <title>Musikskolebarn</title>
+      <description>Som datter af den kommunale musikskoleleder var det slet ikke til diskussion; jeg skulle gå til mindst to instrumenter. Plus sammenspil. Det handlede ikke om at være bedst, men om at være med og have det sjovt. Hør om trygheden ved klaveret og hør musik af bl.a. Grieg, Prokofiev og adskillige franskmænd. 
+Vært: Nina Ørum.</description>
+      <pubDate>Tue, 27 Jun 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000080001</itunes:order>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381821/4187f16737fe8c1f2efd095d4e62b431d31d2c2a556c22ee53d16f6302f9dbe6.mp3" type="audio/mpeg" length="156973706" />
     </item>
   </channel>
 </rss>
