@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:28 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -1944,19 +1944,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:24:38</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450001/9fb7fddec6c2f5fb06880bec08c13c70c9631be250365a35a547ce7135e3be0d.mp3" type="audio/mpeg" length="35479169" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652350250</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2023/tyvstart-sportens-store-nytaarsquiz-13652350250</link>
-      <title>Sportens store nytårsquiz</title>
-      <description>Har du glemt at lave en quiz til nytårsaften? Det har Tyvstart ikke, og du kan tage dagens afsnit med til nytårsaften. Det eneste du skal bruge er noget at skrive med og på, godt humør og så de venner, du allerhelst vil tæve i en sportsquiz om året, der gik.
-Vært: Emil Schiønning.</description>
-      <pubDate>Sat, 30 Dec 2023 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:27</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652350250/515dd99d0946c1104c5fd753a9354f31972bc0a3ad39cb5118e2bcdedd765028.mp3" type="audio/mpeg" length="25149180" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,10 +26,22 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332421262</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421262</link>
+      <title>Tirsdag 25. jun. 2024</title>
+      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <pubDate>Tue, 25 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421262/a47414cd1830086967e0516e4ff6e995f52247b9f8a059edce6bf58bfd4cbe1a.mp3" type="audio/mpeg" length="172801589" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332421261</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421261</link>
-      <title>Mandag 24. jun. 2024</title>
-      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Nynne Givskov og Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
+      <title>Shit Jason Derulo var fed opvarmning for Minds i Parken! Ellerrr...</title>
+      <description>En mandag i Residensen byder på blandede bolsjer. Vi taler om elektriske tandbørster, og hvornår du ikke stoler på folk, og Jason Derulo der spillede i Parken i weekenden - eller var det? Og som altid vores elskede powerquiz. Velkommen indenfor!</description>
       <pubDate>Mon, 24 Jun 2024 18:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -222,19 +234,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421222/ab5b0cf5df3a314bc45eedc9e1eecc413c79ca8591c61e9a4c206215af3813cf.mp3" type="audio/mpeg" length="172801590" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421221</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-ny-em-titelmelodi-men-handler-den-kun-om-fodbold-13332421221</link>
-      <title>Ny EM-titelmelodi, men handler den kun om fodbold?</title>
-      <description>Så blev det mandag, og i Nynnes fravær holdes Kasper i selskab af Residensens praktikant Esmeralda. Vi taler om umage par, der matcher hinandens freakyness, og som altid powerquiz i sit fulde flor. Vi runder selvfølgelig også den nye officielle danske EM sang - som i nogles øjne ikke kun handler om fodbold.
-Velkommen indenfor!</description>
-      <pubDate>Mon, 27 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421221/753a0681fe9a3c2987a582050fafd6649c103d8b294a4e4125fba5659156d4c6.mp3" type="audio/mpeg" length="172801590" />
     </item>
   </channel>
 </rss>

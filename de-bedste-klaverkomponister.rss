@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:06:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -26,6 +26,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12421853002</guid>
+      <link>https://www.dr.dk/lyd/p2/de-bedste-klaverkomponister/de-bedste-klaverkomponister-1/de-bedste-klaverkomponister-ifoelge-hammer-og-cornelius-2-6-chopin-12421853002</link>
+      <title>Ifølge Hammer &amp; Cornelius 2:6: Chopin</title>
+      <description>I seks udsendelser præsenterer Mathias Hammer og Jens Cornelius musikken af seks store klaverkomponister, der er umulige at komme uden om. Denne gang Chopin.
+(Sendt første gang 10. februar 2018).</description>
+      <pubDate>Fri, 02 Feb 2018 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010002</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421853002/18b5f031dd1f5d0ded6f5b72d64c24da284f987bfc572b9fc6fc702ecf2f12a3.mp3" type="audio/mpeg" length="82169098" />
+    </item>
     <item>
       <guid isPermaLink="false">12421853001</guid>
       <link>https://www.dr.dk/lyd/p2/de-bedste-klaverkomponister/de-bedste-klaverkomponister-1/de-bedste-klaverkomponister-ifoelge-hammer-og-cornelius-1-6-beethoven-12421853001</link>

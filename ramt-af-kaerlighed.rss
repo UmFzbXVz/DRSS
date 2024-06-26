@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,20 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <item>
+      <guid isPermaLink="false">16122300117</guid>
+      <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000</link>
+      <title>Træt af at vente til næste uge?</title>
+      <description>Du kan allerede høre alle afsnit lige nu i &lt;a href=https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000&gt;DR Lyd.&lt;/a&gt; Download DR Lyd-appen, og hør hele serien Ramt af kærlighed.</description>
+      <pubDate>Tue, 25 Jun 2024 05:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010991</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>991</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:17</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300117/eca6134f8d6f230fb94f194667cd7ec64358d88d2a1f8bf4b87ff4fe24067f23.mp3" type="audio/mpeg" length="423660" />
+    </item>
+    <item>
       <guid isPermaLink="false">11032428273</guid>
       <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed/ramt-af-kaerlighed-1/ramt-af-kaerlighed-1-5-kaerlighed-vendt-paa-hovedet-11032428273</link>
       <title>1:5 - Kærlighed vendt på hovedet</title>
@@ -35,26 +49,12 @@ Vært: Maise Njor. Gæst: Iben Hjejle, datter af en far, der havde demens. Skues
 Tilrettelæggelse: Maise Njor og Bettina Ohlsen. Redaktører: Hanne Barslund og Carsten Nielsen.</description>
       <pubDate>Tue, 25 Jun 2024 05:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>202406250300000001000111032428273</itunes:order>
+      <itunes:order>0000010001</itunes:order>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:57:00</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032428273/7a4e54b88b542f50573195ea030dfcb80d2e9ffc8d861d7d504e498d5567193b.mp3" type="audio/mpeg" length="82104650" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122300117</guid>
-      <link>https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000</link>
-      <title>Træt af at vente til næste uge?</title>
-      <description>Du kan allerede høre alle afsnit lige nu i &lt;a href=https://www.dr.dk/lyd/p1/ramt-af-kaerlighed-5538079325000&gt;DR Lyd.&lt;/a&gt; Download DR Lyd-appen, og hør hele serien Ramt af kærlighed.</description>
-      <pubDate>Tue, 20 Jun 2023 05:01:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>202306200301000001099116122300117</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>991</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:00:17</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300117/eca6134f8d6f230fb94f194667cd7ec64358d88d2a1f8bf4b87ff4fe24067f23.mp3" type="audio/mpeg" length="423660" />
     </item>
   </channel>
 </rss>

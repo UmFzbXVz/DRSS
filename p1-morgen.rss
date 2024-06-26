@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:27 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433262</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433262</link>
+      <title>Tirsdag 25. jun. 2024</title>
+      <description>Hvad er der kommet ud af den grønne trepart? Ser vi en hel ungdomsgeneration gå tabt i Gaza? Og understøtter DBU misogyni?
+Dagens værter: Morten Runge og Bjarne Steensbeck.</description>
+      <pubDate>Tue, 25 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:41:46</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433262/919299566ab5b8ee9d970ce7fbc82565bf1781d3512ba407a2ec468497bdd5f2.mp3" type="audio/mpeg" length="232956065" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433261</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433261</link>
@@ -1837,18 +1849,6 @@ Dagens værter: Anne Kirstine Hermann og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:09</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333526/2be38d9c9f54cb0d440ba198bf54e1a3294923c3a99da5459024b005ca3f550d.mp3" type="audio/mpeg" length="158639265" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802333525</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2023/p1-morgen-11802333525</link>
-      <title>Fredag 29. dec. 2023</title>
-      <description>Hvorfor sammenligner Erdogan Netanyahu med Hitler? Hvilke tre overskrifter definerer amerikansk politik i år? Og hvordan kan man give børn en mental pause fra en aktiv krig? 
-Dagens værter: Anne Kirstine Hermann og Søren Carlsen.</description>
-      <pubDate>Fri, 29 Dec 2023 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:23</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802333525/7c1b6f6ed60e0617a099e4de25bacf978df355cfcf18db5a12d8d0260d41a9d0.mp3" type="audio/mpeg" length="236731226" />
     </item>
   </channel>
 </rss>

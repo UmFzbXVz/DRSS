@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410262</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410262</link>
+      <title>Tirsdag 25. jun. 2024</title>
+      <description>En CO2-afgift på landbruget på 750 kroner per ton drivhusgasser. Sådan præsenterede den grønne trepart et kompromis, parterne er nået frem til. Hvad betyder bundfradrag på co2-afgiften på landbruget? Folketingets partier præsenterer 12 nye initiativer, som skal styrke indsatsen mod antisemitisme i Danmark. Hvad indeholder aftalen? Manden bag den netbaserede Whistleblower-organisation WikiLeaks, Julian Assange, er efter fem år blevet løsladt. Hvad sker der nu efter Assange er blevet løsladt?
+Dagens værter: Anne Kirstine Hermann og Adrian Busk.</description>
+      <pubDate>Tue, 25 Jun 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:03</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410262/8061ff7877b0021ef3d108c0539cccaf87d778037ec8ca4ecf3a49199a663091.mp3" type="audio/mpeg" length="158474626" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410261</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410261</link>
@@ -1515,38 +1527,6 @@ Dagens værter: Ole Brink og Anne Kirstine Hermann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:57:11</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802401001/ec18c523d2036b2b362d8167fdbda90816ea2b5217f98cbc734401c70329e42c.mp3" type="audio/mpeg" length="255165428" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802304525</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-20231/p1-orientering-med-udsyn-11802304525</link>
-      <title>Med Udsyn</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Ole Brink og Adrian Busk Christensen.
-Og i dagens udgave af Orientering Udsyn:
-Det sidste år har forstærket billedet af et USA, der er delt i to. De to fløjes politikere bekriger hinanden med ord og retssager, og befolkningen rykker sig fra hinanden, både fysisk og holdningsmæssigt. Om du som amerikaner kan få en abort - eller stemme til valget - er dybt afhængigt af, hvilken stat, du bor i. Præsidentvalget i 2024 ser ikke ud til at komme til at mindske afstanden mellem de to fløje. Men hvor langt kan amerikanerne fjerne sig fra hinanden - og hvad kommer splittelsen til at betyde for valget?
-I tre afsnit samler Udsyn op på året, der gik, og ser frem mod tre vigtige valg i 2024 - i dette afsnit, præsidentvalget i USA.
-Gæst: Jørn Brøndal, professor på Center for Amerikanske Studier ved Syddansk Universitet.
-Tilrettelæggelse: Elise Normann.
-Vært: Nickolaj Sander.
-Lyddesign: Jonas Johs Andersen.
-Redaktør: Tine Møller Sørensen.</description>
-      <pubDate>Fri, 29 Dec 2023 17:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:07</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802304525/eb4393ee6103270ff32f03e1dd0a888114c6dfb827d1dcc5a7434013ef2d7759.mp3" type="audio/mpeg" length="79384774" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802302525</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2023/p1-orientering-orientering-11802302525</link>
-      <title>Orientering</title>
-      <description>P1 Orientering sætter perspektiv på dagens største nyheder. Intelligent og godt selskab på farten, under madlavningen eller i sofaen.
-Dagens værter: Ole Brink og Adrian Busk Christensen.</description>
-      <pubDate>Fri, 29 Dec 2023 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:08</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802302525/e19bc7913f09be2dd4e0e55014bbd9d641a79e5564568dc67716de6bd9ca6f01.mp3" type="audio/mpeg" length="79406599" />
     </item>
   </channel>
 </rss>

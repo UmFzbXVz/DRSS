@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -298,19 +298,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:11:32</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192726/d4fd75a122b6eb40140883b98b5b88857bcd2d2834a0663d0825b0902a223d0d.mp3" type="audio/mpeg" length="16609832" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192725</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-alt-paa-et-braet-16122192725</link>
-      <title>Alt på et bræt</title>
-      <description>Politik Under Spærregrænsen snakker med den skatende løsgænger, der bliver prøvet et nyt og spændende brætspil, Mikkel har en grim røv og så skal vi på cafébesøg.
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 25 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:13:25</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192725/4e4a60a0789380a4466a88f99897c476a6ba0345a630e287dc0f4d46e5c1a9af.mp3" type="audio/mpeg" length="19333833" />
     </item>
   </channel>
 </rss>

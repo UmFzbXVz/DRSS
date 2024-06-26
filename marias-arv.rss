@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:54:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -29,32 +29,32 @@
       <itunes:category text="Documentary" />
     </itunes:category>
     <item>
+      <guid isPermaLink="false">16122300113</guid>
+      <link>https://www.dr.dk/lyd/p1/marias-arv-5624711337000</link>
+      <title>Træt af at vente til næste uge?</title>
+      <description>Du kan allerede høre alle afsnit lige nu i &lt;a href=https://www.dr.dk/lyd/p1/marias-arv-5624711337000&gt;DR Lyd.&lt;/a&gt; Download DR Lyd-appen, og hør hele serien Marias arv.</description>
+      <pubDate>Tue, 25 Jun 2024 05:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010991</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>991</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:00:17</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300113/cd4fb3a1f51fb24fcfc630ac9263b35ecf495aac4cfdfce78cb69ff9ebfedf7b.mp3" type="audio/mpeg" length="423652" />
+    </item>
+    <item>
       <guid isPermaLink="false">11032406301</guid>
       <link>https://www.dr.dk/lyd/p1/marias-arv/marias-arv-1/marias-arv-1-4-chokket-11032406301</link>
       <title>1:4 - Chokket</title>
       <description>Da Maria får besked om sin mors selvmord, forsvinder meningen med livet. Maria ser nærmere på det halve år, der førte op til tragedien, og på hvordan et traume opstår. Medvirkende: Maria Lorentsen og psykolog Anette Holmgren. Tilrettelæggelse: Maria Lorentsen og Mette Willumsen. Redaktører: Hanne Barslund og Carsten Nielsen.</description>
       <pubDate>Tue, 25 Jun 2024 05:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>202406250300000001000111032406301</itunes:order>
+      <itunes:order>0000010001</itunes:order>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:26:48</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032406301/95c0cfa16e3e61c8b79d3eaad217f8ad2053702ad546c5fda4acf8fb694661fa.mp3" type="audio/mpeg" length="38613750" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122300113</guid>
-      <link>https://www.dr.dk/lyd/p1/marias-arv-5624711337000</link>
-      <title>Træt af at vente til næste uge?</title>
-      <description>Du kan allerede høre alle afsnit lige nu i &lt;a href=https://www.dr.dk/lyd/p1/marias-arv-5624711337000&gt;DR Lyd.&lt;/a&gt; Download DR Lyd-appen, og hør hele serien Marias arv.</description>
-      <pubDate>Tue, 20 Jun 2023 05:01:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>202306200301000001099116122300113</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>991</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:00:17</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122300113/cd4fb3a1f51fb24fcfc630ac9263b35ecf495aac4cfdfce78cb69ff9ebfedf7b.mp3" type="audio/mpeg" length="423652" />
     </item>
   </channel>
 </rss>

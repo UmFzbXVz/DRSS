@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:08:06 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:46:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -231,19 +231,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463221/302b465aac0372501eb22ee4af9f93cf2d743827712518e72fd1c184b1c84751.mp3" type="audio/mpeg" length="168482050" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463217</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-musikkens-fabrik-12422463217</link>
-      <title>Musikkens fabrik</title>
-      <description>Du er inviteret indenfor i en stor fabrikshal. Der er højt til loftet, så du er i tvivl om at der overhoved er tag på bygningen. Fra hjørnerne spiller musikken fra alle kanter og indhyller dig i forskellige verdener, der giver dig mulighed for at skabe lige den aften du ønsker dig.
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 27 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463217/747f068d7aa15e17631a1b7a38e9f609b7dfef3565f3d24446bcb25a54d4dfba.mp3" type="audio/mpeg" length="168482185" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463087</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lys-12422463087</link>
       <title>Lys</title>
@@ -323,6 +310,19 @@ Vært: Katrine Ring.
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363251/c22214d58bec4fedf99f846714ec266dbb4020ebca55b00d9d1632c335d04b07.mp3" type="audio/mpeg" length="168482084" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363243</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-hoejere-luftlag-12422363243</link>
+      <title>De højere luftlag</title>
+      <description>Når der er større kræfter på spil end værten, kan det godt syre lidt ud. Ekkehard Ehlers, Kara-Lis Coverdale, Johnny Greenwood og Peter Sandberg vender blikket mod kosmos.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 15 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363243/cd1a8d2d144fda702a15762684069fa6a33335b4ff6ecaca250cacf822dbedf9.mp3" type="audio/mpeg" length="168480394" />
     </item>
     <item>
       <guid isPermaLink="false">12422363242</guid>

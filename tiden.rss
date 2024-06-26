@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:26 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451118</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-hoetyv-paa-hylden-trans-i-tennessee-og-joedisk-beskyttelse-11802451118</link>
+      <title>Høtyv på hylden, trans i Tennessee og jødisk beskyttelse</title>
+      <description>Der har været hård tone og mange sammenstød, når snakken har gået på landbrugets CO2-afgift. Nu er der kommet en plan, men går den? 
+Regeringen vil bekæmpe antisemitisme i Danmark med 12 initiativer. Både strengere stramme og mere undervisning. 
+Den amerikanske højesteret vil nu se på en sag om transpersonernes rettigheder i landet. 
+Vært: Annika Wetterling.
+Medvirkende:
+Filip Knaack Kirkegaard, DR's klimaanalytiker.
+Sidsel Nyholm, udlandsredaktør Kristelig Dagblad.</description>
+      <pubDate>Wed, 26 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451118/b679e99f7132437f5dd53f9413fb9cf96a0a1ccf42a734bc28063ab5e74147d8.mp3" type="audio/mpeg" length="23795598" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451117</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-adjoe-til-jobcentre-en-serbisk-saga-og-ildkamp-i-dagestan-11802451117</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:35 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:51:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405262</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405262</link>
+      <title>Tirsdag 25. jun. 2024</title>
+      <description>Præludium: Edmund Hart Turpin: Voluntary B-dur
+Fra det G.T.:	Salme 23
+Salme: 664 "Frelseren er mig en hyrde god"
+Fra det N.T.:	Matthæusevangeliet 7, 1-5
+Korvers: Flemming Weis: Bed, så skal der gives jer (tekst: Matthæus 7,7)
+Salme: 756 "Nu gløder øst i morgenskær"
+Postludium: Johann Ludwig Krebs: Toccata E-dur</description>
+      <pubDate>Tue, 25 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405262/77c9c998b3b24b4a52965dec78a1af5b99952e77b7023046b6c484b78ef4d7e1.mp3" type="audio/mpeg" length="36001582" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405261</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405261</link>
@@ -456,24 +474,6 @@ Postludium: Anonym: Guds-husets dør er i vor dåb.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405222/bd84452029cac6d1d8f025adcdba0ed99afc226fd3df2407f2191f97bc67119b.mp3" type="audio/mpeg" length="36001579" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405221</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405221</link>
-      <title>Mandag 27. maj 2024</title>
-      <description>Præludium:	Wolfgang Amadeus Mozart: Adagio, d-mol.
-Ord til dagen: af Birgitta af Vadstena.
-Salme: 418 "Herre Jesus, kom at røre".
-Fra det N.T.:	Matthæusevangeliet 3, 1-6.
-Vekselsang Dit ord består, Herre (Sl. 119, 89-90 &amp; 23, 1-2).
-Salme: 11 "Nu takker alle Gud".
-Postludium: Justin Heinrich Knecht: Nu takker alle Gud.</description>
-      <pubDate>Mon, 27 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405221/62d1f2e9dc70bf73aee46f9076fd09a7052ffbd34018276af541b317d18e61f2.mp3" type="audio/mpeg" length="36001573" />
     </item>
   </channel>
 </rss>

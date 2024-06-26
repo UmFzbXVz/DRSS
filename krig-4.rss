@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:40 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,25 @@ Produceret for DR af MonoMono.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122492410</guid>
+      <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-jaegersoldaten-16122492410</link>
+      <title>Jægersoldaten</title>
+      <description>Den erfarne jægersoldaten Peter fortæller om sin vej ind i jægerkorpset og om arbejdet med at støtte en lokal irakisk milits i kampen mod Islamisk Stat. Vi taler også med den nyuddannede jægersoldat Tobias, om hvad der skal til for at klare den hårde optagelsesprøve og om at finde sin plads i korpset.  
+
+Vært og tilrettelægger: Martin Tamm Andersen.
+Gæster: Jens og Tobias, jægersoldater. Redaktionen er bekendt med deres fulde navne. 
+Klip, producer og musik: Mikkel Rønnau.
+Redaktør: Rune Sparre Geertsen.
+DR redaktør: Cecilie Tonnesen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Wed, 26 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:44:22</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492410/e5b5de4e88ab894d031b9b510d947489d186e46c8c7a8a9b39ef2966b95bb331.mp3" type="audio/mpeg" length="63890357" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492409</guid>
       <link>https://www.dr.dk/lyd/special-radio/krig/krig-2024/krig-artilleristen-16122492409</link>

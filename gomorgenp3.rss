@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 25 Jun 2024 06:16:41 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:56:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332410262</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410262</link>
+      <title>Tirsdag 25. jun. 2024</title>
+      <description>Andreas Kousholt sender igen i dag fra en vandcykel formet som en svane. Derudover står den på kæmpe landskampsstemning. Vi skal bl.a. se, om chimpanserne i Zoo for tredje gang i træk kan forudse resultatet af Danmarks kamp.
+Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
+Medvirkende:
+Svend Rybner, fodboldhistoriker.
+Reporter Mads Læbel.</description>
+      <pubDate>Tue, 25 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410262/31015b719b238872e5e7a6e445ec30f493b39543a8967bfd23a46ef630e98ac4.mp3" type="audio/mpeg" length="254881595" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332410261</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410261</link>
       <title>Mandag 24. jun. 2024</title>
@@ -38,22 +54,6 @@ Medvirkende: Allan Nielsen, der er naturvejleder og fugleekspert.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410261/34c2445982814a84b6ac00782c7efeade3c9a0e1043fd631d59645c0a173970e.mp3" type="audio/mpeg" length="254882098" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410255</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410255</link>
-      <title>Fredag 21. jun. 2024</title>
-      <description>Havde man virkelig sex i gamle dage, som de har det i den meget populære Netflix-serie 'Bridgerton'? Liva har sendt praktikanten Isabell på et plejehjem for at høre, hvordan det gik for sig før i tiden. Andreas fortsætter planlægningen af, hvordan han bedst kan investere i osten Gammel Knas, der snart er udsolgt, så han kan sælge til overpriser. En ostehandler ved navn Michael Ost hjælper med praktikken. Lytteren Stefan har haft fodboldhovedet på til en nervepirrende fodboldkamp mellem Danmark og England, og til sidst har Mikkel et meget upassende spørgsmål til Liva og Andreas, der involverer en bruser.
-Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
-Medvirkende:
-Michael Henriksen, ostehandler.
-Stefan fodboldfan.</description>
-      <pubDate>Fri, 21 Jun 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410255/97871e0b65e4c3438e16de00693316d13ff1b7a6aa9019340060d952289a77e3.mp3" type="audio/mpeg" length="254881522" />
     </item>
   </channel>
 </rss>
