@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 26 Jun 2024 05:56:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:17:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,11 +27,27 @@ Vært: Julian Svejgaard.</description>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">18452428263</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428263</link>
+      <title>Kulturmødet i Camilla Dayyani</title>
+      <description>DMA-vinder og musiker Camilla Dayyani gæster denne morgens Snooze, bl.a. for at fortælle om Bazarjazz, en lille festival inde i Aarhus Jazzfestival, som bringer mangfoldigheden og jazzen sammen. Derudover vender vi Dayyanis album Mine Miniaturer, som rummer et sammensurium af jazz, klassisk, nordisk og persisk musik.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked</description>
+      <pubDate>Wed, 26 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428263/f692109ba9d1c9629611585aa63ca5bc7a55870f6cbb595bcdfb9b5f958e7c08.mp3" type="audio/mpeg" length="252001589" />
+    </item>
+    <item>
       <guid isPermaLink="false">18452428262</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428262</link>
-      <title>Tirsdag 25. jun. 2024</title>
-      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
-Vært og tilrettelægger: Julian Svejgaard.
+      <title>Ferietid</title>
+      <description>På en dag med højt solskin over Danmark er der god inspiration til at drømme sig væk til ferielandet. En sommerpause lurer lige om hjørnet, og Snooze-lytterne deler glimt af deres ferieplaner hele morgenen.
 Redaktør: Kasper Christensen.
 Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
 Mail: p8jazz@dr.dk
@@ -46,8 +62,8 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
     <item>
       <guid isPermaLink="false">18452428261</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428261</link>
-      <title>Mandag 24. jun. 2024</title>
-      <description>Med silkebløde toner og rolig stemme leverer P8 Jazz den blide start på din dag. Så bliv endelig liggende i sengen og nyd morgenkaffen - så sørger vi for resten!
+      <title>Efter Sct. Hans</title>
+      <description>Dagen efter Sct. Hans aften - vi går allerede mod mørkere tider, men der er stadig plads til solskinsmusik, også i Snooze.
 Vært og tilrettelægger: Julian Svejgaard.
 Redaktør: Kasper Christensen.
 Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
@@ -374,23 +390,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428223/d6c42315cf6acc778712a13fd2f3e64d1062e3c02e59610354ac7849e1954df1.mp3" type="audio/mpeg" length="252002188" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428222</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-morgen-i-etiopien-18452428222</link>
-      <title>Morgen i Etiopien</title>
-      <description>Den smækre, støvede og meditative lyd fra Etiopiens jazzhistorie er på programmet denne morgen i Snooze. Det er både fordi Etiopien fejrer en slags nationaldag i dag, men i høj grad også fordi morgenstunden altid bliver bedre med Mulatu Astatke i ørerne.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 28 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428222/17d445fb138f7a408d054a3a1109c7dbc7ba1abbf0a5ab44e4fff027640c39be.mp3" type="audio/mpeg" length="252002184" />
     </item>
   </channel>
 </rss>

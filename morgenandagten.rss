@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 26 Jun 2024 05:51:38 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:18:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405263</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405263</link>
+      <title>Onsdag 26. jun. 2024</title>
+      <description>Præludium:	Georg Böhm: Freu dich sehr, o meine Seele
+Fra det G.T.:	Salme 25, 1-7
+Salme: 592 "I dag er nådens tid"
+Fra det N.T.:	Matthæusevangeliet 7, 6-11
+Korvers: Flemming Weis: Bed, så skal der gives jer (tekst: Matthæus 7,7)
+Salme: 588 "Herre, gør mit liv til bøn"
+Postludium: Alan Gray: Præludium D-dur fra 12 short preludes for organ</description>
+      <pubDate>Wed, 26 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405263/ce3d2b9641e3ad993d5a8e4d7900d53773fc7fee24dd0b9d08a0d0bd4dd186e0.mp3" type="audio/mpeg" length="36001579" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405262</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405262</link>
@@ -456,24 +474,6 @@ Postludium: Tobias Dahl: Aria.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405223/2415fc68b0fc354a41bfa1c5805cc8f4ccacd338501db00b15151105d3400ce9.mp3" type="audio/mpeg" length="36001585" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405222</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405222</link>
-      <title>Tirsdag 28. maj 2024</title>
-      <description>Præludium:	Johann Sebastian Bach: O Herre Krist! dig til os vend, BWV 632.
-Fra det G.T.:	Ezekiel 34, 17-24.
-Salme: 288 "Drag ind ad disse porte".
-Fra det N.T.:	Matthæusevangeliet 3, 7-12.
-Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837.
-Salme: 444 "Guds-husets dør er i vor dåb".
-Postludium: Anonym: Guds-husets dør er i vor dåb.</description>
-      <pubDate>Tue, 28 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405222/bd84452029cac6d1d8f025adcdba0ed99afc226fd3df2407f2191f97bc67119b.mp3" type="audio/mpeg" length="36001579" />
     </item>
   </channel>
 </rss>

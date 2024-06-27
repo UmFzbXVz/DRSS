@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 26 Jun 2024 05:56:02 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:17:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481881</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-blaesermusik-med-sol-og-lys-og-varme-12422481881</link>
+      <title>Blæsermusik med sol og lys og varme</title>
+      <description>To timers radio, hvor jeg præsenterer noget af den musik jeg selv lytter til når jeg har fri: Chopin, Ravel, Mahler og Mussorgskij. Vi havner i en verden hvor messingblæserne fylder en del. Men der er heller ikke noget som messingblæsere der kan fremkalde følelsen af varme, lys og frihed! Hør også musik af Matias Vestergård, Debussy, Sjostakovitj og Jaco Pastorius.
+Vært: Max Fage-Pedersen.</description>
+      <pubDate>Wed, 26 Jun 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000190001</itunes:order>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481881/517b84817199da2943703eab19c3f6ba309ca7efefadf3b5a065cd29d9b2e487.mp3" type="audio/mpeg" length="165601610" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481865</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/jens-cornelius/det-vi-hoerer-den-klaverspillende-sagfoerer-12422481865</link>

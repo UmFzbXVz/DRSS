@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 26 Jun 2024 05:46:50 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:18:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -218,19 +218,6 @@ Vært: Tina Rømer.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463224/6ed1f62c1f6454bdab841ff27ad4b77fd552bfed77ab22bf455115acfbd4afeb.mp3" type="audio/mpeg" length="168482177" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463221</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-med-forsigtig-lethed-12422463221</link>
-      <title>Med forsigtig lethed</title>
-      <description>Uden at love for meget, er der en snert af forventning til sommerens kommen gemt i aftens soundtrack. 
-Vært: Minna Grooss.</description>
-      <pubDate>Tue, 28 May 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463221/302b465aac0372501eb22ee4af9f93cf2d743827712518e72fd1c184b1c84751.mp3" type="audio/mpeg" length="168482050" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463087</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lys-12422463087</link>
       <title>Lys</title>
@@ -296,6 +283,19 @@ Vært: Tina Rømer.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363254/e9a45ae9488f86665c95d9afde94e669c52543a01cf4148fc1f11bfc960784c5.mp3" type="audio/mpeg" length="168482064" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363253</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-doed-og-kaerlighed-12422363253</link>
+      <title>Død og kærlighed</title>
+      <description>Kærligheden og døden trækker benene op under sig og lader musikken drible mellem de to yderpunkter. Tchaikovsky, Saint-Saëns, Reynaldo Hahn, Nora Jones og Jomi Massage kaster sig ind i mellemrummene.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 22 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363253/e76c42d8847a011ef0ab3e7ec462983aa7410e3af79018dd0edb2358c3466f6f.mp3" type="audio/mpeg" length="168474660" />
     </item>
     <item>
       <guid isPermaLink="false">12422363251</guid>

@@ -10,7 +10,7 @@ Produceret for DR af Munck Studios.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 26 Jun 2024 05:42:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:17:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,23 @@ Produceret for DR af Munck Studios.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494304</guid>
+      <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-henrettelsen-af-nicolae-og-elena-ceausescu-16122494304</link>
+      <title>Henrettelsen af Nicolae og Elena Ceausescu</title>
+      <description>Første juledag 1989 bliver den rumænske præsident Nicolae Ceausescu og hans vicestatsminister (og kone), Elena Ceausescu, henrettet brutalt efter en kort standret. Rumænien får den mest voldelige afslutning på kommunismen blandt de sovjetiske vasalstater. Men hvorfor blev det så brutalt i lige netop Rumænien? Hvem var Ceausescu-parret? Og hvad var det for et styre, de stod i spidsen for? 
+
+Værter: Simon Emil Ammitzbøll-Bille og Kristoffer Lind.
+Klip: Anne Lundager.
+Redaktører: Rune Born Schwartz og Cecilie Egholm Tonnesen.
+Produceret for DR af Munck Studios.</description>
+      <pubDate>Thu, 27 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494304/652a2e62d13a67f49784a20f672c5f0504f8ff019b904af8c3a1a556c726c102.mp3" type="audio/mpeg" length="82336168" />
+    </item>
     <item>
       <guid isPermaLink="false">16122494303</guid>
       <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-attentatet-paa-luis-carrero-blanco-16122494303</link>

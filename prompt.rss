@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 26 Jun 2024 05:54:45 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:18:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421025</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-11802421025</link>
+      <title>Bacon-is, bold-intelligens og cigaret-advarsler på TikTok</title>
+      <description>Prompt er på havnen i Århus på dagen, hvor Danmark spiller mod Serbien ved EM. Vi diskuterer risikoen ved at bruge AI til kundeservice efter McDonald's forsøg med AI, som endte med at give en kunde is toppet med bacon. Vi taler også med den danske startup VEO om, hvordan AI kan anvendes i moderne topfodbold - og om for meget data risikerer at fjerne charmen fra sporten. Endelig diskuterer vi, om det er en god idé at påføre advarsler, som dem vi kender fra cigaretpakker, på sociale medier.</description>
+      <pubDate>Thu, 27 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:09</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421025/9a9fa94fe6a80d3fc7eaae9f70c9dc6b2a9aa4c0784a6414be124ea54ace3e3e.mp3" type="audio/mpeg" length="77990254" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421024</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-jakabov-facebook-banemand-og-amazon-aflaeser-dine-foelelser-11802421024</link>
