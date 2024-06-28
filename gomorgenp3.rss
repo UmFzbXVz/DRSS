@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:18:13 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:04:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,26 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410264</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410264</link>
+      <title>Torsdag 27. jun. 2024</title>
+      <description>Så blev det dag fire for Andreas, der skal sende radio fra en vandcykel i en uge.
+I dag får han besøg af en ekspert i amerikansk politik, og det ender faktisk med at blive rigtig hyggeligt.
+Han skal også mødes med lidt af en legende indenfor cykelsport, men det er senere i programmet.
+Inden da skal vi tale om forsvarets budgetfejl, den synske abe og dagens dilemma.
+Værter: Mikkel Rosendal, Andreas Kousholt og Liva Manghezi.
+Medvirkende:
+Mads Dalgaard, USA-analytiker.
+Brian Holm, tidligere professionel cykelrytter.
+Mads Læbel, praktikant.</description>
+      <pubDate>Thu, 27 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410264/578c13c6417f7362b02f36c50efd004b46d6042341487dad337a6f5b20e0a562.mp3" type="audio/mpeg" length="254881522" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410263</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410263</link>

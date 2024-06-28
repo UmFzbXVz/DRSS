@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:17:36 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:04:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -298,24 +298,6 @@ Programansvarlig: Karen Albertsen.</description>
       <itunes:duration>00:37:29</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195717/d6a8837c5cb0bef2a92ea58a0ed473596bc5c5898041510b293cd69738c2800c.mp3" type="audio/mpeg" length="54001017" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195716</guid>
-      <link>https://www.dr.dk/lyd/p3/tvaers/tvaers-20211/tvaers-mads-et-skridt-ad-gangen-1-2-13332195716</link>
-      <title>Mads - Et skridt ad gangen 1:2</title>
-      <description>Mads er på vej ned for at styrketræne. Synet er sløret, imens han går dér med sportstasken over skulderen, men det er der ikke noget nyt i - Mads mistede som helt nyfødt synet på begge øjne. En udfordring han indtil nu har nægtet at lade sig begrænse af - men inden dagen er omme tager hans liv en drejning, der skal vise sig at kræve mere af hans fighter-gen end nogensinde før. 
-
-Medvirkende: Mads Brix Baulund.
-Klip og tilrettelæggelse: Morten Narvedsen.
-Vært: Line Kirsten Nikolajsen.
-Redaktør: Morten Narvedsen.
-Programansvarlig: Karen Albertsen.</description>
-      <pubDate>Sun, 27 Jun 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:35:07</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195716/ecee8c8b958cb7a620931ea01805cabe6c6b2c7d3ed8e3f9834040491af5655e.mp3" type="audio/mpeg" length="50585341" />
     </item>
   </channel>
 </rss>

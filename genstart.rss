@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:18:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:04:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802450262</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-boern-af-balletten-11802450262</link>
+      <title>Børn af balletten</title>
+      <description>Helt op på tå, kroppe strakt ud i overnaturlige stillinger og spring, der trodser tyngdekraften. Det ligner ren magi, men bag skønheden ligger der en mindre smuk historie. En historie, der nu ligger dokumenteret i en 183 siders tyk advokatundersøgelse. I kunstens navn har Den Kongelige Balletskole presset balletbørn til det yderste - og også ud over kanten. Med alvorlige konsekvenser til følge. I dagens Genstart fortæller tidligere balletbarn - og nu danser og koreograf ved Den Kongelige Ballet - Oliver Starpov om en kultur, der gennem generationer har fostret det ene brændte balletbarn efter det andet. 
+Vært: Simon Stefanski.</description>
+      <pubDate>Tue, 25 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802450262/2f3e88c8bc8c625c377c144be77e687d3bbac7ea027c2969ca006131eb45dcc2.mp3" type="audio/mpeg" length="32428681" />
+    </item>
     <item>
       <guid isPermaLink="false">11802450261</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-putins-skyggeflaade-11802450261</link>

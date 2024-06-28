@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:18:27 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:04:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -218,6 +218,19 @@ Vært: Tina Rømer.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463224/6ed1f62c1f6454bdab841ff27ad4b77fd552bfed77ab22bf455115acfbd4afeb.mp3" type="audio/mpeg" length="168482177" />
     </item>
     <item>
+      <guid isPermaLink="false">12422463096</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-fyldte-chokolader-12422463096</link>
+      <title>Fyldte Chokolader</title>
+      <description>Forstil dig en stor æske med guld udenpå. Når du åbner låget, gemmer der sig en smukt anlagt have fyldt med chokalder i form af musikalske overraskelser. Et par stykker af dem er Bela Lakatos &amp; The Gypsy Youth Project, Debussy, Shara Worden, Esma Redzepova og Mozart, der smelter på tungen. 
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 03 Mar 2024 03:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463096/70063c490423912f986363e69d6d53bdac6853ac6829c96897b0000dedd56d8d.mp3" type="audio/mpeg" length="168468935" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463087</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lys-12422463087</link>
       <title>Lys</title>
@@ -323,20 +336,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363243/cd1a8d2d144fda702a15762684069fa6a33335b4ff6ecaca250cacf822dbedf9.mp3" type="audio/mpeg" length="168480394" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363242</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-der-er-noget-i-luften-12422363242</link>
-      <title>Der er noget i luften</title>
-      <description>Jeg ved ikke hvad, men du får musik vævet af drømme, stjernestøv og stille toner, som leder dig blidt videre på din vej.
-Vært: Tina Rømer.
-(Sendt første gang 14. juni 2023).</description>
-      <pubDate>Wed, 14 Jun 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363242/4c05ad573cca2166fa43e55cc2db46c311cf3664386a7c7f4ab469b21f8c2cb1.mp3" type="audio/mpeg" length="172801528" />
     </item>
     <item>
       <guid isPermaLink="false">12422363236</guid>

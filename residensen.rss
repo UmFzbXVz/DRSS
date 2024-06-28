@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:17:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:04:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421264</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-tinderbox-13332421264</link>
+      <title>På Tinderbox</title>
+      <description>Værter: Nynne Givskov og Kasper Reippurt.</description>
+      <pubDate>Thu, 27 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421264/d3a92aee0719fa6edfdce9fe60becf478db3e0a3677496e3f8121fa6070736f5.mp3" type="audio/mpeg" length="172801966" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421262</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-hawk-tuah-13332421262</link>
@@ -208,18 +220,6 @@ Tlf. gæst: Jarl Friis-Mikkelsen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421231/c8fdc283a2d12c27d1292cf771d414a7bb1a16d41b745e9485669ea327712f60.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421223</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-med-josva-13332421223</link>
-      <title>Med JOSVA</title>
-      <description>"I'm working late, cause I'm a singeeeeeeeer", men hvorfor er det kun sangerne, der skal have alt spotlightet? Residensen hylder det arbejdende folk, der lytter med fra vagten på en sen onsdag aften. JOSVA er i studiet til en snak om I Made It-situationer og verdens mest rekvisit-tunge musikvideo. Velkommen indenfor!</description>
-      <pubDate>Wed, 29 May 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421223/2579cf3d69ce4c894434598290f37e68b5c6e0ed6c6e87def9af413e7dbffbdd.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>

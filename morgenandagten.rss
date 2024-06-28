@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:18:25 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:04:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405264</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405264</link>
+      <title>Torsdag 27. jun. 2024</title>
+      <description>Præludium:	Kjell Mørk Karlsen: Herre Gud, dit dyre navn og ære
+Fra det G.T.:	Salme 33, 1-12
+Salme: 7 "Herre Gud! Dit dyre navn og ære"
+Fra det N.T.:	Matthæusevangeliet 7, 12-14
+Korvers: Flemming Weis: Bed, så skal der gives jer (tekst: Matthæus 7,7)
+Salme: 379 "Der er en vej, som verden ikke kender"
+Postludium: Kaikhosru Sorabji: Variation X (fra Symphony nr. 2)</description>
+      <pubDate>Thu, 27 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405264/caae8f4bd65c00f348c99b8d5f27301b09b33a57c7896377f6bd1584358c8fc2.mp3" type="audio/mpeg" length="36001580" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405263</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405263</link>
@@ -456,24 +474,6 @@ Postludium	Flemming Christian Hansen: Gak ud, min sjæl, betragt med flid.</desc
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405224/23d8ae2e6bd390fa2b51d608b57f324bd6a656111267fa6a7e0c630458c037b0.mp3" type="audio/mpeg" length="36001578" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405223</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405223</link>
-      <title>Onsdag 29. maj 2024</title>
-      <description>Præludium: Johann Sebastian Bach: Vor Herre kom til Jordans flod.
-Fra det G.T.:	Jeremias 23,1-6.
-Salme: 141 "Mig lyster nu at træde".
-Fra det N.T.:	Matthæusevangeliet 3, 13-17.
-Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837.
-Salme: 56 "Jesus er navnet mageløst".
-Postludium: Tobias Dahl: Aria.</description>
-      <pubDate>Wed, 29 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405223/2415fc68b0fc354a41bfa1c5805cc8f4ccacd338501db00b15151105d3400ce9.mp3" type="audio/mpeg" length="36001585" />
     </item>
   </channel>
 </rss>

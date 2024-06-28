@@ -9,7 +9,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:18:25 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:04:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Produceret for DR af Munck Studios København.</description>
     <category>TV &amp; Film</category>
     <itunes:category text="TV &amp; Film" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122415266</guid>
+      <link>https://www.dr.dk/lyd/special-radio/verdens-bedste-film/verdens-bedste-film-2024/verdens-bedste-film-the-shining-med-jasper-spanning-16122415266</link>
+      <title>The Shining med Jasper Spanning</title>
+      <description>"Det er ikke verdens bedste film, men det er uden tvivl verdens bedste gyserfilm!" siger filmfotograf Jasper Spanning om Stanley Kubricks kultklassiker "The Shining" fra 1980. Birgitte Hjort Sørensen sidder for sidste gang i værtssofaen, inden stafetten går videre, denne gang skræmt fra vid og sans af, hvad hun kalder "den uhyggeligste film, hun nogensinde har set."
+
+Vært: Birgitte Hjort Sørensen.
+Gæst: Jasper Spanning.
+Redaktion: Olivia Keblovszki, Jens Malthe Næsby og Rune Born Schwartz.
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Fri, 28 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:13</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122415266/214d432965e592546639e3b34edb2628245383479bdb5a774954ff2475d4201b.mp3" type="audio/mpeg" length="80975108" />
+    </item>
     <item>
       <guid isPermaLink="false">16122415256</guid>
       <link>https://www.dr.dk/lyd/special-radio/verdens-bedste-film/verdens-bedste-film-2024/verdens-bedste-film-gladiator-med-frederik-hviid-16122415256</link>

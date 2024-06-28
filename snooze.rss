@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:17:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:04:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,25 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428264</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-360-graders-musik-18452428264</link>
+      <title>360 graders musik</title>
+      <description>Det københavnske spillested Vega eksperimenterer for tiden med et nyt lydsystem til koncerterne på scenen Idealbar. Musikken kommer ikke bare fra scenen, men bagfra, fra siderne og fra oven. En 3D surround-oplevelse, som kommer til at give en helt ny, omsluttende og immersiv koncertoplevelse. Vi taler med Vegas tekniske chef Kevin le Geyt.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen.
+Medvirkende: Kevin le Geyt; Teknisk chef på Vega
+Maria Frtizel; Reporter og praktikant på P8 Jazz
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked.</description>
+      <pubDate>Thu, 27 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428264/936e07b9b6935c9df55667ddc4cdae47a5d327dc1f99e0a64a7127aeb6887832.mp3" type="audio/mpeg" length="252002177" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428263</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428263</link>
@@ -369,27 +388,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428224/a5459855517503a100b4fb0ecbcf57270a7ea2c966518416e9f9c67e8ad88696.mp3" type="audio/mpeg" length="252002189" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428223</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-finale-i-jazzkonkurrencen-18452428223</link>
-      <title>Finale i Jazzkonkurrencen</title>
-      <description>Jazzkonkurrencen er et talentprogram for unge, danske jazzmusikere, som drømmer om at leve af og med musikken. I løbet af nogle måneder har tre orkestre spillet over hele landet, og den stort anlagte finale løber i aften af stablen på Montmartre i København. Vi lytter til de nye stjerneskud, og kigger også på nogle af tidligere års vindere.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende:
-Hannah Vingborg, pianist i Vingborg/Valencia.
-Morten Heide, synth i Udsyn.
-Ronja Rose Andersson, saxofon og vokal i Musvit.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Wed, 29 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428223/d6c42315cf6acc778712a13fd2f3e64d1062e3c02e59610354ac7849e1954df1.mp3" type="audio/mpeg" length="252002188" />
     </item>
   </channel>
 </rss>
