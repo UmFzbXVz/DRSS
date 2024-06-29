@@ -10,7 +10,7 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 06:09:27 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 15:15:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Spækket med musikalsk vellyd uanset om programmet bliver sendt fra et studie i 
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122481266</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-den-store-sommerferieafslutning-16122481266</link>
+      <title>Den store sommerferieafslutning</title>
+      <description>Så står den sgu på sommerferieafslutning i Vistis Vinyler der vender først vender tilbage igen d. 7. September.
+Meeen du skal ikke snydes for en række brasilianske hits, nogle 4 to the floor beatmix, nogle fede danske 80'er tracks og lidt italiensk funket prog rock fra 77 får du sørme også.
+Med andre ord: en velsmurt madpakke som bare smager af mere!</description>
+      <pubDate>Sat, 29 Jun 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:54:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122481266/4d6c2023060ee9fec64ab49298e2bb50af8ccbe632114f644a165d9d42bd46a5.mp3" type="audio/mpeg" length="164245706" />
+    </item>
     <item>
       <guid isPermaLink="false">16122481256</guid>
       <link>https://www.dr.dk/lyd/p8jazz/vistis-vinyler/vistis-vinyler-2024/vistis-vinyler-bangin-balearic-16122481256</link>
