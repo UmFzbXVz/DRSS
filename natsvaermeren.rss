@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:04:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463265</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-blue-12422463265</link>
+      <title>Blue</title>
+      <description>Aftenen er blå, natten er sort, og Natsværmeren fanger dig lige der i det blåsorte lys og i stemningen der matcher. Elis Regina, Ravel og Bernard Herrmann er nogle af de stemmer du får at høre, sammen med nattergalen og lyden af byen der aldrig sover.
+Vært: Tina Rømer.</description>
+      <pubDate>Sat, 29 Jun 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463265/4750b539c9cfdd874147eabdb3f2d4f7c56621b2004ea017394a1b0dc6103705.mp3" type="audio/mpeg" length="168475262" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463257</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-mellem-linjerne-12422463257</link>
@@ -256,20 +269,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:45:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463086/a504391402accaa0d331fa6fd1acaf5357a93337cf1ddc667c95e5a89d62b029.mp3" type="audio/mpeg" length="151201604" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463082</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-droemmenes-holdeplads-12422463082</link>
-      <title>Drømmenes holdeplads</title>
-      <description>Hvad er drømme skabt af? Natsværmeren giver et bud via musikkens åbne svar.
-Vært: Minna Grooss.
-(Sendt første gang 21. februar).</description>
-      <pubDate>Wed, 21 Feb 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:30:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463082/57847c7bfffe4e505116c31111f7917dededba1f1725bac101b1fcb4c8b3667e.mp3" type="audio/mpeg" length="129601482" />
     </item>
     <item>
       <guid isPermaLink="false">12422363292</guid>

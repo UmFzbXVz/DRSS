@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:04:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332425265</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-13332425265</link>
+      <title>Fredag 28. jun. 2024</title>
+      <description>Vi får din største drøm til at gå i opfyldelse... og hvis ikke vi kan komme helt i mål, så gør vi alt for at komme så tæt på som muligt. Hverdage 9-12 sætter alle P3's lyttere og vært Nicolas Kaiser sig for at gøre en forskel i dit liv og opfylde din drøm.</description>
+      <pubDate>Fri, 28 Jun 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425265/565e28116ab5a77341207a1cd5eaec989874b1d84fed1b77e9c4315974070e73.mp3" type="audio/mpeg" length="254881603" />
+    </item>
     <item>
       <guid isPermaLink="false">13332425264</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-en-blaeret-lastbil-og-en-pung-i-istanbul-13332425264</link>
@@ -67,21 +79,6 @@ Og nu hvor der er landskamp i aften, kan vi jo ikke undgå at køre en EM-drøm.
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425262/f13358c28f2dd860da815b6f6bf7650fdeb22742f4f10af3e6e474fddb268ddb.mp3" type="audio/mpeg" length="254881603" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425261</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-vores-kondomer-skal-hedde-cream-team-13332425261</link>
-      <title>Vores kondomer skal hedde "Cream Team"</title>
-      <description>Prøv at forestil dig, at det var din drøm, vi opfyldte i morgen! Send den til p3drommer@dr.dk - husk dit telefonnummer.
-Camilla drømmer om at køre appelsiner fra Spanien til Danmark. Ikke bananer. Ikke æbler. Appelsiner. Fra Spanien. Til Danmark. Det er mærkeligt. Det er specifikt. Det er præcis, som vi kan lide det.
-Studentertiden er lige om hjørnet, og vores næste lytter Martin skal derfor til en masse gilder. Og selv om han er pisse klar til at feste og forhåbentlig uddele et par lyn til huerne, mangler han lige én ting for at klare sidste del. Nemlig en rulle ekstra fede kondomer. Det udvikler sig hurtigt til en fælles drøm. Vi skal nemlig lave Drømmeholds-kondomer til Martin og resten af Drømmeholdet!
-Til sidst skal vi gøre op for fredagens mislykkede drømmeopfyldelse. Arthur drømte om et safehouse på Ibiza. Vi troede vi havde den, men lytteren sprang fra. Derfor drømmer Arthur stadig om et safehouse på Ibiza.</description>
-      <pubDate>Mon, 24 Jun 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425261/82a41d16322e94baf9210a7d0b339b24e8420c068c94fb4bc358428e95867e24.mp3" type="audio/mpeg" length="254881608" />
     </item>
   </channel>
 </rss>

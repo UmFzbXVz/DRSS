@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:04:26 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,27 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332410265</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410265</link>
+      <title>Fredag 28. jun. 2024</title>
+      <description>Vi kan ikke få fat på Andreas, der ellers burde sidde klar i en vandcykel udformet som en svane. Det viser sig, at han simpelthen er fløjet sydpå.
+Liva har en historie om nyrer og biler, mere siger hun ikke, så lyt med for at finde ud af, hvad det handler om.
+Vi siger tak til TV 2, der endelig har givet restaurationsbranchen lov til at vise EM.
+Vores ellers altid fornuftige og lækre producer har glemt solcremen, så nu ligner han noget, der er løgn. Og han glemmer den faktisk hvert år, så nu må det stoppe. Liva har metoden til at få mændene til at huske at smøre sig ind: Det skal være BOIS!!!!
+Vi skal finde ud af, hvad årets camphit bliver på festivalerne, så vi har hevet to eksperter ind.
+Og så siger vi farvel og på gensyn. Der er mere Go' Morgen P3 i august. Men bliv hængende på P3, hvor du hele sommeren kan høre en masse fed radio.
+Værter: Mikkel Rosendal og Liva Manghezi.
+Medvirkende:
+Lau Bøllingtoft, camp Lalandia.
+Emil Gade, Camp Morgenkåbe.</description>
+      <pubDate>Fri, 28 Jun 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410265/f19f0d1197bf89fac380dee3b65b7d3e24bc49bdc483c72444b4db995df09570.mp3" type="audio/mpeg" length="254881590" />
+    </item>
     <item>
       <guid isPermaLink="false">13332410264</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410264</link>
@@ -79,20 +100,6 @@ Reporter Mads Læbel.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410262/31015b719b238872e5e7a6e445ec30f493b39543a8967bfd23a46ef630e98ac4.mp3" type="audio/mpeg" length="254881595" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410261</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410261</link>
-      <title>Mandag 24. jun. 2024</title>
-      <description>Vi er nået til afviklingen af næste EP-valgs straf. Andreas Kousholt sender derfor fra en vandcykel. Derudover står den på krig i kommentarsporet og en særudgave af Du er ikke alene.
-Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
-Medvirkende: Allan Nielsen, der er naturvejleder og fugleekspert.</description>
-      <pubDate>Mon, 24 Jun 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410261/34c2445982814a84b6ac00782c7efeade3c9a0e1043fd631d59645c0a173970e.mp3" type="audio/mpeg" length="254882098" />
     </item>
   </channel>
 </rss>

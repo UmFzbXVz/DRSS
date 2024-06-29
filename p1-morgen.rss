@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:04:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433265</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433265</link>
+      <title>Fredag 28. jun. 2024</title>
+      <description>Hvem har ansvaret for at gammel forurening fra FMC siver ud i Limfjorden? Hvilken straf har den 33-årige udsigt til, skulle han blive kendt skyldig?  Hvad betyder valget af ny præsident for iranerne.
+
+Dagens værter var Anne Kristine Hermansen og Bjarne Steensbeck.</description>
+      <pubDate>Fri, 28 Jun 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:32</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433265/937e8ef9b80cfdbaaa593298155f884aa721858479d704d4a07268a9e370d595.mp3" type="audio/mpeg" length="236940129" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433264</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433264</link>
@@ -1848,19 +1861,6 @@ Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:12</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433012/969d357232d3bafb942358b560aa6c903cd048f495f9e6543c2e10b3a994ce8d.mp3" type="audio/mpeg" length="236458017" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433011</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433011</link>
-      <title>Mandag 1. jan. 2024</title>
-      <description>Efter mere end fem årtier på tronen har dronning Margrethe altså besluttet at abdicere. Hvad er gået forud for Dronning Margrethes stop?
-Dronningens bebudede afgang har skabt overskrifter i hele verden. Ikke mindst i Storbritannien, hvor der ligesom i Danmark er stor opbakning til den royale familie. Hvor meget fylder Dronningens abdicering i britiske medier? 
-Kronprins Frederik overtager tronen den 14. januar - og med på sidelinjen har han jo så Kronprinsesse Mary, der går fra at være kronprinsesse til at blive dronning - hvilken rolle kommer hun til at spille for Frederik?</description>
-      <pubDate>Mon, 01 Jan 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:40:12</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433011/a03e9af52339fbef22511bbd895e7c25ea070e4b1323102ceaf70134c49f71fe.mp3" type="audio/mpeg" length="144293409" />
     </item>
   </channel>
 </rss>

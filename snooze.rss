@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:04:12 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Vært: Julian Svejgaard.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452428265</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-vi-lyttes-ved-igen-18452428265</link>
+      <title>Vi lyttes ved igen</title>
+      <description>Sæsonen er slut og Snooze drager på ferie. I dagens program kigger vi derfor frem på sommerens mange jazzfestivaler og giver vores bedste anbefalinger på, hvad du kan opleve de kommende måneder. Snooze er tilbage til dine morgener 12. august.
+Vært og tilrettelægger: Julian Svejgaard.
+Redaktør: Kasper Christensen
+Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
+Mail: p8jazz@dr.dk
+SMS: 1212, skriv jazz, mellemrum og din besked.</description>
+      <pubDate>Fri, 28 Jun 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428265/b18b48be61b8f5dd9bcc76da32ca3187d1549a4687a8e2fecd1b4740ebad20c8.mp3" type="audio/mpeg" length="252001609" />
+    </item>
     <item>
       <guid isPermaLink="false">18452428264</guid>
       <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-360-graders-musik-18452428264</link>
@@ -370,24 +387,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428225/8c9a0b3aad9a2bc009d0de6f5a9823a60ef2d2354066733740ecf58910193ebc.mp3" type="audio/mpeg" length="252002180" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428224</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-se-det-for-dig-ida-rud-og-den-jazzede-filmmusik-18452428224</link>
-      <title>Se Det For Dig - Ida Rud og den jazzede filmmusik</title>
-      <description>Et nyt program på P8 er født, og det handler om al den fede jazz og soul, man kan høre på det store lærred. Programmet hedder Se Det For Dig, og vi får denne morgen besøg af vært og tilrettelægger Ida Rud til en snak om de store toner i filmmusikkens jazz.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende: Ida Rud, vært og tilrettelægger på Se Det For Dig.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Thu, 30 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428224/a5459855517503a100b4fb0ecbcf57270a7ea2c966518416e9f9c67e8ad88696.mp3" type="audio/mpeg" length="252002189" />
     </item>
   </channel>
 </rss>

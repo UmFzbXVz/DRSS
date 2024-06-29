@@ -9,7 +9,7 @@ Andrew Moyo har dig. Kom nu!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:04:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Andrew Moyo har dig. Kom nu!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332429265</guid>
+      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-spice-pigerne-13332429265</link>
+      <title>Med Spice-pigerne</title>
+      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
+Andrew Moyo har dig. Kom nu!</description>
+      <pubDate>Fri, 28 Jun 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429265/a652da0d2ad75e6a3bc4d480051e9c937921e8964266137a88495c7b83dd9e7e.mp3" type="audio/mpeg" length="172801473" />
+    </item>
     <item>
       <guid isPermaLink="false">13332429255</guid>
       <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-13332429255</link>

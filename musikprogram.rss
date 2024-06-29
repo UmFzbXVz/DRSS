@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:03:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332423265</guid>
+      <link>https://www.dr.dk/lyd/p3/musikchefen/musikchefen-2024/musikchefen-rose-og-undertoej-og-sommer-13332423265</link>
+      <title>Rosé &amp; undertøj &amp; sommer</title>
+      <description>Sidste runde 'Musikchefen' inden sommerferien kaster en ferie-drømmende 'P3's Uundgåelige' af sig, vi smager på et samarbejde mellem Camila Cabello og Drake, der er tilbagelænet solskins-rap fra Vejle - og så er Mathias Buch sgu blevet forelsket i en helt særlig dansk duet.
+Medvirkende:
+Camila Cabello.
+Sofie1998.</description>
+      <pubDate>Fri, 28 Jun 2024 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332423265/efcd925762493198776c5b21981abcf45ea2bf75152a0bce27a94d1ac21e4be8.mp3" type="audio/mpeg" length="172802177" />
+    </item>
     <item>
       <guid isPermaLink="false">13332423255</guid>
       <link>https://www.dr.dk/lyd/p3/musikchefen/musikchefen-2024/musikchefen-musikalsk-tequila-shot-og-gode-dage-at-doe-paa-13332423255</link>

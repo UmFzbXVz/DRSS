@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:04:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405265</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405265</link>
+      <title>Fredag 28. jun. 2024</title>
+      <description>Præludium:	Dietrich Buxtehude: Min sjæl, du Herren love
+Fra det G.T.:	Salme 33, 13-22
+Salme: 12 "Min sjæl, du Herren love"
+Fra det N.T.:	Matthæusevangeliet 7, 15-23
+Korvers: Flemming Weis: Bed, så skal der gives jer (tekst: Matthæus 7,7)
+Salme: 339 "Vort liv blev reddet" 
+Postludium: Dietrich Buxtehude: Min sjæl, du Herren love</description>
+      <pubDate>Fri, 28 Jun 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405265/661b603ce2706d87c3ed08d8f848bebd56180a70a804eb157fd2d720c60221c8.mp3" type="audio/mpeg" length="36001580" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405264</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405264</link>
@@ -456,24 +474,6 @@ Postludium: Carl Nielsen: Tågen letter.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405225/29a0d0db20dd4efa84862654b5b033a9657af40655223730396fc7e17814f9bb.mp3" type="audio/mpeg" length="36001581" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405224</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405224</link>
-      <title>Torsdag 30. maj 2024</title>
-      <description>Præludium:	Christian Vestergaard-Pedersen: Gak ud, min sjæl, betragt med flid.
-Fra det G.T.:	Jeremias 23,16-24.
-Salme: 726, vers 1-6 "Gak ud min sjæl, betragt med flid".
-Fra det N.T.:	Matthæusevangeliet 4,1-11.
-Korvers: Johann Sebastian Bach: Vor Herre kom til Jordans flod (tekst: Luther 1524, Grundtvig 1837.
-Salme: 726, vers 7-8.
-Postludium	Flemming Christian Hansen: Gak ud, min sjæl, betragt med flid.</description>
-      <pubDate>Thu, 30 May 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405224/23d8ae2e6bd390fa2b51d608b57f324bd6a656111267fa6a7e0c630458c037b0.mp3" type="audio/mpeg" length="36001578" />
     </item>
   </channel>
 </rss>

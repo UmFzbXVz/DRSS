@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 28 Jun 2024 06:04:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 06:09:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450244</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-13652450244</link>
+      <title>Lille Danmark mod mægtige Tyskland</title>
+      <description>Danmark møder i aften Tyskland i ottendedelsfinalen ved EM. I dagens afsnit af Tyvstart laver vi en duel mellem kommentatorne, hvor Mathias Jacobsen og Kenneth Møller Pedersen repræsenterer hver sin nation og argumenterer for, hvem der er bedst på de forskellige positioner. 
+Derudover vender vi også, hvad vi kan forvente af Jonas Vingegaard i første etape af Tour de France. 
+Vært: Rikke Smed.</description>
+      <pubDate>Sat, 29 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450244/19e1b55381493ab982213c9546f9831da15e973805b15358b7b21fa9d5a5d2c9.mp3" type="audio/mpeg" length="32185497" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450129</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-pogacar-er-stoerre-favorit-end-vingegaard-13652450129</link>
