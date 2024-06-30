@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 15:15:23 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:07:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -369,24 +369,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428231/bc4f1a9a61273f33650008d4426dc7e46af35e7ced4d8d889d33efdce4651f26.mp3" type="audio/mpeg" length="252002165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428225</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-en-musikalsk-smeltedigel-i-ugens-album-18452428225</link>
-      <title>En musikalsk smeltedigel i Ugens Album</title>
-      <description>Ugens album på P8 kommer fra den stærkt anmelderroste dansk-koreanske guitarist Ki!. Albummets titel, Yong-Gwanglo, betyder "smeltedigel" på koreansk, og rummer netop et smukt sammensurium af genrer og inspirationer fra vidt forskellige kilder. Vi har kunstneren bag i studiet til en snak om musik, der går på tværs af identiteter.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende: Christian Ki Dall, guitarist og kunster bag ugens album på P8.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Fri, 31 May 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428225/8c9a0b3aad9a2bc009d0de6f5a9823a60ef2d2354066733740ecf58910193ebc.mp3" type="audio/mpeg" length="252002180" />
     </item>
   </channel>
 </rss>

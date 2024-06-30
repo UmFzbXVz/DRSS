@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 15:15:43 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:07:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -84,22 +84,6 @@ Camilla, boldhovedholder i Tyskland.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410263/f73011db3ad60c5dba1c103a68d05e8e96ab4945b5addccdbc4604996c72145b.mp3" type="audio/mpeg" length="254882172" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410262</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410262</link>
-      <title>Tirsdag 25. jun. 2024</title>
-      <description>Andreas Kousholt sender igen i dag fra en vandcykel formet som en svane. Derudover står den på kæmpe landskampsstemning. Vi skal bl.a. se, om chimpanserne i Zoo for tredje gang i træk kan forudse resultatet af Danmarks kamp.
-Værter: Mikkel Rosendal, Liva Manghezi og Andreas Kousholt.
-Medvirkende:
-Svend Rybner, fodboldhistoriker.
-Reporter Mads Læbel.</description>
-      <pubDate>Tue, 25 Jun 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410262/31015b719b238872e5e7a6e445ec30f493b39543a8967bfd23a46ef630e98ac4.mp3" type="audio/mpeg" length="254881595" />
     </item>
   </channel>
 </rss>

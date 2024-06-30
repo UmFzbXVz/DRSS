@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 15:15:27 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:07:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802450263</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-doeden-naer-11802450263</link>
+      <title>Døden nær</title>
+      <description>Da en 20-årig terminal syg patient sidder overfor Stine Clemmensen og spørger, hvornår han skal dø, nænner hun ikke at tage håbet fra ham. Med sin tavshed frarøver hun ham i stedet muligheden for at få fred i den sidste tid. Den unge patient og de mange andre patienter i alle aldre, der holdes i live med halsbrækkende behandlinger og som dør i ufred, har fået hende til at stifte projektet "Samtaler om Liv og Behandling" for at træne læger i at tale om døden, før den indtræffer. Men når Mette Frederiksen taler om en værdig død, er løsningen en helt anden og det gør Stine Clemmensen nervøs. I dag gæster hun Genstart for at tale om, hvor langt man skal gå for at give et menneske den død, de selv ønsker.
+Vært: Simon Stefanski.</description>
+      <pubDate>Wed, 26 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:50</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802450263/b591f12750ad3aa9b2ff9d0b11c4a37bbdd4839046c9f63fa5b5382294b34f94.mp3" type="audio/mpeg" length="35766597" />
+    </item>
     <item>
       <guid isPermaLink="false">11802450262</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-boern-af-balletten-11802450262</link>
@@ -9650,20 +9663,6 @@ Vært: Simon Stefanski.</description>
       <itunes:duration>00:25:43</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150129/3a93ffcd9fdb89687a2e4c22f65104965dece81e6f29ffa31f842e5f0f35593d.mp3" type="audio/mpeg" length="37033798" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150128</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-de-glemte-fra-godhavn-11802150128</link>
-      <title>De glemte fra Godhavn</title>
-      <description>Johnny Krøl Clausen er en af de mange drenge, der blev udsat for vold, ydmygelser, overgreb og medicinske forsøg på børnehjemmet Godhavn i slutningen af 1960'erne. 
-I august 2019 får Johnny og de andre Godhavnsdrenge en undskyldning fra statsminister Mette Frederiksen. Men nu - godt to år senere - må Johnny og 27 andre Godhavnsdrenge stævne staten, for at omsætte undskyldningen til en konkret erstatning. Dét på trods af, at staten allerede har lagt sig ned, og udbetalt erstatning til 17 andre tidligere Godhavnsdrenge med samme oplevelser som Johnny. Hvilke konsekvenser vil det få for dem? Det spørger Genstart Johnny Krøl Clausen om.
-Vært: Knud Brix.</description>
-      <pubDate>Tue, 29 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:26:20</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150128/9004afed01bdec5663f29bbb4bd46e430adfbb45a2dc55ab9c85659bd9dedf0e.mp3" type="audio/mpeg" length="37939273" />
     </item>
     <item>
       <guid isPermaLink="false">11802050164</guid>

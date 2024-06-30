@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 15:15:37 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:07:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450245</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tordenskyer-over-dansk-fodbold-13652450245</link>
+      <title>Tordenskyer over dansk fodbold</title>
+      <description>Danmark er ramt af EM-tømmermænd, efter landsholdet er røget ud af slutrunden. For med et 2-0 nederlag til værtsnationen Tyskland er danskernes drøm om endnu en berusende fodboldsommer knust.Har EM været en fiasko for Danmark? Hvad skulle holdet have gjort anderledes? Og trænger landsholdet til forandringer efter slutrunden? Det får du svaret på i dagens afsnit af Tyvstart.Vært: Thomas Loft.</description>
+      <pubDate>Sun, 30 Jun 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:50</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450245/900aaf53f9104589102047b6884efcb84e4a56f4a5b257239b81f4298c90aed0.mp3" type="audio/mpeg" length="27135803" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450244</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-13652450244</link>

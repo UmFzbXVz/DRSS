@@ -9,7 +9,7 @@ Vært: Lonnie Kjer.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 15:15:10 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:07:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Lonnie Kjer.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452436326</guid>
+      <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-peter-gabriel-15452436326</link>
+      <title>Peter Gabriel</title>
+      <description>I 'Stjernestøv' får du 2 timer med fokus på én særlig kunstner: Højdepunkt, lavpunkt, vendepunkt og anekdoter om hits og alt dét indimellem fra de sangere, 'vi' voksede op med.  
+Vært: Lonnie Kjer.</description>
+      <pubDate>Sat, 29 Jun 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452436326/8dfb1dcfdd300594b78822181a8a42283f16d2061892d531a4e0671ccd487882.mp3" type="audio/mpeg" length="168482119" />
+    </item>
     <item>
       <guid isPermaLink="false">15452436236</guid>
       <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-barbra-streisand-15452436236</link>

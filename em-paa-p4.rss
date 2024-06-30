@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 15:15:25 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:08:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,18 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652404266</guid>
+      <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404266</link>
+      <title>Lørdag 29. jun. 2024</title>
+      <description>Alle kampe og alle mål hele vejen til finalen. Direkte fra havnen i Aarhus. Auf geht's.</description>
+      <pubDate>Sat, 29 Jun 2024 18:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>04:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404266/7f4408169325bd5484f38d6b0381841cd7a5b7d59dfd34a103614967924486b4.mp3" type="audio/mpeg" length="427681420" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652404263</guid>
       <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404263</link>
       <title>Onsdag 26. jun. 2024</title>
@@ -36,19 +48,6 @@
       <itunes:duration>05:00:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404263/6cd4e6a995ca3c4ccf67b1e61132945a0a4aa58e169f51ef9c41fac21b5b7238.mp3" type="audio/mpeg" length="432085516" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652404262</guid>
-      <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404262</link>
-      <title>Tirsdag 25. jun. 2024</title>
-      <description>Alle kampe og alle mål hele vejen til finalen. Direkte fra havnen i Aarhus. Auf geht's.
-Værter: Alberte Røhl og Thomas Loft.</description>
-      <pubDate>Tue, 25 Jun 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>04:54:58</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404262/3dbff824ab2fec6b3cb2a8b4268194351a7dc13a91e5d47c3cd561716c5ce35a.mp3" type="audio/mpeg" length="424770354" />
     </item>
   </channel>
 </rss>

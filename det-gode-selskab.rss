@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 15:15:24 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:07:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -51,19 +51,6 @@ Vært: Charlotte Hagen Striib.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428263/ed934d07e67be4ba36e4f8d7a4277aebaaaf0f88cf6860373fe704bc3bc2b007.mp3" type="audio/mpeg" length="168481605" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428262</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-steen-zoffmann-15452428262</link>
-      <title>Med Steen Zoffmann</title>
-      <description>Da tidligere sømand, Steen Zoffmann, gik i land og på pension, begyndte han at bygge små træskibe til loftsudsmykning i kirker. Ikke alle, men især kirkerne ved vores kyster, har et kirketræskib - ikke at forveksle med bygningsdelen, kirkeskibet. 
-Vært: Charlotte Hagen Striib.</description>
-      <pubDate>Tue, 25 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428262/e6dbeae2327878e75b5330c7ffbb0a67cfbb00d0e90090a7988b6fa26506bfee.mp3" type="audio/mpeg" length="168481605" />
     </item>
   </channel>
 </rss>

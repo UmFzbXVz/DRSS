@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 29 Jun 2024 15:15:22 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:07:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421266</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-tinderbox-13332421266</link>
+      <title>På Tinderbox</title>
+      <description>Værter: Nynne Givskov og Kasper Reippurt.</description>
+      <pubDate>Sat, 29 Jun 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421266/5e0c2dd785201236cdc79f8456b6992201910b78f2c48abb60ccdfa4f7f0116f.mp3" type="audio/mpeg" length="172801966" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421265</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-tinderbox-13332421265</link>
