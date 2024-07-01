@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:08:09 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463267</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sitrende-12422463267</link>
+      <title>Sitrende</title>
+      <description>Det syder og bobler når Debussy, og andre med følelserne uden på tøjet sætter natten i omdrejninger.
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 01 Jul 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463267/6bfe5dc346ac3f387f3ffd4fc547bd9c0b8aa280cc49498157c24faa093f93e0.mp3" type="audio/mpeg" length="168479742" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463266</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-droemmerejser-12422463266</link>
@@ -254,20 +267,6 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463086</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-komma-i-natten-12422463086</link>
-      <title>Et komma i natten</title>
-      <description>En sværm af musik fra hele verden blander sig i Natsværmeren som et komma i nattens tankemylder. Anouar Brahem, Louise Schrøder, Tarkovsky Quartet &amp; Francois Couturier, Hildegard von Bingen, Hvalfugl og Martyna Basta sætter scenen.
-Vært: Minna Grooss.
-(Sendt første gang 25. februar).</description>
-      <pubDate>Sun, 25 Feb 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463086/a504391402accaa0d331fa6fd1acaf5357a93337cf1ddc667c95e5a89d62b029.mp3" type="audio/mpeg" length="151201604" />
     </item>
     <item>
       <guid isPermaLink="false">12422363292</guid>

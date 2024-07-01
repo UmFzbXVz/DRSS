@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:07:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -89,22 +89,6 @@ Produceret for DR af MonoMono.</description>
       <itunes:duration>01:53:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423236/c2fc2a796ced03b21089aea20446bf015d42464e6e1be52dbde417b81e09cee4.mp3" type="audio/mpeg" length="162797643" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122423226</guid>
-      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-premiere-16122423226</link>
-      <title>Premiere</title>
-      <description>I premieren på programmet fortæller Alban om sin kærlighed til Romeo &amp; Julie balletten, og Alex fortæller om et stykke af Debussy, der har fulgt ham siden han lærte at spille klaver. Samtalerne handler om også om hvorfor den enkeste musik og den enkleste dans kan være det sværeste at udføre. 
-
-Værter: Alban Lendorf, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
-Producer og redaktør: Rune Sparre Geertsen.
-Produceret for DR af MonoMono.</description>
-      <pubDate>Sat, 01 Jun 2024 15:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:53:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423226/fd1d21e77246f78a66ad21df3e442c736cd2de4be20a0b4e07d3689ecb5219b7.mp3" type="audio/mpeg" length="162816652" />
     </item>
   </channel>
 </rss>

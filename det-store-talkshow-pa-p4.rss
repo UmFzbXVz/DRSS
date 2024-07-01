@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:07:39 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -84,21 +84,6 @@ Jørgen Klubien: Musiker, sangskriver og sanger Jørgen Klubien har i mange år 
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440236/01d88a941f7b45e3ee98455dab8ed4d0d16950f275f69572ba4c16ac526d00c3.mp3" type="audio/mpeg" length="168481604" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452440226</guid>
-      <link>https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/det-store-talkshow-15452440226</link>
-      <title>Lørdag 1. jun. 2024</title>
-      <description>Lise Baastrup: Hun er skuespiller og har blandt andet været med i serierne Rita og Orkestret samt tre år på scenen i Cirkusrevyen på Bakken. Og nu er hun aktuel i TV2-krimiserien Sommerdahl. 
-Anders Kofoed: Biolog og forfatter Anders Kofoed har netop udgivet bogen "Den nødvendige far", hvor han formidler al viden om fædres biologi. Hvad sker der i dyreverden, når et dyr bliver far? Og hvordan kan de erfaringer bruges i vores verden? 
-Merete Mærkedahl: Skuespiller Merete Mærkedahl har blandt andet været med i Badehotellet, og lige nu er hun for fjerde gang med på scenen i den ikoniske Cirkusrevyen på Bakken.
-Værter: Cecilie Hother og David Mandel.</description>
-      <pubDate>Sat, 01 Jun 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440226/18a5a5629d8dfd7e14e1085438fa2ec4ed7493e50e1ad5cb747b48c60ff4502f.mp3" type="audio/mpeg" length="168482175" />
     </item>
   </channel>
 </rss>

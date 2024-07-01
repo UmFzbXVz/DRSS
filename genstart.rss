@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:07:55 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802450264</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-klik-mod-krig-11802450264</link>
+      <title>Klik mod krig</title>
+      <description>Pakket ind i hurtige slogans og grafiske firkanter, flytter politiske budskaber og aktivistiske agendaer ind på Instagram. Her rejser grufulde nyheder om hungersnød, vold og krig under et enkelt hashtag frem til flere millioner brugere med samme holdninger. Med et lynhurtigt klik, kan du reposte, videredele - og opfordre til våbenhvile og boykot. Det er nemmere end nogensinde at tilkendegive sin holdning, men afskrækker det også folk fra at deltage i debatten? I dagens Genstart fortæller debattør Nafisa Fiidow om, hvordan hun selv har bidraget til det hun kalder en usund debatkultur på sociale medier, hvor kritiske spørgsmål mutes og beskyldninger camoufleres under anonyme profiler.
+Vært: Annika Wetterling.</description>
+      <pubDate>Thu, 27 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802450264/3f1986cb275a9f13affa987c209a5a5fa162db501a3b591caaa067a58f6fe3e7.mp3" type="audio/mpeg" length="33682050" />
+    </item>
     <item>
       <guid isPermaLink="false">11802450263</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-doeden-naer-11802450263</link>
@@ -9649,20 +9662,6 @@ Vært: Simon Stefanski.</description>
       <itunes:duration>00:22:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150130/4bf3de582292338bf0d982e6688c24571c57725eb1ef9ca8ad16e1647dfc38f8.mp3" type="audio/mpeg" length="32273736" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150129</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-antivirushelt-11802150129</link>
-      <title>Antivirushelt</title>
-      <description>John McAfee opfinder i 1980'erne verdens første antivirus program og får både fans og millioner på kontoen. Men en årelang deroute med paranoia, misbrug og et harem i den mellemamerikanske jungle, ender i en arrestordre fra de amerikanske myndigheder for skattesvindel. Og pludselig, for en uge siden, findes den skandaleombruste tech-guru McAfee død i en spansk fængselscelle. Ifølge spanske myndigheder var det selvmord. En dødsårsag, som hans pårørende stærkt betvivler. 
-Vi spørger tech-journalist Frederik Kulager om, hvad vi kan lære af historien om apokalyptiske McAfee.   
-Vært: Simon Stefanski.</description>
-      <pubDate>Wed, 30 Jun 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:43</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150129/3a93ffcd9fdb89687a2e4c22f65104965dece81e6f29ffa31f842e5f0f35593d.mp3" type="audio/mpeg" length="37033798" />
     </item>
     <item>
       <guid isPermaLink="false">11802050164</guid>

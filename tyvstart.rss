@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:07:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450130</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-danskere-paa-graes-og-vanvittige-vingegaard-13652450130</link>
+      <title>Danskere på græs og vanvittige Vingegaard</title>
+      <description>Dagens afsnit af Tyvstart bliver det første af flere, som går under navnet tretrinsraketten.
+Det er episoder, hvor vi både skal forbi Wimbledon, EM og Tour de France. 
+Derfor udlægger vi i dag de tre danskeres chancer ved netop den engelske grandslam, mens vi også vender det danske landshold efter deres EM-exit. Slutteligt har Vingegaard nu bevist, at hans form er god og i den grad er med i kampen om den gule trøje efter to hårde etaper.
+Vært: Rikke Smed.</description>
+      <pubDate>Mon, 01 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450130/9d2178bddb2f3c67ccc6c7d65cee5dd637fbc0ca5ec9e7e7d09c0839203d5787.mp3" type="audio/mpeg" length="27871905" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450245</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tordenskyer-over-dansk-fodbold-13652450245</link>

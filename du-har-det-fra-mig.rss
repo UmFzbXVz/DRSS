@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:07:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -82,20 +82,6 @@ Redaktør: Mikkel Bagger</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436236/3b111310469e8da281b93424a92cc9b4c714e2cf7762c0461b71b1d0cf202946.mp3" type="audio/mpeg" length="168481616" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452436226</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-sommer-og-stormfulde-hoejder-18452436226</link>
-      <title>Sommer og stormfulde højder</title>
-      <description>Det er blevet 1. juni og der er solskin på playlisten, derudover vover Cecile Mclorin Salvant sig ud i en fængende fortolkning af Kate Bush og soulmesteren Ray Charles rammer dit hjerte med en udødelig ballade.
-Vært og tilrettelægger: Naya Buric.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 01 Jun 2024 16:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436226/ebebccb104f6b779469521cfa8c505445b0ea8106d3036ecd0a32458b90cb058.mp3" type="audio/mpeg" length="168482174" />
     </item>
   </channel>
 </rss>

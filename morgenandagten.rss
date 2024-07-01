@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:07:53 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:38:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -456,24 +456,6 @@ Postludium: Christian Heinrich Rinck: Largo og Fuga C-dur.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405231/03f1aed3363f7086a2fc53027e99c41c3f2d21271d29cb2073a022b0e10eb9cc.mp3" type="audio/mpeg" length="36001584" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405226</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405226</link>
-      <title>Lørdag 1. jun. 2024</title>
-      <description>Præludium: Leopold Mozart: Scherzo.
-Davidssalme: 34, 2-6.
-Salme: 30 "Op, alle, som på jorden bor".
-Fra det N.T.: Første Timotheusbrev 6, 6-12.
-Trosbekendelsen.
-Salme: 562 vers 1-3 + 5 "Som markens blomst henvisner fage".
-Postludium: Jesper Madsen: Op, alle som på jorden bor.</description>
-      <pubDate>Sat, 01 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405226/1eebf3f8604c5e7d2f6bc38ded0533764847467ff37210f5c5fcf39c688f3c76.mp3" type="audio/mpeg" length="36001576" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:08:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493208</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-pandemi-ikke-igen-16122493208</link>
+      <title>Pandemi... ikke igen</title>
+      <description>At tale prepping uden at tale om globale pandemier giver ingen mening. Derfor er denne episode dedikeret til et statustjek på Corona i Danmark. Derudover stiller vi skarpt på hvilke andre smitsomme sygdomme, som bevæger sig mod den danske grænse. Og vi bliver klogere på, hvorfor eksperten i denne episode mener, at kondomer er noget af det mest essentielle, du bør have i dit preppinglager.
+Gæst : Tyra Grove Krause.
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 01 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:32:44</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493208/59e0d4ddb2e3efe4ebd7bbb50dfe68d4b185a2fd12ba12f33e7dd98349583b45.mp3" type="audio/mpeg" length="47140860" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493207</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-den-usynlige-krig-16122493207</link>

@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:07:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -82,20 +82,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434236/7e377da458315d36af475a88539ccd20c55396bd6704e29f6048c43e4871f49d.mp3" type="audio/mpeg" length="82082164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452434226</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/blaa-stemmer/blaa-stemmer-2024/blaa-stemmer-60-er-og-70-er-sange-18452434226</link>
-      <title>60'er og 70'er sange</title>
-      <description>I dag skal vi tilbage i tiden, mere præcist til 60'erne og 70'erne. To årtier der efter min mening bød på et kæmpe repertoire af vidunderlige sange og ikke mindst en fantastisk æstetik. Der er noget med lyden af 60'erne og 70'erne, der kan noget helt særligt, ikke mindst når man lytter til vokalmusik - masser af rumklang, flotte stryger- og korarrangementer og autentiske optagelser.
-Vært og tilrettelægger: Josephine Philip.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 01 Jun 2024 13:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452434226/299f74973efb53a7abb3db6e5404fe8b929e27625f7f098406cd71defe6c8dc1.mp3" type="audio/mpeg" length="82081609" />
     </item>
   </channel>
 </rss>

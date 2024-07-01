@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 30 Jun 2024 06:07:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:47:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452475267</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/korfix-og-kaffe/korfix-og-kaffe-2024/korfix-og-kaffe-18452475267</link>
+      <title>Søndag 30. jun. 2024</title>
+      <description>Der er slam på potten, franskbrød med tandsmør og jazzmusik i æteren hver lørdag og søndag formiddag fra kl. 10-13, når Frederik Korfix skænker kaffen og sætter nålen i vinylen.</description>
+      <pubDate>Sun, 30 Jun 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452475267/1aea765c6cff542577f0fcc7adc051c4ec4051ef6f685cd87cf38388d0b724e5.mp3" type="audio/mpeg" length="254882099" />
+    </item>
     <item>
       <guid isPermaLink="false">18452475266</guid>
       <link>https://www.dr.dk/lyd/p8jazz/korfix-og-kaffe/korfix-og-kaffe-2024/korfix-og-kaffe-18452475266</link>
@@ -120,18 +132,6 @@
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452475227/5f1aa337732fc6b05baeffd907301607e7e4d6d51548c5317aaaa39a2f8b8b72.mp3" type="audio/mpeg" length="254881523" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452475226</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/korfix-og-kaffe/korfix-og-kaffe-2024/korfix-og-kaffe-18452475226</link>
-      <title>Lørdag 1. jun. 2024</title>
-      <description>Der er slam på potten, franskbrød med tandsmør og jazzmusik i æteren hver lørdag og søndag formiddag fra kl. 10-13, når Frederik Korfix skænker kaffen og sætter nålen i vinylen.</description>
-      <pubDate>Sat, 01 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452475226/95d860e85ecae99f7c812a06194674062c0c5e599330e0a3893d3b31eadf1540.mp3" type="audio/mpeg" length="254882099" />
     </item>
   </channel>
 </rss>
