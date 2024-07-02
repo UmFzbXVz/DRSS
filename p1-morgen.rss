@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433271</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433271</link>
+      <title>Mandag 1. jul. 2024</title>
+      <description>Hvordan gik første runde af det franske parlamentsvalg? Hvad gør Joe Bidens kampagnestab nu efter katastrofal TV-debat? Og hvordan oplever borgmestre trusler, chikane, vold og hærværk?
+Dagens vært: Pernille Rudbæk.
+Dagens sommergæst: Lars Findsen.</description>
+      <pubDate>Mon, 01 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:55</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433271/f07efe2e410d09434f181cae39670b50ca80a9e0b84a56fbd6917fae1e531def.mp3" type="audio/mpeg" length="237485803" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433266</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433266</link>
@@ -1837,18 +1850,6 @@ Dagens værter: Jan Falkentoft og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:53</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433015/f9edbf8979c3c1b4cebd8f31e6b2b8206f0393d6a670a74b92c28ff5c69f1c1b.mp3" type="audio/mpeg" length="237450033" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433014</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433014</link>
-      <title>Torsdag 4. jan. 2024</title>
-      <description>Hvorfor søger indere i stigende grad mod USA? Hvad er problemet med den måde, vores byer er indrettet nu ift. klimaforandringerne? Hvad betyder det at være på Epsteins liste? Og hvordan føles det at miste sin status af Kongelig Hofleverandør?
-Dagens værter: Pernille Rudbæk og Morten Runge.</description>
-      <pubDate>Thu, 04 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:56</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433014/9ba9ef7d1cfdbe4d7417a0aec593ae583360367badca45a52eb205f9bfd53219.mp3" type="audio/mpeg" length="237520737" />
     </item>
   </channel>
 </rss>

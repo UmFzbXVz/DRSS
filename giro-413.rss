@@ -12,7 +12,7 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:35 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -94,22 +94,6 @@ Eller indtal selv din hilsen - ring 7020 7030.</description>
       <itunes:duration>01:45:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452422237/669f4d49aed6449abc878689e6904e3d162fa0a349d35e10dd5ae35c8a9af836.mp3" type="audio/mpeg" length="151202159" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452422227</guid>
-      <link>https://www.dr.dk/lyd/p5/giro-413/giro-413/giro-413-15452422227</link>
-      <title>Søndag 2. jun. 2024</title>
-      <description>Vært Ole Tøpholm sammensætter ugens program baseret på lytternes henvendelser. 
-Bidrag kan sendes til:
-Giro: Kontoart: 01 Gironr.: 7000413
-Eller via MobilePay: 724 413 - send herefter din hilsen på giro413@dr.dk
-Eller indtal selv din hilsen - ring 7020 7030.</description>
-      <pubDate>Sun, 02 Jun 2024 12:15:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452422227/a03c05be2e43f5d26c760f9a3918c6e806497ed035b7e308e3f95dfc7abe674e.mp3" type="audio/mpeg" length="151202159" />
     </item>
   </channel>
 </rss>

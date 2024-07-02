@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/hot" rel="self" type="application/rss+xml" />
+    <title>Hot</title>
+    <link>https://www.dr.dk/lyd/p4/hot-3604061216000</link>
+    <description>Mikkel Bagger vender plader og gør dig selskab over vinteren.
+Vært: Mikkel Bagger</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:29 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/hot.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c16a443243f95e2c7a9d.jpg</url>
+      <title>Hot</title>
+      <link>https://www.dr.dk/lyd/p4/hot-3604061216000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c16a443243f95e2c7a9d.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452435271</guid>
+      <link>https://www.dr.dk/lyd/p4/hot/hot/hot-15452435271</link>
+      <title>Mandag 1. jul. 2024</title>
+      <description>Mikkel Bagger vender plader og gør dig selskab over vinteren.
+Vært: Mikkel Bagger.</description>
+      <pubDate>Mon, 01 Jul 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452435271/98d42a7de3e95756affdd25f77e377aa52afbd9323e097e65a3805681b2ca7bd.mp3" type="audio/mpeg" length="82081986" />
+    </item>
+  </channel>
+</rss>

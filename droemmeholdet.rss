@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -36,20 +36,6 @@
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425265/565e28116ab5a77341207a1cd5eaec989874b1d84fed1b77e9c4315974070e73.mp3" type="audio/mpeg" length="254881603" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425264</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-en-blaeret-lastbil-og-en-pung-i-istanbul-13332425264</link>
-      <title>En blæret lastbil og en pung i Istanbul</title>
-      <description>Hvis ikke du har sendt din drøm til os på p3drommer@dr.dk endnu - hvad laver du så?!
-Noah er 12 år og elsker lastbiler. Det fatter resten af klassen ikke, så det kan de godt lide at drille ham med. Så hans far Anders ringer ind, fordi han gerne vil overraske ham med hans yndlingslastbil på sin sidste skoledag i morgen.
-Philip har været i Bolivia og fået en sindssyg bæltetaske, som ingen andre i verden har. Han glemte den så bare lige i et fly efter en anden rejse for halvanden måned siden, og nu ligger den i lufthavnen i Istanbul. Han ringer til os for at høre, om vi kan hjælpe ham med at få den hjem.</description>
-      <pubDate>Thu, 27 Jun 2024 09:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425264/dade33fec66b12d5d5f1b0471a754092cd4ee37fe540d1513ece5b99c894b8bc.mp3" type="audio/mpeg" length="254881622" />
     </item>
   </channel>
 </rss>

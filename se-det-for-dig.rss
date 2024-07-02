@@ -10,7 +10,7 @@ Redaktør: Mikkel Bagger.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:10 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -72,20 +72,6 @@ Redaktør: Mikkel Bagger.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452440237/761b3be6ad01af2c295f852a194e09b6f4f99fccca924908d7c5e9d1d83dfef1.mp3" type="audio/mpeg" length="168482168" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452440227</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-dansk-musik-i-film-og-tv-18452440227</link>
-      <title>Dansk musik i film og tv</title>
-      <description>Grundlovsdag og demokrati rimer næsten på dansk musik i film og tv. I alle fald er det dagens fokus i Se det for dig, hvor der er både musik fra Hollywood-film og folkekomedier. 
-Vært: Ida Rud.
-Redaktør: Mikkel Bagger.</description>
-      <pubDate>Sun, 02 Jun 2024 16:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452440227/672c12f94ee78785df6fbf3b061a65d28ec579696957e6d86e843a0e8fbc12d8.mp3" type="audio/mpeg" length="168481574" />
     </item>
   </channel>
 </rss>

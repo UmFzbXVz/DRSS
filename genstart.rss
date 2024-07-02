@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:35 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802450265</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-monkey-business-11802450265</link>
+      <title>Monkey business</title>
+      <description>Verdens mest værdifulde abe er ikke større end et spædbarn. Dens lille, rødmossede ansigt omkranses af blød sølvgrå pels, men indadtil minder den usædvanlig meget om mennesket. Mere end 93% af makakabens genetik er magen til vores, og derfor kan de være menneskets stedfortræder, når vi tester medicin, hvilket gør dem yderst eftertragtede i den boomende medicinalindustri. Opdrætterne kan ikke følge med efterspørgslen, så nu er der opstået en sortbørs for aberne. Magnus Boding Hansen, journalist på Jyllands-Posten, fortæller i dagens Genstart om den lyssky dyrehandel.  
+Vært: Anna Ingrisch.</description>
+      <pubDate>Fri, 28 Jun 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802450265/d75d4319f4ce8286e3f5c74401e57e692760f2e85c66613083523b83fd39f019.mp3" type="audio/mpeg" length="29448457" />
+    </item>
     <item>
       <guid isPermaLink="false">11802450264</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-klik-mod-krig-11802450264</link>
@@ -9649,19 +9662,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:28:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150131/ae3c71d4e9e51ef9541aa9bbcc8140719a0271c58a568f11936893acdbb7fa33.mp3" type="audio/mpeg" length="41702283" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150130</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-partiet-ingen-ville-lege-med-11802150130</link>
-      <title>Partiet ingen ville lege med</title>
-      <description>Den 21. juni bliver en historisk dag i svensk politik. Den socialdemokratiske statsminister, Stefan Löfven, bliver væltet efter en mistillidsafstemning i Riksdagen - som den første statsminister i Sverige nogensinde. Kernen til at forstå moradset skal findes hos Sveriges to fløjpartier, der gik sammen i en overraskende alliance for at kæntre den svenske regering. Men hvorfor vælter et støtteparti sin egen regering på grund af huslejepriser? Europa-korrespondent Anna Gaarslev fortæller.
-Vært: Simon Stefanski.</description>
-      <pubDate>Thu, 01 Jul 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:22:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150130/4bf3de582292338bf0d982e6688c24571c57725eb1ef9ca8ad16e1647dfc38f8.mp3" type="audio/mpeg" length="32273736" />
     </item>
     <item>
       <guid isPermaLink="false">11802050164</guid>

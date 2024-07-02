@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410271</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410271</link>
+      <title>Mandag 1. jul. 2024</title>
+      <description>Over 34 år efter at den 22-årige Hanne With blev fundet dræbt i sin lejlighed, begyndte retssagen i dag i Københavns Byret. Macron fik en valglussing - hvordan vil han gribe tiden mod valgets anden runde an? Orban sidder fra i dag på formandsposten i EU. Hvem er den noget så omdiskuterede Viktor Orban, der nu bestrider formandsposten i EU? 
+Dagens vært: Anne Kirstine Hermann.</description>
+      <pubDate>Mon, 01 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:24</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410271/5583ec2a380c43a6ab54dcbae79c52f4507314528ade36bc6c39cc1188125632.mp3" type="audio/mpeg" length="78344507" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410265</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410265</link>
@@ -1518,29 +1530,6 @@ Dagens værter: Ole Brink og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:27:12</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410015/1f44347aa488cfb9329823f04e8e0b58d144e98dcfdf0b4f45aadacefe7e2558.mp3" type="audio/mpeg" length="125589757" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410014</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410014</link>
-      <title>Torsdag 4. jan. 2024</title>
-      <description>Hvor langt vil Danmark gå for at stoppe Houthi-militsens angreb på skibe?  Hvilken rolle kan Robert F. Kennedy Jr. spille i det amerikanske præsidentvalg? Hvordan ser situationen ud rundt om i Danmark efter flere dage med vildt vejr?
-Dagens værter: Anne Kirstine Hermann og Ole Brink.</description>
-      <pubDate>Thu, 04 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:23:40</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410014/adc2a6e1f42f8d890d0fa6ad1bd3e0fc3e813cf993da37ed120cd4260f5d22ff.mp3" type="audio/mpeg" length="120488578" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802401001</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-live-11802401001</link>
-      <title>P1 Live</title>
-      <description>Få et originalt perspektiv på de begivenheder, der former verden og opdag de oversete historier, der kommer til at ændre verden.</description>
-      <pubDate>Mon, 01 Jan 2024 11:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:11</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802401001/ec18c523d2036b2b362d8167fdbda90816ea2b5217f98cbc734401c70329e42c.mp3" type="audio/mpeg" length="255165428" />
     </item>
   </channel>
 </rss>

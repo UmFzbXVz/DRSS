@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450131</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-bjergslag-i-frankrig-og-danskerdag-i-london-13652450131</link>
+      <title>Bjergslag i Frankrig og danskerdag i London</title>
+      <description>Blikket er vendt mod de tre danske tennisspillere, der skal i aktion for første gang ved Wimbledon. Og så venter fjerde etape af Tour de France for Jonas Vingegaard med en stigning, som kommer til at vise, hvor gode benene egentlig er. 
+Mens danskerne kæmper løs på græsset og i bjergene, så ruller ottendedelsfinalerne stadig ved EM, og selvom og Frankrig er videre, så er de måske ikke så store favoritter til mesterskabet som først antaget.
+Vært: Rikke Smed.</description>
+      <pubDate>Tue, 02 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:34</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450131/911e56b2532ba8976ba5191a07b9ba8569735022128fe54825b228f88546a3f2.mp3" type="audio/mpeg" length="28186905" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450130</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-danskere-paa-graes-og-vanvittige-vingegaard-13652450130</link>

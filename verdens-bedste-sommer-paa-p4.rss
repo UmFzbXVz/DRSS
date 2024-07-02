@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/verdens-bedste-sommer-paa-p4" rel="self" type="application/rss+xml" />
+    <title>Verdens bedste Sommer på P4</title>
+    <link>https://www.dr.dk/lyd/p4/verdens-bedste-sommer-paa-p4-5571865289000</link>
+    <description>Signe Vadgaard kører rundt i sommerlandet og sender hver uge fra en ny smuk campingplads, sammen med skiftende kendte medværter. I fællesskab med lytterne skaber hun de sommerminder som vi husker for altid, samtidig med at vi sammen med vores gæster ser tilbage på nogle af de sommererindringer som har betydet noget helt særligt for dem.
+Produceret for DR af Beam Audio Agency.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:27 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/verdens-bedste-sommer-paa-p4.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6679704e561198874f2b7242.jpg</url>
+      <title>Verdens bedste Sommer på P4</title>
+      <link>https://www.dr.dk/lyd/p4/verdens-bedste-sommer-paa-p4-5571865289000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6679704e561198874f2b7242.jpg" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122449271</guid>
+      <link>https://www.dr.dk/lyd/p4/verdens-bedste-sommer-paa-p4/verdens-bedste-sommer-paa-p4-2024/verdens-bedste-sommer-paa-p4-16122449271</link>
+      <title>Mandag 1. jul. 2024</title>
+      <description>Signe Vadgaard kører rundt i sommerlandet og sender hver uge fra en ny smuk campingplads sammen med skiftende kendte medværter. De snakker om deres mest særlige sommeroplevelser og vil i fællesskab med lytterne skabe endnu flere, mens de  jagter det gode humør og verdens bedste sommer.
+
+Produceret for DR af Beam Audio Agency.</description>
+      <pubDate>Mon, 01 Jul 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122449271/c607db7a4600778f2b8919007bfc191e4ef56b26fe283312c9aac7acb255a8e2.mp3" type="audio/mpeg" length="168482187" />
+    </item>
+  </channel>
+</rss>

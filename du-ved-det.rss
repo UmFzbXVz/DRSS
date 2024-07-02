@@ -10,7 +10,7 @@ Vært: Marie Hobitz.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -82,21 +82,6 @@ Vært: Marie Hobitz.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424237/f9e9fac578e46b3adf8441558703d38eafa6d6b4707b07292af81719536668b5.mp3" type="audio/mpeg" length="172802181" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332424227</guid>
-      <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-anton-edwards-13332424227</link>
-      <title>Anton Edwards</title>
-      <description>'Du ved det' helt sikkert godt, så find telefonen frem, og gør dig klar til at blive quizzet i al den musik, du elsker at lytte til!
-Der er eksklusive P3-sokker på højkant og vanvittig søndagshygge, når Marie inviterer indenfor i P3's helt eget musikquizprogram.
-Vært: Marie Hobitz.
-Gæst: Anton Edwards.</description>
-      <pubDate>Sun, 02 Jun 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424227/ee35e560da4f040964a212528db5c96837f6eaaebe2cffc40687f65c725ab225.mp3" type="audio/mpeg" length="172802176" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 01 Jul 2024 05:47:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 07:47:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -453,22 +453,6 @@ Vært: Mette Greiffenberg.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481802/1f1f33413f26dd9e81f9ca94c59bab2220fe03a41a8d4e36eea792d4646bdb4d.mp3" type="audio/mpeg" length="165794569" />
     </item>
     <item>
-      <guid isPermaLink="false">12422481801</guid>
-      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/mette-greiffenberg/det-vi-hoerer-ind-i-lyset-12422481801</link>
-      <title>Ind i lyset</title>
-      <description>Igennem hele mit liv har jeg været fascineret af menneskestemmen, og jeg har tænkt mig at gåsefodre dig med nogen af de mange stemmer og sangere som rører og bevæger mig. Hør i dag blandt andre Núria Rial, Regula Mühlemann og Elza Soares synge, og bad også i de sølvspillende farver fra violinisten Isabelle Fausts violin når hun spiller Bach og Beethoven.
-Vært: Mette Greiffenberg.</description>
-      <pubDate>Mon, 01 Jan 2024 14:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000150001</itunes:order>
-      <itunes:season>15</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481801/3d6424767fefc59fcbfb936f63e5881d2d29c2cadf9ee2c00203d9e3ec00b680.mp3" type="audio/mpeg" length="168674565" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422381841</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/magnus-larsson/det-vi-hoerer-min-morgen-og-min-aften-12422381841</link>
       <title>Min morgen og min aften</title>
@@ -483,6 +467,22 @@ Vært: Magnus Larsson.</description>
       <itunes:duration>01:49:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381841/b7010562610d2c3741f93e003997cb84a9193b23dcbe0d36f9424f62e1d6510c.mp3" type="audio/mpeg" length="156966219" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381822</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/nina-oerum/det-vi-hoerer-udsendt-reporter-12422381822</link>
+      <title>Udsendt reporter</title>
+      <description>Det var dengang DR glad sendte en ung freelancer en uge til Frankrig for at lave én times radio. Det var dengang de fleste røg cigaretter, og der var musik i vinmarken, på Tour de France-ruten og i den lille kolde kirke. Hør hvad det betød for min opfattelse af klassisk og hør i øvrigt værker af bl.a. Bach, Mozart og flere fynboer. 
+Vært: Nina Ørum.</description>
+      <pubDate>Tue, 04 Jul 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000080002</itunes:order>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:53</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381822/bd2288a3ede2962e8909b93b5da318f3e70116bce23e1f3a4b4772f316fa1c26.mp3" type="audio/mpeg" length="156805512" />
     </item>
     <item>
       <guid isPermaLink="false">12422381821</guid>
