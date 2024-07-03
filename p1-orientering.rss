@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 02 Jul 2024 07:47:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 06:09:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,20 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410272</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410272</link>
+      <title>Tirsdag 2. jul. 2024</title>
+      <description>Hvorfor er Ronaldo stadig så ærgerrig?
+Hvordan er situationen i sommerhusområdet her et døgn efter eksplosionen?  
+Hvorfor er det nødvendigt med en handlingsplan mod racisme og diskrimination?
+Dagens vært: Anne Kirstine Hermann.</description>
+      <pubDate>Tue, 02 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:27:40</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410272/1c36a2ceb62485643674fd4a5b59ac88c3e9a4a833adef8cf15fbf98a70a466b.mp3" type="audio/mpeg" length="126260765" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410271</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410271</link>
@@ -1517,19 +1531,6 @@ Dagens værter: Søren Carlsen og Anne Kirstine Hermann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:24:21</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410021/dcbc1e3af937e08dee9e16284948d0ed7fd4fcb0102e9870466a758c08d884b6.mp3" type="audio/mpeg" length="121473538" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410015</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410015</link>
-      <title>Fredag 5. jan. 2024</title>
-      <description>Efter stormen på kongressen, troede man Trump og hans tilhængere de dengang overskred en grænse, men støtten til Trump fra Republikanere er stigende, nu tre år efter. Hvordan er det lykkedes Trump at få flere republikanere med ham siden stormen på kongressen?
-De Konservative er nu klar med et forslag, som skal hjælpe landets kommuner. Helt konkret forslår de, at klimatilpasningsløsninger ikke være en del af anlægsloftet. Slipper kommunerne for at lave svære prioriteringer, hvis man gør klimatilpasningsløsninger fri fra anlægsloftet ude i kommunerne? Der har overordnet set været bredt politisk sammenhold i Israel efter krigen brød ud i begyndelsen af oktober. Men noget tyder på det er splittelse blandt Israels topministre om fremtiden for Gaza. Hvilke fremtidsscenarier i Gaza er Israels topministre splittet omkring?
-Dagens værter: Ole Brink og Pernille Rudbæk.</description>
-      <pubDate>Fri, 05 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:27:12</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410015/1f44347aa488cfb9329823f04e8e0b58d144e98dcfdf0b4f45aadacefe7e2558.mp3" type="audio/mpeg" length="125589757" />
     </item>
   </channel>
 </rss>

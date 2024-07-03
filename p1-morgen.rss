@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 02 Jul 2024 07:47:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 06:09:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433272</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433272</link>
+      <title>Tirsdag 2. jul. 2024</title>
+      <description>Halvdelen af alle kvinder, der har født, har nedsynkning af underlivets organer i forskellige grader. Hvorfor er der ikke flere kvinder, der bliver undersøgt i tide, og hvad er løsningen? Deadline for hvornår handlingsplanen mod racisme og diskrimination er overskredet. Hvad er det udtryk for, og hvilke konsekvenser har det? Dagens sommergæst er Christiane Vejlø, direktør for Elektronista Media, hvor vi dykker ned i kunstig intelligens. Hvad er det i forholdet mellem mennesker og maskiner der er fascinerende? 
+Dagens vært: Pernille Rudbæk.</description>
+      <pubDate>Tue, 02 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:54</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433272/94739113683ea4a1ac15836d4d5da3c96e93d2b29f6651e8b9a7193cb63c7fe4.mp3" type="audio/mpeg" length="237462773" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433271</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433271</link>
@@ -1838,18 +1850,6 @@ Dagens værter: Søren Carlsen og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:01</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433016/cb02ca9f4d92b82e512e253c9f47df883d82955e8b7f69330da617228c02aad3.mp3" type="audio/mpeg" length="158432114" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433015</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433015</link>
-      <title>Fredag 5. jan. 2024</title>
-      <description>Hvor bekymret er Røde Kors for sine medarbejdere i Gaza? Hvem er mangemilliardæren bag Nordic Waste? Og hvad er formålet med dansk satire?  
-Dagens værter: Jan Falkentoft og Søren Carlsen.</description>
-      <pubDate>Fri, 05 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:53</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433015/f9edbf8979c3c1b4cebd8f31e6b2b8206f0393d6a670a74b92c28ff5c69f1c1b.mp3" type="audio/mpeg" length="237450033" />
     </item>
   </channel>
 </rss>

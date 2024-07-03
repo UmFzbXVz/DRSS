@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 02 Jul 2024 07:47:43 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 06:09:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -323,6 +323,19 @@ Vært: Katrine Ring.
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363251/c22214d58bec4fedf99f846714ec266dbb4020ebca55b00d9d1632c335d04b07.mp3" type="audio/mpeg" length="168482084" />
     </item>
     <item>
+      <guid isPermaLink="false">12422363246</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-flod-12422363246</link>
+      <title>Flod</title>
+      <description>Floder kan tørre ud, men flyder selv med det mindste vand. I tusinder af år har mennesker søgt mod dens bred for at finde trøst, blive transporteret, eller slukke tørsten. Aftens komponister fabulerer alle over floden på hver deres måde.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 18 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363246/1af063da7aada1ec8e729d3a1cdf73f99a0c22f1702d5811ada12b3dfe1babe2.mp3" type="audio/mpeg" length="168476417" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363243</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-hoejere-luftlag-12422363243</link>
       <title>De højere luftlag</title>
@@ -388,20 +401,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363223/7897a3cf55120debe49754e956dbea1de3a1af033a6a761284ea95cc79d8e8b4.mp3" type="audio/mpeg" length="172801588" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363181</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-mod-oest-paa-bonjour-cafe-12422363181</link>
-      <title>Mod øst på Bonjour cafe</title>
-      <description>I Moldovas hovedstad Chisinau ligger Bonjour cafe og sælger drømme. Hver dag strømmer fransk musik ud af højtalerne i den komplekse by, der både kigger mod øst og vest. Maria Tanase, DakhaBrakha, Angela Gheorghiu, Romica Pocanu og Gheorhe Cucu spiller op til dans.
-Vært: Minna Grooss.
-(Sendt første gang 2. maj 2023).</description>
-      <pubDate>Tue, 02 May 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363181/e35584c2f00f70f39a2f1f1b1b6df897fc91b4ec856b4b885159ecd5e91ee22d.mp3" type="audio/mpeg" length="172802190" />
     </item>
     <item>
       <guid isPermaLink="false">12422263424</guid>

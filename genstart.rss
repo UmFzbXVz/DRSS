@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 02 Jul 2024 07:47:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 06:09:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460149</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Såret efter Kirkerup</title>
+      <description>Fredag faldt dommerens hammer i Kirkerup-sagen. Skyldig, rungede det ud i retslokalet. Da Emilie Meng en sommerdag i 2016 forsvandt blev det starten på et angstfyldt traume. Et traume, som kun blev værre, da to unge piger flere år senere blev udsat for ubegribelige forbrydelser. Nu er 33-årige Phillip Westh dømt for hovedanklagerne, herunder drab, voldtægt, frihedsberøvelse og vold mod de tre unge piger fra Vestsjælland. Et sår, der både lokalt, og for hele nationen har været åbent i otte år, kan nu måske begynde at hele. Det fortæller DR's retskorrespondent Trine Maria Ilsøe om i dagens Genstart.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 30/6.</description>
+      <pubDate>Wed, 03 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460149/0f1f2e476dedcebb5f9bfd93d2508df74c8d6035703a6f3cf758c5c3206c7021.mp3" type="audio/mpeg" length="38846473" />
+    </item>
     <item>
       <guid isPermaLink="false">11802450265</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2024/genstart-monkey-business-11802450265</link>
@@ -9649,19 +9663,6 @@ Vært: Simon Stefanski.</description>
       <itunes:duration>00:24:55</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150132/e8c747b663ebfa5c7af389c406bd0474e17d818da3662f38e980c386f483a674.mp3" type="audio/mpeg" length="35892743" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150131</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-kvinder-mod-khader-11802150131</link>
-      <title>Kvinder mod Khader</title>
-      <description>Fem kvinder fortæller til DR, at Naser Khader i professionelle sammenhænge har udsat dem for seksuelle krænkelser og grænseoverskridende adfærd. Episoderne har fundet sted fra 1999 til 2019. Naser Khader, der er en af landets mest profilerede politikere, afviser alle anklager. Naser Khader har siddet i Folketinget for De Radikale, stiftet partiet Ny Alliance og senest været folketingsmedlem og retsordfører for De Konservative. Genstart taler med journalisten bag historien Sofie Rye fra P1 Morgen. 
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 02 Jul 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:28:57</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150131/ae3c71d4e9e51ef9541aa9bbcc8140719a0271c58a568f11936893acdbb7fa33.mp3" type="audio/mpeg" length="41702283" />
     </item>
     <item>
       <guid isPermaLink="false">11802050164</guid>

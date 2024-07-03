@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 02 Jul 2024 07:47:32 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 06:09:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -451,6 +451,22 @@ Vært: Mette Greiffenberg.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481802/1f1f33413f26dd9e81f9ca94c59bab2220fe03a41a8d4e36eea792d4646bdb4d.mp3" type="audio/mpeg" length="165794569" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381842</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/magnus-larsson/det-vi-hoerer-soen-af-en-arkitekt-12422381842</link>
+      <title>Søn af en arkitekt</title>
+      <description>Musik er flydende arkitektur; arkitektur er frossen musik" Jeg er egentlig ikke ud af en musikerfamilie - min mor er fx arkitekt, og er det måske derfor jeg elsker at undersøge strukturen og arkitekturen i musikken. Og så spiller jeg musik fra flere af mine yndlingsalbums, alt fra Scarlatti til Stravinsky, fra Mendelssohn til Mozart.
+Vært: Magnus Larsson.</description>
+      <pubDate>Wed, 05 Jul 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000090002</itunes:order>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381842/c17ff0d10da924e990e1bfb890a7d3b50c006738b011e8747fac8507c1749294.mp3" type="audio/mpeg" length="156976583" />
     </item>
     <item>
       <guid isPermaLink="false">12422381841</guid>
