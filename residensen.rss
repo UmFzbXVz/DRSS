@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:29 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421273</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-roskile-festival-13332421273</link>
+      <title>På Roskile Festival</title>
+      <description>Værter: Nynne Givskov og Kasper Reippurt.</description>
+      <pubDate>Wed, 03 Jul 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421273/7b90bb8452a4691ec1ef0daf31e1c5234397463c68ec858c2c18acf6ec756ab4.mp3" type="audio/mpeg" length="172801973" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421266</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-tinderbox-13332421266</link>
@@ -223,18 +235,6 @@ Tlf. gæst: Jarl Friis-Mikkelsen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421234/47a860a2c7d2644b657001e7275211fd25024bb10a7a13eb98848d443f0804b5.mp3" type="audio/mpeg" length="172801966" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421232</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-festival-er-mere-for-stemning-end-musikken-eller-hvad-13332421232</link>
-      <title>Festival er mere for stemning end musikken - eller hvad?</title>
-      <description>Hot take tirsdag har taget ny form i dag, både fordi praktikant Esmeralda er stand-in for Nynne, men også fordi Residensen rykker studiet til NorthSide på torsdag og i den anledning samler dine hotteste takes om festivaler. Desuden er der invitationer på spil til et vildt arrangement på søndag i demokratiets ånd, selvfølgelig også med musik. Det gør vi ved at spørge lyttere om deres fedeste sko og mest sindssyge fitness-outfits. Velkommen indenfor!</description>
-      <pubDate>Tue, 04 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421232/5545522c63d416524d21946a63f45a97ac5d5d15c7f5b7bcb8d2f6206bee2008.mp3" type="audio/mpeg" length="172801590" />
     </item>
   </channel>
 </rss>

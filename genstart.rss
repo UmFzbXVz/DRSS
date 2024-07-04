@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:47 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 05:59:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460150</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Tre dage i krise</title>
+      <description>Han har slået et telt op i stuen, og han kan hverken tænde for lyset eller skylle ud i toilettet. Imens de fleste af os måske har prøvet at forestille os, hvordan tre dage i krise vil føles, så har Mikkel Vuorela, journalist ved Dagbladet Information, sat sig for at gennemleve det. Afsættet for hans eksperiment er selvfølgelig myndigheders anbefalinger om, at alle skal kunne klare sig selv i tre døgn, hvis Danmark for eksempel skulle blive udsat for et hybridangreb. I dagens Genstart besøger vi Mikkel i hans parallelle virkelighed for at finde ud af, hvordan det føles, hvis krisen rent faktisk rammer.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 1/7.</description>
+      <pubDate>Thu, 04 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:43</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460150/c3aea2838691da0f2f7ffa9150847219f1f32e20ca0060679eba8d785bcd7dec.mp3" type="audio/mpeg" length="37038982" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460149</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

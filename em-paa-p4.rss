@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:33 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -33,9 +33,9 @@
       <pubDate>Tue, 02 Jul 2024 18:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>04:55:00</itunes:duration>
+      <itunes:duration>04:42:58</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404272/6174954d3103fe54d5f88f0e6fda3a40eeae4301304f043b75f028735b8e83f3.mp3" type="audio/mpeg" length="424801996" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404272/655e76dca8dfd59b92bb63ac0603d77b8d06af87a5c509c5a92623c9ec4090c0.mp3" type="audio/mpeg" length="407479372" />
     </item>
     <item>
       <guid isPermaLink="false">13652404271</guid>
@@ -60,18 +60,6 @@
       <itunes:duration>05:00:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404267/cc4962e06d016f9555b8acf96ee1a18cba8de1cc5593459e35292c77f9a268ce.mp3" type="audio/mpeg" length="432085516" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652404266</guid>
-      <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404266</link>
-      <title>Lørdag 29. jun. 2024</title>
-      <description>Alle kampe og alle mål hele vejen til finalen. Direkte fra havnen i Aarhus. Auf geht's.</description>
-      <pubDate>Sat, 29 Jun 2024 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>05:59:58</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404266/2f0121bbdc17bdae69aa129fd8c0ee58c4c64909b47b1c584c3cc5a6038aaeda.mp3" type="audio/mpeg" length="518365708" />
     </item>
   </channel>
 </rss>

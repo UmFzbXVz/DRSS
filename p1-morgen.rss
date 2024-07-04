@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:50 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433273</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433273</link>
+      <title>Onsdag 3. jul. 2024</title>
+      <description>Hvorfor flyver danskerne selvom de er bekymret for miljøet? Hvorfor afbryder DTU samarbejdet med syv kinesiske og tre iranske universiteter? Og hvad gik galt i OW Bunker?
+Dagens vært: Pernille Rudbæk.</description>
+      <pubDate>Wed, 03 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:07</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433273/f48f05bb9b650c645fbf5d337e6e868b0cf169583f8508fd8689c710e1694946.mp3" type="audio/mpeg" length="237771452" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433272</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433272</link>
@@ -1838,18 +1850,6 @@ Dagens værter: Bjarne Steensbeck og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:03</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433021/b704a667957e4f375da741e61b3e9c977febca19a3790483938a8698b37eccb8.mp3" type="audio/mpeg" length="237696621" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433016</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433016</link>
-      <title>Lørdag 6. jan. 2024</title>
-      <description>Er Israel og USA enige i hvad der skal ske efter krigen i Gaza? Hvilken betydning har Frederiks venner for hans magtposition? Og hvordan ser vi på stormen på Kongressen - og dets indflydelse på amerikanske politik - her tre år efter? 
-Dagens værter: Søren Carlsen og Morten Runge.</description>
-      <pubDate>Sat, 06 Jan 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:50:01</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433016/cb02ca9f4d92b82e512e253c9f47df883d82955e8b7f69330da617228c02aad3.mp3" type="audio/mpeg" length="158432114" />
     </item>
   </channel>
 </rss>

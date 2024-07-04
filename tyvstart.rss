@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:45 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450133</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tausons-exit-og-ny-konge-paa-tour-tronen-13652450133</link>
+      <title>Tausons exit og ny konge på Tour-tronen</title>
+      <description>Tre Wimbledon-danskere er blevet til to efter Clara Tausons nederlag i første runde. I dagens episode fortæller tennisreporter Kresten Mosbæk, hvorfor han synes, at Tauson virker irriteret og opgivende på Wimbledons græs. Han kigger også frem mod både Caroline Wozniacki og Holger Runes kommende opgør i anden runde.
+I Frankrig er sprinteren Mark Cavendish nu ene mand på toppen af listen over etapesejre i verdens største cykelløb.
+Vært: Rikke Smed.</description>
+      <pubDate>Thu, 04 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450133/a3b780a362e66cea33ce158b607761c8be0a72275fb937606ad3ed3b0af95292.mp3" type="audio/mpeg" length="27162877" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450132</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-miss-sunshine-straaler-paa-en-moerk-dag-for-vingegaard-13652450132</link>
@@ -2026,20 +2040,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:51</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450003/13ce022a2f92d5c0f01715f87af58921a28c3fd48485233f69f467b587512164.mp3" type="audio/mpeg" length="24285179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450002</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-kong-rafa-vil-tilbage-paa-tronen-13652450002</link>
-      <title>Kong Rafa vil tilbage på tronen</title>
-      <description>Efter et års skadespause er Rafael Nadal tilbage. Spanieren ser skarp ud inden Australian Open, men spørgsmålet er, om den 37-årige krop kan finde tilbage til fordums styrke?
-Han har allerede vundet alt, der er værd at vinde, så hvad motiverer egentlig den højtelskede Nadal? Det svarer tennisreporter Kresten Mosbæk på i dagens episode.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 03 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:04</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450002/9dd7d312ac222d5a5d81b28fb3a7a35e4892b90e5fb4cd3cc813927dcdc1bcba.mp3" type="audio/mpeg" length="23143544" />
     </item>
   </channel>
 </rss>

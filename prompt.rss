@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:40 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,19 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421026</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-et-lidt-for-godt-tilbud-europa-misser-ai-toget-og-efterklang-11802421026</link>
+      <title>Et lidt for godt tilbud, Europa misser AI-toget og Efterklang</title>
+      <description>Vi ser nærmere på de mange falske webshops, der florerer i betalte annoncer på Facebook. Marcel har set en annonce for en bluetoothhøjttaler med en besparelse på 99 procent. Hvorfor gør Meta ikke mere? Vi diskuterer også et blogindlæg fra Meta-chef Nick Clegg, som revser EU's strenge tech-lovgivning. Ifølge ham har den betydet, at Europa har misset AI-toget, som nu kun stopper i Kina og USA. Og så får vi besøg af gruppen Efterklang, der diskuterer, om der overhovedet bliver brug for ægte menneske-musik, hvis AI-genereret musik snart både kan røre os og lyde godt. Efterklang spiller også et helt menneskeskabt og akustisk nummer eksklusivt for Prompts lyttere.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+      <pubDate>Thu, 04 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:30</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421026/18c59032620cbbe1d035bf669a143836041554ada446b564ea8327cbf9967dde.mp3" type="audio/mpeg" length="78487374" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421025</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-bacon-is-bold-intelligens-og-cigaret-advarsler-paa-tiktok-11802421025</link>

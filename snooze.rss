@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:26 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -335,23 +335,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428233/771be90eef5917b541f81849371469a848d030733ab52c5188e03abde9d43a5e.mp3" type="audio/mpeg" length="252002165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428232</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-bas-jazz-18452428232</link>
-      <title>Bas-jazz</title>
-      <description>De er store, tunge og bombastiske, men basserne kan i høj grad også være yndefulde og smukke, især i de helt små og intime duoformater. Vi siger bas til din jazz denne morgen i Snooze.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 04 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428232/5b071d0650866ed875f2d2608ea155a08d83010761a916cfe778d9f0236c9032.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:25 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481882</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-skoven-stjernerne-og-havet-om-natten-12422481882</link>
+      <title>Skoven, stjernerne og havet om natten</title>
+      <description>To timers radio, hvor jeg præsenterer noget af den musik jeg selv lytter til når jeg har fri. I dag skal vi ud i skoven, ind mellem træerne, hvor der bliver køligt og fugtigt. Og når mørket falder på lyser stjernerne over havet. Musik af Mahler, Janacek, Jørgen Jersild, Gershwin, Bernstein og Karlheinz Stockhausen får plads i dagens udsendelse.
+Vært: Max Fage-Pedersen.</description>
+      <pubDate>Wed, 03 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000190002</itunes:order>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481882/452a769c4fbffd29cd60611bd7f03d36a05bd7545960712ab4fa653cfb344bf6.mp3" type="audio/mpeg" length="165602187" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481881</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-blaesermusik-med-sol-og-lys-og-varme-12422481881</link>

@@ -10,7 +10,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:13 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -67,20 +67,6 @@ Produceret for DR af Munck Studios København.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122465242/8b3262eec1db606acc4c6cef92434e4232c108a8e4341167ab2da71fa6b5a736.mp3" type="audio/mpeg" length="165602056" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122465232</guid>
-      <link>https://www.dr.dk/lyd/p6beat/rotationer/rotationer-2024/rotationer-16122465232</link>
-      <title>Tirsdag 4. jun. 2024</title>
-      <description>To timer med de toner der roterer i din radio, og i dit bankende musikhjerter.  
-Vært: Henrik Aagaard.
-Produceret for DR af Munck Studios København.</description>
-      <pubDate>Tue, 04 Jun 2024 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122465232/1f5890a2d381b8c8cb1ba79496bfe61e87e27b56057f279e9bb40852df32da90.mp3" type="audio/mpeg" length="165601480" />
     </item>
   </channel>
 </rss>

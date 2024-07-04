@@ -16,7 +16,7 @@ Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkri
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:12 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -49,22 +49,6 @@ Undervejs får han hjælp af eksperterne: dirigent Michael Schønwandt, musikkri
       <itunes:duration>00:30:45</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560006/6bc4188b9fed1d8adee2d57ace3009e110200fedd79921d37d86b5b586969eb0.mp3" type="audio/mpeg" length="44297158" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12421560005</guid>
-      <link>https://www.dr.dk/lyd/p2/paa-opdagelse-i-carl-nielsens-symfonier/paa-opdagelse-i-carl-nielsens-symfonier-1/paa-opdagelse-i-carl-nielsens-symfonier-5-6-12421560005</link>
-      <title>På opdagelse i Carl Nielsens symfonier 5:6</title>
-      <description>Carl Nielsens Symfoni nr. 5 er som en kamp mellem det gode og det onde. Men der er ingen vinder. Snarere en accept af kontrastfyldt sameksistens. Det er konklusionen, når Mathias Hammer går på opdagelse i Carl Nielsens næstsidste symfoni. Undervejs får han hjælp af dirigent Michael Schønwandt, musikkritiker Jakob Levinsen og sognepræst Anna Mejlhede.
-(Sendt første gang 6. marts 2015).</description>
-      <pubDate>Fri, 27 Feb 2015 06:04:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000010005</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:30:39</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421560005/e9a7102a127467b84728b12fe6cb5de95428ceedfa8c0d1b9149aeb4a4d74d76.mp3" type="audio/mpeg" length="44152014" />
     </item>
   </channel>
 </rss>

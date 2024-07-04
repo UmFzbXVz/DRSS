@@ -4,12 +4,12 @@
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/hot" rel="self" type="application/rss+xml" />
     <title>Hot</title>
     <link>https://www.dr.dk/lyd/p4/hot-3604061216000</link>
-    <description>Mikkel Bagger vender plader og gør dig selskab over vinteren.
-Vært: Mikkel Bagger</description>
+    <description>Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.
+Vært: Mikkel Bagger.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 03 Jul 2024 06:09:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:04:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,10 +27,23 @@ Vært: Mikkel Bagger</description>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452435273</guid>
+      <link>https://www.dr.dk/lyd/p4/hot/hot/hot-15452435273</link>
+      <title>Onsdag 3. jul. 2024</title>
+      <description>Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.
+Vært: Mikkel Bagger.</description>
+      <pubDate>Wed, 03 Jul 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452435273/bcf6a6a2419f697ac1011aee0db63065b2cab3b84c1ee48ed7963fd09796cc23.mp3" type="audio/mpeg" length="82081410" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452435272</guid>
       <link>https://www.dr.dk/lyd/p4/hot/hot/hot-15452435272</link>
       <title>Tirsdag 2. jul. 2024</title>
-      <description>Mikkel Bagger vender plader og gør dig selskab over vinteren.
+      <description>Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.
 Vært: Mikkel Bagger.</description>
       <pubDate>Tue, 02 Jul 2024 14:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
@@ -43,7 +56,7 @@ Vært: Mikkel Bagger.</description>
       <guid isPermaLink="false">15452435271</guid>
       <link>https://www.dr.dk/lyd/p4/hot/hot/hot-15452435271</link>
       <title>Mandag 1. jul. 2024</title>
-      <description>Mikkel Bagger vender plader og gør dig selskab over vinteren.
+      <description>Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.
 Vært: Mikkel Bagger.</description>
       <pubDate>Mon, 01 Jul 2024 14:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
