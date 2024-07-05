@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 04 Jul 2024 06:04:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 06:11:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405274</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405274</link>
+      <title>Torsdag 4. jul. 2024</title>
+      <description>Præludium:	Gordon Young: Morning Hymn
+Fra det G.T.:	Salme 62, 2-9
+Salme: 30 "Op alle, som på jorden bor"
+Fra det N.T.:	Matthæus 8, 14-22
+Korvers: Egil Hovland: Dets grund var lagt på klippen, (tekst: Matthæus 7, 24-25)
+Salme: 163 "Fuglen har rede, og ræven har grav"
+Postludium: Aaron Copland: Fanfare for the Common Man (arr. Jørgen Lauritsen)</description>
+      <pubDate>Thu, 04 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405274/b71009caf1c8c2cb9d88696a25eb29be94976ec611c2441ce191df31e6fa9afd.mp3" type="audio/mpeg" length="36001577" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405273</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405273</link>
@@ -456,24 +474,6 @@ Postludium: Johann Sebastian Bach: Fuga i e-mol, BWV 533.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405234/1176c59290da1b870fcad27c5aa99ebcd9122759277953173cf9dbeefb4f157b.mp3" type="audio/mpeg" length="36001581" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405233</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405233</link>
-      <title>Onsdag 5. jun. 2024</title>
-      <description>Præludium: Johann Sebastian Bach: Behold os, Herre, ved dit ord.
-Fra det G.T.:	Amos 5, 4-7.
-Salme: 319 "Vidunderligst af alt på jord".
-Fra det N.T.: Matthæusevangeliet 5, 1-7.
-Korvers: Rued Langgaard: Helligånd! Du samle folket (tekst: efter Grundtvig).
-Salme: 337 "Behold os, Herre, ved dit ord".
-Postludium: John Stanley: 2. sats af Voluntary. VII, e-mol.</description>
-      <pubDate>Wed, 05 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405233/964f573a8195233565d36c04293b8ca79189c17a25466b1e6bc57e09803ef1ee.mp3" type="audio/mpeg" length="36001580" />
     </item>
   </channel>
 </rss>

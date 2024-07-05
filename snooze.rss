@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 04 Jul 2024 06:04:05 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 06:11:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -318,23 +318,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428234/5711f3ef1756db6fb1251e2182f8e24fc5f13c20dcab06a543b6c00141d5a084.mp3" type="audio/mpeg" length="252002181" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428233</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jazz-i-grundloven-18452428233</link>
-      <title>Jazz i Grundloven</title>
-      <description>5. juni er en lidt crowdet mærkedag herhjemme med både fars dag og Grundlovens 175-års jubilæum, men det forhindrer os ikke i at nå omkring både jazz til fædre og til demokratiet i denne morgens Snooze. 
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Wed, 05 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428233/771be90eef5917b541f81849371469a848d030733ab52c5188e03abde9d43a5e.mp3" type="audio/mpeg" length="252002165" />
     </item>
   </channel>
 </rss>

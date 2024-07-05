@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 04 Jul 2024 05:59:52 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 06:11:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460151</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Kennedys konspirationer</title>
+      <description>Han er konspirationsteoretiker, vaccine-skeptiker, præsidentkandidat og så hedder han Kennedy til efternavn. Robert F. Kennedy Junior er ikke bange for at spille på sine familiære forbindelser til onklen John F. Kennedy, selvom familien tager afstand fra ham og hans kontroversielle konspirationer. Det er usandsynligt, at han bliver USA's næste præsident, men han er alligevel blevet en sten i skoen på det i forvejen kriseramte demokratiske parti. Genstart spørger lektor i amerikansk historie ved Syddansk Universitet Kasper Grotle Rasmussen hvor stor stenen er, og hvorvidt Kennedy Jr. har tilsmudset et af de mest legendariske efternavne i amerikansk politik.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 2/7.</description>
+      <pubDate>Fri, 05 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:21</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460151/ffecd26c4ce985511fff2235fc7bc6fa04422f86c1d4aaaa224e77ecab1a6856.mp3" type="audio/mpeg" length="32194251" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460150</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

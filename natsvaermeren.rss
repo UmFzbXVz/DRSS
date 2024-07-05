@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 04 Jul 2024 06:04:23 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 06:11:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463274</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-der-paa-baenken-12422463274</link>
+      <title>Der på bænken</title>
+      <description>Skal vi tage til Kirgisistan, spørger jeg dig mens du er i gang med at samle gamle tørre grene op. Hvor ligger det, spørger du? Oppe ved himlens tag, svare jeg. Du siger du lige skal flette et hegn af de tørre grene først, så må vi se. Julian Beck er død, siger jeg. Der er ingen tid at spilde. Chopin er også død siger ud, men hans musik spiller stadigvæk. Vi er i det mindste i bevægelse fra naturens hånd, tænker jeg og tager endnu en tår af aftenen.
+Vært: Minna Grooss.</description>
+      <pubDate>Fri, 05 Jul 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463274/c1677984dbfc5c6cca6832ece41b3b8ba00549a565338765d3f9588327003135.mp3" type="audio/mpeg" length="168477578" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463267</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sitrende-12422463267</link>
@@ -389,19 +402,6 @@ Vært: Katrine Ring.
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363227/e78bb5176fb968553258cb9384bb8e6a8d8ea82f7ab81146ddd41e90e77e8b91.mp3" type="audio/mpeg" length="168482056" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363223</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-i-ballon-over-ukendte-landskaber-12422363223</link>
-      <title>I ballon over ukendte landskaber</title>
-      <description>Som at svæve i en ballon henover Cappadocia eller Bagans templer og små landsbyer med et soundtrack af Dustin O'Halloran, Aphex Twin, Mendelssohn, Jónsi &amp; Alex, Poppy Ackroyd, Ian Bostridge stemme og Izumi Tatenos snefnug.
-Vært: Minna Grooss.</description>
-      <pubDate>Thu, 01 Jun 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363223/7897a3cf55120debe49754e956dbea1de3a1af033a6a761284ea95cc79d8e8b4.mp3" type="audio/mpeg" length="172801588" />
     </item>
     <item>
       <guid isPermaLink="false">12422263424</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 04 Jul 2024 06:03:50 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 06:11:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -280,24 +280,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>00:27:32</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195718/77c213eed474e1efc7e7f8edf09e3f3b4ee4a293186e2d476651369325d24b74.mp3" type="audio/mpeg" length="39666110" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195717</guid>
-      <link>https://www.dr.dk/lyd/p3/tvaers/tvaers-20211/tvaers-mads-et-skridt-ad-gangen-2-2-13332195717</link>
-      <title>Mads - Et skridt ad gangen 2:2</title>
-      <description>Mads ligger i en hospitalseng på Rigshospitalet. Hans liv er på et splitsekund forandret for altid og foran ham venter nu en lang, sej kamp for at komme på benene igen. En rejse, der byder på den ene nedtur efter den anden - og undervejs må Mads stille sig selv spørgsmålet: Er det overhovedet værd at kæmpe videre, eller vil det være lettere bare at give op?
-
-Medvirkende: Mads Brix Baulund.
-Klip og tilrettelæggelse: Morten Narvedsen.
-Vært: Line Kirsten Nikolajsen.
-Redaktør: Morten Narvedsen.
-Programansvarlig: Karen Albertsen.</description>
-      <pubDate>Sun, 04 Jul 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:37:29</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195717/d6a8837c5cb0bef2a92ea58a0ed473596bc5c5898041510b293cd69738c2800c.mp3" type="audio/mpeg" length="54001017" />
     </item>
   </channel>
 </rss>

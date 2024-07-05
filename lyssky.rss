@@ -9,7 +9,7 @@ Vært Dan Bjerregaard kaster lys over samfundets mørke sider og giver perspekti
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 04 Jul 2024 06:04:15 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 06:11:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært Dan Bjerregaard kaster lys over samfundets mørke sider og giver perspekti
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802465012</guid>
+      <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-et-blodigt-fodaftryk-11802465012</link>
+      <title>Et blodigt fodaftryk</title>
+      <description>Nytårsnat 1990 blev 23-årige Hanne With dræbt i sin lejlighed på Nørrebro, og lige siden har politiet gemt et blodigt fodaftryk. Det er blandt beviserne mod en 54-årige mand, der nu sidder på anklagebænken. DR's retsreporter Caroline Clante er i studiet og fortæller om sagen.
+Vært: Dan Bjerregaard.</description>
+      <pubDate>Fri, 05 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802465012/159c2f5f0ee2059b407d7e3350012233721679463f62a008c3e37f398f1906bb.mp3" type="audio/mpeg" length="36767690" />
+    </item>
     <item>
       <guid isPermaLink="false">11802465011</guid>
       <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-livstid-11802465011</link>
@@ -51,7 +64,7 @@ Vært: Dan Bjerregaard.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:30:42</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802465010/c604ae9a969b98f5efeb4bc9f8d9fc098b18f804f4bab687df29f5cf66405986.mp3" type="audio/mpeg" length="44221703" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802465010/8b76bc911557a5ce46b73b4ab4b541541605e1e156d2f15c0f876322d34bda62.mp3" type="audio/mpeg" length="44221703" />
     </item>
     <item>
       <guid isPermaLink="false">11802465009</guid>
