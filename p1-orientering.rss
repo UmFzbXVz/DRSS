@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:36 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:22:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,20 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410275</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410275</link>
+      <title>Fredag 5. jul. 2024</title>
+      <description>Hvad har Nordea gjort forkert?
+Hvordan er opdelingen mellem Øst- og Vesttyskland endt sådan?  
+Og hvad er næste skridt for Keir Starmer?
+Dagens vært: Ole Brink.</description>
+      <pubDate>Fri, 05 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:26:26</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410275/d0406910952ab9c4b0a5a76a8b66de4ce4b5effd4426cfe9e851df1b8f3b7a52.mp3" type="audio/mpeg" length="124488342" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410274</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410274</link>
@@ -1545,18 +1559,6 @@ Dagens værter: Maria Hollænder og Anne Kirstine Hermann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:27:33</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410022/03e9c0f8b1a253ac10431fecc3c35a7db2dd82e4492b98c6b16fdb86f44336d3.mp3" type="audio/mpeg" length="126074050" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410021</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410021</link>
-      <title>Mandag 8. jan. 2024</title>
-      <description>Efter anklageskriftet mod en 32-årig mand i Emilie Meng-sagen, hvad er så reaktionerne? Hvorfor får Anders Breivik genoptaget sin sag om at stævne den norske stat for brud på menneskerettigheder? Hvad vil drabet på højtstående Hizbollah-leder betyde for Hizbollahs rolle i krigen? 
-Dagens værter: Søren Carlsen og Anne Kirstine Hermann.</description>
-      <pubDate>Mon, 08 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:24:21</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410021/dcbc1e3af937e08dee9e16284948d0ed7fd4fcb0102e9870466a758c08d884b6.mp3" type="audio/mpeg" length="121473538" />
     </item>
   </channel>
 </rss>

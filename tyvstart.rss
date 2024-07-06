@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:35 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:22:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,37 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450246</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-farvel-til-ronaldo-tyskland-og-wozniacki-13652450246</link>
+      <title>Farvel til Ronaldo, Tyskland... Og Wozniacki?</title>
+      <description>Frankrig og Spanien er videre til semifinalerne ved EM i fodbold. Det står klart, efter de slog henholdsvis Portugal og værtsnationen Tyskland fredag aften.
+Dermed siger vi farvel til spillere som Toni Kroos.. og måske Cristiano Ronaldo?
+Det vender vi i dagens afsnit af Tyvstart, hvor vi også bager op til Holger Runes og Caroline Wozniackis tredjerundekampe ved Wimbledon. 
+Derudover hopper vi en tur til Frankrig og Tour de France, hvor Vingegaards tidstab i fredagens enkeltstart måske ikke var så dårligt endda. 
+Vært: Thomas Loft.</description>
+      <pubDate>Sat, 06 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:52</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450246/0bb774fadac54289bc4a08222821b6a4b2a4ce1eb6f388332a8f8fce4109d68e.mp3" type="audio/mpeg" length="30064760" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13652450134</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-wozniacki-drama-og-em-duel-13652450134</link>
+      <title>Wozniacki-drama og EM-duel</title>
+      <description>Caroline Wozniacki er videre til tredje runde ved Wimbledon efter en mærkværdig kamp, der endte med at blive rykket til en anden bane midt i tredje sæt. Alligevel formåede hun at hive sejren hjem.  
+I dagens afsnit vender vi hendes lovende takter, hvor vi også skal en tur til Tyskland, da Mbappé og Cristiano Ronaldo mødes i et vaskeægte EM-brag i fodboldkampen mellem Frankrig og Portugal.  
+Derudover gør vi status i Tour de France, hvor Mads Pedersen viste lovende takter efter sit styrt, mens vi kigger frem mod den første enkeltstart, hvor Jonas Vingegaard har en mulighed for at vinde tid på Tadej Pogacar.  
+Vært: Rikke Smed.</description>
+      <pubDate>Fri, 05 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450134/a738d0d1596f184defd6c92ed3f611cfb9aa41acab92d7be582a8ef01d528644.mp3" type="audio/mpeg" length="32166008" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450133</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tausons-exit-og-ny-konge-paa-tour-tronen-13652450133</link>
@@ -2008,23 +2039,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450005/0b84d668738a412dfb6a53b09c446a4c00ab879207d2ac2da0f8f16a7a3e5193.mp3" type="audio/mpeg" length="23388925" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450004</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-lille-lukes-vilde-nytaar-13652450004</link>
-      <title>Lille Lukes vilde nytår</title>
-      <description>16-årige Luke Littler vandt ikke VM i dart. Men debutanten vandt hele verdens hjerter efter et sensationelt første VM, hvor han spillede sig helt til finalen.
-
-Undervejs slog han flere rutinerede stjerner, der har været en del af verdenseliten længere, end Luke Littler har været i live. 
-Hvor kom den 16-årige komet fra? Og kan han blive?
-
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 05 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:27</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450004/60f68bfa4af4b186efa8584f7959bd2d252e458fded6d7f286104f2b34a05ad7.mp3" type="audio/mpeg" length="26580535" />
     </item>
   </channel>
 </rss>

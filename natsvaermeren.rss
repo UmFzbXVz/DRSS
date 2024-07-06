@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:47 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:23:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -219,19 +219,6 @@ Vært: Katrine Ring.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463234/42e5b9a0277ad0d47d409efd175ce6ecf3a787ef14385f62d57e2f70ebf3b179.mp3" type="audio/mpeg" length="168481971" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463233</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-folkemusik-og-skaeve-toner-12422463233</link>
-      <title>Folkemusik og skæve toner</title>
-      <description>Gamelan, melanesisk sang og en nubisk bøn møder fremmede og velkendte toner.
-Vært: Minna Grooss.</description>
-      <pubDate>Thu, 06 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463233/aa3438010a9689ae32e796c219850c9f54114f70adac1faa714c49267ca481ab.mp3" type="audio/mpeg" length="168482026" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463151</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-det-jeg-husker-12422463151</link>
       <title>Det jeg husker</title>
@@ -295,6 +282,19 @@ Vært: Peter Albrechtsen.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363292/4b8627a5997547e1ba7abf2646bf0a863a4a196f04b4eba48fa7094f3ef9a2a8.mp3" type="audio/mpeg" length="168462018" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363267</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lyden-af-sommernat-12422363267</link>
+      <title>Lyden af sommernat</title>
+      <description>Stilfærdigt, eftertænksomt og hudløst smukt. Lise Dres, Trille, Dreamers Circus, Halvcirkel, My Beautiful Decay 1973, Laurits Hyllesteds, Rumpistol og andre der kender den danske sommer, fylder aftens falde
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 03 Jul 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363267/ef242c3ced105852f2b0420842177c90fb4271da2f51f8633a473c3ccf1f3f45.mp3" type="audio/mpeg" length="168467750" />
     </item>
     <item>
       <guid isPermaLink="false">12422363254</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:22:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433275</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433275</link>
+      <title>Fredag 5. jul. 2024</title>
+      <description>Kommer det sprøjteforbud mod pesticider som Socialdemokratiet lovede under valgkampen? Hvad ligger bag Labours historiske valgsejr i dag? Er Israel på vej i krig med Hizbollah?
+Dagens vært: Anne Kirstine Hermann.</description>
+      <pubDate>Fri, 05 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:34</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433275/dc583847ae4873e84f2933e4d99d2c0b322846d4d2c15800a6b30130e1badaa8.mp3" type="audio/mpeg" length="236992136" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433274</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433274</link>
@@ -1850,18 +1862,6 @@ Dagens værter: Bjarne Steensbeck og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:55</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433022/e7cc421ce957b36e483b6d238540db2917abf6966c0eb7220ea88a7b0388369e.mp3" type="audio/mpeg" length="237501153" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433021</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433021</link>
-      <title>Mandag 8. jan. 2024</title>
-      <description>Hvorfor må man ikke kalde Hamas for terrorister til pro Gaza-demonstrationer? Hvordan vil man komme problemet med skimmelsvamp på Rigshospitalet til livs? Og hvorfor demonstrerer landmænd i Tyskland?
-Dagens værter: Bjarne Steensbeck og Morten Runge.</description>
-      <pubDate>Mon, 08 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:03</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433021/b704a667957e4f375da741e61b3e9c977febca19a3790483938a8698b37eccb8.mp3" type="audio/mpeg" length="237696621" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Ida Rud</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:25 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:22:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Ida Rud</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452442275</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/faktor-8/faktor-8/faktor-8-18452442275</link>
+      <title>Fredag 5. jul. 2024</title>
+      <description>Selvom temperaturen stiger, behøver du ikke andet end Faktor 8 i ørerne til at være tilstrækkeligt beskyttet og kan danse frit i formiddagssolen. Vær med når Ida Rud tager imod postkort fra lytterne, stiller ind på sommerens temaer og tager et hvil under parasollen.
+Vært: Ida Rud</description>
+      <pubDate>Fri, 05 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452442275/a4640ebcf52f475b3fdb9b56b92ccfd97e3f9c282d9a8fef45553ec19a52c890.mp3" type="audio/mpeg" length="165602170" />
+    </item>
     <item>
       <guid isPermaLink="false">18452442274</guid>
       <link>https://www.dr.dk/lyd/p8jazz/faktor-8/faktor-8/faktor-8-18452442274</link>

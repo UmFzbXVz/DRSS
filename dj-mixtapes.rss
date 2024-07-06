@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:22:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
+    <item>
+      <guid isPermaLink="false">13332416275</guid>
+      <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-lisa-fosmark-1-13332416275</link>
+      <title>Lisa Fosmark #1</title>
+      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
+Lisa Fosmark er bag pulten.</description>
+      <pubDate>Fri, 05 Jul 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416275/708cfdca29e92db74b016f7f178b682031a933a1e8284ce798e213b1b7baff05.mp3" type="audio/mpeg" length="259201582" />
+    </item>
     <item>
       <guid isPermaLink="false">13332416265</guid>
       <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-av-av-av-4-13332416265</link>
@@ -322,19 +335,6 @@ Rune Rask er DJ.</description>
       <itunes:duration>03:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416025/c610416f73af9c93f3879ead92c9de2f0b148be57b0a49fa6c843cf8a6b7498f.mp3" type="audio/mpeg" length="259395026" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332416015</guid>
-      <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-rune-rask-mix-1-13332416015</link>
-      <title>Rune Rask Mix #1</title>
-      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-Rune Rask er DJ.</description>
-      <pubDate>Fri, 05 Jan 2024 20:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:01:21</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416015/9b38373dadc7f0db3d661101ed50102ac632ba42b4413f93d404a370fc76a1f5.mp3" type="audio/mpeg" length="261167954" />
     </item>
   </channel>
 </rss>

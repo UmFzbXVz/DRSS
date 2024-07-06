@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:28 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:22:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -301,23 +301,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428235/75c71c1576327409073fafaf0fd826f58d0b00a5f3155d3e97288483d984f824.mp3" type="audio/mpeg" length="252001608" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428234</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-jamaicas-piano-konge-fylder-rundt-18452428234</link>
-      <title>Jamaicas piano-konge fylder rundt</title>
-      <description>Den jamaicansk-amerikanske jazzpianist Monty Alexander fylder rundt i dag - 80 år er gået med en melodisk og svingende fusion af bebop, swing og jamaicanske traditioner, et musikalsk konglomerat, som fylder Snooze denne morgen.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Thu, 06 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428234/5711f3ef1756db6fb1251e2182f8e24fc5f13c20dcab06a543b6c00141d5a084.mp3" type="audio/mpeg" length="252002181" />
     </item>
   </channel>
 </rss>

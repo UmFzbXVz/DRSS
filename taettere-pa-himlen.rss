@@ -9,7 +9,7 @@ Andrew Moyo har dig. Kom nu!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:45 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 06:23:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -285,19 +285,6 @@ Andrew Moyo har dig. Kom nu!</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429025/c28805a0dd6b14acfb72ef742b00fcab7c17e60d691209ba220f0a2b98bd9cf5.mp3" type="audio/mpeg" length="172995038" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332429015</guid>
-      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-mathilde-muus-og-anton-ringdal-13332429015</link>
-      <title>Med Mathilde Muus og Anton Ringdal</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!</description>
-      <pubDate>Fri, 05 Jan 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429015/187d038371e8fa7199c91100c2f775e850e6b444839884490d313452cf596db4.mp3" type="audio/mpeg" length="172994421" />
     </item>
   </channel>
 </rss>
