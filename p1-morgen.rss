@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 06 Jul 2024 06:22:56 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433276</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433276</link>
+      <title>Lørdag 6. jul. 2024</title>
+      <description>Hvorfor bliver et håndtegn på en fodboldbane til en diplomatisk krise? Hvad viser EVA-undersøgelse om studerendes trivsel på kønssskæve uddannelser? Og hvordan kan Israel slippe afsted med at godkende så stor en beslaglæggelse af jord på Vestbredden?
+Dagens vært: Ole Brink.</description>
+      <pubDate>Sat, 06 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:05</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433276/b51d56c611d57b877b64da9ca1617a9417c646d583900fb79ef953a29b45cab8.mp3" type="audio/mpeg" length="158545016" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433275</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433275</link>
@@ -1850,18 +1862,6 @@ Dagens værter: Ole Brink og Maria Hollænder.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:17</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433023/b181545745f38a032bd81b28af7d50dc58dc0045431f05cdbdd0831d570c4a38.mp3" type="audio/mpeg" length="236586671" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433022</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433022</link>
-      <title>Tirsdag 9. jan. 2024</title>
-      <description>Hvorfor er det nødvendigt at lave tiltag som kan virke konkurrenceforvridende indenfor EU? Lov om Margrethes civilliste fra 1972 skal afløses af nye love. Hvad sker der med Kongehusets apanager? Og vil Rusland have mere end de mål, som de foreløbigt har erklæret?
-Dagens værter: Bjarne Steensbeck og Ole Brink.</description>
-      <pubDate>Tue, 09 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:55</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433022/e7cc421ce957b36e483b6d238540db2917abf6966c0eb7220ea88a7b0388369e.mp3" type="audio/mpeg" length="237501153" />
     </item>
   </channel>
 </rss>

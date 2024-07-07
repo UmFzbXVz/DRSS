@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/interrail" rel="self" type="application/rss+xml" />
+    <title>Sommerekspressen</title>
+    <link>https://www.dr.dk/lyd/p8jazz/sommerekspressen-5627030182000</link>
+    <description>Pak nysgerrigheden med ned i rygsækken og kom på mental getaway, hvor du kan opleve lidt af hvert. Globussen drejer, og Sommerekspressen rykker ud. Det bliver en tur fuld af overraskelser, når Magnus Løppenthin giver dig to timers sommerradio hver lørdag fra kl. 10-12.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:08 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/interrail.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6682a4ba36040837a27baa0c.jpg</url>
+      <title>Sommerekspressen</title>
+      <link>https://www.dr.dk/lyd/p8jazz/sommerekspressen-5627030182000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6682a4ba36040837a27baa0c.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452449276</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/sommerekspressen/sommerekspressen/sommerekspressen-18452449276</link>
+      <title>Lørdag 6. jul. 2024</title>
+      <description>Pak nysgerrigheden med ned i rygsækken og kom på mental getaway, hvor du kan opleve lidt af hvert. Globussen drejer, og Sommerekspressen rykker ud. Det bliver en tur fuld af overraskelser, når Magnus Løppenthin giver dig to timers sommerradio hver lørdag fra kl. 10-12.</description>
+      <pubDate>Sat, 06 Jul 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452449276/9d17093af738af94f5a3c3859da1d83a2733d1ff0c04d0836484472a26bb92da.mp3" type="audio/mpeg" length="168481599" />
+    </item>
+  </channel>
+</rss>

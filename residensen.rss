@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 06 Jul 2024 06:22:43 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421276</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-roskile-festival-13332421276</link>
+      <title>På Roskile Festival</title>
+      <description>Værter: Nynne Givskov og Kasper Reippurt.</description>
+      <pubDate>Sat, 06 Jul 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421276/8567f9d78fb9383a8b7b68de05e407447470ce44ef53472a053fd533abccae0a.mp3" type="audio/mpeg" length="172801397" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421275</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-roskile-festival-13332421275</link>
@@ -235,18 +247,6 @@ Tlf. gæst: Jarl Friis-Mikkelsen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421236/23c5a279977a0e690e3b7b2d595711eb02f1ca7d80f47702c65a3062af642c8c.mp3" type="audio/mpeg" length="172801945" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421235</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-northside-13332421235</link>
-      <title>På NorthSide</title>
-      <description>Værter: Nynne Givskov og Kasper Reippurt.</description>
-      <pubDate>Fri, 07 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:59:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421235/908646a309ce73cbb8d2b742f8d3f6259918cb9f5dd375d6989363c61293d62a.mp3" type="audio/mpeg" length="172800814" />
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 06 Jul 2024 06:14:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:10:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460152</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Markagers mission</title>
+      <description>Fjordbunden er sort og livløs. Der lugter af rådne æg, og blade fra ålegræsset flyder rundt i havoverfladen. Det er tidligt på sommeren, men allerede nu kan professor Stiig Markager se alle tegnene på iltsvind fra sin sejlbåd i Isefjord. I 20 år har han igen og igen råbt op om, at vores hav er ved at dø. Og at årsagen er kvælstofudledning fra landbruget. Tirsdag i sidste uge landede så den grønne trepart, der er nået frem til en Co2-model for landbruget, og med sig har den også en gigantisk jordbrugsfond, der skal omkalfatre det danske landskab. Opdyrkede marker skal vige for ådale, enge og skov. Genstart spørger i dag Stiig Markager, om aftalen er svaret på det, han har efterlyst i 20 år. Og om vores farvande faktisk får luft igen.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 3/7.</description>
+      <pubDate>Sun, 07 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460152/9f7fb7fb5297b8a8f89ccaf2e340db43de57cb8325eb7b55925c17d156c367c1.mp3" type="audio/mpeg" length="36566093" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460151</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

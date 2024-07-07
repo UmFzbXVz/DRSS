@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 06 Jul 2024 06:22:57 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450247</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dramatikeren-rune-og-hollands-genopstandelse-13652450247</link>
+      <title>Dramatikeren Rune og Hollands genopstandelse</title>
+      <description>Holger Rune er videre til fjerde runde ved Wimbledon efter en højdramatisk kamp i fem sæt mod Quentin Halys. Desværre må vi vinke farvel til Caroline Wozniacki, der røg ud med et brag.
+Det vender vi i dagens afsnit, hvor vi også drøfter de fire EM-semifinalister, og om hvilke danskere man nu skal holde øje med i den kommende uge af årets Tour de France. 
+Vært: Thomas Loft.</description>
+      <pubDate>Sun, 07 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450247/cc5203cd16812c61882e4828d7fa79d0cc16c6087c48a7e8d9dfe7ea9fdf5be9.mp3" type="audio/mpeg" length="27224508" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450246</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-farvel-til-ronaldo-tyskland-og-wozniacki-13652450246</link>

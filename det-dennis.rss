@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/det-dennis" rel="self" type="application/rss+xml" />
+    <title>Det´ Dennis</title>
+    <link>https://www.dr.dk/lyd/p5/det-dennis-5592431393000</link>
+    <description>Vært: Dennis Johannesson</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:08 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/det-dennis.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66828f1236040837a27b53af.jpg</url>
+      <title>Det´ Dennis</title>
+      <link>https://www.dr.dk/lyd/p5/det-dennis-5592431393000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66828f1236040837a27b53af.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452491276</guid>
+      <link>https://www.dr.dk/lyd/p5/det-dennis/det-dennis/det-dennis-15452491276</link>
+      <title>Lørdag 6. jul. 2024</title>
+      <description>"Det' Dennis" er programmet, hvor du får det bedste fra P5's musikverden blandet med de gode historier. 
+Uanset om du er på arbejde, på farten eller nyder din fridag, er Dennis Johannesson din formiddagsmakker i weekenden på P5 - klar til at gøre din dag lidt bedre med masser af musik og godt selskab"
+Vært: Dennis Johannesson.</description>
+      <pubDate>Sat, 06 Jul 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452491276/b6dc11a3aa3e7bc30db4e421143c1b177c1cf5a319a06652470df4ff9c84cc2a.mp3" type="audio/mpeg" length="168482162" />
+    </item>
+  </channel>
+</rss>

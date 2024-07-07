@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 06 Jul 2024 06:23:05 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463276</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-dedikation-12422463276</link>
+      <title>Dedikation</title>
+      <description>Hør musik tilegnet en ven, en elsket, eller en afdød. Det kan også være til månen, til mor eller til et klaver. Når komponister og sangskrivere tænker på en særlig, får det ofte det bedste frem.
+Vært: Tina Rømer.</description>
+      <pubDate>Sun, 07 Jul 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463276/4be74b0bfa111ab115966a3d59e82604f73751cb84909e7e96433c97ce114dd3.mp3" type="audio/mpeg" length="168478687" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463274</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-der-paa-baenken-12422463274</link>
@@ -204,19 +217,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463236/95bc85491fbab1c0a60a47f6c62e64f580e6875c53ae4c5958f389ea77c39546.mp3" type="audio/mpeg" length="168481435" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463234</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-det-er-nat-12422463234</link>
-      <title>Det er nat</title>
-      <description>- og det er godt nok mørkt.
-Vært: Katrine Ring.</description>
-      <pubDate>Fri, 07 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463234/42e5b9a0277ad0d47d409efd175ce6ecf3a787ef14385f62d57e2f70ebf3b179.mp3" type="audio/mpeg" length="168481971" />
     </item>
     <item>
       <guid isPermaLink="false">12422463151</guid>

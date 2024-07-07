@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 06 Jul 2024 06:22:44 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -276,20 +276,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424241/86eac86b7a65ecf8dc29f8a7ccbc38f3d72be9b4514f12205702950854ae7ad9.mp3" type="audio/mpeg" length="168482164" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452424235</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/formiddag-for-evigt/formiddag-for-evigt-2024/formiddag-for-evigt-den-afrokanske-gloed-18452424235</link>
-      <title>Den afrokanske glød</title>
-      <description>Fredagen betyder musik der brænder med en anden glød og i dag besøger vi musikken der har fået en lille smule afro på sig. Lytterne har spændende ting for i deres weekend og der bliver delt musik ud til 101 års fødselsdage, champagnecykelture og bykamps træning i Oksbøl.
-Vært og tilrettelægger: Niels Christian Cederberg.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Fri, 07 Jun 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452424235/b1d053e337af5b3764509a84921794cc2146419228f1fafa22d58fb2dd10a821.mp3" type="audio/mpeg" length="168482192" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 06 Jul 2024 06:23:03 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405276</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405276</link>
+      <title>Lørdag 6. jul. 2024</title>
+      <description>Præludium:	Naji Hakim: O Gud, du ved og kender
+Davidssalme: 46, 2-4 og 8 
+Salme: 598 "O Gud, du ved og kender"
+Fra det N.T.:	Romerbrevet 3, 23-28
+Trosbekendelsen	
+Salme: 52 "Du Herre Krist, min frelser est"
+Postludium: Christian Præstholm: Du Herre krist, min frelser est</description>
+      <pubDate>Sat, 06 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405276/703f5d1a67c9cb247d4da469996ecd4545e1aab93fbf493b7e08b188c696cc8f.mp3" type="audio/mpeg" length="36001574" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405275</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405275</link>
@@ -456,24 +474,6 @@ Postludium: Georg Böhm: Nu bede vi den Helligånd.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405236/18476693ead9655f65677a6cbf8dcfc38506599825e3a4808ffb0cd10cca02d2.mp3" type="audio/mpeg" length="36001523" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405235</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405235</link>
-      <title>Fredag 7. jun. 2024</title>
-      <description>Præludium: Lasse Toft Eriksen: Vågn op og slå på dine strenge.
-Fra det G.T.: Esajas 60,18-22.
-Salme: 745 "Vågn op og slå på dine strenge".
-Fra det N.T.: Matthæusevangeliet 5, 13-16.
-Korvers: Rued Langgaard: Helligånd! Du samle folket (tekst: efter Grundtvig).
-Salme: 318 "Stiftet Guds Søn har på jorden et åndeligt rige".
-Postludium: Max Reger: Stiftet Guds Søn har på Jorden et åndeligt rige.</description>
-      <pubDate>Fri, 07 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405235/62da967038598517586e5315cfa2ab49c3b90d158468e97557e8f9d49b09924e.mp3" type="audio/mpeg" length="36001590" />
     </item>
   </channel>
 </rss>

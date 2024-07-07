@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/postkort-paa-p4" rel="self" type="application/rss+xml" />
+    <title>Postkort på P4</title>
+    <link>https://www.dr.dk/lyd/p4/postkort-paa-p4-5591769940000</link>
+    <description>Produceret for DR af MorLillen Rocks.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:09 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/postkort-paa-p4.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:667b3fcea95e7e872dc23fb8.jpg</url>
+      <title>Postkort på P4</title>
+      <link>https://www.dr.dk/lyd/p4/postkort-paa-p4-5591769940000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:667b3fcea95e7e872dc23fb8.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122444276</guid>
+      <link>https://www.dr.dk/lyd/p4/postkort-paa-p4/postkort-paa-p4-2024/postkort-paa-p4-16122444276</link>
+      <title>Lørdag 6. jul. 2024</title>
+      <description>Hvad skal du i sommerferien? Skriv et postkort på mailadressen postkortp4@dr.dk og fortæl, hvad du får sommeren til at gå med. Julie Bundgaard samler postkort ind og kvitterer med sommerhits, når hun sender lytternes hilsner ud i sommerlandet, mens danske kunstnere sender "lyd-kort" til alle P4's lyttere.</description>
+      <pubDate>Sat, 06 Jul 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122444276/0e5de269b3da5ec54c5a2f2c40a45e859e8913603977032129d4549f2613b7fe.mp3" type="audio/mpeg" length="151201594" />
+    </item>
+  </channel>
+</rss>

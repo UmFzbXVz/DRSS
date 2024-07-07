@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 06 Jul 2024 06:22:35 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:20:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Produceret for DR af MonoMono.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122423276</guid>
+      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-det-indre-barn-og-livsakrobaten-med-susse-wold-16122423276</link>
+      <title>Det indre barn og livsakrobaten - med Susse Wold</title>
+      <description>Skuespiller Susse Wold er gæst hos Alex, og samtalen handler blandt andet om vand som symbol på underbevidstheden, om Den Lille Prins og om at holde fast i det indre barn og blive ved med at prøve noget nyt.  Susse spiller blandt andet Palle Mikkelborg og Albinoni. Alex spiller blandt andet John Adams, Schumann og Bach. 
+
+Vært: Alexander McKenzie, pianist og komponist.
+Gæst: Susse Wold, skuespiller.
+Producer og redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Sat, 06 Jul 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:53:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423276/2f69a89bc5f58f9a253479023b46789a1adbfa26fad5115b2a5ab058d047a34c.mp3" type="audio/mpeg" length="162762505" />
+    </item>
     <item>
       <guid isPermaLink="false">16122423266</guid>
       <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-store-foelelser-i-rummet-og-barndommens-poesi-16122423266</link>
