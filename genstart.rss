@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 07 Jul 2024 06:10:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:17:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460153</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Livvagt for Assange</title>
+      <description>Han holder vagt, da et sammensurium af journalister, kendisser og hackere fejrer Julian Assanges 40 års fødselsdag på et landsted i England. Og han går lige ved siden af ham, da Assange møder op i High Court i London. Som livvagt og sikkerhedsansvarlig har Dan Sommer i en årrække været helt tæt på den sagnomspundne WikiLeaks-stifter og hans entourage. Og da Assange for nyligt erklærer sig skyldig i at have lækket hemmelige dokumenter, og efterfølgende lander i Australien som en fri mand, sætter det også en slags punktum for Dan. I dagens Genstart tager han os med ind i miljøet omkring Assange, hvor grænsen mellem helte og skurke kan være ganske sløret. 
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 4/7.</description>
+      <pubDate>Mon, 08 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:29:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460153/97e4f867179a8287d1db2ad0e31db0b35d0fe427cb3e5e193ed8b5f70038cb5f.mp3" type="audio/mpeg" length="42140618" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460152</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

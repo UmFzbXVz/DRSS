@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 07 Jul 2024 06:19:54 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:22:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -272,18 +272,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>01:03:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436602/00e46a8dfab75c65c1152d27af8c1fedfeeca06d640ba5ba1e20874c59eca6a2.mp3" type="audio/mpeg" length="90761912" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452436601</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-pede-b-og-common-the-dreamer-the-believer-16452436601</link>
-      <title>Pede B og Common "The Dreamer, The Believer"</title>
-      <description>Vi skal snakke masser af kærlighed, nostalgi og dis-tracks, når Pede B tager os helt med ned på avisruten i 90'erne, hvor kærligheden til rapperen Commons musik startede. Vi skal høre om, hvordan Common ved et tilfælde hørte Pede B's børnerap og øjeblikkeligt fik Pede til at stoppe med at peed-rappe, og vi skal høre om, hvorfor albummet "The Dreamer, the Believer" er en kæmpe kærlighedsbolle med massive hits og sindsyge beats. Godt nytår og velkommen til Længe Leve Albummet 2024!</description>
-      <pubDate>Sun, 07 Jan 2024 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:13</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436601/0545b1cef8fbb299f2391b3f266d859a41fa1412028ddbcd535598a116b9a1ab.mp3" type="audio/mpeg" length="82404156" />
     </item>
   </channel>
 </rss>

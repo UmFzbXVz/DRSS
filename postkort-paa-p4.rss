@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 07 Jul 2024 06:20:09 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:22:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122444277</guid>
+      <link>https://www.dr.dk/lyd/p4/postkort-paa-p4/postkort-paa-p4-2024/postkort-paa-p4-16122444277</link>
+      <title>Søndag 7. jul. 2024</title>
+      <description>Hvad skal du i sommerferien? Skriv et postkort på mailadressen postkortp4@dr.dk og fortæl, hvad du får sommeren til at gå med. Julie Bundgaard samler postkort ind og kvitterer med sommerhits, når hun sender lytternes hilsner ud i sommerlandet, mens danske kunstnere sender "lyd-kort" til alle P4's lyttere.</description>
+      <pubDate>Sun, 07 Jul 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122444277/ad9e54b250b4fc4bae71754309cb2e56d9ef3ec3f00d67c3518e522bb89011c0.mp3" type="audio/mpeg" length="151201594" />
+    </item>
     <item>
       <guid isPermaLink="false">16122444276</guid>
       <link>https://www.dr.dk/lyd/p4/postkort-paa-p4/postkort-paa-p4-2024/postkort-paa-p4-16122444276</link>

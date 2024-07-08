@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 07 Jul 2024 06:20:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:22:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450135</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tre-noegler-til-rune-sejr-over-graeskongen-13652450135</link>
+      <title>Tre nøgler til Rune-sejr over græskongen</title>
+      <description>Hvordan slår Holger Rune tenniskongen Novak Djokovic ved Wimbledon? Tyvstart har svaret, når vi kommer med tre nøgler til sejr.
+Og så skal vi også forbi 9. etape af Tour de France, der bød på grus, drama og en mand i gult, som bare ikke kunne stoppe med at angribe. 
+Vært: Rikke Smed.</description>
+      <pubDate>Mon, 08 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:43</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450135/9ae8d1dfad3d821d41619626cc0c6a2adff214d98833bf617bbc95717cd651a2.mp3" type="audio/mpeg" length="28416175" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450247</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dramatikeren-rune-og-hollands-genopstandelse-13652450247</link>

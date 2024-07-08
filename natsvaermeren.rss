@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 07 Jul 2024 06:20:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:22:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -402,21 +402,6 @@ Vært: Katrine Ring.
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363227/e78bb5176fb968553258cb9384bb8e6a8d8ea82f7ab81146ddd41e90e77e8b91.mp3" type="audio/mpeg" length="168482056" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422263424</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-kaleidoskob-12422263424</link>
-      <title>Kaleidoskob</title>
-      <description>Et mønster er aldrig givet på forhånd. Natsværmeren væver tider, genre og lande sammen og skaber nye farvetoner denne aften. Noget er hørt før, mens andet opstår i en ny sammenhæng og klinger på en anden måde ny måde. Et bud kunne være Joni Mitchell side om side med Phillip Glass, eller Marianne Faithfull der læner sig op ad Vladimir Horowitz og Haydn. Altid med plads til uforudsete overraskelser
-Vært: Minna Grooss.
-www.dr.dk/p2
-(Sendt første gang 21. oktober 2022).</description>
-      <pubDate>Fri, 21 Oct 2022 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263424/a22ad859e6ec24a9e24bc61943d7e026eccb3985ad8c0942e20a9ab434e5019a.mp3" type="audio/mpeg" length="172802193" />
     </item>
   </channel>
 </rss>

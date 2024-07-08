@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 07 Jul 2024 06:20:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:20:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -51,19 +51,6 @@ Vært: Charlotte Striib</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428274/0a8c270b68bd5e9b6dcb68594fe25f2ca3dd7d1945d96d585d9eb4b1068f4d19.mp3" type="audio/mpeg" length="168481556" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452428273</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-sommerselskab-15452428273</link>
-      <title>Det gode sommerselskab</title>
-      <description>Tips til sommeraktiviteter blandes op med skøn sommermusik. Du kommer rundt i DR Byens krinkelkroge, når den nysgerrige mikrofon er på tur. Og så får du dagens arkivindslag - fra 1974.     
-Vært: Charlotte Striib</description>
-      <pubDate>Wed, 03 Jul 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428273/79ce747d888954a8b3158da8e06c521de3427d4dc1445640a0dbbc8ea81f2c21.mp3" type="audio/mpeg" length="168482132" />
     </item>
   </channel>
 </rss>

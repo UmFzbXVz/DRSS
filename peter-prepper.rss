@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 07 Jul 2024 06:20:30 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:22:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493209</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-gadgets-for-preppere-16122493209</link>
+      <title>Gadgets for preppere</title>
+      <description>Tech-ekspert David Guldager er i studiet og gennemgår den nyeste teknologi inden for prepping. Hvilke apps kan hjælpe dig med dine forberedelser? Hvordan sikrer du dig, at de er tilgængelige, hvis strømmen ryger? Og hvad er det for en ny opfindelse, som Peter Falktoft allerede kastet penge efter, men som formentligt aldrig i sin nuværende form finder vej til Danmark.
+ GÆST: David Guldager, tech-ekspert og journalist.
+
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 08 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:33:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493209/36669e31b7a426d8f614f6f17512a848d8c87e341926c93cce7b773ba1201f19.mp3" type="audio/mpeg" length="48408636" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493208</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-pandemi-ikke-igen-16122493208</link>

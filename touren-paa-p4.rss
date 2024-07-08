@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 07 Jul 2024 06:20:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:22:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652401277</guid>
+      <link>https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2024/touren-paa-p4-13652401277</link>
+      <title>Søndag 7. jul. 2024</title>
+      <description>Touren på P4 giver dig ultimativ sommerferiestemning! Vi er klar med udsøgt cykelløb, danskere i topklasse, fede præmier og røverhistorier fra Frankrig. 
+Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du kan følge med i verdens største cykelløb uden at bruge sommerferien i sofaen.</description>
+      <pubDate>Sun, 07 Jul 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>04:00:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401277/7ef7ac6c76de0c8abe717d601321fdd2f219eff146466c65b5d6148b959ea494.mp3" type="audio/mpeg" length="345685693" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652401276</guid>
       <link>https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2024/touren-paa-p4-13652401276</link>
       <title>Lørdag 6. jul. 2024</title>
@@ -34,9 +47,9 @@ Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du ka
       <pubDate>Sat, 06 Jul 2024 15:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
+      <itunes:duration>02:58:45</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401276/b385b6cfe17cc713bfe67c8063208467baa14079db3b171c79ede8002dab8b2a.mp3" type="audio/mpeg" length="254882173" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401276/2e17b7859bed813cb7c46a5946ae3793c3bd15e56675bba0ef255fa570b46f52.mp3" type="audio/mpeg" length="257414269" />
     </item>
     <item>
       <guid isPermaLink="false">13652401275</guid>
@@ -63,19 +76,6 @@ Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du ka
       <itunes:duration>02:42:56</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401274/fed6dc4ed1868c2da920f85a8d1dd8da00ac6c8fea25a05d8325700a30575a46.mp3" type="audio/mpeg" length="234640957" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652401273</guid>
-      <link>https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2024/touren-paa-p4-13652401273</link>
-      <title>Onsdag 3. jul. 2024</title>
-      <description>Touren på P4 giver dig ultimativ sommerferiestemning! Vi er klar med udsøgt cykelløb, danskere i topklasse, fede præmier og røverhistorier fra Frankrig. 
-Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du kan følge med i verdens største cykelløb uden at bruge sommerferien i sofaen.</description>
-      <pubDate>Wed, 03 Jul 2024 15:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:43:11</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401273/519735d885923f5d6a5bd32d4106deb402af69a648231fd65177d15e60a1e7c2.mp3" type="audio/mpeg" length="234989437" />
     </item>
   </channel>
 </rss>

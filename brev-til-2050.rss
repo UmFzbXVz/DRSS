@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/brev-til-2050" rel="self" type="application/rss+xml" />
+    <title>Brev til 2050</title>
+    <link>https://www.dr.dk/lyd/p1/brev-til-2050-5609509916000</link>
+    <description>Egentlig må man jo ikke åbne andre folks breve... men for klimaet, må vi gøre en undtagelse. 'Brev til 2050' er en serie til fremtiden. Et brev fra os til dem, der lever i år 2050.
+Til den tid har den globale opvarmning givet et vildere og mere ekstremt klima. Eksperterne har advaret om udviklingen i årevis, så hvorfor bliver de fleste af os ved med f.eks. at flyve og forbruge, som vi altid har gjort? Og hvad siger vi til næste generation, der må leve med vores beslutninger og ikke-beslutninger? 
+I 'Brev til 2050' skriver vært Ole Brink sammen med en gæst et brev til fremtiden.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Mon, 08 Jul 2024 05:22:33 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/brev-til-2050.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66867efa0f1f2e6ed7962e15.jpg</url>
+      <title>Brev til 2050</title>
+      <link>https://www.dr.dk/lyd/p1/brev-til-2050-5609509916000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66867efa0f1f2e6ed7962e15.jpg" />
+    <category>News</category>
+    <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802401501</guid>
+      <link>https://www.dr.dk/lyd/p1/brev-til-2050/brev-til-2050-1/brev-til-2050-1-6-fra-professor-eske-willerslev-11802401501</link>
+      <title>1:6 - fra professor Eske Willerslev</title>
+      <description>Egentlig må man jo ikke åbne andre folks breve... men for klimaet, må vi gøre en undtagelse. 'Brev til 2050' er en serie til fremtiden. Et brev fra os til dem, der lever i år 2050.
+Til den tid har den globale opvarmning givet et vildere og mere ekstremt klima. Eksperterne har advaret om udviklingen i årevis, så hvorfor bliver de fleste af os ved med f.eks. at flyve og forbruge, som vi altid har gjort? Og hvad siger vi til næste generation, der må leve med vores beslutninger og ikke-beslutninger? 
+I denne episode af 'Brev til 2050' skriver vært Ole Brink sammen med professor Eske Willerslev et brev til fremtiden.</description>
+      <pubDate>Mon, 08 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:34:30</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802401501/c6b91313fcdb61c9cae4e19751c744fb258cae55cbc10e98cb8881d049c58690.mp3" type="audio/mpeg" length="49701191" />
+    </item>
+  </channel>
+</rss>
