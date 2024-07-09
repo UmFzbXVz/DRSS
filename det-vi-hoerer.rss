@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 08 Jul 2024 05:22:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -482,6 +482,22 @@ Vært: Magnus Larsson.</description>
       <itunes:duration>01:49:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381841/b7010562610d2c3741f93e003997cb84a9193b23dcbe0d36f9424f62e1d6510c.mp3" type="audio/mpeg" length="156966219" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381823</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/nina-oerum/det-vi-hoerer-cello-jalousi-12422381823</link>
+      <title>Cello-jalousi</title>
+      <description>Drømmen om at blive cellist - bare på amatørniveau - gik aldrig i opfyldelse. Så jeg må nøjes med at lytte til cello og forsøge at tøjle misundelsen på dem, der spiller. Musikken er af bl.a. Shostakovich, Niels Rønsholdt og Chopin. Celloerne bliver suppleret af klarinet, klaver, sang og andet.
+Vært: Nina Ørum.</description>
+      <pubDate>Tue, 11 Jul 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000080003</itunes:order>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:47</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381823/c81700c2def06fd1a9d9397a8900db3692b4725fc3dbed28669b2893573daeb8.mp3" type="audio/mpeg" length="156668425" />
     </item>
     <item>
       <guid isPermaLink="false">12422381822</guid>

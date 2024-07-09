@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/copenhagen-jazz-festival" rel="self" type="application/rss+xml" />
+    <title>Copenhagen Jazz Festival</title>
+    <link>https://www.dr.dk/lyd/p8jazz/copenhagen-jazz-festival-5587269486000</link>
+    <description>Vært:</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:36 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/copenhagen-jazz-festival.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:668bae44305d94be17069f1a.jpg</url>
+      <title>Copenhagen Jazz Festival</title>
+      <link>https://www.dr.dk/lyd/p8jazz/copenhagen-jazz-festival-5587269486000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:668bae44305d94be17069f1a.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452444281</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/copenhagen-jazz-festival/copenhagen-jazz-festival/copenhagen-jazz-festival-18452444281</link>
+      <title>Mandag 8. jul. 2024</title>
+      <description>P8 er med live midt fra Copenhagen Jazz Festival 2024. Vi giver dig stemningsrapporter og interviews med nogle af de danske og internationale jazz kunstnere der optræder under årets festival.
+Værter: Naya Buric, Niels Christian Cederberg og Frederik Korfix.</description>
+      <pubDate>Mon, 08 Jul 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452444281/749376be068b36806bfe6f31a26c318735685a8c3a815707499e30810776af3d.mp3" type="audio/mpeg" length="168481604" />
+    </item>
+  </channel>
+</rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 08 Jul 2024 05:22:33 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433281</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433281</link>
+      <title>Mandag 8. jul. 2024</title>
+      <description>Hvordan vil venstrefløjen i Frankrig bruge den store fremgang? Hvad er LOL-drugging? Og hvorfor har Birgit Stenbak Hansen valgt at stoppe som borgmester i Frederikshavn Kommune?
+Dagens vært: Ole Brink.</description>
+      <pubDate>Mon, 08 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:59</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433281/f925658c52528066b1fecdec9be625d4b4a438dff967422bb014c6cfdd8f8e44.mp3" type="audio/mpeg" length="237595771" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433276</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433276</link>
@@ -1838,18 +1850,6 @@ Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:03</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433025/6fee6d62ac1d1a4e6dd05223543785406dc1ec66642d54dc7333a8f181fc0f93.mp3" type="audio/mpeg" length="237689110" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433024</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433024</link>
-      <title>Torsdag 11. jan. 2024</title>
-      <description>Hvorfor bliver millennial-generationen aldrig træt af Mean Girls? Hvordan mener Sydafrika, at Israel begår et folkedrab mod palæstinenserne i Gaza? Og har Lars Boje et ansvar i Nye Borgerliges opløsning?
-Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
-      <pubDate>Thu, 11 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:41:44</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433024/84be91277f31d95cef36eb89d6cdf120a1d29bcd0092e8a9afc0c116a0f10c19.mp3" type="audio/mpeg" length="232918131" />
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 08 Jul 2024 05:17:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460154</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Le Pens løveunge</title>
+      <description>Han står knivskarpt. Altid nyklippet og ulasteligt klædt. Sveder aldrig, hidser sig aldrig op, og han er heller ikke særlig sjov. Til gengæld har han taget franskmændene med storm. 28-årige Jordan Bardella har gjort politisk kometkarriere i højrefløjspartiet National Samling, og selv kalder Marine Le Pen ham for sin løveunge. Når franskmændene har sat deres kryds ved anden valgrunde på søndag, kan han vise sig at blive Frankrigs næste premierminister. Mens Macron holder fast i, at stemmerne på Bardella er en protest, kan Bardellas succes måske tvinge ham til at indse, at højrefløjen ikke længere er et komma i Frankrig - men et helt nyt kapitel. Stéphanie Surrugue, DRs internationale korrespondent, fortæller om den franske højrefløjs nye, polerede håb.    
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 5/7.</description>
+      <pubDate>Tue, 09 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:47</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460154/bd02ff96786ad58a2a61a380be30b842251556cacc09e6712266955a1251dbe3.mp3" type="audio/mpeg" length="34261515" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460153</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

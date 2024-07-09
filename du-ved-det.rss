@@ -10,7 +10,7 @@ Vært: Marie Hobitz.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 08 Jul 2024 05:22:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -68,20 +68,6 @@ Vært: Marie Hobitz.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424247/937dd48cedfb3f8f1350b77a2b25aedd0ccf1b02445767ff1b686e6cfb5859ec.mp3" type="audio/mpeg" length="172801604" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332424237</guid>
-      <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-balalajka-vaerterne-13332424237</link>
-      <title>Balalajka-værterne</title>
-      <description>'Du ved det' helt sikkert godt, så find telefonen frem, og gør dig klar til at blive quizzet i al den musik, du elsker at lytte til!
-Der er eksklusive P3-sokker på højkant og vanvittig søndagshygge, når Marie inviterer indenfor i P3's helt eget musikquizprogram.
-Vært: Marie Hobitz.</description>
-      <pubDate>Sun, 09 Jun 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424237/f9e9fac578e46b3adf8441558703d38eafa6d6b4707b07292af81719536668b5.mp3" type="audio/mpeg" length="172802181" />
     </item>
   </channel>
 </rss>

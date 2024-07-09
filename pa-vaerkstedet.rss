@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 08 Jul 2024 05:22:19 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -78,6 +78,19 @@ Producer og tilrettelægger: Iben Mogensen.</description>
       <itunes:duration>01:15:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422453031/d8b3e8e1ce68e012ed489935a0a9fd27cc40f3a3c0a41a0654a2cab2a5b70631.mp3" type="audio/mpeg" length="108002185" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422353431</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet-2023/paa-vaerkstedet-anne-dorte-michelsen-sanger-og-sangskriver-12422353431</link>
+      <title>Anne Dorte Michelsen, sanger og sangskriver</title>
+      <description>Når man åbner op for følelserne, så kan man komme ud et sted, hvor det er farligt at færdes, siger sangeren og sangskriveren Anne Dorte Michelsen. I dagens udsendelse taler psykologiprofessor Lene Tanggard bl.a. med Anne Dorte Michelsen om det ubehag, der kan være ved at være intenst til stede i følelserne og om, hvad det betyder for hendes kreative processer.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 23 Oct 2023 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353431/4671cbb3745ad677d2e96ec14a795176cb641d82f12bfb70be43f1aadfa231fa.mp3" type="audio/mpeg" length="108002186" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 08 Jul 2024 05:21:58 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410281</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410281</link>
+      <title>Mandag 8. jul. 2024</title>
+      <description>Hvad tænker EU om det franske valgresultat? Hvorfor forsøger den ungarske premierminister, Viktor Orbán, at forhandle fred i Ukraine? Hvilken betydning kan det få, hvis man genåbner tvangsfjernelsessager med grønlandske børn?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Mon, 08 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:32</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410281/e7593979ecc6e11cf0c1894cfce8717231af8d90719934ef287e9d197ad09535.mp3" type="audio/mpeg" length="108772855" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410275</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410275</link>
@@ -1519,18 +1531,6 @@ Dagens værter: Ole Brink og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:26:08</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410025/09c07ffe2e5ce2e4176ac13364546f7ead21e500dbdb523a2b06dadae568e2f8.mp3" type="audio/mpeg" length="124040194" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410024</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410024</link>
-      <title>Torsdag 11. jan. 2024</title>
-      <description>Gambler Landbrugsministeren med klimaet, når de fastholder at målet er nået, selvom vi ikke ved, hvor meget de resterende lavbundsjorde reelt udleder? Hvad kan konsekvenserne være for de unge, der skal ansøge om bevarelse af dansk statsborgerskab? Hvor udbredt er det, at der svindles med recepter?
-Dagens værter: Jan Falkentoft og Anne Kirstine Hermann.</description>
-      <pubDate>Thu, 11 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:27:54</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410024/4d51f8bdcfd8c3c78dd245fcf6917eeffa778e56439d9217a4abcb5a8d72f6d7.mp3" type="audio/mpeg" length="126585656" />
     </item>
   </channel>
 </rss>

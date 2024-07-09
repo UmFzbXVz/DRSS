@@ -9,7 +9,7 @@ Produceret for DR af ECOSOVIC.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 08 Jul 2024 05:22:28 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -104,19 +104,6 @@ Gæst: Agnes Hartwitch.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432246/72b360551d3757be5622b2e99b752d5417dda8f38e038ae8d5166f38b9855d5a.mp3" type="audio/mpeg" length="172801567" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122432237</guid>
-      <link>https://www.dr.dk/lyd/p3/popdatering-weekend/popdatering-weekend-2024/popdatering-weekend-16122432237</link>
-      <title>Søndag 9. jun. 2024</title>
-      <description>I Popdatering Weekend præsenterer Ena Cosovic dig for den bedste, nye popmusik og tager dig med på en tur op og ned af hitlisterne og ud til de kunstnere, som skaber den musik, vi elsker lige nu.
-Produceret for DR af ECOSOVIC.</description>
-      <pubDate>Sun, 09 Jun 2024 12:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122432237/887e772e0c77a5ab5a8b54b21f47890dd70eb6f1f645c959e255701157cf5f70.mp3" type="audio/mpeg" length="172802143" />
     </item>
   </channel>
 </rss>

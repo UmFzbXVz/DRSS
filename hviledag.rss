@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/hviledag" rel="self" type="application/rss+xml" />
+    <title>Hviledag</title>
+    <link>https://www.dr.dk/lyd/p4/hviledag-5667517248000</link>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Tue, 09 Jul 2024 06:10:37 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/hviledag.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:667de21a5d0e9b2aa1368f5d.jpg</url>
+      <title>Hviledag</title>
+      <link>https://www.dr.dk/lyd/p4/hviledag-5667517248000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:667de21a5d0e9b2aa1368f5d.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452457281</guid>
+      <link>https://www.dr.dk/lyd/p4/hviledag/hviledag/hviledag-15452457281</link>
+      <title>Mandag 8. jul. 2024</title>
+      <description>Det er mandag. Det er hviledag i Tour De France. Så Hviledag på P4 tager dig helt ned i gear. Lige meget om du arbejder eller holder ferie. Tid til hviledagsmesterskaberne. Opdatering fra Frankrig og Touren. Og bekendelser fra sommerlandet når radiovært Britt Berglund og komiker, podcaster og radiovært Natasha Brock gennemfører hviledagen sammen med dig.</description>
+      <pubDate>Mon, 08 Jul 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452457281/860d59450477061f4dc39934802ea78c22f412aba2aa1d5ee04ebcff295030f2.mp3" type="audio/mpeg" length="254882167" />
+    </item>
+  </channel>
+</rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 08 Jul 2024 05:22:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:11:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463277</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-passager-12422463277</link>
+      <title>Passager</title>
+      <description>Du er passager i aftens Natsværmeren. Nogle gange en, der kigger på de andre. Andre gange selv i bevægelse.
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 08 Jul 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463277/0b16e374c99848c600b1d370a7f7a030f23aa7c5b5eb877c839d4a12934bca6f.mp3" type="audio/mpeg" length="168472835" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463276</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-dedikation-12422463276</link>
@@ -206,19 +219,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463241/a249ddd634020cf15f2e6d40a1f2b2a4d2288f352d0424217be1f39fd4858af0.mp3" type="audio/mpeg" length="168481578" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463236</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-haelder-mod-lyset-12422463236</link>
-      <title>Hælder mod lyset</title>
-      <description>Som en tørstig stueplante søger musikken mod det søde liv.
-Vært: Minna Grooss.</description>
-      <pubDate>Sun, 09 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463236/95bc85491fbab1c0a60a47f6c62e64f580e6875c53ae4c5958f389ea77c39546.mp3" type="audio/mpeg" length="168481435" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463151</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-det-jeg-husker-12422463151</link>
       <title>Det jeg husker</title>
@@ -282,6 +282,19 @@ Vært: Peter Albrechtsen.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363292/4b8627a5997547e1ba7abf2646bf0a863a4a196f04b4eba48fa7094f3ef9a2a8.mp3" type="audio/mpeg" length="168462018" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363277</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-sommersindstilstande-12422363277</link>
+      <title>Sommersindstilstande</title>
+      <description>Let, legende, længselsfulde, drømmende, luftige og flygtige. Mendelssohn, Simon&amp;Garfunkel, Driss el Maloumi, Patsy Clein, Saint-Saëns, The Doors med flere bevæger sig rundt i sommernatten.
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 10 Jul 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363277/c9d7db13a8e0bd786ca17277a6df6d5b46fd741909b635bbdcf3dc0bfaef714a.mp3" type="audio/mpeg" length="168476368" />
     </item>
     <item>
       <guid isPermaLink="false">12422363267</guid>
