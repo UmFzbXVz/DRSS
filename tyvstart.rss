@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:43 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450136</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ingen-graeskrone-til-rune-og-frankrigs-forsvarskonger-13652450136</link>
+      <title>Ingen græskrone til Rune og Frankrigs forsvarskonger</title>
+      <description>Holger Rune er færdig ved Wimbledon efter et nederlag i tre sæt til Novak Djokovic. 
+I dagens afsnit af Tyvstart analyserer vi, hvorfor danskeren aldrig fandt rytmen mod den syvdobbelte Wimbledon-mester, men vi skal også forbi EM, hvor det franske forsvar bliver afgørende i aftenens semifinale mod Spanien, og hvorfor forsvarsspillet generelt fylder så meget i landsholdsfodbold.
+Vært: Rikke Smed.</description>
+      <pubDate>Tue, 09 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450136/9d8cc7282e7d29bfa20991ecff6efcae73cfa17994386dea72dc39db4b2c9203.mp3" type="audio/mpeg" length="28878777" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450135</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tre-noegler-til-rune-sejr-over-graeskongen-13652450135</link>
@@ -2037,21 +2051,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:45</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450007/23c8fcc7632e01bf30e82b8e6991c36007408c1fac8294d779cede85e71703e4.mp3" type="audio/mpeg" length="27004478" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450006</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dansk-skisports-nye-stjerne-13652450006</link>
-      <title>Dansk skisports nye stjerne</title>
-      <description>Christian Borgnæs er født og opvokset i Østrig, men stiller op under Dannebrog, når han kører storslalom i den prestigefyldte World Cup.
-Lørdag blev han nummer 14 ved afdelingen i Adelboden, og det er det bedste danske resultat nogensinde. 
-Men hvordan er det at stille op for ydmyge Danmark, når man har været vant til et vildt setup hos den østrigske stormagt? Og hvad drømmer den danske skistjerne om?
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 09 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:11</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450006/f4494dcbaba868119d4f1f9301999c24cda6b8528d77528aeff75eb79186b4b7.mp3" type="audio/mpeg" length="21887291" />
     </item>
   </channel>
 </rss>

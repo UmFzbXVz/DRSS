@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:08:23 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -48,18 +48,6 @@
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462251/d728af9aaf3fa51d510b496fe59dd1e220158f9e3d7ded664ab9b2837ec2a1d0.mp3" type="audio/mpeg" length="165601907" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122462241</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm/musiklivet-med-carsten-holm-2024/musiklivet-med-carsten-holm-16122462241</link>
-      <title>Mandag 10. jun. 2024</title>
-      <description>Musiklivet med Carsten Holm</description>
-      <pubDate>Mon, 10 Jun 2024 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462241/c12626e7cf2e232550a382605265933d78d7b5f2be109b193921da6615a66f24.mp3" type="audio/mpeg" length="165601907" />
     </item>
   </channel>
 </rss>

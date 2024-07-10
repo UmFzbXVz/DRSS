@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410282</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410282</link>
+      <title>Tirsdag 9. jul. 2024</title>
+      <description>Hvad kan vi forvente, der kommer ud af mødet i FN's sikkerhedsråd? Har vi for mange turister i Danmark? Og kan en 16-årig tage Spanien hele vejen til EM-finalen?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Tue, 09 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:19:31</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410282/78de64bf67c9dd0242fbfd81a7859c2c0adcba44bb94a02712445948f1ca4c6f.mp3" type="audio/mpeg" length="114510324" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410281</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410281</link>
@@ -1519,18 +1531,6 @@ Vi har også reportere på gaden i København, hvor tusindvis af mennesker vente
       <itunes:author>DR</itunes:author>
       <itunes:duration>04:54:07</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802401002/bdeae6d763dc9f39b7d106734672108b528cbcf90b64885e9aa983e1180eaa4f.mp3" type="audio/mpeg" length="423547082" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410025</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410025</link>
-      <title>Fredag 12. jan. 2024</title>
-      <description>Hvor meget kommer Iran til at gå ind i konflikten mellem Houthierne og Vesten, nu hvor USA og Storbritannien har sendt bomber ind i Yemen? Mohammad Rona vil luge ud i åndssvage regler på udlændinge-området - er den her en af dem? Hvad betyder det, at anklagemyndigheden bekræfter, at terroranholdelser har tråde til Hamas?
-Dagens værter: Ole Brink og Morten Runge.</description>
-      <pubDate>Fri, 12 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:26:08</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410025/09c07ffe2e5ce2e4176ac13364546f7ead21e500dbdb523a2b06dadae568e2f8.mp3" type="audio/mpeg" length="124040194" />
     </item>
   </channel>
 </rss>

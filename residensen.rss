@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:34 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -223,18 +223,6 @@ Tlf. gæst: Jarl Friis-Mikkelsen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421242/594791435b42c1669f8a53f7a554eed8f4f669ce92c9981bd12015f84aa0f150.mp3" type="audio/mpeg" length="172802166" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421241</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-fodboldsange-er-aldrig-gode-det-foerste-aar-eller-hvad-13332421241</link>
-      <title>Mandag 10. jun. 2024</title>
-      <description>Du smider bare jakken i entréen - der er åbent hus og højt til loftet i Residensen! Kasper Reippurt tager sig af regningen og skruer op for anlægget, når anekdoter, højdepunkter og gæster fra musikkens verden inviteres ind under samme tag. Og ja. Du må gerne beholde skoene på.</description>
-      <pubDate>Mon, 10 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421241/d29c14f415cef8691ae1634d97b9558dc823f229b9cf785b0de765183c36cfc8.mp3" type="audio/mpeg" length="172802166" />
     </item>
   </channel>
 </rss>

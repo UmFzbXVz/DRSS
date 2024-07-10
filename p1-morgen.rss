@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433282</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433282</link>
+      <title>Tirsdag 9. jul. 2024</title>
+      <description>Hvordan kan det være, at det er den varmeste juni nogensinde? Hvilken betydning kan det franske valg få for EU og de forskellige EU-landes samarbejdsmuligheder? Hvorfor er det problematisk at borgerne har lav tillid til SKAT?
+Vært: Ole Brink.</description>
+      <pubDate>Tue, 09 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:58</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433282/41aeea8eb77bc39ae9b79510bec4079a1abc6ff8ab9e784161c0ba1faee91887.mp3" type="audio/mpeg" length="237572577" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433281</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433281</link>
@@ -1838,18 +1850,6 @@ Dagens værter: Ole Brink og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:07</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433026/dc6676ea565dc4ae7389ea527b71412a392fbfb98b587917efc2a77bcf9f434c.mp3" type="audio/mpeg" length="158578209" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433025</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433025</link>
-      <title>Fredag 12. jan. 2024</title>
-      <description>Hvad var Sydafrikas hovedargumenter for, at Israel begår folkedrab? Hvad ved vi om nattens angreb i Yemen? Og hvorfor er misinformation det største problem, vi står over for? 
-Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
-      <pubDate>Fri, 12 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:03</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433025/6fee6d62ac1d1a4e6dd05223543785406dc1ec66642d54dc7333a8f181fc0f93.mp3" type="audio/mpeg" length="237689110" />
     </item>
   </channel>
 </rss>

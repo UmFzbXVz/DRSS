@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:11:06 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -297,6 +297,19 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363277/c9d7db13a8e0bd786ca17277a6df6d5b46fd741909b635bbdcf3dc0bfaef714a.mp3" type="audio/mpeg" length="168476368" />
     </item>
     <item>
+      <guid isPermaLink="false">12422363274</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-hamsterhjulet-drejer-rundt-12422363274</link>
+      <title>Hamsterhjulet drejer rundt</title>
+      <description>Den gode nyhed er, at hamsteren sagtens kan springe af. Døgnets periodiske system med dag og nat byder på pauser, ro og udsyn.
+Vært: Katrine Ring.</description>
+      <pubDate>Fri, 07 Jul 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363274/ef098f64ee6bec42aa803e11eb455e5318d19e0cbcd66e55ab39cea6a2067e8a.mp3" type="audio/mpeg" length="168479771" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363267</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lyden-af-sommernat-12422363267</link>
       <title>Lyden af sommernat</title>
@@ -401,20 +414,6 @@ Vært: Minna Grooss.
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363233/318e1543a5f9614cc1d98e5c57ebe10fef4f5d73a3f21e191051f13879ee998c.mp3" type="audio/mpeg" length="168482179" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363227</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-midsommer-12422363227</link>
-      <title>Midsommer</title>
-      <description>En længsel efter midsommer, brændelugt i luften, insekternes summen og ro, ro, ro. 
-Vært: Katrine Ring.
-(Sendt første gang 5. juni 2023).</description>
-      <pubDate>Mon, 05 Jun 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363227/e78bb5176fb968553258cb9384bb8e6a8d8ea82f7ab81146ddd41e90e77e8b91.mp3" type="audio/mpeg" length="168482056" />
     </item>
   </channel>
 </rss>

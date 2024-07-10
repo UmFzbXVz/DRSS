@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:59 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405282</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405282</link>
+      <title>Tirsdag 9. jul. 2024</title>
+      <description>Præludium:	Bernhard Lewkovitch: Et trofast hjerte, Herre min
+Fra det G.T.:	Salme 86,1-7
+Salme: 344 "Højhedens Gud, som kom herned"
+Fra det N.T.:	Matthæus 9,9-13
+Korvers: Johann Sebastian Bach: Jesus, livets rige kilde, (tekst: Rist 1642, Brorson 1734, Wexels 1849)
+Salme: 492, vers 1 + 4-6 "Guds igenfødte, ny-levende sjæle"
+Postludium: Johann Sebastian Bach: Allabreve i G-dur (Goldberg Variation nr. 22)</description>
+      <pubDate>Tue, 09 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405282/434b86e766b8f4155e14a6fa7bfa7570805c95e18c66e7a92d27b3e5d4e41d76.mp3" type="audio/mpeg" length="36001576" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405281</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405281</link>
@@ -456,24 +474,6 @@ Postludium: Rued Langgaard: Præludium i c-mol.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405242/c5f9298dd45bcf193c5fa8c95ac7cd3b6e4f8ce97c46408df0797d336d9bdc6f.mp3" type="audio/mpeg" length="36001581" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405241</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405241</link>
-      <title>Mandag 10. jun. 2024</title>
-      <description>Præludium: Andreas Nikolaus Vetter: Aleneste Gud i Himmerig
-Ord til dagen: af Augustin.
-Salme: 3 "Lovsynger Herren, min mund og mit indre!".
-Fra det N.T.:	Matthæusevangeliet 5, 17-20.
-Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
-Salme: 790 "Gode Gud, din engleskare".
-Postludium: Johann Gottlieb Janitsch: Poco largo d-mol</description>
-      <pubDate>Mon, 10 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405241/985670724e8d64b1d365e2d5c0967225f4f8558891dd75d316c75e086724b5d5.mp3" type="audio/mpeg" length="36001584" />
     </item>
   </channel>
 </rss>

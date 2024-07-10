@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,18 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13652404282</guid>
+      <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404282</link>
+      <title>Tirsdag 9. jul. 2024</title>
+      <description>Alle kampe og alle mål hele vejen til finalen. Direkte fra havnen i Aarhus. Auf geht's.</description>
+      <pubDate>Tue, 09 Jul 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>05:00:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404282/caaf511da30694f2437b3f2cb64382512d2984b8e9bc10fe17f8e4a694da601e.mp3" type="audio/mpeg" length="432085516" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652404276</guid>
       <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404276</link>
       <title>Lørdag 6. jul. 2024</title>
@@ -36,18 +48,6 @@
       <itunes:duration>05:00:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404276/100fd8244124cf6cee3ddc288391d20ba62854b069fd20c8914112ec998aedc2.mp3" type="audio/mpeg" length="432085516" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652404275</guid>
-      <link>https://www.dr.dk/lyd/p4/em-paa-p4/em-paa-p4/em-paa-p4-13652404275</link>
-      <title>Fredag 5. jul. 2024</title>
-      <description>Alle kampe og alle mål hele vejen til finalen. Direkte fra havnen i Aarhus. Auf geht's.</description>
-      <pubDate>Fri, 05 Jul 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>04:21:21</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652404275/f3c8fee1004349713f125011d2342d1ef9af0d2dcba9cfb195d307dad0f57be6.mp3" type="audio/mpeg" length="376358092" />
     </item>
   </channel>
 </rss>

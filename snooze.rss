@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:27 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -266,23 +266,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428242/66914ae01858501a06561614532866d1972e06479c2c633744f5e57b3f3829ab.mp3" type="audio/mpeg" length="252002186" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428241</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-europaeisk-jazz-18452428241</link>
-      <title>Europæisk jazz</title>
-      <description>Det er dagen derpå efter EP-valget. I den anledning får vi lidt musik fra intet mindre end hele det europæiske kontinent.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Mon, 10 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428241/721dcb3b28e6e46d386f162e050b77c56fa35ae4cda434a85514caac3ddadd03.mp3" type="audio/mpeg" length="252002165" />
     </item>
   </channel>
 </rss>

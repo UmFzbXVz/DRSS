@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:36 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:12:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -450,6 +450,22 @@ Vært: Mette Greiffenberg.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481803/9b8bb42eebcf531579de6e9490b4d8729ebff0bcbdec60c994b3008f727c21db.mp3" type="audio/mpeg" length="165794566" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381843</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/magnus-larsson/det-vi-hoerer-filosoffens-melankoli-12422381843</link>
+      <title>Filosoffens melankoli</title>
+      <description>Jeg har altid tænkt på hvad andre mennesker mon lytter til? Og hvad sker der når en filosof og en dirigent udveksler musik? Hvilken musik skal man lytte til når man har fået asparges til aftensmad? Og kan man gå fra kun at have lyttet til hip-hop til slet ikke at kunne undvære Wagner?
+Vært: Magnus Larsson.</description>
+      <pubDate>Wed, 12 Jul 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000090003</itunes:order>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381843/aee0bac478deb8df81f0c21a390984a223d83d847353fe4d19918b1061040430.mp3" type="audio/mpeg" length="156864266" />
     </item>
     <item>
       <guid isPermaLink="false">12422381842</guid>

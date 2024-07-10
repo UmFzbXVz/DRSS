@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 09 Jul 2024 06:10:50 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:10:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460155</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Krigsbørn</title>
+      <description>Det er mere end to somre siden, at de russiske kampvogne trillede over frosne ukrainske marker. Den skriggule breaking-farve er langsomt blegnet lidt i solen, og nu må ukrainerne også dele vores opmærksomhed med krigen i Gaza. Men for ukrainerne står krigen på hver dag, og den er samtidig blevet hverdag. En hverdag, hvor livet, skolegangen og noget så basalt som sommerferien går videre. Og i den forsøger de unge ukrainere at finde en normalitet, der kan give dem en nutid og landet en fremtid. Genstart tager i dag med journalist Brita Kvist Hansen på besøg i de ukrainske skoler, og undersøger hvordan sommerferien er for de ukrainske børn.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 7/7.</description>
+      <pubDate>Wed, 10 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:20</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460155/ee99563f0b4c8cb6857cfc779179c9f91fb07d1679b3901502715756bdf2d808.mp3" type="audio/mpeg" length="29301568" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460154</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
