@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 10 Jul 2024 06:12:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:21:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652401283</guid>
+      <link>https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2024/touren-paa-p4-13652401283</link>
+      <title>Onsdag 10. jul. 2024</title>
+      <description>Touren på P4 giver dig ultimativ sommerferiestemning! Vi er klar med udsøgt cykelløb, danskere i topklasse, fede præmier og røverhistorier fra Frankrig. 
+Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du kan følge med i verdens største cykelløb uden at bruge sommerferien i sofaen.</description>
+      <pubDate>Wed, 10 Jul 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401283/4bf624b3e579f92011e82a2f944212804c53d7cc7e879a6cda28762b2552aec3.mp3" type="audio/mpeg" length="254881597" />
+    </item>
     <item>
       <guid isPermaLink="false">13652401282</guid>
       <link>https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2024/touren-paa-p4-13652401282</link>
@@ -50,19 +63,6 @@ Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du ka
       <itunes:duration>04:00:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401277/7ef7ac6c76de0c8abe717d601321fdd2f219eff146466c65b5d6148b959ea494.mp3" type="audio/mpeg" length="345685693" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652401276</guid>
-      <link>https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2024/touren-paa-p4-13652401276</link>
-      <title>Lørdag 6. jul. 2024</title>
-      <description>Touren på P4 giver dig ultimativ sommerferiestemning! Vi er klar med udsøgt cykelløb, danskere i topklasse, fede præmier og røverhistorier fra Frankrig. 
-Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du kan følge med i verdens største cykelløb uden at bruge sommerferien i sofaen.</description>
-      <pubDate>Sat, 06 Jul 2024 15:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:58:45</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401276/2e17b7859bed813cb7c46a5946ae3793c3bd15e56675bba0ef255fa570b46f52.mp3" type="audio/mpeg" length="257414269" />
     </item>
   </channel>
 </rss>

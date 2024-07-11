@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 10 Jul 2024 06:12:22 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:21:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405283</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405283</link>
+      <title>Onsdag 10. jul. 2024</title>
+      <description>Præludium:	Jesper Madsen: Præludium nr. 1, molto tranquillo
+Fra det G.T.:	Salme 116,1-9
+Salme: 28 "De dybeste lag i mit hjerte"
+Fra det N.T.:	Matthæus 9, 14-17
+Korvers: Johann Sebastian Bach: Jesus, livets rige kilde, (tekst: Rist 1642, Brorson 1734, Wexels 1849)
+Salme: 453 "Vort løsen er vor tro og dåb"
+Postludium: Samuel Scheidt: Wir glauben all an einen Gott</description>
+      <pubDate>Wed, 10 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405283/b0a17ec7023ee10f1a8e1af7e1035c448eb4afd9d4a643597de9ad29d66b42ac.mp3" type="audio/mpeg" length="36001577" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405282</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405282</link>
@@ -456,24 +474,6 @@ Postludium	Sigfrid Karg-Elert: Guds igenfødte, nylevende sjæle.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405243/70ee75f0fa509cc6d1a5f399a121d16b05d848002a1206e3fca4d3855a0f3c41.mp3" type="audio/mpeg" length="36001580" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405242</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405242</link>
-      <title>Tirsdag 11. jun. 2024</title>
-      <description>Præludium: Max Reger: Jesus, at du blev min broder.
-Fra det G.T.: 5. Mosebog 6,4-9.
-Salme: 694 "Jesus, at du blev min broder".
-Fra det N.T.: Matthæusevangeliet 5, 21-26.
-Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
-Salme: 746, vers 2 "O Jesus, Morgenstjerne".
-Postludium: Rued Langgaard: Præludium i c-mol.</description>
-      <pubDate>Tue, 11 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405242/c5f9298dd45bcf193c5fa8c95ac7cd3b6e4f8ce97c46408df0797d336d9bdc6f.mp3" type="audio/mpeg" length="36001581" />
     </item>
   </channel>
 </rss>

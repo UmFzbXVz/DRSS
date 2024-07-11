@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 10 Jul 2024 06:12:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:21:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -209,20 +209,6 @@ Gæster: Mads Bo Iversen og Martin Johannes Larsen.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421243/56f3df48a7fefbad32120c3a3b4752d4ccb6915225103294214224488b167340.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421242</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-13332421242</link>
-      <title>Fodboldsange er aldrig gode det første år - eller hvad?</title>
-      <description>Som det jo hænder en gang om ugen, er det igen blevet tirsdag - og dermed også hot take tirsdag. I dag omhandlende noget vi ikke alene selv kan gøre til Residensens officielle holdning. Vi rækker ud til nogle der ved en masse om netop det. Desuden runder vi Rick Ross voksende zoo i baghaven og en personlig gevinst for Kasper fra North Side. 
-Tlf. gæst: Peter Vuust. 
-Tlf. gæst: Jarl Friis-Mikkelsen.</description>
-      <pubDate>Tue, 11 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421242/594791435b42c1669f8a53f7a554eed8f4f669ce92c9981bd12015f84aa0f150.mp3" type="audio/mpeg" length="172802166" />
     </item>
   </channel>
 </rss>

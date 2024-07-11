@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 10 Jul 2024 06:12:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:21:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481883</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-som-blomster-der-springer-ud-efter-en-haard-vinter-12422481883</link>
+      <title>Som blomster der springer ud efter en hård vinter</title>
+      <description>Carl Orffs 'Carmina Burana' er et værk som både er elsket og hadet. Jeg er ret vild med det, og fascineret af, hvor meget komponisten får ud af et faktisk ret simpelt tonemateriale. Værket bygger på middelaldertekster, og blev uropført i 1937. Hør hele værket, og hør også musik af Carl Nielsen og Benjamin Britten, når jeg præsenterer noget af den musik jeg selv lytter til når jeg har fri. 
+Vært: Max Fage-Pedersen.</description>
+      <pubDate>Wed, 10 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000190003</itunes:order>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481883/c9cb1dd17d772cfc981959b4b67850e66060aa5ea3093f4a1f8d32c1bf4b636e.mp3" type="audio/mpeg" length="165602187" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481882</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-skoven-stjernerne-og-havet-om-natten-12422481882</link>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 10 Jul 2024 06:10:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:20:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460156</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Fængslet i koma</title>
+      <description>I Hollywood vågner komapatienter med et spjæt og spørger forvirret, hvor de er. I virkeligheden tager det lang tid at vågne op fra koma. Der kan gå måneder, hvor patienten glider ind og ud af bevidsthed, og det værste er, at ens familie, læger og sygeplejersker ikke aner, at man er vågen. Det hedder skjult bevidsthed og betyder, at man er fængslet i sin egen krop i uger, måneder og år. Rikke Schmidt Kjærgaard er i dagens Genstart for at fortælle om, hvordan det føles at dø og ligge i koma med skjult bevidsthed.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 8/7.</description>
+      <pubDate>Thu, 11 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460156/7bae594ede5cafebedaedf6324b7e75a3514cdc5fc8ab0c530b96a77e09e9992.mp3" type="audio/mpeg" length="37013640" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460155</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

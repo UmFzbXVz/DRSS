@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 10 Jul 2024 06:12:27 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:22:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,21 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421027</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-sommerspecial-den-groenne-slagside-og-ai-terapi-11802421027</link>
+      <title>Sommerspecial: Den grønne slagside og AI-terapi</title>
+      <description>Prompt er taget til Folkemødet i Allinge. Vi får besøg af Tommy Ahlers, formand i Concito, og Rasmus Bisgaard fra chipproducenten Nvidia, som i dag er en af verdens største virksomheder. Om to år vil AI bruge lige så meget strøm som hele Tyskland. Så bør vi overhovedet glæde os over AI-bølgen? Og skal vi have dårlig samvittighed over at bruge ChatGPT?
+Henrik og Marcel bevæger sig ud af tech-boblen for at teste konceptet 'AI-terapi'. Tilskuerne deler deres største bekymringer og får beroligende ord med på vejen fra Henrik Moltke.
+Optaget d. 13. juni 2024.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.</description>
+      <pubDate>Thu, 11 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:13</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421027/c43853734365fc5800c462d1f7f180b6e2ab6cfad988bee38b2d8b5bcad55f6b.mp3" type="audio/mpeg" length="78084754" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421026</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-et-lidt-for-godt-tilbud-europa-misser-ai-toget-og-efterklang-11802421026</link>

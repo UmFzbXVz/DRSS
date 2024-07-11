@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 10 Jul 2024 06:12:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:22:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433283</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433283</link>
+      <title>Onsdag 10. jul. 2024</title>
+      <description>Hvad bliver den helt store dagsorden til Nato-topmødet? Kan vi gøre mere for at nedbringe antallet af unge, der er afskåret fra uddannelsessystemet og arbejdsmarkedet? Og hvordan stiller Storbritanniens droppede Rwanda-planer EU og Danmark?  
+Vært: Ole Brink.</description>
+      <pubDate>Wed, 10 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:13</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433283/19bd1ef5e84ed9227d24c42df9784db90b94fd67ee4845d2ae9653dd34d8c91c.mp3" type="audio/mpeg" length="236481840" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433282</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433282</link>
@@ -41,7 +53,7 @@ Vært: Ole Brink.</description>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433281</link>
       <title>Mandag 8. jul. 2024</title>
       <description>Hvordan vil venstrefløjen i Frankrig bruge den store fremgang? Hvad er LOL-drugging? Og hvorfor har Birgit Stenbak Hansen valgt at stoppe som borgmester i Frederikshavn Kommune?
-Dagens vært: Ole Brink.</description>
+Vært: Ole Brink.</description>
       <pubDate>Mon, 08 Jul 2024 07:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -1836,20 +1848,6 @@ Dagens værter: Maria Hollænder og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:02</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433031/d500916f3dd338b430f5618bb8843d47b37f882dff659e76e2db5be096930137.mp3" type="audio/mpeg" length="237661281" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433026</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433026</link>
-      <title>Lørdag 13. jan. 2024</title>
-      <description>Israel benægter hensigt om folkedrab mod palæstinensere og Den Internationale Domstol i Haag er ved at tage stilling til, om der er grundlag for at gå videre med sagen. Men hvordan forsvarede Israel sig ved høringen ved Den Internationale Domstol i Haag fredag?
-Efter houthiernes mange angreb mod internationale fragtskibe i I Det Røde Hav valgte USA og Storbritanniens natten til fredag og her til morgen at angribe flere af Houthi-bevægelsens militære installationer i Yemen. Hvilke konsekvenser har den seneste udvikling for skibstrafikken?  
-Nyt studie viser at 6 måneder gamle børn ikke får bivirkninger, når de får MFR-vaccinen mod mæslinger, fåresyge og røde hunde. Det kan være vigtig viden når man for eksempel skal rådgive forældre til for tidligt fødte børn. Hvorfor er det vigtigt at undersøge MFR-vaccinebivirkninger for spædbørn?   
-Dagens værter: Ole Brink og Bjarne Steensbeck.</description>
-      <pubDate>Sat, 13 Jan 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:50:07</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433026/dc6676ea565dc4ae7389ea527b71412a392fbfb98b587917efc2a77bcf9f434c.mp3" type="audio/mpeg" length="158578209" />
     </item>
   </channel>
 </rss>

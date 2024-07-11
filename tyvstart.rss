@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 10 Jul 2024 06:12:22 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:22:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,39 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450138</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-vingegaards-vanvidscomeback-og-engelsk-em-ekstase-13652450138</link>
+      <title>Vingegaards vanvidscomeback og engelsk EM-ekstase</title>
+      <description>Et fantastisk kapitel i Jonas Vingegaards comeback-historie blev skrevet, da han slog Tadej Pogacar på 11. etape. Hvad betyder det for magtforholdet i klassementet? Og hvorfor kalder DR Sportens cykelekspert etapen for "en af de vildeste, han nogensinde har set"?
+
+Kort tid efter spillede England sig i EM-finalen, da holdet slog Holland. Er England en værdig finalist? Og hvad betyder det for landet, at de er så tæt på at vinde EM-trofæet, hvilket englænderne aldrig er lykkedes med før? 
+
+Alt det får du svaret på i dagens afsnit af Tyvstart.
+
+Vært: Rikke Smed.</description>
+      <pubDate>Thu, 11 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:15</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450138/48598351391e06fa17ed8b8a6b1d7d474de2173010537b2d5d79774a405cac3f.mp3" type="audio/mpeg" length="26304053" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13652450137</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-spansk-vidunderbarn-nedbryder-frankrigs-mur-13652450137</link>
+      <title>Spansk vidunderbarn nedbryder Frankrigs mur</title>
+      <description>Spanien sparker sig i EM-finalen efter en 2-1-sejr over Frankrig, og Spaniens velsmurte offensiv blev anført af den kun 16-årige Lamine Yamal. 
+Ikke nok med en plads i EM-finalen, så skriver den unge angriber sig også ind i historiebøgerne som den yngste målscorer ved en slutrunde.
+Tyvstart vender den første semifinale lige efter slutfløjt og kigger frem mod det næstsidste opgør ved EM - nemlig semifinalen mellem Holland og England.
+Vært: Rikke Smed.</description>
+      <pubDate>Wed, 10 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450137/0552bbcfe51244668be48175d1b5ab63eda96205fcc19880510766179e395c75.mp3" type="audio/mpeg" length="21644793" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450136</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ingen-graeskrone-til-rune-og-frankrigs-forsvarskonger-13652450136</link>
@@ -2036,21 +2069,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:27</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450008/5743534bd6298eab7caa4ccb17c98874aeb4dd198ae75b0e90d4ee526f5e1125.mp3" type="audio/mpeg" length="26582841" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450007</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-afrikas-eventyrlige-fodboldfest-13652450007</link>
-      <title>Afrikas eventyrlige fodboldfest</title>
-      <description>Der er garanti for glade fans og obskure historier, når de afrikanske fodboldmesterskaber begynder.
-AFCON bliver i år spillet i Elfenbenskysten, og mens mange euopæiske fodboldfans er trætte af at skulle undvære favoritholdets afrikanske profiler, glæder spillerne sig til at begejstre et helt kontinent.
-Buster Emil Kirchner er journalist og rejser snart til Elfenbenskysten for at dække AFCON. I dagens episode fortæller han om sin kærlighed til fodbold på det afrikanske kontinent.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 10 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:45</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450007/23c8fcc7632e01bf30e82b8e6991c36007408c1fac8294d779cede85e71703e4.mp3" type="audio/mpeg" length="27004478" />
     </item>
   </channel>
 </rss>
