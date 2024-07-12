@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 11 Jul 2024 08:20:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 05:50:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460157</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Forbandede Randers</title>
+      <description>Det begynder med visionen om et smukt erhvervseventyr for Kronjyllands hovedstad, Randers. Nordic Waste skal være en bæredygtig virksomhed med arbejdspladser og innovation. Men så går mareridtet i gang. I en slags brutal slowmotion sætter tonsvis af giftig jord sig i bevægelse med retning mod den lokale landsby Ølst og den naturskønne Alling Å. Randers Kommune sætter alt ind for at afværge katastrofen. Men selvom den giftige jord bliver stoppet inden den ødelægger åløb og fjorden, skriver den sig ind i en række af uheld og uheldige historier, der igen og igen har ramt byen. Mads Otte, der er bysbarn og lokalreporter i Randers for TV2 Østjylland, udlægger hvad det er for en træls fortælling om en ellers stolt og smuk gammel by, som Nordic Waste nu igen har sat skub i.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 9/7.</description>
+      <pubDate>Fri, 12 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:09</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460157/5a0db8404db13198a67efde67c88dd84503876a362c4fd7954194183f721a5e7.mp3" type="audio/mpeg" length="34792587" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460156</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

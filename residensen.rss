@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 11 Jul 2024 08:21:54 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 06:04:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -196,19 +196,6 @@ Velkommen indenfor og FORZA!</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421244/416a7e11ada386b81d1b4923176be5a0514db7a84967461965d9a8aa97f7cfa2.mp3" type="audio/mpeg" length="172801589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421243</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/med-lidt-til-laegterne-13332421243</link>
-      <title>Med Lidt til Lægterne</title>
-      <description>Vi ekspanderer Residensen og inviterer Lidt til Lægterne i studiet. Vi taler om hvordan man laver de gode rim når man skriver fodboldsange og lidt om hvordan den nyeste sang Min Bold er kommet til. Inden det, runder vi dine vildeste forsinkelser for at ære Nicki Minaj sene ankomst til sin egen koncert i København i går. Velkommen indenfor! 
-Gæster: Mads Bo Iversen og Martin Johannes Larsen.</description>
-      <pubDate>Wed, 12 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421243/56f3df48a7fefbad32120c3a3b4752d4ccb6915225103294214224488b167340.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

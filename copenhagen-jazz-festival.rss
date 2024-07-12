@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 11 Jul 2024 08:21:52 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 06:04:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452444284</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/copenhagen-jazz-festival/copenhagen-jazz-festival/copenhagen-jazz-festival-18452444284</link>
+      <title>Torsdag 11. jul. 2024</title>
+      <description>P8 er med live midt fra Copenhagen Jazz Festival 2024. Vi giver dig stemningsrapporter og interviews med nogle af de danske og internationale jazz kunstnere der optræder under årets festival.
+Værter: Naya Buric, Niels Christian Cederberg og Frederik Korfix.</description>
+      <pubDate>Thu, 11 Jul 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452444284/9f7e445643ef6646bf58dbe8c7ebd32473dc86ded6b781fcb55f980b61828dbb.mp3" type="audio/mpeg" length="168481604" />
+    </item>
     <item>
       <guid isPermaLink="false">18452444283</guid>
       <link>https://www.dr.dk/lyd/p8jazz/copenhagen-jazz-festival/copenhagen-jazz-festival/copenhagen-jazz-festival-18452444283</link>

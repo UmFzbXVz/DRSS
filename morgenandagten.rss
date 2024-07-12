@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 11 Jul 2024 08:21:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 06:04:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405284</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405284</link>
+      <title>Torsdag 11. jul. 2024</title>
+      <description>Præludium:	Carl Philipp Emanuel Bach: Fløjtestykke
+Fra det G.T.:	Salme 100
+Salme: 14 "Tænk, at livet koster livet"
+Fra det N.T.:	Matthæus 9, 18-26
+Korvers: Johann Sebastian Bach: Jesus, livets rige kilde, (tekst: Rist 1642, Brorson 1734, Wexels 1849)
+Salme: 425 "Velsignelse, al jordens tarv"
+Postludium: Johann Kuhnau: Il Concerto Musico delle Donne</description>
+      <pubDate>Thu, 11 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405284/0acba04f257dbf5c77c11391410b74a81282f75d1615b17650d86b8b75053678.mp3" type="audio/mpeg" length="36001578" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405283</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405283</link>
@@ -456,24 +474,6 @@ Postludium: Dietrich Buxtehude: Kom Helligånd, Gud Herre from, BuxWV 199.</desc
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405244/d9abf81062a8546b2ce92c4191f789521e64731b8a17e6e564f046f74277846e.mp3" type="audio/mpeg" length="36001578" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405243</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405243</link>
-      <title>Onsdag 12. jun. 2024</title>
-      <description>Præludium: Johann Sebastian Bach: Wir danken dir, Herr Jesu Christ.
-Fra det G.T.: Jonas' bog 2,3-10.
-Salme: 697 "Herre, jeg vil gerne takke".
-Fra det N.T.: 2. korintherbrev 5, 17 - 20.
-Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
-Salme: 492, vers 1-3 + 6 "Guds igenfødte, nylevende sjæle".
-Postludium	Sigfrid Karg-Elert: Guds igenfødte, nylevende sjæle.</description>
-      <pubDate>Wed, 12 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405243/70ee75f0fa509cc6d1a5f399a121d16b05d848002a1206e3fca4d3855a0f3c41.mp3" type="audio/mpeg" length="36001580" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 11 Jul 2024 08:21:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 06:04:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -1129,19 +1129,6 @@ Værter: Henrik Povlsen og Jesper Holm.</description>
       <itunes:duration>00:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122447031/6cd9c8b7cea46557c4fbe401778f85f420c06ec1a05bccef4901873f6fe148bf.mp3" type="audio/mpeg" length="82275028" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122447024</guid>
-      <link>https://www.dr.dk/lyd/p4/povlsen-og-holm/povlsen-og-holm-2024/povlsen-og-holm-16122447024</link>
-      <title>Torsdag 11. jan. 2024</title>
-      <description>Povlsen &amp; Holm hjælper P4-lytterne igennem den sidste del af arbejdsdagen med humor, underholdning og lytterinteraktion.
-Værter: Henrik Povlsen og Jesper Holm.</description>
-      <pubDate>Thu, 11 Jan 2024 14:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122447024/e81c17431919ad849c58fa1b5bd892b7bc8bdc8a07c4f6a98fa4cd41567ad33e.mp3" type="audio/mpeg" length="82274452" />
     </item>
   </channel>
 </rss>

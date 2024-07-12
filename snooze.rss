@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 11 Jul 2024 08:21:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 05:51:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -231,24 +231,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428244/a9083522996062d1223109caaffc304bf369c9134abf64d8d5f620300b3d455f.mp3" type="audio/mpeg" length="252001604" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428243</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-fuld-af-kaerlighed-filmmusik-fra-jonas-struck-18452428243</link>
-      <title>Fuld af kærlighed: Filmmusik fra Jonas Struck</title>
-      <description>Filmkomponist og musiker Jonas Struck gæster Snooze denne morgen i anledning af hans smukke soundtrack til Christina Rosendahls nye film, Fuld Af Kærlighed.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende: Jonas Struck; filmkomponist og musiker.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Wed, 12 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428243/dd44841b22fa704355e2995874f8d2bb0d8f4b67bca447083f936468f87efe43.mp3" type="audio/mpeg" length="252002186" />
     </item>
   </channel>
 </rss>
