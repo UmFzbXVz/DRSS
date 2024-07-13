@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 12 Jul 2024 06:04:45 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 10:51:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,30 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433286</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433286</link>
+      <title>Lørdag 13. jul. 2024</title>
+      <description>Borgerne i Danmark køber flere og flere biler, og vi har lige nu det højeste antal biler nogensinde. Hvilke problemer giver det, når vi får flere biler i DK? Og hvorfor er vi så dårlige til at køre sammen? Selvom USA's præsident Joe Biden holder fast i, at han er klar til valgkamp - så bliver der snakket i krogene om en plan b. Hvem skal overtage, hvis han vælger at trække sig fra valgkampen? Efter flere måneders optakt er sønnen af Asiens rigeste mand blevet gift. Er det normalt med så gigantiske bryllupsfejringer i Indien? 
+Dagens vært: Pernille Rudbæk.</description>
+      <pubDate>Sat, 13 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:09</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433286/61bea30eae0bcd9eb11e507fe27c4ed4b5d5613e68d681474a961fc7f317075f.mp3" type="audio/mpeg" length="158619681" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433285</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433285</link>
+      <title>Fredag 12. jul. 2024</title>
+      <description>I nat dansk tid holdt den amerikanske præsident Joe Biden et af sine vigtigste pressemøder. Hvordan klarede Biden nattens pressemøde? For to år siden trådte et prisloft på overskudsvarme i kraft - vedtaget af et flertal på Christiansborg. En række fjernvarmedirektører råber nu politikerne på Christiansborg op. De mener, at det vedtagne prisloft forhindrer dem i at levere grønnere og billigere fjernvarme til danskerne. Hvordan det? Danske politifolk er sendt til Lampedusa for at hjælpe kystvagten med flygtningestrømme. Hvilken betydning kan danske betjente få i håndteringen af tilstrømningen af migranter i Lampedusa? 
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Fri, 12 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433285/8935fb9905d971ca9fa8274237c8745800d24ba0d21c6186f7b832b23ee12595.mp3" type="audio/mpeg" length="237748833" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433284</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433284</link>
@@ -1846,20 +1870,6 @@ Værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:50</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433032/4c10492496120b3c883a0855849af62b55d85f4945f0944879571d83085bc885.mp3" type="audio/mpeg" length="237375803" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433031</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433031</link>
-      <title>Mandag 15. jan. 2024</title>
-      <description>Ny rapport fra Aarhus Universitet viser et lille fald i udledningen af kvælstof til havet, men der er stadig langt til målet. Med de seneste tal i den nye rapport, er det så sandsynligt, at vi når målsætningen for 2027?
-"Forbundne, forpligtet, for kongeriget Danmark." Sådan lød den nye Kong Frederik 10's valgsprog, da han i går stillede sig ud på balkonen på Christiansborg Slotsplads og holdt sin første tale som Danmarks regent: Men hvordan skal vi tolke det?
-I weekenden stemte 20 millioner mennesker i Taiwan om, hvem der fremover skal styre landet - et valg, der især blev holdt øje med i Kina. Hvad er der på spil i Taiwan?
-Dagens værter: Maria Hollænder og Søren Carlsen.</description>
-      <pubDate>Mon, 15 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:02</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433031/d500916f3dd338b430f5618bb8843d47b37f882dff659e76e2db5be096930137.mp3" type="audio/mpeg" length="237661281" />
     </item>
   </channel>
 </rss>

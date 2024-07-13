@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 12 Jul 2024 05:51:44 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 10:50:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -214,23 +214,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428245/5318a5e1af14006ff8894b4fdd30c2bc221a54b109787d8c41a1e7042bea0030.mp3" type="audio/mpeg" length="252002185" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428244</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-tre-danske-jazzgiganter-i-ugens-album-18452428244</link>
-      <title>Tre danske jazzgiganter i Ugens Album</title>
-      <description>Ugens album på P8 kommer i denne uge fra tre af dansk jazz' helt store musikere. Trioen Ginman / Blachman / Dahl har med sit stærkt anmelderroste album "What's To Come" cementeret deres position som en stadigt toneangivende trio herhjemme. Vi kaster et nærmere blik på udgivelsen.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Thu, 13 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428244/a9083522996062d1223109caaffc304bf369c9134abf64d8d5f620300b3d455f.mp3" type="audio/mpeg" length="252001604" />
     </item>
   </channel>
 </rss>

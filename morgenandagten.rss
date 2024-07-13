@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 12 Jul 2024 06:04:58 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 10:51:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,42 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405286</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405286</link>
+      <title>Lørdag 13. jul. 2024</title>
+      <description>Præludium:	Lasse Toft Eriksen: Alt hvad som fuglevinger fik 
+Davidssalme: 57, 8-12 
+Salme: 10 "Alt, hvad som fuglevinger"
+Fra det N.T.:	Romerbrevet 8, 1-4
+Trosbekendelsen	
+Salme: 518 "På Guds nåde"
+Postludium: Kate Westrop: Andante</description>
+      <pubDate>Sat, 13 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405286/c886613b56bd7ff01a77ee2b9773caec73082393791318ce87ffecea39bde275.mp3" type="audio/mpeg" length="36001554" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11042405285</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405285</link>
+      <title>Fredag 12. jul. 2024</title>
+      <description>Præludium:	Zoltan Kodaly: Epigram nr. 3
+Fra det G.T.:	Salme 103, 1-12
+Salme: 393 "Fra Himmelen hid til os ned"
+Fra det N.T.:	Matthæus 9, 27-34
+Korvers: Johann Sebastian Bach: Jesus, livets rige kilde, (tekst: Rist 1642, Brorson 1734, Wexels 1849)
+Salme: 380, vers 1-2+5 "Op dog, Zion! Ser du ej"
+Postludium: Fanny Hensel-Mendelssohn: Lied</description>
+      <pubDate>Fri, 12 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405285/a218710cd22dea3cbf129496a86cb0d1c3d455085a02c4c80bbc775da0f17158.mp3" type="audio/mpeg" length="36001575" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405284</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405284</link>
@@ -456,24 +492,6 @@ Postludium: Jesper Madsen: Kærlighed er lysets kilde</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405245/5499076682927170de945e56a118ee4abeb26e432ef06c6024e956d9d98f7b54.mp3" type="audio/mpeg" length="36001583" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405244</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405244</link>
-      <title>Torsdag 13. jun. 2024</title>
-      <description>Præludium:	Edward Francis Rimbault: Voluntary C-dur.
-Fra det G.T.:	Salme 31,1-6.
-Salme: 727 "Gud, du fra dine de herlige".
-Fra det N.T.:	Matthæusevangeliet 5, 33-37.
-Korvers: Lasse Toft Eriksen: O Gud, din kærlighed optænd (tekst: Thomas Kingo 1699).
-Salme: 301 "Kom, Helligånd, Gud Herre from".
-Postludium: Dietrich Buxtehude: Kom Helligånd, Gud Herre from, BuxWV 199.</description>
-      <pubDate>Thu, 13 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405244/d9abf81062a8546b2ce92c4191f789521e64731b8a17e6e564f046f74277846e.mp3" type="audio/mpeg" length="36001578" />
     </item>
   </channel>
 </rss>

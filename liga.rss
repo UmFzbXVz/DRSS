@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 27 Jun 2024 06:17:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 10:50:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,17 +26,16 @@
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">13652402257</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402257</link>
-      <title>Søndag 23. jun. 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Værter: Morten Hausborg og Thomas Loft.</description>
-      <pubDate>Sun, 23 Jun 2024 14:03:00 +0200</pubDate>
+      <guid isPermaLink="false">13652402285</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402285</link>
+      <title>Fredag 12. jul. 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+      <pubDate>Fri, 12 Jul 2024 18:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>04:00:03</itunes:duration>
+      <itunes:duration>04:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402257/fc027521372a70b7a842cb6da0dce3d8d4224d6646b3eae9686ca31e4f8d2086.mp3" type="audio/mpeg" length="345685536" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402285/4aec9eda40cb24b33c53844ee785066f5b7bbfc161a07dcf1acf3835c21ebc48.mp3" type="audio/mpeg" length="424801400" />
     </item>
   </channel>
 </rss>

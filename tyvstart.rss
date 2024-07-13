@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 12 Jul 2024 06:04:47 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 10:51:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450248</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-vingegaard-og-djokovic-jagter-mere-til-historieboegerne-13652450248</link>
+      <title>Vingegaard og Djokovic jagter mere til historiebøgerne</title>
+      <description>Nu bevæger vi os ind på Jonas Vingegaards hjemmebane i Tour de France, da flere bjergetaper venter i den næste uge af det store cykelløb. Lørdag venter det berygtede bjerg, Col du Tourmalet. Og øjner Jonas Vingegaard allerede endnu en etapesejr i dagens etape?
+Det vender vi i dagens episode af Tyvstart, hvor vi også bager op til mændenes Wimbledon-finale, der spilles søndag mellem Novak Djokovic og Carlos Alcaraz. 
+Vært: Thomas Loft.</description>
+      <pubDate>Sat, 13 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450248/3f090a379c20e29a1bdd0c6739cab67a61477ff03a6f5b28ca2d9ba42c67cfd8.mp3" type="audio/mpeg" length="21951805" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450139</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-vild-vildere-wimbledon-og-vidunderligt-tour-hattrick-13652450139</link>
@@ -218,7 +232,7 @@ Vært: Rikke Smed.</description>
     </item>
     <item>
       <guid isPermaLink="false">13652450244</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-13652450244</link>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-lille-danmark-mod-maegtige-tyskland-13652450244</link>
       <title>Lille Danmark mod mægtige Tyskland</title>
       <description>Danmark møder i aften Tyskland i ottendedelsfinalen ved EM. I dagens afsnit af Tyvstart laver vi en duel mellem kommentatorne, hvor Mathias Jacobsen og Kenneth Møller Pedersen repræsenterer hver sin nation og argumenterer for, hvem der er bedst på de forskellige positioner. 
 Derudover vender vi også, hvad vi kan forvente af Jonas Vingegaard i første etape af Tour de France. 
@@ -2055,21 +2069,6 @@ Vært: Emil Schiønning</description>
       <itunes:duration>00:17:22</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450010/e80f2fde21f99085db3c4cc3c9cc2f238cdbad1d7fc41bd5a54172bf66adc385.mp3" type="audio/mpeg" length="25028219" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450009</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dansk-droemmelodtraekning-i-melbourne-13652450009</link>
-      <title>Dansk drømmelodtrækning i Melbourne</title>
-      <description>Caroline Wozniacki, Clara Tauson og Holger Rune kender nu deres vej til de sjove kampe ved årets første grand slam.
-Australian Open begynder søndag, og lodtrækningen inden første runde har været god ved de tre danske tennisesser.
-I dagens afsnit gæster tennisreporter Kresten Mosbæk fra Melbourne, hvor han giver det store overblik inden årets Australian Open.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 12 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:28</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450009/b59f7f0017bd509f6ed03a61ee7ed0b6b6a81fa9ade10a504b0c15e2fdea7b38.mp3" type="audio/mpeg" length="26596094" />
     </item>
   </channel>
 </rss>
