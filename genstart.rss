@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Jul 2024 10:48:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 06:24:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460158</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Alt er ved det gamle</title>
+      <description>Forklaringerne er mange. Joe Biden har døjet med en forkølelse, jetlag, det var bare en dårlig aften. Præsidentens inderkreds og loyale topfolk har fået utroligt travlt med at retfærdiggøre, hvorfor deres han snublede sig gennem et trafikuheld af en TV-debat mod hans udfordrer, Donald Trump. En ulykke, der fik alle til at diskutere, hvad alternativerne til den affældige Joe Biden er. Alle undtagen ham selv. Så nu er der udbrudt total panik hos Demokraterne, og måske afslører det en endnu dybere krise end en svag og aldrende præsident. Chefredaktør på Altinget Jakob Nielsen fortæller, hvorfor det stadig er Joe Biden, der er demokraternes kandidat til efterårets valg.
+Vært: Anna Ingrisch. 
+Program publiceret i DR Lyd d. 10/7.</description>
+      <pubDate>Sun, 14 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:38</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460158/ac931cfeb55ac4dc8d764bfe96ec044866172142e6359ed9297e427fdd444429.mp3" type="audio/mpeg" length="32615308" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460157</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

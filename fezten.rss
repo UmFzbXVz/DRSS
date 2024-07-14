@@ -9,7 +9,7 @@ Vært: Niels Fez Pedersen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Jul 2024 10:50:27 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 06:12:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Niels Fez Pedersen.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122464286</guid>
+      <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/sommerfezten-16122464286</link>
+      <title>SommerFezten</title>
+      <description>Vi skal ud under åben himmel. SommerFezten samler på sange om strand, hav, natur og sommerens udeliv.
+Vært: Niels Fez Pedersen.</description>
+      <pubDate>Sat, 13 Jul 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464286/70201e71f99cedd5c0681235e68e86f4e77b67870354c375d132e784e0092cff.mp3" type="audio/mpeg" length="168481463" />
+    </item>
     <item>
       <guid isPermaLink="false">16122464276</guid>
       <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/sommerfezten-16122464276</link>
@@ -64,19 +77,6 @@ Vært: Niels Fez Pedersen.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464255/e4197960d1b09145ce7ceb2272b0df8febb7a7084122821bda9fa6e598768841.mp3" type="audio/mpeg" length="165602161" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122464245</guid>
-      <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/fezten-16122464245</link>
-      <title>Fredag 14. jun. 2024</title>
-      <description>Fezten er et musikprogram, der fanger stemningen af weekend og spiller sange til fredagsbaren. Positiv upbeat musik, som et indie-disco med klubklassikere og tilsat mini-portrættter. Lydsporet til en privatfezt med afstikkere til både køkkenet og soveværelset.
-Vært: Niels Fez Pedersen.</description>
-      <pubDate>Fri, 14 Jun 2024 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464245/42f980133e38e7242da32d8b6e63163c34d5a198f669a761880460e100ecfae4.mp3" type="audio/mpeg" length="165601585" />
     </item>
   </channel>
 </rss>

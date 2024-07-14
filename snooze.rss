@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 13 Jul 2024 10:50:39 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 06:23:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -196,24 +196,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428251/16565830fae848db3898c2c67435bfce64d666d6475db134fc87b56bbcbeec2d.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428245</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-naar-hjernen-svinger-med-peter-vuust-18452428245</link>
-      <title>Når hjernen svinger - med Peter Vuust</title>
-      <description>Hjerneforsker og jazzmusiker Peter Vuust er for tiden aktuel i en podcast udgivet af Aarhus Jazz Orchestra, der stiller det enkle, og voldsomt spændene spørgsmål, hvad sker der egentlig i hjernen, når musikken svinger?
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Medvirkende: Peter Vuust; hjerneforsker, komponist og musiker.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Fri, 14 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428245/5318a5e1af14006ff8894b4fdd30c2bc221a54b109787d8c41a1e7042bea0030.mp3" type="audio/mpeg" length="252002185" />
     </item>
   </channel>
 </rss>
