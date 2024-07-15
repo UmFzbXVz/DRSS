@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Jul 2024 06:21:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 08:56:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -260,18 +260,6 @@ Mange hilsner og god lyttelyst, Goodluck Casper.</description>
       <itunes:duration>01:05:48</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436603/a58f3c68297e3f09b3e260e976c68f02a6ed3c4b71f3198b241a4bd7b42d3c4c.mp3" type="audio/mpeg" length="94773753" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452436602</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-oliver-fra-bandet-rigmor-og-rhcp-blood-sugar-sex-magik-16452436602</link>
-      <title>Oliver fra bandet Rigmor og RHCP "Blood, Sugar, Sex, Magik"</title>
-      <description>Oliver Steward, guitarist i bandet Rigmor, har sat sig ned hos mig med sin el-guitar, og vi nørder alt omkring Red Hot Chili Peppers og især deres guitsrist, John Frusciante. Vi vender også alle de smukke barndomsminder, Oliver har hjemme fra stuen, hvor hans mor skruede så højt op for RHCP, at højtalerne sprang. Gode tider!</description>
-      <pubDate>Sun, 14 Jan 2024 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:03:01</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436602/00e46a8dfab75c65c1152d27af8c1fedfeeca06d640ba5ba1e20874c59eca6a2.mp3" type="audio/mpeg" length="90761912" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Jul 2024 06:17:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 08:56:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -54,20 +54,6 @@ Redaktør: Kasper Christensen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436256/7647bebe4b8768dd70d038c5caaac2d58a464c0b3d84af5680e1ee24918ca229.mp3" type="audio/mpeg" length="168482189" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452436246</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-18452436246</link>
-      <title>Cool guitar og to minutters skønhed</title>
-      <description>Mesteguitaristen Wes Montgomery har en date med West Coast Cool jazzen, Aphex Twin leverer to minutters skønhed og så har Naya Buric fundet en helt særlig udgave frem af Summertime.
-Vært og tilrettelægger: Naya Buric.
-Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 15 Jun 2024 16:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436246/8d76448e9dbd7a78a9cc581f30600bd7b69ba01d38f183912a213fd7568fe2cc.mp3" type="audio/mpeg" length="168482174" />
     </item>
   </channel>
 </rss>

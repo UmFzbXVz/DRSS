@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Jul 2024 06:15:55 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 08:56:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,17 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802401003</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-ekstra-om-attentatforsoeg-paa-donald-trump-11802401003</link>
+      <title>Ekstra om attentatforsøg på Donald Trump</title>
+      <description>Få et originalt perspektiv på de begivenheder, der former verden og opdag de oversete historier, der kommer til at ændre verden.</description>
+      <pubDate>Sun, 14 Jul 2024 13:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:53:56</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802401003/7e34196307713c13b44fa5ff961e954d405fc83f67c0470417462734c7887492.mp3" type="audio/mpeg" length="164069899" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410285</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410285</link>
@@ -1518,31 +1529,6 @@ Dagens værter: Morten Runge og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:19:53</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410034/91faa18d4f18a56f80e8ccf583f147192ed1ed97e74c94bfd7ce7cbbf89e2040.mp3" type="audio/mpeg" length="115039161" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410033</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410033</link>
-      <title>Onsdag 17. jan. 2024</title>
-      <description>Hvad er det for en kommunikationsstrategi, Kongehuset lægger for dagen med bogen "Kongeord"? Hvorfor angribes Pakistan, Syrien og Irak af Iran? Hvordan bliver medicin og nødhjælp brugt som pressionsmiddel i Gaza?
-Dagens værter: Søren Carlsen og Anne Kirstine Hermann.</description>
-      <pubDate>Wed, 17 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:50:09</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410033/973c66e8ef49205c0e5de2aac2c3b3bf99f1d8ea16b40a5c0ac10cdf7a738375.mp3" type="audio/mpeg" length="158634754" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802401002</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-live-tronskifte-paa-p1-11802401002</link>
-      <title>P1 Live: Tronskifte på P1</title>
-      <description>Søndag den 14. januar bliver en historisk dag, når Dronning Margrethe forlader tronen og hele begivenheden kan følges på P1, når vi sender fra "Tronskifte på P1" fra kl. 13-18. 
-Der vil være gæster på besøg i vores studie, der både ser tilbage på Dronning Margrethes 52 år på tronen og den opgave som Kronprins Frederik overtager. 
-Vi har også reportere på gaden i København, hvor tusindvis af mennesker ventes at følge tronskiftet.</description>
-      <pubDate>Sun, 14 Jan 2024 13:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>04:54:07</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802401002/bdeae6d763dc9f39b7d106734672108b528cbcf90b64885e9aa983e1180eaa4f.mp3" type="audio/mpeg" length="423547082" />
     </item>
   </channel>
 </rss>

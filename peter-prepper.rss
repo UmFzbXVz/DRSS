@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Jul 2024 06:12:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 08:56:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493210</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-find-din-egen-mad-16122493210</link>
+      <title>Find din egen mad</title>
+      <description>Thomas Laursen er sanker, det vil sige, at hans arbejde består af at finde mad i naturen, blandt andet til Michelin-restauranter landet over. Men med tips fra Thomas Laursen kan du selv fylde køkkenskabene med håndplukkede fødevarer fra de danske skove og strande, og helt uden det koster en krone. Peter Falktoft giver Thomas Laursen den ultimative udfordring; Find mad i naturen midt i København.
+ GÆST: Thomas Laursen, sanker.
+
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 15 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:32:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493210/08f298091ac8976baa76613bf030b174dad45def1775a9f5aec645714a42a1fe.mp3" type="audio/mpeg" length="46951353" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493209</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-gadgets-for-preppere-16122493209</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 14 Jul 2024 06:23:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 08:56:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -31,6 +31,19 @@
     </itunes:category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452447287</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/korfix-i-koejen/korfix-i-koejen/korfix-i-koejen-18452447287</link>
+      <title>Søndag 14. jul. 2024</title>
+      <description>Lyden af soul, sommer og jazz musik hver søndag formiddag fra kl. 10-12, når Frederik Korfix sætter tempoet ned og hænger køjen op i 'Korfix i Køjen'.
+Vært: Frederik Korfix.</description>
+      <pubDate>Sun, 14 Jul 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452447287/51223f3edeba476f785a31eb2fd26b89aba2b7b79cab645416d45916e3b0f174.mp3" type="audio/mpeg" length="168481513" />
+    </item>
     <item>
       <guid isPermaLink="false">18452447277</guid>
       <link>https://www.dr.dk/lyd/p8jazz/korfix-i-koejen/korfix-i-koejen/korfix-i-koejen-18452447277</link>
