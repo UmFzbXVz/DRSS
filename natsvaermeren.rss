@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:16:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -181,19 +181,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463247/dff32a7e056f8daf30a52324a5af08e25ba901cb597b188644c5d3b519412152.mp3" type="audio/mpeg" length="168481602" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463246</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-uro-12422463246</link>
-      <title>Uro</title>
-      <description>Uro kan både være den uro der hænger over det lille barn for at stimulere sanserne, og det kan være en følelse af uro, vækket af musik måske. Musikken i Natsværmeren vil hænge over dig som en uro, til forhåbentlig glæde og adspredelse, og samtidig vække dine sanser til live.
-Vært: Tina Rømer.</description>
-      <pubDate>Sun, 16 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463246/22f11a841e8f000db450898777c1b0837366f6c4bfa419d5616ead0a92fc89e7.mp3" type="audio/mpeg" length="168481604" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463151</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-det-jeg-husker-12422463151</link>
       <title>Det jeg husker</title>
@@ -270,6 +257,19 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363294</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-soegende-12422363294</link>
+      <title>Søgende</title>
+      <description>Mennesker leder. Nogen finder, hvad de søger, andre aldrig. Natsværmeren åbner op for reflektion med kristen musik, kærlighedssange og et helt album, hvor Gud agerer producer.
+Vært: Minna Grooss.</description>
+      <pubDate>Fri, 21 Jul 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363294/1dd391b33115a5b2e35a595ac1b88dbfa308cc1c23d849263420862141907fac.mp3" type="audio/mpeg" length="168480389" />
     </item>
     <item>
       <guid isPermaLink="false">12422363292</guid>

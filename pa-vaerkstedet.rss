@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:25 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:15:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -63,6 +63,19 @@ Producer og tilrettelægger: Iben Mogensen.</description>
       <itunes:duration>01:15:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422453031/d8b3e8e1ce68e012ed489935a0a9fd27cc40f3a3c0a41a0654a2cab2a5b70631.mp3" type="audio/mpeg" length="108002185" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422353511</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet-2023/paa-vaerkstedet-katrine-grarup-elbo-violinist-og-komponist-12422353511</link>
+      <title>Katrine Grarup Elbo, violinist og komponist</title>
+      <description>Katrine Grarup Elbo siger, at hun er glad for at være vokset op med en høj arbejdsmoral og disciplin. Men det har taget hende nogle år at forstå for alvor, at hun ikke bare kan sætte sig ned og gå i gang når hun arbejder kreativt. Hvorfor kan hun ikke det og hvad betyder det for hendes kreative processer? Det taler psykologiprofessor Lene Tanggaard med Katrine Grarup Elbo om i dagens udsendelse.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 18 Dec 2023 18:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353511/bedbf8372838adeeed3360ae7a3ae9789a57a8e9b021b105b242ea46f07cf857.mp3" type="audio/mpeg" length="108001614" />
     </item>
     <item>
       <guid isPermaLink="false">12422353431</guid>

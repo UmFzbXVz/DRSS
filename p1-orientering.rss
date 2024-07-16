@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:43 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:16:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410291</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410291</link>
+      <title>Mandag 15. jul. 2024</title>
+      <description>Hvad bliver det for et konvent her kort tid efter attentatforsøget? Hvorfor finder vælgere på konspirationsteorier? Og hvorfor skal Sprogø-pigerne have erstatning?  
+Dagens vært: Ole Brink.</description>
+      <pubDate>Mon, 15 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:16:12</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410291/43d35c9db5730c513446efdea9993caa8509246cdf8da69d5dbc11a15ef190b8.mp3" type="audio/mpeg" length="109732354" />
+    </item>
     <item>
       <guid isPermaLink="false">11802401003</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-ekstra-om-attentatforsoeg-paa-donald-trump-11802401003</link>
@@ -1517,18 +1529,6 @@ Dagens værter: Morten Runge og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:25:22</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410035/208a7b8dcdf53a4b0379c4d945108be2693d90390bb7b5852e5c5d112dc2f59a.mp3" type="audio/mpeg" length="122948139" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410034</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410034</link>
-      <title>Torsdag 18. jan. 2024</title>
-      <description>Hvad siger Nye Borgerliges bagland til Vermunds skifte til LA? Hvad skal der gøres ved, at unge under 18 sidder og bliver påvirket på twitch og kan ende med at udvikle ludomani? Hvor usædvanligt er en bestikkelsessag i toppen af Rigspolitiet?
-Dagens værter: Morten Runge og Søren Carlsen.</description>
-      <pubDate>Thu, 18 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:19:53</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410034/91faa18d4f18a56f80e8ccf583f147192ed1ed97e74c94bfd7ce7cbbf89e2040.mp3" type="audio/mpeg" length="115039161" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:55 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:16:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -34,9 +34,9 @@ Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du ka
       <pubDate>Sun, 14 Jul 2024 14:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>03:57:00</itunes:duration>
+      <itunes:duration>03:50:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401287/f8f47653c3ecf329816a2bfdd5c53b226336054b5ae0cbc01c24a68394a65d9a.mp3" type="audio/mpeg" length="341281597" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401287/284f5507217b0f4570cdd85c428e3ce98c69f8f2227c11f081c85dc6b61b727d.mp3" type="audio/mpeg" length="332264317" />
     </item>
     <item>
       <guid isPermaLink="false">13652401286</guid>
@@ -63,19 +63,6 @@ Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du ka
       <itunes:duration>03:00:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401285/93720648dac530256e69923e83b6643da3939181b628f764595bcb2fd8a7a8db.mp3" type="audio/mpeg" length="259285693" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652401284</guid>
-      <link>https://www.dr.dk/lyd/p4/touren-paa-p4/touren-paa-p4-2024/touren-paa-p4-13652401284</link>
-      <title>Torsdag 11. jul. 2024</title>
-      <description>Touren på P4 giver dig ultimativ sommerferiestemning! Vi er klar med udsøgt cykelløb, danskere i topklasse, fede præmier og røverhistorier fra Frankrig. 
-Emil Schiønning, Morten Hausborg og Sara Skovhave har øje på vejen, så du kan følge med i verdens største cykelløb uden at bruge sommerferien i sofaen.</description>
-      <pubDate>Thu, 11 Jul 2024 15:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:48:09</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652401284/a68d8920f1979a0188df0f10a177cd5839519c95162716883493f3aa322ca8a1.mp3" type="audio/mpeg" length="242143357" />
     </item>
   </channel>
 </rss>

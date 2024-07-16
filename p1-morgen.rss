@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:16:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433291</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433291</link>
+      <title>Mandag 15. jul. 2024</title>
+      <description>Hvordan står Trump nu? Hvor står Biden efter attentatforsøget mod Trump? Hvordan kommer attentatet mod Trump til at påvirke valgkampen?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Mon, 15 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433291/449f811c70a65f554073c20891526448cf1c010d9d6facefa9764f10a429d837.mp3" type="audio/mpeg" length="237751834" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433286</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433286</link>
@@ -1834,18 +1846,6 @@ Dagens værter: Ole Brink og Maria Hollænder.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:05</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433035/a9f58ae1a0a5826bb72c084c5cebd06f309b5da3e04009b27c11feaaa8a70fdf.mp3" type="audio/mpeg" length="237733457" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433034</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433034</link>
-      <title>Torsdag 18. jan. 2024</title>
-      <description>Hvad skal der til for, at færre borgere med psykiske lidelser ender i kriminalitet? Hvorfor angriber Iran mål i Pakistan, Irak og Syrien? Og er der plads til Vermund og hendes politik i Liberal Alliance? 
-Dagens værter: Pernille Rudbæk og Bjarne Steensbeck.</description>
-      <pubDate>Thu, 18 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:52</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433034/fff47732291448db0bbe2d02e684cd27b6ed131633369505f358f1bfef21a254.mp3" type="audio/mpeg" length="237428577" />
     </item>
   </channel>
 </rss>

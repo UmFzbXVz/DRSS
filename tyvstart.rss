@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:57 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:16:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450141</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-cykelhistoriens-stoerste-rivalisering-13652450141</link>
+      <title>Cykelhistoriens største rivalisering?</title>
+      <description>Jonas Vingegaard og Tadej Pogacar har betaget os alle i Tour de France i år, og der har aldrig været tvivl om, at det er de to, der ender med  første- og andenpladsen. 
+Sådan har det også været de seneste år, så derfor stiller Tyvstart spørgsmålet: Hvor rangerer man deres rivalisering i cykelhistorien?
+Det vender vi i dagens afsnit, hvor vi også skal forbi de danske fodboldkvinder, der i fredags kvalificerede sig til næste års EM-slutrunde, og som i aften møder Tjekkiet på hjemmebane.
+Vært: Rikke Smed.</description>
+      <pubDate>Tue, 16 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450141/c3dd1b80618b7385286417cd9a220c0e3b0a379b8444a5f1c99674fe7eb03826.mp3" type="audio/mpeg" length="28778557" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450140</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-spansk-guldeufori-og-vingegaards-gule-problemer-13652450140</link>
@@ -2081,22 +2096,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:42</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450011/25abe695a4718d15c74e35377a637f58416fce9bcdffffd6a8b05ef9650160a4.mp3" type="audio/mpeg" length="25493051" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450010</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ukendte-portugisere-stormer-frem-13652450010</link>
-      <title>Ukendte portugisere stormer frem</title>
-      <description>Han kendte ikke så meget til portugisisk håndbold, da han takkede ja til et skifte til Porto i 2022.
-Men den danske bagspiller Nikolaj Læsø er blevet positivt overrasket over niveauet i Portugal. 
-For selvom mange nok forbinder Portugal med fodbold, så buldrer håndbolden fremad i landet.
-
-Vært: Emil Schiønning</description>
-      <pubDate>Mon, 15 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:22</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450010/e80f2fde21f99085db3c4cc3c9cc2f238cdbad1d7fc41bd5a54172bf66adc385.mp3" type="audio/mpeg" length="25028219" />
     </item>
   </channel>
 </rss>

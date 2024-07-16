@@ -10,7 +10,7 @@ Vært: Mikkel Nygaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:35 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:15:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Vært: Mikkel Nygaard.</description>
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652430291</guid>
+      <link>https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz-2024/den-store-sportsquiz-her-er-der-aldrig-hviledag-13652430291</link>
+      <title>Her er der aldrig hviledag</title>
+      <description>Touren holder hviledag, EM-guldet røg til Spanien, og Carlos Alcaraz snuppede Wimbledon-titlen igen. 
+Den første del af årets vilde sportssommer er passeret, og det er tid til at stoppe op. Kigge tilbage, nyde den seneste måneds store resultater. Det er Sportsquizzen denne gang, hvor der dystes i alt fra franske cykelryttere til EM-finalens store hovedpersoner.
+Vært: Mikkel Nygaard.</description>
+      <pubDate>Mon, 15 Jul 2024 15:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652430291/7f6a0a846ebb113d51ebe7c0457e581aea361add6e154256dccf12d70efeb17b.mp3" type="audio/mpeg" length="259201606" />
+    </item>
     <item>
       <guid isPermaLink="false">13652430281</guid>
       <link>https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz-2024/den-store-sportsquiz-den-vildeste-sportssommer-13652430281</link>

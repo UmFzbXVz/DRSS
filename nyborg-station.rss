@@ -9,7 +9,7 @@ Vært: Jesper Nyborg.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:27 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:15:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Jesper Nyborg.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452438291</guid>
+      <link>https://www.dr.dk/lyd/p5/nyborg-station/nyborg-station-2024/nyborg-station-15452438291</link>
+      <title>Mandag 15. jul. 2024</title>
+      <description>På Nyborg Station mødes aktuelle sange med klassikerne. Her er gæster fra musikkens verden, musik på ægte vinyl, klip fra musikkens historie og altid et bud på dagens bedste cover.
+Vært: Jesper Nyborg.</description>
+      <pubDate>Mon, 15 Jul 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452438291/9e9d2c4d8e8f7f84dff4e898d0c8b89a6215705777b6bd6a9172422fec95d21b.mp3" type="audio/mpeg" length="168481543" />
+    </item>
     <item>
       <guid isPermaLink="false">15452438285</guid>
       <link>https://www.dr.dk/lyd/p5/nyborg-station/nyborg-station-2024/nyborg-station-15452438285</link>

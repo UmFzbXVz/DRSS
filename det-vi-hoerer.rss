@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 15 Jul 2024 08:56:28 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:15:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -498,6 +498,22 @@ Vært: Magnus Larsson.</description>
       <itunes:duration>01:49:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381841/b7010562610d2c3741f93e003997cb84a9193b23dcbe0d36f9424f62e1d6510c.mp3" type="audio/mpeg" length="156966219" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381824</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/nina-oerum/det-vi-hoerer-ind-i-radioen-12422381824</link>
+      <title>Ind i radioen</title>
+      <description>På Musikvidenskabeligt Institut var det svært for mig at tale om og analysere musikken. Jeg ville bare synge, spille og lytte til den. Men i sidste ende blev jeg selv den, der taler. Hør om vejen ind i radioen med musik af bl.a. Bartok og Händel samt et pausesignal undervejs.
+Vært: Nina Ørum.</description>
+      <pubDate>Tue, 18 Jul 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000080004</itunes:order>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381824/c92fe4ea9596721ee0c5db15ab9892a4c65ffa66d826bb882b5424d907d5ed92.mp3" type="audio/mpeg" length="156959302" />
     </item>
     <item>
       <guid isPermaLink="false">12422381823</guid>
