@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Jul 2024 06:15:44 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 05:26:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -171,19 +171,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421252/7e1998ff6058eff3c4b9f48a462f730e6de2165807b38e61b98da4180c04ad2f.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421251</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-em-i-fodbold-em-i-musik-13332421251</link>
-      <title>EM i fodbold? - EM i musik!</title>
-      <description>I går havde Danmark sin første EM-kamp, og vi vil gerne omfavne konceptet med EM i musik! I anledningen af dagens kamp er det selvfølgelig Slovakiet vs. Belgien. Vi har fundet musik fra begge steder, og lytterne styrer slagets gang. Og som altid, skal vi da også forbi Powerquizzen.
-Velkommen indenfor og FORZA!</description>
-      <pubDate>Mon, 17 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421251/be93f678574b5b9c7138b35e3b1243cebed3683789be6ae212102dd4262d1104.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

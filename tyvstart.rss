@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Jul 2024 06:16:04 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 05:26:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450142</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-festfyrvaerkeri-i-hoejderne-og-flade-fusere-13652450142</link>
+      <title>Festfyrværkeri i højderne og flade fusere</title>
+      <description>Den tredje uge af Tour de France blev tirsdag skudt i gang med endnu en flad etape, og endnu en langgaber, hvor sprinteren Jasper Philipsen hev sin tredje etapesejr hjem. 
+Men han er stadig bag Biniam Girmay i pointkonkurrencen, og kampen om den grønne trøje er stadig ikke afgjort endnu.
+Nu venter fire bjergetaper, inden Tour de France slutter med en enkeltstart i Nice. Og satser Vingegaard allerede stort på den første af fire bjergetaper?
+Det vender vi i Tyvstart med cykelkommentator Emil Schiønning.
+Vært: Rikke Smed.</description>
+      <pubDate>Wed, 17 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450142/8dcd660d86c4c513b05bccdbf61fb2e9d736d0def0d32b053eee1c102822189c.mp3" type="audio/mpeg" length="23175800" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450141</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-cykelhistoriens-stoerste-rivalisering-13652450141</link>
@@ -2082,20 +2098,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:56</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450012/d1db99f072c9d7cba8124c1b75a31070423281d3e825bc464432d651d113d8ef.mp3" type="audio/mpeg" length="27279226" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450011</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dansk-march-mod-mellemrunden-13652450011</link>
-      <title>Dansk march mod mellemrunden</title>
-      <description>De danske håndboldherrer vandt mandag aften tredje og sidste EM-gruppekamp mod Portugal. 
-Nu venter der fire opgør i mellemrunden, og der bliver med garanti skruet op for niveauet med stærke modstandere. I dagens episode gør DR Sportens håndboldkommentator Frederik Lindved status efter det afsluttede gruppespil og kigger frem mod den spændende mellemrunde.
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 16 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:42</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450011/25abe695a4718d15c74e35377a637f58416fce9bcdffffd6a8b05ef9650160a4.mp3" type="audio/mpeg" length="25493051" />
     </item>
   </channel>
 </rss>

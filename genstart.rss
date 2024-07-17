@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Jul 2024 06:13:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 05:14:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460161</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Kommer den hjem?</title>
+      <description>Det var dem der opfandt spillet og det er her guldet har hjemme. Der er bare det, at det engelske fodboldlandshold ikke har vundet guld siden VM i 1966. Det er nu 58 år siden, og alle forsøg siden da har været enten pinlige eller skuffende. Igen og igen er de gået efter sejren, men hver evig eneste gang står de lamslåede tilbage som taberne. Nederlagene har været brutale - særligt for den britiske selvforståelse. Men nu lever håbet på ny. England er i EM-finalen, og endnu engang tror de i hvert fald selv på, at det er i aften, at guldet kommer hjem. Fodboldkommentator på TV2 og fan af engelsk fodbold Morten Bruun fortæller om den lange lidelseshistorie, der måske slutter her. 
+Vært: Anna Ingrisch . 
+Program publiceret i DR Lyd d. 14/7.</description>
+      <pubDate>Wed, 17 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460161/9d84eddb61b414033a000d2913c5fcc2264cb28584435911eb2e7bbe152dc3c4.mp3" type="audio/mpeg" length="37479621" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460160</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

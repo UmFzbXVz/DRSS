@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Jul 2024 06:16:12 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 05:26:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433292</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433292</link>
+      <title>Tirsdag 16. jul. 2024</title>
+      <description>Hvorfor halter Danmark efter andre nordiske lande, når det kommer til at sikre voldsudsatte børns rettigheder? Hvad vil Donald Trump egentlig med USA, hvis han bliver valgt for anden gang? Hvad er er status i Syrien militært og for befolkningen?  
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Tue, 16 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:05</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433292/c2060b456c422278639d5588cb0bba68e022c61f1d49d4a1c424631ce8133e1e.mp3" type="audio/mpeg" length="237732338" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433291</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433291</link>
@@ -1834,18 +1846,6 @@ Dagens værter: Pernille Rudbæk og Anne Kirstine Hermann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:49:58</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433036/837d593ecd1840d19e286cd6ff4eda7d327942ac0b6bc271cafda0685b1f0db1.mp3" type="audio/mpeg" length="158371612" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433035</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433035</link>
-      <title>Fredag 19. jan. 2024</title>
-      <description>Hvorfor mener Alternativet, at klimaministeren vildleder folketinget? Hvad vil Vanopslagh med Pernille Vermund og Liberal Alliance? Og hvad indeholder forsvarsforligets delaftale?
-Dagens værter: Ole Brink og Maria Hollænder.</description>
-      <pubDate>Fri, 19 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:05</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433035/a9f58ae1a0a5826bb72c084c5cebd06f309b5da3e04009b27c11feaaa8a70fdf.mp3" type="audio/mpeg" length="237733457" />
     </item>
   </channel>
 </rss>

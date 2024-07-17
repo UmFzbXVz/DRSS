@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Jul 2024 06:16:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 05:26:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405292</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405292</link>
+      <title>Tirsdag 16. jul. 2024</title>
+      <description>Præludium:	Emil Sjögren: Legende i d-mol
+Fra det G.T.:	Salme 117
+Salme: 753 "Gud, du som lyset og dagen oplod"
+Fra det N.T.:	Matthæus 10, 7-16
+Korvers: Mark Baumann: Gør dig nu rede, kristenhed (tekst: Karl Laurids Aastrup)
+Salme: 633 "Har hånd du lagt på Herrens plov"
+Postludium: Per Günther: Helligånd, vor sorg du slukke</description>
+      <pubDate>Tue, 16 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405292/2efa427d25284bc5fbf83c4cd6752b7e40479bf6719999ca525334467af9d36e.mp3" type="audio/mpeg" length="36001579" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405291</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405291</link>
@@ -456,24 +474,6 @@ Postludium: Johann Sebastian Bach: In dir ist Freude, BWV 615.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405252/46e4f949c99a46d77d826ca865ba3e443f8458e25e175e9604d91a7b1344b87b.mp3" type="audio/mpeg" length="36001584" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405251</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405251</link>
-      <title>Mandag 17. jun. 2024</title>
-      <description>Præludium:	Povl Hamburger: På Gud alene.
-Ord til dagen: af Gregor af Nyssa.
-Salme: 685 "Vor Gud er idel kærlighed".
-Fra det N.T:	Matthæusevangeliet 5, 43-48.
-Korvers: Felix Mendelssohn Bartholdy: Gid Jesu glæde i os bo (tekst: Thomas Kingo 1699).
-Salme: 303 "Kom, Gud Faders Ånd fuldgod".
-Postludium: Laurids Lauridsen: Kom, Helligånd, Gud Herre from.</description>
-      <pubDate>Mon, 17 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405251/fbe7e36e848334988a1263736878cef00e8eddf748ec171c09c830279199557b.mp3" type="audio/mpeg" length="36001585" />
     </item>
   </channel>
 </rss>

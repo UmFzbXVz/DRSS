@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Jul 2024 06:16:10 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 05:21:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410292</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410292</link>
+      <title>Tirsdag 16. jul. 2024</title>
+      <description>Hvilken betydning har det for gambling tendenserne i Danmark, at sommeren står i sportens tegn? Fylder SoMe for meget for vores politikere? Hvad er det for et samarbejde, der er mellem danske og svenske kriminelle?  
+Dagens vært: Ole Brink.</description>
+      <pubDate>Tue, 16 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:19:13</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410292/8b33cf76da1b41dfb15b651e45e95017bb3d37da00977ff1be98380fadff56ab.mp3" type="audio/mpeg" length="114088165" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410291</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410291</link>
@@ -1517,18 +1529,6 @@ Dagens værter: Jan Falkentoft og Anne Kirstine Hermann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:21:14</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410041/23fdfd70e086fa3da431b8a7d5f935971a9bb9d7695c4072f54aa4014e478f7d.mp3" type="audio/mpeg" length="116979705" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410035</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410035</link>
-      <title>Fredag 19. jan. 2024</title>
-      <description>Hvor langt rækker en 100 millioner fra klimafonden? Overlever Nye Borgerlige? Hvorfor siger Netanyahu nej til en tostats-løsning?
-Dagens værter: Morten Runge og Bjarne Steensbeck.</description>
-      <pubDate>Fri, 19 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:25:22</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410035/208a7b8dcdf53a4b0379c4d945108be2693d90390bb7b5852e5c5d112dc2f59a.mp3" type="audio/mpeg" length="122948139" />
     </item>
   </channel>
 </rss>

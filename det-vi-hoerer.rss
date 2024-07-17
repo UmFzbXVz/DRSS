@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 16 Jul 2024 06:15:50 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 05:26:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -450,6 +450,24 @@ Vært: Mette Greiffenberg.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481804/2ef55520a6eefc680e213bb57345c7f568dec2a407af00a7a032de71e0934c9d.mp3" type="audio/mpeg" length="165795146" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381844</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/magnus-larsson/det-vi-hoerer-indspilningens-magt-12422381844</link>
+      <title>Indspilningens magt</title>
+      <description>Det er ikke altid en fordel at lytte til den musik jeg skal fremføre - og nogle gange er det et must.
+Og kan man egentlig blive for vant til den samme indspilning?
+Jeg spiller den musik jeg elsker og har lyttet rigtig meget til for dig, og kommer forbi flere af mine yndlingsalbum af bl.a. Mahler, Schubert og Tchaikovsky.
+Vært: Magnus Larsson.</description>
+      <pubDate>Wed, 19 Jul 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000090004</itunes:order>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:52</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381844/6518897771b413841e3c8a57f8a1b30152eadd622877ab57f2106bfe8fb2b397.mp3" type="audio/mpeg" length="156789956" />
     </item>
     <item>
       <guid isPermaLink="false">12422381843</guid>
