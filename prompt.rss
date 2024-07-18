@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:21:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:25:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,23 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421028</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-sommerspecial-programmet-om-muzak-11802421028</link>
+      <title>Sommerspecial: Programmet om muzak</title>
+      <description>Prompt er inviteret til Spot Festival i Aarhus for at tale om den revolution, vi står overfor inden for musik med AI. AI-tjenester tilbyder at skabe en hel sang med vokal og musik - alene ud fra en prompt.
+Marcel og Henrik tester de nye AI-værktøjer og diskuterer, om der overhovedet er en fremtid for original musik. Tidligere var det radiokanalerne, der introducerede os for ny musik. I dag er verden styret af playlister, playlister, playlister, som ofte er AI-skabte.
+Vi får besøg af den legendariske musikjournalist Chris Cooke, der har dækket teknologiens indvirkning på musikbranchen i årtier. Med ham skal vi vende den rolle, algoritmerne hos fx. Spotify spiller i opdagelsen af ny musik. Er det pengene eller kvaliteten, der styrer, hvad der rammer vores personaliserede playlister?
+Optaget d. 3. maj 2024.
+Værter: Marcel Mirzaei-Fard, vært og Henrik Moltke, tech-korrespondent.
+Gæster: Chris Cooke, musikjournalist, Jakob Plesner, direktør for IFPI, DJ Noize, DJ og producer, og Nicolai Franck, Tech Scout hos Koda.</description>
+      <pubDate>Thu, 18 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421028/96d898a1ab00059c5637c27e257479fdba4f4fefa934185b6b3e56d4ef4658a6.mp3" type="audio/mpeg" length="78409030" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421027</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-sommerspecial-den-groenne-slagside-og-ai-terapi-11802421027</link>

@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:14:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:24:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460162</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Skud mod Trump</title>
+      <description>En kugle fra en riffel rammer den tidligere præsident på højre øre. Den er centimeter fra at kunne slå ham ihjel, men Donald Trump når i dækning. Secret Service-agenter forsøger at få ham væk fra podiet, men han stopper dem. Og så knytter han næven ud mod folkemængden, mens blodet løber ned af hans kind og danner ordene "Fight, fight, fight" med sin mund. Attentatforsøget bekræfter, at politisk vold er blevet mere velkomment i USA, det er manifestationen af et demokrati under angreb. Men dagens gæst DR's internationale korrespondent Steffen Kretz er ikke overrasket over angrebet mod Donald Trump.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 15/7.</description>
+      <pubDate>Thu, 18 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460162/9015dde29ae0801f5c9adbba15ee6a94427d057758af877da3649484a08ea2a0.mp3" type="audio/mpeg" length="34710220" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460161</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

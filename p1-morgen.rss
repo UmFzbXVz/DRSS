@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:26:08 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:31:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433293</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433293</link>
+      <title>Onsdag 17. jul. 2024</title>
+      <description>Hvad får Elon Musk ud af at give Donald Trumps kampagne 300 mio. kr.om måneden? Hvordan kommer vi konkret til at mærke, at vi har fået en dansk næstformand i Europa-Parlamentet? Og hvilke konsekvenser har de mange krydstogtturister i Skagen for den lille nordjyske by? 
+Dagens vært: Pernille Rudbæk.</description>
+      <pubDate>Wed, 17 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:41</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433293/6da3110b07b7b0d11e0e1c344074f5ad2430bce6115782f005ee00a5373a2665.mp3" type="audio/mpeg" length="237164983" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433292</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433292</link>
@@ -1834,18 +1846,6 @@ Dagens værter: Morten Runge &amp; Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:26</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433041/2555bf5d5f6d2c7d861cb80a6141a33b98efa913bbb8778d3c4c506ba0905ee8.mp3" type="audio/mpeg" length="236790005" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433036</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433036</link>
-      <title>Lørdag 20. jan. 2024</title>
-      <description>Hvad betyder Netanyahus afvisning af en to-stats-løsning for Amerikanerne? Har Nordic Waste valgt en god pressestrategi? Hvordan kommer Israel bedst videre fra krigen med Hamas?
-Dagens værter: Pernille Rudbæk og Anne Kirstine Hermann.</description>
-      <pubDate>Sat, 20 Jan 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:49:58</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433036/837d593ecd1840d19e286cd6ff4eda7d327942ac0b6bc271cafda0685b1f0db1.mp3" type="audio/mpeg" length="158371612" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:26:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:32:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -162,23 +162,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428253/abce51e41417c6ed9209da1abbd580db7c0d78243b1b65977c6c16814fbdbfbf.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428252</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428252</link>
-      <title>Den sofistikerede Ella Fitzgerald</title>
-      <description>Denne morgen kigger vi blandt andet nærmere på jazzens førstedame, Ella Fitzgerald, som med sin udgave af Sophisticated Lady er under luppen i ugens udgave af P8-podcasten Uden Sidestykke.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 18 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428252/9a1fbf2cd3d7ac00e523ff848e52cc9d2e9e39c6c41375a0726c6ea4b3a4adf1.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>

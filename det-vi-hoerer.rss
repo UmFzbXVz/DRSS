@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:26:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:32:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481884</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-en-vild-og-billedskabende-musik-12422481884</link>
+      <title>En vild og billedskabende musik</title>
+      <description>Der er ikke nogen der kan skabe billeder i musik som komponisten Igor Stravinskij. Til gengæld er der heller ingen der har skabt så vild en musik som den franske komponist Olivier Messiaen med hans Turangalîla-symfoni! Derimellem skal vi høre Carmen. Vi skal høre filmmusik, og vi skal høre musik af Maurice Ravel. Velkommen til to timers radio, med noget af alt det jeg også lytter til når jeg har fri. 
+Vært: Max Fage-Pedersen.</description>
+      <pubDate>Wed, 17 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000190004</itunes:order>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481884/1615fd3eb6e1d0713cf9a25d37b4bc089fc73d1171e29c4bd3ebbdc95eaec540.mp3" type="audio/mpeg" length="165601608" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481883</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-som-blomster-der-springer-ud-efter-en-haard-vinter-12422481883</link>

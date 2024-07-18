@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:26:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:28:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463292</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-venskaber-12422463292</link>
+      <title>Venskaber</title>
+      <description>Venskaber af enhver karakter i aftens Natsværmer. De jordbundne, de flygtige, de vilde, de evige, de åndelige, de forelskede og de uundgåelige.
+Vært: Minna Grooss.</description>
+      <pubDate>Wed, 17 Jul 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463292/24df610d76474434f8b1ce995f2a85429de7898ad16460249319397effbb6e8f.mp3" type="audio/mpeg" length="168482084" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463283</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sommerillusioner-12422463283</link>
@@ -153,19 +166,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463253/a36d29a003fd2aaae6f79dc06d1fb2213ea33c73eb259660a73b18be23cc628a.mp3" type="audio/mpeg" length="168482182" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463251</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-skridt-ad-gangen-12422463251</link>
-      <title>Et skridt ad gangen!</title>
-      <description>Vandringer og gåture er godt for meget.
-Vært: Katrine Ring.</description>
-      <pubDate>Tue, 18 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463251/fa24d41349312950a944685d3938c3b6b256f3481230ec189af7143ca1ef018d.mp3" type="audio/mpeg" length="168481989" />
     </item>
     <item>
       <guid isPermaLink="false">12422463151</guid>

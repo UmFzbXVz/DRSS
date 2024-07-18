@@ -10,7 +10,7 @@ Produceret for DR af Munck Studios.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:17:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:32:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -30,6 +30,23 @@ Produceret for DR af Munck Studios.</description>
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">16122494307</guid>
+      <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-mordet-paa-anna-lindh-16122494307</link>
+      <title>Mordet på Anna Lindh</title>
+      <description>D. 11. september 2003 bliver Sveriges socialdemokratiske udenrigsminister stukket ned under en indkøbstur i et stockholmsk stormagasin. Men hvem var Anna Lindh? Hvorfor blev hun slået ihjel en septemberdag i 2003? Og hvad ved vi om gerningsmanden?
+
+Værter: Simon Emil Ammitzbøll-Bille og Kristoffer Lind.
+Klip: Mathias Pedersen.
+Redaktører: Rune Born Schwartz og Cecilie Egholm Tonnesen.
+Produceret for DR af Munck Studios.</description>
+      <pubDate>Thu, 18 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494307/215028ec3c81097bcf533f17b3e9ac946fbeaf5bb88c4e0102bf1c9177e69963.mp3" type="audio/mpeg" length="82208296" />
+    </item>
+    <item>
       <guid isPermaLink="false">16122494306</guid>
       <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-francisco-de-sa-carneiros-doedsfald-16122494306</link>
       <title>Francisco de Sa Carneiros dødsfald</title>
@@ -42,9 +59,9 @@ Produceret for DR af Munck Studios København.</description>
       <pubDate>Thu, 11 Jul 2024 05:00:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:24</itunes:duration>
+      <itunes:duration>00:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494306/3cdf6696cfc740fa63879bc8f936314c34d67e5121d64c6db0766f824852abbc.mp3" type="audio/mpeg" length="81236027" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494306/811a5e589400485277795974cf9187c6f061e107f3dc47d679d10a079dcb78d9.mp3" type="audio/mpeg" length="82282619" />
     </item>
     <item>
       <guid isPermaLink="false">16122494305</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:26:08 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:32:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450143</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-skal-vingegaard-kigge-sig-over-skulderen-13652450143</link>
+      <title>Skal Vingegaard kigge sig over skulderen?</title>
+      <description>Remco Evenepoel kommer fra baghjul. Det opdagede Vingegaard på onsdagens 17. etape, hvor belgieren hentede 12 sekunder på den forsvarende Tour-vindere. Han er nu tættere på danskerens andenplads i det samlede klassement, og spørgsmålet er derfor, om Vingegaard skal koncentrere sig om at jagte Pogacar fremfor at holde Evenepoel bag sig. 
+Det svarer DR Sportens cykelekspert Brian Nygaard på.
+Vært: Emil Schiønning.</description>
+      <pubDate>Thu, 18 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450143/9b6f584d2c00795c48c9b3149608bec3dbd6dda1ee9a96e39c4710cb27cd8564.mp3" type="audio/mpeg" length="23503547" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450142</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-festfyrvaerkeri-i-hoejderne-og-flade-fusere-13652450142</link>
@@ -2082,22 +2096,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:19:04</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450013/7b49dbe1ee2a6b64236d242c4f9c65a2b3b4f115eb0f3caaf9dd95880c5942a7.mp3" type="audio/mpeg" length="27472184" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450012</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tauson-2-0-indtager-australien-13652450012</link>
-      <title>Tauson 2.0 indtager Australien</title>
-      <description>Det var en ny og forbedret udgave af Clara Tauson, der imponerede i første runde af Australian Open med en sikker sejr og flot spil. 
-Men hvad er det, der har været fokus på i Tausons samarbejde med hendes nye træner Lars Christensen? Hvorfor fungerer det så godt? Og kan vi forvente, at hun fortsætter på denne måde?
-DR Sportens tennisreporter Kresten Mosbæk kommer med seneste nyt fra Melbourne. 
-
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 17 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:56</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450012/d1db99f072c9d7cba8124c1b75a31070423281d3e825bc464432d651d113d8ef.mp3" type="audio/mpeg" length="27279226" />
     </item>
   </channel>
 </rss>

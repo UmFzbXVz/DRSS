@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:26:21 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:32:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405293</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405293</link>
+      <title>Onsdag 17. jul. 2024</title>
+      <description>Præludium:	Niels W. Gade: Andante i g-mol 
+Fra det G.T.:	Salme 118, 13-23
+Salme: 371 "Du fylder mig med glæde" 
+Fra det N.T.:	Matthæus 10, 24-31
+Korvers: Mark Baumann: Gør dig nu rede, kristenhed (tekst: Karl Laurids Aastrup)
+Salme: 667 "Skulle jeg dog være bange"
+Postludium: Niels Otto Raasted: Skulle jeg dog være bange</description>
+      <pubDate>Wed, 17 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405293/f831696576bd5785f9d710a26c70ea89d76b99d626ec57df12094a9dc3378362.mp3" type="audio/mpeg" length="36001579" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405292</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405292</link>
@@ -456,24 +474,6 @@ Postludium: Felix Mendelssohn: Andante.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405253/7ded0b7fc6374114cdd815cf7f3e2f5f218f99c19569b31309a92e908f925cda.mp3" type="audio/mpeg" length="36001586" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405252</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405252</link>
-      <title>Tirsdag 18. jun. 2024</title>
-      <description>Præludium: Ethan Rosenkilde Larsen: Almindelig er Kristi kirke.
-Fra det G.T.: Salme 7,11-18.
-Salme: 493, vers 1-4 "Gud Herren så til jorden ned".
-Fra det N.T.: Matthæusevangeliet 6, 1-6.
-Korvers: Felix Mendelssohn Bartholdy: Gid Jesu glæde i os bo (tekst: Thomas Kingo 1699).
-Salme: 493, vers 5-7.
-Postludium: Johann Sebastian Bach: In dir ist Freude, BWV 615.</description>
-      <pubDate>Tue, 18 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405252/46e4f949c99a46d77d826ca865ba3e443f8458e25e175e9604d91a7b1344b87b.mp3" type="audio/mpeg" length="36001584" />
     </item>
   </channel>
 </rss>

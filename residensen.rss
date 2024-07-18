@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 17 Jul 2024 05:26:04 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:32:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -159,18 +159,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421253/fb7796ed1b38829b84957d953e976526c6b40954fbe95878d165934d63880cef.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421252</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-det-fedeste-ved-festivaler-det-er-at-tage-hjem-eller-hvad-13332421252</link>
-      <title>Det fedeste ved festivaler det er at tage hjem - eller hvad?</title>
-      <description>Vi runder Hot Take Tirsdag endnu engang, og i dag er det i festivalernes tegn. Hvad der bliver Residensens officielle holdning, er som altid op til jer lyttere. Vi har for alvor skudt det musikalske EM i gang, og i dag er der endnu en nail-biter kamp, som skal afgøres! Velkommen indenfor.</description>
-      <pubDate>Tue, 18 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421252/7e1998ff6058eff3c4b9f48a462f730e6de2165807b38e61b98da4180c04ad2f.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>
