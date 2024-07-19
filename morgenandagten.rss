@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Jul 2024 05:32:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:15:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405294</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405294</link>
+      <title>Torsdag 18. jul. 2024</title>
+      <description>Præludium:	Mads Høck: Nu rinder solen op af østerlide
+Fra det G.T.:	Salme 119, 12-16
+Salme: 743, vers 1-4 "Nu rinder solen op af østerlide"
+Fra det N.T.:	Matthæus 10, 32-39
+Korvers: Mark Baumann: Gør dig nu rede, kristenhed (tekst: Karl Laurids Aastrup)
+Salme: 639 "Når i den største nød vi stå"
+Postludium: Johann Sebastian Bach: Når i den største nød vi stå,</description>
+      <pubDate>Thu, 18 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405294/63011d5a1fdbddcb9eea3cb936eaa0c4b838ea487d2b1dcaa649dd543dbbc085.mp3" type="audio/mpeg" length="36001580" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405293</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405293</link>
@@ -456,24 +474,6 @@ Postludium: D. Buxtehude: Te Deum Laudamus (1. sats)</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405254/c0e1d5fb0bcd5a95b3ca50092c564594f4f8879a3b57183594e9c70b010e8106.mp3" type="audio/mpeg" length="36001581" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405253</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405253</link>
-      <title>Onsdag 19. jun. 2024</title>
-      <description>Præludium: Johann Sebastian Bach: Vater unser im Himmelreich.
-Fra det G.T.: Salme 8, 2-10.
-Salme: 364 "Al magt på jorden og i Himlen".
-Fra det N.T.: Matthæusevangeliet 6, 7-15.
-Korvers: Felix Mendelssohn Bartholdy: Gid Jesu glæde i os bo (tekst: Thomas Kingo 1699).
-Salme: 587, vers 1-2+6  "Guds egen kære søn".
-Postludium: Felix Mendelssohn: Andante.</description>
-      <pubDate>Wed, 19 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405253/7ded0b7fc6374114cdd815cf7f3e2f5f218f99c19569b31309a92e908f925cda.mp3" type="audio/mpeg" length="36001586" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Jul 2024 05:32:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:15:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -147,18 +147,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421254/fe953f121d9f54c9fc2c6464717f1a3eb61c8694ad28dbbbcc91f6282126acf2.mp3" type="audio/mpeg" length="172802165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421253</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-haeng-i-13332421253</link>
-      <title>Hæng i!</title>
-      <description>Hvem hjælper Chris Brown ned fra trapezen? Hvor har lytterne selv siddet mest fast? Og er det Ungarn eller Tyskland, der går videre i det musikalske EM? ALT bliver besvaret i dagens udgave af Residensen. Velkommen indenfor!</description>
-      <pubDate>Wed, 19 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421253/fb7796ed1b38829b84957d953e976526c6b40954fbe95878d165934d63880cef.mp3" type="audio/mpeg" length="172802165" />
     </item>
   </channel>
 </rss>

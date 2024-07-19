@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Jul 2024 05:28:38 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:15:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -220,6 +220,19 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463127/e12324a162a1e33138772bc7863271c3d4b68db8b1ead85cf57393f51c38822b.mp3" type="audio/mpeg" length="168480454" />
     </item>
     <item>
+      <guid isPermaLink="false">12422463111</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-frit-over-tilvaerelsens-ulidelige-lethed-12422463111</link>
+      <title>Frit over tilværelsens ulidelige lethed</title>
+      <description>Der er intet facit, kun blotte fornemmelser og stemninger. En forførende stemme, en guddommelig åbenbaring, et vemodigt øjeblik og et sprog du ikke forstår, der siger det hele. 
+Vært: Minna Grooss.</description>
+      <pubDate>Tue, 12 Mar 2024 03:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463111/c36b8b2a0c0734aa599e296509c62996f962805f67d108bf0c2ac61130cd2bdb.mp3" type="audio/mpeg" length="168479823" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463096</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-fyldte-chokolader-12422463096</link>
       <title>Fyldte Chokolader</title>
@@ -244,6 +257,19 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363296</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-symmetri-12422363296</link>
+      <title>Symmetri</title>
+      <description>Symmetri skal der til. Dertil er balance og ligevægt vigtige elementer til at tilstræbe en aller anden form for symmetri. Fænomenet Symmetri har endda fået skrevet en kendingsmelodi, hvor der paradoksalt nok er mere lyd i højre kanal end i venstre. Og sådan er der så meget...
+Vært: Katrine Ring.</description>
+      <pubDate>Sun, 23 Jul 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363296/95c6365cd4c2be205b5414d6ff1685a26c4c2cb34f51d2facf50fd36888701e4.mp3" type="audio/mpeg" length="168478726" />
     </item>
     <item>
       <guid isPermaLink="false">12422363294</guid>
@@ -374,19 +400,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363243/cd1a8d2d144fda702a15762684069fa6a33335b4ff6ecaca250cacf822dbedf9.mp3" type="audio/mpeg" length="168480394" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363236</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-vingefang-12422363236</link>
-      <title>Vingefang</title>
-      <description>På en aftens strækninger flyver Natsværmeren fra Finland, tager turen ned over Danmark, et smut forbi Frankrig og ender Senegal. Let som ingenting med, Rautavaara, Svaneborg Kardyb, Reynaldos Hahn og Seckou Keita Quartet.
-Vært: Minna Grooss.</description>
-      <pubDate>Sun, 11 Jun 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363236/a48b434b183e3909ec132d2af3052d1eef70ecb0c519504757ce793b4a793d1b.mp3" type="audio/mpeg" length="168481586" />
     </item>
   </channel>
 </rss>

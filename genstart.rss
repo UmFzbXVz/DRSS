@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Jul 2024 05:24:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:06:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460163</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Sort idyl</title>
+      <description>Hjemmedyrkede grøntsager pibler op, og naboer og byliv er helt uden for rækkevidde. Den buldrende klimakrise gør det nærmest intuitivt rigtigt selv at stikke fingrene i jorden og leve af og i naturen. Men selvom solsortens sang giver ro i sjælen, så er den landlige idyl langt fra bæredygtig. Dét, er til gengæld den golde regnearksby, hvor vi lever i lag på lag, deler ressourcer og kun har få kvadratmeter til os selv. Men i højhusenes skygge smiler de færreste af os særligt længe. Så hvordan bor vi bedst i fremtiden, hvis både vi og kloden skal trives? Det fortæller journalist og arkitekt Ane Cortzen i dagens Genstart. 
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 16/7.</description>
+      <pubDate>Fri, 19 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:24</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460163/6ef3c67756e528ad9f82ac4199892f466976a00cefd035b11274ca5634364cfe.mp3" type="audio/mpeg" length="33707394" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460162</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

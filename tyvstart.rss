@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 18 Jul 2024 05:32:24 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:15:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450144</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-a-hva-starter-superligaen-allerede-igen-13652450144</link>
+      <title>A'hva? Starter Superligaen allerede igen?</title>
+      <description>Dansk fodbold er færdig med at holde sommerferie, og i weekenden sparkes den nye Superliga-sæson i gang. 
+Det virker næsten overvældende, når Touren stadig kører, OL ikke engang er begyndt endnu, og EM kun har været færdigspillet i en uge. 
+Men den er god nok, og i dagens episode bliver du klædt helt på til den nye Superliga-sæson. Hvem bliver mestre? Hvem rykker ned? Og hvad med topscorerlisten?
+Vært: Rikke Smed.</description>
+      <pubDate>Fri, 19 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450144/037e50f037ffbfda3b2098721d3eedf20952d3c3333f6e6fc8d9acdc09544e56.mp3" type="audio/mpeg" length="21664376" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450143</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-skal-vingegaard-kigge-sig-over-skulderen-13652450143</link>
@@ -2081,21 +2096,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:31</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450014/df7148a15304412a63964703b57ecf63ffb1da24df0ad374989847410b0f9ccd.mp3" type="audio/mpeg" length="26671545" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450013</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dansk-em-klasse-og-wozniackis-exit-13652450013</link>
-      <title>Dansk EM-klasse og Wozniackis exit</title>
-      <description>Der er godt gang i dansk topsport, hvor både håndboldherrerne og tennisstjernerne spiller på den største scene.
-Nikolaj Jacobsens tropper vandt onsdag aften sikkert over Holland og er dermed godt fra land i EM-turneringens mellemrunde.
-I Melbourne er Caroline Wozniacki færdig ved Australian Open, men både Holger Rune og Clara Tauson er klar til anden runde, og de ser ud til at være i topform.
-Vært: Emil Schiønning.</description>
-      <pubDate>Thu, 18 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:19:04</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450013/7b49dbe1ee2a6b64236d242c4f9c65a2b3b4f115eb0f3caaf9dd95880c5942a7.mp3" type="audio/mpeg" length="27472184" />
     </item>
   </channel>
 </rss>
