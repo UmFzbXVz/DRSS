@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Jul 2024 06:15:05 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:22:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,32 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452448295</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/sommersalonen/sommersalonen/sommersalonen-18452448295</link>
+      <title>Fredag 19. jul. 2024</title>
+      <description>P8 slår dørene op til Sommersalonen og serverer forfriskende jazzede toner til at berige din eftermiddag.
+Vært: Josephine Philip.</description>
+      <pubDate>Fri, 19 Jul 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452448295/e5f1f63ca97dd854bcf8b74ddf55efcae68dc50229da4732b04958eb5d3b2d11.mp3" type="audio/mpeg" length="168481468" />
+    </item>
+    <item>
+      <guid isPermaLink="false">18452448294</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/sommersalonen/sommersalonen/sommersalonen-18452448294</link>
+      <title>Torsdag 18. jul. 2024</title>
+      <description>P8 slår dørene op til Sommersalonen og serverer forfriskende jazzede toner til at berige din eftermiddag.
+Vært: Josephine Philip.</description>
+      <pubDate>Thu, 18 Jul 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452448294/6e0bbcb2e5f09a287288b9102580a74f227eed900e9f3a036cf670a52765654b.mp3" type="audio/mpeg" length="168481468" />
+    </item>
     <item>
       <guid isPermaLink="false">18452448293</guid>
       <link>https://www.dr.dk/lyd/p8jazz/sommersalonen/sommersalonen/sommersalonen-18452448293</link>

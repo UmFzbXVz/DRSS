@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Jul 2024 06:15:18 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:22:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -154,18 +154,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463254/8332d837db152c6884553181c1a59964ba9d6306408cceb6271e33856a781079.mp3" type="audio/mpeg" length="168482111" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463253</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-skoenhed-i-natten-12422463253</link>
-      <title>Skønhed i natten</title>
-      <description>Der er smuk musik fra alle tider og alle verdenshjørner i aftenens udgave af Natsværmeren, hvor vært Peter Albrechtsen spiller alt fra klassiske legender til moderne filmmusik. Haydn, Morricone, Vaughn Williams, Arvo Pärt, Michael Nyman og George Gershwin. Plus det løse. Og kirkeklokker.</description>
-      <pubDate>Thu, 20 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463253/a36d29a003fd2aaae6f79dc06d1fb2213ea33c73eb259660a73b18be23cc628a.mp3" type="audio/mpeg" length="168482182" />
     </item>
     <item>
       <guid isPermaLink="false">12422463151</guid>
@@ -335,6 +323,19 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363274/ef098f64ee6bec42aa803e11eb455e5318d19e0cbcd66e55ab39cea6a2067e8a.mp3" type="audio/mpeg" length="168479771" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363273</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-paa-lydrejse-med-brian-eno-12422363273</link>
+      <title>På lydrejse med Brian Eno</title>
+      <description>Musik og lyd smelter sammen i aftenens Natsværmer. Den engelske producer, komponist og lydpionér Brian Eno fyldte forleden 75 år, og dette er en rejse rundt i hans dragende, ambiente lydunivers med afstikkere til både Island, Østrig og det ydre rum.
+Vært: Peter Albrechtsen.</description>
+      <pubDate>Thu, 06 Jul 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363273/cff4a6cb37e2510eaa550d8bbebaaa9e61233dabb7c9bdc5941cd3396c633e29.mp3" type="audio/mpeg" length="168474120" />
     </item>
     <item>
       <guid isPermaLink="false">12422363267</guid>

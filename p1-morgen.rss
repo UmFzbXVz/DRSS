@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Jul 2024 06:15:17 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:22:21 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433295</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433295</link>
+      <title>Fredag 19. jul. 2024</title>
+      <description>Hvad er de vigtigste pointer fra Trumps tale i nat? Hvad skal der gøres ved, at fortsat flere søger om tilskud til privat fødselshjælp? Og hvorfor går den israelske regering lodret imod den amerikanske og vestlige linje om en to-statsløsning?
+Dagens vært: Pernille Rudbæk.</description>
+      <pubDate>Fri, 19 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:49</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433295/e6f873829edfe791ef7f9df7e603ba7b0355ea1815a222a14148931c849db456.mp3" type="audio/mpeg" length="237345269" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433294</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433294</link>
@@ -1846,18 +1858,6 @@ Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:49</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433042/c2063c8e7f7f460888e5c581ba512ea9329221536cd9db994602f33aaa9ec1ef.mp3" type="audio/mpeg" length="237358452" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433041</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433041</link>
-      <title>Mandag 22. jan. 2024</title>
-      <description>I sidste uge stoppede man helt for adoptioner fra udlandet til Danmark grundet flere sager med børn, der er blevet bortadopteret til Danmark, uden deres biologiske forældre vidste det. Hvorfor er det vigtigt at få placeret et ansvar for svindlen med adoptioner? Wael El Dahdouh blev ved med at rapportere fra Gaza efter at have mistet familie og venner, men må nu opgive at blive i Gaza efter selv at være blevet såret i et israelsk angreb. Hvem er Wael og hvad har kunne berette fra Gaza? Floridas guvernør, Ron DeSantis, har trukket sig fra republikanernes primærvalgkamp. Hvordan ser kampen om at blive republikanernes præsidentskandidat ud nu?
-Dagens værter: Morten Runge &amp; Søren Carlsen.</description>
-      <pubDate>Mon, 22 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:26</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433041/2555bf5d5f6d2c7d861cb80a6141a33b98efa913bbb8778d3c4c506ba0905ee8.mp3" type="audio/mpeg" length="236790005" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Jul 2024 06:15:13 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:17:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410295</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410295</link>
+      <title>Fredag 19. jul. 2024</title>
+      <description>Hvordan kan én enkelt opdatering påvirke så mange forskellige sektorer som flytrafik, medier og sundhedssystemer samtidig? Hvad har været Hjulmands op og nedture som leder i rollen som landstræner? Og hvordan tacklede Trump den retoriske opgave med at fremstå som den, der kan forene USA?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Fri, 19 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:20:39</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410295/c9355b8701a390c6e7203d96606b1ce73eddd191915342e8fc4cc99c727b4b44.mp3" type="audio/mpeg" length="116154873" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410294</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410294</link>
@@ -1541,18 +1553,6 @@ Dagens værter: Ole Brink og Anne Kirstine Hermann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:42:39</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410042/8cb980e01872973b1edb7b4506807808404232399970bfe4e74956776f270aa7.mp3" type="audio/mpeg" length="147823810" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410041</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410041</link>
-      <title>Mandag 22. jan. 2024</title>
-      <description>Hvordan fungerer ketamin som en ny form for terapi for ukrainske soldater? Hvad vil EU-sanktioner betyde for bosætterne på Vestbredden? Kan Nordic Waste betale regningen for jordskredet i Ølst, når nu selskabet er gået konkurs?
-Dagens værter: Jan Falkentoft og Anne Kirstine Hermann.</description>
-      <pubDate>Mon, 22 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:21:14</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410041/23fdfd70e086fa3da431b8a7d5f935971a9bb9d7695c4072f54aa4014e478f7d.mp3" type="audio/mpeg" length="116979705" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Jul 2024 06:15:10 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:22:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450250</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-hjulmand-siger-stop-og-knust-vingegaard-13652450250</link>
+      <title>Hjulmand siger stop og knust Vingegaard</title>
+      <description>Kasper Hjulmand har stået i spidsen for det danske landshold for sidste gang. Fredag morgen meddelte han, at det var slut. 
+Der har været store opture, blandt andet en EM-semifinale, men der har også været mange bump på vejen. 
+Vi drøfter den tidligere landstræners tid for Danmark med fodboldkommentator Andreas Kraul i dagens afsnit af Tyvstart, hvor vi også skal forbi Tour de France, hvor Vingegaard sandsynligvis må smide det gule håndklæde i ringen. 
+Vært: Rikke Smed.</description>
+      <pubDate>Sat, 20 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:20:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450250/7c5ad9d66146a49823aed9f58051f908e3778fa072c4c5a253cff86a51d85754.mp3" type="audio/mpeg" length="28874170" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450144</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-a-hva-starter-superligaen-allerede-igen-13652450144</link>
@@ -2081,21 +2096,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450015/16281e02432ddfc4f5244d8f092ac718fc7b0991fe1e1f491580d29ca59e1af4.mp3" type="audio/mpeg" length="25937148" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450014</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-forkrampet-for-daarligt-farvel-til-melbourne-13652450014</link>
-      <title>Forkrampet, for dårligt, farvel til Melbourne</title>
-      <description>Holger Rune og Clara Tauson er færdige ved Australian Open. Caroline Wozniacki tabte allerede onsdag, og derfor er der nul danskere i tredje runde. 
-Særligt Holger Runes nederlag var uventet, og i dagens afsnit fortæller tennisreporter Kresten Mosbæk, hvordan han oplevede danskernes kampe.
-Der er også sidste nyt fra håndboldherrernes lejr inden fredagens mellemrundekamp mod Sverige.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 19 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:31</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450014/df7148a15304412a63964703b57ecf63ffb1da24df0ad374989847410b0f9ccd.mp3" type="audio/mpeg" length="26671545" />
     </item>
   </channel>
 </rss>

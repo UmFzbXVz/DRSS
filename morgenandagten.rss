@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Jul 2024 06:15:25 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:22:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405295</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405295</link>
+      <title>Fredag 19. jul. 2024</title>
+      <description>Præludium:	Elfride Andrée: Melodi i c-mol
+Fra det G.T.:	Salme 25, 1-5
+Salme: 320 "Midt iblandt os er Guds rige"
+Fra det N.T.:	Matthæus 10, 40 - 11,1
+Korvers: Mark Baumann: Gør dig nu rede, kristenhed (tekst: Karl Laurids Aastrup)
+Salme: 314 "Kom, store Gud, o Helligånd"
+Postludium: Johann Sebastian Bach: Pedalexercitium i g-mol</description>
+      <pubDate>Fri, 19 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405295/3ca32813a4aabea50c63c109d498b5542b75b954bf7477a3c80a4862c8de3c48.mp3" type="audio/mpeg" length="36001573" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405294</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405294</link>
@@ -456,24 +474,6 @@ Postludium: Frode Bitsch: Toccata.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405255/bf0a96939f0cdb34fe54b4e06856cc6a13390367663b13a22f827f504a8e5506.mp3" type="audio/mpeg" length="36001582" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405254</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405254</link>
-      <title>Torsdag 20. jun. 2024</title>
-      <description>Præludium: J.S. Bach: Vater unser im Himmelreich, BWV 636 (O hjertekære Jesus Krist)
-Fra det G.T.: Salme 9,2-3 + 8-11.
-Salme: 750 "Nu titte til hinanden".
-Fra det N.T.: Matthæusevangeliet 6, 16-21.
-Korvers: Felix Mendelssohn Bartholdy: Gid Jesu glæde i os bo (tekst: Thomas Kingo 1699).
-Salme: 9, vers 1-5 "O store Gud! vi love dig".
-Postludium: D. Buxtehude: Te Deum Laudamus (1. sats)</description>
-      <pubDate>Thu, 20 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405254/c0e1d5fb0bcd5a95b3ca50092c564594f4f8879a3b57183594e9c70b010e8106.mp3" type="audio/mpeg" length="36001581" />
     </item>
   </channel>
 </rss>

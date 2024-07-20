@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Jul 2024 06:15:05 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:22:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,32 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452494295</guid>
+      <link>https://www.dr.dk/lyd/p5/sommer-med-mylle/sommer-med-mylle/sommer-med-mylle-15452494295</link>
+      <title>Fredag 19. jul. 2024</title>
+      <description>Sommerstemning og sommersange med Jørgen de Mylius.
+Vært: Jørgen De Mylius.</description>
+      <pubDate>Fri, 19 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452494295/69f808e9fec070ae79d13475178d70a69adb591de2dbfb60998dcec2208d427e.mp3" type="audio/mpeg" length="165601993" />
+    </item>
+    <item>
+      <guid isPermaLink="false">15452494294</guid>
+      <link>https://www.dr.dk/lyd/p5/sommer-med-mylle/sommer-med-mylle/sommer-med-mylle-15452494294</link>
+      <title>Torsdag 18. jul. 2024</title>
+      <description>Sommerstemning og sommersange med Jørgen de Mylius.
+Vært: Jørgen De Mylius.</description>
+      <pubDate>Thu, 18 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452494294/14daa8e9870f4b260d36d62cf1cc8b32a3bfd260b13569b783ca4e4f9954d413.mp3" type="audio/mpeg" length="165601417" />
+    </item>
     <item>
       <guid isPermaLink="false">15452494293</guid>
       <link>https://www.dr.dk/lyd/p5/sommer-med-mylle/sommer-med-mylle/sommer-med-mylle-15452494293</link>

@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 19 Jul 2024 06:15:09 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:22:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -128,23 +128,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428255/06c6c7a63473abb2455bffc95c24dc4548834fc45e6110bdb33879bffaedabca.mp3" type="audio/mpeg" length="252002165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428254</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428254</link>
-      <title>Sommersolhverv</title>
-      <description>De lyse nætter er nu på retur, for i dag er årets længste dag. Vi fejrer sommeren og lyset.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Thu, 20 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428254/683d0c60086bfbcabfd4d8a9e71df9b7828c1b78e732e84d9e1df5f170df5d7f.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>
