@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Jul 2024 06:22:25 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 15:59:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405296</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405296</link>
+      <title>Lørdag 20. jul. 2024</title>
+      <description>Præludium:	 Helmut Walcha: Kom sandheds Ånd! og vidne giv
+Davidssalme: 62, 6-9
+Salme: 292 "Kærligheds og sandheds Ånd"
+Fra det N.T.:	1. Johannes' Brev 4, 1-6
+Trosbekendelsen	
+Salme: 300 "Kom sandheds Ånd! og vidne giv"
+Postludium: Christian Præstholm: Kærligheds og sandheds Ånd</description>
+      <pubDate>Sat, 20 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405296/c472c5d247b2a842888949088f03a57fb5545295496c47fb0e6d130df33082b2.mp3" type="audio/mpeg" length="36001580" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405295</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405295</link>
@@ -456,24 +474,6 @@ Postludium: Gordon Young: Prelude in Classic Style.</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405256/baa5cb67b0c1259162a3198522c12bf84a1ae9138b89a7331ee8d01bdd7d033e.mp3" type="audio/mpeg" length="36001579" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405255</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405255</link>
-      <title>Fredag 21. jun. 2024</title>
-      <description>Præludium: Frank Howard Warner: A Midsummer Idyl.
-Fra det G.T.: Salme 16, 1-2 &amp; 7-11.
-Salme: 10 "Alt hvad som fuglevinger fik".
-Fra det N.T.: Matthæusevangeliet 6, 22-24.
-Korvers: Felix Mendelssohn Bartholdy: Gid Jesu glæde i os bo (tekst: Thomas Kingo 1699).
-Salme: 305 "Kom, Gud Helligånd, kom brat!".
-Postludium: Frode Bitsch: Toccata.</description>
-      <pubDate>Fri, 21 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405255/bf0a96939f0cdb34fe54b4e06856cc6a13390367663b13a22f827f504a8e5506.mp3" type="audio/mpeg" length="36001582" />
     </item>
   </channel>
 </rss>

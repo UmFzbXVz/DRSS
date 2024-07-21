@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Jul 2024 06:22:27 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 15:59:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463296</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-forandringer-12422463296</link>
+      <title>Forandringer</title>
+      <description>Musik forandrer sig over tid. Lægger sig i spændet mellem død og kærlighed, i byens anonymitet, i de små samfunds fællesskaber, i de indre og ydre rejser, og som en dyb rynke i uretfærdighedens ansigt.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 21 Jul 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463296/cd42464bcf077d7491330857714cfd246deda557c12e28ca637d4716f99c44c9.mp3" type="audio/mpeg" length="168463718" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463292</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-venskaber-12422463292</link>
@@ -141,19 +154,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463257/8c302417921f5fb75c821c537225a8918a345280089b049016ac7b9f433e4060.mp3" type="audio/mpeg" length="168482053" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463254</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sommersolhverv-12422463254</link>
-      <title>Sommersolhverv</title>
-      <description>Lyset har overtaget døgnet og sat mørket i skyggen. Men i musikken, lever lys og mørke side om side. Nøjagtig som den korte afstand mellem kærlighed og afsked.
-Vært: Minna Grooss.</description>
-      <pubDate>Fri, 21 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463254/8332d837db152c6884553181c1a59964ba9d6306408cceb6271e33856a781079.mp3" type="audio/mpeg" length="168482111" />
     </item>
     <item>
       <guid isPermaLink="false">12422463151</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Jul 2024 06:22:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 15:50:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652440065</guid>
+      <link>https://www.dr.dk/lyd/special-radio/fodboldlisten/fodboldlisten-2024/fodboldlisten-hvem-bliver-ny-dansk-landstraener-og-hvad-er-hjulmands-eftermaele-13652440065</link>
+      <title>Hvem bliver ny dansk landstræner, og hvad er Hjulmands eftermæle?</title>
+      <description>Hjulmand har forladt bygningen, og Danmark mangler en ny landstræner. Fodboldlisten samler tropperne på Superligaens premiereaften for at finde ud af, hvilke kandidater, der topper DBU's ønskeseddel. Tør vi drømme om store udenlandske trænere, og hvem har egentlig lyst til at være i spidsen for landsholdet? Derudover en livlig diskussion om Kasper Hjulmands eftermæle og fortællingen om Andreas Krauls herostratisk dårlige tilbagelægning som Michael Sten Jensen bevidnede. 
+
+Vært: Thomas Loft
+
+Det siger pressen:
+Michael Sten Jensen: Fantastisk episode! Jeg hyggede mig helt vildt!</description>
+      <pubDate>Sat, 20 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:04:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652440065/1bcd5d5f61c50b45b92a791ae32b0056783d9841723576e49672cf2aa33209b8.mp3" type="audio/mpeg" length="92275643" />
+    </item>
     <item>
       <guid isPermaLink="false">13652440039</guid>
       <link>https://www.dr.dk/lyd/special-radio/fodboldlisten/fodboldlisten-2024/fodboldlisten-hvem-vinder-vm-i-2026-13652440039</link>
@@ -2808,25 +2825,6 @@ Vært: Thomas Loft
       <itunes:duration>01:11:54</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652140032/a4b3f75a293f314e18fede5bc2791f7bfe9a49110c103410cc0fac4f293507c9.mp3" type="audio/mpeg" length="103553719" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652140031</guid>
-      <link>https://www.dr.dk/lyd/special-radio/fodboldlisten/fodboldlisten-2021/den-store-superliga-optakt-13652140031</link>
-      <title>Den store Superliga-optakt</title>
-      <description>Så er Superligaen ellers sparket i gang igen! Og selv om bolden ikke har rullet i små to måneder, er der i løbet af sommerpausen sket ufatteligt meget i landets bedste række. Hvem står egentlig stærkest til den nye sæson? Hvem rykker ud? Og hvad med de to nye hold i klassen? Fodboldlistens svar på vikarlandsholdet, Mathias Jacobsen og Kenneth Møller Pedersen, debatterer i denne uge styrkeforholdene i Superligaen og rangerer de 12 hold og kommer blandt andet også forbi Elben og et europæisk opgør med deltagelse af den ene af panelets deltagere
-
-Vært: Thomas Loft
-
-03:14 - Hvad foregår der i Esbjerg?
-09:44 - Superligaen ruller igen
-14:40 - De danske hold i Europa
-23:40 - Fodboldlisten forudser Superligaen</description>
-      <pubDate>Tue, 20 Jul 2021 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:32:20</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652140031/54c21206e6d63525af13039f50bab0127595aeb551bd6b90427f7df0fa454a81.mp3" type="audio/mpeg" length="132982712" />
     </item>
   </channel>
 </rss>

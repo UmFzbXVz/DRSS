@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Jul 2024 06:18:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 15:44:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460164</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Seks stjerner fra narkobaronen</title>
+      <description>Han giver to, tre, fire stjerner, uploader billeder og skriver anmeldelser om den lidt langsomme betjening, indretningen og den lækre morgenmadstallerken. Under pseudonymet Christopher Vincent skriver Christy Kinahan tusindvis af anmeldelser på Google, men bag alter-egoet gemmer sig én af verdens mest hårdkogte narkobaroner. Christy Kinahan er eftersøgt for handel med narkotika, våben og mord, og de amerikanske myndigheder har sat en millionstor dusør på ham og hans familie. Gemmer der sig en lidt dumdristig boomer i den ukronede narkokonge, eller føler han sig så hævet over loven, at han er ligeglad med at afsløre sig selv? I dagens Genstart fortæller antropolog og kriminolog Henrik Vigh om Europas ukronede narkokonge og hans anmeldertrang.
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 17/7.</description>
+      <pubDate>Sun, 21 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:24</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460164/022115039de5928b01ad312e71655dee862075f529745fcc106d919ee3bad326.mp3" type="audio/mpeg" length="33718918" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460163</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

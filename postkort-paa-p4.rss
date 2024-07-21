@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Jul 2024 06:21:56 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 15:59:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,30 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122444297</guid>
+      <link>https://www.dr.dk/lyd/p4/postkort-paa-p4/postkort-paa-p4-2024/postkort-paa-p4-16122444297</link>
+      <title>Søndag 21. jul. 2024</title>
+      <description>Hvad skal du i sommerferien? Skriv et postkort på mailadressen postkortp4@dr.dk og fortæl, hvad du får sommeren til at gå med. Julie Bundgaard samler postkort ind og kvitterer med sommerhits, når hun sender lytternes hilsner ud i sommerlandet, mens danske kunstnere sender "lyd-kort" til alle P4's lyttere.</description>
+      <pubDate>Sun, 21 Jul 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122444297/233d50a90c52733290aac474534ab2c77ea36c57f47da7026a7dce18e6d120ab.mp3" type="audio/mpeg" length="151201594" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122444296</guid>
+      <link>https://www.dr.dk/lyd/p4/postkort-paa-p4/postkort-paa-p4-2024/postkort-paa-p4-16122444296</link>
+      <title>Lørdag 20. jul. 2024</title>
+      <description>Hvad skal du i sommerferien? Skriv et postkort på mailadressen postkortp4@dr.dk og fortæl, hvad du får sommeren til at gå med. Julie Bundgaard samler postkort ind og kvitterer med sommerhits, når hun sender lytternes hilsner ud i sommerlandet, mens danske kunstnere sender "lyd-kort" til alle P4's lyttere.</description>
+      <pubDate>Sat, 20 Jul 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122444296/da3948e09f03cbac35bdb1e57d6a895c4139765faac2557bb498dd6391bcdb3f.mp3" type="audio/mpeg" length="151201594" />
+    </item>
     <item>
       <guid isPermaLink="false">16122444287</guid>
       <link>https://www.dr.dk/lyd/p4/postkort-paa-p4/postkort-paa-p4-2024/postkort-paa-p4-16122444287</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Jul 2024 06:22:13 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 15:58:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450251</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-er-touren-stadig-dansk-13652450251</link>
+      <title>Er Touren stadig dansk?</title>
+      <description>Danmark har domineret cykelscenen de seneste år - især i verdens største cykelløb, Tour de France. 
+Magnus Cort, Mads Pedersen, Kasper Asgreen og Jonas Vingegaard har vundet etaper siden 2022, og sidstnævnte har vundet hele molevitten to gange. 
+Men nu sidder førertrøjen på Tadej Pogacar, og det er kun Jonas Vingegaard, der har vundet en etape i år. 
+Er Touren så stadig dansk?
+Det spørger vi om i dagens afsnit af Tyvstart, hvor vi også vender magtbalancen blandt storholdene i Tour-feltet. 
+Vært: Rikke Smed.</description>
+      <pubDate>Sun, 21 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:34</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450251/d7b877901975246700892b9c940a814a92f25b333f15e5815df06af2e27538f7.mp3" type="audio/mpeg" length="28177782" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450250</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-hjulmand-siger-stop-og-knust-vingegaard-13652450250</link>

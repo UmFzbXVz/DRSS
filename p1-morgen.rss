@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 20 Jul 2024 06:22:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 15:59:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433296</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433296</link>
+      <title>Lørdag 20. jul. 2024</title>
+      <description>Hvor alvorligt er fundet af poliovirus i spildevandet i Gaza? Lokale i Barcelona er trætte af turister, hvad er de utilfredse med? Hvad har herrelandsholdet nu brug for? 
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Sat, 20 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433296/abcf1bfa717985ac695fd7a3ba45651fc9ab8ecd3e7f826a5449376ca263a3a2.mp3" type="audio/mpeg" length="158567417" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433295</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433295</link>
@@ -1846,18 +1858,6 @@ Dagens værter: Anne Kirstine Hermann og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:46</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433043/aff1bd64541e9008fe9333c4bea3a7ee25ac0547c70db5cbff210b414a75bc61.mp3" type="audio/mpeg" length="237289761" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433042</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433042</link>
-      <title>Tirsdag 23. jan. 2024</title>
-      <description>Skal vi indføre kvindelig værnepligt? Hvordan ser Nikki Haleys chancer ud imod Trump? Og hvor langt er Israel fra sit militære mål i Gaza?
-Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
-      <pubDate>Tue, 23 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:49</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433042/c2063c8e7f7f460888e5c581ba512ea9329221536cd9db994602f33aaa9ec1ef.mp3" type="audio/mpeg" length="237358452" />
     </item>
   </channel>
 </rss>
