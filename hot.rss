@@ -9,7 +9,7 @@ Vært: Mikkel Bagger.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:58:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:38:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -51,19 +51,6 @@ Vært: Mikkel Bagger.</description>
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452435294/d7101c7dee31701757ddbb4099f0a030e4164997249c3d1aeb9102261659fd8a.mp3" type="audio/mpeg" length="82081489" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452435293</guid>
-      <link>https://www.dr.dk/lyd/p4/hot/hot/hot-15452435293</link>
-      <title>Onsdag 17. jul. 2024</title>
-      <description>Mikkel Bagger tager temperaturen på sommerens varmeste sange i 'Hot'. Og så kan du være med til at bestemme, hvad der 'Hot', og hvad der er 'Not'.
-Vært: Mikkel Bagger.</description>
-      <pubDate>Wed, 17 Jul 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452435293/fb0d1ccb069f4d2491d3e3b3380256d1df2395282e7cac1a087d30ad525850d9.mp3" type="audio/mpeg" length="82082065" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:59:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:37:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493211</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-den-nye-verden-16122493211</link>
+      <title>Den nye verden</title>
+      <description>Peter Falktoft står i denne episode ansigt til ansigt med en militæranalytiker og major, som finder det komplet unødvendigt at preppe og faktisk mener, at denne alarmisme kan skade de bærende søjler af det danske samfund. For når det kommer til Danmarks robusthed, så er det noget ganske andet end konserves og udstyr, som kommer til at bære os igennem en krise.
+GÆST: Alexander Høgsberg Tetzlaff, major &amp; militæranalytiker.
+
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 22 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:37:23</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493211/83ce9b9e870a5e98322f2ad91a033649f7b01eace28046b080978609842ade1b.mp3" type="audio/mpeg" length="53840316" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493210</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-find-din-egen-mad-16122493210</link>

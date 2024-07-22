@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:59:04 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:39:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -208,6 +208,19 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463127/e12324a162a1e33138772bc7863271c3d4b68db8b1ead85cf57393f51c38822b.mp3" type="audio/mpeg" length="168480454" />
     </item>
     <item>
+      <guid isPermaLink="false">12422463126</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lad-natten-bloede-af-fryd-12422463126</link>
+      <title>Lad natten bløde af fryd</title>
+      <description>Natsværmeren tilbyder et helle med favoritter og nye opdagelser.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 24 Mar 2024 03:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463126/ef7c8086ccf5e34ac82ac0b673ae81d89667820d5f8c4752d6d178db696f5d89.mp3" type="audio/mpeg" length="168467615" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463111</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-frit-over-tilvaerelsens-ulidelige-lethed-12422463111</link>
       <title>Frit over tilværelsens ulidelige lethed</title>
@@ -232,19 +245,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463096/70063c490423912f986363e69d6d53bdac6853ac6829c96897b0000dedd56d8d.mp3" type="audio/mpeg" length="168468935" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463087</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lys-12422463087</link>
-      <title>Lys</title>
-      <description>Når lyset bryder frem.
-Vært: Katrine Ring.</description>
-      <pubDate>Mon, 26 Feb 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
     </item>
     <item>
       <guid isPermaLink="false">12422363296</guid>

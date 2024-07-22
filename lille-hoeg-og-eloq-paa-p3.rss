@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:58:34 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:38:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -37,19 +37,6 @@ Produceret for DR af Chloroform.</description>
       <itunes:duration>03:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434266/98f32e414bd7f9ab083059b31a10bd161de947df70d26260084574bed7ca6d83.mp3" type="audio/mpeg" length="259201599" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122434256</guid>
-      <link>https://www.dr.dk/lyd/p3/flex/flex/flex-er-der-noget-i-frysepizzaerne-16122434256</link>
-      <title>Er der noget i frysepizzaerne?</title>
-      <description>Lille Høg og Eloq inviterer dig til den perfekte køkkenfest, hvor retten over playlisten går på runde, og stemningen stiger til tonerne af de to producere og venners favoritnumre inden for elektronisk musik og hiphop.
-Produceret for DR af Chloroform.</description>
-      <pubDate>Sat, 22 Jun 2024 20:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122434256/69cb3a67691b01fa24c273c70432190ee10431d54f8e77ad849d7cb42536b7c3.mp3" type="audio/mpeg" length="172802181" />
     </item>
   </channel>
 </rss>

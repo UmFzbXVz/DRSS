@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:58:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:38:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -91,22 +91,6 @@ Produceret for DR af MonoMono.</description>
       <itunes:duration>01:53:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423266/260f03be97625027f0e5bcb1ea8e9185c6683b5b13aa92470b425e0bd52029e2.mp3" type="audio/mpeg" length="162768033" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122423256</guid>
-      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-bevaegelser-i-stilhed-og-en-pagt-med-djaevlen-16122423256</link>
-      <title>Bevægelser i stilhed og en pagt med djævlen</title>
-      <description>Alban fortæller om at øve sin rolle til balletten "Den unge mand og døden" i stilhed. Det leder Alex til Pina Bausch og hendes teknikker om at øve bevægelser igen og igen. Spørgsmålet er, om det, at være fordybet i dans eller musik er en flugt fra hverdagen - eller om det er det egentlige liv? Eller måske en pagt med djævlen?  
-
-Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
-Producer og redaktør: Rune Sparre Geertsen.
-Produceret for DR af MonoMono.</description>
-      <pubDate>Sat, 22 Jun 2024 15:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:52:55</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423256/eec9c9af8e76ac479dce34f17fcd95daed56ab5e261b219d63d3cb3909ce974b.mp3" type="audio/mpeg" length="162622881" />
     </item>
   </channel>
 </rss>

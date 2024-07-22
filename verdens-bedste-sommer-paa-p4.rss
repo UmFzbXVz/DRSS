@@ -9,7 +9,7 @@ Produceret for DR af Beam Audio Agency.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:58:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:38:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -53,20 +53,6 @@ Produceret for DR af Beam Audio Agency.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122449294/7613c941d40bd76ea379fa5caee2a88f96370444c6a6394803655314b5ea90f0.mp3" type="audio/mpeg" length="168481611" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122449293</guid>
-      <link>https://www.dr.dk/lyd/p4/verdens-bedste-sommer-paa-p4/verdens-bedste-sommer-paa-p4-2024/verdens-bedste-sommer-paa-p4-16122449293</link>
-      <title>Onsdag 17. jul. 2024</title>
-      <description>Signe Vadgaard kører rundt i sommerlandet og sender hver uge fra en ny smuk campingplads sammen med skiftende kendte medværter. De snakker om deres mest særlige sommeroplevelser og vil i fællesskab med lytterne skabe endnu flere, mens de  jagter det gode humør og verdens bedste sommer.
-
-Produceret for DR af Beam Audio Agency.</description>
-      <pubDate>Wed, 17 Jul 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122449293/e34a3ae2980e46b1c280512b609791c98994b4c7ed1cea681816a8210ccefdc8.mp3" type="audio/mpeg" length="168481611" />
     </item>
   </channel>
 </rss>

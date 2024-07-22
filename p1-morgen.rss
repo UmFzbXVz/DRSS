@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:59:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:26:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433301</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433301</link>
+      <title>Mandag 22. jul. 2024</title>
+      <description>Hvorfor trækker Joe Biden sig som præsidentkandidat? Harris ligner den nye kandidat, men er det styrkelse af de demokratiske muligheder? Og hvordan har amerikanerne reageret på Bidens beslutning? 
+Dagens vært: Ole Brink.
+Dagens sommergæst: Hans Lucht.</description>
+      <pubDate>Mon, 22 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:42:37</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433301/dacffe30027f692fe703917779a126309f9502699ee7529b91dc0411aea4b86b.mp3" type="audio/mpeg" length="234193967" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433296</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433296</link>
@@ -1846,18 +1859,6 @@ Dagens værter: Søren Carlsen og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:05</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433044/99bd058851982283efa41649bc643f62b7ffa7d81387abe7fdd5cf79821162b6.mp3" type="audio/mpeg" length="237725423" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433043</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433043</link>
-      <title>Onsdag 24. jan. 2024</title>
-      <description>Hvorfor har det taget så lang tid for Tyrkiet at sige ja til Sveriges Nato-medlemskab? Hvorfor er politikernes behandling af Nordic Waste-milliardær en bombe under samfundet? Og hvordan kan en 41-årig nigeriansk pirat ende i Danmark?   
-Dagens værter: Anne Kirstine Hermann og Morten Runge.</description>
-      <pubDate>Wed, 24 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:46</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433043/aff1bd64541e9008fe9333c4bea3a7ee25ac0547c70db5cbff210b414a75bc61.mp3" type="audio/mpeg" length="237289761" />
     </item>
   </channel>
 </rss>

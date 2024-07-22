@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:58:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:38:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -247,19 +247,6 @@ Mange hilsner fra Goodluck Casper.</description>
       <itunes:duration>01:14:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436604/c27d91ea80121e21878ff393e4352f76ba7a509890d708a5e7a1522a9f108d7e.mp3" type="audio/mpeg" length="106605941" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452436603</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-bandet-fraads-og-deres-forhold-til-lord-siva-16452436603</link>
-      <title>Bandet FRAADS og deres forhold til Lord Siva</title>
-      <description>I dag viser FRAADS os hvor dybt, de elsker Lord Siva, og hvordan hans lyd og lyrik har fulgt dem. De fortæller indlevende til mig, hvordan det viste en ny vej at gå ud i store følelser og at blive spejlet som ung person i Danmark.
-Mange hilsner og god lyttelyst, Goodluck Casper.</description>
-      <pubDate>Sun, 21 Jan 2024 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:05:48</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436603/a58f3c68297e3f09b3e260e976c68f02a6ed3c4b71f3198b241a4bd7b42d3c4c.mp3" type="audio/mpeg" length="94773753" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Lonnie Kjer.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:58:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:38:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -38,20 +38,6 @@ Vært: Lonnie Kjer.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452436326/8dfb1dcfdd300594b78822181a8a42283f16d2061892d531a4e0671ccd487882.mp3" type="audio/mpeg" length="168482119" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452436166</guid>
-      <link>https://www.dr.dk/lyd/p5/stjernestoev/stjernestoev/stjernestoev-leonard-cohen-15452436166</link>
-      <title>Leonard Cohen</title>
-      <description>I 'Stjernestøv' får du 2 timer med fokus på én særlig kunstner: Højdepunkt, lavpunkt, vendepunkt og anekdoter om hits og alt dét indimellem fra de sangere, 'vi' voksede op med.  
-Vært: Lonnie Kjer.
-(Sendt første gang 20. april).</description>
-      <pubDate>Sat, 20 Apr 2024 18:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452436166/2658f90cacae652aa08a69a5c77556dfa16e6f859a13127d62d74e1ad0230cd1.mp3" type="audio/mpeg" length="168482148" />
     </item>
   </channel>
 </rss>

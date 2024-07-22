@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 21 Jul 2024 15:58:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:38:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450145</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-au-revoir-merci-et-vive-le-tour-13652450145</link>
+      <title>Au revoir, merci et vive le Tour</title>
+      <description>Vinggaard kørte i mål i Nice efter en flot enkeltstart, hvor andenpladsen aldrig kom på spil. Det betyder, at Touren er slut, og det er tid til at gøre status i Tyvstart. 
+For hvad har det været for et Tour de France, og hvor vild er den præstation, de to rivaler har leveret? 
+Vi afrunder en udgave af verdens største cykelløb, som nok aldrig vil blive glemt. 
+Vært. Rikke Smed.</description>
+      <pubDate>Mon, 22 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:16:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450145/cba430874cc62b93d5a1179be2751dfae4976db14509e36e70fd209421e59a43.mp3" type="audio/mpeg" length="24054201" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450251</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-er-touren-stadig-dansk-13652450251</link>
