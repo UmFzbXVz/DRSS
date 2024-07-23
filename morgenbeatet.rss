@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Jul 2024 12:39:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 06:05:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,19 +50,6 @@ Vært: Isa Naja Buhl.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432295/5393836bd7048518f1995eab72306199d02053616bbc155b297076136e735e46.mp3" type="audio/mpeg" length="165601992" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452432294</guid>
-      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432294</link>
-      <title>Torsdag 18. jul. 2024</title>
-      <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Isa Naja Buhl.</description>
-      <pubDate>Thu, 18 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432294/81852f47da0718636f5c72a0f6789cab7af659e89e432854b78c1c5f4d66fbd3.mp3" type="audio/mpeg" length="165601992" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ Vært: Marie Hobitz.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Jul 2024 12:38:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 05:59:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -40,20 +40,6 @@ Vært: Marie Hobitz.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424267/3f137aa87230f6b72a51a05ae87f4ec0d8fcdf66ca84354c6754d1cbeaed3083.mp3" type="audio/mpeg" length="172801605" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332424257</guid>
-      <link>https://www.dr.dk/lyd/p3/du-ved-det/du-ved-det-2024/du-ved-det-13332424257</link>
-      <title>Søndag 23. jun. 2024</title>
-      <description>'Du ved det' helt sikkert godt, så find telefonen frem, og gør dig klar til at blive quizzet i al den musik, du elsker at lytte til!
-Der er eksklusive P3-sokker på højkant og vanvittig søndagshygge, når Marie inviterer indenfor i P3's helt eget musikquizprogram.
-Vært: Marie Hobitz.</description>
-      <pubDate>Sun, 23 Jun 2024 14:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332424257/3bb64b4aaabe1c9bcc71a0e84a5367bc7d908712103d0fae9b10a083971fefcb.mp3" type="audio/mpeg" length="172802161" />
     </item>
   </channel>
 </rss>

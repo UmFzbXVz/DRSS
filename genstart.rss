@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Jul 2024 12:30:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 06:01:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460166</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Kattens sidste liv</title>
+      <description>Han flytter sig fra sted til sted gennem tunneller under Gaza, gemmer sig blandt civile, og i mere end 30 år har han haft et israelsk sigtekorn på ryggen. I weekenden forsøgte Israel for 8. gang at få ram på Hamas-lederen Mohammed Deif. Landet sendte raketter ind over al-Mawasi-flygtningelejren i det sydlige Gaza. 90 civile mistede angiveligt livet, men ingen ved med sikkerhed om det lykkedes at ramme Mohammed Deif. I dagens Genstart fortæller mellemøstforsker Sune Haugbølle om manden, der bliver kaldt 'Katten', fordi han igen og igen undslipper de israelske attentater.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 19/7.</description>
+      <pubDate>Tue, 23 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:05</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460166/3a02af1bd97135ce95e0de62db60f3ef23ddd52c151eb949102283b66ad59306.mp3" type="audio/mpeg" length="33265033" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460165</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

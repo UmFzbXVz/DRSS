@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Jul 2024 12:26:42 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 06:04:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="News">
       <itunes:category text="Politics" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11802437055</guid>
+      <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2024/stjerner-og-striber-ekstra-biden-traekker-sig-og-peger-paa-harris-11802437055</link>
+      <title>EKSTRA: Biden trækker sig og peger på Harris</title>
+      <description>Joe Biden har efter massivt pres fra demokrater trukket sig som præsidentkandidat og peger nu på sin vicepræsidentkandidat Kamala Harris. Vi gennemgår de sidste 48 timer af Bidens kampagne, ser på reaktionerne og zoomer ind på Kamala Harris, der kan blive USA's første kvindelige præsident.
+Deltagere: International korrespondent Stéphanie Surrugue, USA-kender Lasse Engelbrecht og kulturkorrespondent Sandra Brovall. 
+Tilrettelæggelse: Lasse Berg Sørensen.</description>
+      <pubDate>Mon, 22 Jul 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:11</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802437055/f253bae87d5b0c99b9169612c1cd09784d1e67dca290fcffa868246c69c1d1af.mp3" type="audio/mpeg" length="80925581" />
+    </item>
     <item>
       <guid isPermaLink="false">11802437029</guid>
       <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-2024/stjerner-og-striber-usa-gud-konge-og-maga-land-11802437029</link>
@@ -1529,19 +1542,6 @@ Tilrettelæggelse: Lasse Berg Sørensen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:31:42</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802138004/abf2878e2bf2d39b6bf865dc1268bf2a421c3a6889b6fb1ac3f7f3dbcd7c7ce0.mp3" type="audio/mpeg" length="45669769" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802138003</guid>
-      <link>https://www.dr.dk/lyd/p1/stjerner-og-striber/stjerner-og-striber-20211/merkel-spezial-3-5-verdensledere-kommer-og-gaar-merkel-bestaar-11802138003</link>
-      <title>Merkel Spezial 3:5 - Verdensledere kommer og går, Merkel består</title>
-      <description>Merkel er international politiks grand old woman, og hun har set fire danske statsministre, fire amerikanske præsidenter og fem britiske premierministre komme og gå - for at nævne nogle få. Hvordan er kanslerens forhold til sine udenlandske kolleger og rivaler? Og hvordan gik det egentligt til, at Merkel de facto blev den frie verdens leder?
-Deltagere: Korrespondent i Tyskland Michael Reiter, udlandschef Niels Kvale og international korrespondent Stéphanie Surrugue.
-Tilrettelæggelse: Lasse Berg Sørensen.</description>
-      <pubDate>Thu, 22 Jul 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:37:38</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802138003/867fc4c86e643f95b33bdefef9ccfba24f52b29804fb3fbcd57669e2b2d6fbee.mp3" type="audio/mpeg" length="54204935" />
     </item>
   </channel>
 </rss>

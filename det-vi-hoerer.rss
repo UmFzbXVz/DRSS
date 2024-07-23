@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 22 Jul 2024 12:38:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 06:05:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -516,6 +516,22 @@ Vært: Magnus Larsson.</description>
       <itunes:duration>01:49:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381841/b7010562610d2c3741f93e003997cb84a9193b23dcbe0d36f9424f62e1d6510c.mp3" type="audio/mpeg" length="156966219" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381825</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/nina-oerum/det-vi-hoerer-sonningvinder-og-filmkomponister-12422381825</link>
+      <title>Sonningvinder og filmkomponister</title>
+      <description>Marimbaen var et af mine favoritinstrumenter som barn. Da Evelyn Glennie fik Sonning-prisen i sommer, åbnede hun hele slagtøjsuniverset for alle sanser. Mød også filmkomponister og musik, de skrev både indenfor og udenfor filmverdenen. Bl.a. er Korngold og Jóhann Jóhannsson med. 
+Vært: Nina Ørum.</description>
+      <pubDate>Tue, 25 Jul 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000080005</itunes:order>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381825/e7b1ff6f60c37f14f397a936834de81caafb7afaf1134b346a406a15dd1e2c1b.mp3" type="audio/mpeg" length="156958730" />
     </item>
     <item>
       <guid isPermaLink="false">12422381824</guid>
