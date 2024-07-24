@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Jul 2024 06:05:59 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:50:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405302</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405302</link>
+      <title>Tirsdag 23. jul. 2024</title>
+      <description>Præludium:	Cesar Franck: Præludium i c-mol
+Fra det G.T.:	Salme 143, 1-10
+Salme: 660 "Kom, hjælp mig, Herre Jesus"
+Fra det N.T.:	Matthæus 11, 7-15
+Korvers: Jørgen Graven Nielsen: Herre, hjælp, thi de fromme er borte (tekst: Efter Salme 12)
+Salme: 384, vers 1-2 "Til klart Guds ansigt vi skal se"
+Postludium: Johann Pachelbel: Til klart Guds ansigt vi skal se</description>
+      <pubDate>Tue, 23 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405302/8c43fb3c00c9d1f22952f5bca3eb3509d9819e975d2899cf9a1365338aaeea13.mp3" type="audio/mpeg" length="36001577" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405301</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405301</link>
@@ -456,24 +474,6 @@ Postludium: Johann Ludwig Krebs: Toccata E-dur</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405262/77c9c998b3b24b4a52965dec78a1af5b99952e77b7023046b6c484b78ef4d7e1.mp3" type="audio/mpeg" length="36001582" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405261</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405261</link>
-      <title>Mandag 24. jun. 2024</title>
-      <description>Præludium: Carl Philipp Emanuel Bach: Allegro
-Ord til dagen: af Gregor af Nyssa 
-Salme: 41 "Lille Guds barn, hvad skader dig"
-Fra det N.T.:	Matthæusevangeliet 6, 25-34
-Korvers: Flemming Weis: Bed, så skal der gives jer (tekst: Matthæus 7,7)
-Salme: 575, vers 1 "Din fred skal aldrig vige"
-Postludium: Charles H. Gabriel: His Eye is on The Sparrow</description>
-      <pubDate>Mon, 24 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405261/865dc3b35ab27e96b92dcd0c474fa77ef6c3f44668c4e02a1634388c1f8c2b4d.mp3" type="audio/mpeg" length="36001581" />
     </item>
   </channel>
 </rss>

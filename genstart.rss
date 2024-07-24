@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Jul 2024 06:01:40 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:44:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460167</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>En tom rede</title>
+      <description>Flyttekasserne var uden bøvl pakket og læsset op i en trailer, men da sognepræst Hanne Henriksens søn drejer om hjørnet for at flytte og begynde studierne i storbyen, må hun kæmpe for, at han ikke ser hende hulke. Empty nest-symdrome er den tilstand, nogle forældre oplever, når deres børn flytter hjemmefra. Hanne Henriksens stod tilbage uden at vide, hvor hun skulle gå hen med sin sorg over, at det barn hun har passet på i årtier, flytter hjemmefra. Genstart i dag om det moderne forældreskab og om, hvorvidt sorgen ved afskeden er prisen, forældre betaler for et nært forhold til deres børn. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 21/7.</description>
+      <pubDate>Wed, 24 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460167/1955ad1552a779c848dcaf6b8850cc88e5ad781362a1e41d3a796913ad0f8510.mp3" type="audio/mpeg" length="33330114" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460166</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

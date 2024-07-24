@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Jul 2024 06:00:48 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:50:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463302</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-linedans-i-sommernatten-12422463302</link>
+      <title>Linedans i sommernatten</title>
+      <description>Et væld af artister fra hele verden balancerer på aftens line.
+Vært: Minna Grooss.</description>
+      <pubDate>Wed, 24 Jul 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463302/0d3a302c7aed451c3e9164e33fba3a2f77f1986c8247f6661dd2c6c874df40be.mp3" type="audio/mpeg" length="168471069" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463296</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-forandringer-12422463296</link>
@@ -141,19 +154,6 @@ Vært: Tina Rømer.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463265/4750b539c9cfdd874147eabdb3f2d4f7c56621b2004ea017394a1b0dc6103705.mp3" type="audio/mpeg" length="168475262" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463257</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-mellem-linjerne-12422463257</link>
-      <title>Mellem linjerne</title>
-      <description>Der er stemmer, filmperler og bløde knæ. Og så er der alt det, der ikke bliver sagt, men siger det hele.
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 24 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463257/8c302417921f5fb75c821c537225a8918a345280089b049016ac7b9f433e4060.mp3" type="audio/mpeg" length="168482053" />
     </item>
     <item>
       <guid isPermaLink="false">12422463151</guid>

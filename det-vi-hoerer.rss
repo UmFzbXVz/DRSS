@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Jul 2024 06:05:38 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:50:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -450,6 +450,23 @@ Vært: Mette Greiffenberg.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481805/594698afed23b0b2b49c556332624bb3481a04dc23619d7960818d1f0a18cd2a.mp3" type="audio/mpeg" length="165795145" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381845</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/magnus-larsson/det-vi-hoerer-det-fineste-der-findes-12422381845</link>
+      <title>Det fineste der findes</title>
+      <description>Jeg har en spilleliste der hedder "Det fineste der findes" - og det er måske egentlig lidt meget sagt, men det er det fineste der findes for mig. Det er, som så meget andet musik jeg hører, musik jeg har et særligt forhold til. 
+Jeg kommer både forbi musik til havet, en af mine yndlingsoperaer og en ukendt symfoni af en filmkomponist.
+Vært: Magnus Larsson.</description>
+      <pubDate>Wed, 26 Jul 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000090005</itunes:order>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381845/ba8dcf59be758b88114c862c2c293faf04884286602ea205e33b77985b9a408f.mp3" type="audio/mpeg" length="156906885" />
     </item>
     <item>
       <guid isPermaLink="false">12422381844</guid>

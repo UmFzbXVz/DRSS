@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Jul 2024 06:05:43 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:50:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,30 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410302</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410302</link>
+      <title>Tirsdag 23. jul. 2024</title>
+      <description>Hvilken betydning kan det få, at Kamala Harris bliver hyldet online af kendisser? Hvorfor bliver unge forelsket i fiktive karakterer? Hvilket pres har den øverste chef Secret Service, Kimberly Cheatle, været under efter Trumps attentatforsøg?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Tue, 23 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:14:12</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410302/e759a8f73d12ba9f4c67aad3b5ae1fc7fa9097d2ab825527f0223549763d5e72.mp3" type="audio/mpeg" length="106852354" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802410301</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410301</link>
+      <title>Mandag 22. jul. 2024</title>
+      <description>Dagen efter dagen, hvor Joe Biden trak sig som præsident kandidat,  og hvor P1 Orientering stiller skarpt på hvem den mulige efterfølger Kamela Harris er. Desuden dykker vi ned i, hvorfor krydstogtskibe udleder så meget Co2 og hvordan konfliktet mellem Israel og Huthierne er pt?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Mon, 22 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:01</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410301/f796c3642b7aaa57f7a3a187089c0abe1527d1ba21f6fe99b752234b3914ebbe.mp3" type="audio/mpeg" length="108025785" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410295</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410295</link>
@@ -1505,18 +1529,6 @@ Dagens værter: Jan Falkentoft og Anne Kirstine Hermann.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:21:30</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410051/cb596d4d1ef74033a2ec49e6934e0109d3e6c4fb55971ea9b14124aa503877ea.mp3" type="audio/mpeg" length="117367810" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410045</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410045</link>
-      <title>Fredag 26. jan. 2024</title>
-      <description>Den Internationale Domstol i Haag kræver ikke en øjeblikkelig våbenhvile, sådan som Sydafrika havde ønsket det, men kræver at Israel overholder alle internationale regler. Hvad er reaktionen på domstolens kendelse og hvilken betydning har den i praksis? Miljøgodkendelserne i Randers kommune har været af "Ringe kvalitet". Kan kommunerne klare opgaven med miljøgodkendelser? Ny undersøgelse viser, hvor hårdt arbejde det er at være 'pårørende' til en mor eller far, der modtager hjemmehjælp. Hvad er prisen for de pårørende og hvad skal ske, hvis udviklingen skal vendes?
-Dagens værter: Ole Brink og Jan Falkentoft.</description>
-      <pubDate>Fri, 26 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:23:29</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410045/e10d592f2c57a029e3d2f982f37ce5954f3d0c2a13e395e974252d412af415eb.mp3" type="audio/mpeg" length="120236866" />
     </item>
   </channel>
 </rss>

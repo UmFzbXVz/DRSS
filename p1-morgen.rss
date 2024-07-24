@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Jul 2024 06:05:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:50:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433302</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433302</link>
+      <title>Tirsdag 23. jul. 2024</title>
+      <description>Hvilke vælgere appellerer Kamala Harris og Trump til? Hvordan skal republikanerne føre valgkamp nu, hvor det ikke længere er Biden, der er modstander? Og hvad er det for et program regeringen har sat i gang for at få de hjemløse ud af Paris under OL?
+Dagens vært: Ole Brink.</description>
+      <pubDate>Tue, 23 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:43:35</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433302/664f5ef87be8683513fc455c1f9408176dfa08091566460e936c15e994cb0c56.mp3" type="audio/mpeg" length="235585587" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433301</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433301</link>
@@ -1835,18 +1847,6 @@ Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:10</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433046/d637052ccaae9db4aaccea2feec9e470e278632b1bb4d1ef25bcf0330c0c7bcd.mp3" type="audio/mpeg" length="158644671" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433045</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433045</link>
-      <title>Fredag 26. jan. 2024</title>
-      <description>Er det en god idé med en fire-dages arbejdsuge? Hvorfor bruger USA stadig dødsstraf? Og hvilke forventninger har Israel til den internationale domstols kendelse senere i dag?
-Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
-      <pubDate>Fri, 26 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:49</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433045/b519ed1ece5b3d63381c3cd0001372a4b4a043a24c0c8a9d05b37b5bb0a1025f.mp3" type="audio/mpeg" length="237347937" />
     </item>
   </channel>
 </rss>
