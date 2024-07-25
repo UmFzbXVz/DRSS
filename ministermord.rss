@@ -10,7 +10,7 @@ Produceret for DR af Munck Studios.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:46:48 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:22:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,23 @@ Produceret for DR af Munck Studios.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494308</guid>
+      <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-skuddrabet-paa-zoran-djindjic-16122494308</link>
+      <title>Skuddrabet på Zoran Djindjic</title>
+      <description>D. 12. marts 2003 bliver den serbiske statsminister, og en af lederne af oppositionen mod Milo¶evi¶, skudt ned foran en regeringsbygning i Beograd. Det er ikke første gang at Djindjic forsøges myrdet. Men hvem var han? Og hvorfor blev han myrdet? 
+
+Værter: Simon Emil Ammitzbøll-Bille og Kristoffer Lind.
+Klip: Mathias Nicolai Pedersen.
+Redaktører: Rune Born Schwartz og Cecilie Egholm Tonnesen.
+Produceret for DR af Munck Studios.</description>
+      <pubDate>Thu, 25 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:11</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494308/5c96cb96b57b2d53a68f8ecd19763b7ed1f23616aae2178f7d24fb3d73e73609.mp3" type="audio/mpeg" length="82350005" />
+    </item>
     <item>
       <guid isPermaLink="false">16122494307</guid>
       <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-mordet-paa-anna-lindh-16122494307</link>

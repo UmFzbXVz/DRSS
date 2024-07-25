@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:50:38 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:22:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -247,6 +247,19 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463096/70063c490423912f986363e69d6d53bdac6853ac6829c96897b0000dedd56d8d.mp3" type="audio/mpeg" length="168468935" />
     </item>
     <item>
+      <guid isPermaLink="false">12422463087</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lys-12422463087</link>
+      <title>Lys</title>
+      <description>Når lyset bryder frem.
+Vært: Katrine Ring.</description>
+      <pubDate>Mon, 26 Feb 2024 03:03:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363296</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-symmetri-12422363296</link>
       <title>Symmetri</title>
@@ -271,19 +284,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363294/1dd391b33115a5b2e35a595ac1b88dbfa308cc1c23d849263420862141907fac.mp3" type="audio/mpeg" length="168480389" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363292</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-melankoli-12422363292</link>
-      <title>Melankoli</title>
-      <description>Melankoli er lyden af en vinternat sagde Virginia Woolf. Men det kan en sommernat vel også? Natsværmeren flakser i aften i melankoliens blå og smukt-søde stemninger. Den letter med Kronos Kvartetten og musik fra filmen Solaris.  
-Vært: Peter Albrechtsen.</description>
-      <pubDate>Wed, 19 Jul 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363292/4b8627a5997547e1ba7abf2646bf0a863a4a196f04b4eba48fa7094f3ef9a2a8.mp3" type="audio/mpeg" length="168462018" />
     </item>
     <item>
       <guid isPermaLink="false">12422363284</guid>

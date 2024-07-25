@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:50:22 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:22:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,31 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433304</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433304</link>
+      <title>Torsdag 25. jul. 2024</title>
+      <description>Hvad sagde Netanyahu til Kongressen? Hvad er de langsigtede konsekvenser ved at bruge nikotinposer? Og hvad vil det gøre ved markedet at lade de unge bruge deres pensionsopsparing til at købe bolig?
+Dagens vært: Jan Falkentoft.
+Dagens sommergæst: Ditte Brasso Sørensen.</description>
+      <pubDate>Thu, 25 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:52</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433304/e44eae7b0f56ec3738bca6e6553aaa0d2ee0abe9eb342e5ee707871952dfb709.mp3" type="audio/mpeg" length="237424755" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433303</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433303</link>
+      <title>Onsdag 24. jul. 2024</title>
+      <description>Kan vi regne med Ældreplejen i fremtiden? Hvor stærkt står Kamala Harris i den amerikanske valgkamp? Og hvad foregår der mellem Ukraine og Ungarn?
+Dagens vært: Ole Brink.</description>
+      <pubDate>Wed, 24 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:23</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433303/a21d7847f7f106ffb2989a098df8de7e811e9bbd023464f22967549db4b4e5ec.mp3" type="audio/mpeg" length="236728864" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433302</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433302</link>
@@ -1835,18 +1860,6 @@ Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:58</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433051/469f4e6670e29abbd9d31a1277643415b0b78d946136800d2f7ef5474a896146.mp3" type="audio/mpeg" length="237565300" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433046</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433046</link>
-      <title>Lørdag 27. jan. 2024</title>
-      <description>ICJs afgørelse mod Israel er et nybrud inden for international lov. Hvorfor er det så stort? Danmark varetægtsfængsler mistænkte for ofte og for længe, men hvorfor varetægtsfængsler vi mistænkte så længe i Danmark? Der er nogle grupper fra Mellemøsten og Nordafrika, der har problemer med deres attitude, sådan lyder det fra Frederik Vad, Socialdemokratiets nye udlændinge- og integrationsordfører. Hvilke konsekvenser kan denne retorik have? 
-Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
-      <pubDate>Sat, 27 Jan 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:50:10</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433046/d637052ccaae9db4aaccea2feec9e470e278632b1bb4d1ef25bcf0330c0c7bcd.mp3" type="audio/mpeg" length="158644671" />
     </item>
   </channel>
 </rss>

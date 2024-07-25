@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:50:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:22:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,42 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405304</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405304</link>
+      <title>Torsdag 25. jul. 2024</title>
+      <description>Præludium:	Johann Sebastian Bach: Hvo ikkun lader Herren råde, BWV 642
+Fra det G.T.:	Salme 145, 14-18
+Salme: 590 "O, lytter til, I folk i alle verdens riger!"
+Fra det N.T.:	Matthæus 11, 20-24
+Korvers: Jørgen Graven Nielsen: Herre, hjælp, thi de fromme er borte (tekst: Efter Salme 12)
+Salme: 372 "Dit værk er stort, men jeg er svag"
+Postludium: Johann Gottfried Walther: Fuga F-dur</description>
+      <pubDate>Thu, 25 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405304/9b7af4883c05ee973f4347fa533d849492d240c9802982bd80a7146b6d6f0643.mp3" type="audio/mpeg" length="36001581" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11042405303</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405303</link>
+      <title>Onsdag 24. jul. 2024</title>
+      <description>Præludium:	Louis Vierne: Preambule
+Fra det G.T.:	Salme 145,1-9
+Salme: 734 "Gud Fader og Søn og Helligånd"
+Fra det N.T.:	Matthæus 11, 16-19
+Korvers: Jørgen Graven Nielsen: Herre, hjælp, thi de fromme er borte (tekst: Efter Salme 12)
+Salme: 31 "Til himlene rækker din miskundhed, Gud"
+Postludium: N. O. Raasted: Til himlene rækker din miskundhed, Gud</description>
+      <pubDate>Wed, 24 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405303/c6e96d21ee173545a86f2d862766fc02ea54ba00216f7c5873302e612ccc4d29.mp3" type="audio/mpeg" length="36001582" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405302</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405302</link>
@@ -456,24 +492,6 @@ Postludium: Alan Gray: Præludium D-dur fra 12 short preludes for organ</descrip
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405263/ce3d2b9641e3ad993d5a8e4d7900d53773fc7fee24dd0b9d08a0d0bd4dd186e0.mp3" type="audio/mpeg" length="36001579" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405262</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405262</link>
-      <title>Tirsdag 25. jun. 2024</title>
-      <description>Præludium: Edmund Hart Turpin: Voluntary B-dur
-Fra det G.T.:	Salme 23
-Salme: 664 "Frelseren er mig en hyrde god"
-Fra det N.T.:	Matthæusevangeliet 7, 1-5
-Korvers: Flemming Weis: Bed, så skal der gives jer (tekst: Matthæus 7,7)
-Salme: 756 "Nu gløder øst i morgenskær"
-Postludium: Johann Ludwig Krebs: Toccata E-dur</description>
-      <pubDate>Tue, 25 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405262/77c9c998b3b24b4a52965dec78a1af5b99952e77b7023046b6c484b78ef4d7e1.mp3" type="audio/mpeg" length="36001582" />
     </item>
   </channel>
 </rss>

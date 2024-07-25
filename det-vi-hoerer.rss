@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:50:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:21:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481885</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-kosmisk-kaerlighed-og-roedder-12422481885</link>
+      <title>Kosmisk kærlighed - og rødder</title>
+      <description>Den klassiske musik har ofte sine rødder i folkemusikken. Det kan man bl.a. høre hos komponister som Bartók og Manuel de Falla. Filmkomponister som Korngold og Hans Zimmer kan sende os ud på en kosmisk rejse, og det kan Per Nørgård og Philip Glass også. Lyt med, når jeg præsenterer noget af den musik jeg selv lytter til når jeg har fri. 
+Vært: Max Fage-Pedersen.</description>
+      <pubDate>Wed, 24 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000190005</itunes:order>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481885/e1286d98052aa77abbcefc20a688ca18d4ba120be7a94a71723be6c558c84287.mp3" type="audio/mpeg" length="165601613" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481884</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-en-vild-og-billedskabende-musik-12422481884</link>

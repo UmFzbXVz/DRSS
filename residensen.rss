@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:50:18 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:21:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -111,18 +111,6 @@ Reporter: Esmeralda Holmberg.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421264/d3a92aee0719fa6edfdce9fe60becf478db3e0a3677496e3f8121fa6070736f5.mp3" type="audio/mpeg" length="172801966" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421262</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-hawk-tuah-13332421262</link>
-      <title>Hawk Tuah</title>
-      <description>Der er gode musikalske memes frisk fra feedet, ny podcast i DR LYD, Bamse Flemming Jørgensen på YouTube og Hot Takes i banken. Sagt på en anden måde: en god dag i Residensen. Velkommen indenfor!</description>
-      <pubDate>Tue, 25 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421262/a47414cd1830086967e0516e4ff6e995f52247b9f8a059edce6bf58bfd4cbe1a.mp3" type="audio/mpeg" length="172801589" />
     </item>
   </channel>
 </rss>

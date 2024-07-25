@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:50:17 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:21:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -78,22 +78,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428263/f692109ba9d1c9629611585aa63ca5bc7a55870f6cbb595bcdfb9b5f958e7c08.mp3" type="audio/mpeg" length="252001589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428262</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428262</link>
-      <title>Ferietid</title>
-      <description>På en dag med højt solskin over Danmark er der god inspiration til at drømme sig væk til ferielandet. En sommerpause lurer lige om hjørnet, og Snooze-lytterne deler glimt af deres ferieplaner hele morgenen.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Tue, 25 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428262/5edb71e9cc476b8b3f7975e4002206cac53adfead5d4c83b6b5a5cfe48cd353f.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>

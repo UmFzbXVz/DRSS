@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:50:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:22:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450148</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-volleyballspiller-er-paa-to-aar-naaet-til-ol-i-roning-13652450148</link>
+      <title>Volleyballspiller er på to år nået til OL... i roning</title>
+      <description>Sára Maria Johansen havde for to år siden valget: Vil du fortsætte med at være landsholdsspiller i volleyball, eller vil du begynde at ro på et højere niveau?
+Færingen mente, at der størst sandsynlighed for at kvalificere sig til OL ved sidstnævnte. 
+Og selv om hun havde været til nogle konkurrencer i Færøerne, var det noget helt andet at flytte til Danmark og ro på eliteplan. 
+Men nu debuterer hun ved OL i rodisciplinen dameotter med styrmand, og de drømmer stort. Og hvordan kan man opnå det på så kort tid?
+Vært: Rikke Smed.</description>
+      <pubDate>Thu, 25 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:31</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450148/0835e10546f03f116e801251c5d283b803c54d60bbc94db525a71e09c7bc5151.mp3" type="audio/mpeg" length="22346939" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450147</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-saet-alarmen-der-er-haandbold-til-morgenmad-13652450147</link>
@@ -2116,21 +2132,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:14:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450018/69cf23564a16d5efb28ef201a22eab868d94df442f936a84ee3e3679eda1da42.mp3" type="audio/mpeg" length="21238140" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450017</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-den-tilfaeldige-vej-til-stregen-13652450017</link>
-      <title>Den tilfældige vej til stregen</title>
-      <description>Han er verdensmester og en del af håndboldens bedste landshold, men det lå ikke i kortene, at Lukas Jørgensen skulle blive en af Danmarks bedste stregspillere. 
-I dagens episode fortæller den danske Flensborg-streg, hvordan tilfældigheder sendte ham ind på den position, der måske er håndboldbanens allerhårdeste.
-Der er også fokus på Danmarks nederlag til Slovenien i sidste mellemrundekamp, hvor Lukas Jørgensen blev delt dansk topscorer.
-Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 24 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:19:58</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450017/0ab8923f5f80f4427cb33e0bae023a586651efb1bede40b9f30d2c3b8929d1fa.mp3" type="audio/mpeg" length="28769914" />
     </item>
   </channel>
 </rss>
