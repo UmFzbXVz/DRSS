@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Jul 2024 11:12:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 07:34:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460169</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Præsidentens efterfølger</title>
+      <description>Fra sygesengen sender Joe Biden et brev til befolkningen, der åbner døren til Det Hvide Hus på klem for vicepræsident Kamala Harris. Efter en katastrofal debat, at have kaldt Zelenskyj for Putin og selv samme vicepræsident for Donald Trump, trækker han sig nu fra præsidentvalget i 11. time. Det amerikanske valg står nu ikke længere mellem to mænd i pensionsalderen, og alt tyder på, at det er den yngre kvinde med indvandrerforældre, der skal kæmpe mod Donald Trump om præsidentposten. I dagens Genstart taler vi med Sidsel Nyholm, udlandsredaktør på Kristeligt Dagblad om Kamala Harris, og hvad der skal til, for at hun kan sætte sig i stolen på det ovale kontor.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 23/7.</description>
+      <pubDate>Fri, 26 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:23:46</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460169/b7810723ae712135603839b34e70d81b11b41eaaabed15eee5bb130c0292faa3.mp3" type="audio/mpeg" length="34247118" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460168</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

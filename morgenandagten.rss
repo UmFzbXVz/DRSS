@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Jul 2024 11:22:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 07:49:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -474,24 +474,6 @@ Postludium: Kaikhosru Sorabji: Variation X (fra Symphony nr. 2)</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405264/caae8f4bd65c00f348c99b8d5f27301b09b33a57c7896377f6bd1584358c8fc2.mp3" type="audio/mpeg" length="36001580" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405263</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405263</link>
-      <title>Onsdag 26. jun. 2024</title>
-      <description>Præludium:	Georg Böhm: Freu dich sehr, o meine Seele
-Fra det G.T.:	Salme 25, 1-7
-Salme: 592 "I dag er nådens tid"
-Fra det N.T.:	Matthæusevangeliet 7, 6-11
-Korvers: Flemming Weis: Bed, så skal der gives jer (tekst: Matthæus 7,7)
-Salme: 588 "Herre, gør mit liv til bøn"
-Postludium: Alan Gray: Præludium D-dur fra 12 short preludes for organ</description>
-      <pubDate>Wed, 26 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405263/ce3d2b9641e3ad993d5a8e4d7900d53773fc7fee24dd0b9d08a0d0bd4dd186e0.mp3" type="audio/mpeg" length="36001579" />
     </item>
   </channel>
 </rss>

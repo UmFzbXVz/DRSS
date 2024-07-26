@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Jul 2024 11:22:05 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 07:49:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450149</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-oehm-moedes-danmark-og-frankrig-allerede-nu-13652450149</link>
+      <title>Øhm, mødes Danmark og Frankrig allerede nu?</title>
+      <description>Danmark og Frankrig åbner ballet ved mændenes håndbold-OL, når de lørdag aften tørner sammen.
+Vi plejer ellers at se dem i finalerne ved håndboldslutrunderne, men hvis man spørger håndboldkommentator Morten Hausborg, så er det ikke usandsynligt, at de mødes igen i finalen. 
+Mikkel Hansen og co. er forsvarende verdensmestre, og Frankrig er både forsvarende europa- og OL-mestre. Så hvem er egentlig favorit?
+Det spørger vi om i dagens afsnit af Tyvstart, hvor vi også vender åbningsceremonien, der er markant anderledes, end den plejer. 
+Vært: Rikke Smed.</description>
+      <pubDate>Fri, 26 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:39</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450149/8bbc910d31358d0a82c0814740437bf2993dbaa4822371dfc95d3b6b57867787.mp3" type="audio/mpeg" length="26872575" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450148</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-volleyballspiller-er-paa-to-aar-naaet-til-ol-i-roning-13652450148</link>
@@ -61,7 +77,10 @@ Vært: Rikke Smed.</description>
       <guid isPermaLink="false">13652450146</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-de-stoerste-ol-stjerner-13652450146</link>
       <title>De største OL-stjerner</title>
-      <description>OL's åbningsceremoni er på fredag, men ved du, hvem der er favoritter til at løbe med guldmedaljerne?
+      <description>VIGTIG INFO:
+Efter denne episode blev optaget, har cykelrytteren Tadej Pogacar meldt afbud til OL. 
+EPISODEBESKRIVELSE:
+OL's åbningsceremoni er på fredag, men ved du, hvem der er favoritter til at løbe med guldmedaljerne?
 I dagens afsnit af Tyvstart spørger vi seks forskellige kommentatorer om, hvilke store stjerner man skal holde øje med i løbet af OL.
 Det drejer sig om atletik, svømning, basketball, tennis, cykling og gymnastik.
 Og derudover drøftes nogle af danskernes muligheder. 
@@ -2118,20 +2137,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:46</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450019/a23bf382567d54cf2750c5e5dc090eda6828d5a2664c075acbd86636851bd9b0.mp3" type="audio/mpeg" length="27047676" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450018</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-til-taktikmoede-med-rasmus-lauge-13652450018</link>
-      <title>Til taktikmøde med Rasmus Lauge</title>
-      <description>Hvordan kan spillerne høre hinanden, når 10.000 tilskuere råber og skriger? Hvor meget bestemmer landstræneren egentlig, når kampen først er i gang?
-Rasmus Lauge gæster Tyvstart og inviterer helt ind i maskinrummet, hvor han fortæller om sin rolle som playmaker på landsholdet. Der er også seneste nyt fra Köln, hvor det danske landshold er ankommet inden finaleweekenden.
-Vært: Emil Schiønning.</description>
-      <pubDate>Thu, 25 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:44</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450018/69cf23564a16d5efb28ef201a22eab868d94df442f936a84ee3e3679eda1da42.mp3" type="audio/mpeg" length="21238140" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Vært: Julian Svejgaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 25 Jul 2024 11:21:34 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 07:49:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -61,23 +61,6 @@ SMS: 1212, skriv jazz, mellemrum og din besked.</description>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428264/936e07b9b6935c9df55667ddc4cdae47a5d327dc1f99e0a64a7127aeb6887832.mp3" type="audio/mpeg" length="252002177" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452428263</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/snooze/snooze-2024/snooze-18452428263</link>
-      <title>Kulturmødet i Camilla Dayyani</title>
-      <description>DMA-vinder og musiker Camilla Dayyani gæster denne morgens Snooze, bl.a. for at fortælle om Bazarjazz, en lille festival inde i Aarhus Jazzfestival, som bringer mangfoldigheden og jazzen sammen. Derudover vender vi Dayyanis album Mine Miniaturer, som rummer et sammensurium af jazz, klassisk, nordisk og persisk musik.
-Vært og tilrettelægger: Julian Svejgaard.
-Redaktør: Kasper Christensen.
-Skriv til Snooze med din morgenstemning eller med et bud på den bedste morgenmusik: 
-Mail: p8jazz@dr.dk
-SMS: 1212, skriv jazz, mellemrum og din besked</description>
-      <pubDate>Wed, 26 Jun 2024 07:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452428263/f692109ba9d1c9629611585aa63ca5bc7a55870f6cbb595bcdfb9b5f958e7c08.mp3" type="audio/mpeg" length="252001589" />
     </item>
   </channel>
 </rss>
