@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Jul 2024 07:48:58 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:35:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -98,19 +98,6 @@ Gæst: Michelle Molou.</description>
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421265/0452f8fc35ee5e6f9571214355b30f369c2673fcf2f73aadb8448b2718aabedc.mp3" type="audio/mpeg" length="172801390" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421264</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-tinderbox-med-suspekt-og-boedekassen-13332421264</link>
-      <title>På Tinderbox med Suspekt og bødekassen</title>
-      <description>Residensen er draget svedende til Fyn og sender omringet af glade festivalgæster på Tinderbox. Vi leger "kender du festival-typen" med Suspekt, der besøger studiet. Vi tester festival-hot takes på gæsterne, og Nynne græder over at misse sit store teenage idol, der spiller på scenen, mens hun er fanget i studiet med Kasper - none the less er der godt humør! Velkommen.
-Reporter: Esmeralda Holmberg.</description>
-      <pubDate>Thu, 27 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421264/d3a92aee0719fa6edfdce9fe60becf478db3e0a3677496e3f8121fa6070736f5.mp3" type="audio/mpeg" length="172801966" />
     </item>
   </channel>
 </rss>

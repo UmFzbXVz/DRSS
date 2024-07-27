@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Jul 2024 07:48:58 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:35:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
+    <item>
+      <guid isPermaLink="false">13332416305</guid>
+      <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-lisa-fosmark-4-13332416305</link>
+      <title>Lisa Fosmark #4</title>
+      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
+Lisa Fosmark er bag pulten.</description>
+      <pubDate>Fri, 26 Jul 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416305/63baecda57acd1d6c7def5797be9e39800a35ff9621285559b7fad30c6f448cd.mp3" type="audio/mpeg" length="259202158" />
+    </item>
     <item>
       <guid isPermaLink="false">13332416295</guid>
       <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-lisa-fosmark-3-13332416295</link>
@@ -322,19 +335,6 @@ DJ Simon Serberen.</description>
       <itunes:duration>03:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416065/f8821e867edf30d50ed07f6318ed9092d0aa6fb23f2eb276b9a54471a5f8179e.mp3" type="audio/mpeg" length="259394537" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332416045</guid>
-      <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-rune-rask-mix-4-feat-suspekt-13332416045</link>
-      <title>Rune Rask Mix #4 (feat. Suspekt)</title>
-      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-Medvirkende: Rune Rask, Bai-D (Andreas Bai Dueholm) og Orgie-E (Emil Simonsen).</description>
-      <pubDate>Fri, 26 Jan 2024 10:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:00:33</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416045/913604a6d1596244444addcd1009ec193299ad02da3773ba7ee186f2a3674824.mp3" type="audio/mpeg" length="260005124" />
     </item>
     <item>
       <guid isPermaLink="false">13332416025</guid>

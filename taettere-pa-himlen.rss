@@ -9,7 +9,7 @@ Andrew Moyo har dig. Kom nu!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Jul 2024 07:49:19 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:35:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -246,19 +246,6 @@ Andrew Moyo har dig. Kom nu!</description>
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429065/b42861470fa5f8bfba432c6dc5bf5a0152f3ce1fd0d2c1c2ce11d809b65e28d6.mp3" type="audio/mpeg" length="172994458" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332429045</guid>
-      <link>https://www.dr.dk/lyd/p3/taettere-paa-himlen/taettere-paa-himlen-2024/taettere-paa-himlen-med-ena-cosovic-og-marie-hobitz-13332429045</link>
-      <title>Med Ena Cosovic og Marie Hobitz</title>
-      <description>Det er fredag og weekend om lidt, så her er der grov stemning, høj energi og hits! hits! hits!
-Andrew Moyo har dig. Kom nu!</description>
-      <pubDate>Fri, 26 Jan 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332429045/e50c8a0c070645634610c7ec4942b1c07542d36ccba89747a1d9dd635ac12639.mp3" type="audio/mpeg" length="172994458" />
     </item>
   </channel>
 </rss>

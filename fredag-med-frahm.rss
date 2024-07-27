@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Jul 2024 07:48:43 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:35:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -146,19 +146,6 @@ Vært: Rikke Frahm
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452450085/855c23c7b0c824ecc07cbd76a7b09b5935b3f78a33ed6efebf4c63fd29ed0ed6.mp3" type="audio/mpeg" length="168675106" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452450045</guid>
-      <link>https://www.dr.dk/lyd/p5/fredag-med-frahm/fredag-med-frahm/fredag-med-frahm-15452450045</link>
-      <title>Fredag 26. jan. 2024</title>
-      <description>Fredag med Frahm ser i slutningen af hver måned frem mod den næste og det der er i vente. Hør om meget af det, som vi kan glæde os til at opleve i den kommende tid - Naturligvis krydret med masser af god musik.
-Vært: Rikke Frahm.</description>
-      <pubDate>Fri, 26 Jan 2024 10:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452450045/4d371b89f330a49bb507196d9e9193e426344b067cc617e5d22b3d47342443a3.mp3" type="audio/mpeg" length="168675106" />
     </item>
   </channel>
 </rss>

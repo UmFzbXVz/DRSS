@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Jul 2024 07:48:59 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:35:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452448305</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/sommersalonen/sommersalonen/sommersalonen-18452448305</link>
+      <title>Fredag 26. jul. 2024</title>
+      <description>P8 slår dørene op til Sommersalonen og serverer forfriskende jazzede toner til at berige din eftermiddag.
+Vært: Josephine Philip.</description>
+      <pubDate>Fri, 26 Jul 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452448305/476c965e6eb73926e69b7c68345b9ad41fc441f428d5f4bafe0bca2e2306c5ee.mp3" type="audio/mpeg" length="168482044" />
+    </item>
     <item>
       <guid isPermaLink="false">18452448304</guid>
       <link>https://www.dr.dk/lyd/p8jazz/sommersalonen/sommersalonen/sommersalonen-18452448304</link>

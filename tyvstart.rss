@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Jul 2024 07:49:14 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:35:38 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450252</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-klar-parat-enkeltstart-13652450252</link>
+      <title>Klar, parat, enkeltstart!</title>
+      <description>Nu er de olympiske lege for alvor begyndt.  
+Det blev en storslået - og våd - åbningsceremoni, og nu skal mange atleter i aktion. 
+Det skal de blandt andet på landevejene, hvor vi spørger cykelkommentator Tobias Hansen om danskernes muligheder ved lørdagens enkeltstart for både mænd og kvinder, og hvilke andre profiler vi skal holde øje med. 
+Dernæst hopper vi videre til Jens Ole Sørensen, der fortæller om roeren Sverri Nielsens vej tilbage til OL, efter han ellers sagde farvel til karrieren efter legene i Tokyo for tre år siden.  
+Vært: Rikke Smed.</description>
+      <pubDate>Sat, 27 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450252/49481cc97878fa5ff61eabc5fc671d87bc9b7f3a29b11f291e855f5482507aee.mp3" type="audio/mpeg" length="25904884" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450149</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-oehm-moedes-danmark-og-frankrig-allerede-nu-13652450149</link>
@@ -2123,20 +2139,6 @@ Vært: Emil Schiønning</description>
       <itunes:duration>00:23:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450260/2e4add7d8cd8d884ef3c32b32596f40394f60d9d9cf6bf6f99dffff49e4c6621.mp3" type="audio/mpeg" length="33703359" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450019</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-sidste-stop-foer-finalen-13652450019</link>
-      <title>Sidste stop før finalen</title>
-      <description>Det er dagen før dagen før dagen. For Danmark skal i EM-finalen, og det kræver en sejr over de tyske værter i fredagens semifinale.
-Men bliver det lige så nemt, som det har været for Nikolaj Jacobsens tropper indtil nu? Det vurderer håndboldkommentator Frederik Lindved og reporter Emil Halkier i dagens episode, hvor de spår om semifinalen og kæmper om en currywurst.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 26 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:46</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450019/a23bf382567d54cf2750c5e5dc090eda6828d5a2664c075acbd86636851bd9b0.mp3" type="audio/mpeg" length="27047676" />
     </item>
   </channel>
 </rss>

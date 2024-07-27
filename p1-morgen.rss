@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Jul 2024 07:49:17 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:35:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433305</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433305</link>
+      <title>Fredag 26. jul. 2024</title>
+      <description>Hvad har JD Vance og countrysangeren Zach Bryan til fælles? Er Rusland i gang med en "gen-sovjetificering" af deres økonomi? Hvorfor vinder Kina frem som fredsmægler i Mellemøsten?
+Vært: Jan Falkentoft</description>
+      <pubDate>Fri, 26 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:05</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433305/df2996c5215c4a5ae9afb4054da41d55a0b98cf0f51d62f351d17e9570ad70ab.mp3" type="audio/mpeg" length="237722913" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433304</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433304</link>
@@ -1848,18 +1860,6 @@ Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:45:01</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433052/c80d80ffda0720276e21b6e539b0669da1c03fbe892e2b38044ea150eefe64d5.mp3" type="audio/mpeg" length="237630974" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433051</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433051</link>
-      <title>Mandag 29. jan. 2024</title>
-      <description>Hvad kan Evergrandes tvangsopløsning betyde for dansk og vestlig økonomi? Hvorfor vil DR ikke beklage, at de har lagt så meget fokus på en brækket arm i "Spies og morgenbolledamerne", når de ikke har beviser? Og hvilke konsekvenser har det for den mentale sundhed at bo i Ølst lige nu?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <pubDate>Mon, 29 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:58</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433051/469f4e6670e29abbd9d31a1277643415b0b78d946136800d2f7ef5474a896146.mp3" type="audio/mpeg" length="237565300" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 26 Jul 2024 07:49:05 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:35:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410305</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410305</link>
+      <title>Fredag 26. jul. 2024</title>
+      <description>Har de blå helt mistet taget i kvindelige vælgere? Har man fejlet fra politisk side, når der igen i år optages 300 færre pædagoger og knap 150 færre lærere? Hvorfor er Donald Tusk ikke kunne gennemføre den liberalisering af abortlovgivningen som regering ellers lovede, da den kom til?
+Dagens vært: Morten Runge.</description>
+      <pubDate>Fri, 26 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:17:11</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410305/a2f1c5dd8d22d3bfbdd0d80791582b61da39fd3efe131634c20d9a424275515c.mp3" type="audio/mpeg" length="111152797" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410304</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410304</link>
@@ -1541,18 +1553,6 @@ Dagens værter: Søren Carlsen og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:25:49</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410052/e73aa82f2f277b4131729037fcc63ab189612e5a3df9c5117830411dfeba7365.mp3" type="audio/mpeg" length="123593794" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410051</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410051</link>
-      <title>Mandag 29. jan. 2024</title>
-      <description>Hvilke problemer kan der være ved at give Wegovy til børn? Kan angreb i Jordan risikere at eskalere situationen i Mellemøsten? Hvad skyldes den ulige kønsfordeling i mandlig og kvindelige eksperter?
-Dagens værter: Jan Falkentoft og Anne Kirstine Hermann.</description>
-      <pubDate>Mon, 29 Jan 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:21:30</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410051/cb596d4d1ef74033a2ec49e6934e0109d3e6c4fb55971ea9b14124aa503877ea.mp3" type="audio/mpeg" length="117367810" />
     </item>
   </channel>
 </rss>
