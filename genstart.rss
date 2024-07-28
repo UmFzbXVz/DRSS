@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Jul 2024 08:35:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 09:13:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460170</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Plottet mod våbenkongen</title>
+      <description>Som chef for en af Europas største våbenfabrikker er Armin Papperger vant til at være både udskældt og sat i bås som en dødens købmand. Men efter at hans ammunitionsfabrikker er blevet helt afgørende for østfrontens forsvar, er hans verden vendt på hovedet. Siden krigens start er han set omfavnet af statsledere og våbenvirksomheden er lige blevet sponsor for et tysk top fodboldhold. Men nu har Rusland tilsyneladende forsøgt at likvidere den tyske våbenkonge. I selskab med sikkerhedspolitisk korrespondent på Berlingske, Simon Kruse, undersøger dagens Genstart de europæiske våbenproducenters nye rolle - i et Europa, hvor de både er elsket og udsat.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 24/7.</description>
+      <pubDate>Sun, 28 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:48</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460170/f575d08a484470728c9b3f568cf5b76d73e7dbdec7f59736b53fc383f6fbf51c.mp3" type="audio/mpeg" length="32842836" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460169</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

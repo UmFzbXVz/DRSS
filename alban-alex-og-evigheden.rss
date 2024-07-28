@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Jul 2024 08:36:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 09:17:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,23 @@ Produceret for DR af MonoMono.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122423306</guid>
+      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-det-spirituelle-og-det-menneskelige-med-sonja-richter-16122423306</link>
+      <title>Det spirituelle og det menneskelige - med Sonja Richter</title>
+      <description>Skuespiller Sonja Richter er gæst, og samtalen med Alex og Alban kredser om at være et spirituelt væsen, der har en menneskelig oplevelse, og ikke omvendt, og om musik som portalen til det spirituelle. Sonja spiller blandt andet Chopin, Satie og Rufus Wainwrights version af Ravels Bolero. 
+
+Værter: Alban Lendorff, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
+Gæst: Sonja Richter, skuespiller.
+Producer og redaktør: Rune Sparre Geertsen. 
+Produceret for DR af MonoMono.</description>
+      <pubDate>Sat, 27 Jul 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:52:44</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423306/6fdb5f80e083ad18b1b868c30226afce466781ac56e583dab712d527cc4d4e4f.mp3" type="audio/mpeg" length="162360455" />
+    </item>
     <item>
       <guid isPermaLink="false">16122423296</guid>
       <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-angsten-og-det-skoenne-med-lars-mikkelsen-16122423296</link>

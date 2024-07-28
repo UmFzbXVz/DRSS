@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Jul 2024 08:36:53 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 09:17:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,11 +25,23 @@
     <category>News</category>
     <itunes:category text="News" />
     <item>
+      <guid isPermaLink="false">11802433306</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433306</link>
+      <title>Lørdag 27. jul. 2024</title>
+      <description>Hvad er kritikken af 7-trinsskalaen? Hvorfor har vi stadig ikke løst ligestillingsproblemet i idræt? Svigter IOC sit ansvar i forhold til afghanske kvinder i forbindelse med OL?
+Vært: Morten Runge.</description>
+      <pubDate>Sat, 27 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:01</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433306/802af9a54d495694f43c9fc6b16947ebca79227db55ed8ad533117e54a19fdf7.mp3" type="audio/mpeg" length="158429025" />
+    </item>
+    <item>
       <guid isPermaLink="false">11802433305</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433305</link>
       <title>Fredag 26. jul. 2024</title>
       <description>Hvad har JD Vance og countrysangeren Zach Bryan til fælles? Er Rusland i gang med en "gen-sovjetificering" af deres økonomi? Hvorfor vinder Kina frem som fredsmægler i Mellemøsten?
-Vært: Jan Falkentoft</description>
+Vært: Jan Falkentoft.</description>
       <pubDate>Fri, 26 Jul 2024 07:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -1848,18 +1860,6 @@ Dagens værter: Søren Carlsen og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:24</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433053/4855c5c64f37b2ff32acf9362002a18d5ace17ee6783d2198899d9b19ec9b5ff.mp3" type="audio/mpeg" length="236742772" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433052</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433052</link>
-      <title>Tirsdag 30. jan. 2024</title>
-      <description>En total blokade ved grænsen til Gaza gør det svært for nødhjælp at nå frem til befolkningen i Gaza, som er på randen til hungersnød. Kan meldingen fra ICJ forhindre hungersnød? Regeringen præsenterer ældrereform. Hvad kan vi forvente af regeringens ældreudspil? Landsret afviser 'pligt' til at hente dansk dreng og hans mor hjem fra syrisk IS-fangelejr. Hvorfor må drengen ikke få lov at få sin mor med hjem til Danmark?
-Dagens værter: Bjarne Steensbeck og Pernille Rudbæk.</description>
-      <pubDate>Tue, 30 Jan 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:01</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433052/c80d80ffda0720276e21b6e539b0669da1c03fbe892e2b38044ea150eefe64d5.mp3" type="audio/mpeg" length="237630974" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Jul 2024 08:36:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 09:17:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -84,20 +84,6 @@
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421266/5e0c2dd785201236cdc79f8456b6992201910b78f2c48abb60ccdfa4f7f0116f.mp3" type="audio/mpeg" length="172801966" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421265</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-tinderbox-med-moe-og-fyn-saet-13332421265</link>
-      <title>På Tinderbox med MØ og Fyn-sæt</title>
-      <description>Er Kasper eller Nynne mest folkelig? MØ får serveret det ultimative Fyn-sæt med Arnbitter, vodka-redbull, gin hass og brunsviger. Vi møder en masse søde festivalgæster og får en af dem i studiet, fordi hun (på sin første Tinderbox nogensinde) oplevede noget fuldstændig sindssygt i går aftes! Velkommen.
-Reporter: Esmeralda Holmberg.
-Gæst: Michelle Molou.</description>
-      <pubDate>Fri, 28 Jun 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421265/0452f8fc35ee5e6f9571214355b30f369c2673fcf2f73aadb8448b2718aabedc.mp3" type="audio/mpeg" length="172801390" />
     </item>
   </channel>
 </rss>

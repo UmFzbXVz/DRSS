@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Jul 2024 08:35:35 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 09:17:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405306</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405306</link>
+      <title>Lørdag 27. jul. 2024</title>
+      <description>Præludium:	Christian Heinrich Rinck: Herre Jesus, vi er her 
+Davidssalme: 63, 2-5 
+Salme: 584 "Beder, og I skulle få"
+Fra det N.T.:	2. Timotheusbrev 1, 6-11
+Trosbekendelsen	
+Salme: 11 "Nu takker alle Gud"
+Postludium: Johann Pachelbel: Toccata c-mol</description>
+      <pubDate>Sat, 27 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405306/efeb696545ad225df702cd1fb564dbe82f69d82ef4cf3cfb7f7ceff1f3e76e1c.mp3" type="audio/mpeg" length="36001568" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405305</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405305</link>
@@ -456,24 +474,6 @@ Postludium: Giovanni Battista Fasolo: Fuga i g</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405266/c11c6a5a281369e5aa320428ca2fd7ab3a9020ab60d668e3de3b24b4553c0151.mp3" type="audio/mpeg" length="36001574" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405265</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405265</link>
-      <title>Fredag 28. jun. 2024</title>
-      <description>Præludium:	Dietrich Buxtehude: Min sjæl, du Herren love
-Fra det G.T.:	Salme 33, 13-22
-Salme: 12 "Min sjæl, du Herren love"
-Fra det N.T.:	Matthæusevangeliet 7, 15-23
-Korvers: Flemming Weis: Bed, så skal der gives jer (tekst: Matthæus 7,7)
-Salme: 339 "Vort liv blev reddet" 
-Postludium: Dietrich Buxtehude: Min sjæl, du Herren love</description>
-      <pubDate>Fri, 28 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405265/661b603ce2706d87c3ed08d8f848bebd56180a70a804eb157fd2d720c60221c8.mp3" type="audio/mpeg" length="36001580" />
     </item>
   </channel>
 </rss>

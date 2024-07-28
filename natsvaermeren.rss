@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 27 Jul 2024 08:23:32 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 09:03:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463306</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-naar-moerket-falder-12422463306</link>
+      <title>Når mørket falder</title>
+      <description>Når mørket falder, træder skyggerne frem. En etiopisk nonne, en pianist, der sætter ild til klaveret, og en drømmende prinsesse i Roms gader.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 28 Jul 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463306/1f780be09f9dcff5b7954593c6c3f49afc0b9556ee9c6ecfd8f5a81adfc9f097.mp3" type="audio/mpeg" length="168480365" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463302</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-linedans-i-sommernatten-12422463302</link>
@@ -182,6 +195,19 @@ Vært: Tina Rømer.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463146/baa50e5e3896d91296f721e4787b6aa354ce139c1a90e4a37c3fa58b7299e170.mp3" type="audio/mpeg" length="168481609" />
     </item>
     <item>
+      <guid isPermaLink="false">12422463143</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-mellem-dur-og-mol-12422463143</link>
+      <title>Mellem dur og mol</title>
+      <description>Det sværmer, det græder, det danser, det gror i natten.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 04 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463143/79ed8157bd8b7949f6d6381e42732c41b4edc91e768223ce2f89314fbf649965.mp3" type="audio/mpeg" length="168472211" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463137</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-bloed-er-natten-12422463137</link>
       <title>Blød er natten</title>
@@ -245,19 +271,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463111/c36b8b2a0c0734aa599e296509c62996f962805f67d108bf0c2ac61130cd2bdb.mp3" type="audio/mpeg" length="168479823" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463096</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-fyldte-chokolader-12422463096</link>
-      <title>Fyldte Chokolader</title>
-      <description>Forstil dig en stor æske med guld udenpå. Når du åbner låget, gemmer der sig en smukt anlagt have fyldt med chokalder i form af musikalske overraskelser. Et par stykker af dem er Bela Lakatos &amp; The Gypsy Youth Project, Debussy, Shara Worden, Esma Redzepova og Mozart, der smelter på tungen. 
-Vært: Minna Grooss.</description>
-      <pubDate>Sun, 03 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463096/70063c490423912f986363e69d6d53bdac6853ac6829c96897b0000dedd56d8d.mp3" type="audio/mpeg" length="168468935" />
     </item>
     <item>
       <guid isPermaLink="false">12422463087</guid>
