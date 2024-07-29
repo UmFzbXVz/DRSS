@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:17:39 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:54:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405311</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405311</link>
+      <title>Mandag 29. jul. 2024</title>
+      <description>Præludium:	Sigfrid Karg-Elert: Herre Jesus, vi er her
+Ord til dagen: af Desmond Tutu
+Salme: 742 "Farvel, du hvilesøde nat"
+Fra det N.T.:	Matthæusevangeliet 12,1-8
+Korvers: Rued Langgaard: Ophøj dig, Gud (tekst: Efter Salme 57, 108)
+Salme: 324 "Dig rummer ej himle"
+Postludium: Sigfrid Karg-Elert: Tranquillo i c-mol</description>
+      <pubDate>Mon, 29 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405311/359066530f1453bf8f7e0d47c512f69e987b6431819959d055813489dd4bde68.mp3" type="audio/mpeg" length="36001580" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405306</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405306</link>
@@ -456,24 +474,6 @@ Postludium: Carl Philipp Emanuel Bach: Hvo ikkun lader Herren råde</description
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405271/8502ccd5d91592bd95af96799bd9687d5084c929466086de7190e3f50bb143b8.mp3" type="audio/mpeg" length="36001575" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405266</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405266</link>
-      <title>Lørdag 29. jun. 2024</title>
-      <description>Præludium:	Johann Ludwig Krebs: O Helligånd, i tro os lær
-Davidssalme: 42, 2-4 og 6 
-Salme: 54, vers 1-5 "Hvad mener I om Kristus"
-Fra det N.T.:	1. Peters Brev 2, 4-10
-Trosbekendelsen	
-Salme: 54, vers 6-10 
-Postludium: Giovanni Battista Fasolo: Fuga i g</description>
-      <pubDate>Sat, 29 Jun 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405266/c11c6a5a281369e5aa320428ca2fd7ab3a9020ab60d668e3de3b24b4553c0151.mp3" type="audio/mpeg" length="36001574" />
     </item>
   </channel>
 </rss>

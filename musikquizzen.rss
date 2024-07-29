@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:17:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:54:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -316,19 +316,6 @@ Vært: Kenneth K.</description>
       <itunes:duration>00:52:12</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448105/dbb1bc6d060e7444be1664433c356f3556da8ad8294db79ad914e40142787ffe.mp3" type="audio/mpeg" length="75178015" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122448104</guid>
-      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-1974-popgrupper-fra-90-erne-samt-goddag-og-farvel-quizzen-16122448104</link>
-      <title>1974, Popgrupper fra 90'erne samt "Goddag og Farvel Quizzen</title>
-      <description>Hvem synger discohittet "Kung Fu Fighting" (i kategorien "1974")? Hvad hedder boybandet med "No Matter What" (i "Quiz-kampen: 90'er popgrupper")? Hvem synger "Goodbye My Lover" i 2005 ("Goddag og Farvel Quizzen")?
-Vært: Kenneth K.</description>
-      <pubDate>Sun, 28 Jan 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:47:46</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448104/701c6c8a64b31d9fa249a1d6713c3044f32ecea3503023984c67429c416bfec3.mp3" type="audio/mpeg" length="68797663" />
     </item>
   </channel>
 </rss>

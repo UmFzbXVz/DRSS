@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:13:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:53:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460171</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Vantrivsel i vuggeren</title>
+      <description>Ole Henrik Hansen er på vej ud ad vuggestuen, da en lille purk følger efter og klamrer sig til ham. Hulkende nærmest skriger barnet, at han ikke vil være der. Under ingen omstændigheder vil han tilbage til pædagogerne og de andre børn i institutionen. For Ole Henrik Hansen bliver dét startskuddet til årtiers opråb. Hvor andre ser velfungerende dagtilbud med glade børn, der får al den opmærksomhed og støtte, de har brug for, så tegner hans forskning et langt mere dystert billede. I dag spørger Genstart den mangeårige forsker, om det børneliv velfærdsstaten tilbyder virkelig er så forfærdeligt, eller om han selv er blevet farvet af sine følelser? 
+Vært: Simon Stefanski. 
+Program publiceret i DR Lyd d. 25/7.</description>
+      <pubDate>Mon, 29 Jul 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:32</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460171/e2805b097f6f3871dfab1d855fff0de7c58810e6c6e6257ca13f943929443c80.mp3" type="audio/mpeg" length="32460942" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460170</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

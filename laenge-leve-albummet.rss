@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:17:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:53:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -233,20 +233,6 @@ God fornøjelse, kærlig hilsen Goodluck Casper.</description>
       <itunes:duration>01:06:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436605/95f9140e5082d4c1e24f868d016ae0f61d57d4fb7271fc71b0fc8f8a7ec5e721.mp3" type="audio/mpeg" length="95088830" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452436604</guid>
-      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-rikke-thomsen-og-hendes-store-kaerlighed-til-john-mayer-16452436604</link>
-      <title>Rikke Thomsen og hendes store kærlighed til John Mayer</title>
-      <description>Jeg har i dag besøg af Rikke Thomsen, sanger og sangskriver, der er helt unik i sin egen ret. Hun synger sine sange på Sønderjysk, hvilket er helt perfekt!
-Hun har en gave med til os i form af John Mayer og hans album "Battle Studies", der en en plade om den slagmark, som kærligheden kan være. Og her har Rikke sin helt egen og fantastiske historier med, som involverer både ulykkelig kærliged, bryllup og en hund, der hedder Springsteen. Jeg glæder mig, til du skal lytte med.
-Mange hilsner fra Goodluck Casper.</description>
-      <pubDate>Sun, 28 Jan 2024 09:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:14:01</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436604/c27d91ea80121e21878ff393e4352f76ba7a509890d708a5e7a1522a9f108d7e.mp3" type="audio/mpeg" length="106605941" />
     </item>
   </channel>
 </rss>

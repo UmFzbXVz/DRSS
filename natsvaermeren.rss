@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:03:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:54:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -154,19 +154,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463266/1d7971f07e4c06f21d3b6e4f128369c6c07fd88e7e171296acc27c875f68a6f2.mp3" type="audio/mpeg" length="168472869" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463265</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-blue-12422463265</link>
-      <title>Blue</title>
-      <description>Aftenen er blå, natten er sort, og Natsværmeren fanger dig lige der i det blåsorte lys og i stemningen der matcher. Elis Regina, Ravel og Bernard Herrmann er nogle af de stemmer du får at høre, sammen med nattergalen og lyden af byen der aldrig sover.
-Vært: Tina Rømer.</description>
-      <pubDate>Sat, 29 Jun 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463265/4750b539c9cfdd874147eabdb3f2d4f7c56621b2004ea017394a1b0dc6103705.mp3" type="audio/mpeg" length="168475262" />
     </item>
     <item>
       <guid isPermaLink="false">12422463151</guid>
@@ -375,6 +362,19 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363267/ef242c3ced105852f2b0420842177c90fb4271da2f51f8633a473c3ccf1f3f45.mp3" type="audio/mpeg" length="168467750" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363251</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-gratis-glaeder-12422363251</link>
+      <title>De gratis glæder</title>
+      <description>Det begynder med glæden ved en sommerfugl, en lørdag aften, luften, ja, alt det som er godt og gratis. 
+Vært: Katrine Ring.</description>
+      <pubDate>Tue, 20 Jun 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363251/3b26ccf060a57da221d3359c30047ef9b516c734cbefe968d6bf151bbd81a8a4.mp3" type="audio/mpeg" length="168482051" />
     </item>
     <item>
       <guid isPermaLink="false">12422363246</guid>

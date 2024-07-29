@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:02:49 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:54:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493212</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-trusler-fra-rummet-16122493212</link>
+      <title>Trusler fra rummet</title>
+      <description>Peter Falktoft indstiller teleskopet mod de trusler fra rummet, som har potentiale til at spænde ben for vores hverdag. Vores samfund er nemlig smovset ind i GPS teknologi, lyder det fra denne episodes to gæster. Og lammes denne teknologi af enten GPS jamming, GPS Spoofing eller en solstorm, så kan det potentielt påvirke alt fra rutefly, vores mobilkommunikation samt betalingssystemer. Og hvad gør man så?
+GÆST: Sarah Schultz Beeck og Søren Reime Larsen, rum-eksperter.
+
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 29 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:35:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493212/e574651f21775272e1a5dfa89405189d51231b2b9536c897d75e19047d9e5247.mp3" type="audio/mpeg" length="51279993" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493211</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-den-nye-verden-16122493211</link>

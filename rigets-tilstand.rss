@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:16:59 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:53:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -26,6 +26,21 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332440954</guid>
+      <link>https://www.dr.dk/lyd/p3/rigets-tilstand/rigets-tilstand/rigets-tilstand-podcast-13332440954</link>
+      <title>Søndag 28. jul. 2024</title>
+      <description>Danmark er Europas hoved, og det hoved skal holdes koldt! I "Rigets tilstand" stikker dine værter, Oliver Seppo og Thomas Bugge, hver søndag termometeret direkte ind i røvhagen Als, stiller en diagnose og udskriver to Panodiler og en rask gåtur ned ad Eftertænksomhedens Boulevard! God bedring!</description>
+      <pubDate>Sun, 28 Jul 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000000004</itunes:order>
+      <itunes:season>0</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:47:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332440954/f8cbe65748d4b4a7aced368e6aa37294107239906aed72c47cb058695997d087.mp3" type="audio/mpeg" length="68543855" />
+    </item>
     <item>
       <guid isPermaLink="false">13332440953</guid>
       <link>https://www.dr.dk/lyd/p3/rigets-tilstand/rigets-tilstand/rigets-tilstand-er-johannes-langkildes-vaegttab-egentligt-en-god-ting-13332440953</link>

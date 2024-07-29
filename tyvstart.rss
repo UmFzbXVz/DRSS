@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:17:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:54:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450150</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-forbilledlige-biles-viser-storform-i-ol-comeback-13652450150</link>
+      <title>Forbilledlige Biles viser storform i OL-comeback</title>
+      <description>Simone Biles er tilbage. For tre år siden ved OL i Tokyo døjede hun med skruesyge og andre mentale problemer. 
+Men i går stod hun igen i OL-rampelyset og viste storform - til stor jubel for det kendisfyldte publikum i Paris. 
+I dagens afsnit af Tyvstart vender vi superstjernens tilbagevenden til OL, men vi skal også forbi giganternes brag i tennis, hvor Rafael Nadal og Novak Djokovic mødes i anden runde. 
+Vært: Rikke Smed.</description>
+      <pubDate>Mon, 29 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:19</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450150/59371ddb3933bdb4c7dfac9ce2722a6f8aa77c0abe20d7b043db8173d3ff0a0e.mp3" type="audio/mpeg" length="24947576" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450253</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-i-toej-og-damp-for-danmark-13652450253</link>
@@ -2141,20 +2156,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:13</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450020/5b68036e14b7c11ffb761dc29ba67ab40ab93ee246460438d74843a053d62872.mp3" type="audio/mpeg" length="23368764" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450260</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-bliv-klar-til-den-store-em-finale-13652450260</link>
-      <title>Bliv klar til den store EM-finale</title>
-      <description>Danmark blev senest europamester i håndbold for 12 år siden. Men nu er Nikolaj Jacobsens tropper snublende tæt på metal af den fineste karat. Det eneste, der mangler, er en sejr over de olympiske mestre fra Frankrig. Franskmændene er til gengæld noget af en mundfuld. Anført af håndboldlegenden Nikola Karabatic vinder de stort set alle de finaler, de er en del. Så hvad skal Danmark gøre for at slå dem? DR's håndboldekspert Lars Krogh Jeppesen og kommentator Frederik Lindved giver deres bud i dagens program, hvor du også kan høre fra tre af de danske landsholdsspillere.
-
-Vært: Emil Schiønning</description>
-      <pubDate>Sun, 28 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450260/2e4add7d8cd8d884ef3c32b32596f40394f60d9d9cf6bf6f99dffff49e4c6621.mp3" type="audio/mpeg" length="33703359" />
     </item>
   </channel>
 </rss>
