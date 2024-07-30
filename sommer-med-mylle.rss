@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:54:13 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:45 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452494311</guid>
+      <link>https://www.dr.dk/lyd/p5/sommer-med-mylle/sommer-med-mylle/sommer-med-mylle-15452494311</link>
+      <title>Mandag 29. jul. 2024</title>
+      <description>Sommerstemning og sommersange med Jørgen de Mylius.
+Vært: Jørgen De Mylius.</description>
+      <pubDate>Mon, 29 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452494311/2cedb3d6f5a05aa5b5c0c27a5f8694e2833b83a3070b8c060b59388d76e835e9.mp3" type="audio/mpeg" length="165601993" />
+    </item>
     <item>
       <guid isPermaLink="false">15452494305</guid>
       <link>https://www.dr.dk/lyd/p5/sommer-med-mylle/sommer-med-mylle/sommer-med-mylle-15452494305</link>

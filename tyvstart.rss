@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:54:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450151</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-er-ridesport-snart-fortid-ved-ol-13652450151</link>
+      <title>Er ridesport snart fortid ved OL?</title>
+      <description>Dressurkonkurrencerne begynder i dag ved OL. Danmark er forsvarende verdensmester i holdkonkurrencen og har nærmest aldrig stået stærkere. 
+Men bag de glamourøse konkurrencer spøger skandaler med dyremishandling - både i Danmark, men også internationalt. 
+Og det kan ifølge dressurkommentator Birgitte Borch have betydning for ridesportens fremtid på OL-programmet. 
+Det vender vi i dagens afsnit af Tyvstart, hvor vi også skal forbi Beachvolley, der altid er en seersluger ved OL og bliver placeret på fornemme lokationer.
+Vært: Rikke Smed.</description>
+      <pubDate>Tue, 30 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:38</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450151/38abb098d24b2c7f8749e1d35c97d40b7e56a9ffa57e19d115a4146803aeeb6c.mp3" type="audio/mpeg" length="28273982" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450150</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-forbilledlige-biles-viser-storform-i-ol-comeback-13652450150</link>
@@ -2140,22 +2156,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:52</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450021/d455c816d3dfa1f517b10b3eafcc69a0b8c77e0b0e7967079e4e54477271104f.mp3" type="audio/mpeg" length="24310522" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450020</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-sidste-finale-for-den-gamle-garde-13652450020</link>
-      <title>Sidste finale for den gamle garde?</title>
-      <description>Et smerteligt finalenederlag lukkede ned for håndboldherrernes EM. 
-Danmark tabte til Frankrig, der i de sidste mange år har været den evige konkurrent. I den periode har profiler som Mikkel Hansen, Niklas Landin og Henrik Møllgaard været afgørende for Danmark, men i søndagens finale spillede de ikke alle så meget, som de plejer.
-Var den sidste dans for den gamle garde.
-Det svarer kommentator Frederik Lindved og ekspert Lars Krogh Jeppesen på.
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 29 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:13</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450020/5b68036e14b7c11ffb761dc29ba67ab40ab93ee246460438d74843a053d62872.mp3" type="audio/mpeg" length="23368764" />
     </item>
   </channel>
 </rss>

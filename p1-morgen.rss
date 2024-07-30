@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:54:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433311</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433311</link>
+      <title>Mandag 29. jul. 2024</title>
+      <description>Hvordan er det at bo i Libanon lige nu? Skal kunstig intelligens bruges til vurderingen af eksamener? Hvad er fordele og ulemperne ved tolkegebyret i sundhedsvæsenet?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Mon, 29 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:57</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433311/4af034c2e6bf7fb888288770542382bb0a4b5edc81596c62bc4995c6c041ce71.mp3" type="audio/mpeg" length="237538017" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433306</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433306</link>
@@ -1836,18 +1848,6 @@ Dagens værter: Morten Runge og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:55</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433055/6be6d6107b5188dc264873a10a6ef225f6e53fef227a60b2bb0b056ee6bc5181.mp3" type="audio/mpeg" length="237485601" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433054</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433054</link>
-      <title>Torsdag 1. feb. 2024</title>
-      <description>Hvordan kan unge ulovligt købe nikotinposer på nettet? Hvor meget har Ukraine brug for penge fra EU? Og hvordan har udviklingen været på Vestbredden siden d. 7. Oktober? 
-Dagens værter: Bjarne Steensbeck og Morten Runge.</description>
-      <pubDate>Thu, 01 Feb 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:44</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433054/97631b9c92be7331af8f036f670c7890d69ac093c963c0ede92288faa81bd8f0.mp3" type="audio/mpeg" length="237233490" />
     </item>
   </channel>
 </rss>

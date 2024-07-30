@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:53:48 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -61,6 +61,23 @@ Værter: Alberte Røhl og Rikke Smed.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652410305/205d4ce43bbe812d7adf4825ffedc15225adbb8b501e6ea070b2e57e2d7ddd3c.mp3" type="audio/mpeg" length="338401544" />
     </item>
     <item>
+      <guid isPermaLink="false">13652410311</guid>
+      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/medaljeregn-paa-p4/medaljeregn-paa-p4-13652410311</link>
+      <title>Medaljeregn på P4</title>
+      <description>Dagen er ved at gå på hæld i Paris, men vi er slet ikke færdige. Aftenen betyder kampe, de bedste øjeblikke fra OL-dagen, der er gået og ikke mindst: Medaljeregn. 
+Værter: Louise Dreisig og Sara Skovhave.</description>
+      <pubDate>Mon, 29 Jul 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000040003</itunes:order>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:55:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22952df24f14c3ddf5b6e.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652410311/cf0c17284da6a62ebdb147bd9a87891a75eeacd21cf592756befe576c63a0c16.mp3" type="audio/mpeg" length="338402124" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652410307</guid>
       <link>https://www.dr.dk/lyd/p4/ol-paa-p4/medaljeregn-paa-p4/medaljeregn-paa-p4-13652410307</link>
       <title>Medaljeregn på P4</title>
@@ -95,6 +112,23 @@ Værter: Alberte Røhl og Rikke Smed.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652410306/0c83266301ee7257239d0aa8a397d0b5abdd6ecde3d7acc54ece7eaef90b20b5.mp3" type="audio/mpeg" length="427682120" />
     </item>
     <item>
+      <guid isPermaLink="false">13652409311</guid>
+      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/olympiske-legekammerater/olympiske-legekammerater-13652409311</link>
+      <title>Olympiske legekammerater</title>
+      <description>Maja, Nanna og David er dine olympiske legekammerater, der tager dig med gennem eftermiddagens OL-discipliner. De lover godt humør, store øjeblikke og sekunder du husker!
+Værter: Maja Rosager, Nanna Nørregaard og David Mandel.</description>
+      <pubDate>Mon, 29 Jul 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000030002</itunes:order>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:57:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a2295c6a7c7bc04df56dbd.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652409311/15d1a070d7619fc5aafb6c08b90cb75d61275ef9dde74fd50ca1cbd4c8ec71f8.mp3" type="audio/mpeg" length="341282147" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652409306</guid>
       <link>https://www.dr.dk/lyd/p4/ol-paa-p4/olympiske-legekammerater/olympiske-legekammerater-13652409306</link>
       <title>Olympiske legekammerater</title>
@@ -110,6 +144,23 @@ Værter: Maja Rosager, Nanna Nørregaard og David Mandel.</description>
       <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a2295c6a7c7bc04df56dbd.jpg" />
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652409306/1d94e9029f3b6600f899720d192ac735b4262a09cbf20e0b380e56b1f176b849.mp3" type="audio/mpeg" length="341282147" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13652408311</guid>
+      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/hall-of-fame-paa-p4/hall-of-fame-paa-p4-13652408311</link>
+      <title>Hall of Fame på P4</title>
+      <description>I Hall of Fame med Lotte Friis og Mikkel Bagger træder du ind i det fineste OL-selskab. Her møder du hver dag nogle af Danmarks største OL-atleter, får hemmelighederne fra atleternes liv i den Olympiske By, og vi indlemmer et nyt medlem i vores egen Hall of Fame.
+Værter: Lotte Friis og Mikkel Bagger.</description>
+      <pubDate>Mon, 29 Jul 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000020003</itunes:order>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22966df24f14c3ddf5bd4.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652408311/d0f733007d3abb4e602727a926592e3e7a17ff21d2fbb1c8cca914afd56a2699.mp3" type="audio/mpeg" length="151201600" />
     </item>
     <item>
       <guid isPermaLink="false">13652408307</guid>
@@ -144,6 +195,23 @@ Værter: Lotte Friis og Mikkel Bagger.</description>
       <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22966df24f14c3ddf5bd4.jpg" />
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652408306/00d5c03504daaabd457f8bb20522d2f42eb57ebfbeb41ab4d720084915c8e736.mp3" type="audio/mpeg" length="151202176" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13652407311</guid>
+      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/live-fra-paris/live-fra-paris-13652407311</link>
+      <title>Live fra Paris</title>
+      <description>Alle har ret til et fedt OL, og Louise Deruginsky og Thomas Loft guider dig derfor gennem de store og små OL-øjeblikke og inviterer både dig og atleterne med op på P4s tagterrasse i byernes by.
+Værter: Louise Deruginsky og Thomas Loft.</description>
+      <pubDate>Mon, 29 Jul 2024 09:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010004</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a2293edf24f14c3ddf5b08.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652407311/8208e79b819a651d60cb7627438d6a49073bc26e96d08bec53420782b3d3220a.mp3" type="audio/mpeg" length="252002151" />
     </item>
     <item>
       <guid isPermaLink="false">13652407307</guid>

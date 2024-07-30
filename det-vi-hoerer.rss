@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:53:43 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -79,7 +79,7 @@ Vært: Max Fage-Pedersen.</description>
       <guid isPermaLink="false">12422481882</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-skoven-stjernerne-og-havet-om-natten-12422481882</link>
       <title>Skoven, stjernerne og havet om natten</title>
-      <description>To timers radio, hvor jeg præsenterer noget af den musik jeg selv lytter til når jeg har fri. I dag skal vi ud i skoven, ind mellem træerne, hvor der bliver køligt og fugtigt. Og når mørket falder på lyser stjernerne over havet. Musik af Mahler, Janacek, Jørgen Jersild, Gershwin, Bernstein og Karlheinz Stockhausen får plads i dagens udsendelse.
+      <description>Tag med ud i skoven, og ind mellem træerne, hvor der er køligt og fugtigt. Se stjernerne lyse over havet når mørket falder på. Dagens udsendelse rummer musik af Mahler, Janacek, Jørgen Jersild, Gershwin, Bernstein og Karlheinz Stockhausen. To timers radio, hvor jeg præsenterer noget af den musik jeg selv lytter til når jeg har fri.
 Vært: Max Fage-Pedersen.</description>
       <pubDate>Wed, 03 Jul 2024 16:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
@@ -533,6 +533,22 @@ Vært: Magnus Larsson.</description>
       <itunes:duration>01:49:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381841/b7010562610d2c3741f93e003997cb84a9193b23dcbe0d36f9424f62e1d6510c.mp3" type="audio/mpeg" length="156966219" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381826</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/nina-oerum/det-vi-hoerer-ferieklar-12422381826</link>
+      <title>Ferieklar</title>
+      <description>Akut opstået ferietrang kan - i hvert fald delvis - tilfredsstilles af musikalske minder fra tidligere ferier. Tag med til Vesterhavet, Umbrien, New York, Paris og Buenos Aires. Musikken er bl.a. af Schubert, Ginastera og Chick Corea. 
+Vært: Nina Ørum.</description>
+      <pubDate>Tue, 01 Aug 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000080006</itunes:order>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381826/2f784f2e39925a09ad1adb110906bcb0b5e93512170d84f7cdfcad46397ebd84.mp3" type="audio/mpeg" length="157039353" />
     </item>
     <item>
       <guid isPermaLink="false">12422381825</guid>

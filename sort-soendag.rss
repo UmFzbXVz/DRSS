@@ -3,12 +3,12 @@
   <channel>
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/sort-soendag" rel="self" type="application/rss+xml" />
     <title>Sort Søndag</title>
-    <link>https://www.dr.dk/lyd/special-radio/sort-soendag-759466897000</link>
+    <link>https://www.dr.dk/lyd/p6beat/sort-soendag-759466897000</link>
     <description>Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonser tunge toner, i selskab med værterne Anders Bøtter og Jakob Trolle. Sort Søndags trofaste "Giro 666 lyttere" byder ind med både nye og gamle numre, "Musiknyt" sørger for at holde dig helt opdateret og hver måned gennemgås et klassisk metal album i "Månedens Mesterværk".</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:53:38 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -19,7 +19,7 @@
     <image>
       <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1807d0c1a140697e11e.jpg</url>
       <title>Sort Søndag</title>
-      <link>https://www.dr.dk/lyd/special-radio/sort-soendag-759466897000</link>
+      <link>https://www.dr.dk/lyd/p6beat/sort-soendag-759466897000</link>
     </image>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1807d0c1a140697e11e.jpg" />
     <category>Music</category>
@@ -499,6 +499,25 @@ Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonse
       <itunes:duration>00:33:32</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192554/b461c4b0d7af0744b8f8c5d2a96ce1f7577071d7c88edbe96cd77e686da617ef.mp3" type="audio/mpeg" length="48296895" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16122192553</guid>
+      <link>https://www.dr.dk/lyd/p6beat/sort-soendag/sort-soendag-2021/sort-soendag-500-gojira-special-16122192553</link>
+      <title>#500: Gojira Special</title>
+      <description>Udsendelse nr. 500!!!
+I anledning af udgivelsen af Gojiras syvende studiealbum "Fortitude", tager Sort Søndag i denne jubilæums-podcast, et dybt dyk ned i det franske metalbands lyd, historie og betydning. Hør Gojiras frontmand Joe Duplantier fortælle om hvordan bandet i begyndelsen var inspireret af det danske band Düreforsøg. Bliv klogere på hvorfor trommeslager Mario Duplantier er en af verdens bedste trommeslagere. Lær de forskellige Gojira albums at kende og vær med til at headbange hjertet helt ned under gulvbrædderne, når Jakob Trolle og Anders Bøtter fejrer Gojira, som det vigtigste Europæiske metalband i dette årtusinde.
+Udsendelse nr. 500.
+Værter: Anders Bøtter og Jakob Trolle.
+Medvirkende: Joe Duplantier (Gojira), Tue Madsen (Producer, Antfarm Studios), Mikkel Christensen (trommeslager, Defecto), Kristoffer Hegelund (Sanglærer, Complete Vocal Institute), Marie Kolling (antropolog og postdoc ved Dansk Institut for Internationale Studier), Ann Lisa Richey (forsker og forfatter, CBS)
+Speak: Augusta Glahn-Abrahamsen.
+Sort Søndag er Danmarks vigtigste metal podcast. Hver uge får du 1 times tonser tunge toner, i selskab med værterne Anders Bøtter og Jakob Trolle. Sort Søndags trofaste "Giro 666 lyttere" byder ind med både nye og gamle numre, "Musiknyt" sørger for at holde dig helt opdateret og hver måned gennemgås et klassisk metal album i "Månedens Mesterværk".
+Oprindelig publiceret den 15. juni 2021</description>
+      <pubDate>Tue, 15 Jun 2021 12:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>04:48:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192553/3f5f35b99ea6a57925449f061a65e10f5d54c92a63b8d8ab516c39133e1200a0.mp3" type="audio/mpeg" length="414789557" />
     </item>
     <item>
       <guid isPermaLink="false">16121992466</guid>

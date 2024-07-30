@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:53:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -76,6 +76,20 @@ Producer og tilrettelægger: Iben Mogensen.</description>
       <itunes:duration>01:15:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353421/7d0d59fefb94c4ab1f28a0aa8a310f48fdd25356d67076b0521ead386c4832a9.mp3" type="audio/mpeg" length="108001604" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422353241</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet-2023/paa-vaerkstedet-julie-holmegaard-schade-accordeon-12422353241</link>
+      <title>Julie Holmegaard Schade, accordeon</title>
+      <description>Julie Holmegaard Schade spiller accordeon og det instrument er så tungt og krævende, at hun er nødt til at styrketræne rigtigt meget for at kunne håndtere det.
+Hvad betyder den fysiske styrketræning for Julies kreativitet? Det taler psykologiprofessor Lene Tanggaard bl.a. med Julie Holmegaard Schade om i dagens udsendelse.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 12 Jun 2023 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353241/d0fdc88c64b3403c3c1a5473448c2872105a17f106e925210fa00541d409b055.mp3" type="audio/mpeg" length="108002188" />
     </item>
   </channel>
 </rss>

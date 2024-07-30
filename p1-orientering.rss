@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:53:54 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410311</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410311</link>
+      <title>Mandag 29. jul. 2024</title>
+      <description>Hvilken situation sætter tolkegebyret danske læger i? Hvad gør falsk Kamala Harris kampagnevideo for tilliden til demokratiet? Hvor bekymrende er nye tal om iltsvind i de danske farvande?
+Dagens vært: Anne Kirstine Hermann.</description>
+      <pubDate>Mon, 29 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:24:39</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410311/282c045f7862d93188383a431c30f9dbb45e13887454286599a8a985468c0492.mp3" type="audio/mpeg" length="121904473" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410305</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410305</link>
@@ -1517,18 +1529,6 @@ Dagens værter: Ole Brink og Bjarne Steensbech.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:26:14</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410055/be3bb937cf09465c89e22bfaac0d2339b2acb2282c9d19df838842ee5571b565.mp3" type="audio/mpeg" length="124184891" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410054</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410054</link>
-      <title>Torsdag 1. feb. 2024</title>
-      <description>Hvorfor gik Ungarn pludselig med til aftale om støtte til Ukraine i dag? Hvordan kommer flere personer med handicap i arbejde? Og hvorfor ræsonnerer en bog om et lokalsamfund og en stor kemikalievirksomhed i 1950'erne i dag?   
-Dagens Værter: Ole Brink og Pernille Rudbæk.</description>
-      <pubDate>Thu, 01 Feb 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:20:16</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410054/a4727b98e2efeca571201598afb2bd97fc43bcff33f55714ee529960f3aeb609.mp3" type="audio/mpeg" length="115596034" />
     </item>
   </channel>
 </rss>

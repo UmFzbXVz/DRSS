@@ -9,7 +9,7 @@ Vært: Søren Hansen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:53:47 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 06:08:24 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Søren Hansen.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452493311</guid>
+      <link>https://www.dr.dk/lyd/p5/sommer-for-soeren/sommer-for-soeren/sommer-for-soeren-15452493311</link>
+      <title>Mandag 29. jul. 2024</title>
+      <description>To timers radiofonisk picnic, hvor du får mulighed for at ønske din favorit sommer-sang, quizze, sende et SMS-sommerpostkort eller bare læne dig tilbage og nyde den gode P5-musik du kender, tilsat historier fra det danske sommerland. Barometret står altid på sommerhygge - uanset vejret.
+Vært: Søren Hansen.</description>
+      <pubDate>Mon, 29 Jul 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452493311/b38a61af85f10acc7c70626decd67efea05cc39f7e1a0560b4ca59a216075b3a.mp3" type="audio/mpeg" length="168481593" />
+    </item>
     <item>
       <guid isPermaLink="false">15452493307</guid>
       <link>https://www.dr.dk/lyd/p5/sommer-for-soeren/sommer-for-soeren/sommer-for-soeren-15452493307</link>
