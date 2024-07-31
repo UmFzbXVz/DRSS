@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Jul 2024 06:08:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 06:05:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405312</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405312</link>
+      <title>Tirsdag 30. jul. 2024</title>
+      <description>Præludium:	Cesar Franck: Præludium i F-Dur
+Fra det G.T.:	2. Mosebog 1,1-7
+Salme: 34, vers 1-3 "Gud skal alting mage"
+Fra det N.T.:	Matthæusevangeliet 12,9-14
+Korvers: Rued Langgaard: Ophøj dig, Gud (tekst: Efter Salme 57, 108)
+Salme: 34, vers 4-6
+Postludium: Max Reger: Gud skal alting mage</description>
+      <pubDate>Tue, 30 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405312/71d505fbd7854c85650bacee0b528df36039f594fcea0f1a63053e5d0198f2a6.mp3" type="audio/mpeg" length="36001573" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405311</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405311</link>
@@ -456,24 +474,6 @@ Postludium: René Vierne: Allegretto i F-dur</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405272/3960a5c6d0abba8b6aa5dd1328427d2a163bd22f70ed51a4948c7f06b84c68e8.mp3" type="audio/mpeg" length="36001579" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405271</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405271</link>
-      <title>Mandag 1. jul. 2024</title>
-      <description>Præludium:	Emil Sjögren: Legende i g-mol
-Ord til dagen: af Origenes 
-Salme: 15 "Op, al den ting, som Gud har gjort"
-Fra det N.T.:	Matthæus 7, 24-29
-Korvers: Egil Hovland: Dets grund var lagt på klippen, (tekst: Matthæus 7, 24-25)
-Salme: 391 "Dit ord, o Gud, som duggen kvæger"
-Postludium: Carl Philipp Emanuel Bach: Hvo ikkun lader Herren råde</description>
-      <pubDate>Mon, 01 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405271/8502ccd5d91592bd95af96799bd9687d5084c929466086de7190e3f50bb143b8.mp3" type="audio/mpeg" length="36001575" />
     </item>
   </channel>
 </rss>

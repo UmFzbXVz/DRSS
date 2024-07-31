@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Jul 2024 06:08:26 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 06:05:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -450,6 +450,23 @@ Vært: Mette Greiffenberg.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481806/2fc3fd134a4c75210a9c394a66bbbc87780b0c33b15419fc4863437f54fc11d5.mp3" type="audio/mpeg" length="165795148" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381846</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/magnus-larsson/det-vi-hoerer-min-tid-i-stockholm-12422381846</link>
+      <title>Min tid i Stockholm</title>
+      <description>Jeg har boet i Stockholm, da jeg studerede på konservatoriet deroppe. I den tid blev jeg eksponeret for en masse skøn musik, både kor- og orkestermusik, musik fra Sverige og musik fra andre lande.
+Jeg tager dig igennem min musikalske konservatorieopvækst, spiller musik for dig jeg lærte at kende i Sverige og den dag i dag elsker og lytter til med fornøjelse. Og selvom jeg har et meget svensk navn, så er jeg altså ikke svensk.
+Vært: Magnus Larsson.</description>
+      <pubDate>Wed, 02 Aug 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000090006</itunes:order>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381846/48f5c1897e756d8d46827436259ce7173f84482d1815a29dee1379aad00af77a.mp3" type="audio/mpeg" length="156913798" />
     </item>
     <item>
       <guid isPermaLink="false">12422381845</guid>

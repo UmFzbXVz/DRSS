@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Jul 2024 06:08:36 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 06:05:56 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433312</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433312</link>
+      <title>Tirsdag 30. jul. 2024</title>
+      <description>Gamle fiskenet og andre fiskeredskaber flyder rundt i de danske farvande. De såkaldte spøgelsesnet skal op af vandet, mener flere dykkere og naturorganisationer. Hvorfor er den hidtidige indsats for at samle spøgelsesnet op ikke god nok? Nyt studie viser, at to uger uden skærm gavner børns mentale sundhed. Hvad viser resultaterne? Spændingerne mellem Israel og Hizbollah er på det højeste længe - og nu forlyder det, at Israel vil svare Hizbollah tilbage, så det gør ondt på libaneserne. Alligevel er de tøvende. Hvorfor er det svært for Israel at angribe Hizbollah?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Tue, 30 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:27</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433312/0d6acda55097ede863d2b6c6c66581c8e3238ecaf6378472b5a0cdf5cc8a2a6a.mp3" type="audio/mpeg" length="236812468" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433311</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433311</link>
@@ -1836,18 +1848,6 @@ Dagens værter: Morten Runge og Pernille Rudbæk.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:06</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433056/cd8402b22b3e71797efab287083582ba9224b3ef893db0136f432d6326e3e0fd.mp3" type="audio/mpeg" length="158557682" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433055</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433055</link>
-      <title>Fredag 2. feb. 2024</title>
-      <description>Nye tal viser, at landbruget har udledt endnu mere CO2 end først antaget - men hvordan? Hvorfor placeres havvindmøller I Østerild trods lokale protester? Liberal Alliance vinder skolevalget - hvad er det, de lykkes med?
-Dagens værter: Morten Runge og Søren Carlsen.</description>
-      <pubDate>Fri, 02 Feb 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:55</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433055/6be6d6107b5188dc264873a10a6ef225f6e53fef227a60b2bb0b056ee6bc5181.mp3" type="audio/mpeg" length="237485601" />
     </item>
   </channel>
 </rss>

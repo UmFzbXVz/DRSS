@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Jul 2024 06:08:26 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 06:05:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -17,14 +17,27 @@
     </itunes:owner>
     <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/tropisk-sommer.xml?format=podcast</itunes:new-feed-url>
     <image>
-      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg</url>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a8daadad66784c1e3b649b.jpg</url>
       <title>Tropisk Sommer</title>
       <link>https://www.dr.dk/lyd/p8jazz/tropisk-sommer-5589797725000</link>
     </image>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg" />
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a8daadad66784c1e3b649b.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452446312</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/tropisk-sommer/tropisk-sommer/tropisk-sommer-18452446312</link>
+      <title>Tirsdag 30. jul. 2024</title>
+      <description>Jonas Visti tager dig på en musikalsk rundrejse til fjerne og tropiske egne, når han med musikken som guide rejser langt væk fra de hjemlige himmelstrøg. Læn dig tilbage og nyd turen.
+Vært: Jonas Visti.</description>
+      <pubDate>Tue, 30 Jul 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452446312/1a6834f883700dbe1c6ca56b679e20da87feb1be5ffed106103787699e4c6215.mp3" type="audio/mpeg" length="168482120" />
+    </item>
     <item>
       <guid isPermaLink="false">18452446311</guid>
       <link>https://www.dr.dk/lyd/p8jazz/tropisk-sommer/tropisk-sommer/tropisk-sommer-18452446311</link>

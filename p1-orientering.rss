@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Jul 2024 06:08:35 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 06:00:28 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410312</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410312</link>
+      <title>Tirsdag 30. jul. 2024</title>
+      <description>Kan abortspørgsmål afgøre valget i USA? Hvorfor er der sammenstød mellem højreekstreme og militæret i Israel? Og er partybusserne et festligt indslag eller et ødelæggende og forstyrrende element i vores hovedstad?
+Dagens vært: Morten Runge.</description>
+      <pubDate>Tue, 30 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:18:20</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410312/7f02bbc92127bd5fa621186e400666434b4e36bb00b2e7c79a12b7372eb6168c.mp3" type="audio/mpeg" length="112810607" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410311</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410311</link>
@@ -1515,20 +1527,6 @@ Dagens værter er: Anne Kirstine Herman og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:20:43</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410061/c71d7f58b5b869694ac8b417fac37ef936c9b19e1d1492c3469234477e67a894.mp3" type="audio/mpeg" length="116246455" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410055</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410055</link>
-      <title>Fredag 2. feb. 2024</title>
-      <description>Første dom i udbytteskandalen udløser 6 års fængsel, hvad lagde retten vægt på da de afsagde dom?
-LA er blevet det største borgerlige parti, viser ny måling. Hvorfor melder Alex Vandopslagh sig ikke som statsministerkandidat?
-Der er langt fra lige mange mandlige og kvindelige eksperter i medierne. Sidste år var 5 ud af de 50 mest citerede eksperter i medierne er kvinder. Men hvorfor er det vigtigt med flere kvindelige eksperter i medierne? Vi tager debatten. Giver det anderledes indhold, at der er lige kønsfordeling blandt eksperter?
-Dagens værter: Ole Brink og Bjarne Steensbech.</description>
-      <pubDate>Fri, 02 Feb 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:26:14</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410055/be3bb937cf09465c89e22bfaac0d2339b2acb2282c9d19df838842ee5571b565.mp3" type="audio/mpeg" length="124184891" />
     </item>
   </channel>
 </rss>

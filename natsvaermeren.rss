@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Jul 2024 06:08:37 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 05:56:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -128,19 +128,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463274/c1677984dbfc5c6cca6832ece41b3b8ba00549a565338765d3f9588327003135.mp3" type="audio/mpeg" length="168477578" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463267</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sitrende-12422463267</link>
-      <title>Sitrende</title>
-      <description>Det syder og bobler når Debussy, og andre med følelserne uden på tøjet sætter natten i omdrejninger.
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 01 Jul 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463267/6bfe5dc346ac3f387f3ffd4fc547bd9c0b8aa280cc49498157c24faa093f93e0.mp3" type="audio/mpeg" length="168479742" />
     </item>
     <item>
       <guid isPermaLink="false">12422463156</guid>
@@ -271,6 +258,20 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363314</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-smil-i-luften-12422363314</link>
+      <title>Smil i luften</title>
+      <description>Musikken smiler og smukke strygere svæver gennem luften i aftenens Natsværmer. 
+Jeg begynder med Ode to Joy fra filmen Inside Out. 
+Vært: Peter Albrechtsen.</description>
+      <pubDate>Fri, 04 Aug 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363314/c6a243f623047c71156c5ff12f4b0cc9e8f8024c8eac06f2ced8af7811f1149b.mp3" type="audio/mpeg" length="168474596" />
     </item>
     <item>
       <guid isPermaLink="false">12422363296</guid>

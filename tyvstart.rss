@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 30 Jul 2024 06:08:36 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 06:05:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450152</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-medaljehaab-er-klar-til-at-uddele-toerre-taesk-13652450152</link>
+      <title>Medaljehåb er klar til at uddele tørre tæsk</title>
+      <description>Nikolai Terteryan debuterer onsdag ved OL, og bokseren er et af de store danske medaljehåb ved legene i Paris.
+Han drømmer om at vinde for sig selv, for Danmark, for sin afdøde far og sin boksebror, der lige så godt kunne have stået i Nikolais ringhjørne. 
+Dagens episode fokuserer også på Fie Udby Erichsen, der skal i aktion i kampen om de eftertragtede finalepladser i roning.
+Vært: Thomas Loft.</description>
+      <pubDate>Wed, 31 Jul 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:14:51</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450152/0777507c05eaba8234608966769f05990d16c3808a723424e62f7a2c75352108.mp3" type="audio/mpeg" length="21402875" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450151</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-er-ridesport-snart-fortid-ved-ol-13652450151</link>
@@ -2141,21 +2156,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:38</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450022/34922798aa8df921febaa4dbf9610e4bf2751c854277cdb7714471527a841c15.mp3" type="audio/mpeg" length="23960892" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450021</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-tennissportens-nye-kronprins-13652450021</link>
-      <title>Tennissportens nye kronprins</title>
-      <description>Italienske Jannik Sinner vandt søndag sin første grand slam-titel ved Australian Open.
-Det 22-årige stjerneskud er seneste mand i rækken af unge stjerner, der bliver spået at overtage tennisherredømmet efter legender som Rafael Nadal, Roger Federer og Novak Djokovic. 
-Men kan italienerens stille sind sende ham helt til tops? Det svarer tennisreporter Kresten Mosbæk på i dagens afsnit.
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 30 Jan 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:52</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450021/d455c816d3dfa1f517b10b3eafcc69a0b8c77e0b0e7967079e4e54477271104f.mp3" type="audio/mpeg" length="24310522" />
     </item>
   </channel>
 </rss>
