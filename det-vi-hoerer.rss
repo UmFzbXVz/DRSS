@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 31 Jul 2024 06:05:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:42:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,22 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422481886</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-cembalo-jazz-og-carl-nielsen-12422481886</link>
+      <title>Cembalo, jazz - og Carl Nielsen</title>
+      <description>Visse musikere kan vække din nysgerrighed, så du bare må lytte, nærmest uanset hvad de spiller. En polsk cembalist spiller Ligeti. En engelsk organist spiller jazz på klaver. Dertil musik af danske komponist: Rued Langgaard, Pelle Gudmundsen-Holmgreen og Carl Nielsen. Lyt med, når jeg præsenterer noget af den musik jeg selv lytter til når jeg har fri.
+Vært: Max Fage-Pedersen.</description>
+      <pubDate>Wed, 31 Jul 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000190006</itunes:order>
+      <itunes:season>19</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481886/6f812554624e818f60dd56608bead8580e7e1fa6c5facd6efa5d809a147b3741.mp3" type="audio/mpeg" length="165602186" />
+    </item>
     <item>
       <guid isPermaLink="false">12422481885</guid>
       <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/max-fage-pedersen/det-vi-hoerer-kosmisk-kaerlighed-og-roedder-12422481885</link>

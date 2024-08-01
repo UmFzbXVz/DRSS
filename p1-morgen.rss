@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 31 Jul 2024 06:05:56 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:42:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,29 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433314</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433314</link>
+      <title>Torsdag 1. aug. 2024</title>
+      <description>- med radioavis, aktualitet, baggrund og debat.</description>
+      <pubDate>Thu, 01 Aug 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433314/99718db1259c65bc8af52d025b430cd364f055606f09c0fbe95b120de0dcfb34.mp3" type="audio/mpeg" length="165601377" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11802433313</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433313</link>
+      <title>Onsdag 31. jul. 2024</title>
+      <description>Hvad er konsekvenserne af Israels gengældelsesangreb på Hizbollah? Hvorfor skal ordningen gøres permanent, når den ikke bliver brugt? Hvad er de større linjer i kølevandet på angrebet og drabet af Hamas' leder.
+Vært: Jan Falkentoft.</description>
+      <pubDate>Wed, 31 Jul 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:49</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433313/8d3a3342f40ce684fc8194b240e69b1ceb43e870e69d2e2953cacd98138715d3.mp3" type="audio/mpeg" length="237348118" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433312</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433312</link>
@@ -1836,18 +1859,6 @@ Dagens værter: Ole Brink og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:59</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433061/44e595bb8cb1a9c540d11d8f7dae7a9e3ccbbe5214281b68f386b1e3baeb8e9a.mp3" type="audio/mpeg" length="237593526" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433056</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433056</link>
-      <title>Lørdag 3. feb. 2024</title>
-      <description>Kommer amerikanske angreb i Syrien og Irak til at eskalere situationen i Mellemøsten yderligere? Vil skatteminister Jeppe Bruus lytte til ny anbefaling og forbyde betting-reklamer? Og hvorfor skal vi turde skabe dårlig stemming?
-Dagens værter: Morten Runge og Pernille Rudbæk.</description>
-      <pubDate>Sat, 03 Feb 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:50:06</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433056/cd8402b22b3e71797efab287083582ba9224b3ef893db0136f432d6326e3e0fd.mp3" type="audio/mpeg" length="158557682" />
     </item>
   </channel>
 </rss>

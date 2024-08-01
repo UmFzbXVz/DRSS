@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 31 Jul 2024 05:56:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:42:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463313</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-smurte-haengsler-12422463313</link>
+      <title>Smurte hængsler</title>
+      <description>Dørene er slået op uden knirkende hængsler, uden rasen, men som en kærlig velkomst ind i Natsværmerens univers, der holder på hemmeligheder, står ved sine længsler, og altid sætter musikken op på talerstolen som den eneste i verden man for alvor kan stole på.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 01 Aug 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463313/d3300b2a507bd24a0d1bd3c258c8518c7cab5a839f1e72bf880b624288c22d51.mp3" type="audio/mpeg" length="168481038" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463306</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-naar-moerket-falder-12422463306</link>
@@ -154,19 +167,6 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463151/f810be41348fe059c4081b50ac64ffef4e3248f348391b751035dc211e15324e.mp3" type="audio/mpeg" length="168480850" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463146</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-radioen-gloeder-12422463146</link>
-      <title>Radioen gløder</title>
-      <description>En radio sender signaler ud i rummet, ud i verden til dig der fanger lyden, og lytter med. Radioen syr usynlige forbindelser mellem musikken og dig, og et usynligt fælles lytterum opstår af nattesjæle på musikalsk vandring.
-Vært: Tina Rømer.</description>
-      <pubDate>Sun, 07 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463146/baa50e5e3896d91296f721e4787b6aa354ce139c1a90e4a37c3fa58b7299e170.mp3" type="audio/mpeg" length="168481609" />
     </item>
     <item>
       <guid isPermaLink="false">12422463143</guid>

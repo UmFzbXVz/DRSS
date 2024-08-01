@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 31 Jul 2024 06:05:48 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:42:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450153</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-anders-lind-for-the-win-13652450153</link>
+      <title>Anders Lind for the win</title>
+      <description>Danmark har fået en ny darling her under OL. Navnet er Anders Lind, og han er bordtennisspiller. Endestationen blev dog ottendedelsfinalerne, men han har bevist, at bare fordi man er anderledes og drikker energidrik og spiser pizza, at så kan man sagtens danse med de store drenge. 
+Det er dagens afsnit af Tyvstart, hvor vi også varmer op til svømmefinalen i 200 meter butterfly, hvor Helena Rosendahl Bach er blandt de otte finalister. 
+Vært: Rikke Smed.</description>
+      <pubDate>Thu, 01 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:18:28</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450153/a8431102771cc550687ea0cec0eeb469e44f2e2ef65228b907cc31931b0eb3f0.mp3" type="audio/mpeg" length="26594362" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450152</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-medaljehaab-er-klar-til-at-uddele-toerre-taesk-13652450152</link>
@@ -2144,18 +2158,19 @@ Vært: Emil Schiønning.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450023/88613bd86f0a17536bdac0b19a0a33658c8f86a9ba877c164f78ae216cfacd6e.mp3" type="audio/mpeg" length="27154812" />
     </item>
     <item>
-      <guid isPermaLink="false">13652450022</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-olympisk-onsdag-med-danmarks-ol-chef-13652450022</link>
-      <title>Olympisk Onsdag med Danmarks OL-chef</title>
-      <description>Der er 177 dage til OL i Paris. Mens atleterne forhåbentlig sørger for medaljer til Danmark, er der et helt hold, der sikrer de bedst mulige forudsætninger for toppræstationer i rødt og hvidt. 
-Søren Simonsen er dansk Chef de Mission, og hans vigtigste opgave er, at der er styr på alt det, atleterne ikke selv kan påvirke. I dagens afsnit tager Tyvstart hul på 'Olympisk Onsdag', der gør os alle klar til sommerens lege i Paris.
+      <guid isPermaLink="false">13652450016</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-alle-elsker-emil-13652450016</link>
+      <title>Alle elsker Emil</title>
+      <description>Der blev råbt efter én spiller, da Danmark slog Norge, og kampens spiller skulle kåres.
+Emil Nielsen har fået sit helt store landsholdsgennembrud ved EM i Tyskland, og en stribe toppræstationer har sat spørgsmålstegn ved, hvem der egentlig er den bedste danske keeper.
+I dagens Tyvstart fortæller Barcelona-keeperen, hvordan det har været at vente på sit gennembrud i rødt og hvidt.
 Vært: Emil Schiønning.</description>
-      <pubDate>Wed, 31 Jan 2024 05:00:00 +0100</pubDate>
+      <pubDate>Tue, 23 Jan 2024 05:00:00 +0100</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:38</itunes:duration>
+      <itunes:duration>00:16:49</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450022/34922798aa8df921febaa4dbf9610e4bf2751c854277cdb7714471527a841c15.mp3" type="audio/mpeg" length="23960892" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450016/58c2be6c916125f876092193aac622fa8b35883c6cf64f220afd4e9e6d1415e0.mp3" type="audio/mpeg" length="24236789" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 31 Jul 2024 06:05:59 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:42:39 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,42 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405314</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405314</link>
+      <title>Torsdag 1. aug. 2024</title>
+      <description>Præludium:	Johann Gottfried Walther: Nu velan, vær frisk til mode
+Fra det G.T.:	2.Mosebog 1, 15-20
+Salme: 749 "I østen stiger solen op"
+Fra det N.T.:	Matthæusevangeliet 12, 22-29
+Korvers: Rued Langgaard: Ophøj dig, Gud (tekst: Efter Salme 57, 108)
+Salme: 166, vers 1-2 "Så skal dog Satans rige"
+Postludium: Johann Gottfried Walther: Allegro F-dur efter Tomaso Albinoni</description>
+      <pubDate>Thu, 01 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405314/170ed81bdac43b55808c3002782e97a7fee08d32dc96a0e7124a4d2025bbdf9b.mp3" type="audio/mpeg" length="36001581" />
+    </item>
+    <item>
+      <guid isPermaLink="false">11042405313</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405313</link>
+      <title>Onsdag 31. jul. 2024</title>
+      <description>Præludium:	Johann Sebastian Bach: Herre Jesus, vi er her
+Fra det G.T.:	2. Mosebog 1,8-14
+Salme: 740 "Nat, søvn og slum og seng, farvel!"
+Fra det N.T.:	Matthæusevangeliet 12, 15-21
+Korvers: Rued Langgaard: Ophøj dig, Gud (tekst: Efter Salme 57, 108)
+Salme: 54, vers 1-6 "Hvad mener I om Kristus"
+Postludium: Rued Langgaard: Lento i C-Dur</description>
+      <pubDate>Wed, 31 Jul 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405313/6774ead232ab44b82e6ee0f21ce24aa94814cfc7172a547562881b3a31dc7d66.mp3" type="audio/mpeg" length="36001575" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405312</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405312</link>
@@ -456,24 +492,6 @@ Postludium: Felix Mendelssohn:  fra "Lieder ohne Worte", Andante espressivo, opu
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405273/943686b0c8ccc7cae18077723e31837ff331c114fbf60c90981fff4cb7791bd0.mp3" type="audio/mpeg" length="36001575" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405272</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405272</link>
-      <title>Tirsdag 2. jul. 2024</title>
-      <description>Præludium:	Jesper Madsen: Nu vågne alle Guds fugle små 
-Fra det G.T.:	Salme 40, 2-6 &amp; 17-18
-Salme: 748 "Nu vågne alle Guds fugle små"
-Fra det N.T.:	Matthæus 8, 1-4
-Korvers: Egil Hovland: Dets grund var lagt på klippen, (tekst: Matthæus 7, 24-25)
-Salme: 398 "Dybe, stille, stærke, milde"
-Postludium: René Vierne: Allegretto i F-dur</description>
-      <pubDate>Tue, 02 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405272/3960a5c6d0abba8b6aa5dd1328427d2a163bd22f70ed51a4948c7f06b84c68e8.mp3" type="audio/mpeg" length="36001579" />
     </item>
   </channel>
 </rss>

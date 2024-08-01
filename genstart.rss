@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 31 Jul 2024 05:56:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:42:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460174</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Når hvalsang drukner</title>
+      <description>Rejer der klikker, sild der prutter og hvalen med sin sang. Dybt nede under havets overflade, hvor intet lys slipper igennem, åbenbarer sig en verden af lyd. Hvalernes røst kan høres hundredevis af kilometer væk og er essentiel for artens overlevelse. Men de får sværere og sværere ved at høre hinanden. Deres vibrationer drukner i voksende støj fra tankskibe, krydstogter og i vores søgen efter olie. Biolog og forsker i stemmeproduktion, Coen Elemans, fortæller i dagens Genstart om hvalens forunderlige sang.
+Vært: Simon Stefanski 
+Program publiceret i DR Lyd d. 29/7.</description>
+      <pubDate>Thu, 01 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460174/e83cea7b84cb808366a12db4142508f743b4a21982d8ea0f9389abbe83930065.mp3" type="audio/mpeg" length="36340875" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460173</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

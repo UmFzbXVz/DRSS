@@ -10,7 +10,7 @@ Produceret for DR af Munck Studios.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 31 Jul 2024 06:05:54 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 09:42:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,23 @@ Produceret for DR af Munck Studios.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494309</guid>
+      <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-mehmet-shehus-doed-16122494309</link>
+      <title>Mehmet Shehus død</title>
+      <description>Kort før julen 1981 bliver Albaniens statsminister fundet død i sit soveværelse. Den officielle forklaring er selvmord. Men døde han for egen hånd? Eller blev han myrdet? Shehu blev senere udråbt til at være en forræder af den albanske kommunisme, som han havde tjent hele sit voksne liv. Men hvem var han? Og hvorfor måtte han dø? Og hvorfor er statsministerjobbet i Albanien et af de farligste i Europa?
+
+Værter: Simon Emil Ammitzbøll-Bille og Kristoffer Lind.
+Klip: Mathias Nicolai Pedersen.
+Redaktører: Rune Born Schwartz og Cecilie Egholm Tonnesen.
+Produceret for DR af Munck Studios.</description>
+      <pubDate>Thu, 01 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494309/0240f1b0483936e78d2f0dd69f99627e491ebc99262adbf9978a119789fc30fc.mp3" type="audio/mpeg" length="82418559" />
+    </item>
     <item>
       <guid isPermaLink="false">16122494308</guid>
       <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-skuddrabet-paa-zoran-djindjic-16122494308</link>
