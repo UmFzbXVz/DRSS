@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 01 Aug 2024 09:42:39 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 05:44:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463314</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-haengekoejen-12422463314</link>
+      <title>Hængekøjen</title>
+      <description>Slæng dig i en mental hængekøje eller den køje du er så heldig at have hængende mellem de gamle træer bagerst i haven. Så ligger du der og kigger op på himlen gennem flimrende løv og umærkeligt falder du hen, vugget af vinden. Jeg sætter musikken til den vægtløse tilstand.
+Vært: Tina Rømer.</description>
+      <pubDate>Fri, 02 Aug 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463314/03b3eb4a8f9b898b9f4d5877beaaf77c4e93fd5463344dcfe824e64c66d3d41e.mp3" type="audio/mpeg" length="168471250" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463313</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-smurte-haengsler-12422463313</link>
@@ -376,19 +389,6 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363251/3b26ccf060a57da221d3359c30047ef9b516c734cbefe968d6bf151bbd81a8a4.mp3" type="audio/mpeg" length="168482051" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363246</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-flod-12422363246</link>
-      <title>Flod</title>
-      <description>Floder kan tørre ud, men flyder selv med det mindste vand. I tusinder af år har mennesker søgt mod dens bred for at finde trøst, blive transporteret, eller slukke tørsten. Aftens komponister fabulerer alle over floden på hver deres måde.
-Vært: Minna Grooss.</description>
-      <pubDate>Sun, 18 Jun 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363246/1af063da7aada1ec8e729d3a1cdf73f99a0c22f1702d5811ada12b3dfe1babe2.mp3" type="audio/mpeg" length="168476417" />
     </item>
   </channel>
 </rss>

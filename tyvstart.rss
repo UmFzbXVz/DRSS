@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 01 Aug 2024 09:42:39 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 05:44:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450154</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-plan-b-for-mads-p-13652450154</link>
+      <title>Plan B for Mads P.</title>
+      <description>OL-linjeløbet går i gang tidligt lørdag og derfor får du allerede i dag et afsnit om det.
+Danmark har et af de bedste hold på den 272 kilometer lange rute, hvor Mads Pedersen er det danske medaljehåb. 
+Men på grund af styrtet i årets Tour de France har forberedelserne ikke været optimale.
+Har Danmark derfor en plan B, hvis Mads Pedersen ikke har diamanter i benene?
+Det vender vi i dagens afsnit af Tyvstart, hvor vi også skal forbi atletik, der for alvor begynder ved legene i Paris i dag. 
+Vært: Rikke Smed.</description>
+      <pubDate>Fri, 02 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450154/bdd5b82ba722a39360f0924d0e82150ce693be61682652bd904dc7a79edf9eae.mp3" type="audio/mpeg" length="27574715" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450153</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-anders-lind-for-the-win-13652450153</link>
@@ -2142,20 +2159,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450024/1aaabba42fffb4b2bcb967e090b88961d7f592b8bc2a021d323f7fe30e43e5f8.mp3" type="audio/mpeg" length="23636600" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450023</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ender-vm-regnbuen-i-flade-danmark-13652450023</link>
-      <title>Ender VM-regnbuen i flade Danmark?</title>
-      <description>Danmark har budt på VM i cykling. Det er godt nok først i 2029, og afgørelsen falder først i september. Alligevel er der god grund til at drømme, for et VM-løb er helt særligt, og Danmark kan bidrage med masser af tilskuere og en sand cykelfest.
-Til gengæld er der ikke mange højdemeter, og spørgsmålet er, om det er et problem? Det svarer landstræner Anders Lund på i dagens afsnit.
-Vært: Emil Schiønning.</description>
-      <pubDate>Thu, 01 Feb 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:51</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450023/88613bd86f0a17536bdac0b19a0a33658c8f86a9ba877c164f78ae216cfacd6e.mp3" type="audio/mpeg" length="27154812" />
     </item>
     <item>
       <guid isPermaLink="false">13652450016</guid>
