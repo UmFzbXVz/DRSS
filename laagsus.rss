@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 02 Aug 2024 05:44:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 07:44:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -254,18 +254,6 @@ Med højt humør og højt tempo skal vi fejre weekendens ankomst. Der bliver qui
       <itunes:duration>02:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122433065/0b47694452a76b7cfa847479fb95375d9d93456b0aebb678f63679f1e6497e7e.mp3" type="audio/mpeg" length="172994384" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122433055</guid>
-      <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-16122433055</link>
-      <title>Fredag 2. feb. 2024</title>
-      <description>Alt er Lågsus på P3, når Pelle Peter Jencel &amp; Nicholas Kawamura fyrer op for din eftermiddag.</description>
-      <pubDate>Fri, 02 Feb 2024 16:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122433055/1967ef046ccba5e737ec8095ed2809dfbf00d309fef6ccd292e9240d07cfde36.mp3" type="audio/mpeg" length="172994384" />
     </item>
   </channel>
 </rss>

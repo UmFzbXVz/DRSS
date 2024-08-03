@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 02 Aug 2024 05:44:28 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 07:44:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332425315</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-vink-nu-tilbage-13332425315</link>
+      <title>VINK NU TILBAGE!</title>
+      <description>Vi er på SMUKFEST i næste uge, så derfor kan den drøm, du sender til os, både omhandle festivalen, men alle normale drømme er selvfølgelig stadig velkomne. Du skal bare sende den til os på p3drommer@dr.dk.
+I dag endte som en Charlotte special.
+Den første Charlotte ringede. fordi hun ikke kunne finde en sjov bil til at transportere hende til hendes bryllup.
+Den anden Charlotte er guide på kanalrundfarten i København og har forsøgt at vinke omkring 200 gange i år, når hun sejler forbi Kongeskibet Dannebrog, men har aldrig fået et vink tilbage fra matroserne. Er det noget vi kan skaffe?
+Vært: Nicholas Schrøder.</description>
+      <pubDate>Fri, 02 Aug 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425315/ba12198e0021f7b8df33773fd13d7a7b2a2607c217c80508fb4b9c32814113d1.mp3" type="audio/mpeg" length="168481603" />
+    </item>
     <item>
       <guid isPermaLink="false">13332425314</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-hvorfor-er-der-ikke-nogen-der-vil-have-min-trold-13332425314</link>
@@ -67,21 +83,6 @@ Vært: Nicholas Schrøder.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425312/3556a6339f067974162c6c53fa2cd49c3bce0fd30c1bba908f85daf63a5ac1bf.mp3" type="audio/mpeg" length="168481603" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425311</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-en-autocamper-til-camilla-13332425311</link>
-      <title>En autocamper til Camilla</title>
-      <description>Drømmeholdet er tilbage, og vi er klar til at opfylde din drøm - men hvorfor har du ikke sendt os din drøm endnu? Send den til os på p3drommer@dr.dk
-Camilla ringede til os, fordi hun gerne vil ud af hamsterhjulet og bo i en autocamper. Men hun ved jo ikke, om det er noget for hende, så hun vil gerne prøve at bo i en camper i en uge for lige at prøve det.
-Men kan Drømmeholdet hjælpe?
-Vært: Nicholas Schrøder.</description>
-      <pubDate>Mon, 29 Jul 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425311/7bd67683374a0225fe30d7971b480cb67817b97143544ba18c8463b9c5513917.mp3" type="audio/mpeg" length="168481603" />
     </item>
   </channel>
 </rss>

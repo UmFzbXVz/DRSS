@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 02 Aug 2024 05:44:51 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 07:44:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -271,6 +271,19 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363316</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-tankernes-dans-12422363316</link>
+      <title>Tankernes dans</title>
+      <description>Stille, inderligt, sorgfuldt og lidt vildt. Mikis Theodorakis, Bizet, Iver Kleive og Leonard Cohen byder dig op til dans 
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 06 Aug 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363316/905aba7154712768d268bbadf9e973775d7e6e55b9a666f050d9489e9d8c1225.mp3" type="audio/mpeg" length="168478609" />
     </item>
     <item>
       <guid isPermaLink="false">12422363314</guid>

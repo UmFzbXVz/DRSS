@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 02 Aug 2024 05:44:32 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 07:44:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,11 +25,23 @@
     <category>News</category>
     <itunes:category text="News" />
     <item>
+      <guid isPermaLink="false">11802410315</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410315</link>
+      <title>Fredag 2. aug. 2024</title>
+      <description>Hvorfor hyrer danske bander unge svenskere til at begå voldelige kriminalitet i Danmark? Skal kvinder med et Y-kromosom kunne bokse til OL? Og hvordan har russisk indflydelse påvirket Storbritannien i forbindelse med knivangrebet i Southport?  
+Dagens vært: Morten Runge.</description>
+      <pubDate>Fri, 02 Aug 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:18:37</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410315/58e3bfbd361bef65f8953ba5ce065b22c14cc1fa3ce22e8ffe02eef45fd93ae5.mp3" type="audio/mpeg" length="113220726" />
+    </item>
+    <item>
       <guid isPermaLink="false">11802410314</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410314</link>
       <title>Torsdag 1. aug. 2024</title>
       <description>Hvad betyder det for valgkampen at Harris race bliver et emne? Tillid til hinanden er essentielt for at komme sig efter fællestrauma. Hvordan kommer man videre fra så voldsomme trauma? Og er gidselforhandlingerne mellem Israel og Hamas lagt i graven efter Hamas' chefforhandler er blevet dræbt?
-Vært: Morten Runge.</description>
+Dagens vært: Morten Runge.</description>
       <pubDate>Thu, 01 Aug 2024 16:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -296,7 +308,7 @@ Dagens vært: Ole Brink.</description>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410273</link>
       <title>Onsdag 3. jul. 2024</title>
       <description>Trænger pensionssytemet til ændringer? Trækker Biden sig inden det amerikanske præsidentvalg? Og hvor vigtige er ugens europæiske valg?
-Dagens Vært: Ole Brink.</description>
+Dagens vært: Ole Brink.</description>
       <pubDate>Wed, 03 Jul 2024 16:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -1539,18 +1551,6 @@ Dagens værter: Anne Kirstine Hermann og Morten Runge.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:27:29</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410062/e3a67b443626bd56b684c1751bcb33545a4fa45284a695f3175d7f4d680b4133.mp3" type="audio/mpeg" length="125988802" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410061</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410061</link>
-      <title>Mandag 5. feb. 2024</title>
-      <description>Hvem har ansvaret for, at unge ikke får forskruede kropsidealer? Hvorfor er det udviklernes ansvar, at unge ikke skal få forskruede kropsidealer? Og hvorfor er Grinsted-borgere så nervøse for aftenens rapport?
-Dagens værter er: Anne Kirstine Herman og Morten Runge.</description>
-      <pubDate>Mon, 05 Feb 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:20:43</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410061/c71d7f58b5b869694ac8b417fac37ef936c9b19e1d1492c3469234477e67a894.mp3" type="audio/mpeg" length="116246455" />
     </item>
   </channel>
 </rss>

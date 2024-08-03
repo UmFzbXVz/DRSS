@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 02 Aug 2024 05:44:44 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 07:44:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405315</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405315</link>
+      <title>Fredag 2. aug. 2024</title>
+      <description>Præludium:	Fabrizio Fontana: Ricercare e-mol
+Fra det G.T.:	2. Mosebog 1, 22 - 2, 4
+Salme: 366 "Nogen må våge i verdens nat"
+Fra det N.T.:	Matthæusevangeliet 12, 33-37
+Korvers: Rued Langgaard: Ophøj dig, Gud (tekst: Efter Salme 57, 108)
+Salme: 442 "Enhver, som tror og bliver døbt"
+Postludium: Nicolas Jacques Lemmens: Fanfare D-dur</description>
+      <pubDate>Fri, 02 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405315/ee2a9b4d3129ef15ba2ecf42fe8ac258b695cb700b94105f694f8930e81cde71.mp3" type="audio/mpeg" length="36001575" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405314</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405314</link>
@@ -456,24 +474,6 @@ Postludium: Sigfrid Karg-Elert: Jeg vil din pris udsjunge</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405275/e1b6680fcea6636767f9c74e940baab416a7c3330c39b6e02a53bb33f5be252f.mp3" type="audio/mpeg" length="36001579" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405274</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405274</link>
-      <title>Torsdag 4. jul. 2024</title>
-      <description>Præludium:	Gordon Young: Morning Hymn
-Fra det G.T.:	Salme 62, 2-9
-Salme: 30 "Op alle, som på jorden bor"
-Fra det N.T.:	Matthæus 8, 14-22
-Korvers: Egil Hovland: Dets grund var lagt på klippen, (tekst: Matthæus 7, 24-25)
-Salme: 163 "Fuglen har rede, og ræven har grav"
-Postludium: Aaron Copland: Fanfare for the Common Man (arr. Jørgen Lauritsen)</description>
-      <pubDate>Thu, 04 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405274/b71009caf1c8c2cb9d88696a25eb29be94976ec611c2441ce191df31e6fa9afd.mp3" type="audio/mpeg" length="36001577" />
     </item>
   </channel>
 </rss>

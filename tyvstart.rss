@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 02 Aug 2024 05:44:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 07:44:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450254</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-lever-kapgang-paa-en-loegn-13652450254</link>
+      <title>Lever kapgang på en løgn?</title>
+      <description>I torsdags var kapgængerne i aktion ved OL. Siden er reglerne i disciplinen blevet debatteret heftigt, fordi mange bevæger sig i en gråzone.
+I dagens afsnit af Tyvstart har vi danmarksmesteren Claus Heckmann til at udlægge teksten, men vi skal også et smut forbi dressur, da danskerne har mulighed for at nappe de første medaljer i dag. 
+Vært: Rikke Smed.</description>
+      <pubDate>Sat, 03 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:18</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450254/1a07b7511a81313b18e22c1d8b5b2b6ef86c7298db8c93140a4e2a060c605487.mp3" type="audio/mpeg" length="27802237" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450154</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-plan-b-for-mads-p-13652450154</link>
@@ -2145,20 +2159,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450025/c9a6fa08f16ca7fd644c74695114c969640569bfd2de037ff655b477f7818c72.mp3" type="audio/mpeg" length="26007996" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450024</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-det-perfekte-punktum-i-paris-13652450024</link>
-      <title>Det perfekte punktum i Paris</title>
-      <description>Lisa Kjær Gjessing er som den første dansker udtaget til de paralympiske lege i Paris.
-Taekwondo-kæmperen rejser til Frankrig som forsvarende guldvinder, og samtidig har hun besluttet, at karrieren stopper efter legene. Men hvorfor skal det slutte, når hun stadig er med i verdenstoppen? Det svarer hun på i dagens afsnit.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 02 Feb 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450024/1aaabba42fffb4b2bcb967e090b88961d7f592b8bc2a021d323f7fe30e43e5f8.mp3" type="audio/mpeg" length="23636600" />
     </item>
     <item>
       <guid isPermaLink="false">13652450016</guid>
