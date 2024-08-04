@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 05:57:12 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 14:54:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -163,6 +163,23 @@ Værter: Maja Rosager, Nanna Nørregaard og David Mandel.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652409313/61f6d72a2574cfe29dcc477ec554e6e877af13faef15adbf5230f8804d7f081e.mp3" type="audio/mpeg" length="341281571" />
     </item>
     <item>
+      <guid isPermaLink="false">13652408317</guid>
+      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/hall-of-fame-paa-p4/hall-of-fame-paa-p4-13652408317</link>
+      <title>Hall of Fame på P4</title>
+      <description>I Hall of Fame med Lotte Friis og Mikkel Bagger træder du ind i det fineste OL-selskab. Her møder du hver dag nogle af Danmarks største OL-atleter, får hemmelighederne fra atleternes liv i den Olympiske By, og vi indlemmer et nyt medlem i vores egen Hall of Fame.
+Vært: Lotte Friis.</description>
+      <pubDate>Sun, 04 Aug 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000020009</itunes:order>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22966df24f14c3ddf5bd4.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652408317/d86a2b4c9e922d5a70fbd86f639f665a78ee4c12ad471289dc2efb81649f9180.mp3" type="audio/mpeg" length="151202176" />
+    </item>
+    <item>
       <guid isPermaLink="false">13652408316</guid>
       <link>https://www.dr.dk/lyd/p4/ol-paa-p4/hall-of-fame-paa-p4/hall-of-fame-paa-p4-13652408316</link>
       <title>Hall of Fame på P4</title>
@@ -229,6 +246,23 @@ Værter: Lotte Friis og Mikkel Bagger.</description>
       <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22966df24f14c3ddf5bd4.jpg" />
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652408313/44c11e458f69603960081df5a72752b1ec8e95ccd1d02a06cbe2f7b9d9f3e7dc.mp3" type="audio/mpeg" length="151201600" />
+    </item>
+    <item>
+      <guid isPermaLink="false">13652407317</guid>
+      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/live-fra-paris/live-fra-paris-13652407317</link>
+      <title>Live fra Paris</title>
+      <description>Alle har ret til et fedt OL, og Louise Deruginsky og Thomas Loft guider dig derfor gennem de store og små OL-øjeblikke og inviterer både dig og atleterne med op på P4s tagterrasse i byernes by.
+Værter: Louise Deruginsky og Thomas Loft.</description>
+      <pubDate>Sun, 04 Aug 2024 09:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010010</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a2293edf24f14c3ddf5b08.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652407317/7d0c85396c036d2b739fdba7e77e964c989f4f516df0428ade7e387d73ac2ccd.mp3" type="audio/mpeg" length="252002151" />
     </item>
     <item>
       <guid isPermaLink="false">13652407316</guid>
