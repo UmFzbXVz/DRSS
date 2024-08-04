@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 03 Aug 2024 07:44:57 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 05:57:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463316</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nattens-ubekendte-12422463316</link>
+      <title>Nattens ubekendte</title>
+      <description>Der er højt til loftet. Du behøver ikke at dukke dig. Natsværmeren inviterer dig indenfor som du er, uden dresscode, uden tilstandsrapport, uden mentalt pas.
+Vært: Minna Grooss.</description>
+      <pubDate>Sun, 04 Aug 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463316/d036de736633d6de63ca2c0a09e93b16c9c39b515609365eca8327f5e2915bb4.mp3" type="audio/mpeg" length="168466554" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463314</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-haengekoejen-12422463314</link>
@@ -141,19 +154,6 @@ Vært: Tina Rømer.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463276/4be74b0bfa111ab115966a3d59e82604f73751cb84909e7e96433c97ce114dd3.mp3" type="audio/mpeg" length="168478687" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463274</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-der-paa-baenken-12422463274</link>
-      <title>Der på bænken</title>
-      <description>Skal vi tage til Kirgisistan, spørger jeg dig mens du er i gang med at samle gamle tørre grene op. Hvor ligger det, spørger du? Oppe ved himlens tag, svare jeg. Du siger du lige skal flette et hegn af de tørre grene først, så må vi se. Julian Beck er død, siger jeg. Der er ingen tid at spilde. Chopin er også død siger ud, men hans musik spiller stadigvæk. Vi er i det mindste i bevægelse fra naturens hånd, tænker jeg og tager endnu en tår af aftenen.
-Vært: Minna Grooss.</description>
-      <pubDate>Fri, 05 Jul 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463274/c1677984dbfc5c6cca6832ece41b3b8ba00549a565338765d3f9588327003135.mp3" type="audio/mpeg" length="168477578" />
     </item>
     <item>
       <guid isPermaLink="false">12422463156</guid>

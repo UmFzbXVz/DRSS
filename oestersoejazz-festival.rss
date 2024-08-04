@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 03 Aug 2024 07:44:35 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 05:56:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452445316</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/oestersoejazz-festival/oestersoejazz-festival/oestersoejazz-festival-18452445316</link>
+      <title>Lørdag 3. aug. 2024</title>
+      <description>P8 er taget til Danmarks østligste jazzfestival. Vi sender nemlig live fra ØstersøJazz Festival 2024 fra Nexø på Bornholm fra den 2. - 4. august.
+Værter: Josephine Philip og Frederik Korfix.</description>
+      <pubDate>Sat, 03 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452445316/35d3026dd4ae18c7c85ff1cf4b3b7887a2c026423c2a2cdc3cd696ceba5d87fe.mp3" type="audio/mpeg" length="168482115" />
+    </item>
     <item>
       <guid isPermaLink="false">18452445315</guid>
       <link>https://www.dr.dk/lyd/p8jazz/oestersoejazz-festival/oestersoejazz-festival/oestersoejazz-festival-18452445315</link>

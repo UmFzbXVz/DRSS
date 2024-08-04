@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 03 Aug 2024 07:44:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 05:56:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405316</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405316</link>
+      <title>Lørdag 3. aug. 2024</title>
+      <description>Præludium: Johann Sebastian Bach: In dich hab' ich gehoffet, Herr, BWV 640
+Davidssalme: 66, 16-20
+Salme: 1 "Guds menighed, syng for vor skaber i løn"
+Fra det N.T.:	Hebræerbrevet 3, 12-14
+Trosbekendelsen	
+Salme: 294 "Talsmand som på jorderige"
+Postludium: Johann Pachelbel: Til dig alene, Herre Krist</description>
+      <pubDate>Sat, 03 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405316/dfe69e16ae4aacf7558be83bbafb28e77d41b3311603890b028ba3eee71c2b86.mp3" type="audio/mpeg" length="36001579" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405315</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405315</link>
@@ -456,24 +474,6 @@ Postludium: Christian Præstholm: Du Herre krist, min frelser est</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405276/703f5d1a67c9cb247d4da469996ecd4545e1aab93fbf493b7e08b188c696cc8f.mp3" type="audio/mpeg" length="36001574" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405275</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405275</link>
-      <title>Fredag 5. jul. 2024</title>
-      <description>Præludium:	Johann Christoph Bach: Jeg vil din pris udsjunge
-Fra det G.T.:	Salme 62,10-13a
-Salme: 149 "Hvad er det for en snekke"
-Fra det N.T.:	Matthæus 8, 23-27
-Korvers: Egil Hovland: Dets grund var lagt på klippen, (tekst: Matthæus 7, 24-25)
-Salme: 576, vers 1-3 "O Jesus, troens dyre skat"
-Postludium: Sigfrid Karg-Elert: Jeg vil din pris udsjunge</description>
-      <pubDate>Fri, 05 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405275/e1b6680fcea6636767f9c74e940baab416a7c3330c39b6e02a53bb33f5be252f.mp3" type="audio/mpeg" length="36001579" />
     </item>
   </channel>
 </rss>

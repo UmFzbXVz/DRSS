@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 03 Aug 2024 07:44:37 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 05:56:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -36,18 +36,6 @@
       <itunes:duration>02:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421276/8567f9d78fb9383a8b7b68de05e407447470ce44ef53472a053fd533abccae0a.mp3" type="audio/mpeg" length="172801397" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332421275</guid>
-      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-roskile-festival-13332421275</link>
-      <title>På Roskile Festival</title>
-      <description>Værter: Nynne Givskov og Kasper Reippurt.</description>
-      <pubDate>Fri, 05 Jul 2024 18:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421275/65c4c128e0b79c1f0dac0f22b003b24fdd553369ce72dc10a8c1b5caf906f862.mp3" type="audio/mpeg" length="172801973" />
     </item>
   </channel>
 </rss>

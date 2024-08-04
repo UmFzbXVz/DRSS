@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 03 Aug 2024 07:44:38 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 05:56:53 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433316</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433316</link>
+      <title>Lørdag 3. aug. 2024</title>
+      <description>Hvor lidt kontrol har USA med, hvad der sker i den aktuelle krig i Gaza og Israels konflikt med Iran og Hizbollah? Er modstanden mod turisme på vej til Danmark? Og har russernes indtrængen i den ukrainske by Pokrovst en større indvirkning på den ukrainske modstand?
+Dagens vært: Anne Kirstine Hermann.</description>
+      <pubDate>Sat, 03 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:49:55</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433316/06037721acd97001dbcb6911d51757ef832c05cfe1788fabf7676e6b3a57db39.mp3" type="audio/mpeg" length="158304609" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433315</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433315</link>
@@ -1849,18 +1861,6 @@ Dagens værter: Pernille Rudbæk og Maria Hollænder.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:49</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433063/8c69bc3fa659b856e0c8bc0d903b69bb1a5b3b696cc68f57d3d8ef4bc7abb3d6.mp3" type="audio/mpeg" length="237356577" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433062</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433062</link>
-      <title>Tirsdag 6. feb. 2024</title>
-      <description>Hvorfor er antallet af anmeldelser om sexstortion fordoblet på et år? 12 nye anbefalinger skal begrænse skærmbrug i skoler og fritidshjem. Hvorfor er det vigtigt med anbefalinger, når skoler allerede er i gang? Og er stress-sygemeldte stillet godt nok på arbejdsmarkedet i dag?
-Dagens værter: Ole Brink og Bjarne Steensbeck.</description>
-      <pubDate>Tue, 06 Feb 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:58</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433062/4abf7f4b805eb72806732fba10ee6b39e39af52fd82b7c4d4bd38599cdc24d97.mp3" type="audio/mpeg" length="237567969" />
     </item>
   </channel>
 </rss>

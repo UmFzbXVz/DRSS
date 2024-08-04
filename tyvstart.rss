@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 03 Aug 2024 07:44:47 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 05:57:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450255</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-klap-hesten-nu-begynder-medaljefesten-13652450255</link>
+      <title>Klap hesten! Nu begynder medaljefesten</title>
+      <description>Det danske dressurlandshold sikrede Danmarks første medalje ved dette OL. Og hvis man spørger dressurkommentator Birgitte Borch, kommer der endnu et stykke dansk metal på hesten i dag. 
+Vi vender den historiske triumf i dagens afsnit af Tyvstart, hvor vi også varmer op til kvindernes linjeløb og giganternes brag i mændenes tennisfinale. 
+Vært: Rikke Smed.</description>
+      <pubDate>Sun, 04 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:24</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450255/4c861eb5e888996f1e90dcb296dae52224f113f1f4eac281fede775353a715bf.mp3" type="audio/mpeg" length="27949690" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450254</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-lever-kapgang-paa-en-loegn-13652450254</link>

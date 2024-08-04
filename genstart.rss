@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 03 Aug 2024 07:38:44 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 05:57:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460176</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>USAs attentat-traume</title>
+      <description>Få minutter før den 20-årige Thomas Crooks affyrer skud mod præsidentkandidat Donald Trump, bliver han set liggende på taget af en lagerbygning med et våben. Der bliver kaldt på politiet, men Crooks bliver ikke forhindret i at skyde mod Trump på talerstolen. Siden 13. juli har amerikanerne spurgt sig selv, hvordan det kunne ske. De ansvarlige myndigheder er blevet forhørt i timevis om sagen, og konspirationsteorier har fået frit løb. For det er stadig et mysterium, hvordan og hvorfor Thomas Crooks begik attentatforsøg mod Donald Trump. Mangeårig USA-kender Torsten Stiig Jansen fortæller i Genstart om dagene og timerne op til attentatforsøget, om de dramatiske høringer i kongressen, og om hvorfor konspirationerne bliver holdt i live. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 31/7.</description>
+      <pubDate>Sun, 04 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:22:37</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460176/cc93714eeb1d1baa35ddf133fcdccd48ae1686ecf6b71dc02b3fc4ee1026bf68.mp3" type="audio/mpeg" length="32585357" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460175</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
