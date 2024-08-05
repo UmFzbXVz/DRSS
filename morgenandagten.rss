@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:53 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:25 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -456,24 +456,6 @@ Postludium: Jesper Madsen: Bryd frem, mit hjertes trang at lindre</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405281/f4ed56ca7969028dcffaaa40b85ee193ccb9700d532ffab2717ff9e8f57f76ea.mp3" type="audio/mpeg" length="36001580" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405276</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405276</link>
-      <title>Lørdag 6. jul. 2024</title>
-      <description>Præludium:	Naji Hakim: O Gud, du ved og kender
-Davidssalme: 46, 2-4 og 8 
-Salme: 598 "O Gud, du ved og kender"
-Fra det N.T.:	Romerbrevet 3, 23-28
-Trosbekendelsen	
-Salme: 52 "Du Herre Krist, min frelser est"
-Postludium: Christian Præstholm: Du Herre krist, min frelser est</description>
-      <pubDate>Sat, 06 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405276/703f5d1a67c9cb247d4da469996ecd4545e1aab93fbf493b7e08b188c696cc8f.mp3" type="audio/mpeg" length="36001574" />
     </item>
   </channel>
 </rss>

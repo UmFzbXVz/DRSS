@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -93,23 +93,6 @@ Produceret for DR af MonoMono.</description>
       <itunes:duration>01:53:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423286/6c7ca4d28b3ce6ff3f45e2188505e7f136d5e5372f7dbb56f6cd9764957b63a8.mp3" type="audio/mpeg" length="162800526" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122423276</guid>
-      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-det-indre-barn-og-livsakrobaten-med-susse-wold-16122423276</link>
-      <title>Det indre barn og livsakrobaten - med Susse Wold</title>
-      <description>Skuespiller Susse Wold er gæst hos Alex, og samtalen handler blandt andet om vand som symbol på underbevidstheden, om Den Lille Prins og om at holde fast i det indre barn og blive ved med at prøve noget nyt.  Susse spiller blandt andet Palle Mikkelborg og Albinoni. Alex spiller blandt andet John Adams, Schumann og Bach. 
-
-Vært: Alexander McKenzie, pianist og komponist.
-Gæst: Susse Wold, skuespiller.
-Producer og redaktør: Rune Sparre Geertsen.
-Produceret for DR af MonoMono.</description>
-      <pubDate>Sat, 06 Jul 2024 15:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:53:01</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423276/2f69a89bc5f58f9a253479023b46789a1adbfa26fad5115b2a5ab058d047a34c.mp3" type="audio/mpeg" length="162762505" />
     </item>
   </channel>
 </rss>

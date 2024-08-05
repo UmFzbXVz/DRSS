@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452454317</guid>
+      <link>https://www.dr.dk/lyd/p5/liselottes-sommersange/liselottes-sommersange/liselottes-sommersange-15452454317</link>
+      <title>Søndag 4. aug. 2024</title>
+      <description>Sæt stemningen til din weekendeftermiddag med "Liselottes Sommersange."
+Vært Liselotte Krogager guider dig gennem to timer med de bedste sommermelodier, der vækker minder om solrige dage og lune aftener.
+Lyt med fra 14:00 til 16:00 på P5, og lad musikken bringe sommerstemningen direkte hjem til dig.
+Vært: Liselotte Krogager.</description>
+      <pubDate>Sun, 04 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452454317/f86c38d6969dfb389af405646bdc21783b4231b8c44a241daf68694337f923b5.mp3" type="audio/mpeg" length="168481601" />
+    </item>
     <item>
       <guid isPermaLink="false">15452454316</guid>
       <link>https://www.dr.dk/lyd/p5/liselottes-sommersange/liselottes-sommersange/liselottes-sommersange-15452454316</link>
@@ -144,21 +159,6 @@ Vært: Liselotte Krogager.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452454277/2ce9b824b009226a954bc1a2b4dc585707dcd5da43f155e3ef20b0e446e9c206.mp3" type="audio/mpeg" length="168482177" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452454276</guid>
-      <link>https://www.dr.dk/lyd/p5/liselottes-sommersange/liselottes-sommersange/liselottes-sommersange-15452454276</link>
-      <title>Lørdag 6. jul. 2024</title>
-      <description>Sæt stemningen til din weekendeftermiddag med "Liselottes Sommersange."
-Vært Liselotte Krogager guider dig gennem to timer med de bedste sommermelodier, der vækker minder om solrige dage og lune aftener.
-Lyt med fra 14:00 til 16:00 på P5, og lad musikken bringe sommerstemningen direkte hjem til dig.
-Vært: Liselotte Krogager.</description>
-      <pubDate>Sat, 06 Jul 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452454276/29364e79d503800f88720a97df33f6f8494c1eb5c8935ae268f2cde6ab0fcdfd.mp3" type="audio/mpeg" length="168482177" />
     </item>
   </channel>
 </rss>

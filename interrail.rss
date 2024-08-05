@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:08 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -72,18 +72,6 @@
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452449286/49168a99a7cfbdf3bdde0f4ccc2e47c461e1316bd54803601b544e4021e39b84.mp3" type="audio/mpeg" length="168481599" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452449276</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/sommerekspressen/sommerekspressen/sommerekspressen-18452449276</link>
-      <title>Lørdag 6. jul. 2024</title>
-      <description>Pak nysgerrigheden med ned i rygsækken og kom på mental getaway, hvor du kan opleve lidt af hvert. Globussen drejer, og Sommerekspressen rykker ud. Det bliver en tur fuld af overraskelser, når Magnus Løppenthin giver dig to timers sommerradio hver lørdag fra kl. 10-12.</description>
-      <pubDate>Sat, 06 Jul 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452449276/9d17093af738af94f5a3c3859da1d83a2733d1ff0c04d0836484472a26bb92da.mp3" type="audio/mpeg" length="168481599" />
     </item>
   </channel>
 </rss>

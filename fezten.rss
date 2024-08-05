@@ -9,7 +9,7 @@ Vært: Niels Fez Pedersen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:45:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -77,19 +77,6 @@ Vært: Niels Fez Pedersen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464286/70201e71f99cedd5c0681235e68e86f4e77b67870354c375d132e784e0092cff.mp3" type="audio/mpeg" length="168481463" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122464276</guid>
-      <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/sommerfezten-16122464276</link>
-      <title>SommerFezten</title>
-      <description>SommerFezten skruer ekstra op for varmen med sange om sol, skygge og hedebølger.
-Vært: Niels Fez Pedersen.</description>
-      <pubDate>Sat, 06 Jul 2024 16:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464276/f0d9fd0c209c7b70384159ca9eb29014a98a55a85d9c492f0462ff5f89e70fbe.mp3" type="audio/mpeg" length="168481442" />
     </item>
   </channel>
 </rss>

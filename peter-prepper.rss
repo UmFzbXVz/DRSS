@@ -10,7 +10,7 @@ Produceret for DR af PodAmok.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:54:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,21 @@ Produceret for DR af PodAmok.</description>
     <category>Leisure</category>
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122493213</guid>
+      <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-lynkursus-fra-en-jaegersoldat-16122493213</link>
+      <title>Lynkursus fra en jægersoldat.</title>
+      <description>Peter Falktoft er overbevist. De originale preppere må være de danske elitesoldater, som er toptrænet til fingerspidserne. I denne episode får han besøg af jægersoldaten Jesper Hørby, som endte i en personlig katastrofesituation, som nær kostede ham livet. Men hvilke redskaber fik Jesper så helskindet som muligt gennem krisen? Hvad gjorde ham robust under et umenneskeligt pres? Og hvordan kan vi almindelige danskere tilgå prepping som en jægersoldat?
+GÆST: Jesper Hørby, jægersoldat.
+
+Produceret for DR af PodAmok.</description>
+      <pubDate>Mon, 05 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:40:43</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122493213/72099ad143fdb00f68e260f8829656ff7ba9a8cb41a1257f91885a35f2b90653.mp3" type="audio/mpeg" length="58635518" />
+    </item>
     <item>
       <guid isPermaLink="false">16122493212</guid>
       <link>https://www.dr.dk/lyd/special-radio/peter-prepper/peter-prepper-2024/peter-prepper-trusler-fra-rummet-16122493212</link>

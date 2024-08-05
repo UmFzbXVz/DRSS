@@ -9,7 +9,7 @@ Vært: Carsten Holm</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -77,19 +77,6 @@ Vært: Carsten Holm.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122466286/395cad6ec14c379c10b954adace79f0c46e4967e8653fed05360ffca8f9793bf.mp3" type="audio/mpeg" length="168481597" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122466276</guid>
-      <link>https://www.dr.dk/lyd/p6beat/acceptabelt-i-80-erne/acceptabelt-i-80-erne-2024/acceptabelt-i-80-erne-16122466276</link>
-      <title>Lørdag 6. jul. 2024</title>
-      <description>Højt hår, neonfarver og trommemaskiner. Store øreringe, joggingsæt og synthesizere. 80'erne blev kaldt for usikkerhedens årti, men var den rodebutik af rytmer, stilarter og toner, der dannede mit musikalske væsen. Jeg dykker ned i kasserne,  lytter til tendenserne, fortæller historierne og spiller de hits, der var acceptable i 80'erne.
-Vært: Carsten Holm.</description>
-      <pubDate>Sat, 06 Jul 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122466276/d80923177f085408db7ee6e6a9de9b4f562da3cb6ee54767e67a45a1d754a8d6.mp3" type="audio/mpeg" length="168481597" />
     </item>
   </channel>
 </rss>

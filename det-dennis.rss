@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:37 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:07 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -66,20 +66,6 @@ Vært: Dennis Johannesson.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452491277/2189722853d5090f220820978978559a269c037c6f07bfc71146f4c0bdddfaf5.mp3" type="audio/mpeg" length="168482162" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452491276</guid>
-      <link>https://www.dr.dk/lyd/p5/det-dennis/det-dennis/det-dennis-15452491276</link>
-      <title>Lørdag 6. jul. 2024</title>
-      <description>"Det' Dennis" er programmet, hvor du får det bedste fra P5's musikverden blandet med de gode historier. 
-Uanset om du er på arbejde, på farten eller nyder din fridag, er Dennis Johannesson din formiddagsmakker i weekenden på P5 - klar til at gøre din dag lidt bedre med masser af musik og godt selskab"
-Vært: Dennis Johannesson.</description>
-      <pubDate>Sat, 06 Jul 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452491276/b6dc11a3aa3e7bc30db4e421143c1b177c1cf5a319a06652470df4ff9c84cc2a.mp3" type="audio/mpeg" length="168482162" />
     </item>
   </channel>
 </rss>

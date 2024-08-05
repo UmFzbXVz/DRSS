@@ -11,7 +11,7 @@ vildtnaturligt@dr.dk</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:48 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -31,6 +31,21 @@ vildtnaturligt@dr.dk</description>
     <itunes:category text="Science">
       <itunes:category text="Nature" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11032423321</guid>
+      <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2024/vildt-naturligt-overbefolkning-og-barnloeshed-11032423321</link>
+      <title>Overbefolkning og barnløshed</title>
+      <description>I0.000 år før vor tid var der kun et par millioner mennesker på Jorden. Nu er vi over otte milliarder. Men løser problemet med overbefolkning sig af sig selv med styrtdykkende fødselsrater og dårlig fertilitet? Eller får vi bare andre problemer, hvis vi igen bliver markant færre?
+Gæst: Rune Lindahl-Jacobsen, professor i epidemiologi og demografi ved Institut for Sundhedstjenesteforskning på Syddansk Universitet.
+Værter: Biologerne Johan Olsen og Vicky Knudsen.
+Producer: Carsten Nielsen.
+vildtnaturligt@dr.dk</description>
+      <pubDate>Mon, 05 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:07</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032423321/c9eb67703f8293b082e47883401ce48d3d6456d2b3b6a3eaf41dcb1a1e3df112.mp3" type="audio/mpeg" length="80828814" />
+    </item>
     <item>
       <guid isPermaLink="false">11032423261</guid>
       <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2024/vildt-naturligt-dino-draeberens-danske-forbindelse-11032423261</link>
@@ -2109,22 +2124,6 @@ vildtnaturligt@dr.dk</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:24</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11542103324/f9a95275d383fc44e87aacbca530fc4b85944fd2d7c99345bc2cc38a81821ae1.mp3" type="audio/mpeg" length="81221072" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11542103114</guid>
-      <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2021/vildt-naturligt-mystiske-dyr-paa-fri-fod-11542103114</link>
-      <title>Mystiske dyr på fri fod</title>
-      <description>Pumaer og pythonslanger er et sjældent syn i Danmark. Men borgere advarer jævnligt myndighederne om arter ude i det fri, som vi kun plejer at se på billeder eller i bur. Biologerne Johan Olsen og Vicky Knudsen dykker ned i friluftslivets svar på UFO-observationer i selskab med biolog Hans Erik Svart, som er konsulent for Miljøstyrelsen. Alle tip bliver behandlet seriøst. Men det gør en forskel, om flere har set samme los-lignende kattedyr i et bestemt område, eller om det bare er en enlig nattevandrer, der har mødt en lyserød elefant på vej hjem fra byen. Miljøstyrelsen har også selv produceret en podcast-serie om "Danske dyremysterier", og Vildt Naturligt spiller et par dramatiske smagsprøver.
-Gæst: Biolog Hans Erik Svart, konsulent for Miljøstyrelsen.
-Værter: Johan Olsen &amp; Vicky Knudsen.
-Producer: Carsten Nielsen.
-vildtnaturligt@dr.dk
-(Sendt første gang 18. marts).</description>
-      <pubDate>Thu, 18 Mar 2021 06:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:21</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11542103114/a6f3c4e971c9bbb17794b7d8d62dce8416e76816e40861cd20d620ec73951d4d.mp3" type="audio/mpeg" length="81154252" />
     </item>
   </channel>
 </rss>

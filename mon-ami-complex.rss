@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122462317</guid>
+      <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-16122462317</link>
+      <title>Søndag 4. aug. 2024</title>
+      <description>Louise Lolle og Lydmor i en vild og uforudsigelig rejse gennem det smukke, smertefulde og magiske skabende liv.</description>
+      <pubDate>Sun, 04 Aug 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462317/db2eeb78b7122587250ade2714abf8ef7e900141eb6127d5e71f78aad301a2b0.mp3" type="audio/mpeg" length="168481451" />
+    </item>
     <item>
       <guid isPermaLink="false">16122462307</guid>
       <link>https://www.dr.dk/lyd/p6beat/mon-amie-complexe/mon-amie-complexe-2024/mon-amie-complexe-16122462307</link>

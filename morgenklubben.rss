@@ -3,12 +3,11 @@
   <channel>
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/morgenklubben" rel="self" type="application/rss+xml" />
     <title>Morgenklubben</title>
-    <link>https://www.dr.dk/lyd/p4/morgenklubben-2737942703000</link>
     <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en "Kropslig Kickstarter" eller en "Hjertestartersang" på morgenklubben@dr.dk</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 04 Jul 2024 06:04:06 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -19,23 +18,22 @@
     <image>
       <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c148443243f95e2c7a2a.jpg</url>
       <title>Morgenklubben</title>
-      <link>https://www.dr.dk/lyd/p4/morgenklubben-2737942703000</link>
     </image>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c148443243f95e2c7a2a.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">16122443267</guid>
-      <link>https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben-2024/morgenklubben-16122443267</link>
-      <title>Søndag 30. jun. 2024</title>
+      <guid isPermaLink="false">16122443321</guid>
+      <link>https://www.dr.dk/lyd/p4/morgenklubben/morgenklubben-2024/morgenklubben-16122443321</link>
+      <title>Mandag 5. aug. 2024</title>
       <description>Tidlig morgen med Julie Bundgaard, faste morgenritualer og masser af musik. Du kan for eksempel bestille en "Kropslig Kickstarter" eller en "Hjertestartersang" på morgenklubben@dr.dk</description>
-      <pubDate>Sun, 30 Jun 2024 06:03:00 +0200</pubDate>
+      <pubDate>Mon, 05 Aug 2024 05:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122443267/de08e4010abb4ff9431a082cd676dfbf33b7dee80da8465fb187eae443634a6c.mp3" type="audio/mpeg" length="82082090" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122443321/a51cbdf308e020eee188e92dcee145896ef0c8a55b2cc57b5abf5b737126e79d.mp3" type="audio/mpeg" length="82081514" />
     </item>
   </channel>
 </rss>

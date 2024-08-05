@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:53:58 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -303,19 +303,6 @@ Vært: Kenneth K.</description>
       <itunes:duration>01:04:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448106/1f6daa06a83994b559f0bf3da5336d5cc1f8b6f7708f87f10a76a1f991d209e0.mp3" type="audio/mpeg" length="93601578" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122448105</guid>
-      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-det-blir-i-familien-og-danmark-i-firserne-16122448105</link>
-      <title>Det blir i familien og Danmark i firserne</title>
-      <description>Kan du gætte musik fra år 2010? Eller er du måske bedre til kategorien "Det blir i familien"? Alternativt kan du prøve om du er god til danske hits fra 80'erne. 
-Vært: Kenneth K.</description>
-      <pubDate>Sun, 04 Feb 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:52:12</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448105/dbb1bc6d060e7444be1664433c356f3556da8ad8294db79ad914e40142787ffe.mp3" type="audio/mpeg" length="75178015" />
     </item>
   </channel>
 </rss>

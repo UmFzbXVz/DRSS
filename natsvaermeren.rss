@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 04 Aug 2024 14:54:10 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:58:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -378,19 +378,6 @@ Vært: Peter Albrechtsen.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363273/cff4a6cb37e2510eaa550d8bbebaaa9e61233dabb7c9bdc5941cd3396c633e29.mp3" type="audio/mpeg" length="168474120" />
     </item>
     <item>
-      <guid isPermaLink="false">12422363267</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lyden-af-sommernat-12422363267</link>
-      <title>Lyden af sommernat</title>
-      <description>Stilfærdigt, eftertænksomt og hudløst smukt. Lise Dres, Trille, Dreamers Circus, Halvcirkel, My Beautiful Decay 1973, Laurits Hyllesteds, Rumpistol og andre der kender den danske sommer, fylder aftens falde
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 03 Jul 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363267/ef242c3ced105852f2b0420842177c90fb4271da2f51f8633a473c3ccf1f3f45.mp3" type="audio/mpeg" length="168467750" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422363251</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-de-gratis-glaeder-12422363251</link>
       <title>De gratis glæder</title>
@@ -402,6 +389,19 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363251/3b26ccf060a57da221d3359c30047ef9b516c734cbefe968d6bf151bbd81a8a4.mp3" type="audio/mpeg" length="168482051" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422263334</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2022/natsvaermeren-sang-12422263334</link>
+      <title>Sang</title>
+      <description>Om sangen uden sang, uden ord, en sang, der slet ikke synges, men som bare er. 
+Vært: Katrine Ring.</description>
+      <pubDate>Fri, 19 Aug 2022 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422263334/923103090a0ca07d40205f7f257e8a122e4be19f8d67241e78a4a3d6e55145a3.mp3" type="audio/mpeg" length="168465309" />
     </item>
   </channel>
 </rss>
