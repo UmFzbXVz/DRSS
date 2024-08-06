@@ -9,7 +9,7 @@ Vært: Rikke Frahm.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 05 Aug 2024 06:58:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 05:59:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Vært: Rikke Frahm.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452453321</guid>
+      <link>https://www.dr.dk/lyd/p5/frahmad/frahmad/frahmad-15452453321</link>
+      <title>Mandag 5. aug. 2024</title>
+      <description>Rikke Frahm spiller musik til den helt store guldmedalje og holder et skarpt øje med de OL medaljer der bliver langet over disken, alt imens det ene hit tager det andet.
+Vært: Rikke Frahm.</description>
+      <pubDate>Mon, 05 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452453321/05ba69d798baa0aa36e671d57498b21061b70d37e01ea46f6a2685eb5ea0b32b.mp3" type="audio/mpeg" length="168482095" />
+    </item>
     <item>
       <guid isPermaLink="false">15452453315</guid>
       <link>https://www.dr.dk/lyd/p5/frahmad/frahmad/frahmad-15452453315</link>
@@ -51,19 +64,6 @@ Vært: Rikke Frahm.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452453314/e1d05366557ccd4d6a738189eca4c6d2094fa951a68a08a0dfdfa6dcd4a0f9f5.mp3" type="audio/mpeg" length="168482095" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452453313</guid>
-      <link>https://www.dr.dk/lyd/p5/frahmad/frahmad/frahmad-15452453313</link>
-      <title>Onsdag 31. jul. 2024</title>
-      <description>Rikke Frahm spiller musik til den helt store guldmedalje og holder et skarpt øje med de OL medaljer der bliver langet over disken, alt imens det ene hit tager det andet.
-Vært: Rikke Frahm.</description>
-      <pubDate>Wed, 31 Jul 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452453313/5a42d3435a4e0a974219e73e8338553c76de7f65547cb472db022ea9c72c1b49.mp3" type="audio/mpeg" length="168481519" />
     </item>
   </channel>
 </rss>

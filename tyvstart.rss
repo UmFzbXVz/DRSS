@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 05 Aug 2024 06:58:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 05:59:13 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450156</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-axelsen-vinder-ol-guld-igen-13652450156</link>
+      <title>Axelsen vinder OL-guld... igen!?</title>
+      <description>Viktor Axelsen forsvarer sit OL-guld og cementerer sin plads i historiebøgerne. Han er nemlig blandt de allerstørste nogensinde. Vi vender den imponerende bedrift i dagens afsnit af Tyvstart, hvor vi også skal tale om Anne-Marie Rindom, der med stor sandsynlighed får en sølvmedalje om halsen senere i dag. 
+Vært: Thomas Loft.</description>
+      <pubDate>Tue, 06 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450156/f1083b5063f01715cb7402ebe0b17f28d95ffa800822e1d0427a4901bd60f815.mp3" type="audio/mpeg" length="35916919" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450155</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dagens-prognose-vi-faar-dansk-ol-guld-13652450155</link>
@@ -2172,21 +2185,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:18:02</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450026/74414b154a617cf5992f352395b87053d564cc7dc4b50d2a7a5640fd85ddd226.mp3" type="audio/mpeg" length="25975165" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450025</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-superligaens-altafgoerende-vinterhandler-13652450025</link>
-      <title>Superligaens altafgørende vinterhandler</title>
-      <description>Fodboldens transfervindue er lukket, og nu har de danske klubber styr på de trupper, der skal sikre henholdsvis guld og overlevelse.
-I dagens afsnit fortæller fodboldkommentator Mads Thyrsted, hvem der står stærkest, når forårssæsonen begynder om nogle uger.
-Hvem har hentet den stærkeste profil? Hvem har solgt for meget ud? Og er det måske vigtigst at have holdt fast på sine profiler?
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 05 Feb 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:03</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450025/c9a6fa08f16ca7fd644c74695114c969640569bfd2de037ff655b477f7818c72.mp3" type="audio/mpeg" length="26007996" />
     </item>
     <item>
       <guid isPermaLink="false">13652450016</guid>

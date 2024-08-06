@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 05 Aug 2024 06:58:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 05:59:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,18 @@
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332425321</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-13332425321</link>
+      <title>Mandag 5. aug. 2024</title>
+      <description>Vi får din største drøm til at gå i opfyldelse... og hvis ikke vi kan komme helt i mål, så gør vi alt for at komme så tæt på som muligt. Hverdage 9-12 sætter alle P3's lyttere og vært Nicolas Kaiser sig for at gøre en forskel i dit liv og opfylde din drøm.</description>
+      <pubDate>Mon, 05 Aug 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425321/9a0780838bbbba8f89f7552af4edc2a345eb0ddeb1e3d4a22cf145a28e093abb.mp3" type="audio/mpeg" length="168481603" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332425315</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-vink-nu-tilbage-13332425315</link>
       <title>VINK NU TILBAGE!</title>
@@ -40,19 +52,6 @@ Vært: Nicholas Schrøder.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425315/ba12198e0021f7b8df33773fd13d7a7b2a2607c217c80508fb4b9c32814113d1.mp3" type="audio/mpeg" length="168481603" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425314</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-hvorfor-er-der-ikke-nogen-der-vil-have-min-trold-13332425314</link>
-      <title>Hvorfor er der ikke nogen, der vil have min trold?</title>
-      <description>Dennis har et brændende ønske: At få et stort glasfiberdyr i haven. Han har fået grønt lys af konen, men må ikke bruge penge på det. Vi skal derfor skaffe et dyr - og det fører os blandt andet til BonBon Land. Det fører os også til Christian, der forsøger at afsætte en 6 meter høj trold - og pludselig får vi en ny mission.
-Vært: Nicholas Schrøder.</description>
-      <pubDate>Thu, 01 Aug 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425314/65e0ab14cea8cc4aa08870577bdccb47e289f4827a1a0f02c9aa4a644b456c8d.mp3" type="audio/mpeg" length="168481617" />
     </item>
   </channel>
 </rss>

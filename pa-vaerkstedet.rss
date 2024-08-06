@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 05 Aug 2024 06:58:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 05:59:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -77,6 +77,20 @@ Producer og tilrettelægger: Iben Mogensen.</description>
       <itunes:duration>01:15:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353241/d0fdc88c64b3403c3c1a5473448c2872105a17f106e925210fa00541d409b055.mp3" type="audio/mpeg" length="108002188" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422353101</guid>
+      <link>https://www.dr.dk/lyd/p2/paa-vaerkstedet/paa-vaerkstedet-2023/paa-vaerkstedet-forfatteren-hanne-vibeke-holst-12422353101</link>
+      <title>Forfatteren Hanne-Vibeke Holst</title>
+      <description>Præstationsangst og mindreværd giver Hanne-Vibeke Holst modstand igen og igen, når hun skriver. Hvad går det ud på, og hvilken betydning har det for hendes kreativitet?
+Det taler psykologiprofessor Lene Tanggaard med Hanne-Vibeke Holst om i dagens værkstedsudsendelse.
+Producer og tilrettelægger: Iben Mogensen.</description>
+      <pubDate>Mon, 06 Mar 2023 18:05:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:15:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422353101/941c1bb1b18be7b38968829131141470129ff03455ba8c53551a15bab5becbf3.mp3" type="audio/mpeg" length="108002185" />
     </item>
   </channel>
 </rss>

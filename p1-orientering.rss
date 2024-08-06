@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 05 Aug 2024 06:58:12 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 05:59:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410321</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410321</link>
+      <title>Mandag 5. aug. 2024</title>
+      <description>Hvad skyldes de store fald på aktiemarkedet? Hvordan hjælper Christian Friis Bachs skifte Venstre? Hvordan påvirker optøjerne i England den generelle stemning blandt Manchesters borgere?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Mon, 05 Aug 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:24:05</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410321/5b03e15b70bcad916eff0efb74b711da5ba6bd4fc4c5d03e12db9c401160bd4d.mp3" type="audio/mpeg" length="121096338" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410315</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410315</link>
@@ -1515,18 +1527,6 @@ Dagens værter: Ole Brink og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:25:23</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410065/889fa91f0e3839250da505781cceb846c078250c32518da63066b0e62311aeee.mp3" type="audio/mpeg" length="122962574" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410064</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410064</link>
-      <title>Torsdag 8. feb. 2024</title>
-      <description>Hvad kan konsekvensen blive for børn og unge, hvis de ikke får efterset deres tænder i tide? USA er den absolut største støtte til Ukraine. Hvorfor er støtte til Ukraine gået i dødvande i det amerikanske senat? Hvor afgørende bliver sagen i højesteret for Trump? 
-Dagens værter: Ole Brink og Søren Carlsen.</description>
-      <pubDate>Thu, 08 Feb 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:21:40</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410064/6cc9a36d1d9073e48cdb985b4cef0bd7232a49406d11254aced9a353929d3767.mp3" type="audio/mpeg" length="117617344" />
     </item>
   </channel>
 </rss>
