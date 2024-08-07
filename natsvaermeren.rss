@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:26:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463322</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-broer-12422463322</link>
+      <title>Broer</title>
+      <description>Broer over rørte som stille vande, broer der forbinder os og gør verdenen mindre og de mentale broer, der flytter os fra en tilstand til en anden. Natsværmeren er fuld af musikalske broer der binder os sammen.
+Vært: Tina Rømer.</description>
+      <pubDate>Wed, 07 Aug 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463322/ea604e9ae500b46f00b3bb57db9fbfd50572fa7db8a62cecca33f43691a41019.mp3" type="audio/mpeg" length="168471780" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463321</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lyse-toner-12422463321</link>
@@ -141,19 +154,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463283/6c85da846f42f0a100d32c621a39ca051b876a82fa3a80b790a0481c80ccedb2.mp3" type="audio/mpeg" length="168481438" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463277</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-passager-12422463277</link>
-      <title>Passager</title>
-      <description>Du er passager i aftens Natsværmeren. Nogle gange en, der kigger på de andre. Andre gange selv i bevægelse.
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 08 Jul 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463277/0b16e374c99848c600b1d370a7f7a030f23aa7c5b5eb877c839d4a12934bca6f.mp3" type="audio/mpeg" length="168472835" />
     </item>
     <item>
       <guid isPermaLink="false">12422463156</guid>

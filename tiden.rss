@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:25:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:43 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451122</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-kamalas-kammerat-overfald-paa-demokratiet-og-hasinas-flugt-11802451122</link>
+      <title>Kamalas kammerat, overfald på demokratiet og Hasinas flugt</title>
+      <description>Kamala Harris har valgt sin vicepræsident. Den tidligere lærer og nu guvernør i Minnesota, Tim Walz.
+Demonstranter i Bangladesh håber nu på mere demokrati, efter premierministeren har flygtet landet.  I dag falder dommen mod en polsk mand, der er anklaget for at slå Mette Frederiksen. Strafferammen er højere end normalt - hvorfor?
+Vært: Annika Wetterling.
+Medvirkende: Sten Schaumburg Müller, Professor SDU Phillip Roin, DR's asienkorrespondent.</description>
+      <pubDate>Wed, 07 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:57</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451122/c7cf795ab48bddd6136bab29751ab87d0f6af680d6626e3a861c24355dfebeef.mp3" type="audio/mpeg" length="22991496" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451121</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-optoejer-i-england-boksekamp-om-koen-og-blodroede-tal-11802451121</link>
@@ -1599,22 +1614,6 @@ Filip Knaack Kirkegaard, DR's klimaanalytiker.</description>
       <itunes:duration>00:16:41</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451026/109935859dd3525ad4915d8ac8b846b018e2a57a3a1847c08a32924fe2061596.mp3" type="audio/mpeg" length="24036942" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802451025</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-amerikansk-bomberegn-bankfester-og-en-skaerm-i-klassevaerelset-11802451025</link>
-      <title>Amerikansk bomberegn, bankfester og en skærm i klasseværelset</title>
-      <description>Amerikanske bomber falder i Syrien, Irak og Yemen. Hvad betyder det for stabiliteten i regionen? I dag kommer der anbefalinger til, hvor meget en skærm skal fylde i klasseværelset. De danske banker tjener flere penge end nogensinde før, alt imens vi forbrugere har skulle betale mere og mere i rente. 
-Vært: Adrian Busk.
-Medvirkende:
-Peter Viggo Jakobsen, lektor ved Forsvarsakademiet.
-Carsten Tanggaard, professor i økonomi ved Aarhus Universitet.</description>
-      <pubDate>Tue, 06 Feb 2024 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:15:29</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451025/b164beeb8b82c9c7636acdd5c5a9aa8b34583c0168b45ff15680ca25f2ae9cb4.mp3" type="audio/mpeg" length="22308359" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:25:42 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -449,6 +449,23 @@ Vært: Helle Kristensen.</description>
       <itunes:duration>01:57:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422481821/4c934a4ec15d643e7e1d6f4125e3d2eafc6eddb16232d76b6b6aec8886f791d2.mp3" type="audio/mpeg" length="168674571" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422381847</guid>
+      <link>https://www.dr.dk/lyd/p2/det-vi-hoerer/magnus-larsson/det-vi-hoerer-naar-enden-er-god-12422381847</link>
+      <title>Når enden er god</title>
+      <description>Hvad har jeg glemt at spille? Hvad var der ikke plads til? Og hvad har jeg lige opdaget?
+Det samler jeg op på i dette program, hvor jeg kommer godt og grundigt rundt i alle kroge, alt fra opera til jazz, musik fra øst og vest. Og så spiller jeg musik af en kunstner jeg netop har opdaget.
+Vært: Magnus Larsson.</description>
+      <pubDate>Wed, 09 Aug 2023 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000090007</itunes:order>
+      <itunes:season>9</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:48:58</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422381847/0e3e673704cd12e02d387d5d67aa9ad7fd65075df3587b151b8970a156303469.mp3" type="audio/mpeg" length="156926469" />
     </item>
     <item>
       <guid isPermaLink="false">12422381846</guid>

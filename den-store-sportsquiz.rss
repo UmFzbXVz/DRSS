@@ -10,7 +10,7 @@ Vært: Mikkel Nygaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:25:37 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -67,20 +67,6 @@ Vært: Mikkel Nygaard.</description>
       <itunes:duration>03:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652430291/7f6a0a846ebb113d51ebe7c0457e581aea361add6e154256dccf12d70efeb17b.mp3" type="audio/mpeg" length="259201606" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652430281</guid>
-      <link>https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz-2024/den-store-sportsquiz-den-vildeste-sportssommer-13652430281</link>
-      <title>Den vildeste sportssommer</title>
-      <description>Der er EM, Tour de France og Wimbledon, lige om lidt begynder OL, og listen er meget længere endnu. Det er den vildeste sportssommer i redaktionens levetid, og derfor går Den Store Sportsquiz i sportsbonanza. I denne special, hvor Touren holder hviledag, er er tre timer med quiz i alle sommerens store begivenheder.
-Hvad hedder Jonas Vingegaards svigermor? Hvad hedder Frankrigs anfører ved EM? Hvad står forkortelsen OL egentlig for? Quiz med i den vildeste sportssommer.
-Vært: Mikkel Nygaard.</description>
-      <pubDate>Mon, 08 Jul 2024 15:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652430281/845867e54c4740abf400b143cbd1eb3779efd406d0cb7dd84fe01740e64c26cf.mp3" type="audio/mpeg" length="259201607" />
     </item>
   </channel>
 </rss>

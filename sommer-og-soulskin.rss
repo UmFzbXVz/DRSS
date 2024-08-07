@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:26:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -297,19 +297,6 @@ Vært: Karen Rosenberg.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452443282/dec7f44e106e791440e4320af8314c08f7eb113f462b284c0be67554765777ca.mp3" type="audio/mpeg" length="168481554" />
-    </item>
-    <item>
-      <guid isPermaLink="false">18452443281</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/sommer-og-soulskin/sommer-og-soulskin/sommer-og-soulskin-18452443281</link>
-      <title>Mandag 8. jul. 2024</title>
-      <description>På med soulcremen for Karen Rosenberg sidder klar ved mikrofonen til at bade dig i Sommer og Soulskin på P8. To timers soul- og jazzmusik i skøn forening leveret direkte til liggestolen. 
-Vært: Karen Rosenberg.</description>
-      <pubDate>Mon, 08 Jul 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452443281/fe6ba43e9d5991646c996ad2fea160b5d657d8583937ea7d3c3c30616d5d09c7.mp3" type="audio/mpeg" length="168481554" />
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:25:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -285,19 +285,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:12:16</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192727/496701c74d3b91c135f568f480052c8c0a91b0df675de616330eb6711be60ae8.mp3" type="audio/mpeg" length="17669142" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192726</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-dejan-cukic-16122192726</link>
-      <title>Dejan Cukic</title>
-      <description>Karamello har en praktikant og du kan endelig lære at udtale "Dejan Cukic".
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 06 Aug 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:11:32</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192726/d4fd75a122b6eb40140883b98b5b88857bcd2d2834a0663d0825b0902a223d0d.mp3" type="audio/mpeg" length="16609832" />
     </item>
   </channel>
 </rss>

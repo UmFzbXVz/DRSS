@@ -11,7 +11,7 @@ Produceret for DR af Filt Cph.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:25:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:35 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret for DR af Filt Cph.</description>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16122492725</guid>
+      <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
+      <title>Teaser: Dræbt med hypnose</title>
+      <description>To bankansatte bliver skudt og dræbt under et bankrøveri. Gerningsmanden, Palle, flygter bagefter på cykel, men politiet finder ham umiddelbart efter. Hvad politiet ikke ved på det her tidspunkt er, at sagen i årene efter bliver en af de mest spektakulære i Danmarkshistorien, fordi Palle var udsat for hypnose inden drabene. Hør hele afsnittet i &lt;a href=https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen&gt;DR Lyd&lt;/a&gt;.</description>
+      <pubDate>Wed, 07 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:42</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492725/dfb3b244f2e920991098e0a914fef24a72f29d19031bfe5149bcafd1ed152a14.mp3" type="audio/mpeg" length="2468028" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492724</guid>
       <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>

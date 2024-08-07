@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:12:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:03:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460179</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Dion will go on</title>
+      <description>Hun træder ud på Eiffeltårnets oplyste balkon i et ellers mørkt og regnfuldt Paris. I flere år har en smertefuld muskelsygdom holdt Celine Dion fra scenen, men da hun bryder ud i Edith Piafs Hymne á l'amour, er hun tilbage. Hendes optræden får tårerne til at trille over det meste af verden, og hun bliver ophøjet som ikon. Men hvordan kan tre minutters optræden blive tillagt så stor betydning? Stéphanie Surrugue, DRs internationale korrespondent, fortæller i dagens Genstart om Dions spektakulære comeback og enestående sans for at fortælle sin egen historie.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 4/8.</description>
+      <pubDate>Wed, 07 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460179/78c2f1f08423c4ec778146f2f6945a881c421c895799c422b8ea0d60006943de.mp3" type="audio/mpeg" length="38757191" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460178</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

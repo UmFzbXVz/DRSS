@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:25:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450157</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dansk-medaljeregn-over-banecyklingen-13652450157</link>
+      <title>Dansk medaljeregn over banecyklingen?</title>
+      <description>Der skal køres om bronze, når banelandsholdet onsdag skal i aktion igen på 4000 meters holdforfølgelsesløb. Danskerne missede tirsdag en plads i finalen, men der er stadig håb for metal.
+Spørgsmålet er, om der ligger mere metal og venter. For der er både parløb og Omnium for mænd og kvinder med flere stærke danske kort på hånden. Dagens episode runder også de danske håndboldkvinder, der er klar til OL-semifinalen.
+Vært: Thomas Loft.</description>
+      <pubDate>Wed, 07 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:13:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450157/c93e4947916feaf21c3a1283d8b372f3dbca1006c4adcc13859789c28cde205b.mp3" type="audio/mpeg" length="19345984" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450156</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-axelsen-vinder-ol-guld-igen-13652450156</link>
@@ -2171,20 +2185,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:16:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450027/6d1626d926f761a66750bd2d44272d4fe309f95f38b609ab677d3a8475709e91.mp3" type="audio/mpeg" length="24466034" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450026</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-faar-dansker-hamiltons-formel-1-saede-13652450026</link>
-      <title>Får dansker Hamiltons Formel 1-sæde?</title>
-      <description>Lewis Hamilton skifter fra Mercedes til Ferrari. Det åbner op for en større Formel 1-kabale, hvor danske Frederik Vesti måske kan snuppe et sæde i motorsportens kongeklasse.
-Men Hamiltons skifte er først om et år, og Frederik Vesti skal ikke køre Formel 2 i den kommende sæson. Spørgsmålet er derfor, om det over hovedet er realistisk at drømme om endnu en dansker i Formel 1. Det svarer ekspert Peter Nygaard på i dagens afsnit.
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 06 Feb 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:18:02</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450026/74414b154a617cf5992f352395b87053d564cc7dc4b50d2a7a5640fd85ddd226.mp3" type="audio/mpeg" length="25975165" />
     </item>
     <item>
       <guid isPermaLink="false">13652450016</guid>

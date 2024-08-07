@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 06 Aug 2024 15:25:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:09:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410322</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410322</link>
+      <title>Tirsdag 6. aug. 2024</title>
+      <description>Skal vi have et treårigt enhedsgymnasium for alle unge i Danmark? Kommer Googles tabte retsag til at have indflydelse på håndteringen og retningslinjer af techgiganters forretninger? Hvorfor fortsætter tendenser med "bestilte mord" begået af unge svenskere?
+Dagens vært: Jan Falkentoft.</description>
+      <pubDate>Tue, 06 Aug 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:21:43</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410322/074af6a656a550017a5a20f06fd7fa5b8541f959dbcdda9bfd54a4a28ebf191e.mp3" type="audio/mpeg" length="117683458" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410321</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410321</link>
@@ -1515,18 +1527,6 @@ Dagens værter: Anne Kirstine Hermann og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:23:18</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410071/3f7b39efddd2716fb6d803933709718728878587a88a8e9be603b5e00b3d5cd5.mp3" type="audio/mpeg" length="119959931" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410065</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410065</link>
-      <title>Fredag 9. feb. 2024</title>
-      <description>Er den nye dyrevelfærdsaftale handlingsorienteret nok? Hvordan er almindelige ukrainernes tro på sejr? Har Liberal Alliance en klimapolitik, de unge kan se sig selv i?
-Dagens værter: Ole Brink og Bjarne Steensbeck.</description>
-      <pubDate>Fri, 09 Feb 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:25:23</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410065/889fa91f0e3839250da505781cceb846c078250c32518da63066b0e62311aeee.mp3" type="audio/mpeg" length="122962574" />
     </item>
   </channel>
 </rss>
