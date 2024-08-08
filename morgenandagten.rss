@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 07 Aug 2024 06:09:48 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:09:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405323</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405323</link>
+      <title>Onsdag 7. aug. 2024</title>
+      <description>Præludium:	N. O. Raasted: Idag er nådens tid
+Fra det G.T.:	2. Mosebog 2, 11-15
+Salme: 522 "Nåden er din dagligdag"
+Fra det N.T.:	Matthæusevangeliet 13, 1-9
+Korvers: Mark Baumann: Guds rige lignes ved et frø (tekst: N.F.S. Grundtvig)
+Salme: 154 "En bondemand går ud at så"
+Postludium: Felix Mendelssohn: Andante tranquillo</description>
+      <pubDate>Wed, 07 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405323/031cc90a1fd5755d492a75181a47f0a9977f7ffee09386be851ce9166cf3be33.mp3" type="audio/mpeg" length="36001581" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405322</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405322</link>
@@ -456,24 +474,6 @@ Postludium: Samuel Scheidt: Wir glauben all an einen Gott</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405283/b0a17ec7023ee10f1a8e1af7e1035c448eb4afd9d4a643597de9ad29d66b42ac.mp3" type="audio/mpeg" length="36001577" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405282</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405282</link>
-      <title>Tirsdag 9. jul. 2024</title>
-      <description>Præludium:	Bernhard Lewkovitch: Et trofast hjerte, Herre min
-Fra det G.T.:	Salme 86,1-7
-Salme: 344 "Højhedens Gud, som kom herned"
-Fra det N.T.:	Matthæus 9,9-13
-Korvers: Johann Sebastian Bach: Jesus, livets rige kilde, (tekst: Rist 1642, Brorson 1734, Wexels 1849)
-Salme: 492, vers 1 + 4-6 "Guds igenfødte, ny-levende sjæle"
-Postludium: Johann Sebastian Bach: Allabreve i G-dur (Goldberg Variation nr. 22)</description>
-      <pubDate>Tue, 09 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405282/434b86e766b8f4155e14a6fa7bfa7570805c95e18c66e7a92d27b3e5d4e41d76.mp3" type="audio/mpeg" length="36001576" />
     </item>
   </channel>
 </rss>

@@ -10,7 +10,7 @@ Produceret for DR af Munck Studios.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 07 Aug 2024 06:01:18 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:01:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,23 @@ Produceret for DR af Munck Studios.</description>
       <itunes:category text="Documentary" />
     </itunes:category>
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122494310</guid>
+      <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-henrettelsen-af-vidkun-quisling-16122494310</link>
+      <title>Henrettelsen af Vidkun Quisling</title>
+      <description>Året er 1945. Den tidligere norske nazistiske statsminister dør ved skuddene fra en ti mand stor henrettelsespeloton. Dømt for landsforræderi. Efter afslag af benådning samme dag. Men hvem var Quisling, hvis navn blev synonym med en landsforræder - også i det danske sprog. Og hvorfor måtte han lade livet?
+
+Værter: Simon Emil Ammitzbøll-Bille og Kristoffer Lind.
+Klip: Anne Lundager.
+Redaktører: Rune Born Schwartz og Cecilie Egholm Tonnesen.
+Produceret for DR af Munck Studios.</description>
+      <pubDate>Thu, 08 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:14</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122494310/ffa025466b10ccefd8aaf209b4467a787d36bd79636596a551eb19a400b1e650.mp3" type="audio/mpeg" length="82420862" />
+    </item>
     <item>
       <guid isPermaLink="false">16122494309</guid>
       <link>https://www.dr.dk/lyd/special-radio/ministermord/ministermord-1/ministermord-mehmet-shehus-doed-16122494309</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 07 Aug 2024 06:09:52 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:09:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463323</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sommeraften-12422463323</link>
+      <title>Sommeraften</title>
+      <description>Verden spejler sig i Natsværmeren. Du opfordres til at lægge dig på ryggen i det varme græs, og lade skyerne drive forbi.
+Vært: Minna Grooss.</description>
+      <pubDate>Thu, 08 Aug 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463323/860e6981516e6560a35c2df3132eef449fb68aa2b70535387e170983c38a0e2d.mp3" type="audio/mpeg" length="168469397" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463322</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-broer-12422463322</link>
@@ -337,19 +350,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363284/2be4712c3df81a7acf6838160e38972e31076e8b95f1c67a509ba2610aacb8da.mp3" type="audio/mpeg" length="168466054" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363277</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-sommersindstilstande-12422363277</link>
-      <title>Sommersindstilstande</title>
-      <description>Let, legende, længselsfulde, drømmende, luftige og flygtige. Mendelssohn, Simon&amp;Garfunkel, Driss el Maloumi, Patsy Clein, Saint-Saëns, The Doors med flere bevæger sig rundt i sommernatten.
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 10 Jul 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363277/c9d7db13a8e0bd786ca17277a6df6d5b46fd741909b635bbdcf3dc0bfaef714a.mp3" type="audio/mpeg" length="168476368" />
     </item>
     <item>
       <guid isPermaLink="false">12422363274</guid>

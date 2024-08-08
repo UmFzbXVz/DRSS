@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 07 Aug 2024 06:09:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:09:37 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433323</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433323</link>
+      <title>Onsdag 7. aug. 2024</title>
+      <description>Hvordan klarede Kamala Harris og Tim Walz deres første rally sammen? Hvor har Kriminalforsorgen fejlet? Og hvad betyder Hamas' nye leder for krigen?
+Dagens værter: Anne Kirstine Hermann og Kristian Magnus Damsgaard Jensen.</description>
+      <pubDate>Wed, 07 Aug 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:57</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433323/e9eaa36de34e2f21bfebfa8818f804ba3095b33beab121d13266d84cfbe9521a.mp3" type="audio/mpeg" length="237553168" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433322</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433322</link>
@@ -1835,18 +1847,6 @@ Dagens værter: Ole Brink og Thomas Tjaerandsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:51</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433071/a6c02e79265fc487a4c0e2d3e9993e9950c3cb1a11600c338f69dc909377514c.mp3" type="audio/mpeg" length="237390561" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433066</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433066</link>
-      <title>Lørdag 10. feb. 2024</title>
-      <description>Hvorfor rykker unge mænd mod højre? Er det etisk forsvarligt at have kendte influencere til at være ansigtet på odds og gambling? Og har vi for få kvindelige ledere, fordi stillingsopslagene er for kønnede?
-Dagens værter: Maria Hollænder og Bjarne Steensbeck.</description>
-      <pubDate>Sat, 10 Feb 2024 08:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:50:04</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433066/512eb2d357c9a0c4d46680b479c4b642d67e7322f24b44f28015192c8a6d4e88.mp3" type="audio/mpeg" length="158514487" />
     </item>
   </channel>
 </rss>

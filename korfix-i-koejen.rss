@@ -4,11 +4,12 @@
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/korfix-i-koejen" rel="self" type="application/rss+xml" />
     <title>Korfix i Køjen</title>
     <link>https://www.dr.dk/lyd/p8jazz/korfix-i-koejen-5624850169000</link>
-    <description>Vært: Frederik Korfix</description>
+    <description>Fra sin hængekøje præsenterer Frederik Korfix soundtracket til din sommer. Husk solbriller, solhat og solcreme - så sørger P8 Jazz for resten.   
+Vært: Frederik Korfix.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 07 Aug 2024 06:09:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:09:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -31,6 +32,19 @@
     </itunes:category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452447323</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/korfix-i-koejen/korfix-i-koejen/korfix-i-koejen-18452447323</link>
+      <title>Onsdag 7. aug. 2024</title>
+      <description>Fra sin hængekøje præsenterer Frederik Korfix soundtracket til din sommer. Husk solbriller, solhat og solcreme - så sørger P8 Jazz for resten.   
+Vært: Frederik Korfix.</description>
+      <pubDate>Wed, 07 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452447323/17a4b4d56330144d12f9572b05913686565b39d9ab2d13d3c00451e0f77da45b.mp3" type="audio/mpeg" length="168481507" />
+    </item>
     <item>
       <guid isPermaLink="false">18452447322</guid>
       <link>https://www.dr.dk/lyd/p8jazz/korfix-i-koejen/korfix-i-koejen/korfix-i-koejen-18452447322</link>

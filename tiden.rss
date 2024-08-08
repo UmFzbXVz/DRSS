@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 07 Aug 2024 06:09:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 05:55:17 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451123</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-blaa-hestetunger-midtvestens-farmand-og-sinwar-til-tops-11802451123</link>
+      <title>Blå hestetunger, Midtvestens farmand og Sinwar til tops</title>
+      <description>Hamas har fået en ny leder, Yahya Sinwar. Gør udnævnelsen af ham konflikten mere anspændt? 
+Det Internationale Rideforbund har kaldt flere OL-ryttere til samtale, efter at flere heste ifølge dem har vist tegn på iltmangel. Tim Walz er valgt som Kamala Harris vicepræsidentkandidat. Kan han skaffe de eftertragtede stemmer i Midtvesten? 
+Vært: Annika Wetterling.
+Medvirkende: Birgitte Borch, journalist og kommentator DR Sporten, Mads Dalgaard Madsen, tidligere indenrigspolitisk rådgiver på den danske ambassade i Washington, i dag rådgiver for virksomheden Terma.</description>
+      <pubDate>Thu, 08 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:12</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451123/b3093ff24cdd5ee6a01d13e5f75becfddfd59e0fd0d074e0eaf69784c5171cf2.mp3" type="audio/mpeg" length="21899978" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451122</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-kamalas-kammerat-overfald-paa-demokratiet-og-hasinas-flugt-11802451122</link>
@@ -1597,23 +1612,6 @@ Louise Dalsgaard, DR's retsanalytiker.</description>
       <itunes:duration>00:16:42</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451027/dc0a1c032e5e79d3ad8f5c15637f7353be32b44d3c20140d03efeb5275d119fa.mp3" type="audio/mpeg" length="24071500" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802451026</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-en-syg-by-kongens-kraeft-og-de-store-klimamaal-11802451026</link>
-      <title>En syg by, Kongens kræft og de store klimamål</title>
-      <description>Borgerne er ikke mere syge i Grindsted end i andre byer. Sådan slår en ny undersøgelse fast. Men nervesygdommen ALS spøger stadig. Kong Charles har fået konstateret kræft, og det har fået det halve kongerige til at spekulere på, hvorfor den royale familie kun fortæller dele af historien. EU-landene skal reducere deres drivhusgasudledninger med 90 procent i 2040, mener Europakommissionen. 
-Vært: Adrian Busk.
-Medvirkende: 
-Ketty Hjøllund, Grindsted-borger.
-Tinne Hjersing Knudsen, DR's korrespondent i Storbritannien.
-Filip Knaack Kirkegaard, DR's klimaanalytiker.</description>
-      <pubDate>Wed, 07 Feb 2024 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:41</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451026/109935859dd3525ad4915d8ac8b846b018e2a57a3a1847c08a32924fe2061596.mp3" type="audio/mpeg" length="24036942" />
     </item>
   </channel>
 </rss>
