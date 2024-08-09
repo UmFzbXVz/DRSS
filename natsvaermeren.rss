@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 08 Aug 2024 06:09:48 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 06:15:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -286,6 +286,19 @@ Vært: Katrine Ring.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
     </item>
     <item>
+      <guid isPermaLink="false">12422363327</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-sceneskift-12422363327</link>
+      <title>Sceneskift</title>
+      <description>Wu Tongs regndråber, Almodóvars høje hæle, lyden af optakten til anden verdenskrig og fortolkninger af Edgar Allen Poe er nogen af de sceneskift du kan opleve i aften.
+Vært: Minna Grooss.</description>
+      <pubDate>Mon, 14 Aug 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363327/c13be68fefd3e7f590810e54c245ce146ad36b2b79be0779c70f5fbf755912f1.mp3" type="audio/mpeg" length="168464255" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422363316</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-tankernes-dans-12422363316</link>
       <title>Tankernes dans</title>
@@ -350,19 +363,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363284/2be4712c3df81a7acf6838160e38972e31076e8b95f1c67a509ba2610aacb8da.mp3" type="audio/mpeg" length="168466054" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422363274</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-hamsterhjulet-drejer-rundt-12422363274</link>
-      <title>Hamsterhjulet drejer rundt</title>
-      <description>Den gode nyhed er, at hamsteren sagtens kan springe af. Døgnets periodiske system med dag og nat byder på pauser, ro og udsyn.
-Vært: Katrine Ring.</description>
-      <pubDate>Fri, 07 Jul 2023 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363274/ef098f64ee6bec42aa803e11eb455e5318d19e0cbcd66e55ab39cea6a2067e8a.mp3" type="audio/mpeg" length="168479771" />
     </item>
     <item>
       <guid isPermaLink="false">12422363273</guid>

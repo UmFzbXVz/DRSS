@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 08 Aug 2024 06:09:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 06:19:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332421324</guid>
+      <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-smukfest-13332421324</link>
+      <title>På Smukfest</title>
+      <description>Værter: Nynne Givskov og Kasper Reippurt.</description>
+      <pubDate>Thu, 08 Aug 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332421324/5c5d6b0a57ad162fca101f7441543ac3b983b03596ab46892670cf6b7e233c1b.mp3" type="audio/mpeg" length="172801965" />
+    </item>
     <item>
       <guid isPermaLink="false">13332421323</guid>
       <link>https://www.dr.dk/lyd/p3/residensen/residensen-2024/residensen-paa-smukfest-13332421323</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 08 Aug 2024 06:09:44 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 06:19:55 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405324</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405324</link>
+      <title>Torsdag 8. aug. 2024</title>
+      <description>Præludium:	 Johannn Ludwig Krebs: Gud Helligånd, i tro os lær
+Fra det G.T.:	2. Mosebog 2, 16-22
+Salme: 308 "Helligånd, vor sorg du slukke"
+Fra det N.T.:	Matthæusevangeliet 13, 24-30
+Korvers: Mark Baumann: Guds rige lignes ved et frø (tekst: N.F.S. Grundtvig)
+Salme: 155 "Godt og ondt i lys og mørke"
+Postludium: Etienne Nicolas Méhul: Élévation As-dur</description>
+      <pubDate>Thu, 08 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405324/38d21bee40d49260725a42dcbd1be5ea58ceb853b9e4dd34ed7a864e0afad313.mp3" type="audio/mpeg" length="36001583" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405323</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405323</link>
@@ -456,24 +474,6 @@ Postludium: Johann Kuhnau: Il Concerto Musico delle Donne</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405284/0acba04f257dbf5c77c11391410b74a81282f75d1615b17650d86b8b75053678.mp3" type="audio/mpeg" length="36001578" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405283</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405283</link>
-      <title>Onsdag 10. jul. 2024</title>
-      <description>Præludium:	Jesper Madsen: Præludium nr. 1, molto tranquillo
-Fra det G.T.:	Salme 116,1-9
-Salme: 28 "De dybeste lag i mit hjerte"
-Fra det N.T.:	Matthæus 9, 14-17
-Korvers: Johann Sebastian Bach: Jesus, livets rige kilde, (tekst: Rist 1642, Brorson 1734, Wexels 1849)
-Salme: 453 "Vort løsen er vor tro og dåb"
-Postludium: Samuel Scheidt: Wir glauben all an einen Gott</description>
-      <pubDate>Wed, 10 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405283/b0a17ec7023ee10f1a8e1af7e1035c448eb4afd9d4a643597de9ad29d66b42ac.mp3" type="audio/mpeg" length="36001577" />
     </item>
   </channel>
 </rss>

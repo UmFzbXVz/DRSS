@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 08 Aug 2024 05:57:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 06:13:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460181</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Op på hesten, Simone</title>
+      <description>Simone Biles er den mest dekorerede gymnast i historien. Hun har flere umulige spring opkaldt efter sig, og når hun træder ud på gymnastikmåtterne til OL, kommer verdensstjernerne for at se hende. Men historien om Simone Biles er også historien om en helt ny måde at være topatlet på. Michele Blomsterberg Hansen, der selv er tidligere gymnast fra USA, og som i dag arbejder som sportskonsulent i Det Danske Gymnastik Forbund fortæller i dagens program om fænomenet Biles og om de store forandringer, hun har skabt i amerikansk eliteidræt. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 6/8.</description>
+      <pubDate>Fri, 09 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:36</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460181/1cbb48003b5675675ade887efe00d9d8114a3d5c98efd44a6ce772f7d2335ea8.mp3" type="audio/mpeg" length="35433100" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460180</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>

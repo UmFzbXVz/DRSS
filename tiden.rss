@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 08 Aug 2024 05:55:17 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 06:19:58 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,21 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451124</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-svenske-bandeboern-krise-i-kursk-og-ol-tatoveringer-11802451124</link>
+      <title>Svenske bandebørn, krise i Kursk og OL-tatoveringer</title>
+      <description>Unge svenskere bliver ifølge de danske myndigheder hyret til at begå vold i Danmark. 
+Det er en kæmpe provokation, lyder det fra Putin. Ukraine har i løbet af ugen sendt styrker ind i den russiske region Kursk. Kvindelige OL-atleters udseende er blevet et diskussionsemne i spalterne herhjemme. 
+Vært: Annika Wetterling.
+Medvirkende: Carsten Norton, journalist på Frihedsbrevet, Kristian Lindberg, kulturkommentator på Berlingske.</description>
+      <pubDate>Fri, 09 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451124/fb16a240944725ba949aeb08ace05f94ef00739ecc59de613fe68852b4b8422b.mp3" type="audio/mpeg" length="23022602" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451123</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-blaa-hestetunger-midtvestens-farmand-og-sinwar-til-tops-11802451123</link>
@@ -1595,23 +1610,6 @@ Kåre Pihlmann, formand for Landsforeningen af Forsvarsadvokater.</description>
       <itunes:duration>00:15:38</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451028/6b1c379b66326f260246bce402112e33e2223485eebab1ed6b3b7b8b226b8c81.mp3" type="audio/mpeg" length="22522633" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802451027</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-hvem-draebte-hanne-fonsecas-retur-og-danskernes-usundhed-11802451027</link>
-      <title>Hvem dræbte Hanne? Fonsecas retur og danskernes usundhed</title>
-      <description>Københavns Politi har fået et gennembrud i en 34 år gammel drabssag på den 23-årige Hanne With ved hjælp af nye DNA-spor. Mike Fonseca er uenig i Moderaternes eksklusion af ham. Nu forsvarer han sin relation til en 15-årig pige og vender tilbage til Folketinget.
-Færre danskere har et godt helbred og flere har et dårligt mentalt helbred og er svært overvægtige. Det er de nedslående konklusioner i en ny rapport om danskernes sundhed.
-Værter: Annika Wetterling og Adrian Busk.
- Medvirkende: 
-Anne Illemann Christensen - forskningschef ved Statens Institut for Folkesundhed, Syddansk Universitet.
-Louise Dalsgaard, DR's retsanalytiker.</description>
-      <pubDate>Thu, 08 Feb 2024 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:42</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451027/dc0a1c032e5e79d3ad8f5c15637f7353be32b44d3c20140d03efeb5275d119fa.mp3" type="audio/mpeg" length="24071500" />
     </item>
   </channel>
 </rss>

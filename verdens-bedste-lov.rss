@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Thu, 08 Aug 2024 06:08:55 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 06:18:52 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -167,6 +167,7 @@ Produceret af Filt CPH.</description>
       <itunes:episode>1</itunes:episode>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:29:32</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66b4caa03d14bcfd98f532c5.jpg" />
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16121814844/1060ffa23e7f6db0b87c7b83bad7a27895fb2a96b6d2d419bf0a71686fac96a3.mp3" type="audio/mpeg" length="42543451" />
     </item>
   </channel>
