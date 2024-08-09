@@ -9,7 +9,7 @@ Vært: Frederik Korfix.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 09 Aug 2024 06:19:40 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 19:01:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -32,6 +32,19 @@ Vært: Frederik Korfix.</description>
     </itunes:category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">18452447325</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/korfix-i-koejen/korfix-i-koejen/korfix-i-koejen-18452447325</link>
+      <title>Fredag 9. aug. 2024</title>
+      <description>Fra sin hængekøje præsenterer Frederik Korfix soundtracket til din sommer. Husk solbriller, solhat og solcreme - så sørger P8 Jazz for resten.   
+Vært: Frederik Korfix.</description>
+      <pubDate>Fri, 09 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452447325/b9ea6addac3ea5c696ab92adee42cc0681316456fc0611d7170ee68f1ffdd6a9.mp3" type="audio/mpeg" length="168482083" />
+    </item>
     <item>
       <guid isPermaLink="false">18452447324</guid>
       <link>https://www.dr.dk/lyd/p8jazz/korfix-i-koejen/korfix-i-koejen/korfix-i-koejen-18452447324</link>
