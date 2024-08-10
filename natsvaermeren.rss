@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 09 Aug 2024 18:56:12 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 10:56:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -156,19 +156,6 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463292/24df610d76474434f8b1ce995f2a85429de7898ad16460249319397effbb6e8f.mp3" type="audio/mpeg" length="168482084" />
     </item>
     <item>
-      <guid isPermaLink="false">12422463283</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sommerillusioner-12422463283</link>
-      <title>Sommerillusioner</title>
-      <description>En sorgløs sommerslentrer, hvor alle forventninger falder i hak. 
-Vært: Minna Grooss.</description>
-      <pubDate>Thu, 11 Jul 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463283/6c85da846f42f0a100d32c621a39ca051b876a82fa3a80b790a0481c80ccedb2.mp3" type="audio/mpeg" length="168481438" />
-    </item>
-    <item>
       <guid isPermaLink="false">12422463156</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-venner-af-natten-12422463156</link>
       <title>Venner af natten</title>
@@ -284,6 +271,19 @@ Vært: Katrine Ring.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463087/b792386b1a13567b805cb85cf34151c1cc921de04608c5c9eb16ad3293ac9ce9.mp3" type="audio/mpeg" length="168479656" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12422363343</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-blaa-fugl-12422363343</link>
+      <title>Blå fugl</title>
+      <description>Natsværmeren letter som engle, som fugle og andre bevingede væsener, rastløs og rolig på samme tid på musikkens vinger.
+Vært: Tina Rømer.</description>
+      <pubDate>Thu, 24 Aug 2023 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422363343/c557c0864ff9cab4903ccb38ce3f8e972493d1cc1c6ffababf3ad074748109ad.mp3" type="audio/mpeg" length="172802064" />
     </item>
     <item>
       <guid isPermaLink="false">12422363327</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 09 Aug 2024 19:01:08 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 10:56:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -26,6 +26,23 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652410325</guid>
+      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/medaljeregn-paa-p4/medaljeregn-paa-p4-13652410325</link>
+      <title>Medaljeregn på P4</title>
+      <description>Dagen er ved at gå på hæld i Paris, men vi er slet ikke færdige. Aftenen betyder kampe, de bedste øjeblikke fra OL-dagen, der er gået og ikke mindst: Medaljeregn. 
+Værter: Sara Skovhave og Alberte Røhl.</description>
+      <pubDate>Fri, 09 Aug 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000040014</itunes:order>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>04:55:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22952df24f14c3ddf5b6e.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652410325/9bcc2be7f624cc3d0bca3196a1101abd3ccc0af4a8ec01df1fdac78061c418c5.mp3" type="audio/mpeg" length="424802123" />
+    </item>
     <item>
       <guid isPermaLink="false">13652410324</guid>
       <link>https://www.dr.dk/lyd/p4/ol-paa-p4/medaljeregn-paa-p4/medaljeregn-paa-p4-13652410324</link>
@@ -76,23 +93,6 @@ Værter: Louise Dreisig og Sara Skovhave.</description>
       <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22952df24f14c3ddf5b6e.jpg" />
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652410322/deddb79b21d0bbeea12283ed1e3e3602d60dc0508c5d96033e64679d274c9bd2.mp3" type="audio/mpeg" length="424802124" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652410321</guid>
-      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/medaljeregn-paa-p4/medaljeregn-paa-p4-13652410321</link>
-      <title>Medaljeregn på P4</title>
-      <description>Dagen er ved at gå på hæld i Paris, men vi er slet ikke færdige. Aftenen betyder kampe, de bedste øjeblikke fra OL-dagen, der er gået og ikke mindst: Medaljeregn. 
-Værter: Alberte Røhl og Sara Skovhave.</description>
-      <pubDate>Mon, 05 Aug 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000040010</itunes:order>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>10</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:55:00</itunes:duration>
-      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22952df24f14c3ddf5b6e.jpg" />
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652410321/9becb5408be6f10f8ff86c0b4720936ecc701fd3996f21d5b8fd1530108e16dd.mp3" type="audio/mpeg" length="338402123" />
     </item>
     <item>
       <guid isPermaLink="false">13652409325</guid>
@@ -163,23 +163,6 @@ Værter: Maja Rosager, Nanna Nørregaard og David Mandel.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652409322/0b65e8b6f829a37ad1525f66d6196501055a30018e9957bcbdcccc3054d6ccef.mp3" type="audio/mpeg" length="341282147" />
     </item>
     <item>
-      <guid isPermaLink="false">13652409321</guid>
-      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/olympiske-legekammerater/olympiske-legekammerater-13652409321</link>
-      <title>Olympiske legekammerater</title>
-      <description>Maja, Nanna og David er dine olympiske legekammerater, der tager dig med gennem eftermiddagens OL-discipliner. De lover godt humør, store øjeblikke og sekunder du husker!
-Værter: Maja Rosager og Nanna Nørregaard.</description>
-      <pubDate>Mon, 05 Aug 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000030008</itunes:order>
-      <itunes:season>3</itunes:season>
-      <itunes:episode>8</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:57:00</itunes:duration>
-      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a2295c6a7c7bc04df56dbd.jpg" />
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652409321/53e3841d11d1f690f4fad1444404428f2cc326cca2acd37fb37a343a29c384cc.mp3" type="audio/mpeg" length="341282134" />
-    </item>
-    <item>
       <guid isPermaLink="false">13652408325</guid>
       <link>https://www.dr.dk/lyd/p4/ol-paa-p4/hall-of-fame-paa-p4/hall-of-fame-paa-p4-13652408325</link>
       <title>Hall of Fame på P4</title>
@@ -248,23 +231,6 @@ Værter: Lotte Friis og Mikkel Bagger.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652408322/4922d378f262188a3d9347846c53b6547753ebabfb1cf2b220360b27befc73a6.mp3" type="audio/mpeg" length="151201600" />
     </item>
     <item>
-      <guid isPermaLink="false">13652408321</guid>
-      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/hall-of-fame-paa-p4/hall-of-fame-paa-p4-13652408321</link>
-      <title>Hall of Fame på P4</title>
-      <description>I Hall of Fame med Lotte Friis og Mikkel Bagger træder du ind i det fineste OL-selskab. Her møder du hver dag nogle af Danmarks største OL-atleter, får hemmelighederne fra atleternes liv i den Olympiske By, og vi indlemmer et nyt medlem i vores egen Hall of Fame.
-Værter: Lotte Friis og Mikkel Bagger.</description>
-      <pubDate>Mon, 05 Aug 2024 12:15:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000020010</itunes:order>
-      <itunes:season>2</itunes:season>
-      <itunes:episode>10</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:00</itunes:duration>
-      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a22966df24f14c3ddf5bd4.jpg" />
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652408321/0f163ed67e8a7676ae70c196dc230f1347fd5d1374fb1751be90d35b64643316.mp3" type="audio/mpeg" length="151201600" />
-    </item>
-    <item>
       <guid isPermaLink="false">13652407325</guid>
       <link>https://www.dr.dk/lyd/p4/ol-paa-p4/live-fra-paris/live-fra-paris-13652407325</link>
       <title>Live fra Paris</title>
@@ -331,23 +297,6 @@ Værter: Louise Deruginsky og Thomas Loft.</description>
       <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a2293edf24f14c3ddf5b08.jpg" />
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652407322/fc109fda7e62b3164fc510a7ecb91d1d501fe5ff75866369600474edb3d39d50.mp3" type="audio/mpeg" length="252002151" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652407321</guid>
-      <link>https://www.dr.dk/lyd/p4/ol-paa-p4/live-fra-paris/live-fra-paris-13652407321</link>
-      <title>Live fra Paris</title>
-      <description>Alle har ret til et fedt OL, og Louise Deruginsky og Thomas Loft guider dig derfor gennem de store og små OL-øjeblikke og inviterer både dig og atleterne med op på P4s tagterrasse i byernes by.
-Værter: Louise Deruginsky og Thomas Loft.</description>
-      <pubDate>Mon, 05 Aug 2024 09:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>0000010011</itunes:order>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>11</itunes:episode>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:55:00</itunes:duration>
-      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66a2293edf24f14c3ddf5b08.jpg" />
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652407321/4249c92eae70e11d9c826491a1bb05b60dbc4a2a3878c9d4ae456aacdd767522.mp3" type="audio/mpeg" length="252001575" />
     </item>
   </channel>
 </rss>

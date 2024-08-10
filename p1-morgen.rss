@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 09 Aug 2024 19:01:04 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 10:56:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433326</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433326</link>
+      <title>Lørdag 10. aug. 2024</title>
+      <description>Hvilken effekt kommer grænsekontrol til at få for svenske bandemedlemmer, som tager til Danmark? Er OL gode nok til at omfavne LBGT personer? Skaber Kursk-angreb et vendepunkt for Ukraine?  
+Dagens værter: Morten Runge og Kristian Magnus Damsgaard Jensen.</description>
+      <pubDate>Sat, 10 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:50:06</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433326/2a2f34e172184d4739fa6a3ac0b60db752e97f888da9d674f4467798bb26b386.mp3" type="audio/mpeg" length="158548257" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433325</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433325</link>
@@ -1859,18 +1871,6 @@ Dagens værter: Ole Brink og Thomas Tjaerandsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:54</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433072/ee84c8f0aa7063d38d5b7f7082365f2394b3e2dd23be62a6e87e5665ec199443.mp3" type="audio/mpeg" length="237476385" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433071</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433071</link>
-      <title>Mandag 12. feb. 2024</title>
-      <description>Regeringen vil gøre organdonation automatisk med en 'blød model'. Hvilken forskel gør regeringens forslag om organdonation reelt, når man alligevel skal bekræfte og framelde? Der er indgået overenskomst for 190.000 offentligt ansatte. Hvem vandt overenskomstforhandlingerne? Nødhjælpsmedarbejder talte i tre timer med seksårige Hind - nu er Hind fundet dræbt i Gaza. Hvad siger Røde Halvmåne om sagen nu, hvor det er kommet frem, og hvad er der israelske militærs svar?
-Dagens værter: Ole Brink og Thomas Tjaerandsen.</description>
-      <pubDate>Mon, 12 Feb 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:44:51</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433071/a6c02e79265fc487a4c0e2d3e9993e9950c3cb1a11600c338f69dc909377514c.mp3" type="audio/mpeg" length="237390561" />
     </item>
   </channel>
 </rss>

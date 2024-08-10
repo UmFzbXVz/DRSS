@@ -3,11 +3,12 @@
   <channel>
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/musiktjenesten" rel="self" type="application/rss+xml" />
     <title>Musiktjenesten</title>
+    <link>https://www.dr.dk/lyd/p6beat/musiktjenesten-828866764000</link>
     <description>Musiktjenesten giver dig dagens bedste musikhistorier og gør din eftermiddag hyggelig og sjov - og selvfølgelig fuld af god musik! Vi tester din musikalske viden i quizzer og finder de bedste sange inden for forskellige temaer sammen med dig. Velkommen indenfor!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 09 Aug 2024 19:01:06 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 10:56:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -18,6 +19,7 @@
     <image>
       <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1857d0c1a140697e132.jpg</url>
       <title>Musiktjenesten</title>
+      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten-828866764000</link>
     </image>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1857d0c1a140697e132.jpg" />
     <category>Music</category>

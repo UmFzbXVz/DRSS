@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 09 Aug 2024 19:00:53 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 10:56:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450256</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-faar-hansen-og-landin-et-perfekt-punktum-13652450256</link>
+      <title>Får Hansen og Landin et perfekt punktum?</title>
+      <description>De danske håndboldherrer er sikret minimum sølv ved OL, efter de fredag aften slog Slovenien snævert i et dramatisk opgør. 
+I dagens episode vender vi gårsdagens opgør, hvor der var grus i maskineriet, mens vi kigger frem mod finalen mod Tyskland. 
+Derudover varmer vi op til to danske kajakroere, der begge kan sikre sig medaljer lørdag. 
+Vært: Rikke Smed.</description>
+      <pubDate>Sat, 10 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:54</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450256/f4ff8d9f9edca9294894228d4f1b20cd05203f57569b9aab0b694b66a45864f5.mp3" type="audio/mpeg" length="28665659" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450159</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-turpals-vanvittige-rejse-til-ol-bronze-13652450159</link>
@@ -2170,20 +2185,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:01</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450030/6d861c9a1a5dd34dc0e75feff6cb82b10235dcccac2abba499e652152803b692.mp3" type="audio/mpeg" length="24513753" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450029</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-las-vegas-gaar-all-in-13652450029</link>
-      <title>Las Vegas går all in</title>
-      <description>Når Super Bowl søndag bliver spillet på Allegiant Stadium i Las Vegas, kommer alles øjne til at hvile på hele verdens underholdningshovedstad.
-Det er det seneste bevis på, at Las Vegas satser stort på sport, for byen har allerede hold i NHL og NFL, og der bliver spyttet milliarder af kroner efter sportsbegivenheder som Formel 1 og Super Bowl. Men er det en god forretning? Det svarer økonom Lars Christensen på i dagens Tyvstart.
-Vært: Emil Schiønning.</description>
-      <pubDate>Fri, 09 Feb 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:26</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450029/d0f31dffae56f779a40e8839f56ed12dcb94693dd42cfec360d567ee5e17335e.mp3" type="audio/mpeg" length="25126716" />
     </item>
     <item>
       <guid isPermaLink="false">13652450016</guid>

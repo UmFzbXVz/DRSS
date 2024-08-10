@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Fri, 09 Aug 2024 19:01:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 10:56:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405326</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405326</link>
+      <title>Lørdag 10. aug. 2024</title>
+      <description>Præludium:	Georg Böhm: Freu dich sehr, o meine Seele
+Davidssalme: 67, 2-5
+Salme: 397 "Trods længselens smerte"
+Fra det N.T.:	Romerbrevet 10, 4-13
+Trosbekendelsen 	
+Salme: 396 "Min mund og mit hjerte"
+Postludium: Felix Mendelssohn Bartholdy: Andante D-dur fra op. 65 nr. 6</description>
+      <pubDate>Sat, 10 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405326/572c8a97187d0c7415096e710157a3897aa4b5238012cec1a228d4331b1bb0c5.mp3" type="audio/mpeg" length="36001577" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405325</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405325</link>
@@ -474,24 +492,6 @@ Postludium: Fanny Hensel-Mendelssohn: Lied</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405285/a218710cd22dea3cbf129496a86cb0d1c3d455085a02c4c80bbc775da0f17158.mp3" type="audio/mpeg" length="36001575" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405284</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405284</link>
-      <title>Torsdag 11. jul. 2024</title>
-      <description>Præludium:	Carl Philipp Emanuel Bach: Fløjtestykke
-Fra det G.T.:	Salme 100
-Salme: 14 "Tænk, at livet koster livet"
-Fra det N.T.:	Matthæus 9, 18-26
-Korvers: Johann Sebastian Bach: Jesus, livets rige kilde, (tekst: Rist 1642, Brorson 1734, Wexels 1849)
-Salme: 425 "Velsignelse, al jordens tarv"
-Postludium: Johann Kuhnau: Il Concerto Musico delle Donne</description>
-      <pubDate>Thu, 11 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405284/0acba04f257dbf5c77c11391410b74a81282f75d1615b17650d86b8b75053678.mp3" type="audio/mpeg" length="36001578" />
     </item>
   </channel>
 </rss>
