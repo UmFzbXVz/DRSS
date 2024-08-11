@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 10 Aug 2024 10:56:41 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 05:53:59 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -474,24 +474,6 @@ Postludium: Kate Westrop: Andante</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405286/c886613b56bd7ff01a77ee2b9773caec73082393791318ce87ffecea39bde275.mp3" type="audio/mpeg" length="36001554" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405285</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405285</link>
-      <title>Fredag 12. jul. 2024</title>
-      <description>Præludium:	Zoltan Kodaly: Epigram nr. 3
-Fra det G.T.:	Salme 103, 1-12
-Salme: 393 "Fra Himmelen hid til os ned"
-Fra det N.T.:	Matthæus 9, 27-34
-Korvers: Johann Sebastian Bach: Jesus, livets rige kilde, (tekst: Rist 1642, Brorson 1734, Wexels 1849)
-Salme: 380, vers 1-2+5 "Op dog, Zion! Ser du ej"
-Postludium: Fanny Hensel-Mendelssohn: Lied</description>
-      <pubDate>Fri, 12 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405285/a218710cd22dea3cbf129496a86cb0d1c3d455085a02c4c80bbc775da0f17158.mp3" type="audio/mpeg" length="36001575" />
     </item>
   </channel>
 </rss>

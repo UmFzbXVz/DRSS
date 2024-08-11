@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 10 Aug 2024 10:56:11 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 05:53:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Produceret for DR af MonoMono.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122423326</guid>
+      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-revolution-og-repetition-med-suzanne-broegger-16122423326</link>
+      <title>Revolution og repetition - med Suzanne Brøgger</title>
+      <description>Forfatter Suzanne Brøgger er gæst hos Alban og Alex. Samtalen kredser blandt andet om, hvordan man holder sin kreative åre igang, om kamp og revolution i musik, og om at kæmpe imod tiden og lade sig fængsle af repetitive toner. Suzanne spiller blandt andet The Dave Brubeck Quartet, Satie og Bach. Alban og Alex spiller blandt andet Chopin, Rameau og Suzanne Brøgger.
+
+Værter: Alban Lendorf, balletdanser og skuespiller, Alexander McKenzie, pianist og komponist.
+Gæst: Suzanne Brøgger, forfatter.
+Producer: Tobias Ingemann.
+Redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Sat, 10 Aug 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:53:06</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423326/11b1060cc217f22afc43f687aef239c34eb582520bf46c2b80190801498a074e.mp3" type="audio/mpeg" length="162870218" />
+    </item>
     <item>
       <guid isPermaLink="false">16122423316</guid>
       <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-afskeden-og-livets-balance-med-simon-witzansky-16122423316</link>

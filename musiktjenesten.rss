@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 10 Aug 2024 10:56:16 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 05:53:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452428326</guid>
+      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten-2024/musiktjenesten-16452428326</link>
+      <title>Lørdag 10. aug. 2024</title>
+      <description>Vært: Jacob Hinchely.</description>
+      <pubDate>Sat, 10 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428326/fdd3058d5d08a537d8c80ed1d396d1c52d618d207824e0b042d495d89df497ef.mp3" type="audio/mpeg" length="168481360" />
+    </item>
     <item>
       <guid isPermaLink="false">16452428325</guid>
       <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten/musiktjenesten-16452428325</link>

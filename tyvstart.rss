@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 10 Aug 2024 10:56:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 05:53:51 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,21 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450257</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-haandbold-er-dansk-men-hvad-med-cykling-13652450257</link>
+      <title>Håndbold er dansk, men hvad med cykling?</title>
+      <description>De sidste olympiske medaljer er tæt på at være fordelt, og i dagens afsnit sættes der et lille punktum for to af de sportsgrene, hvor de danske håb var størst.
+Håndboldkvinderne vandt lørdag bronze, mens herrerne spiller finale søndag, og man kan næsten ikke forestille sig, at det ikke bliver guld til Nikolaj Jacobsens tropper.
+Til gengæld er cykeldisciplinerne ikke gået som forventet under de olympiske lege i Paris.
+Vært: Thomas Loft.</description>
+      <pubDate>Sun, 11 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:35</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450257/e65f5699c40a2eccaadff445ccdc2cf81e7d48d75d358546e73d897850a4dee9.mp3" type="audio/mpeg" length="28220990" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450256</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-faar-hansen-og-landin-et-perfekt-punktum-13652450256</link>

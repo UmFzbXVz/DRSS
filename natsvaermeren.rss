@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 10 Aug 2024 10:56:22 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 05:54:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422463326</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-12422463326</link>
+      <title>Søndag 11. aug. 2024</title>
+      <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.
+Vært: Katrine Ring.</description>
+      <pubDate>Sun, 11 Aug 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463326/8c908bd6310a525b657130f447e14579160ba8dbf210dc5960555b2af2b17db9.mp3" type="audio/mpeg" length="168478597" />
+    </item>
     <item>
       <guid isPermaLink="false">12422463323</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-sommeraften-12422463323</link>
@@ -219,19 +232,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463133/dbad5543e0db1b375ac47b98180b69465793644ed5779011107de449516bee86.mp3" type="audio/mpeg" length="168473467" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463127</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-forandringer-12422463127</link>
-      <title>Forandringer</title>
-      <description>Alting forandrer sig. Lyset, humøret, huden, hjertets takt, kærligheden og musikken i din natsværmer flade. Det kan være svært af acceptere, og endnu mere umuligt at gå imod. Natsværmeren guider dig gnidningsløst gennem hvert sekund.
-Vært: Minna Grooss.</description>
-      <pubDate>Mon, 25 Mar 2024 03:03:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463127/e12324a162a1e33138772bc7863271c3d4b68db8b1ead85cf57393f51c38822b.mp3" type="audio/mpeg" length="168480454" />
     </item>
     <item>
       <guid isPermaLink="false">12422463126</guid>

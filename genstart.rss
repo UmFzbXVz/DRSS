@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sat, 10 Aug 2024 10:55:01 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 05:53:44 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460182</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Våd selvtægt</title>
+      <description>Med hænderne i håndjern bliver Paul Watson ført ned af sit skibs ståltrappe og over på den grønlandske kaj. Bag ham går betjente i dansk uniform. I mere end 40 år har Paul Watson kæmpet mod hvalfangst på verdens have. Som aktivist og selvtægtsmand. Nu er han i dansk varetægt, men det har sat Danmark i diplomatisk krydspres. Japan kræver ham udleveret. Mens prominente dyreaktivister, politikere fra 10 lande og den franske præsident Macron kræver ham løsladt. Genstart taler i dag med hval-biologen Hanne Strager om kaptajnen, der deler vandene.
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 7/8.</description>
+      <pubDate>Sun, 11 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:44</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460182/df75a17a8f3c0d3d84a19a64d6c4cb4a98bb18696a12c25e90fc0c3ce90eb8fe.mp3" type="audio/mpeg" length="35640464" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460181</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -10011,19 +10025,6 @@ Vært: Simon Stefanski.</description>
       <itunes:duration>00:22:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150159/585b74a6695acb0f56f46a349f17caddaadb305623cf1e151848bd4c5e72fd99.mp3" type="audio/mpeg" length="33060542" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150158</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-kuppet-af-robocop-11802150158</link>
-      <title>Kuppet af RoboCop?</title>
-      <description>I en tale til nationen proklamerer Tunesiens præsident for nyligt, at han vil suspendere landets parlament, afsætte premierministeren og selv tage styringen over den udøvende magt sammen med en ny premierminister, som han selv vil udpege. Befolkningen hylder ham, imens resten af verden holder vejret. Er præsidenten, der har fået tilnavnet RoboCop på grund af sit monotone ansigtsudtryk, i virkeligheden ved at amputere det tunesiske demokrati? Et demokrati, der igen og igen er blevet fremhævet som det arabiske forårs succeshistorie? Det giver Christina Nordvang Jensen sit svar på. Hun er journalist på Dagbladet Information og har boet i landet og trykket præsidenten i hånden.
-Vært: Simon Stefanski.</description>
-      <pubDate>Tue, 10 Aug 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:18</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150158/68c378d629d93c4908ce5811c4b3b7721274e2430203105adccdc003a03b035b.mp3" type="audio/mpeg" length="36452614" />
     </item>
     <item>
       <guid isPermaLink="false">11802050164</guid>
