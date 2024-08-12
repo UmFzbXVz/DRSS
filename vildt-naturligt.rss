@@ -11,7 +11,7 @@ vildtnaturligt@dr.dk</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 11 Aug 2024 05:45:45 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 05:29:47 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -31,6 +31,21 @@ vildtnaturligt@dr.dk</description>
     <itunes:category text="Science">
       <itunes:category text="Nature" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11032423331</guid>
+      <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2024/vildt-naturligt-dybe-problemer-paa-lavt-vand-11032423331</link>
+      <title>Dybe problemer på lavt vand</title>
+      <description>Det idylliske naturbillede nær fjorde og indre danske farvande skildrer strandenge, stenrev, ålegræs, muslingebanker og rigt fugleliv. Men glansbilledet trues af forurening, klimaforandringer og kystnære menneske-planer. Fire steder i Danmark prøver et stort naturprojekt at vende udviklingen for at få noget af det tabte tilbage. Samtidig er udfordringerne dog på vej til at blive endnu større i fremtiden.
+Gæster: Naturgeograf Rasmus Bonderup Pedersen fra Limfjordsrådet (projektleder for Coastal LIFE) og museumsinspektør Jake Hubert Gardiner, Limfjordsmuseet.
+Værter: Biologerne Johan Olsen og Vicky Knudsen.
+Producer: Carsten Nielsen.
+vildtnaturligt@dr.dk</description>
+      <pubDate>Mon, 12 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:07</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032423331/e85d7de0f90ed6f70a86b83ab6b587d69b2036f3e1244f716c7932eb025b7d5e.mp3" type="audio/mpeg" length="80810953" />
+    </item>
     <item>
       <guid isPermaLink="false">11032423321</guid>
       <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2024/vildt-naturligt-overbefolkning-og-barnloeshed-11032423321</link>
@@ -2108,22 +2123,6 @@ vildtnaturligt@dr.dk</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:12</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11542103334/2e7465f3bc3f608775540c2053fbdf98fe154cd10e7163e0cee39628a214be1c.mp3" type="audio/mpeg" length="80941130" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11542103324</guid>
-      <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2021/vildt-naturligt-dykkersyge-fisk-og-andre-groenlandske-gaader-11542103324</link>
-      <title>Dykkersyge fisk og andre grønlandske gåder</title>
-      <description>De enorme fjorde på Grønland har et indviklet forhold kørende med gletsjerne, havstrømmene og indlandsisen. Derfor kan forskning i fjordene gøre os klogere på globale klimaforandringer og risikoen for stigende havniveauer. Men den byder også på mere lokale dramaer om eksploderende fisk med dykkersyge og sære lysfølsomme væsner i dybet...
-Biologerne Johan Olsen og Vicky Knudsen får besøg af professor Søren Rysgaard, som er en af pionererne i den arktiske forskning. Sammen med kolleger har han bidraget til at gøre Godthåbsfjorden (Nuup Kangerlua) til klodens bedst udforskede arktiske fjord. Han fortæller om erfaringerne hidtil og om et aktuelt nyt togt, hvor droner, selvkørende målerobotter og undersøiske sensorer bliver taget i brug i farvandet omkring Grønland i jagten på flere svar.
-Værter: Johan Olsen &amp; Vicky Knudsen.
-Gæst: Professor Søren Rysgaard, Arktisk Forskningscenter og Institut for Biologi, Aarhus Universitet.
-Producer: Carsten Nielsen.
-vildtnaturligt@dr.dk</description>
-      <pubDate>Thu, 12 Aug 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:24</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11542103324/f9a95275d383fc44e87aacbca530fc4b85944fd2d7c99345bc2cc38a81821ae1.mp3" type="audio/mpeg" length="81221072" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 11 Aug 2024 05:53:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 05:29:31 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452456327</guid>
+      <link>https://www.dr.dk/lyd/p5/sommergiro/sommergiro/sommergiro-15452456327</link>
+      <title>Søndag 11. aug. 2024</title>
+      <description>Nyd to timer fyldt med Giro 413's mest elskede sange og klassikere, der bringer glæde til dine weekender. 
+Vær med til at fejre sommeren med musik og gode historier i denne sommerudgave af Giro 413, hvor vært Gitte Førby præsenterer musik og lytterønsker.</description>
+      <pubDate>Sun, 11 Aug 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:45:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452456327/25cc2a2527f5665f44d3ec5b98777f43c2aa012dad1f2f6f44601a3f1549ad40.mp3" type="audio/mpeg" length="151201591" />
+    </item>
     <item>
       <guid isPermaLink="false">15452456317</guid>
       <link>https://www.dr.dk/lyd/p5/sommergiro/sommergiro/sommergiro-15452456317</link>

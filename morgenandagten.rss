@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 11 Aug 2024 05:53:59 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 05:29:48 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -456,24 +456,6 @@ Postludium: Per Günther: Helligånd, de frommes glæde</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405291/c5e9fe42c4cd34d153227b448069c2a97ebe6ddc70c6bc408d0d12401a223ce5.mp3" type="audio/mpeg" length="36001581" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405286</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405286</link>
-      <title>Lørdag 13. jul. 2024</title>
-      <description>Præludium:	Lasse Toft Eriksen: Alt hvad som fuglevinger fik 
-Davidssalme: 57, 8-12 
-Salme: 10 "Alt, hvad som fuglevinger"
-Fra det N.T.:	Romerbrevet 8, 1-4
-Trosbekendelsen	
-Salme: 518 "På Guds nåde"
-Postludium: Kate Westrop: Andante</description>
-      <pubDate>Sat, 13 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405286/c886613b56bd7ff01a77ee2b9773caec73082393791318ce87ffecea39bde275.mp3" type="audio/mpeg" length="36001554" />
     </item>
   </channel>
 </rss>

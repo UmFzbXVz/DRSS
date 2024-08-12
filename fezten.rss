@@ -9,7 +9,7 @@ Vært: Niels Fez Pedersen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 11 Aug 2024 05:53:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 05:29:32 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -64,19 +64,6 @@ Vært: Niels Fez Pedersen.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464296/3d1de58a7fab8f502b60eda352c8b7a3bf33d3c118e7eed7c76c982f5acfdcf0.mp3" type="audio/mpeg" length="168482029" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122464286</guid>
-      <link>https://www.dr.dk/lyd/p6beat/fezten/fezten-2024/sommerfezten-16122464286</link>
-      <title>SommerFezten</title>
-      <description>Vi skal ud under åben himmel. SommerFezten samler på sange om strand, hav, natur og sommerens udeliv.
-Vært: Niels Fez Pedersen.</description>
-      <pubDate>Sat, 13 Jul 2024 16:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122464286/70201e71f99cedd5c0681235e68e86f4e77b67870354c375d132e784e0092cff.mp3" type="audio/mpeg" length="168481463" />
     </item>
   </channel>
 </rss>
