@@ -3,12 +3,11 @@
   <channel>
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/musiklivet-med-carsten-holm" rel="self" type="application/rss+xml" />
     <title>Musiklivet med Carsten Holm</title>
-    <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm-2635789829000</link>
     <description>Vært: Carsten Holm.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 23 Jul 2024 06:05:30 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:03 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -19,23 +18,22 @@
     <image>
       <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1417d0c1a140697e01e.jpg</url>
       <title>Musiklivet med Carsten Holm</title>
-      <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm-2635789829000</link>
     </image>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1417d0c1a140697e01e.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">16122462261</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm/musiklivet-med-carsten-holm-2024/musiklivet-med-carsten-holm-16122462261</link>
-      <title>Mandag 24. jun. 2024</title>
+      <guid isPermaLink="false">16122462331</guid>
+      <link>https://www.dr.dk/lyd/p6beat/musiklivet-med-carsten-holm/musiklivet-med-carsten-holm-2024/musiklivet-med-carsten-holm-16122462331</link>
+      <title>Mandag 12. aug. 2024</title>
       <description>Musiklivet med Carsten Holm</description>
-      <pubDate>Mon, 24 Jun 2024 16:05:00 +0200</pubDate>
+      <pubDate>Mon, 12 Aug 2024 16:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462261/aa624f1f584d60b359ce8d4427d63b5f13bd682aa770a7c209270cf0397305a1.mp3" type="audio/mpeg" length="165601907" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122462331/727bfbbbd80b8b34c37fecd673ea511bff693ba1b730ded1b49b77346bc90734.mp3" type="audio/mpeg" length="165601331" />
     </item>
   </channel>
 </rss>

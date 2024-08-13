@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 12 Aug 2024 05:29:34 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:06 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332425331</guid>
+      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-40-par-bambusstroemper-hvor-kanonje-13332425331</link>
+      <title>40 par bambusstrømper, hvor kanonje!</title>
+      <description>Hvis du har en drøm, så send den ind på p3drommer@dr.dk - husk dit telefonnummer.
+Drømmeholdet er tilbage i P3-studiet efter Smukfest, og alle er klar på en ny uge. Dagens første drøm er fra Johannes, der sammen med sine venner er begyndt at bruge ordet 'kanonje' meget, og derfor skal det selvfølgelig i ordbogen. Nemt skal det dog ikke være, men måske en snak med TV Avisens Lillian Gjerulf Kretz hjælper? Dagens næste drøm ender nok ud i Danmarks største jagt på bambusstrømper, da Ida på 5 år med autisme ikke har flere par tilbage. Strømperne er en vigtig del af Idas morgenrutine, og mon ikke verdens bedste drømmehold er på pletten.</description>
+      <pubDate>Mon, 12 Aug 2024 09:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425331/1c0d17b2d653dcf1c96689e27c77aca282a07b1b6e7d238a0ac9e176b8c5ffa9.mp3" type="audio/mpeg" length="254882179" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332425325</guid>
       <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-maa-jeg-stege-min-dej-paa-pande-13332425325</link>
       <title>Må jeg stege min dej på pande?</title>
@@ -37,18 +50,6 @@ Kh Shania.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425325/76b9bf76f45cc2d334b1a693e019c7247714bce771bd3b2bf238dcbf51b2e453.mp3" type="audio/mpeg" length="168481603" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332425324</guid>
-      <link>https://www.dr.dk/lyd/p3/droemmeholdet/droemmeholdet-2024/droemmeholdet-bid-mig-i-roeven-klamfyr-13332425324</link>
-      <title>Bid mig i røven Klamfyr!</title>
-      <description>Det er dag 4 af Drømmeholdet på Smukfest, og hvilken fucking dag. Dagens første drøm har vi fundet på Kærligheden, hvor "Q" og hendes veninder er godt inde i dagens første flaske vin. Stemningen er høj, og derfor drømmer de om, at deres medbragte balloner bliver det samme. Drømmen er derfor intet mindre end en omgang helium, så ballonerne kan komme i luften. Det viser sig dog at være en nemmere opgave end dagens næste drøm. Katrine drømmer nemlig om at få Emil fra Suspekt's bidemærke tatoveret på røven. Og ovenpå sådan en omgang, kan vi da lige så godt nå en sidste tattoo-drøm. Nemlig Tobias' drøm om en "Drømmeholdet"-tattoo direkte i studiet.</description>
-      <pubDate>Thu, 08 Aug 2024 10:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332425324/239c9ad6b000a91d09c26c2885d06b45a6ada57b5dd9d6e2ecf45381b1641cfe.mp3" type="audio/mpeg" length="168481603" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 12 Aug 2024 05:29:41 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:15 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450161</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-ol-guruens-stoerste-oejeblikke-fra-paris-13652450161</link>
+      <title>OL-guruens største øjeblikke fra Paris</title>
+      <description>OL er slut, og det er tid til at gøre status i Tyvstart. Derfor snakker vi med DR's OL-guru, Henrik Liniger, om hans fem største højdepunkter fra OL i Paris. 
+Vi skal dog også forbi grønsværen, fordi FC Midtjylland spiller returkamp i Ungarn, hvor de har gode chancer for at gå videre i Champions League-kvalifikationen.
+Vært: Michael Sten.</description>
+      <pubDate>Tue, 13 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:52</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450161/7b806f907270bced7a927dfd858b055779681109b590d404b4e8c303867c2c06.mp3" type="audio/mpeg" length="28613242" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450160</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-hansen-og-landin-slutter-paa-toppen-13652450160</link>
@@ -2202,19 +2216,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:14</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450031/f8f8aeeb275308d49be588b639c35ce9b37a7219feda88f96d562206c1b47583.mp3" type="audio/mpeg" length="24823166" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450030</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-en-fejl-betyder-fiasko-13652450030</link>
-      <title>Én fejl betyder fiasko</title>
-      <description>For tredje gang i karrieren har Tanja Gellenthien vundet bueskydnings Super Bowl, den prestigefyldte turnering Vegas Shoot.Tanja har fundet lykken, kærligheden og sin levevej i USA, hvor hun er blevet fuldtidsprofessionel indenfor disciplinen 'compound'.I dagens afsnit af Tyvstart fortæller hun om at trives i en nulfejlskultur, fravælge OL og leve i et forhold, der er et realityprogram værdigt.
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 12 Feb 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:17:01</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450030/6d861c9a1a5dd34dc0e75feff6cb82b10235dcccac2abba499e652152803b692.mp3" type="audio/mpeg" length="24513753" />
     </item>
     <item>
       <guid isPermaLink="false">13652450016</guid>

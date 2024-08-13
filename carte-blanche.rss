@@ -11,7 +11,7 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 12 Aug 2024 05:29:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:05 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,21 @@ Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332427331</guid>
+      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-skolestart-klage-paa-svenska-og-dr-jojo-13332427331</link>
+      <title>Skolestart, klage på svenska og Dr. JoJo</title>
+      <description>Vi er tilbage; altså sådan rigtigt tilbage fra sommerferie, og det går ikke stille for sig!
+I dag er der skolestart for rigtigt mange børn ude i det danske land, og da det ikke er okay at grine af børn, så griner JoJo, Henrik og Jannik af hinandens skolestartsbilleder. Henrik påstår ikke at have nogen billeder fra sin skolestart, fordi det ifølge hans mor ikke var moderne at tage billeder af sine børn dengang *ringer til de sociale myndigheder på bagkant*. Jannik har haft en rigtigt træls oplevelse hos vores naboer i nord, og selvom han gør det modvilligt, er han med, når der forfattes en klage til svensken.
+Den gode JoJo er overhovedet ikke læge, men det stopper hende ikke i at forsøge at fjerndiagnosticere og -heale lytternes skavanker som alteregoet, Dr. JoJo.
+Værter: JoJo, Jannik Schow og Henrik Eriksen.</description>
+      <pubDate>Mon, 12 Aug 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427331/5270621beceea64cb20603232be4437e85e5b2a2b0d2854e0c88f4478f05e74d.mp3" type="audio/mpeg" length="172801607" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332427325</guid>
       <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-fulde-kaerester-ugens-uundgaaelige-og-ens-eget-gode-selskab-13332427325</link>
       <title>Fulde kærester, Ugens Uundgåelige og ens eget gode selskab</title>
@@ -41,21 +56,6 @@ Værter: Jannik Schow og Henrik Eriksen.</description>
       <itunes:duration>03:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427325/f7120774c88cb36d39d21a63642b28f22bef937cae1d85d627cb95164f30c9fc.mp3" type="audio/mpeg" length="259202184" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332427324</guid>
-      <link>https://www.dr.dk/lyd/p3/carte-blanche/carte-blanche-2024/carte-blanche-andres-hemmeligheder-daarlige-kondomundskyldninger-og-champens-ord-13332427324</link>
-      <title>Andres hemmeligheder, dårlige kondomundskyldninger og Champens Ord</title>
-      <description>Carte Blanche-bussen ruller, og Henrik og Jannik skal se kort eller billet. Oftest skulle man bare have holdt sin store mund, men nogle gange skal man holde den mere end andre, nemlig når man kommer til at afsløre andres hemmeligheder. Lytterne fortæller, om dengang de afslørede andres hemmeligheder og søger aflad hos Carte Blanche.
-Findes der noget værre end dårlige undskyldninger? Ja, desværre. Der findes dårlige undskyldninger for ikke at bruge kondom, hvilket huserer særligt i disse dage i Bøgeskoven, hvor Smukfest huserer. Vi finder frem til de allerdårligste og siger samtidigt "beskyt dig nu"!
-Har gud og hvermand efterhånden skrevet en bog, spørger du, og til det svarer vi: Uffe Holm har i hvert fald. Champens Ord er på gaden, og som var det et værk, han havde trukket til danskeksamen, dissekerer Henrik de vejledende ord.
-Værter: Jannik Schow og Henrik Eriksen.</description>
-      <pubDate>Thu, 08 Aug 2024 12:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332427324/5a697e8877ea957e2528b66bf7d6e9d490efc4c4f2e214394c4da3388f50ded6.mp3" type="audio/mpeg" length="259202183" />
     </item>
   </channel>
 </rss>

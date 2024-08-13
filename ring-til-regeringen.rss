@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 12 Aug 2024 05:29:26 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,23 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bfbe443243f95e2c6bb3.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11162406331</guid>
+      <link>https://www.dr.dk/lyd/p1/ring-til-regeringen/ring-til-regeringen-2024/ring-til-regeringen-mattias-tesfaye-11162406331</link>
+      <title>Mattias Tesfaye</title>
+      <description>Regeringen er på vej med en ny ungdomsuddannelse, som kombinerer boglige og praktiske fag. Gider de unge det?
+Skal mobiltelefonerne helt ud af klasseværelset i det nye skoleår?
+Hvem skal passe vores børn, når der mangler pædagoger?
+Ring til regeringen og Mattias Tesfaye, børne- og undervisningsminister.
+Stil dit kritiske spørgsmål og få direkte svar.
+Ring 70211919 eller send en sms til 1212. Din direkte vej til magten på P1.
+Vært: Gitte Hansen.</description>
+      <pubDate>Mon, 12 Aug 2024 12:15:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:11:30</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162406331/3b52944603ed8b973ee4aa659eb5ec6b4a7c30d70590a67941d0ee10bbd04cee.mp3" type="audio/mpeg" length="102985801" />
+    </item>
     <item>
       <guid isPermaLink="false">11162406251</guid>
       <link>https://www.dr.dk/lyd/p1/ring-til-regeringen/ring-til-regeringen-2024/ring-til-oppositionen-martin-lidegaard-11162406251</link>
@@ -228,23 +245,6 @@ Vært: Camilla Michelle Mikkelsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:11:28</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162406081/6ba9d9fb47d831e7c0e861a9edfb7bffe4e52a8b414f5ca24f7c8f2efce62c5f.mp3" type="audio/mpeg" length="102929354" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11162406071</guid>
-      <link>https://www.dr.dk/lyd/p1/ring-til-regeringen/ring-til-regeringen-2024/ring-til-oppositionen-alex-vanopslagh-politisk-leder-liberal-alliance-11162406071</link>
-      <title>Ring til oppositionen: Alex Vanopslagh, politisk leder Liberal Alliance</title>
-      <description>Skal danskerne automatisk aflevere deres organer til staten?
-Har Trump lige trukket stikket på NATO?
-Er vi gået amok i heksejagt på milliardærer og smukke kvinder? 
-Handler Liberal Alliance mere om nogen end om noget?
-Ring med dit kritiske spørgsmål til Liberal Alliances leder, Alex Vanopslagh.
-Ring på tlf. 70211919 eller sms 1212 til P1. 
-Vært: Gitte Hansen.</description>
-      <pubDate>Mon, 12 Feb 2024 12:15:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:12:05</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162406071/074a2fdaf1a7e001994fd4632980e921aaf0c8cb25b73871d73303da688a4e8d.mp3" type="audio/mpeg" length="103824455" />
     </item>
   </channel>
 </rss>

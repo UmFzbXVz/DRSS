@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 12 Aug 2024 05:29:39 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:10 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433331</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433331</link>
+      <title>Mandag 12. aug. 2024</title>
+      <description>I byen Khan Younis er tusindvis af palæstinensere natten til søndag blev beordret til at søge væk. Hvorfor er Khan Younis så vigtig, at Israel gang på gang beordrer masseevakueringer i området? I dag ringer det igen ind på mange af landets folkeskoler. Danske Skoleelever efterlyser større fokus på en tryg skolestart. Hvordan kan overgangen mellem børnehave og skolestart blive mere tryg? Rusland har i weekenden skærpet sikkerheden i tre regioner, der grænser op til Ukraine. Hvordan omtales Ukraines offensiv i Rusland?
+Dagens værter: Pernille Rudbæk og Kristian Magnus Damsgaard Jensen.</description>
+      <pubDate>Mon, 12 Aug 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:45:05</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433331/1b65ee0e1120c9f35cf190c8a08454bf5baa75c153381df48052a92a4e7f228c.mp3" type="audio/mpeg" length="237730977" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433326</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433326</link>
@@ -1833,18 +1845,6 @@ Dagens værter: Bjarne Steensbeck og Ole Brink.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:44:49</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433075/ed537613bf593571a5fa91f3bdf7d226f49e586c88671431262272afb56b5a7b.mp3" type="audio/mpeg" length="237351605" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433074</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433074</link>
-      <title>Torsdag 15. feb. 2024</title>
-      <description>Hvilket ansvar har folkevalgte politikere for at passe på børn i en sag som Borup Skole-sagen? Hvad krævede det, at vi nu lever op til NATO's krav? Og lakker Rishi Sunaks regeringstid mod enden? 
-Dagens værter: Bjarne Steensbeck og Thomas Tjaerandsen.</description>
-      <pubDate>Thu, 15 Feb 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:43:56</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433074/a027678f34fb76a3dad195d0a216e12dfad768875a34826da34fa52539f9dd7f.mp3" type="audio/mpeg" length="236072301" />
     </item>
   </channel>
 </rss>

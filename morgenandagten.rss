@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 12 Aug 2024 05:29:48 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:27 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405331</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405331</link>
+      <title>Mandag 12. aug. 2024</title>
+      <description>Præludium: Samuel Wesley: Gavotte
+Ord til dagen: Paul Tillich
+Salme: 414 "Den mægtige finder vi ikke"
+Fra det N.T.:	Matthæus 13, 44-52
+Korvers: Michael Prætorius: Til dig alene, Herre Krist (tekst: Wittenberg 1541)
+Salme: 684 "O Jesus, du al nådens væld"
+Postludium: Johann Sebastian Bach: Aria</description>
+      <pubDate>Mon, 12 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405331/2e4f97a2cf7e4ccd0216d2b709f48cc6f0f0751f5ca0e545f7a526451af4ff1b.mp3" type="audio/mpeg" length="36001582" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405326</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405326</link>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 12 Aug 2024 05:29:53 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:26 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -40,9 +40,9 @@ Vært: Minna Grooss.</description>
     </item>
     <item>
       <guid isPermaLink="false">12422463326</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-12422463326</link>
-      <title>Søndag 11. aug. 2024</title>
-      <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nattefald-12422463326</link>
+      <title>Nattefald</title>
+      <description>Når natten falder.
 Vært: Katrine Ring.</description>
       <pubDate>Sun, 11 Aug 2024 03:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
@@ -182,6 +182,19 @@ Vært: Minna Grooss.</description>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463292/24df610d76474434f8b1ce995f2a85429de7898ad16460249319397effbb6e8f.mp3" type="audio/mpeg" length="168482084" />
     </item>
     <item>
+      <guid isPermaLink="false">12422463162</guid>
+      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nattens-spejl-12422463162</link>
+      <title>Nattens spejl</title>
+      <description>Når skønheden vipper på kanten af noget ubærligt. Må natten spejle alle dine drømme.
+Vært: Minna Grooss.</description>
+      <pubDate>Wed, 17 Apr 2024 03:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:56:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463162/9cd9e8efb2cebddd3ce56517839ac0a1cba38749536603b46d6067f679a31d28.mp3" type="audio/mpeg" length="168480309" />
+    </item>
+    <item>
       <guid isPermaLink="false">12422463156</guid>
       <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-venner-af-natten-12422463156</link>
       <title>Venner af natten</title>
@@ -193,19 +206,6 @@ Vært: Minna Grooss.</description>
       <itunes:duration>01:56:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463156/71617f4cde0d133280711319c4bb02931266a097445ae58b7e55b1e2546f3900.mp3" type="audio/mpeg" length="168480463" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422463151</guid>
-      <link>https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-det-jeg-husker-12422463151</link>
-      <title>Det jeg husker</title>
-      <description>Om erindring og hukommelse - og alt det, der var engang. 
-Vært: Katrine Ring.</description>
-      <pubDate>Tue, 09 Apr 2024 03:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:56:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422463151/f810be41348fe059c4081b50ac64ffef4e3248f348391b751035dc211e15324e.mp3" type="audio/mpeg" length="168480850" />
     </item>
     <item>
       <guid isPermaLink="false">12422463143</guid>

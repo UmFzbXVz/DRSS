@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 12 Aug 2024 05:29:36 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:19:09 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410331</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410331</link>
+      <title>Mandag 12. aug. 2024</title>
+      <description>Hvad vil LA's krav være til de kommende forhandlinger? Hvad kan vi lære om ledelse af landstræner Nikolaj Jacobsen? Og hvad er situationen i Gaza efter angreb i weekenden og evakueringsordre fra Israel?
+Dagens værter: Søren Carlsen og Anne Kirstine Hermann.</description>
+      <pubDate>Mon, 12 Aug 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:21:34</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410331/deb5fd3917503d19077485e4cd40d9b2a3030bf0a70ff531ee624b2217e3262f.mp3" type="audio/mpeg" length="117480130" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410325</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410325</link>
@@ -41,7 +53,7 @@ Dagens vært: Jan Falkentoft.</description>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410324</link>
       <title>Torsdag 8. aug. 2024</title>
       <description>Hvorfor bliver de unge svenskere hvervet af danske bandekriminelle i så høj grad?Hvad har dansk kamerasystem fundet på mars? Kan man stole på Rwanda?
-Vært: Anne Kirstine Hermann.</description>
+Dagens vært: Anne Kirstine Hermann.</description>
       <pubDate>Thu, 08 Aug 2024 16:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
@@ -707,7 +719,7 @@ Dagens værter: Anne Kirstine Hermann og Søren Carlsen.</description>
       <guid isPermaLink="false">11802410215</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410215</link>
       <title>Fredag 24. maj 2024</title>
-      <description>Hvilken betydning kommer dagens ICJ-kendelse til at få for Israels landoffensiv i Rafah?Hvorfor stopper Aarhus Universitet deres samarbejde inden for kortlægning af gener med kinesiske virksomheder? Hvordan skal vi bruge de nyfundne milliarder i statskassen?
+      <description>Hvilken betydning kommer dagens ICJ-kendelse til at få for Israels landoffensiv i Rafah? Hvorfor stopper Aarhus Universitet deres samarbejde inden for kortlægning af gener med kinesiske virksomheder? Hvordan skal vi bruge de nyfundne milliarder i statskassen?
 Dagens værter: Cecilie Lange og Anne Kirstine Hermann.</description>
       <pubDate>Fri, 24 May 2024 16:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
@@ -1515,18 +1527,6 @@ Dagens værter: Thomas Tjaerandsen og Jan Falkentoft.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:52:40</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410075/5733937d150cef93d9b228f12490aa8b173b172437c295d24da4992a43a52e6f.mp3" type="audio/mpeg" length="162260766" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410074</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410074</link>
-      <title>Torsdag 15. feb. 2024</title>
-      <description>Hvad gør det ved børn, at der er så meget opmærksomhed på sagen ved Borup Skole? Hvordan påvirker det NATO-landene, at Donald Trump opfordrer Rusland til at angribe de medlemslande, der ikke bruger nok penge på forsvaret? Hvorfor får mænd i stigende grad lavet skønhedsbehandlinger?
-Dagens værter: Anne Kirstine Hermann og Jan Falkentoft.</description>
-      <pubDate>Thu, 15 Feb 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:20:06</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410074/2aa39d76f7a7f9747c28e9d99aacd029ccbae60cad51d56816f0129472e2106c.mp3" type="audio/mpeg" length="115352510" />
     </item>
   </channel>
 </rss>
