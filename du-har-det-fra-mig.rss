@@ -10,7 +10,7 @@ Redaktør: Kasper Christensen</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:17:06 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -19,27 +19,27 @@ Redaktør: Kasper Christensen</description>
     </itunes:owner>
     <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/du-har-det-fra-mig.xml?format=podcast</itunes:new-feed-url>
     <image>
-      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65aa4bb756594055cc6e6df1.jpg</url>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66bdd05c141dd1c0ec47f628.jpg</url>
       <title>Du har det fra mig</title>
       <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig-5206895445000</link>
     </image>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:65aa4bb756594055cc6e6df1.jpg" />
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66bdd05c141dd1c0ec47f628.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">18452436266</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-sommerbrise-og-varme-tunes-18452436266</link>
-      <title>Sommerbrise og varme tunes</title>
-      <description>Du har det fra mig sender sidste gang inde sommerferien og Naya Buric drysser derfor sol ned i din øregang. Her synger Astrud Gilberto en brasiliansk klassiker, mens filmkomponisten Andrzej Trzaskowski stiger ombord på et nattog og Brigitte Bardot er en anelse sommermelankolsk.
+      <guid isPermaLink="false">18452436336</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/du-har-det-fra-mig/du-har-det-fra-mig/du-har-det-fra-mig-tilbage-fra-sommerferie-18452436336</link>
+      <title>Tilbage fra sommerferie</title>
+      <description>Det nydannede band Astral Cinema tager dig med på en filmisk rejse, brasilianske Gal Costa synger en sommerballade, mens Marvin sørger for en soulklassiker. Du har et fra mig har været på sommerferie og er vendt tilbage med playlister fuld dejlige musik.
 Vært og tilrettelægger: Naya Buric.
 Redaktør: Kasper Christensen.</description>
-      <pubDate>Sat, 29 Jun 2024 16:03:00 +0200</pubDate>
+      <pubDate>Sat, 17 Aug 2024 16:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436266/8d601bd7c5be5648714fbdd707ed0c7f62a6995b688fe35bde62f0e4243f94e0.mp3" type="audio/mpeg" length="168481610" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452436336/ad345169e284fd4248b7405d12c45f929aeccea226d5bc0b03922dcbd1b99a21.mp3" type="audio/mpeg" length="168481610" />
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:12 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:49 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,26 @@
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Leisure" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452400018</guid>
+      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-line-jensen-og-mohamed-hussein-15452400018</link>
+      <title>Line Jensen &amp; Mohamed Hussein</title>
+      <description>Lines mands job er vigtigere end hendes. Sådan føles det i hvert fald. På instagram er hun bitter and proud, men i virkeligheden er hun bange for at blive bitter for real. Line gider ikke være et offer, men det siger Jytte, at hun er. Hvordan omfavner man egentlig dén rolle? Og hvad betyder det overhovedet?
+Mo er ikke bitter, men til gengæld har han svært ved at lukke folk ind. Han kalder det selv for trust issues, efter han nogle gange har oplevet, at folk lukker ned, når han åbner op. Så hvordan bevarer man troen på, at det med at give noget af sig selv, er det rigtige, når det før har føltes helt forkert?
+Vi taler også om det vigtige ved ballade, om uens øjenbryn og om Jyttes noget yngre situationship...
+Medvirkende: Line Jensen &amp; Mohamed Hussein.
+Ekspert: Jytte Vikkelsøe. 
+Vært: Sebastian Lynggaard.  
+Producer: Cæcilie Helena Denman-Gretoft. 
+Musik: "Hold up" Beyonce. 
+Redaktør: Andreas Jeppesen.</description>
+      <pubDate>Mon, 19 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:23:37</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452400018/a8a8ce5ae13f44bc419a194c575af24389612f43b5b9634969a251b94b684d9c.mp3" type="audio/mpeg" length="120410938" />
+    </item>
     <item>
       <guid isPermaLink="false">15452400017</guid>
       <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2024/hjerteflimmer-for-voksne-jalal-camilla-og-anton-opfoelgning-paa-kaerligheden-15452400017</link>
@@ -2004,25 +2024,6 @@ Programansvarlig: Søren Bygbjerg.</description>
       <itunes:duration>01:09:35</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195329/a7bf6f5142b7d8cdc80b10a7f98f4155c314292d19d23be14b5bd05f120404fd.mp3" type="audio/mpeg" length="100223469" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332195328</guid>
-      <link>https://www.dr.dk/lyd/special-radio/hjerteflimmer-for-voksne/hjerteflimmer-for-voksne-2021/hjerteflimmer-for-voksne-spoergsmaal-fra-lytterne-om-leverpostej-og-sexlyst-manglende-forelskelse-og-powerkvinder-13332195328</link>
-      <title>Spørgsmål fra lytterne - om leverpostej og sexlyst, manglende forelskelse og powerkvinder</title>
-      <description>Barbara spørger, hvorfor hun dog kommer til at kalde sin kæreste for "mor", når de skændes? Mads spørger om, han kan springe forelskelsen over og alligevel få et godt langt parforhold? En lytter spørger: Hvorfor tiltrækker jeg kun sex? Og en anden lytter spørger om, der er færre mænd, der kan lide selvstændige, stærke powerkvinder, der er bedre end dem til at stå på snowboard? Til sidst er der en kvinde, der spørger, hvad hun skal gøre ved at hendes mand gennem 20 år ikke kan overskue sex pga. rengøring, børn og hverdag?
-Hør Jytte endnu engang excellere i kærlighed, og bliv klogere på dit eget liv med hjerteflimmer for voksne.
-
-Gæst: parterapeut Jytte Vikkelsøe.
-Vært: Sara Bro.
-Musik: Hold Up med Beyonce.
-Redaktør: Karen Straarup/Karen Albertsen.
-Programansvarlig: Søren Bygbjerg.</description>
-      <pubDate>Wed, 18 Aug 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:50:52</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332195328/a18ff693b28c976e7b9a65761bbacb871d972dd9f72d0b9103d4a5654655baf9.mp3" type="audio/mpeg" length="73254972" />
     </item>
   </channel>
 </rss>

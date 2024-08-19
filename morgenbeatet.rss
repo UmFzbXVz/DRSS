@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:06 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:26:01 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,30 +26,43 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">16452432331</guid>
-      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432331</link>
-      <title>Mandag 12. aug. 2024</title>
+      <guid isPermaLink="false">16452432341</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432341</link>
+      <title>Mandag 19. aug. 2024</title>
       <description>Det bedste og bredeste soundtrack til dagens første timer.
 Vært: Camilla Jane Lea.</description>
-      <pubDate>Mon, 12 Aug 2024 07:05:00 +0200</pubDate>
+      <pubDate>Mon, 19 Aug 2024 07:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432331/40e0e22d9089cd434cd355b1695923176e9d7812432b99db2192f2784ac4b7a5.mp3" type="audio/mpeg" length="252001995" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432341/0b571efc630b29e713ceece9071cb9ed085fc509155ec162bb77db80bbc7e43d.mp3" type="audio/mpeg" length="252001995" />
     </item>
     <item>
-      <guid isPermaLink="false">16452432325</guid>
-      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432325</link>
-      <title>Fredag 9. aug. 2024</title>
+      <guid isPermaLink="false">16452432335</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432335</link>
+      <title>Fredag 16. aug. 2024</title>
       <description>Det bedste og bredeste soundtrack til dagens første timer.
-Vært: Isa Naja Buhl.</description>
-      <pubDate>Fri, 09 Aug 2024 08:05:00 +0200</pubDate>
+Vært: Camilla Jane Lea.</description>
+      <pubDate>Fri, 16 Aug 2024 07:05:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
+      <itunes:duration>02:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432325/a423a90468ce85833dda97caadfa1a5d08d323ab8b83a5e52b9cab3dc9e8358d.mp3" type="audio/mpeg" length="165601416" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432335/7b34e69b07f426bf68ba69b395545d88c234a632a4e9d432f7efa81dc903122b.mp3" type="audio/mpeg" length="252001995" />
+    </item>
+    <item>
+      <guid isPermaLink="false">16452432334</guid>
+      <link>https://www.dr.dk/lyd/p6beat/morgenbeatet/morgenbeatet-2024/morgenbeatet-16452432334</link>
+      <title>Torsdag 15. aug. 2024</title>
+      <description>Det bedste og bredeste soundtrack til dagens første timer.
+Vært: Camilla Jane Lea.</description>
+      <pubDate>Thu, 15 Aug 2024 07:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452432334/9245023b5901c53b6a8b08a832110b1aab6b591fbfe7e9273e6452871f088873.mp3" type="audio/mpeg" length="252001419" />
     </item>
   </channel>
 </rss>

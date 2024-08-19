@@ -10,7 +10,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:21 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:42 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,19 @@
     <itunes:category text="Technology" />
     <itunes:category text="Science" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802421031</guid>
+      <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-taylor-terror-og-soegemaskinekrig-11802421031</link>
+      <title>Taylor-terror og søgemaskinekrig</title>
+      <description>Skal politiet have lov til at bryde krypterede beskedtjenester? Og kan de overhovedet gøre det? Mediet ABC antyder, at det var amerikanernes evner til at bryde kryptering, der førte til afværgelsen af terrorangrebet mod Taylor Swift-koncerten i Wien i sidste uge. Nu ønsker både dansk og østrigsk politi bedre muligheder for at læse med på krypterede tjenester. Vi taler med Sebastian Gjerding, journalist på Information. Og så skal vi snart vænne os til nye måder at finde ting på internettet, efter Google har domineret i 25 år. AI-søgemaskiner, som selv kigger hjemmesiderne igennem og giver dig svarene på dine spørgsmål, er på vej til at blive den nye standard. Vi taler med en repræsentant fra den førende AI-søgemaskine lige nu, Dmitry Shevelenko, CFO hos Perplexity.
+Værter: Marcel Mirzaei-Fard, tech-analytiker, og Henrik Moltke, tech-korrespondent.</description>
+      <pubDate>Thu, 15 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:54:08</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802421031/d6d5ceaa4d89871224a8a99959e09988000e1bb4b88b85cdb92ee84ee9a43a11.mp3" type="audio/mpeg" length="77971271" />
+    </item>
     <item>
       <guid isPermaLink="false">11802421030</guid>
       <link>https://www.dr.dk/lyd/special-radio/prompt/prompt-2024/prompt-mandgpt-harris-og-antivirus-fra-helvede-11802421030</link>

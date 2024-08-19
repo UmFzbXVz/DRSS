@@ -10,7 +10,7 @@ Redaktør: Mikkel Bagger.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 29 Jul 2024 08:53:38 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -19,31 +19,27 @@ Redaktør: Mikkel Bagger.</description>
     </itunes:owner>
     <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/se-det-for-dig.xml?format=podcast</itunes:new-feed-url>
     <image>
-      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6634cd2cf36a378bd7fb0c9c.jpg</url>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66bdd349141dd1c0ec4801d5.jpg</url>
       <title>Se det for dig</title>
       <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig-5488295268000</link>
     </image>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6634cd2cf36a378bd7fb0c9c.jpg" />
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66bdd349141dd1c0ec4801d5.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">18452440267</guid>
-      <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-flere-musikalske-portraetter-18452440267</link>
-      <title>Flere musikalske portrætter</title>
-      <description>Endnu engang dykker programmet ned i nogle af de portrætfilm, der heldigvis findes en del af. I dag har de alle flere ting til fælles, nemlig historier om talentfulde, dedikerede musikere, der desværre kæmper med misbrug og møder modstand pga deres hudfarve. Vi skal bl.a. forbi Charlie Parker, Miles Davis og Billie Holiday. 
+      <guid isPermaLink="false">18452440337</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/se-det-for-dig/se-det-for-dig/se-det-for-dig-italien-tur-retur-18452440337</link>
+      <title>Italien tur/retur</title>
+      <description>Det sydeuropæiske land Italien lokker mange folk til sig med deres smukke natur, rige kultur og fantastiske mad - og filmen og musikkens verden står ikke tilbage på det punkt. Så i dag forlænger vi sommeren med en rejse t/r til Støvlelandet. 
 Vært: Ida Rud
-Redaktør: Mikkel Bagger
-
-
-Vært og tilrettelægger: Ida Rud.
-Redaktør: Mikkel Bagger.</description>
-      <pubDate>Sun, 30 Jun 2024 16:03:00 +0200</pubDate>
+Redaktør: Kasper Overby</description>
+      <pubDate>Sun, 18 Aug 2024 16:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452440267/c14c7b2b5b1a1454536be7a50fcad364c7d05c0e934225e8e805883271c81a63.mp3" type="audio/mpeg" length="168481610" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:18452440337/75fdbae4b5aae43e5f43f490850687ae90f882c0f55b8894e38434d16b254c4a.mp3" type="audio/mpeg" length="168481610" />
     </item>
   </channel>
 </rss>

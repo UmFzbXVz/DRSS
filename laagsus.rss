@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:30 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:57 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122433335</guid>
+      <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-16122433335</link>
+      <title>Fredag 16. aug. 2024</title>
+      <description>Alt er Lågsus på P3, når Pelle Peter Jencel &amp; Nicholas Kawamura fyrer op for din eftermiddag.</description>
+      <pubDate>Fri, 16 Aug 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122433335/0d288771071066e640fe6871ae441457d333a59f9dd5b67158e945dab99e20e0.mp3" type="audio/mpeg" length="172802000" />
+    </item>
     <item>
       <guid isPermaLink="false">16122433265</guid>
       <link>https://www.dr.dk/lyd/p3/laagsus/laagsus-2024/laagsus-16122433265</link>

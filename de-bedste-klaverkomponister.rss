@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Wed, 24 Jul 2024 05:50:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:19 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:author>DR</itunes:author>
@@ -27,6 +27,68 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">12421853006</guid>
+      <link>https://www.dr.dk/lyd/p2/de-bedste-klaverkomponister/de-bedste-klaverkomponister-1/de-bedste-klaverkomponister-ifoelge-hammer-og-cornelius-6-6-rakhmaninov-12421853006</link>
+      <title>Ifølge Hammer &amp; Cornelius 6:6: Rakhmaninov</title>
+      <description>I seks udsendelser præsenterer Mathias Hammer og Jens Cornelius musikken af seks store klaverkomponister, der er umulige at komme uden om. Denne gang Rakhmaninov.
+(Sendt første gang 10. marts 2018).</description>
+      <pubDate>Fri, 02 Feb 2018 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010006</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421853006/58cf2c30003bff796e134b1dfe77ce13949339dbfbc8c391b419e48165006a4b.mp3" type="audio/mpeg" length="82166797" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12421853005</guid>
+      <link>https://www.dr.dk/lyd/p2/de-bedste-klaverkomponister/de-bedste-klaverkomponister-1/de-bedste-klaverkomponister-ifoelge-hammer-og-cornelius-5-6-ravel-12421853005</link>
+      <title>Ifølge Hammer &amp; Cornelius 5:6: Ravel</title>
+      <description>I seks udsendelser præsenterer Mathias Hammer og Jens Cornelius musikken af seks store klaverkomponister, der er umulige at komme uden om. Denne gang Ravel.
+(Sendt første gang 3. marts 2018).</description>
+      <pubDate>Fri, 02 Feb 2018 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010005</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421853005/36709fbd6243c4feb6a0778a2275dce63b6824bb99dff75e3ea5c23fcdd60478.mp3" type="audio/mpeg" length="82177158" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12421853004</guid>
+      <link>https://www.dr.dk/lyd/p2/de-bedste-klaverkomponister/de-bedste-klaverkomponister-1/de-bedste-klaverkomponister-ifoelge-hammer-og-cornelius-4-6-liszt-12421853004</link>
+      <title>Ifølge Hammer &amp; Cornelius 4:6: Liszt</title>
+      <description>I seks udsendelser præsenterer Mathias Hammer og Jens Cornelius musikken af seks store klaverkomponister, der er umulige at komme uden om. Denne gang Liszt.</description>
+      <pubDate>Fri, 02 Feb 2018 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010004</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421853004/7850d9c0ae67dc0feaa9158ef1c13f591ed6ae08a5de432cb6d684ee8a4db802.mp3" type="audio/mpeg" length="82169061" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12421853003</guid>
+      <link>https://www.dr.dk/lyd/p2/de-bedste-klaverkomponister/de-bedste-klaverkomponister-1/de-bedste-klaverkomponister-ifoelge-hammer-og-cornelius-3-6-schumann-12421853003</link>
+      <title>Ifølge Hammer &amp; Cornelius 3:6: Schumann</title>
+      <description>I seks udsendelser præsenterer Mathias Hammer og Jens Cornelius musikken af seks store klaverkomponister, der er umulige at komme uden om. Denne gang Schumann.</description>
+      <pubDate>Fri, 02 Feb 2018 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010003</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:56</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421853003/8a8c9fcf3089f8427dda7162878ad42a17514873790716f653946772ad9dad6e.mp3" type="audio/mpeg" length="82007784" />
+    </item>
+    <item>
       <guid isPermaLink="false">12421853002</guid>
       <link>https://www.dr.dk/lyd/p2/de-bedste-klaverkomponister/de-bedste-klaverkomponister-1/de-bedste-klaverkomponister-ifoelge-hammer-og-cornelius-2-6-chopin-12421853002</link>
       <title>Ifølge Hammer &amp; Cornelius 2:6: Chopin</title>
@@ -39,7 +101,23 @@
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:57:03</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421853002/18b5f031dd1f5d0ded6f5b72d64c24da284f987bfc572b9fc6fc702ecf2f12a3.mp3" type="audio/mpeg" length="82169098" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421853002/75bd30c87bbcebf575a3ef5c41459d5ebdac203a7733ebc526ad215ac951057c.mp3" type="audio/mpeg" length="82169062" />
+    </item>
+    <item>
+      <guid isPermaLink="false">12421853001</guid>
+      <link>https://www.dr.dk/lyd/p2/de-bedste-klaverkomponister/de-bedste-klaverkomponister-1/de-bedste-klaverkomponister-ifoelge-hammer-og-cornelius-1-6-beethoven-12421853001</link>
+      <title>Ifølge Hammer &amp; Cornelius 1:6: Beethoven</title>
+      <description>I seks udsendelser præsenterer Mathias Hammer og Jens Cornelius musikken af seks store klaverkomponister, der er umulige at komme uden om. Denne gang Beethoven.
+(Sendt første gang 3. februar 2018).</description>
+      <pubDate>Fri, 02 Feb 2018 06:00:00 +0100</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>0000010001</itunes:order>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:57:02</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12421853001/1fb89d8c69aaec9dd7791145061f6d610beb8cb7eea5dab3966060d155149873.mp3" type="audio/mpeg" length="82133964" />
     </item>
   </channel>
 </rss>

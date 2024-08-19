@@ -9,7 +9,7 @@ Velkommen til!</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:26:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,18 @@ Velkommen til!</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16452436624</guid>
+      <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-16452436624</link>
+      <title>Med Alba og hendes forhold til Robyn</title>
+      <description>Vi skal hænge ud med musiker og sangskriver Alba, som bor i Thy, hvor hun skriver de fedeste popsange, som hun begiver sig rundt i landet med. Vi skal begræde os ned i Robyns landskab, som er fyldt med minimalistiske popsange om forlist kærlighed og empowerment. Alt sammen til et beat, du kan danse til! Velkommen.</description>
+      <pubDate>Sun, 18 Aug 2024 09:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:17</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452436624/9dbe888839495eaf13c63dcfda4c31188fcb48eb75751d6d166025f23546e2e0.mp3" type="audio/mpeg" length="81055726" />
+    </item>
     <item>
       <guid isPermaLink="false">16452436623</guid>
       <link>https://www.dr.dk/lyd/p6beat/laenge-leve-albummet/laenge-leve-albummet-2024/laenge-leve-albummet-en-personlig-fortaelling-fra-selma-judith-med-amy-winehouse-som-bagtaeppe-16452436623</link>

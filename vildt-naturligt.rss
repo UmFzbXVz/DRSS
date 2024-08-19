@@ -11,7 +11,7 @@ vildtnaturligt@dr.dk</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:15 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -31,6 +31,21 @@ vildtnaturligt@dr.dk</description>
     <itunes:category text="Science">
       <itunes:category text="Nature" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">11032423341</guid>
+      <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2024/vildt-naturligt-mere-ilt-mere-liv-11032423341</link>
+      <title>Mere ilt - mere liv?</title>
+      <description>Jo mere ilt, jo bedre. Det plejer at være dét, forskerne hæfter sig ved, når de leder efter tegn på liv i Jordens forhistorie. Men måske er sammenhængen ikke så enkel, som lærebøgerne har bildt os ind. Overraskende nye bud på, hvordan livet har udviklet sig, bringer os milliarder af år tilbage i tiden og langt ned i undergrunden.
+Gæst: Professor og geolog Christian J. Bjerrum, Institut for Geovidenskab og Naturforvaltning, Københavns Universitet.
+Værter: Biologerne Johan Olsen og Vicky Knudsen.
+Producer: Carsten Nielsen.
+vildtnaturligt@dr.dk</description>
+      <pubDate>Mon, 19 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:36</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032423341/301f829e19eb5b35762a9b4823d7ca698b02d75ce7d77f3e6304a1b872404d1b.mp3" type="audio/mpeg" length="81521739" />
+    </item>
     <item>
       <guid isPermaLink="false">11032423331</guid>
       <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2024/vildt-naturligt-dybe-problemer-paa-lavt-vand-11032423331</link>
@@ -2106,23 +2121,6 @@ vildtnaturligt@dr.dk</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:56:23</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11542103344/20c5a2de5293fead2cc7c07f4b1eaf161e8b3125c22425e7f617b5fc2bca1a73.mp3" type="audio/mpeg" length="81213001" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11542103334</guid>
-      <link>https://www.dr.dk/lyd/p1/vildt-naturligt/vildt-naturligt-2021/vildt-naturligt-goer-det-selv-tips-til-biotosser-11542103334</link>
-      <title>Gør-det-selv tips til biotosser</title>
-      <description>Grav en havedam, lav en sommerfugle-skråning og plant nogle vilde blomster. En ny bog giver konkrete råd til folk, der gerne vil gøre noget godt for biodiversiteten, og man behøver ikke at være haveejer for at deltage.
-Men hvori består krisen egentlig, når vi i Danmark ser mange flere store pattedyr, eksotiske havdyr og rovfugle, som tidligere var pivsjældne? Og har vi mennesker overhovedet brug for en varieret og mangfoldig natur, eller er det bare "nice to have".
-Johan og Vicky får besøg af en af forfatterne bag den nye bog, og han har ærmet fuld af overrumplende oplysninger. For eksempel at der omkring 1920 kun var fire svanepar i Danmark.
-Værter: Johan Olsen &amp; Vicky Knudsen.
-Gæst: Michael Stoltze, biolog og forfatter. Sammen med kæresten, den norske historiker og arkæolog Mona Klippenberg, er han aktuel med bogen "Biodiversitet: Sådan skaber vi en rigere natur".
-Producer: Carsten Nielsen.
-vildtnaturligt@dr.dk</description>
-      <pubDate>Thu, 19 Aug 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:12</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11542103334/2e7465f3bc3f608775540c2053fbdf98fe154cd10e7163e0cee39628a214be1c.mp3" type="audio/mpeg" length="80941130" />
     </item>
   </channel>
 </rss>

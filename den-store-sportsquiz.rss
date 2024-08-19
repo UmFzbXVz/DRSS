@@ -10,7 +10,7 @@ Vært: Mikkel Nygaard.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:18:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:22 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,6 +27,20 @@ Vært: Mikkel Nygaard.</description>
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652430336</guid>
+      <link>https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz-2024/den-store-sportsquiz-fodbolden-ruller-igen-13652430336</link>
+      <title>Fodbolden ruller igen</title>
+      <description>Nu er der endelig bold igen! Premier League, La Liga, Serie A og Ligue er sparket i gang efter en lang sommerferie, og nu skal der quizzes i verdens største fodboldligaer. 
+Hvor meget ved du om de 15 danskere i Premier League? Har du styr på danskerklubberne i Europa og hvad med de største transfers?
+Vært: Mikkel Nygaard.</description>
+      <pubDate>Sat, 17 Aug 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652430336/cfe603f86e9328939dc6b35ac006ef9df25e44a025896bdd4cdb36d1e1581415.mp3" type="audio/mpeg" length="172802177" />
+    </item>
     <item>
       <guid isPermaLink="false">13652430326</guid>
       <link>https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz-2024/den-store-sportsquiz-13652430326</link>
@@ -67,20 +81,6 @@ Vært: Mikkel Nygaard.</description>
       <itunes:duration>03:00:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652430306/73b8a21803161a3aec4eac5cb77bbf208b1b59aba00cbeb527bead1f58224ccf.mp3" type="audio/mpeg" length="259201601" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652430291</guid>
-      <link>https://www.dr.dk/lyd/p3/den-store-sportsquiz/den-store-sportsquiz-2024/den-store-sportsquiz-her-er-der-aldrig-hviledag-13652430291</link>
-      <title>Her er der aldrig hviledag</title>
-      <description>Touren holder hviledag, EM-guldet røg til Spanien, og Carlos Alcaraz snuppede Wimbledon-titlen igen. 
-Den første del af årets vilde sportssommer er passeret, og det er tid til at stoppe op. Kigge tilbage, nyde den seneste måneds store resultater. Det er Sportsquizzen denne gang, hvor der dystes i alt fra franske cykelryttere til EM-finalens store hovedpersoner.
-Vært: Mikkel Nygaard.</description>
-      <pubDate>Mon, 15 Jul 2024 15:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:00:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652430291/7f6a0a846ebb113d51ebe7c0457e581aea361add6e154256dccf12d70efeb17b.mp3" type="audio/mpeg" length="259201606" />
     </item>
   </channel>
 </rss>

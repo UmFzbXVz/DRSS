@@ -13,7 +13,7 @@ Produceret af P3 Podcast.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:49 +0200</lastBuildDate>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,22 @@ Produceret af P3 Podcast.</description>
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6593b93ca838f3bbb329ffa8.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
+    <item>
+      <guid isPermaLink="false">13332496233</guid>
+      <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-mikkel-lind-sorgenfrey-13332496233</link>
+      <title>Mikkel Lind Sorgenfrey</title>
+      <description>En lytter har både sex med sin nabo og underbo, og en anden lytter drømmer om at blive catcallet. Sådan lyder det, når Sanne Cigale Benmouyal aflytter telefonsvareren med Mikkel Lind Sorgenfrey, der selv deler en familiehemmelighed.
+Ring ind med din hemmelighed på 28544000.
+Vært: Sanne Cigale Benmouyal.
+Producer: Sarah Schwab Randeris.
+Redaktionsleder: Anders Stegger.</description>
+      <pubDate>Sun, 18 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:55:55</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332496233/a9fcb1264482b65f6aca5b8de00f3b1b9fe8da85fd00a1defca288eb46e06d40.mp3" type="audio/mpeg" length="80543097" />
+    </item>
     <item>
       <guid isPermaLink="false">13332496232</guid>
       <link>https://www.dr.dk/lyd/p3/hemmeligheder/hemmeligheder-2024/hemmeligheder-zelma-lewerissa-13332496232</link>
@@ -2065,18 +2081,6 @@ Ring med din hemmelighed på 28 54 40 00.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>00:55:51</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032116344/635e769977a4336eeb4d15abb658d47b5fd6ccdeeae740063a65b0401013444e.mp3" type="audio/mpeg" length="80442309" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11032116334</guid>
-      <link>https://www.dr.dk/lyd/p1/hemmeligheder/hemmeligheder-2021/martin-brygmann-11032116334</link>
-      <title>Martin Brygmann</title>
-      <description>I selskab med Martin Brygmann bevæger Sanne Cigale Benmouyal og Anders Lund Madsen sig ind i et fortroligt og fordomsfrit rum, hvor hemmeligheder kan deles: En familiefar sælger stoffer for 2-3 mio. kr. om året, men familien ved ingenting; en kvinde er blevet kureret for brystkræft, men holder det hemmeligt, fordi hun fortsat ønsker omsorgen; og en mand har været sin kvindelig kæreste utro med en mand.
-Ring med din hemmelighed på 28 54 40 00.</description>
-      <pubDate>Thu, 19 Aug 2021 11:03:00 +0200</pubDate>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:56:31</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11032116334/570d28630480d8c5bcaba082e32e89039e9e5f7879cb91b90624a1166e80a574.mp3" type="audio/mpeg" length="81395016" />
     </item>
   </channel>
 </rss>

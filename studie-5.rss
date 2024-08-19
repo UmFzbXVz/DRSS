@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:36 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,16 +26,28 @@
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">15452429331</guid>
-      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429331</link>
-      <title>Mandag 12. aug. 2024</title>
+      <guid isPermaLink="false">15452429335</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429335</link>
+      <title>Fredag 16. aug. 2024</title>
       <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
-      <pubDate>Mon, 12 Aug 2024 14:03:00 +0200</pubDate>
+      <pubDate>Fri, 16 Aug 2024 14:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429331/ad55a55ecf86b1741b297df3cea804c890895d8b8990210d7f3c4fa39bfeb542.mp3" type="audio/mpeg" length="168482101" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429335/1870a59073b9e8d706e8ccf17c36a0d4524ecd2ef281b4ca13e15faad6c0bbbd.mp3" type="audio/mpeg" length="168481525" />
+    </item>
+    <item>
+      <guid isPermaLink="false">15452429334</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429334</link>
+      <title>Torsdag 15. aug. 2024</title>
+      <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
+      <pubDate>Thu, 15 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429334/e54e9c78ddeb55b80186fcc7f53a013ade7755d753c14ecebc884b49ca113ef7.mp3" type="audio/mpeg" length="168481525" />
     </item>
   </channel>
 </rss>

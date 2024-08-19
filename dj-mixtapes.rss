@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:14 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:24:30 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,19 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523bedc443243f95e2c5f75.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
+    <item>
+      <guid isPermaLink="false">13332416335</guid>
+      <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-anton-westerlin-3-13332416335</link>
+      <title>Anton Westerlin #3</title>
+      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
+Anton Westerlin er bag pulten.</description>
+      <pubDate>Fri, 16 Aug 2024 20:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>03:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416335/e45b11edc073f3d11441f025ac4e3b44c1907885a79039c3fe9732d33681ea67.mp3" type="audio/mpeg" length="259201588" />
+    </item>
     <item>
       <guid isPermaLink="false">13332416325</guid>
       <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-anton-westerlin-2-13332416325</link>
@@ -335,19 +348,6 @@ DJ Simon Serberen.</description>
       <itunes:duration>03:00:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416085/036e48141e9468549b3494304728414d2b53846141ac9bd75bb0bbc64228820a.mp3" type="audio/mpeg" length="259395113" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332416075</guid>
-      <link>https://www.dr.dk/lyd/p3/p3-pulten/p3-pulten-2024/p3-pulten-simon-serberen-mix-2-13332416075</link>
-      <title>Simon Serberen Mix #2</title>
-      <description>Lige meget om festen skal peake på dansegulvet eller i dine høretelefoner, står landets dygtigste DJ's klar bag P3 Pulten hver fredag aften. Hver måned skifter pulten hænder, og en ny DJ indtager din fest.
-DJ Simon Serberen.</description>
-      <pubDate>Fri, 16 Feb 2024 20:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:00:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332416075/9aac61b487eac0aa183d234e5bf3b3d2c6d6d9e02fe80f3b1128a5a0179f8349.mp3" type="audio/mpeg" length="259395113" />
     </item>
   </channel>
 </rss>

@@ -4,11 +4,11 @@
     <atom:link href="https://api.dr.dk/podcasts/v1/feeds/det-store-talkshow-pa-p4" rel="self" type="application/rss+xml" />
     <title>Det Store Talkshow</title>
     <link>https://www.dr.dk/lyd/p4/det-store-talkshow-4009482608000</link>
-    <description>De to værter Cecilie Hother og David Mandel får hver lørdag besøg af tre kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.</description>
+    <description>De to værter Nanna Nørregaard og David Mandel får hver lørdag besøg af tre kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:17:06 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:26:00 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -17,27 +17,28 @@
     </itunes:owner>
     <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/det-store-talkshow-pa-p4.xml?format=podcast</itunes:new-feed-url>
     <image>
-      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c16d443243f95e2c7aa8.jpg</url>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66c2ef07141dd1c0ec5c63d8.jpg</url>
       <title>Det Store Talkshow</title>
       <link>https://www.dr.dk/lyd/p4/det-store-talkshow-4009482608000</link>
     </image>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c16d443243f95e2c7aa8.jpg" />
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66c2ef07141dd1c0ec5c63d8.jpg" />
     <category>Society &amp; Culture</category>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">15452440266</guid>
-      <link>https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/det-store-talkshow-15452440266</link>
-      <title>Lørdag 29. jun. 2024</title>
-      <description>De to værter Cecilie Hother og David Mandel får hver lørdag besøg af tre kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.
-Tv-vært, podcast-vært, foredragsholder og børnebogsforfatter Thomas Skov er aktuel med børnebogen "Snip Snap Snork- Sommerhistorier fra Sovgodtersgade"
-Skuespiller Jesper Ole Feit Andersen er blandt andet kendt fra Sygeplejeskolen, Tv-programmet Stormester og ligenu er han aktuel i animationsfilmen Inderst Inde 2, hvor han spiller følelsen Flove.</description>
-      <pubDate>Sat, 29 Jun 2024 12:15:00 +0200</pubDate>
+      <guid isPermaLink="false">15452440336</guid>
+      <link>https://www.dr.dk/lyd/p4/det-store-talkshow/det-store-talkshow-2024/det-store-talkshow-15452440336</link>
+      <title>Lørdag 17. aug. 2024</title>
+      <description>De to værter Nanna Nørregaard og David Mandel får hver lørdag besøg af tre kendte og aktuelle danskere i det store Talkshow. Det er store spørgsmål til store personligheder.
+Gæsterne er:
+Christina Sander: journalist og influencer Christina Sander har mere end 120.000 følgere på Instagram. Hun er en skarp debattør i "The mental load" diskussionen om kønsroller og opgaver i hjemmet, og så er hun aktuel med showet "Vent med at blive skilt til i morgen" rundt i hele Danmark, om alle de små og store ting, der fylder og præger hverdagen. 
+Jacob Riising: Jacob Riising er tv-vært og netop nu aktuel i TV2 programmet " Pibestativ, stakit, kasket" hvor han og medvært Melvin Kakooza skal se hvor meget de kan bytte sig til, når de begynder med Otto Leisners gamle pibestativ.</description>
+      <pubDate>Sat, 17 Aug 2024 14:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
-      <itunes:duration>01:45:00</itunes:duration>
+      <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440266/3d5bbe60099b38bfcdfce5518e89364ea03fa98b4d490a3fa578d44ac7a1d8ea.mp3" type="audio/mpeg" length="151201603" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452440336/48aaed78c45c0ec6b8a9b669869781ea704c44c39c87549bde47fcd730ecc232.mp3" type="audio/mpeg" length="168482179" />
     </item>
   </channel>
 </rss>

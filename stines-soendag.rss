@@ -9,7 +9,7 @@ En rolig start på dagen og en samtale om livets vigtige hjørner og vendepunkte
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@ En rolig start på dagen og en samtale om livets vigtige hjørner og vendepunkte
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">12422444337</guid>
+      <link>https://www.dr.dk/lyd/p2/stines-soendag/stines-soendag-2024/stines-soendag-rosa-lund-folketingspolitiker-12422444337</link>
+      <title>Rosa Lund, Folketingspolitiker</title>
+      <description>Da Rosa Lund bliver diagnosticeret med  sklerose ramler hendes verden sammen. Pludselig står hun med en følelse af at være i stykker og ikke noget værd. Efter nogle år i et voldeligt parforhold vender hun modgang bliver til kampgejst. 
+Gæst: Rosa Lund, Folketingspolitiker.
+Vært: Stine Rosengren.</description>
+      <pubDate>Sun, 18 Aug 2024 09:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:55:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422444337/7343e6a3dd68a456119ffca6c5a5699db5fbd276d17b283fbe3a8f7fe65809c3.mp3" type="audio/mpeg" length="165602186" />
+    </item>
     <item>
       <guid isPermaLink="false">12422444257</guid>
       <link>https://www.dr.dk/lyd/p2/stines-soendag/stines-soendag-2024/stines-soendag-merete-maerkedahl-skuespiller-12422444257</link>
@@ -277,20 +291,6 @@ Gæstevært: Benedikte Granvig.</description>
       <itunes:duration>01:55:08</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422444087/82697d1246ae63288b1ad6538269e430f245c91c9c712c98581fd7aad30eb4fc.mp3" type="audio/mpeg" length="165795145" />
-    </item>
-    <item>
-      <guid isPermaLink="false">12422444077</guid>
-      <link>https://www.dr.dk/lyd/p2/stines-soendag/stines-soendag-2024/stines-soendag-moussa-mchangama-forfatter-og-raadgiver-12422444077</link>
-      <title>Moussa Mchangama, forfatter og rådgiver</title>
-      <description>Moussa Mchangama fortæller om at leve et liv, som han selv sætter rammerne for. En barndom, hvor Søs Fenger og violinist Vanessa Mae er soundtracket og musik betyder fællesskab, og et voksenliv, hvor han selv skaber en familie i nye rammer og finder fred og forståelse med en fraværende far. 
-Gæst: Moussa Mchangama, forfatter og rådgiver.
-Gæstevært: Benedikte Granvig.</description>
-      <pubDate>Sun, 18 Feb 2024 09:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:12422444077/b8e85936ff3bd27651130282ce584a8dc54cf8e75bbf2f10bd3697cd4d85c3c2.mp3" type="audio/mpeg" length="165795146" />
     </item>
     <item>
       <guid isPermaLink="false">12422444037</guid>

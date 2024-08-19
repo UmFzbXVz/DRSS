@@ -9,7 +9,7 @@ Produceret for DR af MonoMono.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:33 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,22 @@ Produceret for DR af MonoMono.</description>
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122423336</guid>
+      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-ritualer-og-improvisation-med-stefan-pasborg-16122423336</link>
+      <title>Ritualer og improvisation - med Stefan Pasborg</title>
+      <description>Trommeslager og komponist Stefan Pasborg er gæst hos Alex, og samtalen handler blandt andet om slagtøjets forhold til tid, samtnødvendigheden af ritualer i livet og musikkens rolle i det. Stefan fortæller om sit forhold til Stravinskys Rites of Spring, som han selv med stor ærefrygt har komponeret en fortolkning af. Den spiller han for Alex, samt værker af Per Nørgaard, Arvo Pärt og Keith Jarrett. Alex spiller blandet andet Ravel, Messeien og Vasks.  
+
+Gæst: Stefan Pasborg, trommeslager og komponist.
+Producer og redaktør: Rune Sparre Geertsen.
+Produceret for DR af MonoMono.</description>
+      <pubDate>Sat, 17 Aug 2024 15:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:53:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423336/81c794d73e29f549c7740d3764dee9d3cc31d64f4abcbc1bc83bc18601e6e6cf.mp3" type="audio/mpeg" length="162733705" />
+    </item>
     <item>
       <guid isPermaLink="false">16122423326</guid>
       <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-revolution-og-repetition-med-suzanne-broegger-16122423326</link>
@@ -78,23 +94,6 @@ Produceret for DR af MonoMono.</description>
       <itunes:duration>01:52:44</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423306/6fdb5f80e083ad18b1b868c30226afce466781ac56e583dab712d527cc4d4e4f.mp3" type="audio/mpeg" length="162360455" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122423296</guid>
-      <link>https://www.dr.dk/lyd/p2/alban-alex-og-evigheden/alban-alex-og-evigheden-2024/alban-alex-og-evigheden-angsten-og-det-skoenne-med-lars-mikkelsen-16122423296</link>
-      <title>Angsten og det skønne - med Lars Mikkelsen</title>
-      <description>Skuespiller Lars Mikkelsen er gæst, og samtalen med Alex handler blandt andet om det indre mørke, angsten og lykken der følger med at få børn, om det skønne og opgøret med det, og hvor meget vi skal vide om musikken for at føle den. Lars spiller blandt andet Rachmaninoff og Hans Abrahamsen. Alex spiller blandet andet Henryk Gorecki og Shostakovich. 
-
-Vært: Alexander McKenzie, pianist og komponist.
-Gæst: Lars Mikkelsen, skuespiller.
-Producer og redaktør: Rune Sparre Geertsen. 
-Produceret for DR af MonoMono.</description>
-      <pubDate>Sat, 20 Jul 2024 15:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:53:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122423296/9eb64e49ccfbb2de14b9d9bca4b879766e21b34847d5b85b90ceb5d40603b8a1.mp3" type="audio/mpeg" length="162731404" />
     </item>
   </channel>
 </rss>

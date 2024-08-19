@@ -9,7 +9,7 @@ Produceret for DR af Munck Studios København.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:06 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:29 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -18,14 +18,27 @@ Produceret for DR af Munck Studios København.</description>
     </itunes:owner>
     <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/sjael.xml?format=podcast</itunes:new-feed-url>
     <image>
-      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1707d0c1a140697e0da.jpg</url>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66bdc4e6095f5af89903835f.jpg</url>
       <title>Sjæl</title>
       <link>https://www.dr.dk/lyd/p8jazz/sjael-4109756719000</link>
     </image>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1707d0c1a140697e0da.jpg" />
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66bdc4e6095f5af89903835f.jpg" />
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122480337</guid>
+      <link>https://www.dr.dk/lyd/p8jazz/sjael/sjael-2024/sjael-16122480337</link>
+      <title>Søndag 18. aug. 2024</title>
+      <description>Med Sjæl har soul-musikken fået et hjem på P8. Kom med rundt i hele sjælens anatomi historisk og genremæssigt med Karen Rosenberg bag mikrofonen. 
+Produceret for DR af Munck Studios København.</description>
+      <pubDate>Sun, 18 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122480337/8d9c54dd52cc843265cdea651482cdd1ef39c7096df7606f50f67ab4c74bc31d.mp3" type="audio/mpeg" length="168481525" />
+    </item>
     <item>
       <guid isPermaLink="false">16122480187</guid>
       <link>https://www.dr.dk/lyd/p8jazz/sjael/sjael-2024/sjael-16122480187</link>

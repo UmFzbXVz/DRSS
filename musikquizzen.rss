@@ -9,7 +9,7 @@ Vært: Kenneth K.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:12 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Kenneth K.</description>
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122448128</guid>
+      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-1988-10-20-30-40-50-og-dansequizzen-16122448128</link>
+      <title>1988, 10, 20, 30, 40, 50 og Dansequizzen</title>
+      <description>Hvilken gruppe udsender debutalbummet "Turn Back the Clock" i 1988. På det album er sange som "Shattered Dreams" og "I Don't Want To Be a Hero" og selvfølgelig titelnummeret "Turn Back the Clock"? (1988). Vi er dykket ned i hitlisterne og fundet sanger, der var hits for 10, 20, 30, 40 og 50 år siden. Kan du gætte dem? (Quizkampen). Hvem synger hittet "Dancing With A Stranger" fra 2020? (Dansequizzen). Hvilken dansk pigeduo bestod af Saseline og Heidi Sørensen (Brætspilquizzen). Den sidste kategori kræver to svar på hvert spørgsmål. Fordi jeg giver dig en sangtitel, og så skal du svare med kunstnerens navn OG hvilket land de er fra. Så du skal give mig begge dele. Navnet OG landet. Sangtitlen er Someone You Loved (Jorden rundt).
+Vært: Kenneth K.</description>
+      <pubDate>Sun, 18 Aug 2024 14:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:56:26</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448128/6250591b4e7bc9a908d46d9c1912e6a0c66236db87cc7a0057e1efc27f85ffa4.mp3" type="audio/mpeg" length="81285343" />
+    </item>
     <item>
       <guid isPermaLink="false">16122448127</guid>
       <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-musikquizzen-fra-smukfest-16122448127</link>
@@ -290,19 +303,6 @@ Vært: Kenneth K.</description>
       <itunes:duration>00:55:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448108/e1c2e067f8f6044f33ac308a4897c730bd996e4a6b7ffcb4fb5429eef448ff89.mp3" type="audio/mpeg" length="80622943" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122448107</guid>
-      <link>https://www.dr.dk/lyd/p4/musikquizzen/musikquizzen-2024/musikquizzen-50-shades-of-brun-og-musikaaret-1986-16122448107</link>
-      <title>50 Shades of Brun og Musikåret 1986</title>
-      <description>Kan du slå Bjarke i kategorien 1986 (tro mig, det kan du helt sikkert)? Kan du også gætte sange med brun? Og hitte på svar til kategorien Musik med F?
-Vært: Kenneth K.</description>
-      <pubDate>Sun, 18 Feb 2024 14:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:55:59</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122448107/69fedd8b5b65de22f421155bfcc8c80fda0288068aa17d43b483bb28df26ce0e.mp3" type="audio/mpeg" length="80628831" />
     </item>
   </channel>
 </rss>

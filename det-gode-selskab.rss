@@ -9,7 +9,7 @@ Vært: Charlotte Hagen Striib.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 13 Aug 2024 06:19:01 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:26:02 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -27,17 +27,43 @@ Vært: Charlotte Hagen Striib.</description>
     <itunes:category text="Society &amp; Culture" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
-      <guid isPermaLink="false">15452428331</guid>
-      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-lizl-rand-15452428331</link>
-      <title>Med Lizl Rand</title>
-      <description>Hvis man ikke har eller har haft et kæledyr, forstår de færreste den dybe sorg, der kan ramme husstanden, når dyret dør. Psykoterapeut Lizl Rand giver os en dybere forståelse for, hvor meget vores dyrevenner betyder. 
-Vært: Charlotte Striib</description>
-      <pubDate>Mon, 12 Aug 2024 10:03:00 +0200</pubDate>
+      <guid isPermaLink="false">15452428341</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-joergen-thorup-15452428341</link>
+      <title>Med Jørgen Thorup</title>
+      <description>På lørdag spiller Shu-Bi-Dua 2.0 på Plænen i Tivoli. Med den gamle shubber Jørgen Thorup i front er der nye, rockede versioner af klassikere som Den Røde Tråd, Danmark, Hvalborg og Vuffeli-Vov.
+Vært: Charlotte Striib.</description>
+      <pubDate>Mon, 19 Aug 2024 10:03:00 +0200</pubDate>
       <itunes:explicit>no</itunes:explicit>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428331/3a7ac280721588e3b6a051e1fe7dd6df2a55ee1a541caebc7ac8113511ff60b8.mp3" type="audio/mpeg" length="168482170" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428341/f9181238e244724afbeae20a21527278c79754084449950eab6405e418887b26.mp3" type="audio/mpeg" length="168481571" />
+    </item>
+    <item>
+      <guid isPermaLink="false">15452428335</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-lotte-heise-15452428335</link>
+      <title>Med Lotte Heise</title>
+      <description>Du får nye programmer på både TV og radio om opera på DR i den kommende tid. Lotte Heise har i nu ti år haft sig eget operaprogram 'Bolero' på P2. Og hun har udvalgt ti værker, der også snart kan høres på P2.  
+Vært: Charlotte Striib.</description>
+      <pubDate>Fri, 16 Aug 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428335/89b5c01479bca8fc4a466a53bb75509e00475987488ca4901fe8380195687cd8.mp3" type="audio/mpeg" length="168482167" />
+    </item>
+    <item>
+      <guid isPermaLink="false">15452428334</guid>
+      <link>https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-simone-soerensen-15452428334</link>
+      <title>Med Simone Sørensen</title>
+      <description>Som uddannet tøjdesigner kunne 24-årige Simone Sørensen ikke finde sig til rette i et job. Så tog hun en togføreruddannelse og kører nu S-tog på fuld tid i hovedstadsområdet.
+Vært: Charlotte Striib</description>
+      <pubDate>Thu, 15 Aug 2024 10:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452428334/a9606a0139ea53d3c858fd05f9095b4c3951e06766561bff9ba2325969f70d25.mp3" type="audio/mpeg" length="168481556" />
     </item>
   </channel>
 </rss>

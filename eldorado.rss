@@ -10,7 +10,7 @@ Vært: Jørgen de Mylius.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Sun, 28 Jul 2024 09:17:07 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:25:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,19 @@ Vært: Jørgen de Mylius.</description>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">15452424336</guid>
+      <link>https://www.dr.dk/lyd/p5/eldorado/eldorado-2024/eldorado-15452424336</link>
+      <title>Lørdag 17. aug. 2024</title>
+      <description>De gode historier og fantastiske hits, med omdrejningspunkt i 80'erne.
+Vært: Jørgen de Mylius.</description>
+      <pubDate>Sat, 17 Aug 2024 16:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452424336/f8a0c4a83f6ee6c7aec4010cf19147445851bcf09ec34b0e247e67ae715ca45b.mp3" type="audio/mpeg" length="168481425" />
+    </item>
+    <item>
       <guid isPermaLink="false">15452424266</guid>
       <link>https://www.dr.dk/lyd/p5/eldorado/eldorado-2024/eldorado-15452424266</link>
       <title>Lørdag 29. jun. 2024</title>
@@ -38,7 +51,7 @@ Vært: Jørgen de Mylius.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452424266/d0faa9516f627e2fc8087ef02143772fc71c6fb5642cf90b1116331a729e4619.mp3" type="audio/mpeg" length="168481425" />
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452424266/48233be060b890297877d8ec7dd6d33d28661bd82c9ffc699bdf12e1c13c7231.mp3" type="audio/mpeg" length="168481425" />
     </item>
   </channel>
 </rss>

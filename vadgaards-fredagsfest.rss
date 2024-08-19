@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link href="https://api.dr.dk/podcasts/v1/feeds/vadgaards-fredagsfest" rel="self" type="application/rss+xml" />
+    <title>Happy Hour</title>
+    <link>https://www.dr.dk/lyd/p4/happy-hour-5627443981000</link>
+    <description>Signe trækker gang i weekenden og fredagsfølelserne med god musik og elementer,
+der får lytterne til at mærke, at arbejdsugen er ovre.</description>
+    <language>da</language>
+    <copyright>DR</copyright>
+    <managingEditor>podcast@dr.dk</managingEditor>
+    <lastBuildDate>Mon, 19 Aug 2024 15:26:02 +0200</lastBuildDate>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>DR</itunes:author>
+    <itunes:owner>
+      <itunes:email>podcast@dr.dk</itunes:email>
+      <itunes:name>DR</itunes:name>
+    </itunes:owner>
+    <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/vadgaards-fredagsfest.xml?format=podcast</itunes:new-feed-url>
+    <image>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66b33f141f6c1dcef1e51eb9.jpg</url>
+      <title>Happy Hour</title>
+      <link>https://www.dr.dk/lyd/p4/happy-hour-5627443981000</link>
+    </image>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66b33f141f6c1dcef1e51eb9.jpg" />
+    <category>Music</category>
+    <itunes:category text="Music" />
+    <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">16122445335</guid>
+      <link>https://www.dr.dk/lyd/p4/happy-hour/happy-hour-2024/happy-hour-16122445335</link>
+      <title>Fredag 16. aug. 2024</title>
+      <description>"Endelig! Det er fredag og om lidt er det weekend. Signe Vadgaard har åbnet for Happy Hour med højt humør og ustyrlige mængder hits".</description>
+      <pubDate>Fri, 16 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66b330381f6c1dcef1e4e378.jpg" />
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122445335/b18ee1bd370f9502301331bfd0e1fd7c14f8a0fa17462f80ef284e110841cad1.mp3" type="audio/mpeg" length="168482044" />
+    </item>
+  </channel>
+</rss>
