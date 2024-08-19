@@ -9,7 +9,7 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 19 Aug 2024 15:25:35 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 18:43:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,19 @@ Værter: Anton Ringdal og Mathilde Muus.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13332426341</guid>
+      <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-13332426341</link>
+      <title>Mandag 19. aug. 2024</title>
+      <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
+Værter: Anton Ringdal og Mathilde Muus.</description>
+      <pubDate>Mon, 19 Aug 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:00:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332426341/3dc72bc7341abae027ddb268781cce6a5544374c810990ff7c82d11b1006baee.mp3" type="audio/mpeg" length="172802133" />
+    </item>
     <item>
       <guid isPermaLink="false">13332426334</guid>
       <link>https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-vi-er-blevet-udsat-for-et-inside-job-13332426334</link>

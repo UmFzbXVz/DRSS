@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 19 Aug 2024 15:26:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 18:43:41 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,42 @@
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">14842418341</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202417/radioavisen-14842418341</link>
+      <title>19. aug. 2024 kl. 18:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <pubDate>Mon, 19 Aug 2024 18:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842418341/a677f2b4469533d3d8cf29072c17357a634132965d17b2e8b4f4be298b3eb7b6.mp3" type="audio/mpeg" length="7201944" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842417341</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202416/radioavisen-14842417341</link>
+      <title>19. aug. 2024 kl. 17:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <pubDate>Mon, 19 Aug 2024 17:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842417341/aad7e80338aac354edfdf8747c94b5dad7903aeaa196d3e452611997d57b6a77.mp3" type="audio/mpeg" length="7201944" />
+    </item>
+    <item>
+      <guid isPermaLink="false">14842416341</guid>
+      <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202415/radioavisen-14842416341</link>
+      <title>19. aug. 2024 kl. 16:00</title>
+      <description>De seneste nyheder - døgnet rundt.</description>
+      <pubDate>Mon, 19 Aug 2024 16:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:14842416341/a2ad93dbd68d22b2167f9aa5915e2d5c052e41ff1fc5a2e71bf8665dd279ff95.mp3" type="audio/mpeg" length="7201368" />
+    </item>
     <item>
       <guid isPermaLink="false">14842415341</guid>
       <link>https://www.dr.dk/lyd/p4/radioavisen/radioavisen-202414/radioavisen-14842415341</link>

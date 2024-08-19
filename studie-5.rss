@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 19 Aug 2024 15:25:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 18:43:40 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,18 @@
     <category>Music</category>
     <itunes:category text="Music" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">15452429341</guid>
+      <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429341</link>
+      <title>Mandag 19. aug. 2024</title>
+      <description>I Studie 5 er der musik på alle hylderne. Nyt såvel som gammelt. Få en historie med, kom med på opdagelse ude i den store musikverden og find den plade du ikke vidste lige var noget for dig.</description>
+      <pubDate>Mon, 19 Aug 2024 14:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452429341/4695c2f83d40fd989dd592fca296b109fe3210d4544b7a9b46fca47e873b9c7c.mp3" type="audio/mpeg" length="168481525" />
+    </item>
     <item>
       <guid isPermaLink="false">15452429335</guid>
       <link>https://www.dr.dk/lyd/p5/studie-5/studie-5-2024/studie-5-15452429335</link>
