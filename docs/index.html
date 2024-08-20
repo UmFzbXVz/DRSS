@@ -113,9 +113,12 @@ async function fetchPolitikenPodcastsData() {
 }
 
 function clearSearch() {
-    document.getElementById('searchInput').value = '';
+    const searchInput = document.getElementById('searchInput');
+    searchInput.value = '';
     resultsContainer.innerHTML = '';
+    searchInput.focus();
 }
+
 
 function openModal(podcast) {
     const modal = document.getElementById('podcastModal');
@@ -156,6 +159,11 @@ function showToast(message) {
 }
 
 async function filterPodcasts(searchText) {
+    if (searchText.length === 0) {
+        resultsContainer.innerHTML = '';
+        return;
+    }
+
     if (searchText.length < 3) {
         resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
         return;
