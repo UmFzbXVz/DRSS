@@ -187,13 +187,6 @@ function displayResults(results) {
     resultsContainer.appendChild(ul);
 }
 
-function getFormattedRSSUrl(podcastName) {
-    const formattedPodcastName = podcastName.replace(/[\s/?]/g, '_').replace(/%/g, '%25').toLowerCase() + '.rss';
-    const firstCharacter = formattedPodcastName.charAt(0);
-    const directory = isNaN(parseInt(firstCharacter)) ? firstCharacter.toUpperCase() : '0-9';
-    return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
-}
-
 document.getElementById('searchInput').addEventListener('input', function () {
     filterPodcasts(this.value.trim());
 });
