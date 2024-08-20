@@ -20,7 +20,7 @@
 </div>
   <div id="podcastModal" class="modal">
   <div class="modal-content">
-    <div class="close" id="closeModal"></div>
+    <div class="close" id="closeModal">&#10006</div>
     <h3 id="modalTitle">Titel</h3>
     <h3 id="modalProvider">Udgiver</h3>
     <div id="modalDescription">Beskrivelse</div>
@@ -51,13 +51,21 @@ let politikenPodcastsData = [];
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchDataAndPreloadIcon();
+    
     window.onclick = function(event) {
         const modal = document.getElementById('podcastModal');
         if (event.target === modal) {
             modal.style.display = 'none';
         }
     };
+
+    const closeModalButton = document.getElementById('closeModal');
+    closeModalButton.addEventListener('click', () => {
+        const modal = document.getElementById('podcastModal');
+        modal.style.display = 'none';
+    });
 });
+
 
 async function fetchDataAndPreloadIcon() {
     try {
@@ -115,7 +123,7 @@ function openModal(podcast) {
     document.getElementById('modalTitle').textContent = podcast.text;
     document.getElementById('modalProvider').textContent = podcast.provider;
     document.getElementById('modalDescription').textContent = podcast.description;
-    document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
+    document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/DRSS/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
     document.getElementById('playOnSite').target = '_blank';
     document.getElementById('visitWebsiteLink').href = podcast.url;
     document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
