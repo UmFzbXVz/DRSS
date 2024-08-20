@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 19 Aug 2024 18:43:01 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 06:45:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460190</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Over grænsen</title>
+      <description>En soldat kravler op ad en bygning, og planter det ukrainske flag i stedet for det russiske. En anden poserer foran et byskilt, 40 kilometer fra grænsen. Ud af det blå overrumpler ukrainske soldater de russiske grænsevagter og invaderer den russiske region Kursk. Rusland må evakuere op mod 200.000 borgere og krigen er nærmest vendt på hovedet. Tilbage står Putin - overrasket, rasende og med lidt af et forklaringsproblem. Er krigslykken endelig vendt for ukrainerne - og er der åbnet for et helt nyt kapitel i krigens gang? Anders Puck, militæranalytiker ved Forsvarsakademiet, fortæller om det ukrainske sats. 
+Vært: Anna Ingrisch.
+Program publiceret i DR Lyd d. 16/8.</description>
+      <pubDate>Tue, 20 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:24:30</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460190/f7a66b251c2204b2a2a0729e3b972cfcc06f3039b2494a0442efbfedf2939f95.mp3" type="audio/mpeg" length="35301187" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460189</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -10026,19 +10040,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:23:32</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150166/375bd4d83a1a9d9aeec19ba83f541d9c48147b189ff8d91a0fcb75db42b18c1f.mp3" type="audio/mpeg" length="33908995" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150165</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-talibanistan-11802150165</link>
-      <title>Talibanistan</title>
-      <description>Billeder af flygtende afghanere, der skrækslagne klynger sig til rullende amerikanske landingshjul, desperate kroppe, der falder af flyveren og flagrer som sorte prikker mod jorden. Talibanere, der indtager præsidentens forladte trone. Det er blandt de ikoniske billeder, der de seneste dage ætser sig ind i verdens kollektive erindring. Hvad skete der under de skelsættende døgn? Genstart genfortæller i dag de tumultariske dage med førstehåndsvidnet og mellemøstkorrespondent Puk Damsgård.
-Vært: Knud Brix.</description>
-      <pubDate>Thu, 19 Aug 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150165/8db2b375997737f7b0ee331c6bcc8e811ac90fcea8bc7f8c76d7b77949e7a24e.mp3" type="audio/mpeg" length="36214719" />
     </item>
     <item>
       <guid isPermaLink="false">11802050164</guid>

@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 19 Aug 2024 18:43:05 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 06:45:46 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,19 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652402341</guid>
+      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402341</link>
+      <title>Mandag 19. aug. 2024</title>
+      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Vært: Emil Schiønning.</description>
+      <pubDate>Mon, 19 Aug 2024 18:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>04:00:03</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402341/b040d9ba1357b267a1f8fc431649cc226fd817d149c16e3088a1b2eab78bf4d3.mp3" type="audio/mpeg" length="345685520" />
+    </item>
     <item>
       <guid isPermaLink="false">13652402337</guid>
       <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402337</link>
@@ -50,19 +63,6 @@ Vært: Thomas Loft.</description>
       <itunes:duration>03:51:24</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402335/cbf22ed1009bd4c6335ecbf50563dd68ddb3f0a9c29625ff6eff5bdfd146ddb4.mp3" type="audio/mpeg" length="333224331" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402334</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402334</link>
-      <title>Torsdag 15. aug. 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Vært: Louise Dreisig.</description>
-      <pubDate>Thu, 15 Aug 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>04:52:05</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402334/8e5293d6e8ca609e9c2de1a09112d4d1e190f483de6c12f5007d43ea1f6d3baf.mp3" type="audio/mpeg" length="420614478" />
     </item>
   </channel>
 </rss>

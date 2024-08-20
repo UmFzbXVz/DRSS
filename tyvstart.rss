@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 19 Aug 2024 18:43:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 06:46:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,20 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450166</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-obs-hold-oeje-fodbold-europa-13652450166</link>
+      <title>OBS! Hold øje, fodbold-Europa</title>
+      <description>Hvem skal du følge tæt, når de store fodboldligaer for alvor kommer i gang? Mange danske spillere har fået ny hjemmebane, andre jagter større succes end sidste år, og hvad kan det komme til at betyde for vores alles landshold?
+I dagens Tyvstart zoomer fodboldkommentator Andreas Kraul ind på fem fodbolddanskere, som han kommer til at holde skarpt øje med i den nye sæson.
+Vært: Emil Schiønning.</description>
+      <pubDate>Tue, 20 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:17:10</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450166/9bf81246656d4c88b065c56119896bd82fe6ea9d5a899ec040edfa71e0de9f38.mp3" type="audio/mpeg" length="24739064" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450165</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-dansk-verdensstjerne-vil-overhale-mr-perfect-13652450165</link>
@@ -2208,20 +2222,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:14:19</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450036/2c4d8c59c06bf821f422def522b6ad0c339b15ef0a30ff8b3e6a2aaf787f6053.mp3" type="audio/mpeg" length="20624703" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450035</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-antonsens-kamp-mod-egen-krop-13652450035</link>
-      <title>Antonsens kamp mod egen krop</title>
-      <description>Anders Antonsen har levet i frygt for voldsom migræne og krampeanfald i hele kroppen.
-Den danske badmintonstjernes karriere har været en kamp mod de mange skader, der alt for ofte har sejret. Men ikke længere. Antonsen har ramt topniveauet på banen, mens han ikke længere frygter, hvordan kroppen bliver påvirket af den hårde træning og de lange kampe. 
-Vært: Emil Schiønning.</description>
-      <pubDate>Mon, 19 Feb 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:20:02</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450035/f49b5fa4afaca8e5996b34eb5df99a133723993cbf1901131e54e3d11bc4f565.mp3" type="audio/mpeg" length="28867836" />
     </item>
     <item>
       <guid isPermaLink="false">13652450016</guid>

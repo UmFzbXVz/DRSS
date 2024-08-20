@@ -9,7 +9,7 @@ Vært: Annika Wetterling.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 19 Aug 2024 18:43:26 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 06:45:54 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,24 @@ Vært: Annika Wetterling.</description>
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802451131</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-ulige-skoler-ukrainsk-stoedpude-og-de-afghanske-piger-11802451131</link>
+      <title>Ulige skoler, ukrainsk stødpude og de afghanske piger</title>
+      <description>Mattias Tesfaye lover nu ekstra millioner til udvalgte kommuner. Niveauet i dansk og matematik er for lavt.       
+Ukraines præsident Zelenskyj siger nu, hvad formålet er med Ukraines operation i Kursk. Men kan man stole på det? 
+En ny rapport viser, at næsten 1,5 millioner piger bliver nægtet skolegang i Afghanistan. 
+Vært: Adrian Busk og Annika Wetterling 
+Medvirkende:
+Claus Mathiesen, lektor ved forsvarsakademiet
+Najiba Akbari, stifter Afghan Daanish foundation</description>
+      <pubDate>Tue, 20 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:15:16</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451131/a53ccacf02dcb11858c77a6212409240f6b6d5f57c176fe63e032637dea1faad.mp3" type="audio/mpeg" length="21985793" />
+    </item>
     <item>
       <guid isPermaLink="false">11802451130</guid>
       <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-demokratisk-gilde-hoppende-politikere-og-virusalarm-11802451130</link>
@@ -1595,22 +1613,6 @@ Stig Jensen, lektor ved Københavns Universitet.</description>
       <itunes:duration>00:15:26</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451035/a34f90e5b94a24f1a7b6960c816836cc510622eb7ac9e3c9aac5d64142737653.mp3" type="audio/mpeg" length="22231172" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802451034</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tiden/tiden-2024/tiden-navalnyj-er-doed-ansvaret-for-kraeftskandalen-og-et-mystisk-rumvaaben-11802451034</link>
-      <title>Navalnyj er død, ansvaret for kræftskandalen og et mystisk rumvåben</title>
-      <description>Putins største kritiker Navalnyj meldes død i fængslet. Frejas far blev behandlet for sent for tarmkræft på AUH. I dag kritiserer hun, og andre pårørende, at kræftskandalen ikke er blevet undersøgt grundigt nok. Rusland er muligvis kommet i besiddelse af et våben, der kan lyde som noget, en James Bond-skurk kunne have udviklet.
-Vært: Annika Wetterling.
-Medvirkende: 
-Anna Libak, journalist og Rusland-kender.
-Freja Loop, datter til Carsten, der blev behandlet for sent på AUH.</description>
-      <pubDate>Mon, 19 Feb 2024 03:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:16:46</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802451034/7a8f87736558f6bb1ca6f8c03c2d6cfc6182544c01a07b8415a3c8c80aaddc7f.mp3" type="audio/mpeg" length="24147538" />
     </item>
   </channel>
 </rss>

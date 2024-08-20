@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Mon, 19 Aug 2024 18:43:40 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 06:45:50 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -37,19 +37,6 @@ Værter: Jacob Hinchely, Rebecca Lou og Mette Lindberg.</description>
       <itunes:duration>01:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428341/c2e9a76b5c0ab40c955f570c2599e7300c4cb4f31c950e697d6d033d64662fc6.mp3" type="audio/mpeg" length="168481592" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16452428334</guid>
-      <link>https://www.dr.dk/lyd/p6beat/musiktjenesten/musiktjenesten-2024/musiktjenesten-16452428334</link>
-      <title>Torsdag 15. aug. 2024</title>
-      <description>Musiktjenesten giver dig dagens bedste musikhistorier og gør din eftermiddag hyggelig og sjov - og selvfølgelig fuld af god musik! Vi tester din musikalske viden i quizzer og finder de bedste sange inden for forskellige temaer sammen med dig. Velkommen indenfor!
-Værter: Jacob Hinchely, Ditte Vestergaard og Claes Quaade.</description>
-      <pubDate>Thu, 15 Aug 2024 14:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16452428334/4f391ec4dd566dc16fa7035d889588913ee765a555a1508d7596dae6dce8e71c.mp3" type="audio/mpeg" length="168481592" />
     </item>
   </channel>
 </rss>
