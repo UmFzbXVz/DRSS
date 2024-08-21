@@ -84,9 +84,9 @@ body {
      text-decoration: underline;
 }
 .results-container {
-     display: grid;
-     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-     gap: 20px 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px 40px;
 }
  .result {
      background-color: #242424;
@@ -486,9 +486,9 @@ body {
     transition: color 0.3s ease;
 }
 @media (max-width: 480px) {
-  .podcast-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
+    .results-container {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
 }
  @media screen and (max-width: 500px) {
      .modal-content {
