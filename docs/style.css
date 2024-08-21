@@ -463,7 +463,7 @@ body {
     height: 100%;
     overflow: auto;
     background-color: rgba(0, 0, 0, 0.8);
-    animation: fadeIn 0.3s ease-in-out;
+    animation: fadeIn 0.3s ease-in;
     transition: opacity 0.3s ease;
 }
 .modal-content {
