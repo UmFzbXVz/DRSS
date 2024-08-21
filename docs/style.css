@@ -218,7 +218,6 @@ body {
      color: #e0e0e0;
      margin-top: 5px;
      overflow: hidden;
-     transition: max-height 0.3s ease-out;
      cursor: pointer;
      display: -webkit-box;
      -webkit-line-clamp: 2;
