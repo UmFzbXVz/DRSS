@@ -586,7 +586,8 @@ body {
     text-align: center;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    width: 150px;
+    width: 90%;
+    max-width: 200px;
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
 }
 .podcast-card:hover {
