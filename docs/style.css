@@ -490,12 +490,6 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-
-@media (min-width: 481px) {
-  .podcast-grid {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  }
-}
  @media screen and (max-width: 500px) {
      .modal-content {
          max-width: 90%;
