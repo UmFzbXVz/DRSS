@@ -126,17 +126,23 @@ function openModal(podcast) {
     document.getElementById('modalTitle').textContent = podcast.text;
     document.getElementById('modalProvider').textContent = podcast.provider;
     const descriptionElement = document.getElementById('modalDescription');
-    descriptionElement.textContent = podcast.description;
+    descriptionElement.innerHTML = formatDescription(podcast.description);
     descriptionElement.classList.remove('expanded');
     document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/DRSS/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
     document.getElementById('playOnSite').target = '_blank';
     document.getElementById('visitWebsiteLink').href = podcast.url;
     document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
     document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
-    
     descriptionElement.addEventListener('click', () => {
         descriptionElement.classList.toggle('expanded');
     });
+}
+
+function formatDescription(description) {
+    let formattedDescription = description.replace(/\n/g, '<br>');
+    formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+
+    return formattedDescription;
 }
 
 function copyRSSLink(rssLink) {
