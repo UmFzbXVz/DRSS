@@ -572,9 +572,11 @@ body {
     animation: scaleIn 0.3s ease-in reverse; 
 }
 .podcast-grid {
-  display: grid;
-  gap: 20px;
-  grid-template-columns: repeat(2, 1fr);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 16px 32px;
+    padding: 20px;
+    justify-items: center;
 }
 .podcast-card {
     background-color: #242424;
