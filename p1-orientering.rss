@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:45:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:18 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1737d0c1a140697e0e9.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802410342</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410342</link>
+      <title>Tirsdag 20. aug. 2024</title>
+      <description>Hvilken betydning har fundet af seks døde gidsler for de nuværende gidselforhandlinger? Hvorfor tusindvis af somaliere pludselig forsvandt fra Danmark i 00'erne? Hvorfor modsætter Hamas sig stadigvæk en våbenhvile? Og hvorfor vil Harris hæve selskabsskatten?
+Dagens vært: Anne Kirstine Hermann.</description>
+      <pubDate>Tue, 20 Aug 2024 16:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>01:23:51</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410342/c6d9b8182b55a0946bb4202c3f4486f2d0edbffecf55fa23fc251d71fccb51fb.mp3" type="audio/mpeg" length="120765634" />
+    </item>
     <item>
       <guid isPermaLink="false">11802410341</guid>
       <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410341</link>
@@ -1515,18 +1527,6 @@ Dagens værter: Ole Brink og Søren Carlsen.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:23:03</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410091/20468ba95e278abce3089b6c3574e07367034f2bcb26b6e3919321d75ba5c43f.mp3" type="audio/mpeg" length="119615481" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802410085</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410085</link>
-      <title>Fredag 23. feb. 2024</title>
-      <description>Hvorfor skulle Frederiksen og Zelenskyj mødes lige præcis nu? Hvordan ser det ud på Christiansborg ift. legaliseringen af cannabis? Hvordan forberedte Rusland sig på invasionen af Ukraine dengang?
-Dagens værter: Thomas Tjaerandsen og Ole Brink.</description>
-      <pubDate>Fri, 23 Feb 2024 16:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:28:09</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802410085/f49ad90190688d5e77d7c3463dcbb67541facbdaf5da7ca132d477080ce8da85.mp3" type="audio/mpeg" length="126938735" />
     </item>
   </channel>
 </rss>

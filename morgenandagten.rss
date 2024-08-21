@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:46:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:34 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,24 @@
     <category>Religion &amp; Spirituality</category>
     <itunes:category text="Religion &amp; Spirituality" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11042405342</guid>
+      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405342</link>
+      <title>Tirsdag 20. aug. 2024</title>
+      <description>Præludium: Bernhard Lewkovitch: Kvindelil, din tro er stor
+Fra det G.T.:	Salme 25,8-14
+Salme: 20 "Jeg ser dit kunstværk, store Gud"
+Fra det N.T.:	Matthæus 15, 21-28
+Korvers: John Frandsen: O store Gud, din kærlighed (Tekst: Thomas Kingo)
+Salme: 158 "Kvindelil, din tro er stor"
+Postludium: Joseph Haydn: Adagio i F-dur</description>
+      <pubDate>Tue, 20 Aug 2024 08:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:25:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405342/b27a7307d523033f5e20ada2868e9542a7caa9eb66ef65681215d54d5d34b323.mp3" type="audio/mpeg" length="36001578" />
+    </item>
     <item>
       <guid isPermaLink="false">11042405341</guid>
       <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405341</link>
@@ -456,24 +474,6 @@ Postludium: Johann Pachelbel: Til klart Guds ansigt vi skal se</description>
       <itunes:duration>00:25:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405302/8c43fb3c00c9d1f22952f5bca3eb3509d9819e975d2899cf9a1365338aaeea13.mp3" type="audio/mpeg" length="36001577" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11042405301</guid>
-      <link>https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405301</link>
-      <title>Mandag 22. jul. 2024</title>
-      <description>Præludium:	Sigfrid Karg-Elert: Melodia monastica
-Ord til dagen: af Paul Tillich 
-Salme: 164, vers 1-5 "Øjne, I var lykkelige"
-Fra det N.T.:	Matthæus 11, 2-6
-Korvers: Jørgen Graven Nielsen: Herre, hjælp, thi de fromme er borte (tekst: Efter Salme 12)
-Salme: 164, vers 6-7
-Postludium: Louis Vierne: Epitaphe</description>
-      <pubDate>Mon, 22 Jul 2024 08:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:25:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11042405301/d59a5c1acca5c5ea0138f003763d19a17b6fde2af1d7be90e90879b1bd52797c.mp3" type="audio/mpeg" length="36001579" />
     </item>
   </channel>
 </rss>

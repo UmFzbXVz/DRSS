@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:45:51 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:14 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -26,6 +26,20 @@
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
     <item>
+      <guid isPermaLink="false">13332410342</guid>
+      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410342</link>
+      <title>Tirsdag 20. aug. 2024</title>
+      <description>Liva og Andreas vækker dig, mens Mikkel er på seminar.
+I dag skal vi finde den næste vinder-lyd fra en lytter i indslaget 'Nyd min lyd', Liva lærer Andreas om en ny trend, der endelig passer PRÆCIS på ham, og vi skal finde det perfekte soundtrack til, at der nu er kommet endnu et politisk parti i rækken igen (igen, igen, igen).
+Medvirkende: Lars Boje Mathiesen, løsgænger, Folketinget.</description>
+      <pubDate>Tue, 20 Aug 2024 06:03:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:57:00</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410342/c5ffa1279bd00c3d3feae1f543f846eebdcfa0fc94135cdefd561936c343eeec.mp3" type="audio/mpeg" length="254881506" />
+    </item>
+    <item>
       <guid isPermaLink="false">13332410341</guid>
       <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410341</link>
       <title>Mandag 19. aug. 2024</title>
@@ -38,22 +52,6 @@ Værter: Liva Manghezi, Mikkel Rosendal og Andreas Kousholt.</description>
       <itunes:duration>02:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410341/94a2acc2fa2d28fe3faa8f31c759e01c4d242f4c2c03517711483ba55d4fbf34.mp3" type="audio/mpeg" length="254881589" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13332410335</guid>
-      <link>https://www.dr.dk/lyd/p3/go-morgen-p3/go-morgen-p3-2024/go-morgen-p3-13332410335</link>
-      <title>Fredag 16. aug. 2024</title>
-      <description>Så blev det fredag og taberen af Google Quizzen skal slås med en laks i ansigtet.
-Liva er nysgerrig på den taktiske placering af fødevare i supermarkedet, vi skal finde ud af, hvilket soundtrack vi vil give en pandemi af Mpox/abekopper og Mikkel har en helt ny quiz med, hvor det gælder om at høre virkelig godt efter!
-Værter: Liva Manghezi, Mikkel Rosendal og Andreas Kousholt.
-KILDER:
-Dorte Wimmer, trendforsker og direktør i Retail Institute.</description>
-      <pubDate>Fri, 16 Aug 2024 06:03:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:57:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13332410335/8181a87caca4520d38c5c6ef4c3cfe0a42a018f767b777485779526fc8563da3.mp3" type="audio/mpeg" length="254881522" />
     </item>
   </channel>
 </rss>

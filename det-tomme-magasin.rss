@@ -9,7 +9,7 @@ Produceret for DR af Doceye Digital.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:45:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:11 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -259,19 +259,6 @@ Produceret for DR af Doceye Digital.</description>
       <itunes:duration>00:12:53</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192729/8ba30cb3487df93ec3c2ca6d07dc49805a58607807dc6b13b972617bd11f829b.mp3" type="audio/mpeg" length="18577531" />
-    </item>
-    <item>
-      <guid isPermaLink="false">16122192728</guid>
-      <link>https://www.dr.dk/lyd/p3/det-tomme-magasin/det-tomme-magasin-2021/det-tomme-magasin-soeren-dinos-dinopark-16122192728</link>
-      <title>Søren Dinos Dinopark</title>
-      <description>Danmarks bedste swingerklub for damer slår dørene op, få verdens hurtigste kop kaffe, lær mere om den grønne omstilling, besøg Søren Dinos Dinopark og så kan du blive klogere på statistik.
-Produceret for DR af Doceye Digital.</description>
-      <pubDate>Fri, 20 Aug 2021 06:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:08</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122192728/19be49aea049f5de5a059a0fd1222be6ac987ecb24d801deb1835a5a72ab2d35.mp3" type="audio/mpeg" length="20366625" />
     </item>
   </channel>
 </rss>

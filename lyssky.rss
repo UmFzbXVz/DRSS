@@ -9,7 +9,7 @@ DR's krimiredaktion kaster lys over samfundets mørke sider og giver perspektiv 
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:45:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:16:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -18,14 +18,28 @@ DR's krimiredaktion kaster lys over samfundets mørke sider og giver perspektiv 
     </itunes:owner>
     <itunes:new-feed-url>https://api.dr.dk/podcasts/v1/feeds/lyssky.xml?format=podcast</itunes:new-feed-url>
     <image>
-      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6638d365cb5a76302284249b.jpg</url>
+      <url>https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66c46c7f7a03bc9a963fcb0d.jpg</url>
       <title>Lyssky</title>
       <link>https://www.dr.dk/lyd/special-radio/lyssky-5515048827000</link>
     </image>
-    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6638d365cb5a76302284249b.jpg" />
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66c46c7f7a03bc9a963fcb0d.jpg" />
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802465019</guid>
+      <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-efter-haandgranater-drab-og-skud-er-bandekonflikten-forbi-11802465019</link>
+      <title>Efter håndgranater, drab og skud - er bandekonflikten forbi?</title>
+      <description>En massiv bandekonflikt har de seneste måneder udspillet sig med centrum i København, der dækker over drabsforsøg, eksplosioner og anholdelser af flere rekrutterede svenskere. Og mens vi andre så småt begyndte at komme tilbage fra sommerferie, kulminerede konflikten, da en mand blev skudt og dræbt på Nørrebro. Men efter hændelser og angreb på stribe har konflikten nu stået stille siden sidste uge. Vi forsøger derfor at give et overblik og tale om, hvad der mon sker herfra.
+Vært: Caroline Clante.
+Tilrettelægger: Joakim Kruse Rasmussen.</description>
+      <pubDate>Wed, 21 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:27:59</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802465019/c094490dcec2ddb0dd47646f8698ef4ccf440539079f3db8697b1e17c45aa001.mp3" type="audio/mpeg" length="40303756" />
+    </item>
     <item>
       <guid isPermaLink="false">11802465016</guid>
       <link>https://www.dr.dk/lyd/special-radio/lyssky/lyssky-1/lyssky-indhentet-af-bandemiljoeet-11802465016</link>

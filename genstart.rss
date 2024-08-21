@@ -11,7 +11,7 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:45:50 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:16 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -28,6 +28,20 @@ Få et unikt indblik i én aktuel historie, få den fortalt fra starten og få b
     <category>News</category>
     <itunes:category text="News" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">11802460191</guid>
+      <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
+      <title>Et romantisk partnerdrab</title>
+      <description>Efter frokostkurven var spist i Nørreskoven på Taasinge, var der ingen anden udvej end at gå i døden sammen. Den romantiske fortælling om linedanseren Elvira Madigan og løjtnanten Sixten Sparre har i mere end 130 år været genfortalt som historien om umulig kærlighed. Men den kendte kærlighedshistorie er efter al sandsynlighed helt forkert. Måske har vi i virkeligheden hyldet en myte, der forherliger et partnerdrab. Det mener idéhistoriker Morten Hammeken, der har oversat en kritisk bog om kærlighedsmyten. Kritikken af historie fremstillingen er tiltaget de seneste uger - og det har blandt andet fået Taasinge Museum til at gentænke deres populære udstilling, der hvert år tiltrækker tusindvis af turister. 
+Vært: Simon Stefanski.
+Program publiceret i DR Lyd d. 18/8.</description>
+      <pubDate>Wed, 21 Aug 2024 03:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:26:01</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802460191/fa7483fbc37ce80d33fab407f6691175edef46887650cf92ae474525b801e4d7.mp3" type="audio/mpeg" length="37480207" />
+    </item>
     <item>
       <guid isPermaLink="false">11802460190</guid>
       <link>https://www.dr.dk/lyd/special-radio/genstart-2642056922000</link>
@@ -10027,19 +10041,6 @@ Vært: Knud Brix.</description>
       <itunes:duration>00:22:57</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150167/fedafc8051f5f8b8ce79476532a39a186ef6a3460ef9fefae422cde009649bf8.mp3" type="audio/mpeg" length="33070344" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802150166</guid>
-      <link>https://www.dr.dk/lyd/special-radio/genstart/genstart-2021/genstart-exit-khader-11802150166</link>
-      <title>Exit Khader</title>
-      <description>Naser Khader er fortid hos de Konservative. Det meddeler partiets formand, Søren Pape, med alvorstung mine på deres årlige sommergruppemøde. DR's historie fra juli, hvor fem kvinder stod frem og fortalte om seksuelle krænkelser og grænseoverskridende adfærd fra Naser Khader, er blevet bekræftet af de Konservatives interne advokatundersøgelse. Anders Svendsen, politisk reporter i DR, fortæller om forløbet, der endte med Khaders eksklusion.
-Vært: Knud Brix.</description>
-      <pubDate>Fri, 20 Aug 2021 04:00:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:23:32</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802150166/375bd4d83a1a9d9aeec19ba83f541d9c48147b189ff8d91a0fcb75db42b18c1f.mp3" type="audio/mpeg" length="33908995" />
     </item>
     <item>
       <guid isPermaLink="false">11802050164</guid>

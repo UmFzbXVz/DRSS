@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:45:54 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:11:04 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -24,6 +24,18 @@
     <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c183443243f95e2c7b01.jpg" />
     <category>News</category>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">11802433342</guid>
+      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433342</link>
+      <title>Tirsdag 20. aug. 2024</title>
+      <description>Hvad vil den nye kvantecomputer kunne, når den er færdigudviklet? Hvad sagde Joe Biden på sin tale ved Det Demokratiske Konvent? Og hvordan kan danske Bavarian Nordic med sin vaccine stoppe udbredelsen af Mpox? 
+Dagens værter: Pernille Rudbæk og Kristian Magnus Damsgaard.</description>
+      <pubDate>Tue, 20 Aug 2024 06:05:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>02:44:45</itunes:duration>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433342/cbbaaf4cba267e243b48dfdde3e4c9131925fb89726fcdd3bd072030e93e3076.mp3" type="audio/mpeg" length="237253686" />
+    </item>
     <item>
       <guid isPermaLink="false">11802433341</guid>
       <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433341</link>
@@ -1833,18 +1845,6 @@ Dagens værter: Søren Carlsen og Bjarne Steensbeck.</description>
       <itunes:author>DR</itunes:author>
       <itunes:duration>01:50:04</itunes:duration>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433086/f6657488bcdac88ac04e9805908a1daeb9be947c723038eac78ebc640aa8df99.mp3" type="audio/mpeg" length="158501025" />
-    </item>
-    <item>
-      <guid isPermaLink="false">11802433085</guid>
-      <link>https://www.dr.dk/lyd/p1/p1-morgen/p1-morgen-2024/p1-morgen-11802433085</link>
-      <title>Fredag 23. feb. 2024</title>
-      <description>Hvordan har krigen påvirket økonomien på Vestbredden? Delvis legalisering stemmes igennem i dag i Forbundsdagen i Tyskland. Hvad er konsekvensen for tyskerne af legalisering af hash? Og vil afskaffelsen af DIS-ordningen gavne eller skade samfundsøkonomien?
-Dagens værter: Bjarne Steensbeck og Søren Carlsen.</description>
-      <pubDate>Fri, 23 Feb 2024 06:05:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>02:45:02</itunes:duration>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802433085/a91ba52d655063c85224f96fa8511dd76451c343a83c17b32dc66a134c1654fb.mp3" type="audio/mpeg" length="237657249" />
     </item>
   </channel>
 </rss>

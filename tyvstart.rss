@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:46:11 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -25,6 +25,22 @@
     <category>Sports</category>
     <itunes:category text="Sports" />
     <media:restriction type="country" relationship="allow">dk</media:restriction>
+    <item>
+      <guid isPermaLink="false">13652450167</guid>
+      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/slovan-bratis-hva-for-noget-13652450167</link>
+      <title>Slovan Bratisla-HVA for noget?</title>
+      <description>Onsdag aften tager FC Midtjylland hul på den første af årets to vigtigste fodboldkamp. En samlet sejr over slovakiske Slovan Bratislava vil sikre midtjyderne en plads i eftertragtede Champions League. 
+
+Selvom det slovakiske mesterhold er en dominerende faktor i den hjemlige liga, så er det ikke nødvendigvis et hold, som ligger øverst på listen over 'bedst kendte europæiske mandskaber'. I dagens program får du derfor begynderens guide til Slovan Bratislava, inden det lukrative opgør løber af stablen.
+
+Vært: Emil Schiønning</description>
+      <pubDate>Wed, 21 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:19:04</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450167/fc57ed8dc26a5c8742a50da46fcac7e6264a6026385551a8d1cdcef6c0640eaa.mp3" type="audio/mpeg" length="27470361" />
+    </item>
     <item>
       <guid isPermaLink="false">13652450166</guid>
       <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-obs-hold-oeje-fodbold-europa-13652450166</link>
@@ -2208,20 +2224,6 @@ Vært: Emil Schiønning.</description>
       <itunes:duration>00:17:59</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450037/8bb1294c6585a0c98692d0a723bfa681d0cbc22413fc81b4b4e3fb4f0736ff62.mp3" type="audio/mpeg" length="25917564" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652450036</guid>
-      <link>https://www.dr.dk/lyd/special-radio/tyvstart/tyvstart-2024/tyvstart-7-63-meter-paa-den-forkerte-fod-13652450036</link>
-      <title>7,63 meter på den forkerte fod</title>
-      <description>Længespringeren Kasper Larsen har spejlvendt hele sin verden. Efter en slem skade i sin højre ankel kunne han ikke længere sætte af på det ben, han har været vant til hele livet.
-Han og træneren jokede med at sætte af på venstre ben i stedet, og efter bare et halvt år har den talentfulde længdespringer tangeret sin gamle personlige rekord. I dagens afsnit fortæller han historien om at være den første dansker til at skifte afsætsben. 
-Vært: Emil Schiønning.</description>
-      <pubDate>Tue, 20 Feb 2024 05:00:00 +0100</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>00:14:19</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652450036/2c4d8c59c06bf821f422def522b6ad0c339b15ef0a30ff8b3e6a2aaf787f6053.mp3" type="audio/mpeg" length="20624703" />
     </item>
     <item>
       <guid isPermaLink="false">13652450016</guid>

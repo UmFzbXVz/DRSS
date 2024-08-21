@@ -11,7 +11,7 @@ Produceret for DR af Filt Cph.</description>
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:45:55 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:20 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -29,6 +29,18 @@ Produceret for DR af Filt Cph.</description>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">16122492727</guid>
+      <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>
+      <title>Teaser: En blodig bande 2:3 - Satudarah bliver født</title>
+      <description>I slutningen af 2012 bliver en mand løsladt fra fængslet. Han har siddet inde for at have tæsket en mand til døde, men det skal vise sig, at hans kriminelle karriere langt fra er forbi. Han har nemlig brugt tiden i fængslet på at lægge planer, der får store konsekvenser for Værebros Hårde Kerne. Hør hele afsnittet i &lt;a href=https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen&gt;DR Lyd&lt;/a&gt;.</description>
+      <pubDate>Wed, 21 Aug 2024 05:00:00 +0200</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>DR</itunes:author>
+      <itunes:duration>00:01:30</itunes:duration>
+      <media:restriction type="country" relationship="allow">dk</media:restriction>
+      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:16122492727/d523276a62e9d5e792b7a263115742fca0f755bc476af3d08f3ba20fb0b7f477.mp3" type="audio/mpeg" length="2175999" />
+    </item>
     <item>
       <guid isPermaLink="false">16122492726</guid>
       <link>https://www.dr.dk/lyd/special-radio/djaevlen-i-detaljen-1865892085000</link>

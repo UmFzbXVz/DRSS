@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:45:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:12 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -50,19 +50,6 @@ Værter: Rikke Smed, Morten Hausborg og Louise Dreisig.</description>
       <itunes:duration>06:57:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402337/021f4274417c5368febab0fbd7d017f995ef6009cd4c9de738600c973fa4ea6a.mp3" type="audio/mpeg" length="600481454" />
-    </item>
-    <item>
-      <guid isPermaLink="false">13652402335</guid>
-      <link>https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402335</link>
-      <title>Fredag 16. aug. 2024</title>
-      <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
-Vært: Thomas Loft.</description>
-      <pubDate>Fri, 16 Aug 2024 18:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>03:51:24</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:13652402335/cbf22ed1009bd4c6335ecbf50563dd68ddb3f0a9c29625ff6eff5bdfd146ddb4.mp3" type="audio/mpeg" length="333224331" />
     </item>
   </channel>
 </rss>

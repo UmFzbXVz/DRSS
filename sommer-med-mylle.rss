@@ -8,7 +8,7 @@
     <language>da</language>
     <copyright>DR</copyright>
     <managingEditor>podcast@dr.dk</managingEditor>
-    <lastBuildDate>Tue, 20 Aug 2024 06:46:10 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 06:21:23 +0200</lastBuildDate>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>DR</itunes:author>
     <itunes:owner>
@@ -206,19 +206,6 @@ Vært: Jørgen De Mylius.</description>
       <itunes:duration>01:55:00</itunes:duration>
       <media:restriction type="country" relationship="allow">dk</media:restriction>
       <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452494302/a1f499466284071642e5cac41fd23c23d4faab69eb0e5c3d406c3a4ea7f24fd6.mp3" type="audio/mpeg" length="165601417" />
-    </item>
-    <item>
-      <guid isPermaLink="false">15452494301</guid>
-      <link>https://www.dr.dk/lyd/p5/sommer-med-mylle/sommer-med-mylle/sommer-med-mylle-15452494301</link>
-      <title>Mandag 22. jul. 2024</title>
-      <description>Sommerstemning og sommersange med Jørgen de Mylius.
-Vært: Jørgen De Mylius.</description>
-      <pubDate>Mon, 22 Jul 2024 16:05:00 +0200</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:author>DR</itunes:author>
-      <itunes:duration>01:55:00</itunes:duration>
-      <media:restriction type="country" relationship="allow">dk</media:restriction>
-      <enclosure url="https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:15452494301/dec92d4347dcef12a9d30e2d3581ab649ff9955f696874b9700ae84aff523a55.mp3" type="audio/mpeg" length="165601993" />
     </item>
   </channel>
 </rss>
