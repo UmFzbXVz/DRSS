@@ -86,7 +86,6 @@ body {
 .results-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px 40px;
 }
  .result {
      background-color: #242424;
@@ -575,7 +574,7 @@ body {
 .podcast-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 5px;
+    gap: 20px;
 }
 .podcast-card {
     background-color: #242424;
