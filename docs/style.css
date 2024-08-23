@@ -601,7 +601,7 @@ body {
     border-top-right-radius: 8px;
 }
 .podcast-title {
-    font-size: clamp(0.1rem, 1vw, 1rem);
+    font-size: clamp(0.1rem, 2vw, 1rem);
     font-weight: bold;
     color: #f5f5f5;
     margin: 2px 0 0 0;
