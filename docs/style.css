@@ -575,18 +575,18 @@ body {
 .podcast-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    gap: 10px;
 }
 .podcast-card {
     background-color: #242424;
     border: none;
     border-radius: 8px;
-    padding: 16px;
+    padding: 12px;
     text-align: center;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     width: 90%;
-    max-width: 200px;
+    max-width: 180px;
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
 }
 .podcast-card:hover {
