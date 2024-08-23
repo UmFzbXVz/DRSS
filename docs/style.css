@@ -272,6 +272,12 @@ body {
          max-width: 100vw;
     }
 }
+@media (max-width: 500px) {
+    .podcast-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+}
  .pagination-controls {
      display: flex;
      justify-content: center;
@@ -568,10 +574,8 @@ body {
 }
 .podcast-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 16px 32px;
-    padding: 20px;
-    justify-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
 }
 .podcast-card {
     background-color: #242424;
