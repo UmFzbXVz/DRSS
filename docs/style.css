@@ -560,18 +560,19 @@ body {
      grid-template-columns: repeat(2, 1fr);
      gap: 20px;
 }
- .podcast-card {
-     background-color: #242424;
-     border: none;
-     border-radius: 8px;
-     padding: 0;
-     text-align: center;
-     cursor: pointer;
-     transition: transform 0.3s ease, box-shadow 0.3s ease;
-     max-width: 180px;
-     height: 210px;
-     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-     overflow: hidden;
+.podcast-card {
+    background: rgba(36, 36, 36, 0.2);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(36, 36, 36, 0.5);
+    border-radius: 12px;
+    padding: 0;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-width: 180px;
+    height: 210px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
 }
  .podcast-card:hover {
      transform: translateY(-10px);
@@ -621,7 +622,7 @@ body {
      animation: fadeIn 0.4s ease-in;
 }
  .modal-content {
-     background: rgba(255, 255, 255, 0.2);
+     background: rgba(36, 36, 36, 0.2);
      backdrop-filter: blur(15px);
      border-radius: 12px;
      padding: 20px;
