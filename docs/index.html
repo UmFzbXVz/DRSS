@@ -1,689 +1,316 @@
-body {
-     font-family: Arial, sans-serif;
-     background-color: #121212;
-     color: #f5f5f5;
-     margin: 0;
-     padding: 0;
-}
- body.light-theme {
-     --background-color: #ffffff;
-     --text-color: #000000;
-     background-color: var(--background-color);
-     color: var(--text-color);
-}
- body.dark-theme {
-     --background-color: #121212;
-     --text-color: #f5f5f5;
-     background-color: var(--background-color);
-     color: var(--text-color);
-}
- .container {
-     margin: 40px auto;
-     max-width: 500px;
-     position: relative;
-     padding-bottom: 30px;
-}
- .search-wrapper {
-     text-align: center;
-     position: relative;
-     margin-top: 50px;
-     margin-bottom: 20px;
-     margin-right: 20px;
-     margin-left: 20px;
-}
- input[type="text"] {
-     width: 80%;
-     max-width: 370px;
-     padding: 15px;
-     font-size: 18px;
-     border: none;
-     border-radius: 30px;
-     background-color: #292929;
-     color: #e0e0e0;
-     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-     transition: background-color 0.3s, box-shadow 0.3s;
-}
- input[type="text"]:focus {
-     background-color: #333;
-     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-     outline: none;
-}
- .clear-search {
-     position: absolute;
-     top: 50%;
-     left: calc(100% - 12%);
-     transform: translate(-50%, -50%);
-     cursor: pointer;
-     color: #ccc;
-     z-index: 1;
-     font-size: 20px;
-     transition: color 0.3s;
-}
- .clear-search:hover {
-     color: #fff;
-}
- #results {
-     margin-top: 20px;
-     margin-right: 10%;
-     margin-left: 11%;
-}
- ul {
-     list-style-type: none;
-     padding: 0;
-     margin: 0;
-}
- li {
-     margin-bottom: 15px;
-}
- a {
-     color: #f5f5f5;
-     text-decoration: none;
-}
- a:hover {
-     color: #f0f0f0;
-     text-decoration: underline;
-}
- .results-container {
-     display: grid;
-     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-}
- .result {
-     background-color: #242424;
-     padding: 20px;
-     border-radius: 10px;
-     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-     transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
- .helper-text {
-     font-size: 12px;
-     color: rgba(201, 209, 217, 0.5);
-     text-align: center;
-     margin-top: 5px;
-}
- .result:hover {
-     transform: translateY(-5px);
-}
- .result a {
-     color: #f5f5f5;
-     text-decoration: none;
-     font-weight: bold;
-}
- .result a:hover {
-     color: #f0f0f0;
-     text-decoration: underline;
-}
- .result p {
-     margin-top: 10px;
-     color: #f5f5f5;
-}
- h2 {
-     text-align: center;
-     font-size: 28px;
-     margin-bottom: 20px;
-     font-weight: bold;
-     letter-spacing: 1.5px;
-     -webkit-background-clip: text;
-     background-clip: text;
-     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-     transition: background 0.3s, transform 0.3s, text-shadow 0.3s;
-}
- .result img, .result .podcast-logo, .result .rss-icon {
-     width: 20px;
-     height: 20px;
-     border-radius: 50%;
-     margin-right: 10px;
-}
- .podcast-logo {
-     max-width: 20px;
-     max-height: 20px;
-     overflow: hidden;
-}
- .rss-icon {
-     width: 15px;
-     height: 15px;
-     margin-left: 10px;
-     cursor: pointer;
-     transition: transform 0.2s;
-}
- .rss-icon:hover {
-     transform: scale(1.3);
-}
- .close {
-     color: #aaa;
-     float: right;
-     font-size: 28px;
-     font-weight: bold;
-}
- .close:hover, .close:focus {
-     color: black;
-     text-decoration: none;
-     cursor: pointer;
-}
- .toast {
-     position: fixed;
-     bottom: 200px;
-     left: 50%;
-     transform: translateX(-50%);
-     background-color: rgba(0, 0, 0, 0.8);
-     color: #fff;
-     padding: 10px 20px;
-     border-radius: 5px;
-     animation: slideIn 0.5s, slideOut 0.5s forwards 2s;
-}
- @keyframes slideIn {
-     from {
-         transform: translateX(-50%) translateY(100%);
-    }
-     to {
-         transform: translateX(-50%) translateY(0);
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=0.9">
+  <title>podcasts</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+<div class="container">
+  <h2>podcasts</h2>
+  <div class="search-wrapper">
+      <input type="text" id="searchInput" placeholder="Søg..">
+      <span class="clear-search" onclick="clearSearch()">&#10006;</span>
+  </div>
+  <p class="helper-text"></p>
+  <div id="results"></div>
+</div>
+  <div id="podcastModal" class="modal">
+  <div class="modal-content">
+    <div class="close" id="closeModal">&#10006</div>
+    <h3 id="modalTitle">Titel</h3>
+    <h3 id="modalProvider">Udgiver</h3>
+    <div id="modalDescription">Beskrivelse</div>
+<div class="modal-icons">
+   <a href="#" id="visitWebsiteLink" target="_blank" title="Besøg programmets hjemmeside" class="icon-link">
+      <i class="fas fa-globe"></i>
+   </a>
+   <a href="#" id="playOnSite" title="Afspil her" class="icon-link">
+      <i class="fas fa-play"></i>
+   </a>
+   <a id="copyRSSButton" title="Kopiér RSS-link" class="icon-link">
+      <i class="fas fa-rss"></i>
+   </a>
+   <a href="#" id="openInAppLink" title="Åbn i podcast-app" class="icon-link">
+      <i class="fas fa-podcast"></i>
+   </a>
+</div>
+
+  </div>
+</div>
+<script>
+const resultsContainer = document.getElementById('results');
+const h2Container = document.querySelector('.container h2');
+let drPodcastsData = [];
+let podimoPodcastsData = [];
+let miscPodcastsData = [];
+let pir8dioPodcastsData = [];
+let politikenPodcastsData = [];
+
+document.addEventListener('DOMContentLoaded', () => {
+    fetchDataAndPreloadIcon();
+    
+    window.onclick = function(event) {
+        const modal = document.getElementById('podcastModal');
+        if (event.target === modal) {
+            modal.style.display = 'none';
+        }
+    };
+
+    const closeModalButton = document.getElementById('closeModal');
+    closeModalButton.addEventListener('click', () => {
+        const modal = document.getElementById('podcastModal');
+        modal.style.display = 'none';
+    });
+});
+
+
+async function fetchDataAndPreloadIcon() {
+    try {
+        [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData] = await Promise.all([
+            fetchDRPodcastsData(),
+            fetchPodimoPodcastsData(),
+            fetchMiscPodcastsData(),
+            fetchPir8dioPodcastsData(),
+            fetchPolitikenPodcastsData(),
+        ]);
+    } catch (error) {
+        console.error('Error fetching data:', error);
     }
 }
- @keyframes slideOut {
-     from {
-         transform: translateX(-50%) translateY(0);
-    }
-     to {
-         transform: translateX(-50%) translateY(100%);
-    }
-}
- @keyframes scaleIn {
-     from {
-         opacity: 0;
-         transform: scale(0.95);
-    }
-     to {
-         opacity: 1;
-         transform: scale(1);
+
+async function fetchData(url) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`Error fetching data from ${url}`);
+        return await response.json();
+    } catch (error) {
+        console.error(`Error fetching data from ${url}:`, error);
+        return null;
     }
 }
- @keyframes scaleOut {
-     from {
-         opacity: 1;
-         transform: scale(1);
+
+async function fetchDRPodcastsData() {
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
+}
+
+async function fetchPodimoPodcastsData() {
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
+}
+
+async function fetchMiscPodcastsData() {
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
+}
+
+async function fetchPir8dioPodcastsData() {
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/oversigtAfsnit.json');
+}
+
+async function fetchPolitikenPodcastsData() {
+    return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json');
+}
+
+function clearSearch() {
+    const searchInput = document.getElementById('searchInput');
+    searchInput.value = '';
+    resultsContainer.innerHTML = '';
+    searchInput.focus();
+}
+
+
+function openModal(podcast) {
+    const modal = document.getElementById('podcastModal');
+    modal.style.display = 'block';
+    document.getElementById('modalTitle').textContent = podcast.text;
+    document.getElementById('modalProvider').textContent = podcast.provider;
+    const descriptionElement = document.getElementById('modalDescription');
+    descriptionElement.innerHTML = formatDescription(podcast.description);
+    descriptionElement.classList.remove('expanded');
+    document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/DRSS/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
+    document.getElementById('playOnSite').target = '_blank';
+    document.getElementById('visitWebsiteLink').href = podcast.url;
+    document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
+    document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
+    descriptionElement.addEventListener('click', () => {
+        descriptionElement.classList.toggle('expanded');
+    });
+}
+
+function formatDescription(description) {
+    let formattedDescription = description.replace(/\n/g, '<br>');
+    formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+
+    return formattedDescription;
+}
+
+function copyRSSLink(rssLink) {
+    navigator.clipboard.writeText(rssLink).then(() => {
+        showToast('RSS-link kopieret');
+        document.getElementById('podcastModal').style.display = 'none';
+    }).catch(err => {
+        console.error('Failed to copy RSS link:', err);
+    });
+}
+
+function getFormattedRSSUrl(podcastName) {
+    const formattedPodcastName = encodeURIComponent(podcastName.replace(/\s/g, '_').toLowerCase() + '.rss');
+    const firstCharacter = formattedPodcastName.charAt(0);
+    const directory = isNaN(parseInt(firstCharacter)) ? firstCharacter.toUpperCase() : '0-9';
+    return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
+}
+
+function showToast(message) {
+    const toast = document.createElement('div');
+    toast.textContent = message;
+    toast.classList.add('toast');
+    document.body.appendChild(toast);
+    setTimeout(() => toast.remove(), 5000);
+}
+
+async function filterPodcasts(searchText) {
+    if (searchText.length === 0) {
+        resultsContainer.innerHTML = '';
+        return;
     }
-     to {
-         opacity: 0;
-         transform: scale(0.95);
+
+    if (searchText.length < 3) {
+        resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
+        return;
     }
+
+    const results = [];
+    const allData = [
+        ...drPodcastsData.map(podcast => ({ text: podcast.name, provider: 'DR', description: podcast.description, url: podcast.program_url, image: podcast.image, rssLink: podcast.url})),
+        ...podimoPodcastsData.map(podcast => ({ text: `${podcast.title}`, provider: 'Podimo', description: podcast.description, url: `https://podimo.com/dk/shows/${podcast.id}`, image: podcast.coverImageUrl, rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(podcast.title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`})),
+        ...Object.values(miscPodcastsData).map(podcast => ({ text: podcast.alt_text,provider: 'Radio24syv', description: podcast.description, url: podcast.url, image: podcast.image_url, rssLink: getFormattedRSSUrl(podcast.alt_text)})),
+        ...pir8dioPodcastsData.map(podcast => ({ text: podcast.title, provider: 'r8Dio', description: podcast.content, url: podcast.program_url, image: podcast.image, rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${podcast.slug}.rss`})),
+        ...politikenPodcastsData.map(podcast => ({ text: podcast.title, provider: 'Politiken', description: podcast.description, url: podcast.program_url, image: podcast.image, rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/${encodeURIComponent(podcast.id)}.rss`}))
+    ];
+
+    results.push(...allData.filter(podcast => podcast.text.toLowerCase().includes(searchText.toLowerCase())));
+
+    displayResults(results);
 }
- .modal {
-     animation: scaleIn 0.4s ease-in-out forwards;
+
+const MAX_CACHE_ITEMS = 25;
+
+function getLRUCache() {
+    const cache = localStorage.getItem('imageCacheOrder');
+    return cache ? JSON.parse(cache) : [];
 }
- .podcast-info {
-     background-color: #242424;
-     border-radius: 10px;
-     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-     padding: 20px;
-     text-align: left;
-     line-height: 1.4;
-}
- .podcast-info h2 {
-     font-size: 28px;
-     margin-bottom: 20px;
-     font-weight: bold;
-     letter-spacing: 1.5px;
-     color: #f5f5f5;
-     margin-top: -5px;
-}
- .episode {
-     background-color: #333;
-     border-radius: 10px;
-     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-     margin: 20px 0;
-     padding: 20px;
-     cursor: pointer;
-     position: relative;
-     color: #f5f5f5;
-}
- .episode-description {
-     color: #e0e0e0;
-     margin-top: 5px;
-     overflow: hidden;
-     cursor: pointer;
-     display: -webkit-box;
-     -webkit-line-clamp: 2;
-     -webkit-box-orient: vertical;
-     text-overflow: ellipsis;
-     white-space: normal;
-     word-break: break-word;
-     line-height: 1.3;
-}
- .episode-description.expanded {
-     max-height: none;
-     -webkit-line-clamp: unset;
-     cursor: auto;
-}
- .episode h4 {
-     font-size: 18px;
-     margin-bottom: 5px;
-     color: #f5f5f5;
-     font-weight: bold;
-     margin-top: -10px;
-     text-align: center;
-}
- .pub-date {
-     font-size: 12px;
-     color: #aaa;
-     font-weight: normal;
-     margin-bottom: 5px;
-     margin-top: -5px;
-     text-align: center;
-     opacity: 50%;
-}
- .episode.playing {
-     background-color: #444;
-     color: #fff;
-}
- .episode p {
-     color: #e0e0e0;
-     margin-top: 5px;
-}
- #audio-player {
-     width: 100%;
-     max-width: 500px;
-     min-width: 250px;
-     position: fixed;
-     bottom: 0;
-     left: 50%;
-     transform: translateX(-50%);
-     display: none;
-}
- @media screen and (max-width: 500px) {
-     #audio-player {
-         max-width: 100vw;
+
+function updateLRUCache(cacheKey) {
+    let cacheOrder = getLRUCache();
+
+    cacheOrder = cacheOrder.filter(key => key !== cacheKey);
+    cacheOrder.push(cacheKey);
+
+    if (cacheOrder.length > MAX_CACHE_ITEMS) {
+        const oldestKey = cacheOrder.shift();
+        localStorage.removeItem(oldestKey);
     }
+    localStorage.setItem('imageCacheOrder', JSON.stringify(cacheOrder));
 }
- @media (max-width: 500px) {
-     .podcast-grid {
-         grid-template-columns: repeat(2, 1fr);
-         gap: 10px;
-    }
+
+function loadImageToCache(url, cacheKey) {
+    return new Promise((resolve, reject) => {
+        const image = new Image();
+        image.crossOrigin = 'Anonymous';
+
+        image.onload = () => {
+            const canvas = document.createElement('canvas');
+            canvas.width = image.width;
+            canvas.height = image.height;
+            const context = canvas.getContext('2d');
+            context.drawImage(image, 0, 0, image.width, image.height);
+            try {
+                const dataURL = canvas.toDataURL('image/png');
+                localStorage.setItem(cacheKey, dataURL);
+                updateLRUCache(cacheKey);
+                resolve(dataURL);
+            } catch (error) {
+                reject(error);
+            }
+        };
+        image.onerror = (error) => reject(error);
+        image.src = url;
+    });
 }
- .pagination-controls {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     margin-top: 20px;
+
+function isArchiveImage(url) {
+    return url.includes('archive.org');
 }
- .pagination-button {
-     background-color: #333;
-     color: #f5f5f5;
-     border: none;
-     border-radius: 10px;
-     padding: 10px 20px;
-     margin: 0 20px;
-     cursor: pointer;
-     transition: background-color 0.3s, box-shadow 0.3s;
-}
- .pagination-button:hover {
-     background-color: #444;
-     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-}
- .page-info {
-     color: #f5f5f5;
-     font-size: 16px;
-}
- body.light-theme input[type="text"] {
-     background-color: #e0e0e0;
-     color: #292929;
-}
- body.light-theme input[type="text"]:focus {
-     background-color: #fff;
-     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-     outline: none;
-}
- body.light-theme .clear-search {
-     color: #292929;
-}
- body.light-theme .clear-search:hover {
-     color: #000;
-}
- body.light-theme .result {
-     background-color: #f5f5f5;
-     color: #292929;
-}
- body.light-theme .result:hover {
-     transform: translateY(-5px);
-}
- body.light-theme .result a {
-     color: #292929;
-}
- body.light-theme .result a:hover {
-     color: #000;
-     text-decoration: underline;
-}
- body.light-theme .result p {
-     color: #292929;
-}
- body.light-theme .helper-text {
-     color: rgba(41, 41, 41, 0.5);
-}
- body.light-theme .result img, body.light-theme .result .podcast-logo, body.light-theme .result .rss-icon {
-     border-radius: 50%;
-}
- body.light-theme .toast {
-     background-color: rgba(255, 255, 255, 0.8);
-     color: #000;
-}
- body.light-theme .podcast-info {
-     background-color: #f5f5f5;
-     color: #292929;
-}
- body.light-theme h2 {
-     background-color: #f5f5f5;
-     color: #292929;
-}
- body.light-theme .episode {
-     background-color: #fff;
-     color: #292929;
-}
- body.light-theme .episode.playing {
-     background-color: #e0e0e0;
-     color: #333;
-}
- body.light-theme .episode h4 {
-     color: #292929;
-}
- body.light-theme .pub-date {
-     color: #666;
-}
- body.light-theme .episode-description {
-     color: #666;
-}
- body.light-theme .pagination-button {
-     background-color: #e0e0e0;
-     color: #292929;
-}
- body.light-theme .pagination-button:hover {
-     background-color: #ccc;
-     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-}
- body.light-theme .page-info {
-     color: #292929;
-}
- .theme-toggle {
-     position: absolute;
-     right: 10px;
-     bottom: 10px;
-     transform: translateY(-50%);
-     width: 40px;
-     height: 40px;
-     border-radius: 50%;
-     cursor: pointer;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     font-size: 24px;
-}
- .theme-toggle img {
-     width: 50%;
-     height: 50%;
-     object-fit: contain;
-}
- .toggle-fully-listened {
-     position: absolute;
-     left: 10px;
-     bottom: 10px;
-     transform: translateY(-50%);
-     width: 40px;
-     height: 40px;
-     border-radius: 50%;
-     cursor: pointer;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     font-size: 24px;
-     background: transparent;
-     border: 0;
-     color: white;
-}
- .toggle-fully-listened img {
-     width: 100%;
-     height: 100%;
-     object-fit: contain;
-}
- @keyframes spin {
-     0% {
-         transform: rotate(0deg);
-    }
-     100% {
-         transform: rotate(360deg);
+
+function cacheAndLoadImage(url, element) {
+    const cacheKey = `cachedImage:${url}`;
+    if (isArchiveImage(url)) {
+        const cachedImage = localStorage.getItem(cacheKey);
+        if (cachedImage) {
+            element.src = cachedImage;
+        } else {
+            loadImageToCache(url, cacheKey)
+                .then((cachedDataURL) => {
+                    element.src = cachedDataURL;
+                })
+                .catch((error) => {
+                    console.error('Failed to cache image:', error);
+                    element.src = url;
+                });
+        }
+    } else {
+        element.src = url;
     }
 }
- .loading-spinner {
-     border: 4px solid rgba(255, 255, 255, 0.3);
-     border-radius: 50%;
-     border-top: 4px solid #ffffff;
-     width: 20px;
-     height: 20px;
-     animation: spin 1s linear infinite;
-     position: absolute;
-     top: 10px;
-     left: 20px;
-     transform: translate(-50%, -50%);
-}
- .dark-theme .loading-spinner {
-     border-top-color: #f5f5f5;
-}
- .light-theme .loading-spinner {
-     border-top-color: darkgray;
-}
- @media (max-width: 600px) {
-     .results-container {
-         grid-template-columns: repeat(2, 1fr);
+
+function displayResults(results) {
+    resultsContainer.innerHTML = '';
+    if (results.length === 0) {
+        resultsContainer.innerHTML = '<p>Ingen søgeresultater fundet</p>';
+        return;
     }
-     .icon-link i {
-         font-size: 24px;
-    }
+
+    const grid = document.createElement('div');
+    grid.classList.add('podcast-grid');
+
+    results.forEach(result => {
+        const card = document.createElement('div');
+        card.classList.add('podcast-card');
+
+        const img = document.createElement('img');
+        img.alt = result.text;
+        img.classList.add('podcast-cover');
+        
+        if (result.image) {
+            cacheAndLoadImage(result.image, img);
+        }
+
+        const title = document.createElement('div');
+        title.textContent = result.text;
+        title.classList.add('podcast-title');
+
+        card.appendChild(img);
+        card.appendChild(title);
+        card.addEventListener('click', () => openModal(result));
+        grid.appendChild(card);
+    });
+
+    resultsContainer.appendChild(grid);
 }
- @media screen and (max-width: 400px) {
-     .modal-content {
-         padding: 10px;
-    }
-     #modalDescription {
-         font-size: 0.9rem;
-    }
-     .icon-button {
-         width: 60px;
-         height: 60px;
-    }
-     .icon {
-         width: 45px;
-         height: 45px;
-    }
-}
- .modal-icons {
-     display: flex;
-     justify-content: space-evenly;
-}
- .icon-link, .icon-button {
-     background-color: transparent;
-     padding: 10px;
-     border-radius: 50%;
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     width: 80px;
-     height: 80px;
-     transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
-     border: none;
-     cursor: pointer;
-}
- .icon {
-     width: 60px;
-     height: 60px;
-     object-fit: contain;
-}
- .icon-link i {
-     font-size: 28px;
-     transition: color 0.3s, transform 0.3s;
-}
- .icon-link img {
-     width: 28px;
-     height: 28px;
-     transition: transform 0.3s;
-}
- #visitWebsiteLink i {
-     color: LightGray;
-}
- #playOnSite i {
-     color: MediumSeaGreen;
-}
- #copyRSSButton i {
-     color: Tomato;
-}
- #openInAppLink i {
-     color: #9c27b0;
-}
- .icon-link:hover i {
-     color: #81c784;
-     transform: scale(1.2);
-}
- @keyframes fadeIn {
-     from {
-         opacity: 0;
-    }
-     to {
-         opacity: 1;
-    }
-}
- @keyframes fadeOut {
-     from {
-         opacity: 1;
-    }
-     to {
-         opacity: 0;
-    }
-}
- .podcast-grid {
-     display: grid;
-     grid-template-columns: repeat(2, 1fr);
-     gap: 20px;
-}
-.podcast-card {
-    background: rgba(36, 36, 36, 0.2);
-    backdrop-filter: blur(15px);
-    border: 1px solid rgba(36, 36, 36, 0.5);
-    border-radius: 12px;
-    padding: 0;
-    text-align: center;
-    cursor: pointer;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    max-width: 180px;
-    height: 210px;
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
-    overflow: hidden;
-}
- .podcast-card:hover {
-     transform: translateY(-10px);
-     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
-}
- .podcast-cover {
-     width: 100%;
-     height: 180px;
-     margin: 0px;
-     border-top-left-radius: 8px;
-     border-top-right-radius: 8px;
-}
- .podcast-title {
-     font-size: clamp(0.1rem, 2vw, 1rem);
-     font-weight: bold;
-     color: #f5f5f5;
-     margin: 2px 0 0 0;
-     padding: 0 10px;
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     text-align: center;
-     max-width: 100%;
-     white-space: nowrap;
-     overflow: hidden;
-}
- body.light-theme .podcast-card {
-     background-color: #f5f5f5;
-     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
-}
- body.light-theme .podcast-title {
-     color: #292929;
-}
- body.light-theme .podcast-cover {
-     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
- .modal {
-     display: none;
-     position: fixed;
-     z-index: 1000;
-     left: 0;
-     top: 0;
-     width: 100%;
-     height: 100%;
-     background-color: rgba(0, 0, 0, 0.7);
-     backdrop-filter: blur(10px);
-     animation: fadeIn 0.4s ease-in;
-}
- .modal-content {
-     background: rgba(36, 36, 36, 0.2);
-     backdrop-filter: blur(15px);
-     border-radius: 12px;
-     padding: 20px;
-     max-height: 80v;
-     max-width: 400px;
-     margin: 60px auto;
-     text-align: center;
-     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
-     position: relative;
-     animation: scaleIn 0.4s ease-in-out forwards;
-     border: 1px solid rgba(255, 255, 255, 0.2);
-}
- .modal-content h3 {
-     font-size: 1.8rem;
-     margin-bottom: 12px;
-     color: #f5f5f5;
-     font-weight: bold;
-}
- #modalProvider {
-     opacity: 0.8;
-     font-size: 0.85rem;
-     color: #e0e0e0;
-     margin-bottom: 10px;
-}
- #modalDescription {
-     color: #f5f5f5;
-     font-size: 1rem;
-     line-height: 1.3;
-     max-height: 14em;
-     overflow: hidden;
-     text-overflow: ellipsis;
-     display: -webkit-box;
-     -webkit-line-clamp: 8;
-     -webkit-box-orient: vertical;
-     transition: max-height 0.3s ease-out, padding 0.1s ease-out;
-}
- #modalDescription.expanded {
-     max-height: none;
-     -webkit-line-clamp: unset;
-     white-space: normal;
-}
- .close {
-     position: absolute;
-     top: 15px;
-     right: 20px;
-     font-size: 1.8rem;
-     color: #aaa;
-     cursor: pointer;
-     transition: color 0.2s ease;
-}
- .close:hover {
-     color: #fff;
-}
- @keyframes scaleIn {
-     from {
-         opacity: 0;
-         transform: scale(0.95);
-    }
-     to {
-         opacity: 1;
-         transform: scale(1);
-    }
-}
- 
+
+let debounceTimeout;
+document.getElementById('searchInput').addEventListener('input', function () {
+    clearTimeout(debounceTimeout);
+    debounceTimeout = setTimeout(() => {
+        filterPodcasts(this.value.trim());
+    }, 300);
+});
+
+document.getElementById('searchInput').addEventListener('keypress', function (event) {
+    if (event.key === 'Enter') this.blur();
+});
+</script>
+</body>
+</html>
