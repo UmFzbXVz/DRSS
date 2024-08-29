@@ -81,7 +81,7 @@ body {
 }
  a:hover {
      color: #f0f0f0;
-     text-decoration: underline;
+     text-decoration: none;
 }
  .results-container {
      display: grid;
@@ -92,7 +92,7 @@ body {
      padding: 20px;
      border-radius: 10px;
      box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-     transition: transform 0.1s ease, box-shadow 0.1s ease;
+     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
  .helper-text {
      font-size: 12px;
@@ -207,7 +207,7 @@ body {
     }
 }
  .modal {
-     animation: scaleIn 0.1s ease-in-out forwards;
+     animation: scaleIn 0.4s ease-in-out forwards;
 }
  .podcast-info {
      background-color: #242424;
@@ -586,7 +586,6 @@ body {
      border-top-right-radius: 8px;
 }
  .podcast-title {
-     font-size: clamp(0.1rem, 2vw, 1rem);
      font-weight: bold;
      color: #f5f5f5;
      margin: 2px 0 0 0;
@@ -619,7 +618,7 @@ body {
      height: 100%;
      background-color: rgba(0, 0, 0, 0.7);
      backdrop-filter: blur(10px);
-     animation: fadeIn 0.1s ease-in;
+     animation: fadeIn 0.4s ease-in;
 }
  .modal-content {
      background: rgba(36, 36, 36, 0.2);
@@ -632,7 +631,7 @@ body {
      text-align: center;
      box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
      position: relative;
-     animation: scaleIn 0.1s ease-in-out forwards;
+     animation: scaleIn 0.4s ease-in-out forwards;
      border: 1px solid rgba(255, 255, 255, 0.2);
 }
 .modal-content h3 {
@@ -659,6 +658,7 @@ body {
     -webkit-line-clamp: 6;
     -webkit-box-orient: vertical;
     white-space: normal;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
 }
  #modalDescription.expanded {
      max-height: 1000px;
