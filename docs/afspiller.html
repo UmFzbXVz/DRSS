@@ -45,7 +45,6 @@ const eyeClosed = 'https://cdn2.iconfinder.com/data/icons/eye-symbol/64/eye-09-6
 const sun = 'https://icon-library.com/images/sun-icon-vector/sun-icon-vector-25.jpg';
 const moon = 'https://static.thenounproject.com/png/936949-200.png';
 
-
 async function loadPodcast() {
   try {
     document.getElementById("loading-spinner").style.display = "block";
@@ -383,6 +382,82 @@ themeToggle.addEventListener('click', () => {
 });
 
   const audioPlayer = document.getElementById("audio-player");
+  
+  if ('mediaSession' in navigator) {
+    function updateMediaSessionMetadata(episodeTitle, episodeDescription, artworkUrl) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: episodeTitle || 'Unknown Title',
+        artist: podTitle || 'Unknown Podcast',
+        album: podDesc || 'Unknown Album',
+        artwork: [
+          { src: artworkUrl || 'default-artwork.jpg', sizes: '256x256', type: 'image/jpeg' }
+        ]
+      });
+    }
+
+    navigator.mediaSession.setActionHandler('play', () => {
+      audioPlayer.play();
+    });
+    navigator.mediaSession.setActionHandler('pause', () => {
+      audioPlayer.pause();
+    });
+
+    navigator.mediaSession.setActionHandler('seekbackward', (details) => {
+      audioPlayer.currentTime = Math.max(audioPlayer.currentTime - (details.seekOffset || 10), 0);
+    });
+    navigator.mediaSession.setActionHandler('seekforward', (details) => {
+      audioPlayer.currentTime = Math.min(audioPlayer.currentTime + (details.seekOffset || 10), audioPlayer.duration);
+    });
+
+    navigator.mediaSession.setActionHandler('previoustrack', () => {
+    });
+    navigator.mediaSession.setActionHandler('nexttrack', () => {
+      playNextEpisode();
+    });
+  }
+
+  function playEpisode(episodeUrl, episodeTitle) {
+    if (isChangingEpisode) return;
+    isChangingEpisode = true;
+
+    const audioPlayer = document.getElementById("audio-player");
+
+    if (audioPlayer.src) {
+      savePlaybackProgress(audioPlayer.src, audioPlayer.currentTime);
+    }
+
+    audioPlayer.removeEventListener('timeupdate', handleTimeUpdate);
+    audioPlayer.removeEventListener('pause', handlePause);
+    audioPlayer.removeEventListener('ended', handleEnded);
+
+    const savedTime = getPlaybackProgress(episodeUrl);
+    audioPlayer.src = episodeUrl;
+    audioPlayer.currentTime = savedTime;
+    audioPlayer.style.display = "block";
+
+    localStorage.setItem('currentlyPlaying', episodeUrl);
+
+    audioPlayer.play().then(() => {
+      isPlaying = true;
+      document.title = episodeTitle;
+
+      document.querySelectorAll('.episode').forEach(episode => episode.classList.remove('playing'));
+      document.querySelector(`.episode[data-url='${episodeUrl}']`).classList.add('playing');
+
+      updateMediaSessionMetadata(episodeTitle, '', '');
+
+      audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
+      audioPlayer.addEventListener('pause', handlePause);
+      audioPlayer.addEventListener('ended', handleEnded);
+
+      const spinner = document.querySelector(`.episode[data-url='${episodeUrl}'] .loading-spinner`);
+      spinner.style.display = "none";
+    }).catch(error => {
+      console.error("Error playing episode:", error);
+    }).finally(() => {
+      isChangingEpisode = false;
+    });
+  }
 
   audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
   audioPlayer.addEventListener('pause', handlePause);
