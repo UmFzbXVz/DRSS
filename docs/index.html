@@ -1,23 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=0.9">
-  <title>Testområde</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.9">
+    <title>Testområde</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-
-<div class="container">
-  <h2>podcasts</h2>
-  <div class="search-wrapper">
-      <input type="text" id="searchInput" placeholder="Søg..">
-      <span class="clear-search" onclick="clearSearch()">&#10006;</span>
-  </div>
-  <p class="helper-text">Testområde</p>
-  <div id="results"></div>
-</div>
+    <div class="container">
+        <h2>podcasts</h2>
+        <div class="search-wrapper">
+            <input type="text" id="searchInput" placeholder="Søg..">
+            <span class="clear-search" onclick="clearSearch()">&#10006;</span>
+        </div>
+        <p class="helper-text">Testområde</p>
+        <div id="results"></div>
+    </div>
     <div id="podcastModal" class="modal">
         <div class="modal-content">
             <div class="close" id="closeModal">&#10006</div>
@@ -25,9 +24,6 @@
             <h3 id="modalProvider">Udgiver</h3>
             <div id="modalDescription">Beskrivelse</div>
             <div class="modal-icons">
-                <a href="#" id="visitWebsiteLink" target="_blank" title="Besøg programmets hjemmeside" class="icon-link">
-                    <i class="fas fa-globe"></i>
-                </a>
                 <a href="#" id="listEpisodes" title="Afsnitliste" class="icon-link">
                     <i class="fas fa-list"></i>
                 </a>
@@ -46,7 +42,7 @@
   <div id="episodeListModal" class="modal">
     <div class="modal-content">
         <span class="close">&times;</span>
-        <h3>Episodes</h3>
+        <h3 id="modalPodcastTitle">afsnit</h3>
         <div id="episodesContainer">
             <!-- Her kommer dynamisk indhold fra podcasts -->
         </div>
@@ -149,6 +145,7 @@ function clearSearch() {
 function openModal(podcast) {
     const modal = document.getElementById('podcastModal');
     const descriptionElement = document.getElementById('modalDescription');
+    const podcastTitleElement = document.getElementById('modalPodcastTitle');
     descriptionElement.innerHTML = '';
     descriptionElement.classList.remove('expanded');
     modal.style.display = 'block';
@@ -159,11 +156,96 @@ function openModal(podcast) {
 
     document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
     document.getElementById('playOnSite').target = '_blank';
-    document.getElementById('visitWebsiteLink').href = podcast.url;
     document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
     document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
+  
+document.getElementById('listEpisodes').onclick = async () => {
+    const episodeModal = document.getElementById('episodeListModal');
+    const episodesContainer = document.getElementById('episodesContainer');
+    const podcastTitleElement = document.getElementById('modalPodcastTitle');
+    const rssFeedUrl = podcast.rssLink;
+
+    if (rssFeedUrl) {
+        try {
+            const xmlText = await fetchRSSFeed(rssFeedUrl);
+            const episodes = parseRSSFeed(xmlText);
+
+            episodesContainer.innerHTML = '';
+            if (episodes.length > 0) {
+                episodes.forEach(episode => {
+                    const episodeItem = document.createElement('div');
+                    episodeItem.classList.add('episode-list-item');
+                    episodeItem.innerHTML = `
+                        <span>${episode.title}</span>
+                        <span>${episode.date}</span>
+                    `;
+                    episodeItem.dataset.enclosureUrl = episode.enclosure;
+                    episodeItem.addEventListener('click', () => {
+                        navigator.clipboard.writeText(episode.enclosure)
+                            .then(() => {
+                                alert('URL kopieret til udklipsholder. Denne proces skal gøres pænere og mere informativ');
+                            })
+                            .catch(err => {
+                                console.error('Failed to copy URL:', err);
+                                alert('Failed to copy URL.');
+                            });
+                    });
+
+                    episodesContainer.appendChild(episodeItem);
+                });
+            } else {
+                episodesContainer.innerHTML = '<p>Ingen afsnit fundet for podcasten. Her kommer bedre tekst senere</p>';
+            }
+            
+            podcastTitleElement.text = podcast.title || 'afsnit';
+
+            episodeModal.style.display = 'block';
+        } catch (error) {
+            console.error('Error fetching or parsing RSS feed:', error);
+            episodesContainer.innerHTML = '<p>Failed to load episodes.</p>';
+            episodeModal.style.display = 'block';
+        }
+    } else {
+        episodesContainer.innerHTML = '<p>Podcast RSS feed not available.</p>';
+        episodeModal.style.display = 'block';
+    }
+};
+}
+  
+async function fetchRSSFeed(rssUrl) {
+    const response = await fetch(rssUrl);
+    const text = await response.text();
+    return text;
 }
 
+  document.querySelector('#episodeListModal .close').onclick = () => {
+    document.getElementById('episodeListModal').style.display = 'none';
+};
+  
+function parseRSSFeed(xmlText) {
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+    const items = xmlDoc.getElementsByTagName("item");
+    
+    const episodes = [];
+    for (let i = 0; i < items.length; i++) {
+        const item = items[i];
+        episodes.push({
+            title: item.getElementsByTagName("title")[0].textContent,
+            date: new Date(item.getElementsByTagName("pubDate")[0].textContent).toLocaleDateString(),
+            enclosure: item.getElementsByTagName("enclosure")[0].getAttribute("url")
+        });
+    }
+    return episodes;
+}
+
+
+window.onclick = (event) => {
+    const modal = document.getElementById('episodeListModal');
+    if (event.target === modal) {
+        modal.style.display = 'none';
+    }
+};
 
 function formatDescription(description) {
     let formattedDescription = description.replace(/\n/g, '<br>');
@@ -222,7 +304,7 @@ async function filterPodcasts(searchText) {
     displayResults(results);
 }
 
-const MAX_CACHE_ITEMS = 25;
+const MAX_CACHE_ITEMS = 20;
 
 function getLRUCache() {
     const cache = localStorage.getItem('imageCacheOrder');
