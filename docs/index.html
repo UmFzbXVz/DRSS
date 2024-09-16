@@ -18,28 +18,39 @@
   <p class="helper-text">Testområde</p>
   <div id="results"></div>
 </div>
-  <div id="podcastModal" class="modal">
-  <div class="modal-content">
-    <div class="close" id="closeModal">&#10006</div>
-    <h3 id="modalTitle">Titel</h3>
-    <h3 id="modalProvider">Udgiver</h3>
-    <div id="modalDescription">Beskrivelse</div>
-<div class="modal-icons">
-   <a href="#" id="visitWebsiteLink" target="_blank" title="Besøg programmets hjemmeside" class="icon-link">
-      <i class="fas fa-globe"></i>
-   </a>
-   <a href="#" id="playOnSite" title="Afspil her" class="icon-link">
-      <i class="fas fa-play"></i>
-   </a>
-   <a id="copyRSSButton" title="Kopiér RSS-link" class="icon-link">
-      <i class="fas fa-rss"></i>
-   </a>
-   <a href="#" id="openInAppLink" title="Åbn i podcast-app" class="icon-link">
-      <i class="fas fa-podcast"></i>
-   </a>
-</div>
-
-  </div>
+    <div id="podcastModal" class="modal">
+        <div class="modal-content">
+            <div class="close" id="closeModal">&#10006</div>
+            <h3 id="modalTitle">Titel</h3>
+            <h3 id="modalProvider">Udgiver</h3>
+            <div id="modalDescription">Beskrivelse</div>
+            <div class="modal-icons">
+                <a href="#" id="visitWebsiteLink" target="_blank" title="Besøg programmets hjemmeside" class="icon-link">
+                    <i class="fas fa-globe"></i>
+                </a>
+                <a href="#" id="listEpisodes" title="Afsnitliste" class="icon-link">
+                    <i class="fas fa-list"></i>
+                </a>
+                <a href="#" id="playOnSite" title="Afspil her" class="icon-link">
+                    <i class="fas fa-play"></i>
+                </a>
+                <a id="copyRSSButton" title="Kopiér RSS-link" class="icon-link">
+                    <i class="fas fa-rss"></i>
+                </a>
+                <a href="#" id="openInAppLink" title="Åbn i podcast-app" class="icon-link">
+                    <i class="fas fa-podcast"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+  <div id="episodeListModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h3>Episodes</h3>
+        <div id="episodesContainer">
+            <!-- Her kommer dynamisk indhold fra podcasts -->
+        </div>
+    </div>
 </div>
 <script>
 const resultsContainer = document.getElementById('results');
