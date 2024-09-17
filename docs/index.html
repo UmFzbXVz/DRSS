@@ -169,7 +169,10 @@
                   document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
                   document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
                   
-                  document.getElementById('listEpisodes').onclick = async () => openEpisodeListModal(podcast);
+                  document.getElementById('listEpisodes').onclick = async () => {
+                    document.getElementById('podcastModal').style.display = 'none'; 
+                    openEpisodeListModal(podcast) 
+                  };
                   modal.style.display = 'block';
               }
               async function openEpisodeListModal(podcast) {
