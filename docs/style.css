@@ -55,14 +55,17 @@ input[type="text"]:focus {
 #episodeListModal .modal-content > div {
   position: relative;
 }
-#sortByTitle {
+#sortByTitle, #sortByDate {
+  top: -25px;
+  font-size: 19px;
+  font-weight: 100;
+  cursor: pointer;
   position: absolute;
-  top: -15px;
+}
+#sortByTitle {
   left: 15px;
 }
 #sortByDate {
-  position: absolute;
-  top: -15px;
   right: 30px;
 }
 .episode-list-item:hover .tooltip,
