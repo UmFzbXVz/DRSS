@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=0.9">
     <title>Testområde</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js"></script>
   </head>
   <body>
     <div class="container">
@@ -20,7 +20,7 @@
     </div>
     <div id="podcastModal" class="modal">
       <div class="modal-content">
-        <div class="close" id="closeModal">&#10006</div>
+        <div class="close" id="closeModal">&#10006;</div>
         <h3 id="modalTitle">Titel</h3>
         <h3 id="modalProvider">Udgiver</h3>
         <div id="modalDescription">Beskrivelse</div>
@@ -42,15 +42,15 @@
     </div>
     <div id="episodeListModal" class="modal">
       <div class="modal-content">
-        <span class="close">&times;</span>
+        <span class="close">&#10006;</span>
         <h3 id="modalPodcastTitle"></h3>
         <input type="text" id="episodeSearchInput" class="search-bar" placeholder="søg i episoder...">
         <div class="sort-controls">
           <span id="sortByTitle">
-          <i class="fas fa-sort-alpha-down"></i>
+          <i class="fa fa-sort-alpha-desc"></i>
           </span>
           <span id="sortByDate">
-          <i class="fas fa-calendar-day"></i>
+          <i class="fa fa-calendar" aria-hidden="true"></i>
           </span>
         </div>
         <div id="episodesContainer">
@@ -234,12 +234,12 @@
         <span class="episode-title">${highlightedTitle}</span>
         <span class="episode-date">${highlightedDate}</span>
       </div>
-      <div class="episode-description">${highlightedDescription}</div>
+      <div class="episodelist-description">${highlightedDescription}</div>
     `;
           episodeItem.dataset.enclosureUrl = episode.enclosure;
 
           episodeItem.addEventListener('click', (event) => {
-            if (event.target.closest('.episode-description')) {
+            if (event.target.closest('.episodelist-description')) {
               return;
             }
 
@@ -249,7 +249,7 @@
               });
           });
 
-          const description = episodeItem.querySelector('.episode-description');
+          const description = episodeItem.querySelector('.episodelist-description');
           description.addEventListener('click', (event) => {
             event.stopPropagation();
             description.classList.toggle('expanded');
