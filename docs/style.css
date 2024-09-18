@@ -61,12 +61,13 @@ input[type="text"]:focus {
     top: -25px;
     bottom: 25px;
     font-size: 19px;
-    font-weight: 100;
+    font-weight: 50;
     cursor: pointer;
     position: absolute;
     transition: color 0.3s, background-color 0.3s, box-shadow 0.3s;
     padding: 5px 10px;
     border-radius: 5px;
+    color: rgba(245, 245, 245, 0.4);
 }
 #sortByTitle {
     left: 1rem;
@@ -184,7 +185,7 @@ h2 {
 .close {
     color: #aaa;
     float: right;
-    font-size: 28px;
+    font-size: 18px;
     font-weight: bold;
 }
 .close:focus,
@@ -769,14 +770,12 @@ body.light-theme .podcast-cover {
     max-height: 800px;
     overflow-y: auto;
     padding: 10px;
-    margin-top: 10px;
 }
 #episodesContainer .episode-list-item {
     background-color: rgba(255, 255, 255, 0.1);
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 8px;
-    color: #f5f5f5;
     display: flex;
     justify-content: space-between;
     cursor: pointer;
@@ -789,13 +788,12 @@ body.light-theme .podcast-cover {
     display: flex;
     flex-direction: column;
 }
-
 .episode-item {
     display: flex;
     flex-direction: column;
     padding: 0;
     background: rgba(36, 36, 36, 0.1);
-    backdrop-filter: blur(15px);
+    backdrop-filter: blur(10px);
     border-radius: 12px;
     padding: 5px;
     margin: 5px;
@@ -806,7 +804,7 @@ body.light-theme .podcast-cover {
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
     position: relative;
     animation: scaleIn 0.2s ease-in-out forwards;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.05);
     overflow: hidden;
 }
 
@@ -816,7 +814,7 @@ body.light-theme .podcast-cover {
 }
 
 .episode-title {
-    width: 67%;
+    width: 68%;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -824,11 +822,11 @@ body.light-theme .podcast-cover {
 }
 
 .episode-date {
-    width: 33%;
+    width: 30%;
     text-align: right;
 }
 
-.episode-description {
+.episodelist-description {
     width: 100%;
     overflow: hidden;
     white-space: nowrap;
@@ -836,7 +834,7 @@ body.light-theme .podcast-cover {
     display: block;
     cursor: pointer;
 }
-.episode-description.expanded {
+.episodelist-description.expanded {
     white-space: normal;
     overflow: visible;
 }
