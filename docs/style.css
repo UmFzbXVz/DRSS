@@ -56,25 +56,6 @@ input[type="text"]:focus {
 #episodeListModal .modal-content > div {
     position: relative;
 }
-#sortByDate,
-#sortByTitle {
-    top: -25px;
-    bottom: 25px;
-    font-size: 19px;
-    font-weight: 50;
-    cursor: pointer;
-    position: absolute;
-    transition: color 0.3s, background-color 0.3s, box-shadow 0.3s;
-    padding: 5px 10px;
-    border-radius: 5px;
-    color: rgba(245, 245, 245, 0.4);
-}
-#sortByTitle {
-    left: 1rem;
-}
-#sortByDate {
-    right: 1rem;
-}
 .episode-list-item:focus .tooltip,
 .episode-list-item:hover .tooltip {
     visibility: visible;
@@ -665,7 +646,7 @@ body.light-theme .podcast-cover {
     background: rgba(36, 36, 36, 0.2);
     backdrop-filter: blur(15px);
     border-radius: 12px;
-    padding: 20px;
+    padding: 10px;
     max-height: 80v;
     max-width: 400px;
     margin: 60px auto;
@@ -769,7 +750,6 @@ body.light-theme .podcast-cover {
 #episodesContainer {
     max-height: 800px;
     overflow-y: auto;
-    padding: 10px;
 }
 #episodesContainer .episode-list-item {
     background-color: rgba(255, 255, 255, 0.1);
@@ -784,61 +764,79 @@ body.light-theme .podcast-cover {
 #episodesContainer .episode-list-item:hover {
     background-color: rgba(255, 255, 255, 0.2);
 }
+strong {
+    font-weight: bold;
+    color: orange;
+}
 .episode-list {
     display: flex;
     flex-direction: column;
+}
+.episode-header {
+    display: flex;
+    justify-content: space-between;
+}
+#sortByDate,
+#sortByTitle {
+    top: -25px;
+    bottom: 25px;
+    font-size: 19px;
+    font-weight: 50;
+    cursor: pointer;
+    position: absolute;
+    transition: color 0.3s, background-color 0.3s, box-shadow 0.3s;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: rgba(245, 245, 245, 0.4);
+}
+#sortByTitle {
+    left: 1rem;
+}
+#sortByDate {
+    right: 1rem;
 }
 .episode-item {
     display: flex;
     flex-direction: column;
     padding: 0;
-    background: rgba(36, 36, 36, 0.1);
-    backdrop-filter: blur(10px);
-    border-radius: 12px;
-    padding: 5px;
-    margin: 5px;
-    gap: 5px;
+    background: rgba(36, 36, 36, 0.2);
+    backdrop-filter: blur(10px) brightness(1.1);
+    border-radius: 15px;
+    padding: 12px;
+    margin: 12px;
+    gap: 10px;
     max-height: 80v;
-    max-width: 400px;
+    max-width: 420px;
     text-align: center;
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
     position: relative;
-    animation: scaleIn 0.2s ease-in-out forwards;
+    animation: scaleIn 0.3s ease-in-out forwards;
     border: 1px solid rgba(255, 255, 255, 0.05);
     overflow: hidden;
 }
-
-.episode-header {
-    display: flex;
-    justify-content: space-between;
-}
-
 .episode-title {
     width: 68%;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
     font-weight: bold;
+    color: rgba(255, 255, 255, 1.1);
 }
-
 .episode-date {
     width: 30%;
     text-align: right;
 }
-
 .episodelist-description {
-    width: 100%;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.9em;
+    letter-spacing: 0.5px;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    display: block;
     cursor: pointer;
 }
 .episodelist-description.expanded {
     white-space: normal;
     overflow: visible;
-}
-strong {
-    font-weight: bold;
-    color: orange;
+    text-align: left;
 }
