@@ -14,7 +14,7 @@
     <div class="container">
         <h2>podcasts</h2>
         <div class="search-wrapper">
-            <input type="text" id="searchInput" placeholder="Søg..">
+            <input type="text" id="searchInput" placeholder="søg..">
             <span class="clear-search" onclick="clearSearch()">&#10006;</span>
         </div>
         <p class="helper-text">Testområde</p>
@@ -47,9 +47,9 @@
     </div>
     <div id="episodeListModal" class="modal">
         <div class="modal-content">
-            <span class="close">&#10006;</span>
-            <h3 id="modalPodcastTitle"></h3>
-            <input type="text" id="episodeSearchInput" class="search-bar" placeholder="søg i episoder...">
+            <span class="close"></span>
+            <div id="modalPodcastTitle"></div>
+            <input type="text" id="episodeSearchInput" class="search-bar" placeholder="søg i afsnit...">
             <div class="sort-controls">
                 <span id="sortByTitle">
           <i class="fa fa-sort-alpha-desc"></i>
@@ -103,7 +103,6 @@
               });
             }
           });
-    
     
           async function fetchDataAndPreloadIcon() {
             try {
@@ -184,9 +183,11 @@ async function openEpisodeListModal(podcast) {
     document.getElementById('spinnerOverlay').style.display = 'flex';
     document.body.classList.add('blur');
 
+  
     try {
         const episodeModal = document.getElementById('episodeListModal');
         const episodesContainer = document.getElementById('episodesContainer');
+        document.getElementById('modalPodcastTitle').textContent = podcast.text;
         const rssFeedUrl = podcast.rssLink;
         const xmlText = await fetchRSSFeed(rssFeedUrl);
 
@@ -195,7 +196,7 @@ async function openEpisodeListModal(podcast) {
 
         episodeModal.style.display = 'block';
     } catch (error) {
-        console.error('Error loading RSS feed:', error);
+        console.error('Kunne ikke indlæse RSS-feed:', error);
     } finally {
         document.getElementById('spinnerOverlay').style.display = 'none';
         document.body.classList.remove('blur');
@@ -229,91 +230,96 @@ async function openEpisodeListModal(podcast) {
             return episodes;
           }
     
-    function renderEpisodes(episodes, searchTerm = '') {
-      const episodesContainer = document.getElementById('episodesContainer');
-      episodesContainer.innerHTML = '';
-    
-      const highlightText = (text, term) => {
-        if (!term) return text;
-        const regex = new RegExp(`(${term})`, 'gi');
-        return text.replace(regex, '<strong>$1</strong>');
-      };
-    
-      if (searchTerm.length >= 3 || searchTerm === '') {
-        let expandedCount = 0;
-    
-        episodes.forEach(episode => {
-          const episodeItem = document.createElement('div');
-          episodeItem.classList.add('episode-item');
-    
-          const highlightedTitle = highlightText(episode.title, searchTerm);
-          const highlightedDate = highlightText(episode.date, searchTerm);
-          const highlightedDescription = highlightText(episode.description, searchTerm);
-    
-          episodeItem.innerHTML = `
-            <div class="episode-header">
-              <span class="episode-title">${highlightedTitle}</span>
-              <span class="episode-date">${highlightedDate}</span>
-            </div>
-            <div class="episodelist-description">${highlightedDescription}</div>
-          `;
-          episodeItem.dataset.enclosureUrl = episode.enclosure;
-    
-          episodeItem.addEventListener('click', (event) => {
-            if (event.target.closest('.episodelist-description')) {
-              return;
-            }
-    
-            navigator.clipboard.writeText(episode.enclosure)
-              .then(() => {
-                showToast(`<div style="text-align: center;">Link kopieret!</div><br>${episode.title}`);
-              });
+
+let currentFilteredEpisodes = [];
+
+function renderEpisodes(episodes, searchTerm = '') {
+  const episodesContainer = document.getElementById('episodesContainer');
+  episodesContainer.innerHTML = '';
+
+  const highlightText = (text, term) => {
+    if (!term) return text;
+    const regex = new RegExp(`(${term})`, 'gi');
+    return text.replace(regex, '<strong>$1</strong>');
+  };
+
+  if (searchTerm.length >= 3 || searchTerm === '') {
+    let expandedCount = 0;
+
+    // Filter episodes based on the search term
+    currentFilteredEpisodes = episodes.filter(episode => 
+      episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      episode.description.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+
+    currentFilteredEpisodes.forEach(episode => {
+      const episodeItem = document.createElement('div');
+      episodeItem.classList.add('episode-item');
+
+      const highlightedTitle = highlightText(episode.title, searchTerm);
+      const highlightedDate = highlightText(episode.date, searchTerm);
+      const highlightedDescription = highlightText(episode.description, searchTerm);
+
+      episodeItem.innerHTML = `
+        <div class="episode-header">
+          <span class="episode-title">${highlightedTitle}</span>
+          <span class="episode-date">${highlightedDate}</span>
+        </div>
+        <div class="episodelist-description">${highlightedDescription}</div>
+      `;
+      episodeItem.dataset.enclosureUrl = episode.enclosure;
+
+      episodeItem.addEventListener('click', (event) => {
+        if (event.target.closest('.episodelist-description')) {
+          return;
+        }
+        
+        navigator.clipboard.writeText(episode.enclosure)
+          .then(() => {
+            showToast(`<div style="text-align: center;">Link kopieret!</div><br>${episode.title}`);
           });
-    
-          const description = episodeItem.querySelector('.episodelist-description');
-          description.addEventListener('click', (event) => {
-            event.stopPropagation();
-            description.classList.toggle('expanded');
-          });
-    
-          if (searchTerm && episode.description.toLowerCase().includes(searchTerm.toLowerCase()) && expandedCount < 2) {
-            description.classList.add('expanded');
-            expandedCount++;
-          }
-    
-          episodesContainer.appendChild(episodeItem);
-        });
-      } else {
-        episodesContainer.innerHTML = 'Indtast minimum 3 bogstaver for at søge</p>';
+      });
+
+      const description = episodeItem.querySelector('.episodelist-description');
+      description.addEventListener('click', (event) => {
+        event.stopPropagation();
+        description.classList.toggle('expanded');
+      });
+
+      if (searchTerm && episode.description.toLowerCase().includes(searchTerm.toLowerCase()) && expandedCount < 2) {
+        description.classList.add('expanded');
+        expandedCount++;
       }
-    }
-    
+
+      episodesContainer.appendChild(episodeItem);
+    });
+  } else {
+    episodesContainer.innerHTML = 'Indtast minimum 3 bogstaver for at søge</p>';
+  }
+}
     
           let sortOrderTitle = 'asc';
           let sortOrderDate = 'asc';
     
-          document.getElementById('sortByTitle').addEventListener('click', () => {
-            const sorted = [...currentEpisodes].sort((a, b) => {
-              if (sortOrderTitle === 'asc') {
-                return a.title.localeCompare(b.title);
-              } else {
-                return b.title.localeCompare(a.title);
-              }
-            });
-            sortOrderTitle = (sortOrderTitle === 'asc') ? 'desc' : 'asc';
-            renderEpisodes(sorted);
-          });
-    
-          document.getElementById('sortByDate').addEventListener('click', () => {
-            const sorted = [...currentEpisodes].sort((a, b) => {
-              const dateA = parseDate(a.date);
-              const dateB = parseDate(b.date);
-    
-              return sortOrderDate === 'asc' ? dateA - dateB : dateB - dateA;
-            });
-            sortOrderDate = (sortOrderDate === 'asc') ? 'desc' : 'asc';
-            renderEpisodes(sorted);
-          });
+document.getElementById('sortByTitle').addEventListener('click', () => {
+  const sorted = [...currentFilteredEpisodes].sort((a, b) => {
+    return sortOrderTitle === 'asc' ? a.title.localeCompare(b.title) : b.title.localeCompare(a.title);
+  });
+  sortOrderTitle = sortOrderTitle === 'asc' ? 'desc' : 'asc';
+  const searchTerm = document.getElementById('episodeSearchInput').value;
+  renderEpisodes(sorted, searchTerm);
+});
+
+document.getElementById('sortByDate').addEventListener('click', () => {
+  const sorted = [...currentFilteredEpisodes].sort((a, b) => {
+    const dateA = parseDate(a.date);
+    const dateB = parseDate(b.date);
+    return sortOrderDate === 'asc' ? dateA - dateB : dateB - dateA;
+  });
+  sortOrderDate = sortOrderDate === 'asc' ? 'desc' : 'asc';
+  const searchTerm = document.getElementById('episodeSearchInput').value;
+  renderEpisodes(sorted, searchTerm);
+});
     
           function parseDate(dateString) {
             const dateFormats = [
