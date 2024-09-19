@@ -64,535 +64,528 @@
     </div>
     <script>
         const resultsContainer = document.getElementById('results');
-          const h2Container = document.querySelector('.container h2');
-          let drPodcastsData = [];
-          let podimoPodcastsData = [];
-          let miscPodcastsData = [];
-          let pir8dioPodcastsData = [];
-          let politikenPodcastsData = [];
-          let radio4PodcastsData = [];
-    
-          document.addEventListener('DOMContentLoaded', () => {
-            fetchDataAndPreloadIcon();
-    
-            document.getElementById('podcastModal').addEventListener('click', function(event) {
-              const descriptionElement = document.getElementById('modalDescription');
-              if (event.target === descriptionElement) {
-                descriptionElement.classList.toggle('expanded');
-              }
-            });
-    
-            window.onclick = function(event) {
-              const modal = document.getElementById('podcastModal');
-              if (event.target === modal) {
-                modal.style.display = 'none';
-              }
-            };
-    
-            const closeModalButton = document.getElementById('closeModal');
-            closeModalButton.addEventListener('click', () => {
-              const modal = document.getElementById('podcastModal');
-              modal.style.display = 'none';
-            });
-    
-            if (episodeListModal) {
-              window.addEventListener('click', (event) => {
-                if (event.target === episodeListModal) {
-                  episodeListModal.style.display = 'none';
-                }
-              });
-            }
-          });
-    
-          async function fetchDataAndPreloadIcon() {
-            try {
-              [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData, radio4PodcastsData] = await Promise.all([
-                fetchDRPodcastsData(),
-                fetchPodimoPodcastsData(),
-                fetchMiscPodcastsData(),
-                fetchPir8dioPodcastsData(),
-                fetchPolitikenPodcastsData(),
-                fetchradio4PodcastsData(),
-              ]);
-            } catch (error) {
-              console.error('Error fetching data:', error);
-            }
-          }
-    
-          async function fetchData(url) {
-            try {
-              const response = await fetch(url);
-              if (!response.ok) throw new Error(`Error fetching data from ${url}`);
-              return await response.json();
-            } catch (error) {
-              console.error(`Error fetching data from ${url}:`, error);
-              return null;
-            }
-          }
-    
-          async function fetchDRPodcastsData() {
-            return fetchData('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
-          }
-    
-          async function fetchPodimoPodcastsData() {
-            return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
-          }
-    
-          async function fetchMiscPodcastsData() {
-            return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
-          }
-    
-          async function fetchPir8dioPodcastsData() {
-            return fetchData('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/oversigtAfsnit.json');
-          }
-    
-          async function fetchPolitikenPodcastsData() {
-            return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json');
-          }
-    
-          async function fetchradio4PodcastsData() {
-            return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/radio4/r4dio.json');
-          }
-    
-    
-          function clearSearch() {
-            const searchInput = document.getElementById('searchInput');
-            searchInput.value = '';
-            resultsContainer.innerHTML = '';
-            searchInput.focus();
-          }
-    
-    
-          function openModal(podcast) {
-            const modal = document.getElementById('podcastModal');
-            document.getElementById('modalTitle').textContent = podcast.text;
-            document.getElementById('modalProvider').textContent = podcast.provider;
-            document.getElementById('modalDescription').innerHTML = formatDescription(podcast.description);
-            document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
-            document.getElementById('playOnSite').target = '_blank';
-            document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
-            document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
-    
-            document.getElementById('listEpisodes').onclick = async () => {
-              document.getElementById('podcastModal').style.display = 'none';
-              openEpisodeListModal(podcast)
-            };
-            modal.style.display = 'block';
-          }
-async function openEpisodeListModal(podcast) {
-    document.getElementById('spinnerOverlay').style.display = 'flex';
-    document.body.classList.add('blur');
+        const h2Container = document.querySelector('.container h2');
+        let drPodcastsData = [];
+        let podimoPodcastsData = [];
+        let miscPodcastsData = [];
+        let pir8dioPodcastsData = [];
+        let politikenPodcastsData = [];
+        let radio4PodcastsData = [];
 
-  
-    try {
-        const episodeModal = document.getElementById('episodeListModal');
-        const episodesContainer = document.getElementById('episodesContainer');
-        document.getElementById('modalPodcastTitle').textContent = podcast.text;
-        const rssFeedUrl = podcast.rssLink;
-        const xmlText = await fetchRSSFeed(rssFeedUrl);
+        document.addEventListener('DOMContentLoaded', () => {
+        	fetchDataAndPreloadIcon();
 
-        currentEpisodes = parseRSSFeed(xmlText);
-        renderEpisodes(currentEpisodes);
+        	document.getElementById('podcastModal').addEventListener('click', function(event) {
+        		const descriptionElement = document.getElementById('modalDescription');
+        		if (event.target === descriptionElement) {
+        			descriptionElement.classList.toggle('expanded');
+        		}
+        	});
 
-        episodeModal.style.display = 'block';
-    } catch (error) {
-        console.error('Kunne ikke indlæse RSS-feed:', error);
-    } finally {
-        document.getElementById('spinnerOverlay').style.display = 'none';
-        document.body.classList.remove('blur');
-    }
-}
+        	window.onclick = function(event) {
+        		const modal = document.getElementById('podcastModal');
+        		if (event.target === modal) {
+        			modal.style.display = 'none';
+        		}
+        	};
 
-    
-          async function fetchRSSFeed(rssUrl) {
-            const response = await fetch(rssUrl);
-            return await response.text();
-          }
-    
-          document.querySelector('#episodeListModal .close').onclick = () => {
-            document.getElementById('episodeListModal').style.display = 'none';
-          };
-    
-          function parseRSSFeed(xmlText) {
-            const parser = new DOMParser();
-            const xmlDoc = parser.parseFromString(xmlText, "text/xml");
-            const items = xmlDoc.getElementsByTagName("item");
-            const episodes = [];
-            for (let i = 0; i < items.length; i++) {
-              const item = items[i];
-              episodes.push({
-                title: item.getElementsByTagName("title")[0]?.textContent || '',
-                date: new Date(item.getElementsByTagName("pubDate")[0]?.textContent).toLocaleDateString() || '',
-                enclosure: item.getElementsByTagName("enclosure")[0]?.getAttribute("url") || '',
-                description: item.getElementsByTagName("description")[0]?.textContent || ''
-              });
-            }
-            return episodes;
-          }
-    
+        	const closeModalButton = document.getElementById('closeModal');
+        	closeModalButton.addEventListener('click', () => {
+        		const modal = document.getElementById('podcastModal');
+        		modal.style.display = 'none';
+        	});
 
-let currentFilteredEpisodes = [];
+        	if (episodeListModal) {
+        		window.addEventListener('click', (event) => {
+        			if (event.target === episodeListModal) {
+        				episodeListModal.style.display = 'none';
+        			}
+        		});
+        	}
+        });
 
-function renderEpisodes(episodes, searchTerm = '') {
-  const episodesContainer = document.getElementById('episodesContainer');
-  episodesContainer.innerHTML = '';
+        async function fetchDataAndPreloadIcon() {
+        	try {
+        		[drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData, radio4PodcastsData] = await Promise.all([
+        			fetchDRPodcastsData(),
+        			fetchPodimoPodcastsData(),
+        			fetchMiscPodcastsData(),
+        			fetchPir8dioPodcastsData(),
+        			fetchPolitikenPodcastsData(),
+        			fetchradio4PodcastsData(),
+        		]);
+        	} catch (error) {
+        		console.error('Error fetching data:', error);
+        	}
+        }
 
-  const highlightText = (text, term) => {
-    if (!term) return text;
-    const regex = new RegExp(`(${term})`, 'gi');
-    return text.replace(regex, '<strong>$1</strong>');
-  };
+        async function fetchData(url) {
+        	try {
+        		const response = await fetch(url);
+        		if (!response.ok) throw new Error(`Error fetching data from ${url}`);
+        		return await response.json();
+        	} catch (error) {
+        		console.error(`Error fetching data from ${url}:`, error);
+        		return null;
+        	}
+        }
 
-  if (searchTerm.length >= 3 || searchTerm === '') {
-    let expandedCount = 0;
+        async function fetchDRPodcastsData() {
+        	return fetchData('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
+        }
 
-    // Filter episodes based on the search term
-    currentFilteredEpisodes = episodes.filter(episode => 
-      episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      episode.description.toLowerCase().includes(searchTerm.toLowerCase())
-    );
+        async function fetchPodimoPodcastsData() {
+        	return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
+        }
 
-    currentFilteredEpisodes.forEach(episode => {
-      const episodeItem = document.createElement('div');
-      episodeItem.classList.add('episode-item');
+        async function fetchMiscPodcastsData() {
+        	return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
+        }
 
-      const highlightedTitle = highlightText(episode.title, searchTerm);
-      const highlightedDate = highlightText(episode.date, searchTerm);
-      const highlightedDescription = highlightText(episode.description, searchTerm);
+        async function fetchPir8dioPodcastsData() {
+        	return fetchData('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/oversigtAfsnit.json');
+        }
 
-      episodeItem.innerHTML = `
+        async function fetchPolitikenPodcastsData() {
+        	return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json');
+        }
+
+        async function fetchradio4PodcastsData() {
+        	return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/radio4/r4dio.json');
+        }
+
+        function clearSearch() {
+        	const searchInput = document.getElementById('searchInput');
+        	searchInput.value = '';
+        	resultsContainer.innerHTML = '';
+        	searchInput.focus();
+        }
+
+        function openModal(podcast) {
+        	const modal = document.getElementById('podcastModal');
+        	document.getElementById('modalTitle').textContent = podcast.text;
+        	document.getElementById('modalProvider').textContent = podcast.provider;
+        	document.getElementById('modalDescription').innerHTML = formatDescription(podcast.description);
+        	document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/podcasts/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
+        	document.getElementById('playOnSite').target = '_blank';
+        	document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
+        	document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
+
+        	document.getElementById('listEpisodes').onclick = async () => {
+        		document.getElementById('podcastModal').style.display = 'none';
+        		openEpisodeListModal(podcast)
+        	};
+        	modal.style.display = 'block';
+        }
+        async function openEpisodeListModal(podcast) {
+        	document.getElementById('spinnerOverlay').style.display = 'flex';
+        	document.body.classList.add('blur');
+
+        	try {
+        		const episodeModal = document.getElementById('episodeListModal');
+        		const episodesContainer = document.getElementById('episodesContainer');
+        		document.getElementById('modalPodcastTitle').textContent = podcast.text;
+        		const rssFeedUrl = podcast.rssLink;
+        		const xmlText = await fetchRSSFeed(rssFeedUrl);
+
+        		currentEpisodes = parseRSSFeed(xmlText);
+        		renderEpisodes(currentEpisodes);
+
+        		episodeModal.style.display = 'block';
+        	} catch (error) {
+        		console.error('Kunne ikke indlæse RSS-feed:', error);
+        	} finally {
+        		document.getElementById('spinnerOverlay').style.display = 'none';
+        		document.body.classList.remove('blur');
+        	}
+        }
+
+        async function fetchRSSFeed(rssUrl) {
+        	const response = await fetch(rssUrl);
+        	return await response.text();
+        }
+
+        document.querySelector('#episodeListModal .close').onclick = () => {
+        	document.getElementById('episodeListModal').style.display = 'none';
+        };
+
+        function parseRSSFeed(xmlText) {
+        	const parser = new DOMParser();
+        	const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+        	const items = xmlDoc.getElementsByTagName("item");
+        	const episodes = [];
+        	for (let i = 0; i < items.length; i++) {
+        		const item = items[i];
+        		episodes.push({
+        			title: item.getElementsByTagName("title")[0]?.textContent || '',
+        			date: new Date(item.getElementsByTagName("pubDate")[0]?.textContent).toLocaleDateString() || '',
+        			enclosure: item.getElementsByTagName("enclosure")[0]?.getAttribute("url") || '',
+        			description: item.getElementsByTagName("description")[0]?.textContent || ''
+        		});
+        	}
+        	return episodes;
+        }
+
+        let currentFilteredEpisodes = [];
+
+        function renderEpisodes(episodes, searchTerm = '') {
+        	const episodesContainer = document.getElementById('episodesContainer');
+        	episodesContainer.innerHTML = '';
+
+        	const highlightText = (text, term) => {
+        		if (!term) return text;
+        		const regex = new RegExp(`(${term})`, 'gi');
+        		return text.replace(regex, '<strong>$1</strong>');
+        	};
+
+        	if (searchTerm.length >= 3 || searchTerm === '') {
+        		let expandedCount = 0;
+
+        		// Filter episodes based on the search term
+        		currentFilteredEpisodes = episodes.filter(episode =>
+        			episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        			episode.description.toLowerCase().includes(searchTerm.toLowerCase())
+        		);
+
+        		currentFilteredEpisodes.forEach(episode => {
+        			const episodeItem = document.createElement('div');
+        			episodeItem.classList.add('episode-item');
+
+        			const highlightedTitle = highlightText(episode.title, searchTerm);
+        			const highlightedDate = highlightText(episode.date, searchTerm);
+        			const highlightedDescription = highlightText(episode.description, searchTerm);
+
+        			episodeItem.innerHTML = `
         <div class="episode-header">
           <span class="episode-title">${highlightedTitle}</span>
           <span class="episode-date">${highlightedDate}</span>
         </div>
         <div class="episodelist-description">${highlightedDescription}</div>
       `;
-      episodeItem.dataset.enclosureUrl = episode.enclosure;
+        			episodeItem.dataset.enclosureUrl = episode.enclosure;
 
-      episodeItem.addEventListener('click', (event) => {
-        if (event.target.closest('.episodelist-description')) {
-          return;
+        			episodeItem.addEventListener('click', (event) => {
+        				if (event.target.closest('.episodelist-description')) {
+        					return;
+        				}
+
+        				navigator.clipboard.writeText(episode.enclosure)
+        					.then(() => {
+        						showToast(`"${episode.title}"<br/><br/><br/><div style="text-align: center;">Link kopieret!</div>`);
+        					});
+        			});
+
+        			const description = episodeItem.querySelector('.episodelist-description');
+        			description.addEventListener('click', (event) => {
+        				event.stopPropagation();
+        				description.classList.toggle('expanded');
+        			});
+
+        			if (searchTerm && episode.description.toLowerCase().includes(searchTerm.toLowerCase()) && expandedCount < 2) {
+        				description.classList.add('expanded');
+        				expandedCount++;
+        			}
+
+        			episodesContainer.appendChild(episodeItem);
+        		});
+        	} else {
+        		episodesContainer.innerHTML = 'Indtast minimum 3 bogstaver for at søge</p>';
+        	}
         }
-        
-        navigator.clipboard.writeText(episode.enclosure)
-          .then(() => {
-            showToast(`<div style="text-align: center;">Link kopieret!</div><br>${episode.title}`);
-          });
-      });
 
-      const description = episodeItem.querySelector('.episodelist-description');
-      description.addEventListener('click', (event) => {
-        event.stopPropagation();
-        description.classList.toggle('expanded');
-      });
+        let sortOrderTitle = 'asc';
+        let sortOrderDate = 'asc';
 
-      if (searchTerm && episode.description.toLowerCase().includes(searchTerm.toLowerCase()) && expandedCount < 2) {
-        description.classList.add('expanded');
-        expandedCount++;
-      }
+        document.getElementById('sortByTitle').addEventListener('click', () => {
+        	const sorted = [...currentFilteredEpisodes].sort((a, b) => {
+        		return sortOrderTitle === 'asc' ? a.title.localeCompare(b.title) : b.title.localeCompare(a.title);
+        	});
+        	sortOrderTitle = sortOrderTitle === 'asc' ? 'desc' : 'asc';
+        	const searchTerm = document.getElementById('episodeSearchInput').value;
+        	renderEpisodes(sorted, searchTerm);
+        });
 
-      episodesContainer.appendChild(episodeItem);
-    });
-  } else {
-    episodesContainer.innerHTML = 'Indtast minimum 3 bogstaver for at søge</p>';
-  }
-}
-    
-          let sortOrderTitle = 'asc';
-          let sortOrderDate = 'asc';
-    
-document.getElementById('sortByTitle').addEventListener('click', () => {
-  const sorted = [...currentFilteredEpisodes].sort((a, b) => {
-    return sortOrderTitle === 'asc' ? a.title.localeCompare(b.title) : b.title.localeCompare(a.title);
-  });
-  sortOrderTitle = sortOrderTitle === 'asc' ? 'desc' : 'asc';
-  const searchTerm = document.getElementById('episodeSearchInput').value;
-  renderEpisodes(sorted, searchTerm);
-});
+        document.getElementById('sortByDate').addEventListener('click', () => {
+        	const sorted = [...currentFilteredEpisodes].sort((a, b) => {
+        		const dateA = parseDate(a.date);
+        		const dateB = parseDate(b.date);
+        		return sortOrderDate === 'asc' ? dateA - dateB : dateB - dateA;
+        	});
+        	sortOrderDate = sortOrderDate === 'asc' ? 'desc' : 'asc';
+        	const searchTerm = document.getElementById('episodeSearchInput').value;
+        	renderEpisodes(sorted, searchTerm);
+        });
 
-document.getElementById('sortByDate').addEventListener('click', () => {
-  const sorted = [...currentFilteredEpisodes].sort((a, b) => {
-    const dateA = parseDate(a.date);
-    const dateB = parseDate(b.date);
-    return sortOrderDate === 'asc' ? dateA - dateB : dateB - dateA;
-  });
-  sortOrderDate = sortOrderDate === 'asc' ? 'desc' : 'asc';
-  const searchTerm = document.getElementById('episodeSearchInput').value;
-  renderEpisodes(sorted, searchTerm);
-});
-    
-          function parseDate(dateString) {
-            const dateFormats = [
-              'DD/MM/YYYY',
-              'DD-MM-YYYY'
-            ];
-    
-            for (const format of dateFormats) {
-              const momentDate = moment(dateString, format, true);
-              if (momentDate.isValid()) {
-                return momentDate.toDate();
-              }
-            }
-    
-            return new Date(0);
-          }
-    
-    
-          document.getElementById('episodeSearchInput').addEventListener('input', function() {
-            const searchTerm = this.value.trim();
-            const filteredEpisodes = currentEpisodes.filter(episode => {
-              const titleMatch = episode.title.toLowerCase().includes(searchTerm.toLowerCase());
-              const descriptionMatch = episode.description.toLowerCase().includes(searchTerm.toLowerCase());
-              const dateMatch = episode.date.toLowerCase().includes(searchTerm.toLowerCase());
-    
-              return titleMatch || descriptionMatch || dateMatch;
-            });
-    
-            renderEpisodes(filteredEpisodes, searchTerm);
-          });
-    
-          document.querySelector('#episodeListModal .close').onclick = () => {
-            document.getElementById('episodeListModal').style.display = 'none';
-          };
-          window.onclick = (event) => {
-            const modal = document.getElementById('episodeListModal');
-            if (event.target === modal) {
-              modal.style.display = 'none';
-            }
-          };
-    
-    
-          function formatDescription(description) {
-            let formattedDescription = description.replace(/\n/g, '<br>');
-            formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-    
-            return formattedDescription;
-          }
-    
-          function copyRSSLink(rssLink) {
-            navigator.clipboard.writeText(rssLink).then(() => {
-              showToast('RSS-link kopieret');
-              document.getElementById('podcastModal').style.display = 'none';
-            }).catch(err => {
-              console.error('Failed to copy RSS link:', err);
-            });
-          }
-    
-          function getFormattedRSSUrl(podcastName) {
-            const formattedPodcastName = encodeURIComponent(podcastName.replace(/\s/g, '_').toLowerCase() + '.rss');
-            const firstCharacter = formattedPodcastName.charAt(0);
-            const directory = isNaN(parseInt(firstCharacter)) ? firstCharacter.toUpperCase() : '0-9';
-            return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
-          }
-    
-          function showToast(message) {
-            const toast = document.createElement('div');
-            toast.classList.add('toast');
-            toast.innerHTML = message;
-            document.body.appendChild(toast);
-            setTimeout(() => toast.remove(), 5000);
-          }
-    
-          async function filterPodcasts(searchText) {
-            if (searchText.length === 0) {
-              resultsContainer.innerHTML = '';
-              return;
-            }
-    
-            if (searchText.length < 3) {
-              resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
-              return;
-            }
-    
-            const results = [];
-            const allData = [
-              ...drPodcastsData.map(podcast => ({
-                text: podcast.name,
-                provider: 'DR',
-                description: podcast.description,
-                url: podcast.program_url,
-                image: podcast.image,
-                rssLink: 'https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/2.0/' + podcast.program_url.split('/').pop() + '.rss'
-              })),
-              ...podimoPodcastsData.map(podcast => ({
-                text: `${podcast.title}`,
-                provider: 'Podimo',
-                description: podcast.description,
-                url: `https://podimo.com/dk/shows/${podcast.id}`,
-                image: podcast.coverImageUrl,
-                rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(podcast.title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
-              })),
-              ...Object.values(miscPodcastsData).map(podcast => ({
-                text: podcast.alt_text,
-                provider: 'Radio24syv',
-                description: podcast.description,
-                url: podcast.url,
-                image: podcast.image_url,
-                rssLink: getFormattedRSSUrl(podcast.alt_text)
-              })),
-              ...radio4PodcastsData.map(podcast => ({
-                text: podcast.title,
-                provider: 'Radio IIII',
-                description: podcast.content,
-                url: podcast.program_url,
-                image: podcast.image_url,
-                rssLink: podcast.program_url
-              })),
-              ...pir8dioPodcastsData.map(podcast => ({
-                text: podcast.title,
-                provider: 'r8Dio',
-                description: podcast.content,
-                url: podcast.program_url,
-                image: podcast.image,
-                rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${podcast.slug}.rss`
-              })),
-              ...politikenPodcastsData.map(podcast => ({
-                text: podcast.title,
-                provider: 'Politiken',
-                description: podcast.description,
-                url: podcast.program_url,
-                image: podcast.image,
-                rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/${encodeURIComponent(podcast.id)}.rss`
-              }))
-            ];
-    
-            results.push(...allData.filter(podcast => podcast.text.toLowerCase().includes(searchText.toLowerCase())));
-    
-            displayResults(results);
-          }
-    
-          const MAX_CACHE_ITEMS = 20;
-    
-          function getLRUCache() {
-            const cache = localStorage.getItem('imageCacheOrder');
-            return cache ? JSON.parse(cache) : [];
-          }
-    
-          function updateLRUCache(cacheKey) {
-            let cacheOrder = getLRUCache();
-    
-            cacheOrder = cacheOrder.filter(key => key !== cacheKey);
-            cacheOrder.push(cacheKey);
-    
-            if (cacheOrder.length > MAX_CACHE_ITEMS) {
-              const oldestKey = cacheOrder.shift();
-              localStorage.removeItem(oldestKey);
-            }
-            localStorage.setItem('imageCacheOrder', JSON.stringify(cacheOrder));
-          }
-    
-          function loadImageToCache(url, cacheKey) {
-            return new Promise((resolve, reject) => {
-              const image = new Image();
-              image.crossOrigin = 'Anonymous';
-    
-              image.onload = () => {
-                const canvas = document.createElement('canvas');
-                canvas.width = image.width;
-                canvas.height = image.height;
-                const context = canvas.getContext('2d');
-                context.drawImage(image, 0, 0, image.width, image.height);
-                try {
-                  const dataURL = canvas.toDataURL('image/png');
-                  localStorage.setItem(cacheKey, dataURL);
-                  updateLRUCache(cacheKey);
-                  resolve(dataURL);
-                } catch (error) {
-                  reject(error);
-                }
-              };
-              image.onerror = (error) => reject(error);
-              image.src = url;
-            });
-          }
-    
-          function isArchiveImage(url) {
-            return url.includes('archive.org');
-          }
-    
-          function cacheAndLoadImage(url, element) {
-            const cacheKey = `cachedImage:${url}`;
-            if (isArchiveImage(url)) {
-              const cachedImage = localStorage.getItem(cacheKey);
-              if (cachedImage) {
-                element.src = cachedImage;
-              } else {
-                loadImageToCache(url, cacheKey)
-                  .then((cachedDataURL) => {
-                    element.src = cachedDataURL;
-                  })
-                  .catch((error) => {
-                    console.error('Failed to cache image:', error);
-                    element.src = url;
-                  });
-              }
-            } else {
-              element.src = url;
-            }
-          }
-    
-          function displayResults(results) {
-            resultsContainer.innerHTML = '';
-            if (results.length === 0) {
-              resultsContainer.innerHTML = '<p>Ingen søgeresultater fundet</p>';
-              return;
-            }
-    
-            const grid = document.createElement('div');
-            grid.classList.add('podcast-grid');
-    
-            results.forEach(result => {
-              const card = document.createElement('div');
-              card.classList.add('podcast-card');
-    
-              const img = document.createElement('img');
-              img.alt = result.text;
-              img.classList.add('podcast-cover');
-    
-              if (result.image) {
-                cacheAndLoadImage(result.image, img);
-              }
-    
-              const title = document.createElement('div');
-              title.textContent = result.text;
-              title.classList.add('podcast-title');
-    
-              card.appendChild(img);
-              card.appendChild(title);
-              card.addEventListener('click', () => openModal(result));
-              grid.appendChild(card);
-            });
-    
-            resultsContainer.appendChild(grid);
-          }
-    
-          let debounceTimeout;
-          document.getElementById('searchInput').addEventListener('input', function() {
-            clearTimeout(debounceTimeout);
-            debounceTimeout = setTimeout(() => {
-              filterPodcasts(this.value.trim());
-            }, 500);
-          });
-    
-          document.getElementById('searchInput').addEventListener('keypress', function(event) {
-            if (event.key === 'Enter') this.blur();
-          });
-          document.getElementById('episodeSearchInput').addEventListener('keypress', function(event) {
-            if (event.key === 'Enter') this.blur();
-          });
-    
-          const sortByTitle = document.getElementById('sortByTitle');
-          const icon = sortByTitle.querySelector('i');
-    
-          sortByTitle.addEventListener('click', () => {
-            if (icon.classList.contains('fa-sort-alpha-down')) {
-              icon.classList.remove('fa-sort-alpha-down');
-              icon.classList.add('fa-sort-alpha-up');
-            } else {
-              icon.classList.remove('fa-sort-alpha-up');
-              icon.classList.add('fa-sort-alpha-down');
-            }
-          });
+        function parseDate(dateString) {
+        	const dateFormats = [
+        		'DD/MM/YYYY',
+        		'DD-MM-YYYY'
+        	];
+
+        	for (const format of dateFormats) {
+        		const momentDate = moment(dateString, format, true);
+        		if (momentDate.isValid()) {
+        			return momentDate.toDate();
+        		}
+        	}
+
+        	return new Date(0);
+        }
+
+        document.getElementById('episodeSearchInput').addEventListener('input', function() {
+        	const searchTerm = this.value.trim();
+        	const filteredEpisodes = currentEpisodes.filter(episode => {
+        		const titleMatch = episode.title.toLowerCase().includes(searchTerm.toLowerCase());
+        		const descriptionMatch = episode.description.toLowerCase().includes(searchTerm.toLowerCase());
+        		const dateMatch = episode.date.toLowerCase().includes(searchTerm.toLowerCase());
+
+        		return titleMatch || descriptionMatch || dateMatch;
+        	});
+
+        	renderEpisodes(filteredEpisodes, searchTerm);
+        });
+
+        document.querySelector('#episodeListModal .close').onclick = () => {
+        	document.getElementById('episodeListModal').style.display = 'none';
+        };
+        window.onclick = (event) => {
+        	const modal = document.getElementById('episodeListModal');
+        	if (event.target === modal) {
+        		modal.style.display = 'none';
+        	}
+        };
+
+        function formatDescription(description) {
+        	let formattedDescription = description.replace(/\n/g, '<br>');
+        	formattedDescription = formattedDescription.replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+
+        	return formattedDescription;
+        }
+
+        function copyRSSLink(rssLink) {
+        	navigator.clipboard.writeText(rssLink).then(() => {
+        		showToast('RSS-link kopieret');
+        		document.getElementById('podcastModal').style.display = 'none';
+        	}).catch(err => {
+        		console.error('Failed to copy RSS link:', err);
+        	});
+        }
+
+        function getFormattedRSSUrl(podcastName) {
+        	const formattedPodcastName = encodeURIComponent(podcastName.replace(/\s/g, '_').toLowerCase() + '.rss');
+        	const firstCharacter = formattedPodcastName.charAt(0);
+        	const directory = isNaN(parseInt(firstCharacter)) ? firstCharacter.toUpperCase() : '0-9';
+        	return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
+        }
+
+        function showToast(message) {
+        	const toast = document.createElement('div');
+        	toast.classList.add('toast');
+        	toast.innerHTML = message;
+        	document.body.appendChild(toast);
+        	setTimeout(() => toast.remove(), 5000);
+        }
+
+        async function filterPodcasts(searchText) {
+        	if (searchText.length === 0) {
+        		resultsContainer.innerHTML = '';
+        		return;
+        	}
+
+        	if (searchText.length < 3) {
+        		resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
+        		return;
+        	}
+
+        	const results = [];
+        	const allData = [
+        		...drPodcastsData.map(podcast => ({
+        			text: podcast.name,
+        			provider: 'DR',
+        			description: podcast.description,
+        			url: podcast.program_url,
+        			image: podcast.image,
+        			rssLink: 'https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/2.0/' + podcast.program_url.split('/').pop() + '.rss'
+        		})),
+        		...podimoPodcastsData.map(podcast => ({
+        			text: `${podcast.title}`,
+        			provider: 'Podimo',
+        			description: podcast.description,
+        			url: `https://podimo.com/dk/shows/${podcast.id}`,
+        			image: podcast.coverImageUrl,
+        			rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(podcast.title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
+        		})),
+        		...Object.values(miscPodcastsData).map(podcast => ({
+        			text: podcast.alt_text,
+        			provider: 'Radio24syv',
+        			description: podcast.description,
+        			url: podcast.url,
+        			image: podcast.image_url,
+        			rssLink: getFormattedRSSUrl(podcast.alt_text)
+        		})),
+        		...radio4PodcastsData.map(podcast => ({
+        			text: podcast.title,
+        			provider: 'Radio IIII',
+        			description: podcast.content,
+        			url: podcast.program_url,
+        			image: podcast.image_url,
+        			rssLink: podcast.program_url
+        		})),
+        		...pir8dioPodcastsData.map(podcast => ({
+        			text: podcast.title,
+        			provider: 'r8Dio',
+        			description: podcast.content,
+        			url: podcast.program_url,
+        			image: podcast.image,
+        			rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${podcast.slug}.rss`
+        		})),
+        		...politikenPodcastsData.map(podcast => ({
+        			text: podcast.title,
+        			provider: 'Politiken',
+        			description: podcast.description,
+        			url: podcast.program_url,
+        			image: podcast.image,
+        			rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/${encodeURIComponent(podcast.id)}.rss`
+        		}))
+        	];
+
+        	results.push(...allData.filter(podcast => podcast.text.toLowerCase().includes(searchText.toLowerCase())));
+
+        	displayResults(results);
+        }
+
+        const MAX_CACHE_ITEMS = 20;
+
+        function getLRUCache() {
+        	const cache = localStorage.getItem('imageCacheOrder');
+        	return cache ? JSON.parse(cache) : [];
+        }
+
+        function updateLRUCache(cacheKey) {
+        	let cacheOrder = getLRUCache();
+
+        	cacheOrder = cacheOrder.filter(key => key !== cacheKey);
+        	cacheOrder.push(cacheKey);
+
+        	if (cacheOrder.length > MAX_CACHE_ITEMS) {
+        		const oldestKey = cacheOrder.shift();
+        		localStorage.removeItem(oldestKey);
+        	}
+        	localStorage.setItem('imageCacheOrder', JSON.stringify(cacheOrder));
+        }
+
+        function loadImageToCache(url, cacheKey) {
+        	return new Promise((resolve, reject) => {
+        		const image = new Image();
+        		image.crossOrigin = 'Anonymous';
+
+        		image.onload = () => {
+        			const canvas = document.createElement('canvas');
+        			canvas.width = image.width;
+        			canvas.height = image.height;
+        			const context = canvas.getContext('2d');
+        			context.drawImage(image, 0, 0, image.width, image.height);
+        			try {
+        				const dataURL = canvas.toDataURL('image/png');
+        				localStorage.setItem(cacheKey, dataURL);
+        				updateLRUCache(cacheKey);
+        				resolve(dataURL);
+        			} catch (error) {
+        				reject(error);
+        			}
+        		};
+        		image.onerror = (error) => reject(error);
+        		image.src = url;
+        	});
+        }
+
+        function isArchiveImage(url) {
+        	return url.includes('archive.org');
+        }
+
+        function cacheAndLoadImage(url, element) {
+        	const cacheKey = `cachedImage:${url}`;
+        	if (isArchiveImage(url)) {
+        		const cachedImage = localStorage.getItem(cacheKey);
+        		if (cachedImage) {
+        			element.src = cachedImage;
+        		} else {
+        			loadImageToCache(url, cacheKey)
+        				.then((cachedDataURL) => {
+        					element.src = cachedDataURL;
+        				})
+        				.catch((error) => {
+        					console.error('Failed to cache image:', error);
+        					element.src = url;
+        				});
+        		}
+        	} else {
+        		element.src = url;
+        	}
+        }
+
+        function displayResults(results) {
+        	resultsContainer.innerHTML = '';
+        	if (results.length === 0) {
+        		resultsContainer.innerHTML = '<p>Ingen søgeresultater fundet</p>';
+        		return;
+        	}
+
+        	const grid = document.createElement('div');
+        	grid.classList.add('podcast-grid');
+
+        	results.forEach(result => {
+        		const card = document.createElement('div');
+        		card.classList.add('podcast-card');
+
+        		const img = document.createElement('img');
+        		img.alt = result.text;
+        		img.classList.add('podcast-cover');
+
+        		if (result.image) {
+        			cacheAndLoadImage(result.image, img);
+        		}
+
+        		const title = document.createElement('div');
+        		title.textContent = result.text;
+        		title.classList.add('podcast-title');
+
+        		card.appendChild(img);
+        		card.appendChild(title);
+        		card.addEventListener('click', () => openModal(result));
+        		grid.appendChild(card);
+        	});
+
+        	resultsContainer.appendChild(grid);
+        }
+
+        let debounceTimeout;
+        document.getElementById('searchInput').addEventListener('input', function() {
+        	clearTimeout(debounceTimeout);
+        	debounceTimeout = setTimeout(() => {
+        		filterPodcasts(this.value.trim());
+        	}, 500);
+        });
+
+        document.getElementById('searchInput').addEventListener('keypress', function(event) {
+        	if (event.key === 'Enter') this.blur();
+        });
+        document.getElementById('episodeSearchInput').addEventListener('keypress', function(event) {
+        	if (event.key === 'Enter') this.blur();
+        });
+
+        const sortByTitle = document.getElementById('sortByTitle');
+        const icon = sortByTitle.querySelector('i');
+
+        sortByTitle.addEventListener('click', () => {
+        	if (icon.classList.contains('fa-sort-alpha-down')) {
+        		icon.classList.remove('fa-sort-alpha-down');
+        		icon.classList.add('fa-sort-alpha-up');
+        	} else {
+        		icon.classList.remove('fa-sort-alpha-up');
+        		icon.classList.add('fa-sort-alpha-down');
+        	}
+        });
     </script>
 </body>
 
