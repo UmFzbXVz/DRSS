@@ -53,10 +53,10 @@ max-width:60%;
 display:block;
 margin:0 auto;
 padding:10px 15px;
-font-size:.8em;
-background:#ffffff1a;
-backdrop-filter:blur(10px);
--webkit-backdrop-filter:blur(10px);
+font-size:.7em;
+background: rgba(255, 255, 255, 0);
+backdrop-filter:blur(5px);
+-webkit-backdrop-filter:blur(5px);
 border-radius:10px;
 box-shadow:0 4px 6px #0000001a;
 color:#fff;
@@ -713,15 +713,19 @@ background:#24242433;
 backdrop-filter:blur(15px);
 border-radius:12px;
 max-height:80%;
-width:400px;
-max-width: 80%;
+width:500px;
+max-width: 90%;
 margin: 10px auto;
 text-align:center;
 box-shadow:0 15px 30px #00000080;
 position:relative;
 animation:scaleIn .2s ease-in-out forwards;
 border:1px solid #fff3;
-overflow:hidden
+overflow:hidden;
+padding-top:10px;
+padding-bottom:10px;
+flex-direction:column;
+display:flex
 }
 
 .modal-content h3 {
@@ -805,8 +809,8 @@ border-radius:12px;
 padding-top:10px;
 padding-bottom:10px;
 max-height:80%;
-width: 400px;
-max-width:80%;
+width: 500px;
+max-width:100%;
 margin: 10px auto;
 text-align:center;
 box-shadow:0 15px 30px #00000080;
@@ -844,7 +848,6 @@ transition:background-color .2s
 width: 100%;
 max-height:80%;
 margin-top:5px;
-margin-left: -5px;
 overflow-y:scroll;
 -ms-overflow-style:none;
 scrollbar-width:none
@@ -892,15 +895,14 @@ display:flex;
 flex-direction:column;
 padding:0;
 background:#24242433;
-backdrop-filter:blur(10px) brightness(1.1);
+backdrop-filter:blur(10px) brightness(1.5);
 border-radius:15px;
 padding:12px;
 margin:12px;
 max-height: 80%;
-width: 400px;
+width: 500px;
 max-width:90%;
 text-align:center;
-box-shadow:0 20px 40px #0000004d;
 position:relative;
 animation:scaleIn .3s ease-in-out forwards;
 border:1px solid #ffffff0d;
@@ -913,7 +915,8 @@ text-align:left;
 overflow:hidden;
 white-space:nowrap;
 font-weight:700;
-color:#ffff
+color:#ffff;
+margin-top: -4px;
 }
 
 .episode-date {
@@ -923,7 +926,9 @@ text-align:right
 
 .episodelist-description {
 color:#ffffffb3;
-font-size:.9em;
+padding-top: 4px;
+margin-bottom: -5px;
+font-size:.8em;
 overflow:hidden;
 white-space:nowrap;
 text-overflow:ellipsis;
