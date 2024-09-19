@@ -192,7 +192,9 @@
         		currentEpisodes = parseRSSFeed(xmlText);
         		renderEpisodes(currentEpisodes);
 
-        		episodeModal.style.display = 'block';
+        		ensureCompleteRendering(() => {
+              episodeModal.style.display = 'block';
+            });
         	} catch (error) {
         		console.error('Kunne ikke indlæse RSS-feed:', error);
         	} finally {
@@ -586,6 +588,17 @@
         		icon.classList.add('fa-sort-alpha-down');
         	}
         });
+      function ensureCompleteRendering(callback) {
+    function checkRendering() {
+        const episodesContainer = document.getElementById('episodesContainer');
+        if (episodesContainer.childElementCount > 0) {
+            callback();
+        } else {
+            requestAnimationFrame(checkRendering);
+        }
+    }
+    requestAnimationFrame(checkRendering);
+}
     </script>
 </body>
 
