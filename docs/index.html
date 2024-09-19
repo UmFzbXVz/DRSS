@@ -20,6 +20,9 @@
         <p class="helper-text">Testområde</p>
         <div id="results"></div>
     </div>
+    <div id="spinnerOverlay" class="spinner-overlay" style="display: none;">
+        <i class="fas fa-spinner fa-spin spinner"></i>
+    </div>
     <div id="podcastModal" class="modal">
         <div class="modal-content">
             <div class="close" id="closeModal">&#10006;</div>
@@ -177,15 +180,28 @@
             };
             modal.style.display = 'block';
           }
-          async function openEpisodeListModal(podcast) {
-            const episodeModal = document.getElementById('episodeListModal');
-            const episodesContainer = document.getElementById('episodesContainer');
-            const rssFeedUrl = podcast.rssLink;
-            const xmlText = await fetchRSSFeed(rssFeedUrl);
-            currentEpisodes = parseRSSFeed(xmlText);
-            renderEpisodes(currentEpisodes);
-            episodeModal.style.display = 'block';
-          }
+async function openEpisodeListModal(podcast) {
+    document.getElementById('spinnerOverlay').style.display = 'flex';
+    document.body.classList.add('blur');
+
+    try {
+        const episodeModal = document.getElementById('episodeListModal');
+        const episodesContainer = document.getElementById('episodesContainer');
+        const rssFeedUrl = podcast.rssLink;
+        const xmlText = await fetchRSSFeed(rssFeedUrl);
+
+        currentEpisodes = parseRSSFeed(xmlText);
+        renderEpisodes(currentEpisodes);
+
+        episodeModal.style.display = 'block';
+    } catch (error) {
+        console.error('Error loading RSS feed:', error);
+    } finally {
+        document.getElementById('spinnerOverlay').style.display = 'none';
+        document.body.classList.remove('blur');
+    }
+}
+
     
           async function fetchRSSFeed(rssUrl) {
             const response = await fetch(rssUrl);
