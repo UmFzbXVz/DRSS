@@ -292,10 +292,11 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
                 }
                 navigator.clipboard.writeText(episode.enclosure)
                     .then(() => {
-                        showToast(`"${episode.title}"<br/><br/><br/><div style="text-align: center;">Link kopieret!</div>`);
+                        showToast(`"${episode.title}"<br/><br/><br/><div style="text-align: center; color: #28a745;">Link kopieret!</div>`);
+
                     });
             });
-
+          
             const description = episodeItem.querySelector('.episodelist-description');
             description.addEventListener('click', (event) => {
                 event.stopPropagation();
@@ -306,7 +307,6 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
                 description.classList.add('expanded');
                 expandedCount++;
             }
-
             episodesContainer.appendChild(episodeItem);
             if (index === paginatedEpisodes.length - 1) {
                 observer.observe(episodeItem); 
@@ -330,7 +330,7 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         	renderEpisodes(sorted, searchTerm);
         });
 
-        document.getElementById('sortByDate').addEventListener('click', () => {
+      document.getElementById('sortByDate').addEventListener('click', () => {
         	const sorted = [...currentFilteredEpisodes].sort((a, b) => {
         		const dateA = parseDate(a.date);
         		const dateB = parseDate(b.date);
@@ -548,6 +548,7 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         		element.src = url;
         	}
         }
+      
 
         function displayResults(results) {
         	resultsContainer.innerHTML = '';
@@ -611,6 +612,7 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         		icon.classList.add('fa-sort-alpha-down');
         	}
         });
+      
     </script>
 </body>
 </html>
