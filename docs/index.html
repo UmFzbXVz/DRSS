@@ -172,8 +172,8 @@
         	document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
 
         	document.getElementById('listEpisodes').onclick = async () => {
-        		document.getElementById('podcastModal').style.display = 'none';
-        		openEpisodeListModal(podcast)
+          document.getElementById('podcastModal').style.display = 'none';
+        	openEpisodeListModal(podcast)
         	};
         	modal.style.display = 'block';
         }
@@ -183,6 +183,7 @@
 
         	try {
         		const episodeModal = document.getElementById('episodeListModal');
+            document.getElementById('episodeSearchInput').value = '';
         		const episodesContainer = document.getElementById('episodesContainer');
         		document.getElementById('modalPodcastTitle').textContent = podcast.text;
         		const rssFeedUrl = podcast.rssLink;
@@ -241,7 +242,6 @@
         	if (searchTerm.length >= 3 || searchTerm === '') {
         		let expandedCount = 0;
 
-        		// Filter episodes based on the search term
         		currentFilteredEpisodes = episodes.filter(episode =>
         			episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
         			episode.description.toLowerCase().includes(searchTerm.toLowerCase())
