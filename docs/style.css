@@ -802,7 +802,8 @@ animation:fadeIn .2s ease-in
 background:#24242433;
 backdrop-filter:blur(15px);
 border-radius:12px;
-padding:10px;
+padding-top:10px;
+padding-bottom:10px;
 max-height:80%;
 width: 400px;
 max-width:80%;
