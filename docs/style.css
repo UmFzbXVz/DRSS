@@ -92,7 +92,7 @@ color:#fff
 #results {
 margin-top:20px;
 margin-right:10%;
-margin-left:11%
+margin-left:10%
 }
 
 ul {
@@ -178,18 +178,6 @@ margin-right:10px
 max-width:20px;
 max-height:20px;
 overflow:hidden
-}
-
-.rss-icon {
-width:15px;
-height:15px;
-margin-left:10px;
-cursor:pointer;
-transition:transform .2s
-}
-
-.rss-icon:hover {
-transform:scale(1.3)
 }
 
 .close {
@@ -552,9 +540,8 @@ font-size:24px
 }
 }
 
-@media screen and (max-width: 100%) {
+@media screen and (max-width: 80%) {
 .modal-content {
-padding:10px
 }
 
 #modalDescription {
@@ -725,11 +712,10 @@ animation:fadeIn .2s ease-in
 background:#24242433;
 backdrop-filter:blur(15px);
 border-radius:12px;
-padding:10px;
 max-height:80%;
-max-width:400px;
-width: 80%;
-margin:60px auto;
+width:400px;
+max-width: 80%;
+margin: 10px auto;
 text-align:center;
 box-shadow:0 15px 30px #00000080;
 position:relative;
@@ -816,11 +802,11 @@ animation:fadeIn .2s ease-in
 background:#24242433;
 backdrop-filter:blur(15px);
 border-radius:12px;
-padding:20px;
+padding:10px;
 max-height:80%;
 width: 400px;
 max-width:80%;
-margin:60px auto;
+margin: 10px auto;
 text-align:center;
 box-shadow:0 15px 30px #00000080;
 position:relative;
@@ -840,14 +826,6 @@ font-weight:700;
 text-align:center
 }
 
-#episodesContainer {
-max-height:80%;
-margin-top:5px;
-overflow-y:scroll;
--ms-overflow-style:none;
-scrollbar-width:none
-}
-
 #episodesContainer::-webkit-scrollbar {
 display:none
 }
@@ -858,9 +836,17 @@ margin-bottom:10px;
 padding:10px;
 border-radius:8px;
 display:flex;
-justify-content:space-between;
 cursor:pointer;
 transition:background-color .2s
+}
+#episodesContainer {
+width: 100%;
+max-height:80%;
+margin-top:5px;
+margin-left: -5px;
+overflow-y:scroll;
+-ms-overflow-style:none;
+scrollbar-width:none
 }
 
 #episodesContainer .episode-list-item:hover {
@@ -909,7 +895,6 @@ backdrop-filter:blur(10px) brightness(1.1);
 border-radius:15px;
 padding:12px;
 margin:12px;
-gap:10px;
 max-height: 80%;
 width: 400px;
 max-width:90%;
@@ -960,6 +945,7 @@ position:fixed;
 top:0;
 left:0;
 right:0;
+  
 bottom:0;
 background-color:#00000080;
 backdrop-filter:blur(10px);
@@ -984,5 +970,5 @@ display:block;
 margin:10px auto;
 margin-top:-10px;
 color:#fffc;
-padding-top:-10px
+padding-top: 10px
 }
