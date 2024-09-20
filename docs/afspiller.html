@@ -132,7 +132,7 @@ episodesToShow.forEach((episode) => {
     episodesHTML += `
       <div class="episode ${playingClass}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
         <div class="loading-spinner" style="display: none;"></div>
-        <h4 class="episode-title">${episode.title}</h4>
+        <h4 class="player-episode-title">${episode.title}</h4>
         <p class="pub-date">${episode.pubDate.toLocaleDateString()}</p>
         <p class="episode-description">${episode.description}</p>
       </div>
