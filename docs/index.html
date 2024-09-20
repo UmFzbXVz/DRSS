@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js"></script>
 </head>
-
 <body>
     <div class="container">
         <h2>podcasts</h2>
@@ -174,7 +172,8 @@
         	document.getElementById('listEpisodes').onclick = async () => {
           document.getElementById('podcastModal').style.display = 'none';
         	openEpisodeListModal(podcast)
-        	};
+          };
+    
         	modal.style.display = 'block';
         }
         async function openEpisodeListModal(podcast) {
@@ -621,7 +620,8 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         		icon.classList.add('fa-sort-alpha-down');
         	}
         });
-      
+const podcastGrid = document.querySelector('.podcast-grid');
+const modalContent = document.querySelector('.modal-content');
     </script>
 </body>
 </html>
