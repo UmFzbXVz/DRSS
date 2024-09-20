@@ -941,7 +941,7 @@ strong {
 .episodelist-description.expanded {
   white-space: normal;
   overflow: visible;
-  text-align: center;
+  text-align: left;
 }
 
 .blur {
