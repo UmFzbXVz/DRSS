@@ -818,7 +818,7 @@ text-align:center;
 box-shadow:0 15px 30px #00000080;
 position:relative;
 animation:scaleIn .2s ease-in-out forwards;
-border:1px solid #fff3;
+border: 1px solid rgba(40, 40, 40, 0.6);
 overflow:hidden;
 flex-direction:column;
 display:flex
