@@ -202,6 +202,7 @@ h2 {
   position: fixed;
   bottom: 40%;
   left: 50%;
+  max-width: 300px;
   transform: translateX(-50%);
   background-color: #000c;
   color: #fff;
@@ -210,6 +211,7 @@ h2 {
   animation: slideIn 0.5s,slideOut .5s forwards 2s;
   z-index: 9999;
   border: 1px solid rgba(40,40,40,0.6);
+  text-align: center;
 }
 
 @keyframes slideIn {
