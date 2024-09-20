@@ -747,6 +747,7 @@ body.light-theme .podcast-cover {
   font-size: .9rem;
   color: #d0d0d0;
   margin-bottom: 15px;
+  margin-top: -5px;
 }
 
 #modalDescription {
@@ -806,7 +807,7 @@ body.light-theme .podcast-cover {
   width: 100%;
   height: 90%;
   background-color: #000000b3;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
   animation: fadeIn .2s ease-in;
 }
 
