@@ -918,7 +918,8 @@ margin-top: -4px;
 
 .episode-date {
 width:30%;
-text-align:right
+text-align:right;
+margin-top: -4px;
 }
 
 .episodelist-description {
