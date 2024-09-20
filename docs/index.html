@@ -243,7 +243,7 @@ const observer = new IntersectionObserver((entries) => {
         }
     });
 });
-
+      
 async function renderEpisodes(episodes, searchTerm = '', page = 1) {
     const episodesContainer = document.getElementById('episodesContainer');
         if (page === 1) {
@@ -275,8 +275,8 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
 
     const highlightedTitle = highlightText(episode.title, searchTerm);
     const highlightedDate = highlightText(episode.date, searchTerm);
-    const fullDescription = highlightText(episode.description, searchTerm);
-    const collapsedDescription = episode.description.replace(/(\r\n|\n|\r|\s+)/gm, ' ').trim();
+    const fullDescription = highlightText(episode.description.replace(/\n/g, '<br>'), searchTerm);
+    const collapsedDescription = episode.description;
 
     episodeItem.innerHTML = `
         <div class="episode-header">
@@ -286,7 +286,7 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         <div class="episodelist-description">${collapsedDescription}</div>
     `;
     episodeItem.dataset.enclosureUrl = episode.enclosure;
-
+        
     episodeItem.addEventListener('click', (event) => {
         if (event.target.closest('.episodelist-description')) {
             return;
@@ -305,7 +305,7 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         if (description.classList.contains('expanded')) {
             description.innerHTML = fullDescription;
         } else {
-            description.innerHTML = collapsedDescription.replace(/(\r\n|\n|\r|\s+)/gm, ' ').trim();
+            description.innerHTML = collapsedDescription;
         }
     });
 
@@ -326,7 +326,7 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         episodesContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
     }
 }
-
+     
         let sortOrderTitle = 'asc';
         let sortOrderDate = 'asc';
 
