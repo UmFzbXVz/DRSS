@@ -418,7 +418,7 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         	}
 
         	if (searchText.length < 3) {
-        		resultsContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
+        		resultsContainer.innerHTML = '<p style="text-align: center;">Indtast minimum 3 bogstaver for at søge</p>';
         		return;
         	}
 
@@ -553,7 +553,7 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         function displayResults(results) {
         	resultsContainer.innerHTML = '';
         	if (results.length === 0) {
-        		resultsContainer.innerHTML = '<p>Ingen søgeresultater fundet</p>';
+        		resultsContainer.innerHTML = '<p style="text-align: center;">Ingen søgeresultater fundet</p>';
         		return;
         	}
 
