@@ -268,50 +268,59 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         const start = (page - 1) * episodesPerPage;
         const end = start + episodesPerPage;
         const paginatedEpisodes = currentFilteredEpisodes.slice(start, end);
+      
+      paginatedEpisodes.forEach((episode, index) => {
+        const episodeItem = document.createElement('div');
+        episodeItem.classList.add('episode-item');
 
-        paginatedEpisodes.forEach((episode, index) => {
-            const episodeItem = document.createElement('div');
-            episodeItem.classList.add('episode-item');
+    const highlightedTitle = highlightText(episode.title, searchTerm);
+    const highlightedDate = highlightText(episode.date, searchTerm);
+    const fullDescription = highlightText(episode.description, searchTerm);
+    const collapsedDescription = episode.description.replace(/(\r\n|\n|\r|\s+)/gm, ' ').trim();
 
-            const highlightedTitle = highlightText(episode.title, searchTerm);
-            const highlightedDate = highlightText(episode.date, searchTerm);
-            const highlightedDescription = highlightText(episode.description, searchTerm);
+    episodeItem.innerHTML = `
+        <div class="episode-header">
+            <span class="episode-title">${highlightedTitle}</span>
+            <span class="episode-date">${highlightedDate}</span>
+        </div>
+        <div class="episodelist-description">${collapsedDescription}</div>
+    `;
+    episodeItem.dataset.enclosureUrl = episode.enclosure;
 
-            episodeItem.innerHTML = `
-                <div class="episode-header">
-                    <span class="episode-title">${highlightedTitle}</span>
-                    <span class="episode-date">${highlightedDate}</span>
-                </div>
-                <div class="episodelist-description">${highlightedDescription}</div>
-            `;
-            episodeItem.dataset.enclosureUrl = episode.enclosure;
-
-            episodeItem.addEventListener('click', (event) => {
-                if (event.target.closest('.episodelist-description')) {
-                    return;
-                }
-                navigator.clipboard.writeText(episode.enclosure)
-                    .then(() => {
-                        showToast(`"${episode.title}"<br/><br/><br/><div style="text-align: center; color: #28a745;">Link kopieret!</div>`);
-
-                    });
+    episodeItem.addEventListener('click', (event) => {
+        if (event.target.closest('.episodelist-description')) {
+            return;
+        }
+        navigator.clipboard.writeText(episode.enclosure)
+            .then(() => {
+                showToast(`"${episode.title}"<br/><br/><br/><div style="text-align: center; color: #28a745;">Link kopieret!</div>`);
             });
-          
-            const description = episodeItem.querySelector('.episodelist-description');
-            description.addEventListener('click', (event) => {
-                event.stopPropagation();
-                description.classList.toggle('expanded');
-            });
+    });
 
-            if (searchTerm && episode.description.toLowerCase().includes(searchTerm.toLowerCase()) && expandedCount < 2) {
-                description.classList.add('expanded');
-                expandedCount++;
-            }
-            episodesContainer.appendChild(episodeItem);
-            if (index === paginatedEpisodes.length - 1) {
-                observer.observe(episodeItem); 
-            }
-        });
+    const description = episodeItem.querySelector('.episodelist-description');
+    description.addEventListener('click', (event) => {
+        event.stopPropagation();
+        description.classList.toggle('expanded');
+
+        if (description.classList.contains('expanded')) {
+            description.innerHTML = fullDescription;
+        } else {
+            description.innerHTML = collapsedDescription.replace(/(\r\n|\n|\r|\s+)/gm, ' ').trim();
+        }
+    });
+
+    if (searchTerm && episode.description.toLowerCase().includes(searchTerm.toLowerCase()) && expandedCount < 2) {
+        description.classList.add('expanded');
+        description.innerHTML = fullDescription;
+        expandedCount++;
+    }
+    episodesContainer.appendChild(episodeItem);
+
+    if (index === paginatedEpisodes.length - 1) {
+        observer.observe(episodeItem); 
+    }
+});
+
 
     } else {
         episodesContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
