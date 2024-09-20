@@ -720,7 +720,7 @@ body.light-theme .podcast-cover {
   max-height: 90%;
   width: 400px;
   max-width: 80%;
-  margin: 10px auto;
+  margin: 12% auto;
   text-align: center;
   box-shadow: 0 15px 30px #00000080;
   position: relative;
@@ -760,7 +760,7 @@ body.light-theme .podcast-cover {
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 4;
+  -webkit-line-clamp: 6;
   -webkit-box-orient: vertical;
   white-space: normal;
   transition: max-height .2s ease-out,padding .2s ease-out;
