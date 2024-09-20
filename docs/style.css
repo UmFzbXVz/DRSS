@@ -546,7 +546,7 @@ body.light-theme .page-info {
   font-size: 24px;
 }
 
-@media screen and (max-width: 80) {
+@media screen and (max-width: 80%) {
   #modalDescription {
     font-size: .9rem;
   }
@@ -717,7 +717,7 @@ body.light-theme .podcast-cover {
   background: #24242433;
   backdrop-filter: blur(15px);
   border-radius: 12px;
-  max-height: 80%;
+  max-height: 90%;
   width: 400px;
   max-width: 80%;
   margin: 10px auto;
@@ -736,6 +736,7 @@ body.light-theme .podcast-cover {
 .modal-content h3 {
   font-size: 2rem;
   margin-bottom: 15px;
+  margin-top: 15px;
   color: #fff;
   font-weight: 700;
   text-align: center;
@@ -758,23 +759,23 @@ body.light-theme .podcast-cover {
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 6;
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   white-space: normal;
   transition: max-height .2s ease-out,padding .2s ease-out;
 }
 
 #modalDescription.expanded {
-  max-height: 80%;
+  max-height: 90%;
   -webkit-line-clamp: unset;
   white-space: normal;
 }
 
 .close {
   position: absolute;
-  top: 15px;
-  right: 20px;
-  font-size: 1.8rem;
+  top: 1%;
+  right: 2%;
+  font-size: 1.5rem;
   color: #aaa;
   cursor: pointer;
   transition: color .2s ease;
@@ -814,7 +815,7 @@ body.light-theme .podcast-cover {
   backdrop-filter: blur(15px);
   border-radius: 12px;
   padding-top: 10px;
-  max-height: 80%;
+  max-height: 90%;
   margin: 10px auto;
   text-align: center;
   box-shadow: 0 15px 30px #00000080;
@@ -849,7 +850,7 @@ body.light-theme .podcast-cover {
 }
 
 #episodesContainer {
-  max-height: 90%;
+  max-height: 100%;
   margin-top: 5px;
   overflow-y: scroll;
   -ms-overflow-style: none;
