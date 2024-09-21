@@ -52,8 +52,9 @@ input[type="text"]:focus {
 #episodeSearchInput {
   max-width: 60%;
   margin: 0 auto;
+  margin-bottom: 0.5em;
   padding: 10px 15px;
-  font-size: 0.7em;
+  font-size: 0.9em;
   background: rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(5px);
   border-radius: 10px;
@@ -62,7 +63,6 @@ input[type="text"]:focus {
   text-align: center;
   outline: none;
 }
-
 
 #episodeListModal .modal-content > div {
   position: relative;
@@ -749,7 +749,6 @@ body.light-theme .podcast-cover {
   color: #e0e0e0;
   font-size: 1rem;
   line-height: 1.4;
-  max-height: 9em;
   padding-left: 2%;
   padding-right: 2%;
   overflow: hidden;
@@ -871,13 +870,13 @@ strong {
 }
 
 #sortByDate,#sortByTitle {
-  font-size: 1.2em;
+  font-size: 1.5em;
   color: #fff;
   cursor: pointer;
   color: #fff6;
   box-shadow: 0 4px 6px #0000001a;
   position: absolute;
-  top: -1.5rem;
+  top: -1.6em;
 }
 
 #sortByTitle {
@@ -903,13 +902,14 @@ strong {
 }
 
 .episode-title {
-  width: 75%;
+  width: 80%;
   text-align: left;
   overflow: hidden;
   white-space: nowrap;
   font-weight: 700;
   color: #ffff;
   margin-top: -5px;
+  font-size: 1.2rem;
     -webkit-mask-image: linear-gradient(90deg, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%);
 }
 
@@ -917,24 +917,26 @@ strong {
   text-align: left;
   overflow: hidden;
   white-space: nowrap;
-  font-weight: 700;
   color: #ffff;
 }
 
 .episode-date {
   width: 30%;
-  font-size: 0.75rem;
+  font-size: 0.9em;
   text-align: right;
   margin-top: -5px;
 }
 
 .episodelist-description {
   color: #ffffffb3;
-  padding-top: 4px;
+  padding-top: 5px;
   margin-bottom: -5px;
-  font-size: .8em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  font-size: 1em;
   overflow: hidden;
-  white-space: nowrap;
+  white-space: normal; 
   text-overflow: ellipsis;
   cursor: pointer;
   text-align: left;
@@ -944,6 +946,9 @@ strong {
   white-space: normal;
   overflow: visible;
   text-align: left;
+  display: -webkit-box;
+  -webkit-line-clamp: unset;
+  -webkit-box-orient: vertical;
 }
 
 .blur {
@@ -974,11 +979,11 @@ strong {
 }
 
 #modalPodcastTitle {
-  font-size: 1.5rem;
   max-width: 80%;
   display: block;
   margin: 10px auto;
-  margin-top: -10px;
+  margin-bottom: 15px;
   color: #fffc;
-  padding-top: 10px;
+  font-size: 2rem;
+  text-align: center;
 }
