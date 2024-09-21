@@ -665,17 +665,17 @@ body.light-theme .page-info {
 
 .podcast-cover {
   width: 100%;
-  height: 85.714%;
+  height: 87.5%;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
 }
 
 .podcast-title {
-  font-size: clamp(0.5rem,1vw,2wv);
+  font-size: 1em;
   font-weight: 700;
   color: #f5f5f5;
-  margin: 2px 0 0;
   padding: 0 10px;
+  padding-top: 2px;
   display: flex;
   align-items: center;
   justify-content: center;
