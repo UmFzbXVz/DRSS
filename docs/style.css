@@ -1,23 +1,19 @@
 body {
-  font-family: Arial,sans-serif;
-  background-color: #121212;
-  color: #f5f5f5;
+  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  background-color: var(--background-color, #121212);
+  color: var(--text-color, #f5f5f5);
 }
 
 body.light-theme {
   --background-color: #fff;
   --text-color: #000;
-  background-color: var(--background-color);
-  color: var(--text-color);
 }
 
 body.dark-theme {
   --background-color: #121212;
   --text-color: #f5f5f5;
-  background-color: var(--background-color);
-  color: var(--text-color);
 }
 
 .container {
@@ -55,19 +51,18 @@ input[type="text"]:focus {
 
 #episodeSearchInput {
   max-width: 60%;
-  display: block;
   margin: 0 auto;
   padding: 10px 15px;
-  font-size: .7em;
-  background: rgba(0,0,0,0.1);
+  font-size: 0.7em;
+  background: rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
   border-radius: 10px;
   box-shadow: 0 4px 6px #0000001a;
   color: #fff;
-  outline: none;
   text-align: center;
+  outline: none;
 }
+
 
 #episodeListModal .modal-content > div {
   position: relative;
@@ -82,12 +77,12 @@ input[type="text"]:focus {
   position: absolute;
   top: 50%;
   left: calc(100% - 12%);
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   cursor: pointer;
   color: #ccc;
   z-index: 1;
   font-size: 20px;
-  transition: color .3s;
+  transition: color 0.3s;
 }
 
 .clear-search:hover {
@@ -130,7 +125,8 @@ a:hover {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 6px 10px #00000026;
-  transition: transform .3s ease,box-shadow .3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
 }
 
 .helper-text {
@@ -142,12 +138,13 @@ a:hover {
 
 .result:hover {
   transform: translateY(-5px);
+  box-shadow: 0 10px 20px #00000040;
 }
 
 .result a {
-  color: #f5f5f5;
-  text-decoration: none;
+  color: var(--text-color, #f5f5f5);
   font-weight: 700;
+  transition: color 0.3s;
 }
 
 .result a:hover {
@@ -160,29 +157,12 @@ a:hover {
   color: #f5f5f5;
 }
 
-h2 {
-  text-align: center;
-  font-size: 28px;
-  margin-bottom: 10px;
-  margin-top: px;
-  font-weight: 700;
-  letter-spacing: 1.5px;
-  -webkit-background-clip: text;
-  background-clip: text;
-  text-shadow: 2px 2px 4px #0003;
-  transition: background 0.3s,transform 0.3s,text-shadow .3s;
-}
 
 .result .podcast-logo,.result .rss-icon,.result img {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  margin-right: 10px;
-}
-
-.podcast-logo {
-  max-width: 20px;
-  max-height: 20px;
+  margin-right: 10px; 
   overflow: hidden;
 }
 
@@ -197,6 +177,19 @@ h2 {
   color: #000;
   text-decoration: none;
   cursor: pointer;
+}
+
+h2 {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 10px;
+  margin-top: px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-shadow: 2px 2px 4px #0003;
+  transition: background 0.3s,transform 0.3s,text-shadow .3s;
 }
 
 .toast {
@@ -719,7 +712,7 @@ body.light-theme .podcast-cover {
 }
 
 .modal-content {
-  background: #24242433;
+  background: rgba(36, 36, 36, 0.2);
   backdrop-filter: blur(15px);
   border-radius: 12px;
   max-height: 90%;
@@ -727,15 +720,12 @@ body.light-theme .podcast-cover {
   max-width: 80%;
   margin: 12rem auto;
   text-align: center;
-  box-shadow: 0 15px 30px #00000080;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
   position: relative;
-  animation: scaleIn .2s ease-in-out forwards;
-  border: 1px solid rgba(40,40,40,0.6);
+  animation: scaleIn 0.2s ease-in-out forwards;
+  border: 1px solid rgba(40, 40, 40, 0.6);
   overflow: hidden;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  flex-direction: column;
-  display: flex;
+  padding: 10px;
 }
 
 .modal-content h3 {
@@ -866,7 +856,7 @@ body.light-theme .podcast-cover {
 }
 
 strong {
-  font-weight: 700;
+  font-weight: bold;
   color: orange;
 }
 
