@@ -8,6 +8,16 @@ Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
 Vært: Ole Tøpholm.</description>
         <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1807d0c1a140697e11d.jpg"/>
         <item>
+            <title>Lørdag 21. sep. 2024</title>
+            <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
+Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
+Vært: Ole Tøpholm.</description>
+            <duration>01:45:00</duration>
+            <pubDate>Sat, 21 Sep 2024 12:15:00 +0000</pubDate>
+            <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen-2024/dansktoppen-15452432386</guid>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e0c24c7136d10ed9308f0d/e32fe5613d28fa33af8de1e0e58b6df123a316dd74413475dd9222ea72b336b5" length="151202070" type="audio/mpeg"/>
+        </item>
+        <item>
             <title>På vej mod Dansktoppen</title>
             <description>Du kan høre de tre sange, som på lørdag bliver testet til en plads på Dansktoppen, de såkaldte boblere.</description>
             <duration>00:12:00</duration>
@@ -68,16 +78,6 @@ Vært: Ole Tøpholm.</description>
             <pubDate>Wed, 28 Aug 2024 19:03:00 +0000</pubDate>
             <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen/paa-vej-mod-dansktoppen-15452433353</guid>
             <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c11f49ed475b85ace60768/4d29f0317ba185e64db2bac7bbb450523d0141c388ed6e974aef53b9039a9a3d" length="17281453" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Lørdag 24. aug. 2024</title>
-            <description>Den ugentlige hitliste, der afspejler den aktuelle dansksprogede popscene. 
-Dansktoppen er baseret på resultatet af lytternes SMS-afstemning.
-Vært: Ole Tøpholm.</description>
-            <duration>01:45:00</duration>
-            <pubDate>Sat, 24 Aug 2024 12:15:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p5/dansktoppen/dansktoppen-2024/dansktoppen-15452432346</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66bbd859d853399e6e9ff458/1e34a7c2dd52f0bf65e25395ef50818e2460ca4e82874fc6d25252c97d141c9f" length="151201494" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>
