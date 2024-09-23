@@ -69,6 +69,7 @@
     <script>
         const resultsContainer = document.getElementById('results');
         const h2Container = document.querySelector('.container h2');
+        let currentPodcast = null;
         let drPodcastsData = [];
         let podimoPodcastsData = [];
         let miscPodcastsData = [];
@@ -188,6 +189,7 @@
 
         	try {
         		const episodeModal = document.getElementById('episodeListModal');
+            currentPodcast = podcast;
             let esi = document.getElementById('episodeSearchInput');
             esi.value = '';
             if (!esi.hasAttribute('data-click-listener')) {
@@ -349,14 +351,10 @@ function togglePlayStop(playButton, url) {
 const audioPlayer = new Plyr('#audio', {
     controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
 });
-document.querySelectorAll('.play-button').forEach(button => {
-    button.addEventListener('click', (event) => {
-        const audioUrl = event.target.closest('.episode-item').dataset.enclosureUrl;
-        playEpisode(audioUrl);
-    });
-});
 
-function playEpisode(url) {
+      
+
+function playEpisode(url, episode) {
     audioPlayer.source = {
         type: 'audio',
         sources: [
@@ -366,9 +364,48 @@ function playEpisode(url) {
             },
         ],
     };
+  
     document.querySelector('.episodelist-audio-player').style.display = 'block'; 
     audioPlayer.play();
+
+    console.log(currentPodcast);
+
+    if ('mediaSession' in navigator) {
+        navigator.mediaSession.metadata = new MediaMetadata({
+            title: episode.text, 
+            artist: currentPodcast.provider,
+            album: currentPodcast.text,
+            artwork: [
+                {
+                    src: currentPodcast.image,
+                    sizes: '512x512',
+                    type: 'image/png',
+                }
+            ]
+        });
+
+        navigator.mediaSession.setActionHandler('play', () => {
+            audioPlayer.play();
+            navigator.mediaSession.playbackState = 'playing';
+        });
+
+        navigator.mediaSession.setActionHandler('pause', () => {
+            audioPlayer.pause();
+            navigator.mediaSession.playbackState = 'paused';
+        });
+
+        navigator.mediaSession.setActionHandler('seekbackward', () => {
+            audioPlayer.currentTime = Math.max(audioPlayer.currentTime - 10, 0);
+        });
+
+        navigator.mediaSession.setActionHandler('seekforward', () => {
+            audioPlayer.currentTime = Math.min(audioPlayer.currentTime + 10, audioPlayer.duration);
+        });
+    }
 }
+
+
+
 
 async function renderEpisodes(episodes, searchTerm = '', page = 1) {
     const episodesContainer = document.getElementById('episodesContainer');
