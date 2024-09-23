@@ -17,7 +17,7 @@
             <input type="text" id="searchInput" placeholder="søg..">
             <span class="clear-search" onclick="clearSearch()">&#10006;</span>
         </div>
-        <p class="helper-text">*afsnitlisteknap tilføjet; fremsøg snildt afsnit</p>
+        <p class="helper-text"></p>
         <div id="results"></div>
     </div>
     <div id="spinnerOverlay" class="spinner-overlay" style="display: none;">
@@ -331,7 +331,7 @@ function addDescriptionButtonListeners(description) {
         copyButton.addEventListener('click', (event) => {
             event.stopPropagation();
             navigator.clipboard.writeText(audioUrl).then(() => {
-                showToast(`Link copied!`);
+                showToast(`Link kopieret!`);
             });
         });
     }
@@ -520,13 +520,20 @@ function expandFirstEpisode(firstElement, firstEpisode, searchTerm) {
         	return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
         }
 
-        function showToast(message) {
-        	const toast = document.createElement('div');
-        	toast.classList.add('toast');
-        	toast.innerHTML = message;
-        	document.body.appendChild(toast);
-        	setTimeout(() => toast.remove(), 5000);
-        }
+function showToast(message) {
+    document.body.classList.add('blur-background');
+
+    const toast = document.createElement('div');
+    toast.classList.add('toast');
+    toast.innerHTML = message;
+    document.body.appendChild(toast);
+
+    setTimeout(() => {
+        toast.remove();
+        document.body.classList.remove('blur-background');
+    }, 5000);
+}
+
 
         async function filterPodcasts(searchText) {
         	if (searchText.length === 0) {
