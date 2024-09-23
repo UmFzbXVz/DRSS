@@ -64,22 +64,13 @@ input[type="text"]:focus {
   outline: none;
 }
 
-#episodeListModal .modal-content > div {
-  position: relative;
-}
-
-.episode-list-item:focus .tooltip,.episode-list-item:hover .tooltip {
-  visibility: visible;
-  opacity: 1;
-}
-
 .clear-search {
   position: absolute;
   top: 50%;
-  left: calc(100% - 12%);
+  right: 10%;
   transform: translate(-50%, -50%);
   cursor: pointer;
-  color: #ccc;
+  color: rgba(60,60,60,0.8);
   z-index: 1;
   font-size: 20px;
   transition: color 0.3s;
@@ -711,13 +702,14 @@ body.light-theme .podcast-cover {
 }
 
 .modal-content {
+  right: -10px;
   background: rgba(36, 36, 36, 0.2);
   backdrop-filter: blur(15px);
   border-radius: 12px;
   max-height: 90%;
   width: 400px;
-  max-width: 80%;
-  margin: 12rem auto;
+  max-width: 100%;
+  margin: 10rem auto;
   text-align: center;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
   position: relative;
@@ -908,7 +900,7 @@ strong {
   font-weight: 700;
   color: #ffff;
   margin-top: -5px;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
     -webkit-mask-image: linear-gradient(90deg, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0) 100%);
 }
 
@@ -938,15 +930,15 @@ strong {
   text-overflow: ellipsis;
   cursor: pointer;
   text-align: left;
+  position: relative;
 }
 
 .episodelist-description.expanded {
   white-space: normal;
-  overflow: visible;
+  word-break: break-all;
   text-align: left;
-  display: -webkit-box;
-  -webkit-line-clamp: unset;
-  -webkit-box-orient: vertical;
+  display: block;
+  z-index: 2;
 }
 
 .blur {
@@ -984,4 +976,62 @@ strong {
   color: #fffc;
   font-size: 2rem;
   text-align: center;
+}
+.button-container {
+  float: right;
+  display: block;
+  padding-left: 10px;
+  margin-left: 10px;
+  z-index: 2;
+}
+.play-button, .copy-button, .stop-button {
+  font-size: 1rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.6);
+  transition: color 0.3s ease, transform 0.3s ease;
+  margin-left: 5px;
+}
+
+.play-button:hover, .copy-button:hover {
+  color: #fff;
+  transform: scale(1.1);
+}
+
+.play-button {
+  color: #7ef79e;
+}
+
+.copy-button {
+  color: #fffa;
+}
+
+.stop-button {
+  color: #ff3b3b;
+}
+.stop-button:hover {
+  color: #ff1a1a;
+}
+
+.episodelist-audio-player {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-height: max(10vh, 50px);
+    max-width: 400px;
+    z-index: 3;
+    backdrop-filter: blur(20px);
+    border-radius: 15px;
+}
+
+.plyr {
+    background: rgba(255, 255, 255, 0);
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(20px);
+    opacity: 0.5;
 }
