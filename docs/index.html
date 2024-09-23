@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.min.js"></script>
 </head>
 <body>
     <div class="container">
@@ -60,6 +62,10 @@
             </div>
         </div>
     </div>
+<div id="audioPlayer" class="episodelist-audio-player">
+    <audio id="audio" controls crossorigin>
+    </audio>
+</div>
     <script>
         const resultsContainer = document.getElementById('results');
         const h2Container = document.querySelector('.container h2');
@@ -272,40 +278,96 @@ function createEpisodeElements(episodes, searchTerm) {
             : highlightText(episode.date, searchTerm);
 
         const fullDescription = highlightText(episode.description.replace(/\n/g, '<br>'), searchTerm);
-        const highlightedCollapsedDescription = highlightText(episode.description, searchTerm);
+        const collapsedDescription = highlightText(episode.description, searchTerm);
 
-        episodeItem.innerHTML = 
-            `<div class="episode-header">
+        episodeItem.innerHTML = `
+            <div class="episode-header">
                 <span class="episode-title">${highlightedTitle}</span>
                 <span class="episode-date">${highlightedDate}</span>
             </div>
-            <div class="episodelist-description">${highlightedCollapsedDescription}</div>`;
+            <div class="episodelist-description">${collapsedDescription}</div>
+        `;
         episodeItem.dataset.enclosureUrl = episode.enclosure;
 
-        episodeItem.addEventListener('click', (event) => {
-            if (event.target.closest('.episodelist-description')) {
-                return;
-            }
-            navigator.clipboard.writeText(episode.enclosure)
-                .then(() => {
-                    showToast(`${episode.title}<br/><br/><br/><div style="text-align: center; color: #28a745;">Link kopieret!</div>`);
-                });
-        });
-
         const description = episodeItem.querySelector('.episodelist-description');
-        description.addEventListener('click', (event) => {
-            event.stopPropagation();
-            description.classList.toggle('expanded');
-
-            if (description.classList.contains('expanded')) {
-                description.innerHTML = fullDescription;
-            } else {
-                description.innerHTML = highlightedCollapsedDescription;
-            }
-        });
+        description.addEventListener('click', (event) => handleDescriptionClick(event, description, fullDescription, collapsedDescription));
 
         return episodeItem;
     });
+}
+
+function handleDescriptionClick(event, description, fullDescription, collapsedDescription) {
+    event.stopPropagation();
+    description.classList.toggle('expanded');
+
+    description.innerHTML = description.classList.contains('expanded') 
+        ? `${fullDescription}
+            <div class="button-container">
+                <button class="play-button"><i class="fas fa-play"></i></button>
+                <button class="copy-button"><i class="fas fa-copy"></i></button>
+            </div>`
+        : collapsedDescription;
+
+    addDescriptionButtonListeners(description);
+}
+
+let activeSound = null;
+let activePlayButton = null;
+
+function addDescriptionButtonListeners(description) {
+    const playButton = description.querySelector('.play-button');
+    const copyButton = description.querySelector('.copy-button');
+
+    const audioUrl = description.closest('.episode-item').dataset.enclosureUrl;
+
+    if (playButton) {
+        playButton.addEventListener('click', (event) => {
+            event.stopPropagation();
+            togglePlayStop(playButton, audioUrl);
+        });
+    }
+
+    if (copyButton) {
+        copyButton.addEventListener('click', (event) => {
+            event.stopPropagation();
+            navigator.clipboard.writeText(audioUrl).then(() => {
+                showToast(`Link copied!`);
+            });
+        });
+    }
+}
+
+function togglePlayStop(playButton, url) {
+    if (activeSound) {
+        activeSound.stop(); 
+        activeSound = null;
+        resetPlayButton(playButton);
+    } else {
+        playEpisode(url, playButton);
+    }
+}
+const audioPlayer = new Plyr('#audio', {
+    controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
+});
+document.querySelectorAll('.play-button').forEach(button => {
+    button.addEventListener('click', (event) => {
+        const audioUrl = event.target.closest('.episode-item').dataset.enclosureUrl;
+        playEpisode(audioUrl);
+    });
+});
+
+function playEpisode(url) {
+    audioPlayer.source = {
+        type: 'audio',
+        sources: [
+            {
+                src: url,
+                type: 'audio/mp3',
+            },
+        ],
+    };
+    document.querySelector('.episodelist-audio-player').style.display = 'block'; 
+    audioPlayer.play();
 }
 
 async function renderEpisodes(episodes, searchTerm = '', page = 1) {
@@ -316,16 +378,11 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
     }
 
     if (searchTerm.length >= 3 || searchTerm === '') {
-        currentFilteredEpisodes = episodes.filter(episode =>
-            episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            episode.description.toLowerCase().includes(searchTerm.toLowerCase())
-        );
+        currentFilteredEpisodes = filterEpisodes(episodes, searchTerm);
 
-        const start = (page - 1) * episodesPerPage;
-        const end = start + episodesPerPage;
-        const paginatedEpisodes = currentFilteredEpisodes.slice(start, end);
-
+        const paginatedEpisodes = paginateEpisodes(currentFilteredEpisodes, page);
         const episodeElements = createEpisodeElements(paginatedEpisodes, searchTerm);
+        
         episodeElements.forEach((episodeItem, index) => {
             episodesContainer.appendChild(episodeItem);
             if (index === paginatedEpisodes.length - 1) {
@@ -334,16 +391,44 @@ async function renderEpisodes(episodes, searchTerm = '', page = 1) {
         });
 
         if (page === 1 && currentFilteredEpisodes.length > 0) {
-            const firstDescription = episodeElements[0].querySelector('.episodelist-description');
-            firstDescription.classList.add('expanded');
-            firstDescription.innerHTML = highlightText(currentFilteredEpisodes[0].description.replace(/\n/g, '<br>'), searchTerm);
+            expandFirstEpisode(episodeElements[0], currentFilteredEpisodes[0], searchTerm);
         }
     } else {
         episodesContainer.innerHTML = '<p>Indtast minimum 3 bogstaver for at søge</p>';
     }
 }
 
-     
+function filterEpisodes(episodes, searchTerm) {
+    return episodes.filter(episode =>
+        episode.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        episode.description.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+}
+
+function paginateEpisodes(episodes, page) {
+    const start = (page - 1) * episodesPerPage;
+    const end = start + episodesPerPage;
+    return episodes.slice(start, end);
+}
+
+function expandFirstEpisode(firstElement, firstEpisode, searchTerm) {
+    const firstDescription = firstElement.querySelector('.episodelist-description');
+    firstDescription.classList.add('expanded');
+    
+    const fullDescription = highlightText(firstEpisode.description.replace(/\n/g, '<br>'), searchTerm);
+
+    firstDescription.innerHTML = `
+        ${fullDescription}
+        <div class="button-container">
+            <button class="play-button"><i class="fas fa-play"></i></button>
+            <button class="copy-button"><i class="fas fa-copy"></i></button>
+        </div>
+    `;
+
+    addDescriptionButtonListeners(firstDescription);
+}
+
+
         let sortOrderTitle = 'asc';
         let isSortingByTitle = false;
         let isSortingByDate = false;
