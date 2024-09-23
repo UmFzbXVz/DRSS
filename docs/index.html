@@ -352,8 +352,6 @@ const audioPlayer = new Plyr('#audio', {
     controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
 });
 
-      
-
 function playEpisode(url, episode) {
     audioPlayer.source = {
         type: 'audio',
@@ -367,14 +365,12 @@ function playEpisode(url, episode) {
   
     document.querySelector('.episodelist-audio-player').style.display = 'block'; 
     audioPlayer.play();
-
-    console.log(currentPodcast);
-
+ 
     if ('mediaSession' in navigator) {
         navigator.mediaSession.metadata = new MediaMetadata({
-            title: episode.text, 
-            artist: currentPodcast.provider,
-            album: currentPodcast.text,
+            title: 'Her kommer afsnittitlen på et tidspunkt', 
+            artist: currentPodcast.text,
+            album: currentPodcast.provider,
             artwork: [
                 {
                     src: currentPodcast.image,
@@ -383,29 +379,8 @@ function playEpisode(url, episode) {
                 }
             ]
         });
-
-        navigator.mediaSession.setActionHandler('play', () => {
-            audioPlayer.play();
-            navigator.mediaSession.playbackState = 'playing';
-        });
-
-        navigator.mediaSession.setActionHandler('pause', () => {
-            audioPlayer.pause();
-            navigator.mediaSession.playbackState = 'paused';
-        });
-
-        navigator.mediaSession.setActionHandler('seekbackward', () => {
-            audioPlayer.currentTime = Math.max(audioPlayer.currentTime - 10, 0);
-        });
-
-        navigator.mediaSession.setActionHandler('seekforward', () => {
-            audioPlayer.currentTime = Math.min(audioPlayer.currentTime + 10, audioPlayer.duration);
-        });
     }
 }
-
-
-
 
 async function renderEpisodes(episodes, searchTerm = '', page = 1) {
     const episodesContainer = document.getElementById('episodesContainer');
