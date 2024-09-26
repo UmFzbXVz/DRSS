@@ -988,6 +988,7 @@ strong {
   background: none;
   border: none;
   color: rgba(255, 255, 255, 1);
+  brightness: 1.3;
   transition: color 0.3s ease, transform 0.3s ease;
   margin-left: 5px;
 }
@@ -997,7 +998,7 @@ strong {
 }
 
 .copy-button {
-  color: #fffa;
+  color: white;
 }
 
 .stop-button {
