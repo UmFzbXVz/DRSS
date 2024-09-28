@@ -6,6 +6,20 @@
         <description>Hver dag direkte fra Københavns Domkirke.</description>
         <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523beb4443243f95e2c5d95.jpg"/>
         <item>
+            <title>Fredag 27. sep. 2024</title>
+            <description>Præludium:	Léon Boëllmann: Allegro Moderato
+Fra det G.T.:	Mikas Bog 7, 7-9
+Salme: 495 &quot;Midt i livet er vi stedt&quot;
+Fra det N.T.:	Lukas 12, 32-44
+Korvers: Niels Wilhelm Gade: Som markens blomst henvisner fage (tekst: N.F.S. Grundtvig)
+Salme: 696 &quot;Kærlighed er lysets kilde&quot;
+Postludium: Helmut Walcha: Midt i livet er vi stedt</description>
+            <duration>00:25:00</duration>
+            <pubDate>Fri, 27 Sep 2024 08:05:00 +0000</pubDate>
+            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405395</guid>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e8b096374be7e3cecca5c3/bd6128b5f965638b859ca648a89de641f0a69b559e752b926d34cf070f3914cb" length="36001576" type="audio/mpeg"/>
+        </item>
+        <item>
             <title>Torsdag 26. sep. 2024</title>
             <description>Præludium:	Johann Gottfried Walther: Kære Jesus! vi er her
 Fra det G.T.:	Prædikerens Bog 8, 6-8
@@ -340,20 +354,6 @@ Postludium: Felix Mendelssohn Bartholdy: Andante religioso B-dur, fra op. 65 nr.
             <pubDate>Fri, 30 Aug 2024 08:05:00 +0000</pubDate>
             <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405355</guid>
             <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c3c1d33a30c05e833399e8/9315ab88c7555b175486ede2718881095af0da370c19d305505a1c45f7799cd4" length="36001578" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Torsdag 29. aug. 2024</title>
-            <description>Præludium: Johann Sebastian Bach: Es ist das Heil uns kommen her, BWV 638
-Fra det G.T.:	Salme 8
-Salme: 445 &quot;Af diendes og spædes mund&quot;
-Fra det N.T.:	Matthæus 18, 1-5
-Korvers: Rasmus Anthonisen: Hvis nogen vil følge efter mig (tekst: Matthæus 16, 24-25)
-Salme: 674, vers 1-2 + 7 &quot;Sov sødt, barnlille&quot;
-Postludium: Matthias Weckmann: Canzon i d</description>
-            <duration>00:25:00</duration>
-            <pubDate>Thu, 29 Aug 2024 08:05:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405354</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66c2708d184dadba64095be6/ef00e7fb237975053941d192755a3d19d70070a04e57b71b42eded2333594b1d" length="36001582" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>
