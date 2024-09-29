@@ -89,6 +89,7 @@ let isPlaying = false;
 let isChangingEpisode = false;
 let currentIndex = 0;
 let isLoading = false;
+let startY = 0; 
 
 async function loadPodcast(podcast) {
   try {
@@ -189,6 +190,7 @@ function displayEpisodes() {
 
     loadMoreEpisodes();
 }
+
     
 document.addEventListener('DOMContentLoaded', () => {
   fetchDataAndPreloadIcon();
@@ -197,6 +199,23 @@ document.addEventListener('DOMContentLoaded', () => {
   const closeModalButton = document.getElementById('closeModal');
   const playerModal = document.getElementById('playerModal');
   const episodeListModal = document.getElementById('episodeListModal');
+  
+  document.addEventListener('touchstart', (event) => {
+    startY = event.touches[0].clientY;
+  });
+  document.addEventListener('touchmove', (event) => {
+    let currentY = event.touches[0].clientY;
+    if (window.scrollY === 0 && currentY > startY) {
+      if (podcastModal || playerModal || episodeListModal) {
+        const isAnyModalVisible = podcastModal.style.display === 'block' ||
+                                  playerModal.style.display === 'block' ||
+                                  episodeListModal.style.display === 'block';
+        if (isAnyModalVisible) {
+          event.preventDefault();
+        }
+      }
+    }
+  });
   
   podcastModal.addEventListener('click', function(event) {
     if(event.target === modalDescription) {
