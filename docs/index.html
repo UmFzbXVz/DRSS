@@ -122,7 +122,11 @@ async function loadPodcast(podcast) {
       };
     });
 
-    document.getElementById("podcast-info").innerHTML = `<div id='podcast-info-h2'>${title}</div><p></p>`;
+    document.getElementById("podcast-info").innerHTML = `<span class="close">&#10006;</span><div id='podcast-info-h2'>${title}</div><p></p>`;
+    
+    document.querySelector('#playerModal .close').onclick = () => {
+      document.getElementById('playerModal').style.display = 'none';
+    };
     displayEpisodes();
 
   } catch (error) {
@@ -520,9 +524,7 @@ function addDescriptionButtonListeners(description) {
 }
 
 function getEpisodeIndexByUrl(audioUrl) {
-  console.log("getEpisodeIndexByUrl er kaldet med", audioUrl);
   let index =  episodesData.findIndex(episode => episode.link === audioUrl);
-  console.log("INDEX:", index);
   return index;
 }
 
@@ -531,7 +533,7 @@ const audioPlayer = new Plyr('#audio', {
 });
 
 function playEpisode(audioUrl, episodeTitle, currentIndex) {
-  console.log("Playing", episodeTitle, "(" + audioUrl + ")");
+  console.log("Afspiller", episodeTitle, "(" + audioUrl + ")");
   
   // Klargør 'currentlyPlaying' ved at fjerne subclass fra alt andet
   const allEpisodes = document.querySelectorAll('.episode');
@@ -702,16 +704,6 @@ document.getElementById('episodeSearchInput').addEventListener('input', function
 
 document.querySelector('#episodeListModal .close').onclick = () => {
   document.getElementById('episodeListModal').style.display = 'none';
-};
-window.onclick = (event) => {
-  const modal = document.getElementById('episodeListModal');
-  if(event.target === modal) {
-    modal.style.display = 'none';
-  }
-};
-
-document.querySelector('#playerModal .close').onclick = () => {
-  document.getElementById('playerModal').style.display = 'none';
 };
 
 function formatDescription(description) {
