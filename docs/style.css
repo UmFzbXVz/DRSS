@@ -227,7 +227,6 @@ h2 {
   z-index: 2;
   left: 0;
   top: 0;
-  background-color: #000000b3;
   backdrop-filter: blur(6px);
   animation: fadeIn .2s ease-in;
 }
@@ -838,9 +837,21 @@ strong {
 }
 
 .plyr {
-    background: rgba(255, 255, 255, 0);
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
     backdrop-filter: blur(6px);
     opacity: 0.5;
+    position: relative;
+}
+.plyr__controls,
+.plyr__control,
+.plyr__progress {
+    opacity: 1 !important;
+    filter: grayscale(1);
+}
+.plyr__control {
+    color: #808080 !important;
+}
+.plyr__control svg {
+    fill: #808080 !important;
 }
