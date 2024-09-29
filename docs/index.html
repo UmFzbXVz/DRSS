@@ -121,7 +121,7 @@ async function loadPodcast(podcast) {
       };
     });
 
-    document.getElementById("podcast-info").innerHTML = `<h2>${title}</h2><p></p>`;
+    document.getElementById("podcast-info").innerHTML = `<div id='podcast-info-h2'>${title}</div><p></p>`;
     displayEpisodes();
 
   } catch (error) {
@@ -218,7 +218,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!event.target.classList.contains('episode-description')) {
         const episodeUrl = episodeElement.getAttribute('data-url');
         const episodeTitle = episodeElement.getAttribute('data-title');
-        playEpisode(episodeUrl, episodeTitle);
+        playEpisode(episodeUrl, episodeTitle, getEpisodeIndexByUrl(episodeUrl));
       }
     }
 
@@ -470,25 +470,27 @@ function addDescriptionButtonListeners(description) {
 
   const audioUrl = description.closest('.episode-item').dataset.enclosureUrl;
 
-  if(playButton) {
+  if (playButton) {
     playButton.addEventListener('click', (event) => {
       event.stopPropagation();
 
-      const clickedButton = event.target;
-      const parentEpisodeDiv = clickedButton.closest('.episode-item');
-      const episodeIndex = parentEpisodeDiv.getAttribute('data-enclosure-url');
-      const selectedEpisode = currentEpisodes[episodeIndex];
+      const episodeIndex = getEpisodeIndexByUrl(audioUrl);
+      if (episodeIndex === -1) {
+        console.error("Episode not found for the given audio URL.");
+        return;
+      }
+
+      const selectedEpisode = episodesData[episodeIndex];
 
       const episodeItem = playButton.closest('.episode-item');
       const episodeHeader = episodeItem.querySelector('.episode-header');
       const episodeTitle = episodeHeader.querySelector('.episode-title').textContent;
 
-      playEpisode(episodeIndex, episodeTitle);
-
+      playEpisode(selectedEpisode.link, episodeTitle, episodeIndex);
     });
   }
 
-  if(copyButton) {
+  if (copyButton) {
     copyButton.addEventListener('click', (event) => {
       event.stopPropagation();
       navigator.clipboard.writeText(audioUrl).then(() => {
@@ -498,11 +500,32 @@ function addDescriptionButtonListeners(description) {
   }
 }
 
+function getEpisodeIndexByUrl(audioUrl) {
+  console.log("getEpisodeIndexByUrl er kaldet med", audioUrl);
+  let index =  episodesData.findIndex(episode => episode.link === audioUrl);
+  console.log("INDEX:", index);
+  return index;
+}
+
 const audioPlayer = new Plyr('#audio', {
   controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
 });
 
-function playEpisode(audioUrl, episodeTitle) { 
+function playEpisode(audioUrl, episodeTitle, currentIndex) {
+  console.log("Playing", episodeTitle, "(" + audioUrl + ")");
+  
+  // Klargør 'currentlyPlaying' ved at fjerne subclass fra alt andet
+  const allEpisodes = document.querySelectorAll('.episode');
+  allEpisodes.forEach(episode => {
+    episode.classList.remove('playing');
+  }); 
+  
+  //Tilfør subclass .playing til igangspillende afsnit
+  const currentEpisode = allEpisodes[currentIndex];
+  if (currentEpisode) {
+    currentEpisode.classList.add('playing');
+  }
+
   audioPlayer.source = {
     type: 'audio',
     sources: [{
@@ -514,7 +537,7 @@ function playEpisode(audioUrl, episodeTitle) {
   document.querySelector('.audio-player').style.display = 'block';
   audioPlayer.play();
 
-  if('mediaSession' in navigator) {
+  if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
       title: episodeTitle,
       artist: currentPodcast.text,
@@ -526,8 +549,22 @@ function playEpisode(audioUrl, episodeTitle) {
       }]
     });
   }
+
+  audioPlayer.on('ended', () => {
+    playNextEpisode(currentIndex); 
+  });
 }
 
+function playNextEpisode(currentIndex) {
+  const nextIndex = currentIndex + 1;
+  if (nextIndex < episodesData.length) { 
+    const nextEpisode = episodesData[nextIndex];
+    playEpisode(nextEpisode.link, nextEpisode.title, nextIndex);
+  } else {
+    // Ikke flere afsnit i autoafspilningslisten
+  }
+}
+    
 async function renderEpisodes(episodes, searchTerm = '', page = 1) {
   const episodesContainer = document.getElementById('episodesContainer');
   if(page === 1) {
