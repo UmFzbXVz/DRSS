@@ -252,8 +252,13 @@ h2 {
   overflow-x: hidden;
 }
 
-#podcast-info h2 {
-  margin-bottom: -10px;
+#podcast-info-h2 {
+  font-size: 28px;
+  margin: 10px auto;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: #f5f5f5;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
 #podcast-info p {
@@ -269,16 +274,6 @@ h2 {
   -webkit-box-orient: vertical;
   white-space: normal;
   transition: max-height .2s ease-out,padding .2s ease-out;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-}
-
-#podcast-info h2 {
-  font-size: 28px;
-  margin-bottom: 20px;
-  margin-top: 7px;
-  font-weight: 700;
-  letter-spacing: 1.5px;
-  color: #f5f5f5;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
