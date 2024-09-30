@@ -508,8 +508,8 @@ h2 {
   backdrop-filter: blur(6px);
   border-radius: 12px;
   max-height: 95%;
-  width: 400px;
-  max-width: 80%;
+  width: 95%;
+  max-width: 450px;
   margin: 6rem auto;
   text-align: center;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
@@ -602,7 +602,7 @@ h2 {
   border-radius: 12px;
   padding-top: 10px;
   width: 100%;
-  max-width: 380px;
+  max-width: 420px;
   margin: 10px auto;
   text-align: center;
   box-shadow: 0 15px 30px #00000080;
