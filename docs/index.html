@@ -72,6 +72,7 @@
   <script>
 const resultsContainer = document.getElementById('results');
 const h2Container = document.querySelector('.container h2');
+const greenStyle = "color: green; font-weight: bold;";
 let currentPodcast = null;
 let drPodcastsData = [];
 let podimoPodcastsData = [];
@@ -79,54 +80,31 @@ let miscPodcastsData = [];
 let pir8dioPodcastsData = [];
 let politikenPodcastsData = [];
 let radio4PodcastsData = [];
-let lastTimeUpdate = 0;
-let totalEpisodes = 0;
-let itemsPerPage = 10;
 let episodesData = [];
-let podTitle = '';
-let podDesc = '';
-let isPlaying = false;
-let isChangingEpisode = false;
+let currentFilteredEpisodes = [];
+let lastTimeUpdate = 0;
 let currentIndex = 0;
+let currentPage = 1;
+let itemsPerPage = 10;
+let isPlaying = false;
 let isLoading = false;
-let startY = 0; 
-
+    
 async function loadPodcast(podcast) {
   try {
-    const rssUrl = podcast.rssLink;
+    const { rssLink, text = "(ingen titel)", description = "(ingen beskrivelse)" } = podcast;
     currentPodcast = podcast;
-    if(!rssUrl) throw new Error("Ugyldig RSS");
-    const response = await fetch(rssUrl);
-    if(!response.ok) throw new Error(`Netværksfejl: ${response.statusText}`);
-    const rssText = await response.text();
-    const parser = new DOMParser();
-    const rssDoc = parser.parseFromString(rssText, "application/xml");
-    if(rssDoc.querySelector("parsererror")) throw new Error("Ugyldigt XML-format");
-    const channel = rssDoc.querySelector("channel");
-    if(!channel) throw new Error("Ugyldig RSS: Mangler hovedkanal i feed");
 
-    const title = podcast.text || "(ingen titel)";
-    podTitle = title;
-    const description = podcast.description || "(ingen beskrivelse)";
-    podDesc = description;
-    const episodes = channel.querySelectorAll("item");
+    if (!rssLink) throw new Error("Ugyldig RSS");
 
-    totalEpisodes = episodes.length;
-
-    episodesData = Array.from(episodes).map((episode) => {
-      return {
-        title: episode.querySelector("title")?.textContent || "(ingen titel)",
-        description: episode.querySelector("description")?.textContent || "(ingen beskrivelse)",
-        pubDate: new Date(episode.querySelector("pubDate")?.textContent),
-        link: episode.querySelector("enclosure")?.getAttribute("url"),
-      };
-    });
-
-    document.getElementById("podcast-info").innerHTML = `<span class="close">&#10006;</span><div id='podcast-info-h2'>${title}</div><p></p>`;
+    episodesData = await fetchAndGenerateEpisodesData(rssLink);
     
+    document.getElementById("podcast-info").innerHTML = 
+      `<span class="close">&#10006;</span><div id='podcast-info-h2'>${text}</div><p></p>`;
+
     document.querySelector('#playerModal .close').onclick = () => {
       document.getElementById('playerModal').style.display = 'none';
     };
+
     displayEpisodes();
 
   } catch (error) {
@@ -134,6 +112,32 @@ async function loadPodcast(podcast) {
     console.error("Error loading podcast data:", error);
   } finally {
     document.getElementById("spinnerOverlay").style.display = "none";
+  }
+}
+
+async function fetchAndGenerateEpisodesData(rssLink) {
+  try {
+    const response = await fetch(rssLink);
+    if (!response.ok) throw new Error(`Netværksfejl: ${response.statusText}`);
+
+    const rssText = await response.text();
+    const rssDoc = new DOMParser().parseFromString(rssText, "application/xml");
+
+    if (rssDoc.querySelector("parsererror")) throw new Error("Ugyldigt XML-format");
+
+    const channel = rssDoc.querySelector("channel");
+    if (!channel) throw new Error("Ugyldig RSS: Mangler hovedkanal i feed");
+
+    const episodes = channel.querySelectorAll("item");
+    return Array.from(episodes).map(episode => ({
+      title: episode.querySelector("title")?.textContent || "(ingen titel)",
+      description: episode.querySelector("description")?.textContent.replace(/\n/g, '<br>') || "(ingen beskrivelse)",
+      pubDate: new Date(episode.querySelector("pubDate")?.textContent),
+      link: episode.querySelector("enclosure")?.getAttribute("url"),
+    }));
+  } catch (error) {
+    console.error(`Error fetching and parsing RSS feed: ${error.message}`);
+    throw error;
   }
 }
 
@@ -195,6 +199,12 @@ function displayEpisodes() {
     loadMoreEpisodes();
 }
 
+function resetExpanded() {
+  const ec = document.querySelectorAll('.expanded');
+  ec.forEach(c => {
+    c.classList.remove('expanded');
+  });   
+}    
     
 document.addEventListener('DOMContentLoaded', () => {
   fetchDataAndPreloadIcon();
@@ -203,23 +213,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const closeModalButton = document.getElementById('closeModal');
   const playerModal = document.getElementById('playerModal');
   const episodeListModal = document.getElementById('episodeListModal');
-  
-  document.addEventListener('touchstart', (event) => {
-    startY = event.touches[0].clientY;
-  });
-  document.addEventListener('touchmove', (event) => {
-    let currentY = event.touches[0].clientY;
-    if (window.scrollY === 0 && currentY > startY) {
-      if (podcastModal || playerModal || episodeListModal) {
-        const isAnyModalVisible = podcastModal.style.display === 'block' ||
-                                  playerModal.style.display === 'block' ||
-                                  episodeListModal.style.display === 'block';
-        if (isAnyModalVisible) {
-          event.preventDefault();
-        }
-      }
-    }
-  });
   
   podcastModal.addEventListener('click', function(event) {
     if(event.target === modalDescription) {
@@ -230,10 +223,12 @@ document.addEventListener('DOMContentLoaded', () => {
   document.body.addEventListener('click', (event) => {
     if (event.target === podcastModal || event.target === playerModal || event.target === episodeListModal) {
       event.target.style.display = 'none';
+      resetExpanded();
     }
 
     if (event.target === closeModalButton) {
       podcastModal.style.display = 'none';
+      resetExpanded();
     }
 
     if (event.target.closest('.episode')) {
@@ -241,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!event.target.classList.contains('episode-description')) {
         const episodeUrl = episodeElement.getAttribute('data-url');
         const episodeTitle = episodeElement.getAttribute('data-title');
-        playEpisode(episodeUrl, episodeTitle, getEpisodeIndexByUrl(episodeUrl));
+        playEpisode(currentPodcast, episodeUrl, episodeTitle, getEpisodeIndexByUrl(episodeUrl));
       }
     }
 
@@ -258,31 +253,28 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  document.getElementById('episodeSearchInput').addEventListener('input', function () {
-    const searchTerm = this.value.trim();
-    const filteredEpisodes = currentEpisodes.filter(episode => {
-      const titleMatch = episode.title.toLowerCase().includes(searchTerm.toLowerCase());
-      const descriptionMatch = episode.description.toLowerCase().includes(searchTerm.toLowerCase());
-      const dateMatch = episode.date.toLowerCase().includes(searchTerm.toLowerCase());
-
-      return titleMatch || descriptionMatch || dateMatch;
-    });
-
-    renderEpisodes(filteredEpisodes, searchTerm);
-  });
+document.getElementById('episodeSearchInput').addEventListener('input', function () {
+  const searchTerm = this.value.trim().toLowerCase();
+  const filteredEpisodes = currentEpisodes.filter(({ title, description, date }) => 
+    [title, description, date].some(field => field.toLowerCase().includes(searchTerm))
+  );
+  renderEpisodes(filteredEpisodes, searchTerm);
+});
 });
 
 
 async function fetchDataAndPreloadIcon() {
   try {
-    [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData, radio4PodcastsData] = await Promise.all([
-      fetchDRPodcastsData(),
-      fetchPodimoPodcastsData(),
-      fetchMiscPodcastsData(),
-      fetchPir8dioPodcastsData(),
-      fetchPolitikenPodcastsData(),
-      fetchradio4PodcastsData(),
-    ]);
+    const urls = [
+      'https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json',
+      'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json',
+      'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json',
+      'https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/oversigtAfsnit.json',
+      'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json',
+      'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/radio4/r4dio.json'
+    ];
+
+    [drPodcastsData, podimoPodcastsData, miscPodcastsData, pir8dioPodcastsData, politikenPodcastsData, radio4PodcastsData] = await Promise.all(urls.map(fetchData));
   } catch (error) {
     console.error('Error fetching data:', error);
   }
@@ -291,36 +283,12 @@ async function fetchDataAndPreloadIcon() {
 async function fetchData(url) {
   try {
     const response = await fetch(url);
-    if(!response.ok) throw new Error(`Error fetching data from ${url}`);
+    if (!response.ok) throw new Error(`Error fetching data from ${url}`);
     return await response.json();
   } catch (error) {
     console.error(`Error fetching data from ${url}:`, error);
     return null;
   }
-}
-
-async function fetchDRPodcastsData() {
-  return fetchData('https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/docs/drlyd.json');
-}
-
-async function fetchPodimoPodcastsData() {
-  return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/docs/podimo.json');
-}
-
-async function fetchMiscPodcastsData() {
-  return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/misc/data.json');
-}
-
-async function fetchPir8dioPodcastsData() {
-  return fetchData('https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/docs/oversigtAfsnit.json');
-}
-
-async function fetchPolitikenPodcastsData() {
-  return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/docs/oversigt.json');
-}
-
-async function fetchradio4PodcastsData() {
-  return fetchData('https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/radio4/r4dio.json');
 }
 
 function clearSearch() {
@@ -359,6 +327,7 @@ async function openEpisodeListModal(podcast) {
 
   try {
     const episodeModal = document.getElementById('episodeListModal');
+    episodesData = await fetchAndGenerateEpisodesData(podcast.rssLink);
     currentPodcast = podcast;
     let esi = document.getElementById('episodeSearchInput');
     esi.value = '';
@@ -411,10 +380,6 @@ function parseRSSFeed(xmlText) {
   }
   return episodes;
 }
-
-let currentPage = 1;
-const episodesPerPage = 10;
-let currentFilteredEpisodes = [];
 
 const observer = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
@@ -499,7 +464,7 @@ function addDescriptionButtonListeners(description) {
 
       const episodeIndex = getEpisodeIndexByUrl(audioUrl);
       if (episodeIndex === -1) {
-        console.error("Episode not found for the given audio URL.");
+        console.error("Episode not found for the given audio URL. (" + audioUrl + ")");
         return;
       }
 
@@ -509,7 +474,7 @@ function addDescriptionButtonListeners(description) {
       const episodeHeader = episodeItem.querySelector('.episode-header');
       const episodeTitle = episodeHeader.querySelector('.episode-title').textContent;
 
-      playEpisode(selectedEpisode.link, episodeTitle, episodeIndex);
+      playEpisode(currentPodcast, selectedEpisode.link, episodeTitle, episodeIndex);
     });
   }
 
@@ -517,7 +482,7 @@ function addDescriptionButtonListeners(description) {
     copyButton.addEventListener('click', (event) => {
       event.stopPropagation();
       navigator.clipboard.writeText(audioUrl).then(() => {
-        showToast(`Link kopieret!`);
+        showToast(`${audioUrl}<br><br><span style="${greenStyle}">Link kopieret!</span>`);
       });
     });
   }
@@ -532,16 +497,14 @@ const audioPlayer = new Plyr('#audio', {
   controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
 });
 
-function playEpisode(audioUrl, episodeTitle, currentIndex) {
+function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
   console.log("Afspiller", episodeTitle, "(" + audioUrl + ")");
   
-  // Klargør 'currentlyPlaying' ved at fjerne subclass fra alt andet
   const allEpisodes = document.querySelectorAll('.episode');
   allEpisodes.forEach(episode => {
     episode.classList.remove('playing');
-  }); 
-  
-  //Tilfør subclass .playing til igangspillende afsnit
+  });
+
   const currentEpisode = allEpisodes[currentIndex];
   if (currentEpisode) {
     currentEpisode.classList.add('playing');
@@ -552,19 +515,19 @@ function playEpisode(audioUrl, episodeTitle, currentIndex) {
     sources: [{
       src: audioUrl,
       type: 'audio/mp3',
-    }, ],
+    }],
   };
 
   document.querySelector('.audio-player').style.display = 'block';
   audioPlayer.play();
-
+  
   if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
       title: episodeTitle,
-      artist: currentPodcast.text,
-      album: currentPodcast.provider,
+      artist: podcast.text,
+      album: podcast.provider,
       artwork: [{
-        src: currentPodcast.image,
+        src: podcast.image,
         sizes: '512x512',
         type: 'image/png',
       }]
@@ -572,19 +535,20 @@ function playEpisode(audioUrl, episodeTitle, currentIndex) {
   }
 
   audioPlayer.on('ended', () => {
-    playNextEpisode(currentIndex); 
+    playNextEpisode(podcast, currentIndex);
   });
 }
 
-function playNextEpisode(currentIndex) {
+function playNextEpisode(podcast, currentIndex) {
   const nextIndex = currentIndex + 1;
-  if (nextIndex < episodesData.length) { 
+  if (nextIndex < episodesData.length) {
     const nextEpisode = episodesData[nextIndex];
-    playEpisode(nextEpisode.link, nextEpisode.title, nextIndex);
+    playEpisode(podcast, nextEpisode.link, nextEpisode.title, nextIndex);
   } else {
     // Ikke flere afsnit i autoafspilningslisten
   }
 }
+
     
 async function renderEpisodes(episodes, searchTerm = '', page = 1) {
   const episodesContainer = document.getElementById('episodesContainer');
@@ -622,8 +586,8 @@ function filterEpisodes(episodes, searchTerm) {
 }
 
 function paginateEpisodes(episodes, page) {
-  const start = (page - 1) * episodesPerPage;
-  const end = start + episodesPerPage;
+  const start = (page - 1) * itemsPerPage;
+  const end = start + itemsPerPage;
   return episodes.slice(start, end);
 }
 
@@ -715,7 +679,7 @@ function formatDescription(description) {
 
 function copyRSSLink(rssLink) {
   navigator.clipboard.writeText(rssLink).then(() => {
-    showToast('RSS-link kopieret');
+    showToast(`${rssLink}<br><br><span style="${greenStyle}">Link kopieret!</span>`);
     document.getElementById('podcastModal').style.display = 'none';
   }).catch(err => {
     console.error('Failed to copy RSS link:', err);
@@ -754,61 +718,61 @@ async function filterPodcasts(searchText) {
     return;
   }
 
-  const results = [];
-  const allData = [
-    ...drPodcastsData.map(podcast => ({
-      text: podcast.name,
-      provider: 'DR',
-      description: podcast.description,
-      url: podcast.program_url,
-      image: podcast.image,
-      rssLink: 'https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/2.0/' + podcast.program_url.split('/').pop() + '.rss'
-    })),
-    ...podimoPodcastsData.map(podcast => ({
-      text: `${podcast.title}`,
-      provider: 'Podimo',
-      description: podcast.description,
-      url: `https://podimo.com/dk/shows/${podcast.id}`,
-      image: podcast.coverImageUrl,
-      rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(podcast.title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
-    })),
-    ...Object.values(miscPodcastsData).map(podcast => ({
-      text: podcast.alt_text,
-      provider: 'Radio24syv',
-      description: podcast.description,
-      url: podcast.url,
-      image: podcast.image_url,
-      rssLink: getFormattedRSSUrl(podcast.alt_text)
-    })),
-    ...radio4PodcastsData.map(podcast => ({
-      text: podcast.title,
-      provider: 'Radio IIII',
-      description: podcast.content,
-      url: podcast.program_url,
-      image: podcast.image_url,
-      rssLink: podcast.program_url
-    })),
-    ...pir8dioPodcastsData.map(podcast => ({
-      text: podcast.title,
-      provider: 'r8Dio',
-      description: podcast.content,
-      url: podcast.program_url,
-      image: podcast.image,
-      rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${podcast.slug}.rss`
-    })),
-    ...politikenPodcastsData.map(podcast => ({
-      text: podcast.title,
-      provider: 'Politiken',
-      description: podcast.description,
-      url: podcast.program_url,
-      image: podcast.image,
-      rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/${encodeURIComponent(podcast.id)}.rss`
-    }))
-  ];
+const results = [];
+const allData = [
+  ...drPodcastsData.map(({ name, description, program_url, image }) => ({
+    text: name,
+    provider: 'DR',
+    description,
+    url: program_url,
+    image,
+    rssLink: `https://raw.githubusercontent.com/UmFzbXVz/DRSS/main/2.0/${program_url.split('/').pop()}.rss`
+  })),
+  ...podimoPodcastsData.map(({ title, description, id, coverImageUrl }) => ({
+    text: title,
+    provider: 'Podimo',
+    description,
+    url: `https://podimo.com/dk/shows/${id}`,
+    image: coverImageUrl,
+    rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/${encodeURIComponent(title.replace(/[<>:"/\\|?*]/g, '_'))}.rss`
+  })),
+  ...Object.values(miscPodcastsData).map(({ alt_text, description, url, image_url }) => ({
+    text: alt_text,
+    provider: 'Radio24syv',
+    description,
+    url,
+    image: image_url,
+    rssLink: getFormattedRSSUrl(alt_text)
+  })),
+  ...radio4PodcastsData.map(({ title, content, program_url, image_url }) => ({
+    text: title,
+    provider: 'Radio IIII',
+    description: content,
+    url: program_url,
+    image: image_url,
+    rssLink: program_url
+  })),
+  ...pir8dioPodcastsData.map(({ title, content, program_url, image, slug }) => ({
+    text: title,
+    provider: 'r8Dio',
+    description: content,
+    url: program_url,
+    image,
+    rssLink: `https://raw.githubusercontent.com/UmFzbXVz/pir8dio/main/${slug}.rss`
+  })),
+  ...politikenPodcastsData.map(({ title, description, program_url, image, id }) => ({
+    text: title,
+    provider: 'Politiken',
+    description,
+    url: program_url,
+    image,
+    rssLink: `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/${encodeURIComponent(id)}.rss`
+  }))
+];
 
-  results.push(...allData.filter(podcast => podcast.text.toLowerCase().includes(searchText.toLowerCase())));
+results.push(...allData.filter(podcast => podcast.text.toLowerCase().includes(searchText.toLowerCase())));
 
-  displayResults(results);
+displayResults(results);
 }
 
 const MAX_CACHE_ITEMS = 15;
@@ -928,13 +892,8 @@ const sortByTitle = document.getElementById('sortByTitle');
 const icon = sortByTitle.querySelector('i');
 
 sortByTitle.addEventListener('click', () => {
-  if(icon.classList.contains('fa-sort-alpha-down')) {
-    icon.classList.remove('fa-sort-alpha-down');
-    icon.classList.add('fa-sort-alpha-up');
-  } else {
-    icon.classList.remove('fa-sort-alpha-up');
-    icon.classList.add('fa-sort-alpha-down');
-  }
+  icon.classList.toggle('fa-sort-alpha-down');
+  icon.classList.toggle('fa-sort-alpha-up');
 });
   </script>
   </body>
