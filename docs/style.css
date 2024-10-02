@@ -43,7 +43,6 @@ input[type="text"]:focus {
 #episodeSearchInput {
   max-width: 60%;
   margin: 0 auto;
-  margin-bottom: 0.5em;
   padding: 10px 15px;
   font-size: 0.9em;
   background: rgba(0, 0, 0, 0.1);
@@ -226,11 +225,12 @@ h2 {
 #podcast-info {
   position: relative;
   background: rgba(36, 36, 36, 0.2);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
   border: 1px solid rgba(40,40,40,0.6);
   border-radius: 12px;
-  max-height: 100%;
-  width: 400px;
-  max-width: 90%;
+  max-height: 95%;
+  max-width: 420px;
+  width: 95%;
   text-align: center;
   animation: scaleIn 0.2s ease-in-out forwards;
   padding: 5px;
@@ -240,12 +240,15 @@ h2 {
 }
 
 #podcast-info-h2 {
-  font-size: 28px;
+  max-width: 80%;
+  display: block;
   margin: 10px auto;
-  margin-bottom: -10px;
+  margin-bottom: 15px;
+  color: #fff;
+  font-size: 1.5rem;
   font-weight: 700;
   letter-spacing: 1.5px;
-  color: #f5f5f5;
+  text-align: center;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
@@ -266,20 +269,17 @@ h2 {
 }
 
 .episode {
-  margin: 10px 0;
-  cursor: pointer;
-  position: relative;
-  color: #f5f5f5;
   background: rgba(36, 36, 36, 0.2);
   backdrop-filter: blur(6px);
-  border-radius: 12px;
+  border-radius: 5px;
+  padding: 10px 5px;
+  margin: 0 5px 5px;
+  max-height: 80%;
   text-align: center;
-  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
   position: relative;
-  animation: scaleIn 0.2s ease-in-out forwards;
-  border: 1px solid rgba(40, 40, 40, 0.6);
+  animation: scaleIn .3s ease-in-out forwards;
+  border: 1px solid rgba(40,40,40,0.3);
   overflow: hidden;
-  padding: 5px;
 }
 
 .episode-description {
@@ -320,8 +320,8 @@ h2 {
   opacity: 80%;
 }
 
-.episode.playing {
-  background: rgba(0, 0, 0, 0.8);
+.episode-item.playing, .episode.playing {
+  background: rgba(0, 0, 0, 0.5);
 }
 
 @keyframes spin {
@@ -505,6 +505,7 @@ h2 {
 
 .modal-content {
   background: rgba(36, 36, 36, 0.2);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
   backdrop-filter: blur(6px);
   border-radius: 12px;
   max-height: 95%;
@@ -512,7 +513,6 @@ h2 {
   max-width: 420px;
   margin: 6rem auto;
   text-align: center;
-  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
   position: relative;
   animation: scaleIn 0.2s ease-in-out forwards;
   border: 1px solid rgba(40, 40, 40, 0.6);
@@ -591,13 +591,12 @@ h2 {
   z-index: 2;
   left: 0;
   top: 0;
-  background-color: #000000b3;
   backdrop-filter: blur(6px);
   animation: fadeIn .2s ease-in;
 }
 
 #episodeListModal .modal-content {
-  background: #24242433;
+  opacity: 0.2;
   backdrop-filter: blur(6px);
   border-radius: 12px;
   padding-top: 10px;
@@ -627,7 +626,6 @@ h2 {
 }
 
 #episodesContainer .episode-list-item {
-  background-color: #ffffff1a;
   margin-bottom: 5px;
   padding-bottom: 5px;
   border-radius: 8px;
@@ -644,8 +642,8 @@ h2 {
   scrollbar-width: none;
 }
 
-#episodesContainer .episode-list-item:hover {
-  background-color: #fff3;
+.episode-list-item:hover {
+  background: rgba(36, 36, 36, 0.2);
 }
 
 strong {
@@ -665,24 +663,22 @@ strong {
 
 #sortByDate,#sortByTitle {
   font-size: 1.5em;
-  color: #fff;
+  font-weight: thin;
   cursor: pointer;
-  color: #fff6;
-  box-shadow: 0 4px 6px #0000001a;
+  opacity: 0.6;
   position: absolute;
-  top: 80px;
+  top: 4.6rem;
 }
 
 #sortByTitle {
-  left: 5%;
+  left: 3%;
 }
 
 #sortByDate {
-  right: 5%;
+  right: 3%;
 }
 
 .episode-item {
-  background: rgba(36, 36, 36, 0.2);
   backdrop-filter: blur(6px);
   border-radius: 5px;
   padding: 10px 5px;
@@ -828,4 +824,9 @@ strong {
     backdrop-filter: blur(6px);
     opacity: 0.5;
     position: relative;
+}
+
+#episodeListModal {
+  background: rgba(6, 6, 6, 0.4);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
 }
