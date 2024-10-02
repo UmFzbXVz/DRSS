@@ -55,7 +55,7 @@
             <i class="fa fa-sort-alpha-desc"></i>
           </span>
           <span id="sortByDate">
-            <i class="fa fa-calendar" aria-hidden="true"></i>
+            <i class="fa-regular fa-calendar-days" aria-hidden="true"></i>
           </span>
         </div>
         <div id="episodesContainer"></div>
@@ -74,6 +74,7 @@ const resultsContainer = document.getElementById('results');
 const h2Container = document.querySelector('.container h2');
 const greenStyle = "color: green; font-weight: bold;";
 let currentPodcast = null;
+let currentEpisode = null;
 let drPodcastsData = [];
 let podimoPodcastsData = [];
 let miscPodcastsData = [];
@@ -496,16 +497,18 @@ function getEpisodeIndexByUrl(audioUrl) {
 const audioPlayer = new Plyr('#audio', {
   controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
 });
-
+    
 function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
   console.log("Afspiller", episodeTitle, "(" + audioUrl + ")");
   
-  const allEpisodes = document.querySelectorAll('.episode');
+  const allEpisodes = document.querySelectorAll('.episode, .episode-item');
+  console.log("allEpisodes:", allEpisodes);
   allEpisodes.forEach(episode => {
     episode.classList.remove('playing');
   });
 
-  const currentEpisode = allEpisodes[currentIndex];
+  currentEpisode = allEpisodes[currentIndex];
+  console.log(currentEpisode);
   if (currentEpisode) {
     currentEpisode.classList.add('playing');
   }
