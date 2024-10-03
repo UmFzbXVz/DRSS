@@ -215,7 +215,7 @@ h2 {
   left: 0;
   top: 0;
   backdrop-filter: blur(6px);
-  animation: fadeIn .2s ease-in;
+  animation: fadeIn .3s ease-in;
 }
 
 #podcast-info::-webkit-scrollbar {
@@ -483,7 +483,7 @@ h2 {
   height: 100%;
   background-color: #000000b3;
   backdrop-filter: blur(6px);
-  animation: fadeIn .2s ease-in;
+  animation: fadeIn .3s ease-in;
 }
 
 .modal-content {
@@ -575,7 +575,7 @@ h2 {
   left: 0;
   top: 0;
   backdrop-filter: blur(6px);
-  animation: fadeIn .2s ease-in;
+  animation: fadeIn .3s ease-in;
 }
 
 #episodeListModal .modal-content {
@@ -738,14 +738,14 @@ strong {
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 9999;
+  z-index: 3;
   transition: background-color .3s ease;
 }
 
 .spinner {
   font-size: 3em;
   color: #ddd;
-  z-index: 10000;
+  z-index: 4;
 }
 
 #modalPodcastTitle {
