@@ -559,8 +559,6 @@ function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
         type: 'image/png',
       }]
     });
-
-    navigator.mediaSession.playbackState = "playing";
   }
 
   audioPlayer.on('ended', () => {
