@@ -128,7 +128,7 @@ async function fetchAndGenerateEpisodesData(rssLink) {
     if (rssDoc.querySelector("parsererror")) throw new Error("Ugyldigt XML-format");
 
     const channel = rssDoc.querySelector("channel");
-    if (!channel) throw new Error("Ugyldig RSS: Mangler hovedkanal i feed");
+    if (!channel) throw new Error("Unyielding RSS: Mangler hovedkanal i feed");
 
     const episodes = channel.querySelectorAll("item");
     return Array.from(episodes).map(episode => ({
@@ -170,7 +170,7 @@ function displayEpisodes() {
     episodesToShow.forEach((episode) => {
       const playingClass = episode.link === currentlyPlaying ? 'playing' : '';
       episodesHTML += `
-                <div class="episode ${playingClass}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
+                <div class="episode ${playingClass}" pubdate-url="${episode.pubDate}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
                     <div class="loading-spinner" style="display: none;"></div>
                     <h4 class="player-episode-title">${episode.title}</h4>
                     <p class="pub-date">${new Date(episode.pubDate).toLocaleDateString()}</p>
@@ -188,7 +188,7 @@ function displayEpisodes() {
 
     isLoading = false;
   }
-  
+
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
@@ -492,6 +492,17 @@ function addDescriptionButtonListeners(description) {
   }
 }
 
+function formatDateToDDMMYYYY(dateString) {
+  const parsedDate = parseDate(dateString);
+  if (parsedDate.getTime() === 0) return "Ugyldig dato";
+
+  const day = String(parsedDate.getDate()).padStart(2, '0');
+  const month = String(parsedDate.getMonth() + 1).padStart(2, '0');
+  const year = parsedDate.getFullYear();
+
+  return `${day}/${month}/${year}`;
+}
+
 function getEpisodeIndexByUrl(audioUrl) {
   return episodesData.findIndex(episode => episode.link === audioUrl);
 }
@@ -502,19 +513,30 @@ const audioPlayer = new Plyr('#audio', {
 
 function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
   console.log("Afspiller", episodeTitle, "(" + audioUrl + ")");
+  let date;
 
   const allEpisodes = document.querySelectorAll('.episode, .episode-item');
-  console.log("allEpisodes:", allEpisodes);
   allEpisodes.forEach(episode => {
     episode.classList.remove('playing');
   });
 
   currentEpisode = allEpisodes[currentIndex];
-  console.log(currentEpisode);
+
   if (currentEpisode) {
     currentEpisode.classList.add('playing');
-  }
 
+    let url = currentEpisode.getAttribute('data-enclosure-url') || currentEpisode.getAttribute('data-url');
+    let pubdate = currentEpisode.getAttribute('pubdate-url');
+    let episodeDate = currentEpisode.querySelector('.episode-date')?.textContent;
+    let date = episodeDate?.trim() ? episodeDate : pubdate;
+
+    date = formatDateToDDMMYYYY(date);
+
+    if (url) {
+      localStorage.setItem('currentlyPlaying', url);
+    }
+  }
+  
   audioPlayer.source = {
     type: 'audio',
     sources: [{
@@ -530,13 +552,15 @@ function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
     navigator.mediaSession.metadata = new MediaMetadata({
       title: episodeTitle,
       artist: podcast.text,
-      album: podcast.provider,
+      album: podcast.provider + " - " + date,
       artwork: [{
         src: podcast.image,
-        sizes: '512x512',
+        sizes: '384x384',
         type: 'image/png',
       }]
     });
+
+    navigator.mediaSession.playbackState = "playing";
   }
 
   audioPlayer.on('ended', () => {
