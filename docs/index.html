@@ -61,11 +61,6 @@
         <div id="episodesContainer"></div>
       </div>
     </div>
-    <div id="playerModal" class="modal">
-      <div id="podcast-info">
-         <span class="close">&#10006;</span>
-      </div>
-    </div>
     <div id="audioPlayer" class="audio-player">
       <audio id="audio" controls crossorigin></audio>
     </div>
@@ -86,36 +81,6 @@ let podcastCache = {};
 let currentPage = 1;
 let itemsPerPage = 10;
 
-async function loadPodcast(podcast) {
-  try {
-    const { rssLink, text = "(ingen titel)"} = podcast;
-    currentPodcast = podcast;
-
-    if (!rssLink) throw new Error("Ugyldig RSS");
-
-    if (podcastCache[rssLink]) {
-      episodesData = podcastCache[rssLink];
-    } else {
-      episodesData = await fetchAndGenerateEpisodesData(rssLink);
-      podcastCache[rssLink] = episodesData;
-    }
-
-    document.getElementById("podcast-info").innerHTML =
-      `<span class="close">&#10006;</span><div id='podcast-info-h2'>${text}</div><p></p>`;
-
-    document.querySelector('#playerModal .close').onclick = () => {
-      document.getElementById('playerModal').style.display = 'none';
-    };
-
-    displayEpisodes();
-
-  } catch (error) {
-    document.getElementById("podcast-info").innerHTML = `<p>Indlæsningsfejl: ${error.message}</p>`;
-    console.error("Error loading podcast data:", error);
-  } finally {
-    document.getElementById("spinnerOverlay").style.display = "none";
-  }
-}
 
 async function fetchAndGenerateEpisodesData(rssLink) {
   try {
@@ -142,65 +107,6 @@ async function fetchAndGenerateEpisodesData(rssLink) {
     throw error;
   }
 }
-
-function displayEpisodes() {
-  const finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
-  const finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
-
-  episodesData.sort((a, b) => new Date(a.pubDate) - new Date(b.pubDate));
-
-  let filteredEpisodesData = episodesData;
-  if (filterEpisodes) {
-    filteredEpisodesData = episodesData.filter(episode => !finishedEpisodes.includes(episode.link));
-  }
-
-  const currentlyPlaying = localStorage.getItem('currentlyPlaying');
-  let currentIndex = 0;
-  const itemsPerPage = 10;
-  let isLoading = false;
-
-  function loadMoreEpisodes() {
-    if (isLoading || currentIndex >= filteredEpisodesData.length) return;
-
-    isLoading = true;
-    let episodesToShow = filteredEpisodesData.slice(currentIndex, currentIndex + itemsPerPage);
-    currentIndex += itemsPerPage;
-
-    let episodesHTML = '';
-    episodesToShow.forEach((episode) => {
-      const playingClass = episode.link === currentlyPlaying ? 'playing' : '';
-      episodesHTML += `
-                <div class="episode ${playingClass}" pubdate-url="${episode.pubDate}" data-url="${episode.link}" data-title="${episode.title.replace(/'/g, "\\'")}">
-                    <div class="loading-spinner" style="display: none;"></div>
-                    <h4 class="player-episode-title">${episode.title}</h4>
-                    <p class="pub-date">${new Date(episode.pubDate).toLocaleDateString()}</p>
-                    <div class="episode-description">${episode.description.replace(/\n/g, '<br>')}</div>
-                </div>
-            `;
-    });
-
-    document.getElementById("podcast-info").insertAdjacentHTML('beforeend', episodesHTML);
-
-    const allEpisodeElements = document.querySelectorAll("#podcast-info .episode");
-    const lastEpisodeElement = allEpisodeElements[allEpisodeElements.length - 1];
-
-    observer.observe(lastEpisodeElement);
-
-    isLoading = false;
-  }
-
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        observer.unobserve(entry.target);
-        loadMoreEpisodes();
-      }
-    });
-  });
-
-  loadMoreEpisodes();
-}
-
 function resetExpanded() {
   const ec = document.querySelectorAll('.expanded');
   ec.forEach(c => {
@@ -309,11 +215,8 @@ function openModal(podcast) {
   document.getElementById('copyRSSButton').onclick = () => copyRSSLink(podcast.rssLink);
   document.getElementById('openInAppLink').href = `podcast://${podcast.rssLink}`;
 
-  document.getElementById('playOnSite').onclick = async () => {
-    modal.style.display = 'none';
-    await loadPodcast(podcast);
-    document.getElementById('playerModal').style.display = 'block';
-  };
+  document.getElementById('playOnSite').href = `https://umfzbxvz.github.io/DRSS/afspiller.html?rss=${encodeURIComponent(podcast.rssLink)}`;
+  document.getElementById('playOnSite').target = '_blank';
 
   document.getElementById('listEpisodes').onclick = async () => {
     modal.style.display = 'none';
@@ -344,7 +247,7 @@ async function openEpisodeListModal(podcast) {
       });
       esi.setAttribute('data-click-listener', 'true');
     }
-    const episodesContainer = document.getElementById('episodesContainer');
+    document.getElementById('episodesContainer');
     document.getElementById('modalPodcastTitle').textContent = podcast.text;
     const rssFeedUrl = podcast.rssLink;
     const xmlText = await fetchRSSFeed(rssFeedUrl);
@@ -398,12 +301,6 @@ const observer = new IntersectionObserver((entries) => {
   });
 });
 
-function resetObserver() {
-  const observedElements = document.querySelectorAll('[data-observed="true"]');
-  observedElements.forEach(el => observer.unobserve(el));
-  isObserving = false;
-}
-
 const highlightText = (text, term) => {
   if(!term) return text;
   const regex = new RegExp(`(${term})`, 'gi');
@@ -411,8 +308,7 @@ const highlightText = (text, term) => {
 };
 
 function createEpisodeElements(episodes, searchTerm) {
-  const episodesContainer = document.getElementById('episodesContainer');
-
+  document.getElementById('episodesContainer');
   return episodes.map((episode) => {
     const episodeItem = document.createElement('div');
     episodeItem.classList.add('episode-item');
@@ -530,13 +426,13 @@ function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
     let episodeDate = currentEpisode.querySelector('.episode-date')?.textContent;
     let date = episodeDate?.trim() ? episodeDate : pubdate;
 
-    date = formatDateToDDMMYYYY(date);
+    formatDateToDDMMYYYY(date);
 
     if (url) {
       localStorage.setItem('currentlyPlaying', url);
     }
   }
-  
+
   audioPlayer.source = {
     type: 'audio',
     sources: [{
@@ -551,11 +447,11 @@ function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
   if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
       title: episodeTitle,
-      artist: podcast.text,
-      album: podcast.provider + " - " + date,
+      artist: podcast.text + "-" + date,
+      album: podcast.provider,
       artwork: [{
         src: podcast.image,
-        sizes: '384x384',
+        sizes: '512x512',
         type: 'image/png',
       }]
     });
