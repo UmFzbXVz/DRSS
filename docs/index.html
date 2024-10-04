@@ -67,6 +67,7 @@
   <script>
 const resultsContainer = document.getElementById('results');
 const greenStyle = "color: green; font-weight: bold;";
+const MAX_CACHE_ITEMS = 15;
 let currentPodcast = null;
 let currentEpisode = null;
 let drPodcastsData = [];
@@ -443,11 +444,11 @@ function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
 
   document.querySelector('.audio-player').style.display = 'block';
   audioPlayer.play();
-
+  
   if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
       title: episodeTitle,
-      artist: podcast.text + "-" + date,
+      artist: podcast.text + " · " + currentEpisode.querySelector('.episode-date').textContent,
       album: podcast.provider,
       artwork: [{
         src: podcast.image,
@@ -697,8 +698,6 @@ async function filterPodcasts(searchText) {
 
   displayResults(results);
 }
-
-const MAX_CACHE_ITEMS = 15;
 
 function getLRUCache() {
   const cache = localStorage.getItem('imageCacheOrder');
