@@ -799,6 +799,20 @@ strong {
   border-radius: 15px;
 }
 
+#audio-player {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-height: max(10vh, 50px);
+  max-width: 400px;
+  z-index: 3;
+  backdrop-filter: blur(6px);
+  border-radius: 15px;
+}
+
 .plyr {
   border-radius: 15px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -810,4 +824,70 @@ strong {
 #episodeListModal {
   background: rgba(6, 6, 6, 0.4);
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
+}
+
+ .theme-toggle {
+     position: absolute;
+     right: 2.5rem;
+     bottom: 10px;
+     transform: translateY(-50%);
+     width: 40px;
+     height: 40px;
+     border-radius: 50%;
+     cursor: pointer;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 24px;
+}
+ .theme-toggle img {
+     width: 50%;
+     height: 50%;
+     object-fit: contain;
+}
+ .toggle-fully-listened {
+     position: absolute;
+     left: 2.5rem;
+     bottom: 10px;
+     transform: translateY(-50%);
+     width: 40px;
+     height: 40px;
+     border-radius: 50%;
+     cursor: pointer;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 24px;
+     background: transparent;
+     border: 0;
+     color: white;
+}
+ .toggle-fully-listened img {
+     width: 100%;
+     height: 100%;
+     object-fit: contain;
+}
+ .pagination-controls {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 20px;
+}
+ .pagination-button {
+     background-color: #333;
+     color: #f5f5f5;
+     border: none;
+     border-radius: 10px;
+     padding: 10px 20px;
+     margin: 0 20px;
+     cursor: pointer;
+     transition: background-color 0.3s, box-shadow 0.3s;
+}
+ .pagination-button:hover {
+     background-color: #444;
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+ .page-info {
+     color: #f5f5f5;
+     font-size: 16px;
 }
