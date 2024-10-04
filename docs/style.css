@@ -826,46 +826,29 @@ strong {
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.8);
 }
 
- .theme-toggle {
-     position: absolute;
-     right: 2.5rem;
-     bottom: 10px;
-     transform: translateY(-50%);
-     width: 40px;
-     height: 40px;
-     border-radius: 50%;
-     cursor: pointer;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     font-size: 24px;
+.theme-toggle,  .toggle-fully-listened {
+  position: absolute;
+  bottom: 10px;
+  transform: translateY(-50%);
+  font-weight: 100;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  background: transparent;
+  border: 0;
+  color: white;
+  opacity: 0.6;
 }
- .theme-toggle img {
-     width: 50%;
-     height: 50%;
-     object-fit: contain;
+ .theme-toggle {
+     right: 2.5rem;
 }
  .toggle-fully-listened {
-     position: absolute;
      left: 2.5rem;
-     bottom: 10px;
-     transform: translateY(-50%);
-     width: 40px;
-     height: 40px;
-     border-radius: 50%;
-     cursor: pointer;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     font-size: 24px;
-     background: transparent;
-     border: 0;
-     color: white;
-}
- .toggle-fully-listened img {
-     width: 100%;
-     height: 100%;
-     object-fit: contain;
 }
  .pagination-controls {
      display: flex;
@@ -880,6 +863,7 @@ strong {
      border-radius: 10px;
      padding: 10px 20px;
      margin: 0 20px;
+   opacity: 0.7;
      cursor: pointer;
      transition: background-color 0.3s, box-shadow 0.3s;
 }
