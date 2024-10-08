@@ -275,15 +275,7 @@
     isChangingEpisode = true;
 
     const audioPlayer = document.getElementById("audio-player");
-    try {
-      console.log("episodeTitle:", episodeTitle);
-      console.log("podProvider:", podTitle);
-      console.log('podArtwork:', podArtwork);
-      setMediaSessionMetadata(episodeTitle, podTitle, podArtwork);
-    }
-    catch (e) {
-      console.log(e);
-    }
+    setMediaSessionMetadata(episodeTitle, podTitle, podArtwork);
 
     if (audioPlayer.src) {
       savePlaybackProgress(audioPlayer.src, audioPlayer.currentTime);
