@@ -632,12 +632,16 @@ function showToast(message) {
 }
 
 async function filterPodcasts(searchText) {
-  if(searchText.length === 0) {
+  function normalizeText(text) {
+    return text.toLowerCase().replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim();
+  }
+
+  if (searchText.length === 0) {
     resultsContainer.innerHTML = '';
     return;
   }
 
-  if(searchText.length < 3) {
+  if (searchText.length < 3) {
     resultsContainer.innerHTML = '<p style="text-align: center;">Indtast minimum 3 bogstaver for at søge</p>';
     return;
   }
@@ -694,7 +698,11 @@ async function filterPodcasts(searchText) {
     }))
   ];
 
-  results.push(...allData.filter(podcast => podcast.text.toLowerCase().includes(searchText.toLowerCase())));
+  const normalizedSearchText = normalizeText(searchText);
+
+  results.push(...allData.filter(podcast => 
+    normalizeText(podcast.text).includes(normalizedSearchText)
+  ));
 
   displayResults(results);
 }
