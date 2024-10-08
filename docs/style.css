@@ -816,7 +816,9 @@ strong {
   max-height: max(8vh, 40px);
   max-width: 400px;
   backdrop-filter: blur(6px);
+  opacity: 0.7;
   border-radius: 15px;
+  background: none;
 }
 
 .plyr {
@@ -910,9 +912,9 @@ button:active, i:active {
 }
  body.light-theme .episode {
    color: black;
-   background: lightgrey;
+   background: rgba(196, 196, 196, 0.2);
    opacity: 0.8;
-   border: 1px solid rgba(240,240,240,0.4);
+   border: 1px solid rgba(200,200,200,0.4);
    transition: background-color 0.3s ease, color 0.3s ease;
 }
  body.light-theme .episode.playing {
