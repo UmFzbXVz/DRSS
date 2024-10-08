@@ -261,7 +261,7 @@ h2 {
 #podcast-info p {
   color: #e0e0e0;
   text-align: center;
-  line-height: 1.4;
+  line-height: 1.2;
   padding-left: 2%;
   padding-right: 2%;
   overflow: hidden;
@@ -901,7 +901,7 @@ button:active, i:active {
  body.light-theme #podcast-info {
    color: black;
    border: 1px solid rgba(240,240,240,0.4);
-   background: rgba(136, 136, 136, 0.2);
+   background: rgba(196, 196, 196, 0.2);
    transition: background-color 0.3s ease, color 0.3s ease;
 }
  body.light-theme h2 {
@@ -910,12 +910,13 @@ button:active, i:active {
 }
  body.light-theme .episode {
    color: black;
-   background: rgba(236, 236, 236, 0.2);
+   background: lightgrey;
+   opacity: 0.8;
    border: 1px solid rgba(240,240,240,0.4);
    transition: background-color 0.3s ease, color 0.3s ease;
 }
  body.light-theme .episode.playing {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.25);
    transition: background-color 0.3s ease, color 0.3s ease;
 }
 body.light-theme #podcast-info p {
