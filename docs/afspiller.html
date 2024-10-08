@@ -38,14 +38,16 @@
   const savedTheme = localStorage.getItem('theme') || 'light';
   const spinner = document.getElementById('loading-spinner');
   const eyeIcon = document.getElementById('eye-icon');
+  let currentGlobalEpisode = null;
   let lastTimeUpdate = 0;
   let currentPage = 1;
   let totalEpisodes = 0;
   const itemsPerPage = 10;
   let episodesData = [];
   let filterEpisodes = false;
-  let podTitle = '';
+  let podTitle = ''; 
   let podDesc = '';
+  let podArtwork = '';
   let isPlaying = false;
   let isChangingEpisode = false;
 
@@ -89,6 +91,9 @@
 
       podTitle = title;
       podDesc = description;
+      if (channel.querySelector("image").getAttribute('href')) {
+        podArtwork = channel.querySelector("image").getAttribute('href');
+      }
 
       const episodes = Array.from(channel.querySelectorAll("item"));
       totalEpisodes = episodes.length;
@@ -243,6 +248,20 @@
     displayEpisodes();
   }
 
+  function setMediaSessionMetadata(title, provider, artworkUrl) {
+      if ('mediaSession' in navigator) {
+          navigator.mediaSession.metadata = new MediaMetadata({
+              title: title || 'Unknown Title',
+              artist: provider || 'Unknown Podcast',
+              artwork: [{
+                  src: artworkUrl || 'default-artwork.jpg',
+                  sizes: '512x512',
+                  type: 'image/png'
+              }]
+          });
+      }
+  }
+
   function savePlaybackProgress(episodeUrl, currentTime) {
     localStorage.setItem(`playback-progress-${episodeUrl}`, currentTime);
   }
@@ -256,6 +275,15 @@
     isChangingEpisode = true;
 
     const audioPlayer = document.getElementById("audio-player");
+    try {
+      console.log("episodeTitle:", episodeTitle);
+      console.log("podProvider:", podTitle);
+      console.log('podArtwork:', podArtwork);
+      setMediaSessionMetadata(episodeTitle, podTitle, podArtwork);
+    }
+    catch (e) {
+      console.log(e);
+    }
 
     if (audioPlayer.src) {
       savePlaybackProgress(audioPlayer.src, audioPlayer.currentTime);
@@ -415,18 +443,6 @@ toggleButton.innerHTML = isFiltered
     const audioPlayer = document.getElementById("audio-player");
 
     if ('mediaSession' in navigator) {
-      function updateMediaSessionMetadata(episodeTitle, episodeDescription, artworkUrl) {
-        console.log("mediaSession API er sat til", episodeTitle, episodeDescription, artworkUrl);
-        navigator.mediaSession.metadata = new MediaMetadata({
-          title: episodeTitle || 'Unknown Title',
-          artist: podTitle || 'Unknown Podcast',
-          album: podDesc || 'Unknown Album',
-          artwork: [{
-            src: artworkUrl || 'default-artwork.jpg', sizes: '512x512', type: 'image/png'
-          }]
-        });
-      }
-
       navigator.mediaSession.setActionHandler('play', () => {
         audioPlayer.play();
       });
