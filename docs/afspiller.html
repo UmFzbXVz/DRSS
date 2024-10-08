@@ -75,6 +75,7 @@
     try {
       displayLoadingSpinner(true);
       const rssUrl = new URLSearchParams(window.location.search).get("rss");
+      //const rssUrl = 'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/B/bæltestedet.rss';
       if (!rssUrl) throw new Error("Ugyldig RSS");
 
       const response = await fetch(rssUrl);
@@ -270,7 +271,7 @@
     return localStorage.getItem(`playback-progress-${episodeUrl}`) || 0;
   }
 
-  function playEpisode(episodeUrl, episodeTitle) {
+function playEpisode(episodeUrl, episodeTitle) {
     if (isChangingEpisode) return;
     isChangingEpisode = true;
 
@@ -278,7 +279,7 @@
     setMediaSessionMetadata(episodeTitle, podTitle, podArtwork);
 
     if (audioPlayer.src) {
-      savePlaybackProgress(audioPlayer.src, audioPlayer.currentTime);
+        savePlaybackProgress(audioPlayer.src, audioPlayer.currentTime);
     }
 
     audioPlayer.removeEventListener('timeupdate', handleTimeUpdate);
@@ -293,39 +294,49 @@
     localStorage.setItem('currentlyPlaying', episodeUrl);
 
     audioPlayer.play().then(() => {
-      isPlaying = true;
-      document.title = episodeTitle;
+        isPlaying = true;
+        document.title = episodeTitle;
 
-      document.querySelectorAll('.episode').forEach(episode => episode.classList.remove('playing'));
-      document.querySelector(`.episode[data-url='${episodeUrl}']`).classList.add('playing');
+        document.querySelectorAll('.episode').forEach(episode => episode.classList.remove('playing'));
+        document.querySelector(`.episode[data-url='${episodeUrl}']`).classList.add('playing');
 
-      audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
-      audioPlayer.addEventListener('pause', handlePause);
-      audioPlayer.addEventListener('ended', handleEnded);
+        audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
+        audioPlayer.addEventListener('pause', handlePause);
+        audioPlayer.addEventListener('ended', handleEnded);
 
-      const spinner = document.querySelector(`.episode[data-url='${episodeUrl}'] .loading-spinner`);
-      spinner.style.display = "none";
+        const spinner = document.querySelector(`.episode[data-url='${episodeUrl}'] .loading-spinner`);
+        spinner.style.display = "none";
     }).catch(error => {
-      console.error("Error playing episode:", error);
+        console.error("Error playing episode:", error);
     }).finally(() => {
-      isChangingEpisode = false;
+        isChangingEpisode = false;
     });
-  }
+}
 
-  function handleTimeUpdate() {
+
+function handleTimeUpdate() {
     const audioPlayer = document.getElementById("audio-player");
     const currentTime = audioPlayer.currentTime;
 
     if (currentTime - lastTimeUpdate > 0.5) {
-      const episodeUrl = audioPlayer.src;
-      savePlaybackProgress(episodeUrl, currentTime);
-      lastTimeUpdate = currentTime;
+        const episodeUrl = audioPlayer.src;
+        savePlaybackProgress(episodeUrl, currentTime);
+        lastTimeUpdate = currentTime;
+
+        if ('mediaSession' in navigator) {
+            navigator.mediaSession.setPositionState({
+                duration: audioPlayer.duration,
+                playbackRate: audioPlayer.playbackRate,
+                position: currentTime
+            });
+        }
     }
 
     if (audioPlayer.duration - currentTime < 1) {
-      handleEnded();
+        handleEnded();
     }
-  }
+}
+
 
   function handlePause() {
     if (isChangingEpisode) return;
@@ -435,12 +446,15 @@ toggleButton.innerHTML = isFiltered
     const audioPlayer = document.getElementById("audio-player");
 
     if ('mediaSession' in navigator) {
-      navigator.mediaSession.setActionHandler('play', () => {
-        audioPlayer.play();
-      });
-      navigator.mediaSession.setActionHandler('pause', () => {
-        audioPlayer.pause();
-      });
+navigator.mediaSession.setActionHandler('play', () => {
+    audioPlayer.play();
+    isPlaying = true;
+});
+
+navigator.mediaSession.setActionHandler('pause', () => {
+    audioPlayer.pause();
+    isPlaying = false;
+});
 
       navigator.mediaSession.setActionHandler('seekbackward', (details) => {
         audioPlayer.currentTime = Math.max(audioPlayer.currentTime - (details.seekOffset || 10), 0);
