@@ -75,7 +75,6 @@
     try {
       displayLoadingSpinner(true);
       const rssUrl = new URLSearchParams(window.location.search).get("rss");
-      //const rssUrl = 'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/B/bæltestedet.rss';
       if (!rssUrl) throw new Error("Ugyldig RSS");
 
       const response = await fetch(rssUrl);
