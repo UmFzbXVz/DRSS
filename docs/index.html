@@ -68,6 +68,7 @@
 const resultsContainer = document.getElementById('results');
 const greenStyle = "color: green; font-weight: bold;";
 const MAX_CACHE_ITEMS = 15;
+const MAX_RESULTS = 12;
 let currentPodcast = null;
 let currentEpisode = null;
 let drPodcastsData = [];
@@ -704,7 +705,7 @@ async function filterPodcasts(searchText) {
     normalizeText(podcast.text).includes(normalizedSearchText)
   ));
 
-  displayResults(results);
+  displayResults(results.slice(0, MAX_RESULTS));
 }
 
 function getLRUCache() {
