@@ -412,7 +412,6 @@ const audioPlayer = new Plyr('#audio', {
 function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
   console.log("Afspiller", episodeTitle, "(" + audioUrl + ")");
   
-  // Clear previous playing episodes
   const allEpisodes = document.querySelectorAll('.episode, .episode-item');
   allEpisodes.forEach(episode => {
     episode.classList.remove('playing');
@@ -446,78 +445,82 @@ function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
   document.querySelector('.audio-player').style.display = 'block';
 
   audioPlayer.on('loadedmetadata', () => {
-    audioPlayer.currentTime = 0;
-    audioPlayer.play().then(() => {
-      if ('mediaSession' in navigator) {
-        navigator.mediaSession.metadata = new MediaMetadata({
-          title: episodeTitle,
-          artist: `${podcast.text} · ${currentEpisode.querySelector('.episode-date').textContent}`,
-          album: podcast.provider,
-          artwork: [{
-            src: podcast.image,
-            sizes: '512x512',
-            type: 'image/png',
-          }],
-        });
+  audioPlayer.currentTime = 0;
 
-        setMediaSessionPositionState(audioPlayer); 
+  audioPlayer.play().then(() => {
+    if ('mediaSession' in navigator) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: episodeTitle,
+        artist: `${podcast.text} · ${currentEpisode.querySelector('.episode-date').textContent}`,
+        album: podcast.provider,
+        artwork: [{
+          src: podcast.image,
+          sizes: '512x512',
+          type: 'image/png',
+        }],
+      });
 
-        navigator.mediaSession.setActionHandler('play', () => {
-          audioPlayer.play().then(() => {
-            setMediaSessionPositionState(audioPlayer);
-          });
-        });
+      setMediaSessionPositionState(audioPlayer);
 
-        navigator.mediaSession.setActionHandler('pause', () => {
-          audioPlayer.pause();
-          setMediaSessionPositionState(audioPlayer); 
-        });
-
-        navigator.mediaSession.setActionHandler('seekbackward', (details) => {
-          const seekOffset = details.seekOffset || 10;
-          audioPlayer.currentTime = Math.max(audioPlayer.currentTime - seekOffset, 0);
-          setMediaSessionPositionState(audioPlayer); 
-        });
-
-        navigator.mediaSession.setActionHandler('seekforward', (details) => {
-          const seekOffset = details.seekOffset || 10;
-          audioPlayer.currentTime = Math.min(audioPlayer.currentTime + seekOffset, audioPlayer.duration);
-          setMediaSessionPositionState(audioPlayer); 
-        });
-
-        navigator.mediaSession.setActionHandler('seekto', (details) => {
-          if (details.fastSeek && 'fastSeek' in audioPlayer) {
-            audioPlayer.fastSeek(details.seekTime);
-          } else {
-            audioPlayer.currentTime = details.seekTime;
-          }
+      navigator.mediaSession.setActionHandler('play', () => {
+        audioPlayer.play().catch(error => {
+          console.error('Afspilningsfejl:', error);
+        }).then(() => {
           setMediaSessionPositionState(audioPlayer);
         });
-      }
-    });
-  });
+      });
 
-  audioPlayer.on('timeupdate', () => {
-    if (!audioPlayer.paused) {
-      setMediaSessionPositionState(audioPlayer);
-    }
-  });
+      navigator.mediaSession.setActionHandler('pause', () => {
+        audioPlayer.pause();
+        setMediaSessionPositionState(audioPlayer);
+      });
 
-  audioPlayer.on('ended', () => {
-    playNextEpisode(podcast, currentIndex);
-  });
+      navigator.mediaSession.setActionHandler('seekbackward', (details) => {
+        const seekOffset = details.seekOffset || 10;
+        audioPlayer.currentTime = Math.max(audioPlayer.currentTime - seekOffset, 0);
+        setMediaSessionPositionState(audioPlayer);
+      });
 
-  function setMediaSessionPositionState(player) {
-    if ('setPositionState' in navigator.mediaSession) {
-      navigator.mediaSession.setPositionState({
-        duration: player.duration || 0,
-        playbackRate: player.playbackRate || 1,
-        position: player.currentTime || 0,
+      navigator.mediaSession.setActionHandler('seekforward', (details) => {
+        const seekOffset = details.seekOffset || 10;
+        audioPlayer.currentTime = Math.min(audioPlayer.currentTime + seekOffset, audioPlayer.duration);
+        setMediaSessionPositionState(audioPlayer);
+      });
+
+      navigator.mediaSession.setActionHandler('seekto', (details) => {
+        if (details.fastSeek && 'fastSeek' in audioPlayer) {
+          audioPlayer.fastSeek(details.seekTime);
+        } else {
+          audioPlayer.currentTime = details.seekTime;
+        }
+        setMediaSessionPositionState(audioPlayer);
       });
     }
+  }).catch(error => {
+    console.error('Playback failed:', error);
+  });
+});
+
+audioPlayer.on('timeupdate', () => {
+  if (!audioPlayer.paused && !audioPlayer.ended) {
+    setMediaSessionPositionState(audioPlayer);
+  }
+});
+
+audioPlayer.on('ended', () => {
+  playNextEpisode(podcast, currentIndex);
+});
+
+function setMediaSessionPositionState(player) {
+  if ('setPositionState' in navigator.mediaSession) {
+    navigator.mediaSession.setPositionState({
+      duration: player.duration || 0,
+      playbackRate: player.playbackRate || 1,
+      position: player.currentTime || 0,
+    });
   }
 }
-
+}
     
 function playNextEpisode(podcast, currentIndex) {
   const nextIndex = currentIndex + 1;
