@@ -87,20 +87,22 @@ async function loadPodcast() {
     const channel = rssDoc.querySelector("channel");
     if(!channel) throw new Error("Ugyldig RSS: Mangler hovedkanal i feed");
 
-    function sanitizeString(str) {
-      return str.replace(/[&<>"'`]/g, (char) => {
-        const escapeChars = {
-          '&': '&amp;',
-          '/': '&#47;',
-          '<': '&lt;',
-          '>': '&gt;',
-          '"': '&quot;',
-          "'": '&#39;',
-          '`': '&#96;',
-        };
-        return escapeChars[char];
-      });
-    }
+function sanitizeString(str) {
+  return str
+    .replace(/[&<>"'`]/g, (char) => {
+      const escapeChars = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;',
+        '`': '&#96;',
+      };
+      return escapeChars[char];
+    })
+    .replace(/\//g, '-');
+}
+
 
     const title = sanitizeString(channel.querySelector("title")?.textContent || "(ingen titel)");
     const description = sanitizeString(channel.querySelector("description")?.textContent || "(ingen beskrivelse)");
