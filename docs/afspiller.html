@@ -75,6 +75,7 @@
     try {
       displayLoadingSpinner(true);
       const rssUrl = new URLSearchParams(window.location.search).get("rss");
+      //const rssUrl = 'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Politiken/RSS/channel_kort.rss';
       if (!rssUrl) throw new Error("Ugyldig RSS");
 
       const response = await fetch(rssUrl);
@@ -455,18 +456,30 @@ navigator.mediaSession.setActionHandler('pause', () => {
     isPlaying = false;
 });
 
-      navigator.mediaSession.setActionHandler('seekbackward', (details) => {
-        audioPlayer.currentTime = Math.max(audioPlayer.currentTime - (details.seekOffset || 10), 0);
-      });
-      navigator.mediaSession.setActionHandler('seekforward', (details) => {
-        audioPlayer.currentTime = Math.min(audioPlayer.currentTime + (details.seekOffset || 10), audioPlayer.duration);
-      });
+navigator.mediaSession.setActionHandler('seekbackward', (details) => {
+    audioPlayer.currentTime = Math.max(audioPlayer.currentTime - (details.seekOffset || 10), 0);
+});
 
-      navigator.mediaSession.setActionHandler('previoustrack', () => {
-      });
-      navigator.mediaSession.setActionHandler('nexttrack', () => {
-        playNextEpisode();
-      });
+navigator.mediaSession.setActionHandler('seekforward', (details) => {
+    audioPlayer.currentTime = Math.min(audioPlayer.currentTime + (details.seekOffset || 10), audioPlayer.duration);
+});
+
+navigator.mediaSession.setActionHandler('previoustrack', () => {
+    // Implementér "previousTrack"-funktion
+});
+
+navigator.mediaSession.setActionHandler('nexttrack', () => {
+    playNextEpisode();
+});
+
+navigator.mediaSession.setActionHandler('seekto', (event) => {
+    if (event.fastSeek && 'fastSeek' in audioPlayer) {
+        audioPlayer.fastSeek(event.seekTime);
+    } else {
+        audioPlayer.currentTime = event.seekTime;
+    }
+});
+
     }
     audioPlayer.addEventListener('timeupdate', handleTimeUpdate);
     audioPlayer.addEventListener('pause', handlePause);
