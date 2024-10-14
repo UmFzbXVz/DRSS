@@ -447,63 +447,45 @@ document.querySelector('.audio-player').style.display = 'block';
 audioPlayer.on('loadedmetadata', () => {
   audioPlayer.currentTime = 0;
 
-  audioPlayer.play().then(() => {
+  if ('mediaSession' in navigator) {
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: episodeTitle,
+      artist: `${podcast.text} · ${currentEpisode.querySelector('.episode-date').textContent}`,
+      album: podcast.provider,
+      artwork: [{
+        src: podcast.image,
+        sizes: '512x512',
+        type: 'image/png',
+      }],
+    });
 
-    if ('mediaSession' in navigator) {
-      navigator.mediaSession.metadata = new MediaMetadata({
-        title: episodeTitle,
-        artist: `${podcast.text} · ${currentEpisode.querySelector('.episode-date').textContent}`,
-        album: podcast.provider,
-        artwork: [{
-          src: podcast.image,
-          sizes: '512x512',
-          type: 'image/png',
-        }],
-      });
-
-      setMediaSessionPositionState(audioPlayer); 
-
-navigator.mediaSession.setActionHandler('play', () => {
-  audioPlayer.play().then(() => {
     setMediaSessionPositionState(audioPlayer);
-  }).catch(error => {
-    console.error('MediaSession: Error in play action:', error);
-  });
-});
 
-navigator.mediaSession.setActionHandler('pause', () => {
-  audioPlayer.pause();
-  setMediaSessionPositionState(audioPlayer);
-});
-
-
-      navigator.mediaSession.setActionHandler('seekbackward', (details) => {
-        const seekOffset = details.seekOffset || 10;
-        audioPlayer.currentTime = Math.max(audioPlayer.currentTime - seekOffset, 0);
+    navigator.mediaSession.setActionHandler('play', () => {
+      audioPlayer.play().then(() => {
         setMediaSessionPositionState(audioPlayer);
       });
+    });
 
-      navigator.mediaSession.setActionHandler('seekforward', (details) => {
-        const seekOffset = details.seekOffset || 10;
-        audioPlayer.currentTime = Math.min(audioPlayer.currentTime + seekOffset, audioPlayer.duration);
-        setMediaSessionPositionState(audioPlayer);
-      });
+    navigator.mediaSession.setActionHandler('pause', () => {
+      audioPlayer.pause();
+      setMediaSessionPositionState(audioPlayer);
+    });
 
-      navigator.mediaSession.setActionHandler('seekto', (details) => {
-        const seekTime = details.seekTime || 0;
-        audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
-        setMediaSessionPositionState(audioPlayer);
-      });
-    }
-  }).catch(error => {
+    navigator.mediaSession.setActionHandler('seekto', (details) => {
+      const seekTime = details.seekTime || 0;
+      audioPlayer.currentTime = Math.min(Math.max(seekTime, 0), audioPlayer.duration);
+      setMediaSessionPositionState(audioPlayer);
+    });
+  }
+  
+  audioPlayer.play().catch(error => {
     console.error('Playback failed:', error);
   });
 });
 
 audioPlayer.on('timeupdate', () => {
-  if (!audioPlayer.paused && !audioPlayer.ended) {
-    setMediaSessionPositionState(audioPlayer);
-  }
+  setMediaSessionPositionState(audioPlayer);
 });
 
 audioPlayer.on('ended', () => {
@@ -520,7 +502,6 @@ function setMediaSessionPositionState(player) {
   }
 }
 }
-
     
 function playNextEpisode(podcast, currentIndex) {
   const nextIndex = currentIndex + 1;
