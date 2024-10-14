@@ -443,21 +443,12 @@ function playEpisode(podcast, audioUrl, episodeTitle, currentIndex) {
     }],
   };
 
-  document.querySelector('.audio-player').style.display = 'block';
-  // audioPlayer.play();
-  
-audioPlayer.source = {
-  type: 'audio',
-  sources: [{
-    src: audioUrl,
-    type: 'audio/mp3',
-  }],
-};
-
 document.querySelector('.audio-player').style.display = 'block';
 
 audioPlayer.on('loadedmetadata', () => {
+  audioPlayer.currentTime = 0;
   audioPlayer.play();
+  setMediaSessionPositionState(audioPlayer);
   if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
       title: episodeTitle,
