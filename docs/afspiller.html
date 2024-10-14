@@ -91,6 +91,7 @@ async function loadPodcast() {
       return str.replace(/[&<>"'`]/g, (char) => {
         const escapeChars = {
           '&': '&amp;',
+          '/': '&#47;',
           '<': '&lt;',
           '>': '&gt;',
           '"': '&quot;',
