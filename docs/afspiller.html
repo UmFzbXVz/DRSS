@@ -51,6 +51,21 @@ let podArtwork = '';
 let isPlaying = false;
 let isChangingEpisode = false;
 
+  
+function showToast(message) {
+  document.body.classList.add('blur-background');
+
+  const toast = document.createElement('div');
+  toast.classList.add('toast');
+  toast.innerHTML = message;
+  document.body.appendChild(toast);
+
+  setTimeout(() => {
+    toast.remove();
+    document.body.classList.remove('blur-background');
+  }, 5000);
+}
+  
 async function loadPodcast() {
   const displayLoadingSpinner = (show) => {
     document.getElementById("loading-spinner").style.display = show ? "block" : "none";
@@ -100,8 +115,7 @@ function sanitizeString(str) {
       return escapeChars[char];
     })
 }
-
-
+    
     const title = sanitizeString(channel.querySelector("title")?.textContent || "(ingen titel)");
     const description = sanitizeString(channel.querySelector("description")?.textContent || "(ingen beskrivelse)");
 
@@ -305,6 +319,8 @@ function playEpisode(episodeUrl, episodeTitle) {
   audioPlayer.removeEventListener('ended', handleEnded);
 
   const savedTime = getPlaybackProgress(episodeUrl);
+  const spinner = document.querySelector(`.episode[data-url='${episodeUrl}'] .loading-spinner`);
+  
   audioPlayer.src = episodeUrl;
   audioPlayer.currentTime = savedTime;
   audioPlayer.style.display = "block";
@@ -322,12 +338,13 @@ function playEpisode(episodeUrl, episodeTitle) {
     audioPlayer.addEventListener('pause', handlePause);
     audioPlayer.addEventListener('ended', handleEnded);
 
-    const spinner = document.querySelector(`.episode[data-url='${episodeUrl}'] .loading-spinner`);
     spinner.style.display = "none";
   }).catch(error => {
-    console.error("Error playing episode:", error);
+    spinner.style.display = "none";
+    showToast("Kunne ikke afspille afsnit..");
   }).finally(() => {
     isChangingEpisode = false;
+    return;
   });
 }
 
@@ -378,7 +395,7 @@ function handleEnded() {
     spinner.style.display = "block";
   }
 }
-
+  
 function markEpisodeAsFinished(url) {
   let finishedEpisodesStr = localStorage.getItem("finishedEpisodes");
   let finishedEpisodes = finishedEpisodesStr ? JSON.parse(finishedEpisodesStr) : [];
