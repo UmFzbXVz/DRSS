@@ -325,6 +325,21 @@ function playEpisode(episodeUrl, episodeTitle) {
     audioPlayer.addEventListener('ended', handleEnded);
 
     spinner.style.display = "none";
+
+    if ('mediaSession' in navigator) {
+      navigator.mediaSession.setActionHandler('play', () => {
+        audioPlayer.play();
+      });
+      navigator.mediaSession.setActionHandler('pause', () => {
+        audioPlayer.pause();
+      });
+      navigator.mediaSession.setActionHandler('seekbackward', (details) => {
+        audioPlayer.currentTime = Math.max(0, audioPlayer.currentTime - (details.seekOffset || 10));
+      });
+      navigator.mediaSession.setActionHandler('seekforward', (details) => {
+        audioPlayer.currentTime = Math.min(audioPlayer.duration, audioPlayer.currentTime + (details.seekOffset || 10));
+      });
+    }
   }).catch(error => {
     spinner.style.display = "none";
     showToast("Kunne ikke afspille afsnit..");
@@ -344,7 +359,7 @@ function handleTimeUpdate() {
 
     if ('mediaSession' in navigator) {
       navigator.mediaSession.setPositionState({
-        duration: audioPlayer.duration,
+        duration: audioPlayer.duration || 0,
         playbackRate: audioPlayer.playbackRate,
         position: currentTime
       });
@@ -363,6 +378,10 @@ function handlePause() {
   const episodeUrl = audioPlayer.src;
   savePlaybackProgress(episodeUrl, audioPlayer.currentTime);
   isPlaying = false;
+
+  if ('mediaSession' in navigator) {
+    navigator.mediaSession.playbackState = 'paused';
+  }
 }
 
 function handleEnded() {
@@ -476,7 +495,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     navigator.mediaSession.setActionHandler('previoustrack', () => {
-      // Implement 'previousTrack' function
+      // Implementér 'previousTrack'-funktion
     });
 
     navigator.mediaSession.setActionHandler('nexttrack', () => {
