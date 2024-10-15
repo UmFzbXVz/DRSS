@@ -286,7 +286,7 @@ function savePlaybackProgress(episodeUrl, currentTime) {
 }
 
 function getPlaybackProgress(episodeUrl) {
-  return localStorage.getItem(`playback-progress-${episodeUrl}`) || 0;
+  return parseFloat(localStorage.getItem(`playback-progress-${episodeUrl}`)) || 0;
 }
 
 function playEpisode(episodeUrl, episodeTitle) {
@@ -340,12 +340,24 @@ function playEpisode(episodeUrl, episodeTitle) {
         audioPlayer.currentTime = Math.min(audioPlayer.duration, audioPlayer.currentTime + (details.seekOffset || 10));
       });
     }
+
+    updateMediaSessionState(audioPlayer);
   }).catch(error => {
     spinner.style.display = "none";
     showToast("Kunne ikke afspille afsnit..");
   }).finally(() => {
     isChangingEpisode = false;
   });
+}
+
+function updateMediaSessionState(audioPlayer) {
+  if ('mediaSession' in navigator) {
+    navigator.mediaSession.setPositionState({
+      duration: audioPlayer.duration || 0, 
+      playbackRate: audioPlayer.playbackRate,
+      position: audioPlayer.currentTime
+    });
+  }
 }
 
 function handleTimeUpdate() {
@@ -357,13 +369,7 @@ function handleTimeUpdate() {
     savePlaybackProgress(episodeUrl, currentTime);
     lastTimeUpdate = currentTime;
 
-    if ('mediaSession' in navigator) {
-      navigator.mediaSession.setPositionState({
-        duration: audioPlayer.duration || 0,
-        playbackRate: audioPlayer.playbackRate,
-        position: currentTime
-      });
-    }
+    updateMediaSessionState(audioPlayer);
   }
 
   if (audioPlayer.duration - currentTime < 1) {
@@ -495,7 +501,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     navigator.mediaSession.setActionHandler('previoustrack', () => {
-      // Implementér 'previousTrack'-funktion
+      // Implementér'previousTrack'-funktion
     });
 
     navigator.mediaSession.setActionHandler('nexttrack', () => {
