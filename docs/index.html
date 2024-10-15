@@ -651,9 +651,13 @@ function copyRSSLink(rssLink) {
 }
 
 function getFormattedRSSUrl(podcastName) {
-  const formattedPodcastName = encodeURIComponent(podcastName.replace(/\s/g, '_').toLowerCase() + '.rss');
-  const firstCharacter = formattedPodcastName.charAt(0);
-  const directory = isNaN(parseInt(firstCharacter)) ? firstCharacter.toUpperCase() : '0-9';
+  let formattedPodcastName = encodeURIComponent(
+    podcastName.replace(/[\s/]/g, '_').toLowerCase() + '.rss'
+  );
+  
+  let firstCharacter = formattedPodcastName.charAt(0);
+  let directory = isNaN(parseInt(firstCharacter)) ? firstCharacter.toUpperCase() : '0-9';
+  
   return `https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/${directory}/${formattedPodcastName}`;
 }
 
