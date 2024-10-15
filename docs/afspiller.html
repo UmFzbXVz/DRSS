@@ -19,7 +19,7 @@
     <button id="next-page" class="pagination-button" aria-label="Next Page">→</button>
   </div>
   <div id="theme-toggle" class="theme-toggle" aria-label="Toggle Theme">
-    <i id="lightbulb-icon" class="fa-solid fa-lightbulb" aria-hidden="true"></i>
+    <i id="lightbulb-icon" class='fa-regular fa-lightbulb' aria-hidden="true"></i>
   </div>
   <button id="toggle-fully-listened" class="toggle-fully-listened" aria-label="Toggle Fully Listened Episodes">
     <i id="eye-icon" class="fa-regular fa-eye" aria-hidden="true"></i>
@@ -440,11 +440,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const applyTheme = (theme) => {
     document.body.classList.remove('dark-theme', 'light-theme');
     document.body.classList.add(`${theme}-theme`);
-
-    const lightbulbIcon = document.getElementById('lightbulb-icon');
-    lightbulbIcon.className = theme === 'dark' ?
-      'fa-regular fa-lightbulb' :
-      'fa-solid fa-lightbulb';
 
     if(spinner) {
       spinner.classList.toggle('dark-theme', theme === 'dark');
