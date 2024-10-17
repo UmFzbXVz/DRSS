@@ -274,6 +274,16 @@ h2 {
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
 }
 
+#podcast-info p {
+  -webkit-line-clamp: 3;
+  max-height: 6em;
+}
+
+#podcast-info p.expanded {
+  -webkit-line-clamp: unset;
+  max-height: 90%;
+}
+
 .episode {
   background: rgba(36, 36, 36, 0.2);
   backdrop-filter: blur(6px);
@@ -696,6 +706,12 @@ strong {
 .player-episode-title {
   overflow: hidden;
   color: #ffff;
+  font-size: 1rem;
+  transition: font-size 0.3s ease;
+}
+
+.player-episode-title.long-title {
+  font-size: 0.95rem;
 }
 
 .episode-date {
