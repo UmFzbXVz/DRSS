@@ -837,6 +837,9 @@ function displayResults(results) {
 
     card.appendChild(img);
     card.appendChild(title);
+    
+    adjustTitleFontSize(card, title, result.text.length);
+    
     card.addEventListener('click', () => openModal(result));
     grid.appendChild(card);
   });
@@ -844,6 +847,17 @@ function displayResults(results) {
   resultsContainer.appendChild(grid);
 }
 
+function adjustTitleFontSize(card, title, textLength) {
+  const containerWidth = card.offsetWidth;
+  
+  const maxFontSize = 1.1;
+  const minFontSize = 0.7;
+  const optimalCharLength = 28;
+  let newFontSize = maxFontSize - (textLength / optimalCharLength) * (maxFontSize - minFontSize);
+  newFontSize = Math.max(minFontSize, Math.min(maxFontSize, newFontSize));
+  title.style.fontSize = `${newFontSize}rem`;
+}
+    
 let debounceTimeout;
 document.getElementById('searchInput').addEventListener('input', function() {
   clearTimeout(debounceTimeout);
