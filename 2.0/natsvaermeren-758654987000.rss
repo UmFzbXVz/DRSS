@@ -6,6 +6,15 @@
         <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
         <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1817d0c1a140697e11f.jpg"/>
         <item>
+            <title>Dans!</title>
+            <description>Byd op til dans!
+Vært: Katrine Ring.</description>
+            <duration>01:56:59</duration>
+            <pubDate>Fri, 18 Oct 2024 03:03:00 +0000</pubDate>
+            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-dans-12422463424</guid>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67030a22a91f7f60a206eb8d/ac151fdcc8765c6a50486a7a813a1629ecb24dfdb3a5f7946a0260ef3964652b" length="168480225" type="audio/mpeg"/>
+        </item>
+        <item>
             <title>Fabelagtigt stille</title>
             <description>Ordet fabel sender associationer afsted mod det overnaturlige, det eventyrlige, det drømmende og fantastiske. Alt det en lytteoplevelse kan indeholde. I aften med stille strøg.
 Vært: Minna Grooss.</description>
@@ -262,14 +271,6 @@ Vært: Minna Grooss.</description>
             <pubDate>Tue, 24 Sep 2024 03:03:00 +0000</pubDate>
             <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-stille-forestillinger-12422363383</guid>
             <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64fced78db5383436f12b689/b7154a6afa89b77da3444541b3ef97bf0e63a34ded8377656fd1a975c2a5e602" length="168471158" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Ører på eventyr</title>
-            <description>Det starter med en hyldest til stilhed og slutter med et eventyr for øregangene mellem musik og lyd. Vært Peter Albrechtsen sværmer rundt i natten med alt fra orgelmusik og korsang til filmmusik og guitarklange.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Wed, 18 Sep 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-oerer-paa-eventyr-12422363377</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:64f8f8de922c2a68b3898bed/eef3e28335f1c54816c18d53c19a92991f526af84580cbcb64d3f7178a2f5a0b" length="168476961" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>
