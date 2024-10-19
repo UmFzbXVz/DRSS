@@ -83,18 +83,6 @@ let podcastCache = {};
 let currentPage = 1;
 let itemsPerPage = 10;
 
-const podcastMap = {
-  'dvto': 'https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/Podimo/RSS/Det%2C%20Vi%20Taler%20Om.rss',
-  'anotherpodcast': 'anotherPodcast-rssLink',
-};
-
-const path = window.location.pathname.split('/DRSS/')[1]?.toLowerCase();
-if (podcastMap.hasOwnProperty(path)) {
-  const rssLink = podcastMap[path];
-  window.location.href = `/DRSS/afspiller.html?rss=${rssLink}`;
-} else if (path) {
-  window.location.href = `/DRSS/`;
-}
     
 async function fetchAndGenerateEpisodesData(rssLink) {
   try {
