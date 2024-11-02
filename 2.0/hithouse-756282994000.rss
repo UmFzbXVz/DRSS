@@ -6,7 +6,16 @@
         <description>Musik og historier fra 
 pigtrådsæraen.
 Vært: Jørgen de Mylius.</description>
-        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c17f7d0c1a140697e115.jpg"/>
+        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2e32eb75d19480fa5d33d.jpg"/>
+        <item>
+            <title>Fredag 1. nov. 2024</title>
+            <description>Musik og historier fra pigtrådsæraen.
+Vært: Jørgen de Mylius.</description>
+            <duration>00:55:00</duration>
+            <pubDate>Fri, 01 Nov 2024 18:05:00 +0000</pubDate>
+            <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423445</guid>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6716d08b62244f4f5c8f23ab/b5ada544fa2cc7877fd6ee83d4b2a023ac9a3ee99c95d738780f0b3cf5478d75" length="79201396" type="audio/mpeg"/>
+        </item>
         <item>
             <title>Torsdag 31. okt. 2024</title>
             <description>Musik og historier fra pigtrådsæraen.
@@ -33,15 +42,6 @@ Vært: Jørgen de Mylius.</description>
             <pubDate>Tue, 29 Oct 2024 18:05:00 +0000</pubDate>
             <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423442</guid>
             <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6712dc54f61057e80cea25c8/f7c7ceba6a7608c803f21d5e6d6b9c94ccf54e857ad6ec8745bad02bfbc7fcc6" length="79201396" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Mandag 28. okt. 2024</title>
-            <description>Musik og historier fra pigtrådsæraen.
-Vært: Jørgen de Mylius.</description>
-            <duration>00:55:00</duration>
-            <pubDate>Mon, 28 Oct 2024 18:05:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p5/hithouse/hithouse-2024/hithouse-15452423441</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67118a615929688e5f7aeab1/80fb5e4ea2dba8ec75a5caefa9da76e1616e4a3103f864cd27efbf20f243468b" length="79201972" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>

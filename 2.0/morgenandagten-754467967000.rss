@@ -4,7 +4,21 @@
         <title>Morgenandagten</title>
         <link>https://www.dr.dk/lyd/p2/morgenandagten-754467967000</link>
         <description>Hver dag direkte fra Københavns Domkirke.</description>
-        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523beb4443243f95e2c5d95.jpg"/>
+        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f25f1b3a54ce7590dad72c.jpg"/>
+        <item>
+            <title>Fredag 1. nov. 2024</title>
+            <description>Præludium:	Myles Birket Foster: Andante sostenuto D-dur
+Fra det G.T.:	Jobs bog 38, 31-41
+Salme: 753 &quot;Gud, du, som lyset og dagen oplod&quot;
+Fra det N.T.:	Kolossenserbrevet 4,2-6
+Korvers: Søren Christian Vestergaard: I Himmelen, i Himmelen (Tekst: M.B. Landstad)
+Salme: 587 &quot;Guds egen kære Søn&quot;
+Postludium: Johann Sebastian Bach: Fryd dig, du Kristi brud, BWV 646</description>
+            <duration>00:25:00</duration>
+            <pubDate>Fri, 01 Nov 2024 08:05:00 +0000</pubDate>
+            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405445</guid>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6716d090083bbb5a758f809e/8ff0454b7229b77564ad1dd554f18423d935f9401dc0f31cdb36c09a1f73d29d" length="36001577" type="audio/mpeg"/>
+        </item>
         <item>
             <title>Torsdag 31. okt. 2024</title>
             <description>Præludium:	Finn Viderø: O Herre Krist! dig til os vend
@@ -340,20 +354,6 @@ Postludium: Joseph Gabriel Rheinberger: Monolog a-mol, op 162,2</description>
             <pubDate>Fri, 04 Oct 2024 08:05:00 +0000</pubDate>
             <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405405</guid>
             <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f1e7162f0bd3d4699f3eda/b11f0accf0175fbf4d65c644c32d23bf039890fa68ec147496714574db6400d4" length="36001577" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Torsdag 3. okt. 2024</title>
-            <description>Præludium:	Dietrich Buxtehude: Op, alle som på jorden bor
-Fra det G.T.:	Salme 103, 11-17a
-Salme: 505 &quot;Til dig alene, Herre Krist&quot;
-Fra det N.T.:	Lukas 15, 11-24
-Korvers: Johann Sebastian Bach: En hyrde glemmer fåret ej (tekst: L. Laurentii 1700,Brorson 1735)
-Salme: 30 &quot;Op, alle, som på jorden bor&quot;
-Postludium: Jesper Madsen: Til dig alene, Herre Krist</description>
-            <duration>00:25:00</duration>
-            <pubDate>Thu, 03 Oct 2024 08:05:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/morgenandagten/morgenandagten-2024/morgenandagten-11042405404</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f09573b126e59712343936/910f40130cbd4a69eab0531e312b9a3e4717af5a62e0bb18df549971780eea84" length="36001579" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>LIGA</title>
+        <link>https://www.dr.dk/lyd/p4/liga-760470867000</link>
+        <description>Sportsunderholdning, hvor lytterne får alt at vide om de største og mest spektakulære begivenheder fra sportens verden. Her er gæster, live reportager, god stemning og masser af kærlighed for sporten.</description>
+        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f33645f0388a679954fdf2.jpg"/>
+        <item>
+            <title>Torsdag 31. okt. 2024</title>
+            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.</description>
+            <duration>01:53:58</duration>
+            <pubDate>Thu, 31 Oct 2024 20:03:00 +0000</pubDate>
+            <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402444</guid>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671648978307944fd052f832/414ab5e1fa57d68f5113c00d4266158b402424f61960065de802be39a86204a7" length="164124536" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title>Tirsdag 29. okt. 2024</title>
+            <description>Sejre, følelser og alle målene i Danmarks mest medrivende radioprogram.
+Værter: Morten Hausborg og Caroline Lotz.</description>
+            <duration>03:52:11</duration>
+            <pubDate>Tue, 29 Oct 2024 18:05:00 +0000</pubDate>
+            <guid isPermaLink="false">https://www.dr.dk/lyd/p4/liga/liga-2024/liga-13652402442</guid>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671a491362244f4f5ca4136d/df58781167c942cbfd053680da4799d85d3c421dee623726018c0a0da46980e4" length="334360226" type="audio/mpeg"/>
+        </item>
+    </channel>
+</rss>

@@ -5,7 +5,16 @@
         <link>https://www.dr.dk/lyd/p5/det-gode-selskab-2146894737000</link>
         <description>Her møder du spændende mennesker og får ny inspiration til det aktive liv.
 Vært: Charlotte Hagen Striib.</description>
-        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6523c1397d0c1a140697dffd.jpg"/>
+        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2723cb75d19480fa40ee1.jpg"/>
+        <item>
+            <title>Med Daniel Groth</title>
+            <description>På søndag er det 20 år siden fyrværkeriulykken i Seest ved Kolding. Den dengang 18-årige Daniel Groth var frivillig brandmand på dagen og arbejder som paramediciner i dag, hvor han også er diagnosticeret med PTSD
+Vært: Charlotte Striib.</description>
+            <duration>01:57:00</duration>
+            <pubDate>Fri, 01 Nov 2024 10:03:00 +0000</pubDate>
+            <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-daniel-groth-15452428445</guid>
+            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6716d08b961ea12edb35d266/e0f7ad6191b4611b2cf645faf29d5c871f90ff1a3b4253404ee19c06cde464f3" length="168482170" type="audio/mpeg"/>
+        </item>
         <item>
             <title>Med Jesper Uhrup Jensen</title>
             <description>Efter 20 år som chefredaktør for madmagasinet Gastro og 30 år som madanmelder har Jesper Uhrup Jensen lige udgivet bogen SPIS om dansk madkultur.
@@ -32,15 +41,6 @@ Vært: Charlotte Striib.</description>
             <pubDate>Tue, 29 Oct 2024 10:03:00 +0000</pubDate>
             <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-kaya-bruel-15452428442</guid>
             <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6712dc3e7a297114381d32d2/93199cdf7800137842424c23c330123ddb237dced0be60c3fb45fc29d76cd8d1" length="168481608" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Med Michael Falch</title>
-            <description>Michael Falch er aktuel med ti nye sange på albummet 'Drømmene' - om både at leve i nuet og se frem til, at der er en dag igen i morgen. 'Måske er livet langt', er titlen på et af numrene.  
-Vært: Charlotte Striib</description>
-            <duration>01:57:00</duration>
-            <pubDate>Mon, 28 Oct 2024 10:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p5/det-gode-selskab/det-gode-selskab-2024/det-gode-selskab-med-michael-falch-15452428441</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67118a72dd68575d25bcd74d/570b5e88b9d48203dd5c51aa199a250495f52128303bacb561410536d74758bc" length="168481447" type="audio/mpeg"/>
         </item>
     </channel>
 </rss>
