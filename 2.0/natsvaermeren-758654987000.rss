@@ -1,266 +1,274 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Natsværmeren</title>
-        <link>https://www.dr.dk/lyd/p2/natsvaermeren-758654987000</link>
-        <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
-        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
-        <item>
-            <title>Adspredelse</title>
-            <description>Når musik forfører tankerne.
-Vært: Minna Grooss.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Sun, 03 Nov 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-adspredelse-12422463446</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671821a13c32a6eb13735aa2/5c03af02d2b2a390e71e957ecf2c015bc6c96997f004ff8aba56dfc925dac747" length="168481399" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Gys og skønhed</title>
-            <description>I anledning af at det er Halloween denne uge, er der gysermusik på programmet i aftenens Natsværmeren, men vel at mærke gysermusik af den mere melodiøse og legende slags. Ja, det er endda smukt engang imellem. Vært Peter Albrechtsen står for hyggen og uhyggen.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Fri, 01 Nov 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-gys-og-skoenhed-12422463444</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67157f507a29711438295cd4/56c2270f2a5288e2544a7e5625f11d296ab185a017ee561c1c73c63448feaafc" length="168481611" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Resonans</title>
-            <description>Hvor ord slutter, begynder musikken udtalte Beethoven engang. I aften er det ekkoet fra den udtalelse, der inspirerer Natsværmeren.
-Vært: Minna Grooss.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Thu, 31 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-resonans-12422463443</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67142dcaf341a59a1be6f677/613e1807329abb22b820a96479d13043aa852c00cb706a4c5168a3a1e3fc755a" length="168482073" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Lidt om....</title>
-            <description>Længsler og glæder. 
-Vært: Katrine Ring.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Wed, 30 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lidt-om-12422463442</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6712dc59f341a59a1be1108e/283325029300ff8a5a4151ef08cbebafe9e7ffff87990f79576ab6db90f17dd1" length="168481967" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Uden titel</title>
-            <description>En intuitiv bevægelse gennem musikalske landskaber.
-Vært: Minna Grooss.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Sun, 27 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-uden-titel-12422463436</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670ee774b749d62df1bec3e8/e0cc784f82ae2705e0603d46db48db8dbbe80ac05c8adea9f1b93dde6c632f43" length="168481420" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Aftenens væsen</title>
-            <description>Tiden, hvor verden bliver stille, og sindets skjulte kamre får plads til at åbne op i nattens uundgåelige stilhed.
-Vært: Minna Grooss.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Thu, 24 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-aftenens-vaesen-12422463433</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670af2c3fc003fe969c84e47/2288a9ed8c8336a714805275448ab7c95563c695167da8c1672a367ab67815cc" length="168479184" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Moving Through Time</title>
-            <description>En vilkårlig tidsrejse tager dig med gennem tider og lande i aften. En glemt arabisk sangerinde, frie fraseringer over Bach, og en hyldest til guden Xangô. 
-Vært: Minna Grooss.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Sun, 20 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-moving-through-time-12422463426</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6705adc1cd25ef610ab382e6/722d8c6f2fa6e4ac2ff8145efdede52ede3554967552a9248191cffd82e2117c" length="168481528" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Dans!</title>
-            <description>Byd op til dans!
-Vært: Katrine Ring.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Fri, 18 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-dans-12422463424</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67030a22a91f7f60a206eb8d/ac151fdcc8765c6a50486a7a813a1629ecb24dfdb3a5f7946a0260ef3964652b" length="168480225" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Fabelagtigt stille</title>
-            <description>Ordet fabel sender associationer afsted mod det overnaturlige, det eventyrlige, det drømmende og fantastiske. Alt det en lytteoplevelse kan indeholde. I aften med stille strøg.
-Vært: Minna Grooss.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Wed, 16 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-fabelagtigt-stille-12422463422</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670067d0ac68322c7b369fbf/cdc84060452050621e314df0afc766d86ded06dbdabe52345322f5489b22b886" length="168475789" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Lyd som nattens musik</title>
-            <description>Musik er lyd, og lyd er musik. Peter Albrechtsen er vært i aftenens Natsværmeren og dykker ned i det spændende grænseland mellem lyd og musik. Her er både klassiske toner og svævende atmosfærelyde til nattens nysgerrige ører.
+  <channel>
+    <title>Natsværmeren</title>
+    <link>https://www.dr.dk/lyd/p2/natsvaermeren-758654987000</link>
+    <description>Natsværmeren er til dig med store ører. Hør et personligt og nysgerrigt mix af klassisk musik og det der klæder den.</description>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f28413f0388a67995234cf.jpg"/>
+    <item>
+      <title>Varme toner</title>
+      <description>Midt i en kold og våd tid kan man altid varme sig ved musikken. I mørket. Vært Peter Albrechtsen agerer tonal radiator med musik fra nær og fjern. Ny dansk musik og klassiske toner. Og sågar med hjælp fra en meget musikalsk skrivemaskine. 
 Vært: Peter Albrechtsen.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Sun, 13 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lyd-som-nattens-musik-12422463435</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fc7296b454bb73962031a4/be6ec3723bf79ba6b623fd2638ab643fffebbdfbdb72ac7963d704a7c6d21eb2" length="168474698" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Efterårsvind</title>
-            <description>Vinden kender ingen grænser og tager alt med sig. Saint-Saëns Aftendrømme, Linda Perhacs Dolphin og Sophia Janis Fall, Glow, Dissolve er blot et par stykker, der bliver fanget i vindens lange arme.
-Vært: Minna Grooss.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Thu, 10 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-efteraarsvind-12422463413</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f87de6c11f7e8afd5c6922/6b843496fe41e7e198cd67bae3818f6d65dba3e16b9064dd068a16c2122f4fbd" length="168478684" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Teiturs drøm</title>
-            <description>I foråret 2024 rejste aftens vært, Minna Grooss til Færøerne for at møde den færøske sanger, komponist og historiefortæller, Teitur i hans hjem. Det er der kommet en musikfortælling ud af der ligger på DR lyd, men også en Natsværmer, der fabulerer frit over en række numre som Teitur lytter til på sine mange indre og ydre rejser.
-Vært: Minna Grooss.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Mon, 07 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-teiturs-droem-12422463407</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f4892e846785c8ea6e432b/a7bacf1c4d9793ee5639bee4a7ba9dba1a024b9af59442e673e42d4186624829" length="168473549" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Drømmerejser</title>
-            <description>En duft der lokker. Rumlen i tog gennem ukendte landskaber. Og stemmer, der folder sig ud, og åbner op til drømmene i døgnets sene timer.
-Vært: Minna Grooss.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Tue, 29 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-droemmerejser-12422463266</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667204f8a63f4ccc1ef280d6/4cf5a41a3d8ef762093cb54d1fb0cf5073dc151fce26c514adb7e3f898486022" length="168472869" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Et skridt ad gangen!</title>
-            <description>Vandringer og gåture er godt for meget.
-Vært: Katrine Ring.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Sun, 06 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-skridt-ad-gangen-12422463251</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666232ef6b66174c0bfe3343/48fd891e02195c840c9ee2f6e7e05a9afd48f922296c80a520bc03cbf590f5a3" length="168481989" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Nostalgi og folk</title>
-            <description>Fra blomstrende epoker, engle der letter, og en sang om forår skrevet fra en af Stalins berygtede fangelejre. Bach, Tariverdiev, og Molly Lewis træder frem sammen med John Cage, Chopin, Grethe Ingmann, Gennadij Molchanov og andre udvalgte overraskelser.
-Vært: Minna Grooss.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Fri, 25 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nostalgi-og-folk-12422463247</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6660e1700e489848d089c08c/13e70b4fab3acb6824e6cfbfad4a773d7a86ef60024fab4813ac0656619911bf" length="168481602" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Uro</title>
-            <description>Uro kan både være den uro der hænger over det lille barn for at stimulere sanserne, og det kan være en følelse af uro, vækket af musik måske. Musikken i Natsværmeren vil hænge over dig som en uro, til forhåbentlig glæde og adspredelse, og samtidig vække dine sanser til live.
+      <duration>01:56:59</duration>
+      <pubDate>Mon, 28 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-varme-toner-12422363467</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:654c15064a36e8cb36f1ec23/d767b00db7cfb20f160fb87d713353e3ab443cea787b296545c2f20cc7923a83" length="168481034" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Drømmespind</title>
+      <description>Jeg bygger et drømmespind, som en edderkop bygger et hus. Bygget af sarte toner, mørke klange og stemmer som silke på hud. Sart og stærk på samme tid.
 Vært: Tina Rømer.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Sat, 26 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-uro-12422463246</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665f8f71c87bb8920b51e48a/2810c52daced3e46c4907c111d1f0348deb52cecd13e380837a1cf8a6a8412aa" length="168481604" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Vejrer aftenluft</title>
-            <description>Morgenlyset tilgiver natten er en titel i aftens Natsværmer, der flyder gennem musikken uden for mange ord.
+      <duration>01:57:00</duration>
+      <pubDate>Sat, 02 Nov 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-droemmespind-12422363444</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65359e2f7966f9e6e5fd4288/bbb0aa55d370edbd8004273776ccb10a67702057b6cf951ad6c898e075f37518" length="168482098" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tid</title>
+      <description>Tid forsvinder, tid trækker ud og så er der den evindelige gentagelse med time efter time. 
+Vært: Katrine Ring.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Sat, 12 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-tid-12422363434</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:652c63dc7c64928637e48053/41cb694827363a37ab7f9b3ccf7441aa852092f998eff22c6a9521e66af388d1" length="168472813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Udlængsel</title>
+      <description>Fanget i eget spind. En nat, en dag, et døgn, en flugt, en drøm. Françoise Hardy, Gurdjieff, Rimskij- Korsakov, Arooj Aftab, Johanna Doderer med flere sender en budbringer i natten.
 Vært: Minna Grooss.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Thu, 17 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-vejrer-aftenluft-12422463243</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665b9b5ef003ce447ca69bc0/a1cf92106da469a2e0dee3764dc4574a98036e2cc03e365d8082eb5db4612b34" length="168482056" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Folkemusik og skæve toner</title>
-            <description>Gamelan, melanesisk sang og en nubisk bøn møder fremmede og velkendte toner.
+      <duration>01:56:59</duration>
+      <pubDate>Tue, 15 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-udlaengsel-12422363432</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6529c0669146e14d4d3b12cb/312243721fa3e3adfdf37412527a95449a731c5b1a872732e0fe3b4fece119f9" length="168471749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bølge på bølge</title>
+      <description>Naturens lyde bliver til musikalske lyde i denne udgave af Natsværmeren. Hav, vind, bølger og lydbølger. Musik kan være mange ting og er mange ting i disse to tværtonale timer med Peter Albrechtsen.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Tue, 08 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-boelge-paa-boelge-12422363427</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65271cb91f0bbbe7660dbeae/fede968e24205786d99babf94c94b26529ffaef4006f333feb6dfd2a7bd54b41" length="168470612" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rendez-vous</title>
+      <description>Som kærligheden der nogle gange falder i hak og andre drejer skarpt i et hårnålesving. Et møde i Shanghai i 1942, i Bladerunner i 2049 og i &quot;One more Kiss, Dear&quot;. I aften får du chancen for et pletskud til helt frem til midnat.
 Vært: Minna Grooss.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Tue, 22 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-folkemusik-og-skaeve-toner-12422463233</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665261b9c60007672176b5bb/74a70f4ef953853bcfd49a29a49dbacb0801cb442cca63c83d7b55d29f69c50c" length="168482026" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Musikkens fabrik</title>
-            <description>Du er inviteret indenfor i en stor fabrikshal. Der er højt til loftet, så du er i tvivl om at der overhoved er tag på bygningen. Fra hjørnerne spiller musikken fra alle kanter og indhyller dig i forskellige verdener, der giver dig mulighed for at skabe lige den aften du ønsker dig.
+      <duration>01:56:59</duration>
+      <pubDate>Sat, 19 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-rendez-vous-12422363426</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6525cc1e1339b4f4443d9c2f/4afa4e5b08e70b7d1522b5cd9e4d85d00929daeb4b191f1f6bdfbe14bbf92ebc" length="168474684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Melankoli med mere</title>
+      <description>Fra hymner om minearbejdere over smuk kormusik til islandsk melankoli og genfortolkede godnatviser. Natsværmeren er denne gang noget af en lydrejse - Peter Albrechtsen er guide gennem øregangene.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Mon, 14 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-melankoli-med-mere-12422363423</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6521d857366a37fe075b9559/8b123933f45a7424aba2e7f5a6e1892700e1c5ce9f6d5fb02487970b88079065" length="168468876" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lyden af nord</title>
+      <description>Oktober har sat sig stædigt fast. Karin Krog holder håbet oppe, Hildur Guðnadóttir favner mørket, Ars Nova Copenhagen ser mod lyset og Ann-Helen Moen synger Solveigs sang.
 Vært: Minna Grooss.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Mon, 30 Sep 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-musikkens-fabrik-12422463217</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664531728e5af5fe8d21a769/5b9d44c7219dc7beef27c17f63dcbe5d21ea37b99a523d7b8827469edf9386c0" length="168482186" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Varme toner</title>
-            <description>Midt i en kold og våd tid kan man altid varme sig ved musikken. I mørket. Vært Peter Albrechtsen agerer tonal radiator med musik fra nær og fjern. Ny dansk musik og klassiske toner. Og sågar med hjælp fra en meget musikalsk skrivemaskine. 
+      <duration>01:56:59</duration>
+      <pubDate>Fri, 11 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lyden-af-nord-12422363421</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:651f34c4b96c06385fe30b97/572957169df0d13a7d2df809c76d1b2ea8c6e019996d39cd0a7c1c7ae7b902a0" length="168471172" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Den levende nat</title>
+      <description>Strygere ånder og instrumenter lever i aftenens Natsværmeren. Vært Peter Albrechtsen spiller både klassisk, filmmusik og moderne sfæriske toner.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Wed, 23 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-den-levende-nat-12422363406</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6513572a8737d0a1da7ca106/fc6544f944dff46908e47a0f9a7c0a16d14ec2b7ff95274a39d5c14b3e3c8788" length="172802077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Nattens smil</title>
+      <description>Du skal tæt på for at se smilet, men så lyser det desto mere. Kom helt tæt på musikken, og smilet i nattens dunkle belysning.
+Vært: Tina Rømer.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Wed, 09 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-nattens-smil-12422363397</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:650b6d5a3744b50755aad860/5a69d6573b5e738a838627379b3bd3285a05246703bfcc3d255a2f48a69a4d1a" length="168477465" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Adspredelse</title>
+      <description>Når musik forfører tankerne.
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 03 Nov 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-adspredelse-12422463446</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671821a13c32a6eb13735aa2/5c03af02d2b2a390e71e957ecf2c015bc6c96997f004ff8aba56dfc925dac747" length="168481399" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Gys og skønhed</title>
+      <description>I anledning af at det er Halloween denne uge, er der gysermusik på programmet i aftenens Natsværmeren, men vel at mærke gysermusik af den mere melodiøse og legende slags. Ja, det er endda smukt engang imellem. Vært Peter Albrechtsen står for hyggen og uhyggen.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Fri, 01 Nov 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-gys-og-skoenhed-12422463444</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67157f507a29711438295cd4/56c2270f2a5288e2544a7e5625f11d296ab185a017ee561c1c73c63448feaafc" length="168481611" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Resonans</title>
+      <description>Hvor ord slutter, begynder musikken udtalte Beethoven engang. I aften er det ekkoet fra den udtalelse, der inspirerer Natsværmeren.
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Thu, 31 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-resonans-12422463443</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67142dcaf341a59a1be6f677/613e1807329abb22b820a96479d13043aa852c00cb706a4c5168a3a1e3fc755a" length="168482073" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lidt om....</title>
+      <description>Længsler og glæder. 
+Vært: Katrine Ring.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Wed, 30 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lidt-om-12422463442</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6712dc59f341a59a1be1108e/283325029300ff8a5a4151ef08cbebafe9e7ffff87990f79576ab6db90f17dd1" length="168481967" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Uden titel</title>
+      <description>En intuitiv bevægelse gennem musikalske landskaber.
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 27 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-uden-titel-12422463436</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670ee774b749d62df1bec3e8/e0cc784f82ae2705e0603d46db48db8dbbe80ac05c8adea9f1b93dde6c632f43" length="168481420" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Aftenens væsen</title>
+      <description>Tiden, hvor verden bliver stille, og sindets skjulte kamre får plads til at åbne op i nattens uundgåelige stilhed.
+Vært: Minna Grooss.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Thu, 24 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-aftenens-vaesen-12422463433</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670af2c3fc003fe969c84e47/2288a9ed8c8336a714805275448ab7c95563c695167da8c1672a367ab67815cc" length="168479184" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Moving Through Time</title>
+      <description>En vilkårlig tidsrejse tager dig med gennem tider og lande i aften. En glemt arabisk sangerinde, frie fraseringer over Bach, og en hyldest til guden Xangô. 
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 20 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-moving-through-time-12422463426</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6705adc1cd25ef610ab382e6/722d8c6f2fa6e4ac2ff8145efdede52ede3554967552a9248191cffd82e2117c" length="168481528" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dans!</title>
+      <description>Byd op til dans!
+Vært: Katrine Ring.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Fri, 18 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-dans-12422463424</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67030a22a91f7f60a206eb8d/ac151fdcc8765c6a50486a7a813a1629ecb24dfdb3a5f7946a0260ef3964652b" length="168480225" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fabelagtigt stille</title>
+      <description>Ordet fabel sender associationer afsted mod det overnaturlige, det eventyrlige, det drømmende og fantastiske. Alt det en lytteoplevelse kan indeholde. I aften med stille strøg.
+Vært: Minna Grooss.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Wed, 16 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-fabelagtigt-stille-12422463422</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:670067d0ac68322c7b369fbf/cdc84060452050621e314df0afc766d86ded06dbdabe52345322f5489b22b886" length="168475789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lyd som nattens musik</title>
+      <description>Musik er lyd, og lyd er musik. Peter Albrechtsen er vært i aftenens Natsværmeren og dykker ned i det spændende grænseland mellem lyd og musik. Her er både klassiske toner og svævende atmosfærelyde til nattens nysgerrige ører.
 Vært: Peter Albrechtsen.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Mon, 28 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-varme-toner-12422363467</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:654c15064a36e8cb36f1ec23/d767b00db7cfb20f160fb87d713353e3ab443cea787b296545c2f20cc7923a83" length="168481034" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Drømmespind</title>
-            <description>Jeg bygger et drømmespind, som en edderkop bygger et hus. Bygget af sarte toner, mørke klange og stemmer som silke på hud. Sart og stærk på samme tid.
-Vært: Tina Rømer.</description>
-            <duration>01:57:00</duration>
-            <pubDate>Sat, 02 Nov 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-droemmespind-12422363444</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65359e2f7966f9e6e5fd4288/bbb0aa55d370edbd8004273776ccb10a67702057b6cf951ad6c898e075f37518" length="168482098" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Tid</title>
-            <description>Tid forsvinder, tid trækker ud og så er der den evindelige gentagelse med time efter time. 
+      <duration>01:56:59</duration>
+      <pubDate>Sun, 13 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-lyd-som-nattens-musik-12422463435</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66fc7296b454bb73962031a4/be6ec3723bf79ba6b623fd2638ab643fffebbdfbdb72ac7963d704a7c6d21eb2" length="168474698" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Efterårsvind</title>
+      <description>Vinden kender ingen grænser og tager alt med sig. Saint-Saëns Aftendrømme, Linda Perhacs Dolphin og Sophia Janis Fall, Glow, Dissolve er blot et par stykker, der bliver fanget i vindens lange arme.
+Vært: Minna Grooss.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Thu, 10 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-efteraarsvind-12422463413</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f87de6c11f7e8afd5c6922/6b843496fe41e7e198cd67bae3818f6d65dba3e16b9064dd068a16c2122f4fbd" length="168478684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Teiturs drøm</title>
+      <description>I foråret 2024 rejste aftens vært, Minna Grooss til Færøerne for at møde den færøske sanger, komponist og historiefortæller, Teitur i hans hjem. Det er der kommet en musikfortælling ud af der ligger på DR lyd, men også en Natsværmer, der fabulerer frit over en række numre som Teitur lytter til på sine mange indre og ydre rejser.
+Vært: Minna Grooss.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Mon, 07 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-teiturs-droem-12422463407</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66f4892e846785c8ea6e432b/a7bacf1c4d9793ee5639bee4a7ba9dba1a024b9af59442e673e42d4186624829" length="168473549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fra hulen til filmen</title>
+      <description>Nick Cave har netop haft fødselsdag og giver snart koncert i Danmark og derfor spiller vært Peter Albrechtsen lidt af hans smukke filmmusik. Det filmiske er i højsædet i denne udgave af Natsværmeren, hvor Erik Satie, Bernard Herrmann og Jóhann Jóhannsson også spiller med.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Tue, 05 Nov 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-fra-hulen-til-filmen-12422463392</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:66e4b76eb126e59712ff2db4/d9392c3cadb448bd6b110045a02aa5739c8e88d61244450042addafbfdc2af47" length="168468363" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Drømmerejser</title>
+      <description>En duft der lokker. Rumlen i tog gennem ukendte landskaber. Og stemmer, der folder sig ud, og åbner op til drømmene i døgnets sene timer.
+Vært: Minna Grooss.</description>
+      <duration>01:56:59</duration>
+      <pubDate>Tue, 29 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-droemmerejser-12422463266</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:667204f8a63f4ccc1ef280d6/4cf5a41a3d8ef762093cb54d1fb0cf5073dc151fce26c514adb7e3f898486022" length="168472869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Et skridt ad gangen!</title>
+      <description>Vandringer og gåture er godt for meget.
 Vært: Katrine Ring.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Sat, 12 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-tid-12422363434</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:652c63dc7c64928637e48053/41cb694827363a37ab7f9b3ccf7441aa852092f998eff22c6a9521e66af388d1" length="168472813" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Udlængsel</title>
-            <description>Fanget i eget spind. En nat, en dag, et døgn, en flugt, en drøm. Françoise Hardy, Gurdjieff, Rimskij- Korsakov, Arooj Aftab, Johanna Doderer med flere sender en budbringer i natten.
+      <duration>01:57:00</duration>
+      <pubDate>Sun, 06 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-et-skridt-ad-gangen-12422463251</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:666232ef6b66174c0bfe3343/48fd891e02195c840c9ee2f6e7e05a9afd48f922296c80a520bc03cbf590f5a3" length="168481989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Nostalgi og folk</title>
+      <description>Fra blomstrende epoker, engle der letter, og en sang om forår skrevet fra en af Stalins berygtede fangelejre. Bach, Tariverdiev, og Molly Lewis træder frem sammen med John Cage, Chopin, Grethe Ingmann, Gennadij Molchanov og andre udvalgte overraskelser.
 Vært: Minna Grooss.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Tue, 15 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-udlaengsel-12422363432</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6529c0669146e14d4d3b12cb/312243721fa3e3adfdf37412527a95449a731c5b1a872732e0fe3b4fece119f9" length="168471749" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Bølge på bølge</title>
-            <description>Naturens lyde bliver til musikalske lyde i denne udgave af Natsværmeren. Hav, vind, bølger og lydbølger. Musik kan være mange ting og er mange ting i disse to tværtonale timer med Peter Albrechtsen.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Tue, 08 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-boelge-paa-boelge-12422363427</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:65271cb91f0bbbe7660dbeae/fede968e24205786d99babf94c94b26529ffaef4006f333feb6dfd2a7bd54b41" length="168470612" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Rendez-vous</title>
-            <description>Som kærligheden der nogle gange falder i hak og andre drejer skarpt i et hårnålesving. Et møde i Shanghai i 1942, i Bladerunner i 2049 og i &quot;One more Kiss, Dear&quot;. I aften får du chancen for et pletskud til helt frem til midnat.
-Vært: Minna Grooss.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Sat, 19 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-rendez-vous-12422363426</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6525cc1e1339b4f4443d9c2f/4afa4e5b08e70b7d1522b5cd9e4d85d00929daeb4b191f1f6bdfbe14bbf92ebc" length="168474684" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Melankoli med mere</title>
-            <description>Fra hymner om minearbejdere over smuk kormusik til islandsk melankoli og genfortolkede godnatviser. Natsværmeren er denne gang noget af en lydrejse - Peter Albrechtsen er guide gennem øregangene.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Mon, 14 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-melankoli-med-mere-12422363423</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6521d857366a37fe075b9559/8b123933f45a7424aba2e7f5a6e1892700e1c5ce9f6d5fb02487970b88079065" length="168468876" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Lyden af nord</title>
-            <description>Oktober har sat sig stædigt fast. Karin Krog holder håbet oppe, Hildur Guðnadóttir favner mørket, Ars Nova Copenhagen ser mod lyset og Ann-Helen Moen synger Solveigs sang.
-Vært: Minna Grooss.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Fri, 11 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-lyden-af-nord-12422363421</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:651f34c4b96c06385fe30b97/572957169df0d13a7d2df809c76d1b2ea8c6e019996d39cd0a7c1c7ae7b902a0" length="168471172" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Den levende nat</title>
-            <description>Strygere ånder og instrumenter lever i aftenens Natsværmeren. Vært Peter Albrechtsen spiller både klassisk, filmmusik og moderne sfæriske toner.</description>
-            <duration>02:00:00</duration>
-            <pubDate>Wed, 23 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-den-levende-nat-12422363406</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6513572a8737d0a1da7ca106/fc6544f944dff46908e47a0f9a7c0a16d14ec2b7ff95274a39d5c14b3e3c8788" length="172802077" type="audio/mpeg"/>
-        </item>
-        <item>
-            <title>Nattens smil</title>
-            <description>Du skal tæt på for at se smilet, men så lyser det desto mere. Kom helt tæt på musikken, og smilet i nattens dunkle belysning.
+      <duration>01:57:00</duration>
+      <pubDate>Fri, 25 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-nostalgi-og-folk-12422463247</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:6660e1700e489848d089c08c/13e70b4fab3acb6824e6cfbfad4a773d7a86ef60024fab4813ac0656619911bf" length="168481602" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Uro</title>
+      <description>Uro kan både være den uro der hænger over det lille barn for at stimulere sanserne, og det kan være en følelse af uro, vækket af musik måske. Musikken i Natsværmeren vil hænge over dig som en uro, til forhåbentlig glæde og adspredelse, og samtidig vække dine sanser til live.
 Vært: Tina Rømer.</description>
-            <duration>01:56:59</duration>
-            <pubDate>Wed, 09 Oct 2024 03:03:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2023/natsvaermeren-nattens-smil-12422363397</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:650b6d5a3744b50755aad860/5a69d6573b5e738a838627379b3bd3285a05246703bfcc3d255a2f48a69a4d1a" length="168477465" type="audio/mpeg"/>
-        </item>
-    </channel>
+      <duration>01:57:00</duration>
+      <pubDate>Sat, 26 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-uro-12422463246</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665f8f71c87bb8920b51e48a/2810c52daced3e46c4907c111d1f0348deb52cecd13e380837a1cf8a6a8412aa" length="168481604" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Vejrer aftenluft</title>
+      <description>Morgenlyset tilgiver natten er en titel i aftens Natsværmer, der flyder gennem musikken uden for mange ord.
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Thu, 17 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-vejrer-aftenluft-12422463243</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665b9b5ef003ce447ca69bc0/a1cf92106da469a2e0dee3764dc4574a98036e2cc03e365d8082eb5db4612b34" length="168482056" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Folkemusik og skæve toner</title>
+      <description>Gamelan, melanesisk sang og en nubisk bøn møder fremmede og velkendte toner.
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Tue, 22 Oct 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-folkemusik-og-skaeve-toner-12422463233</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:665261b9c60007672176b5bb/74a70f4ef953853bcfd49a29a49dbacb0801cb442cca63c83d7b55d29f69c50c" length="168482026" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Musikkens fabrik</title>
+      <description>Du er inviteret indenfor i en stor fabrikshal. Der er højt til loftet, så du er i tvivl om at der overhoved er tag på bygningen. Fra hjørnerne spiller musikken fra alle kanter og indhyller dig i forskellige verdener, der giver dig mulighed for at skabe lige den aften du ønsker dig.
+Vært: Minna Grooss.</description>
+      <duration>01:57:00</duration>
+      <pubDate>Mon, 30 Sep 2024 03:03:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p2/natsvaermeren/natsvaermeren-2024/natsvaermeren-musikkens-fabrik-12422463217</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:664531728e5af5fe8d21a769/5b9d44c7219dc7beef27c17f63dcbe5d21ea37b99a523d7b8827469edf9386c0" length="168482186" type="audio/mpeg"/>
+    </item>
+  </channel>
 </rss>

@@ -1,25 +1,19 @@
 <?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Balalajka</title>
-        <link>https://www.dr.dk/lyd/p3/balalajka-4861067688000</link>
-        <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
+  <channel>
+    <title>Balalajka</title>
+    <link>https://www.dr.dk/lyd/p3/balalajka-4861067688000</link>
+    <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
 Værter: Anton Ringdal og Mathilde Muus.</description>
-        <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2626eb75d19480fa3cfcf.jpg"/>
-        <item>
-            <title>Elsker Gud Indre Mission?</title>
-            <description>Rusland har givet Google en bøde på intet mindre end 2,5 kvintilliarder dollars. Hold nu kæft, det er mange penge. Det lyder næsten som om, at Rusland mangler penge, da de mangler penge til at finansiere en dyr krig.
-Det går sindssygt dårligt for Indre Mission i Danmark. Det er vel lidt underligt, når Gud burde elske folk fra Indre Mission? Anton ringer og spørger, hvad de tænker om, at Gud tillader de trænge tider i Indre Mission.
-Vi skal også forbi Jens Rohde og det røde kort og et interview med den samfundskritiske jomfruhummer, som måske egentlig bare er Googles AI stemme, der fortæller Mathildes holdninger, som hun selv skriver?
-Værter: Mathilde Muus og Anton Ringdal.
-Medvirkende:
-Nynne og Kasper fra Residensen.
-Jens Rohde, formand for Dommerforeningen.
-Asbjørn Asmussen, kommunikationschef i Indre Mission.</description>
-            <duration>02:00:00</duration>
-            <pubDate>Thu, 31 Oct 2024 16:00:00 +0000</pubDate>
-            <guid isPermaLink="false">https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-elsker-gud-indre-mission-13332426444</guid>
-            <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:67157ef75c328021e169f7f6/cff33fbda681aef1be5d5e928d5998b87202c16880b9ff7085ec2f7c26059519" length="172801557" type="audio/mpeg"/>
-        </item>
-    </channel>
+    <itunes:image href="https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:66f2626eb75d19480fa3cfcf.jpg"/>
+    <item>
+      <title>Mandag 4. nov. 2024</title>
+      <description>Gå balalajka med Anton og Mathilde, når de sidst på eftermiddagen ser på verden en ekstra gang for at få øje på det vilde, det sjove, og det som alle de andre har glemt at få med.
+Værter: Anton Ringdal og Mathilde Muus.</description>
+      <duration>02:00:00</duration>
+      <pubDate>Mon, 04 Nov 2024 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.dr.dk/lyd/p3/balalajka/balalajka-2024/balalajka-13332426451</guid>
+      <enclosure url="https://api.dr.dk/radio/v1/assetlinks/urn:dr:radio:episode:671ac4bef00ba1cd6733102d/0c1566a0494ed5a3d9a09d575dbc6b96c3d423395a7c86c5bc5858c1cadae365" length="172801557" type="audio/mpeg"/>
+    </item>
+  </channel>
 </rss>
