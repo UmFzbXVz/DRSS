@@ -7,6 +7,15 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+@font-face {
+  font-family: 'CustomFont'; 
+  src: url('td.tff') format('truetype'); 
+}
+
+.custom-font-h2 {
+  font-family: 'CustomFont', sans-serif; 
+}
+
 .container {
   margin: 0 auto;
   width: 100%;
