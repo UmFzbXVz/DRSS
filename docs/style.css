@@ -9,7 +9,7 @@ body {
 
 @font-face {
   font-family: 'CustomFont'; 
-  src: url('td.tff') format('truetype'); 
+  src: url('td.ttf') format('truetype'); 
 }
 
 .custom-font-h2 {
