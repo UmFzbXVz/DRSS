@@ -71,7 +71,7 @@ def fetch_podcast_links(series_hash, retries=5):
 
 def fetch_episodes_from_links(links, retries=5):
     episodes = []
-    headers = {'x-apikey': 'p0JzsEGfZtTEtP4hodkgI2eFKhrxj4X1'}
+    headers = {'x-apikey': 'dinEgenAPInøgle'}
 
     def fetch_page(url, offset):
         url_with_offset = add_offset(url, offset)
