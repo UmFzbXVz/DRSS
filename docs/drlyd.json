@@ -1,11 +1,4 @@
 [
- {
-    "name": "De Sorte Spejdere",
-    "url": "https://raw.githubusercontent.com/UmFzbXVz/podcasts/main/D/de_sorte_spejdere.rss",
-    "image": "https://asset.dr.dk/imagescaler/?protocol=https&server=www.dr.dk&file=%2Fimages%2Fother%2F2015%2F10%2F30%2F20h_23.jpg&scaleAfter=crop&quality=70&w=720&h=720",
-    "description": "Én lang hentydning.\n\n V\u00e6rter: Anders Breinholt og Anders Lund Madsen.",
-    "program_url": "http://dr.dk/spejder"
-  },
   {
     "name": "Feature",
     "url": "https://api.dr.dk/podcasts/v1/feeds/feature",
@@ -3221,5 +3214,69 @@
     "description": "Hver dag direkte fra Københavns Domkirke.",
     "program_url": "https://www.dr.dk/lyd/p2/morgenandagten-754467967000",
     "series_hash": "5fa26328330eac2f135b7a16"
+  },
+  {
+    "name": "Popsmart",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/popsmart",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:67497499ad2d428de7899c95.jpg",
+    "description": "Popkultur er meget mere end glitrende overflader og flimrende støj. Popkultur er et forstørrelsesglas på vores tid, der kan fortælle om alt fra storpolitik til parforhold. Men hvilke popfænomener er det egentlig, der vækker vores begær og nysgerrighed og afslører, hvem vi er lige nu? Det undersøger Chris Pedersen hver uge i programmet Popsmart, hvor han i selskab med en begavet gæst dissekerer og forklarer tidens populærkultur.",
+    "program_url": "https://www.dr.dk/lyd/p1/popsmart-6058412366000",
+    "series_hash": "67462f04aa7bc2beae013667"
+  },
+  {
+    "name": "Min ven Hermann Göring",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/min-ven-hermann-goring",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:674ed1c26319e3bad31bf0d1.jpg",
+    "description": "Historien om et umage venskab mellem en jøde fra det bedre borgerskab i København, Hugo Rothenberg, og så én af de værste krigsforbrydere i verdenshistorien, nazisten Hermann Göring. Hvad skete der, da Hugo Rothenberg, højest usædvanligt, fik tilladelse af selveste Göring til at rejse rundt i Nazityskland i et forsøg på at redde så mange jøder som muligt fra den visse død? Det er en historie fuld af dilemmaer og paradokser. Men mest af alt er det fortællingen om den lille mand, der pludselig må finde sit heltemod frem, fordi han ved en tilfældighed engang åbnede sin dør for en tysk pilot.\nProduceret for DR af MonoMono.",
+    "program_url": "https://www.dr.dk/lyd/special-radio/min-ven-hermann-goring-6030650856000",
+    "series_hash": "674d823c2a02f3ed1efa0abe"
+  },
+  {
+    "name": "Virkelig",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/virkelig",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:674877946319e3bad3029657.jpg",
+    "description": "Der er lige så meget magt i kunst og kultur, som der er i penge og politik. Alligevel bliver kulturpersoner sjældent konfronteret med den magt, kulturen har over vores tanker, vores handlinger og den måde, vi opfatter verden på. I programmet Virkelig undersøger Maya Tekeli kulturens påvirkning af vores liv og undrer sig over, hvordan kunstnere, magthavere, meningsdannere og kulturpersonligheder i virkeligheden forvalter deres magt og indflydelse.",
+    "program_url": "https://www.dr.dk/lyd/p1/virkelig-6058413578000",
+    "series_hash": "67462df1f43ee13a09ac291c"
+  },
+  {
+    "name": "Hagekors over Danmark",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/hagekors-over-danmark",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:6756f68aad2d428de7bf85d5.jpg",
+    "description": "Fortællingen om et mørkt kapitel i danmarkshistorien - om den danske nazisme. Fra dens spæde start i 1920'erne, over dens stigende popularitet i besættelsestiden og til den bratte afslutning 4. maj 1945. Hør historierne om de vigtigste danske førere, deres handlinger og hvilken rolle de danske nazister spillede i vores allesammens fælles historie.\nTilrettelæggere: Nicholas Durup Thomsen og Anders Askman.\nMedvirkende: Ole Ravn, historiker.\nLyddesign og mix: Mikkel Rönnau.\nRedaktør: Rune Sparre Geertsen.\nProduceret for DR af Filt Cph.\nGod fornøjelse med denne eller én af de mange andre P1 Podcastserier.",
+    "program_url": "https://www.dr.dk/lyd/p1/hagekors-over-danmark-2596475675000",
+    "series_hash": "5fa25e1f330eac2f135b5e33"
+  },
+  {
+    "name": "Parnasset",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/parnasset",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:674973baad2d428de789991c.jpg",
+    "description": "Når de taler, bliver der lyttet. Når de udkommer, bliver de omtalt og anmeldt. De påvirker os med deres beslutninger og deres kunst; de flytter på vores opfattelser. Men vi beder dem sjældent om at analysere og debattere de store dagsordner. Det ændrer sig nu, hvor parnasset får en ugentlig plads på P1. Her giver kunstnerne, teaterdirektørerne, museumsfolkene og digterne deres særlige kulturblik på verden. De er kort sagt kulturparnasset - og på skift er der tre på besøg hos vært Karen Secher.",
+    "program_url": "https://www.dr.dk/lyd/p1/parnasset-6058412957000",
+    "series_hash": "67462fda6565d571840dc880"
+  },
+  {
+    "name": "Det sidste måltid",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/det-sidste-maaltid",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:673327761869e162729c6a44.jpg",
+    "description": "I Det sidste måltid inviterer Lærke Kløvedal en gæst til det måltid, de ville vælge som deres sidste. Menuen er altid gæstens eget valg, ofte fyldt med retter, der vækker barndomsminder eller har en helt særlig betydning. Mens retterne serveres af kokken Luna, dykker Lærke og gæsten ned i livets store øjeblikke og små detaljer og forsøger at indkredse, hvad der skal udgøre gæstens eftermæle, og hvad der skal stå i deres nekrolog.\nProduceret for DR af Munck Studios København.",
+    "program_url": "https://www.dr.dk/lyd/special-radio/det-sidste-maaltid-5776436391000",
+    "series_hash": "672b6f2f546f2d7300367e08"
+  },
+  {
+    "name": "Dødsdømt",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/doedsdoemt",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:674994d3ad2d428de78a1d3b.jpg",
+    "description": "Djævlen i detaljen præsenterer: Dødsdømt. En julekalender til alle, der er klar til noget helt andet end julehygge. Mange ser Danmark som et fredeligt, lille land, hvor dødsstraf aldrig har været en del af historien. Men sandheden er en anden. Hver dag i december dykker vi ned i de mest grusomme historier om de mennesker, der blev ramt af den ultimative straf, og undersøger hvad de gjorde for at modtage en så grusom dom.",
+    "program_url": "https://www.dr.dk/lyd/special-radio/doedsdoemt-5392388547000",
+    "series_hash": "67449222aa7bc2beaefa6364"
+  },
+  {
+    "name": "Det her er Sebastian",
+    "url": "https://api.dr.dk/podcasts/v1/feeds/det-her-er-sebastian",
+    "image": "https://api.dr.dk/podcasts/v1/images/urn:dr:podcast:image:675ae5ba5523e0228535dd3e.jpg",
+    "description": "Kom tættere på musikeren Sebastian og mennesket Knud. Det er én og samme person - med to vidt forskellige udtryk. Igennem musikken fortæller Sebastian om sine værker, forestillinger og sin karriere. Lige fra sin spæde start hos rullekonen i Glostrup til de mange tusinder af mennesker, som han spiller for nu på de danske scener.\nIgennem vennerne får vi et indblik i kammeraten Knud med hans humor og nærvær - og sit evige omdrejningspunkt: musikken.\nTilrettelægger og vært: Carsten Holm.\nProduceret for DR af Munck Studios København.",
+    "program_url": "https://www.dr.dk/lyd/p5/det-her-er-sebastian-3583681383000",
+    "series_hash": "62914bb53f3b36d4c29aff68"
   }
 ]
