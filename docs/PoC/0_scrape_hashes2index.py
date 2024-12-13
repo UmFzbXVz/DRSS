@@ -4,10 +4,23 @@ import json
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
-def fetch_all_series_data():
+def load_existing_data(file_path):
+    """Indlæser eksisterende data fra JSON-filen."""
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as json_file:
+            return json.load(json_file)
+    return []
+
+def save_data(file_path, data):
+    """Gemmer data i JSON-filen."""
+    with open(file_path, 'w', encoding='utf-8') as json_file:
+        json.dump(data, json_file, indent=2, ensure_ascii=False)
+
+def fetch_all_series_data(existing_data):
     base_url = "https://api.dr.dk/radio/v3/search/series?q=*"
     headers = {'x-apikey': 'dinEgenAPInøgle'}
-    series_data = []
+    series_data = existing_data  # Start med eksisterende data
+    existing_hashes = {item['series_hash'] for item in existing_data if 'series_hash' in item}
     limit = 8  # API-grænse pr. side
     offset = 0  # Start offset
 
@@ -27,19 +40,27 @@ def fetch_all_series_data():
             program_url = item.get('presentationUrl')
             name = item.get('title')
             series_hash = fetch_series_hash(program_url)
-            
+
+            # Spring over, hvis serien allerede findes
+            if series_hash in existing_hashes:
+                print(f"Serie med hash {series_hash} findes allerede. Springer over..")
+                continue
+
             if podcast_url:
                 image_url = extract_image_from_rss(podcast_url)
-                
-                series_data.append({
+
+                new_series = {
                     "name": name,
                     "url": podcast_url,
                     "image": image_url,
                     "description": description,
                     "program_url": program_url,
                     "series_hash": series_hash
-                })
-        
+                }
+
+                series_data.append(new_series)
+                existing_hashes.add(series_hash)
+
         # Gå til næste side ved at øge offset
         offset += limit
 
@@ -87,13 +108,16 @@ def extract_image_from_rss(podcast_url):
         print(f"Fejl ved ekstraktion af billede fra RSS på {podcast_url}: {e}")
         return None
 
-# Hent alle seriedata og gem dem i en JSON-fil
-all_series_data = fetch_all_series_data()
+# Filsti til JSON-filen
 output_folder = "docs"
 os.makedirs(output_folder, exist_ok=True)
 output_file_path = os.path.join(output_folder, 'drlyd.json')
 
-with open(output_file_path, 'w', encoding='utf-8') as json_file:
-    json.dump(all_series_data, json_file, indent=2, ensure_ascii=False)
+# Indlæs eksisterende data
+existing_data = load_existing_data(output_file_path)
+
+# Hent alle seriedata og gem dem i JSON-filen
+all_series_data = fetch_all_series_data(existing_data)
+save_data(output_file_path, all_series_data)
 
 print(f"Alle seriedata er gemt i: {output_file_path}")
